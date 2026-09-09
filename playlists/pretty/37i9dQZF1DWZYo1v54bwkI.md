@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,865 likes - 178 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,159 likes - 178 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 48 | [Regimens](https://open.spotify.com/track/66fjqZtyckhhkZaRsBibgl) | [Solenotte](https://open.spotify.com/artist/2vOGSidPf3VvxFRpgXQILQ) | [Regimens](https://open.spotify.com/album/4BitA8pMsmBOTABu0RhUU2) | 2:46 |
 | 49 | [Breathtone](https://open.spotify.com/track/7zSSuppCT8nWKnXbklj896) | [Nimara](https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ) | [Breathtone](https://open.spotify.com/album/7GnfpQALrWpGHSfS7OQx7q) | 2:34 |
 | 50 | [Omega](https://open.spotify.com/track/4Z9Uq0gCLSLfSYEFpwPlY7) | [Isolune](https://open.spotify.com/artist/15fYVzGobquehibQ6g0r3L) | [Omega](https://open.spotify.com/album/55Yzg6gSmWSSAtFsTr28e2) | 2:08 |
-| 51 | [Filter](https://open.spotify.com/track/3wLZ2NgnLwB7l6ZZwXJPaj) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0) | [Filter](https://open.spotify.com/album/1HWM027MY9Wci4kGQSzZCq) | 2:15 |
+| 51 | [Filter](https://open.spotify.com/track/3wLZ2NgnLwB7l6ZZwXJPaj) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Rbili](https://open.spotify.com/artist/6hjZ7Lx0k79cXzMAHcIPRE) | [Filter](https://open.spotify.com/album/1HWM027MY9Wci4kGQSzZCq) | 2:15 |
 | 52 | [Flor](https://open.spotify.com/track/5tvZ0sRTMZfrI1smWB8IFr) | [valle cielo](https://open.spotify.com/artist/1ChmzMdQaPcPp8x1e2L1ur) | [Flor](https://open.spotify.com/album/2fjBUUqacvBRBRCQqMwGYn) | 2:04 |
 | 53 | [Frid](https://open.spotify.com/track/6CgkDd7PJVghkT2gDA3EJ5) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Frid](https://open.spotify.com/album/0bgm25oNFNBYOznSIykkvB) | 2:19 |
 | 54 | [Blooming Planet](https://open.spotify.com/track/2YWscIFSHjASXBUuijrEnk) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Blooming Planet](https://open.spotify.com/album/5bROtlloupvch8m6ZotSI1) | 2:32 |

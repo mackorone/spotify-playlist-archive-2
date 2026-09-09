@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122787,
+  "num_followers": 122778,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVukeal2thdjplQYr8vLO0hMlXjTvA",
+  "snapshot_id": "AAAVuzpSuDgaw3o+7YL58kpAFNLleOvb",
   "tracks": [
+    {
+      "added_at": "2026-09-08 16:02:52",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6erJLTgEFvdlnLocTQ5iBg"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
+    },
     {
       "added_at": "2026-09-04 19:59:43",
       "album": {

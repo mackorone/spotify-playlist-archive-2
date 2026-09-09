@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 199312,
       "name": "2 4",
       "url": "https://open.spotify.com/track/6r5o9yIc16ZvymXUKJQ1yy"
@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "CILU",
       "url": "https://open.spotify.com/track/2dQTfXmi5NldikBZPotZDs"
@@ -9082,7 +9082,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -10369,6 +10369,44 @@
     },
     {
       "album": {
+        "name": "TINH H\u00c0 \"SAY HI\", T\u1eacP 10",
+        "url": "https://open.spotify.com/album/0o7U63C5RiAqVNemoWW5o6"
+      },
+      "artists": [
+        {
+          "name": "TINH H\u00c0 \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh"
+        },
+        {
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "S\u01a1n.K",
+          "url": "https://open.spotify.com/artist/4APAeuMjgVjYGMWVDehJrc"
+        },
+        {
+          "name": "IVAN",
+          "url": "https://open.spotify.com/artist/0BaA7hESJdlOMitd8QM7jY"
+        },
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/62W8AjUxG5FSRXzA9rm7sy"
+        },
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253385,
+      "name": "GI\u1ea2I C\u1ee8U TH\u1ebe GI\u1edaI (feat. JSOL, S\u01a1n.K, IVAN, HYO & Softest Hard)",
+      "url": "https://open.spotify.com/track/73dH6RaEMaOICGPp7wwkP3"
+    },
+    {
+      "album": {
         "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
         "url": "https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3"
       },
@@ -11538,7 +11576,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 273939,
       "name": "HONGKONG1",
       "url": "https://open.spotify.com/track/6UFvSmKzCZ16fxsybf4PhE"
@@ -17830,7 +17868,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -19730,7 +19768,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -27660,7 +27698,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -28276,7 +28314,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -28980,6 +29018,44 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
+    },
+    {
+      "album": {
+        "name": "TINH H\u00c0 \"SAY HI\", T\u1eacP 10",
+        "url": "https://open.spotify.com/album/0o7U63C5RiAqVNemoWW5o6"
+      },
+      "artists": [
+        {
+          "name": "TINH H\u00c0 \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        },
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        },
+        {
+          "name": "KIMLONG",
+          "url": "https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf"
+        },
+        {
+          "name": "Xu\u00e2n \u0110\u1ecbnh K.Y",
+          "url": "https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf"
+        },
+        {
+          "name": "FrancisGotHeat",
+          "url": "https://open.spotify.com/artist/43xx9BioWvl8pstIMp0pAt"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302285,
+      "name": "V\u01af\u1ee2T NG\u01af\u1ee0NG T\u00ccNH Y\u00caU (feat. HURRYKNG, D\u01b0\u01a1ng Domic, KIMLONG, Xu\u00e2n \u0110\u1ecbnh K.Y & FrancisGotHeat)",
+      "url": "https://open.spotify.com/track/6ykJ7J55R2qQkiyWDAuj6S"
     },
     {
       "album": {

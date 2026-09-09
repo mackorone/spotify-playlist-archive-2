@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Madame in cover
 
-698 songs - 1 day 11 hr 48 min
+699 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Sorry Scusa Lo Siento](https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Sorry Scusa Lo Siento](https://open.spotify.com/album/6fsms67vLncXwehxDegR5I) | 3:20 | 2026-05-14 |  |
 | [SOTTO SOTTO](https://open.spotify.com/track/4Ae2GTlWYGzY7Xa4dvDDCy) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [SOTTO SOTTO](https://open.spotify.com/album/2LO0HmFLFdEakEAJMOa0hU) | 2:39 | 2026-05-07 | 2026-05-29 |
 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 | 2025-05-29 | 2025-06-27 |
+| [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-08 |  |
 | [SOTTOMARINI](https://open.spotify.com/track/51ttz3b0rd7a6UOASo36lv) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [SOTTOMARINI](https://open.spotify.com/album/28da0MtocHgOTrheQsmGe5) | 2:53 | 2025-02-20 | 2025-04-18 |
 | [Sottovoce](https://open.spotify.com/track/2DoflfeYOpvsFpmNK6dxEB) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Sottovoce](https://open.spotify.com/album/1rRflSMvQtIEy8Ij2TFmpa) | 3:17 | 2025-11-11 | 2025-11-28 |
 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 | 2025-03-20 | 2025-04-18 |

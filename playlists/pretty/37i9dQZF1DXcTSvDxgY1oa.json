@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Jim Gardner",
-  "num_followers": 2024,
+  "num_followers": 2025,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
+      },
+      "artists": [
+        {
+          "name": "Jada Faith",
+          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
+        },
+        {
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+        }
+      ],
+      "duration_ms": 163960,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Wele Wele",
         "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 143061,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
-      },
-      "artists": [
-        {
-          "name": "Jada Faith",
-          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
-        },
-        {
-          "name": "Mael",
-          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
-        }
-      ],
-      "duration_ms": 163960,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
-      },
-      "artists": [
-        {
-          "name": "De Zweefclub",
-          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Bad Mood",
         "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186400,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
+      },
+      "artists": [
+        {
+          "name": "De Zweefclub",
+          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "They Want To See You Fall",
+        "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
+      },
+      "artists": [
+        {
+          "name": "Eyesores",
+          "url": "https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks"
+        }
+      ],
+      "duration_ms": 142946,
+      "name": "Digital Prison",
+      "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Something to Lose",
         "url": "https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 546499,
       "name": "Acid to Fascists",
       "url": "https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "They Want To See You Fall",
-        "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
-      },
-      "artists": [
-        {
-          "name": "Eyesores",
-          "url": "https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks"
-        }
-      ],
-      "duration_ms": 142946,
-      "name": "Digital Prison",
-      "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Gingah",
-        "url": "https://open.spotify.com/album/3DnQQs5TlPMctrgqNs5oog"
-      },
-      "artists": [
-        {
-          "name": "Toobss",
-          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
-        },
-        {
-          "name": "Homa Homa",
-          "url": "https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B"
-        }
-      ],
-      "duration_ms": 136969,
-      "name": "Gingah",
-      "url": "https://open.spotify.com/track/5CiI5CS7yLfEq94B8rcTzo"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 190083,
       "name": "In My Arms - live",
       "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Gingah",
+        "url": "https://open.spotify.com/album/3DnQQs5TlPMctrgqNs5oog"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        },
+        {
+          "name": "Homa Homa",
+          "url": "https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B"
+        }
+      ],
+      "duration_ms": 136969,
+      "name": "Gingah",
+      "url": "https://open.spotify.com/track/5CiI5CS7yLfEq94B8rcTzo"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
-      },
-      "artists": [
-        {
-          "name": "Gilly",
-          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Crane",
         "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 164333,
       "name": "Crane",
       "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+      },
+      "artists": [
+        {
+          "name": "Gilly",
+          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
+      },
+      "artists": [
+        {
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
+        }
+      ],
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Make A Wish",
         "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
+        "name": "1",
+        "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
       },
       "artists": [
         {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
         }
       ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
+      "duration_ms": 165784,
+      "name": "Trepanationforthenationalhealth",
+      "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -975,18 +991,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
+        "name": "deadbeat (how long)",
+        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
       "artists": [
         {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+          "name": "crashing",
+          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
         }
       ],
-      "duration_ms": 165784,
-      "name": "Trepanationforthenationalhealth",
-      "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
+      "duration_ms": 240233,
+      "name": "deadbeat (how long)",
+      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1003,22 +1019,6 @@
       "duration_ms": 236750,
       "name": "see-through",
       "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "deadbeat (how long)",
-        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
-      },
-      "artists": [
-        {
-          "name": "crashing",
-          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "deadbeat (how long)",
-      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+      },
+      "artists": [
+        {
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+        }
+      ],
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "ireallylikeboys",
         "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 149163,
       "name": "ireallylikeboys",
       "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+        "name": "CAH",
+        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
       "artists": [
         {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+          "name": "CAH",
+          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
         }
       ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
+      "duration_ms": 228500,
+      "name": "Polder",
+      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1195,22 +1211,6 @@
       "duration_ms": 223974,
       "name": "BAD CHI - Single Version",
       "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "CAH",
-        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
-      },
-      "artists": [
-        {
-          "name": "CAH",
-          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Polder",
-      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "Still In The Race",
-        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
-      },
-      "artists": [
-        {
-          "name": "RubinCarter",
-          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
-        }
-      ],
-      "duration_ms": 163620,
-      "name": "April",
-      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
       },
@@ -1315,6 +1283,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169846,
       "name": "ME HART IS OP",
       "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Still In The Race",
+        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
+      },
+      "artists": [
+        {
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
+        }
+      ],
+      "duration_ms": 163620,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "fight 'n kill",
+        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
+      },
+      "artists": [
+        {
+          "name": "Brian Murphy",
+          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
+        }
+      ],
+      "duration_ms": 114674,
+      "name": "fight 'n kill",
+      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "On Top Of The World",
         "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 169626,
       "name": "A Summer's Dream",
       "url": "https://open.spotify.com/track/3UsTOwKmL76JThYYUSzE8O"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "fight 'n kill",
-        "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
-      },
-      "artists": [
-        {
-          "name": "Brian Murphy",
-          "url": "https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF"
-        }
-      ],
-      "duration_ms": 114674,
-      "name": "fight 'n kill",
-      "url": "https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh"
     },
     {
       "added_at": "2026-09-03 22:00:59",

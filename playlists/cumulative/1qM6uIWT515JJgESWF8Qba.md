@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-313 songs - 19 hr 32 min
+316 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Fire of Your Soul](https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fire of Your Soul](https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI) | 2:21 | 2026-04-27 | 2026-05-19 |
 | [FLOWERS](https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB) | [OUR GREAT ESCAPE](https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx) | [INFINITY WARS](https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y) | 5:44 | 2026-04-02 | 2026-05-19 |
 | [FMU Make Me Cry](https://open.spotify.com/track/5hsVJlvCBvfwtSdL7IS8A4) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 2:00 | 2025-11-04 | 2025-12-28 |
+| [For You To Know](https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [For You To Know](https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo) | 3:29 | 2026-09-08 |  |
 | [Forage For Porridge](https://open.spotify.com/track/04XrtXFB2uDOMhP12V5bZT) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [Last Woman Left At The Market](https://open.spotify.com/album/5QwDMazOp31hcNanUG7MCx) | 4:09 | 2026-06-26 | 2026-08-08 |
 | [Fragile Prism](https://open.spotify.com/track/4Kc2BR20xmeJpN2FQuClKp) | [Aurora Rising](https://open.spotify.com/artist/5ynYRfVl7ZsgRkFBhNOT9f) | [Fragile Prism](https://open.spotify.com/album/1kTkMQGBdJIakc60LY1PBK) | 3:23 | 2026-04-20 | 2026-05-19 |
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-06-01 | 2026-08-08 |
@@ -303,6 +304,7 @@
 | [Tutorial](https://open.spotify.com/track/47B3frEw513yOcHQszXEqi) | [Lapsus Planck](https://open.spotify.com/artist/4WOU1o49ftt4wBvNmDXvp0) | [VADO PERMANENTE](https://open.spotify.com/album/5dCYBocsu4n4TQ0UIUHqjP) | 2:58 | 2025-11-07 | 2025-12-28 |
 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 | 2026-07-02 | 2026-08-08 |
 | [Una nana](https://open.spotify.com/track/6HbrzgWazWzGxPkXtr11cC) | [Micky Stoner](https://open.spotify.com/artist/4UbGXsrlzP67mhetOXQQ3H) | [Una nana](https://open.spotify.com/album/6ykwbNyEYxjqLXt8C2bTgE) | 3:52 | 2025-11-26 | 2025-12-28 |
+| [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 | 2026-09-08 |  |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-04-15 | 2026-05-19 |
 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 | 2026-04-28 |  |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-06-22 | 2026-08-08 |
@@ -318,6 +320,7 @@
 | [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 | 2026-08-03 |  |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-12-15 | 2026-01-21 |
 | [Yo soy un privilegio](https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV) | [NaDesh](https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ) | [Yo soy un privilegio](https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu) | 2:45 | 2026-03-14 |  |
+| [You Dont' See but I'm Here](https://open.spotify.com/track/33rAoJ9rujAdlWwBnWfuW4) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [You Dont' See but I'm Here](https://open.spotify.com/album/0PYFuehLCYVCUi0rGG8bQZ) | 5:40 | 2026-09-08 |  |
 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 | 2026-04-06 | 2026-05-19 |
 | [Your Revolution](https://open.spotify.com/track/1WSbOpf77PWVKHqiPhTdmI) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Your Revolution](https://open.spotify.com/album/27Q2F1616jpd9nAUjqlnVw) | 3:46 | 2025-12-20 | 2026-01-21 |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-02 | 2025-11-21 |

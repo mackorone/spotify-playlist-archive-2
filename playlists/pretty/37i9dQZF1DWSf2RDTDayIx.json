@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2493197,
+  "num_followers": 2493276,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -1495,6 +1499,38 @@
       "duration_ms": 217265,
       "name": "Billie (loving arms)",
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "Wahejo",
+        "url": "https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Wahejo",
+      "url": "https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "THINK ABOUT US",
+        "url": "https://open.spotify.com/album/4C7sSQwVfuiUZSjChZsHX2"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "THINK ABOUT US",
+      "url": "https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -1519,42 +1555,6 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "Wahejo",
-        "url": "https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Wahejo",
-      "url": "https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/6WuivseYo5zD3KcEiaQ39T"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 155210,
       "name": "Confession",
       "url": "https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -1595,22 +1611,6 @@
       "duration_ms": 163666,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
-        "name": "THINK ABOUT US",
-        "url": "https://open.spotify.com/album/4C7sSQwVfuiUZSjChZsHX2"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "THINK ABOUT US",
-      "url": "https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2643,22 +2643,26 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         },
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
         }
       ],
-      "duration_ms": 225234,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
+      "duration_ms": 137250,
+      "name": "Talk About Us",
+      "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2687,26 +2691,22 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "Talk About Us",
-        "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
       },
       "artists": [
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         },
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
         }
       ],
-      "duration_ms": 137250,
-      "name": "Talk About Us",
-      "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
+      "duration_ms": 225234,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2823,26 +2823,22 @@
     {
       "added_at": "2026-09-04 04:00:59",
       "album": {
-        "name": "So True",
-        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
       },
       "artists": [
         {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
         },
         {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        },
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
         }
       ],
-      "duration_ms": 163064,
-      "name": "So True",
-      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2863,6 +2859,30 @@
       "duration_ms": 221683,
       "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
       "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "So True",
+        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+        }
+      ],
+      "duration_ms": 163064,
+      "name": "So True",
+      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2899,26 +2919,6 @@
       "duration_ms": 150465,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Cavi",
-          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -2963,6 +2963,30 @@
       "duration_ms": 148432,
       "name": "What A Time To Be Alive",
       "url": "https://open.spotify.com/track/0xRzOWHlnroH3bdziKbj64"
+    },
+    {
+      "added_at": "2026-09-04 04:00:59",
+      "album": {
+        "name": "food 4 thought",
+        "url": "https://open.spotify.com/album/1UyGFAy9dzqupFmIHRcPP1"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 158563,
+      "name": "food 4 thought",
+      "url": "https://open.spotify.com/track/6RKp3bBhPjWXnDOgXWypSQ"
     },
     {
       "added_at": "2026-09-04 04:00:59",
@@ -3043,30 +3067,6 @@
       "duration_ms": 173731,
       "name": "SO TRU",
       "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
-    },
-    {
-      "added_at": "2026-09-04 04:00:59",
-      "album": {
-        "name": "food 4 thought",
-        "url": "https://open.spotify.com/album/1UyGFAy9dzqupFmIHRcPP1"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        }
-      ],
-      "duration_ms": 158563,
-      "name": "food 4 thought",
-      "url": "https://open.spotify.com/track/6RKp3bBhPjWXnDOgXWypSQ"
     }
   ],
   "unique_name": "Happy Beats",

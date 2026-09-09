@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Countrybeat, Mari Fernandez
 
-422 songs - 19 hr 47 min
+423 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Poder de Mentir \- Ao Vivo](https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Poder de Mentir \(Ao Vivo\)](https://open.spotify.com/album/3MAVXfXLm0xCp3crn02FnY) | 2:47 | 2024-07-12 | 2025-06-21 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/4U8jlVWLJ4DZ2MpvV81hIb) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk) | 2:42 | 2024-02-09 | 2024-04-19 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 | 2024-09-20 |
+| [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ponto Fraco \(Ao Vivo\)](https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L) | 2:05 | 2026-09-08 |  |
 | [Ponto G](https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Ponto G](https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R) | 2:43 | 2026-05-13 | 2026-07-09 |
 | [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 | 2026-08-28 |  |
 | [Pra Sempre](https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão 3 \- Vol\. 2](https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy) | 3:26 | 2025-02-26 | 2025-05-03 |

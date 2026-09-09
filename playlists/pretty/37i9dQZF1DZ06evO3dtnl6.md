@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,936 likes - 38 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,991 likes - 38 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 | 27 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
 | 28 | [Honey, It's Alright](https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:11 |
 | 29 | [Miles to Go](https://open.spotify.com/track/3S3EJYLXPjao3vviYt3QVC) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 3:03 |
-| 30 | [Liars](https://open.spotify.com/track/6rnkuqqkFBFTABuUQLvW8y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 5:16 |
-| 31 | [I Am California](https://open.spotify.com/track/2SIzF2EzT2sF1AyDV4Txvf) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 5:13 |
+| 30 | [I Am California](https://open.spotify.com/track/2SIzF2EzT2sF1AyDV4Txvf) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 5:13 |
+| 31 | [Liars](https://open.spotify.com/track/6rnkuqqkFBFTABuUQLvW8y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 5:16 |
 | 32 | [3 a.m.](https://open.spotify.com/track/2gH3RiUmUeR780Ngwx5T6r) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:46 |
 | 33 | [Berth](https://open.spotify.com/track/27XsVATDN0V8wM1bjRpGNn) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 4:53 |
-| 34 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 |
-| 35 | [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 |
+| 34 | [Highway Blood](https://open.spotify.com/track/7vTNOsVw99CjBeniyjJzqC) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D) | 4:26 |
+| 35 | [Unwritable Girl](https://open.spotify.com/track/3noTQVfSAGjbC2cS5efZoe) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Gregory Alan Isakov with the Colorado Symphony](https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W) | 2:59 |
 | 36 | [That Sea, The Gambler](https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 4:53 |
 | 37 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 |
 | 38 | [Black & Blue](https://open.spotify.com/track/76r1FmtRgDKkiZ6Uru459R) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 3:48 |
 
-Snapshot ID: `apytAAAAAACZ5oFevPJzFb9vZskiU8f8`
+Snapshot ID: `ap3+gAAAAAB5TW5K/4oF/Bwil9WuXlEI`

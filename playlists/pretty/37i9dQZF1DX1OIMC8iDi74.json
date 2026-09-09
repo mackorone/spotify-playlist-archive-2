@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
-  "num_followers": 873685,
+  "num_followers": 873622,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "wakeup(crazy)",
-        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Angst",
-          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
-        }
-      ],
-      "duration_ms": 195517,
-      "name": "wakeup(crazy)",
-      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
         "name": "Monomyth",
         "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 185142,
       "name": "Ghoul",
       "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
+        "name": "wakeup(crazy)",
+        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Angst",
+          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
+        }
+      ],
+      "duration_ms": 195517,
+      "name": "wakeup(crazy)",
+      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
     },
     {
       "added_at": "2026-09-04 04:02:03",

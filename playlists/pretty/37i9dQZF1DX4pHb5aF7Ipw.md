@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Wazir Patar, Diljit Dosanjh,  Simiran Kaur Dhadli and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,370 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,384 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 44 | [JALWA](https://open.spotify.com/track/1qUg1cL2JsIJUsYYk05vCr) | [Savage](https://open.spotify.com/artist/5sQaJs2VoBxaLeaWQXlYr5), [RAGE](https://open.spotify.com/artist/0EXzQUECESQTeYsvFl3z1C), [Raw](https://open.spotify.com/artist/0NR08riH8j4lmCGXOmeEml) | [Savagestate](https://open.spotify.com/album/1vEnC3ssIax4MG5X0u1Y6p) | 2:50 |
 | 45 | [Upgrade](https://open.spotify.com/track/4m74XS4RJUZ8rSCBfB1SIY) | [Big Scene](https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo) | [Upgrade](https://open.spotify.com/album/3zpHko1SN7jnOoCk4GidIN) | 2:39 |
 | 46 | [BADMAN](https://open.spotify.com/track/6UEJUIRr3GYoKEv9CplnKF) | [Defy Brar](https://open.spotify.com/artist/23L8BDiXPyuym4oX20luv5), [Juice Dre](https://open.spotify.com/artist/3vWJMUhCfSym4uJuyr7Hk1) | [BADMAN](https://open.spotify.com/album/0H205IycGE8ts78HY1gljc) | 2:37 |
-| 47 | [Shades](https://open.spotify.com/track/4lhLhlSFFhE6EOMhHhlcZK) | [Vishav Dhaliwal](https://open.spotify.com/artist/3x5Xo4hWuDUfawF6qsp0rE), [DEEWANA](https://open.spotify.com/artist/5PVeqpOPWiM1Alypt2v10S), [RCKLSS](https://open.spotify.com/artist/3N0B8sJkOLExj4rxOGZydR) | [Shades](https://open.spotify.com/album/0H5GkUm2ejMxot5RjzRWc9) | 3:03 |
+| 47 | [Shades](https://open.spotify.com/track/4lhLhlSFFhE6EOMhHhlcZK) | [Vishav Dhaliwal](https://open.spotify.com/artist/3x5Xo4hWuDUfawF6qsp0rE), [RCKLSS](https://open.spotify.com/artist/3N0B8sJkOLExj4rxOGZydR), [CHAHAL](https://open.spotify.com/artist/1I1Z2HBZq2S9leGfOiv0CG) | [Shades](https://open.spotify.com/album/0H5GkUm2ejMxot5RjzRWc9) | 3:03 |
 | 48 | [IMPALA](https://open.spotify.com/track/4IX7r3syg7ha9qdRdZkZZq) | [Gurkaran](https://open.spotify.com/artist/1bB9oeDvOI0f9LaItw0HHi), [Simr](https://open.spotify.com/artist/4FwWxQ8wJODeIGr9sydGy8) | [EP\-OCH](https://open.spotify.com/album/54i3TWRAhuWtQHr3ziWS6v) | 2:58 |
 | 49 | [Limence](https://open.spotify.com/track/2QyEBDy8jVmD3gvAwfPpsW) | [GTrax](https://open.spotify.com/artist/4TTvhD8krNUGdQ5Q2ACFSI), [Healer](https://open.spotify.com/artist/1I8qJVKXK4Y7MYwaTFvEnP) | [Limence](https://open.spotify.com/album/0BbdIWkL4LkhxVGabvIulP) | 2:27 |
 | 50 | [Kaali Jarsiyan](https://open.spotify.com/track/70bw1f1hTJI6XT3HT69rOJ) | [Nihaash](https://open.spotify.com/artist/3Ojc6eoVezxVtmm5lP6eKa), [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Jaggi Jagowal](https://open.spotify.com/artist/3t8xDVn95kr8GZ7pSkuNnA) | [Kaali Jarsiyan](https://open.spotify.com/album/2BhVdepISKoJaNeOzfMWVL) | 2:23 |

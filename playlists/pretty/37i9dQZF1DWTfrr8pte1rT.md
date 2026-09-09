@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a drop\. Cover: HVDES \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,251 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,296 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 66 | [Miss It \(At All\)](https://open.spotify.com/track/2nzuxOVjKggQgQG23AlwBu) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Miss It \(At All\)](https://open.spotify.com/album/1PpIp6eVoghdTRyTD20gdu) | 2:07 |
 | 67 | [Napalm](https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Napalm](https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc) | 3:24 |
 | 68 | [Reasons](https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reasons](https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v) | 4:00 |
-| 69 | [Badland Bandits](https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Badland Bandits](https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh) | 4:21 |
-| 70 | [AFTER MIDNIGHT](https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [AFTER MIDNIGHT](https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo) | 2:01 |
+| 69 | [AFTER MIDNIGHT](https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [AFTER MIDNIGHT](https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo) | 2:01 |
+| 70 | [Badland Bandits](https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Badland Bandits](https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh) | 4:21 |
 | 71 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
 | 72 | [Rescue Me](https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Rescue Me](https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO) | 3:57 |
 | 73 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 117 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
 | 118 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
 | 119 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 120 | [No Tomorrow](https://open.spotify.com/track/7g3cLta2W7pmhPpgUAuKm3) | [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [New Levels New Devils](https://open.spotify.com/album/2vjlI71jNRspIA9bH6R9IO) | 3:56 |
-| 121 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
+| 120 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
+| 121 | [No Tomorrow](https://open.spotify.com/track/7g3cLta2W7pmhPpgUAuKm3) | [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [New Levels New Devils](https://open.spotify.com/album/2vjlI71jNRspIA9bH6R9IO) | 3:56 |
 | 122 | [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 |
 | 123 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
 | 124 | [Going Down](https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Going Down](https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb) | 2:58 |
-| 125 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 |
+| 125 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
 
 Snapshot ID: `AAAAAF5NBjxko35RqH1jYhQIpja0pbvh`

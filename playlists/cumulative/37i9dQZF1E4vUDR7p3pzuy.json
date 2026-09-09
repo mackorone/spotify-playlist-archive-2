@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 216850,
       "name": "CHORD",
       "url": "https://open.spotify.com/track/0afa2gFadHeZW5pQkvz5ks"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 230475,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/2eAarNEvaN2AeEpYE6rcwX"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 221760,
       "name": "CONJURE",
       "url": "https://open.spotify.com/track/4q8fm60IMS9bD3wkrk0FQk"
@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6149,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "Our Love Will Live Forever",
+        "url": "https://open.spotify.com/album/216BKfKyVwhgWUEmV2tnha"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Exploded View",
+      "url": "https://open.spotify.com/track/7aebRmIk3zGEWHMedeOAOz"
+    },
+    {
+      "album": {
         "name": "Speaking to the Body",
         "url": "https://open.spotify.com/album/2rMxX3gUoy5cmzgJufZY7i"
       },
@@ -6218,6 +6236,24 @@
       "duration_ms": 176479,
       "name": "F-22 : Don't Challenge the Raptor",
       "url": "https://open.spotify.com/track/0WAbiAYvnEsO3KmNFCkRMZ"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/7uDuYznvG0OsBauh2UC1gI"
+      },
+      "artists": [
+        {
+          "name": "Meldamor",
+          "url": "https://open.spotify.com/artist/20XdcZT7DIATLCVOpQpT4A"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203950,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/3ky74gHOqZVUvqDx14ekeY"
     },
     {
       "album": {
@@ -7255,6 +7291,24 @@
     },
     {
       "album": {
+        "name": "DEAD LINES",
+        "url": "https://open.spotify.com/album/76VqWnqpki7EKfcCV3Q6KM"
+      },
+      "artists": [
+        {
+          "name": "Bestial Mouths",
+          "url": "https://open.spotify.com/artist/0vHo9GceFuSSJjSbF49Uzt"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "GARRAS",
+      "url": "https://open.spotify.com/track/7qWDVBP7lKD2bsU5TgSbRn"
+    },
+    {
+      "album": {
         "name": "Gatekeep",
         "url": "https://open.spotify.com/album/13emblyLxOaPAp2i8pe6UA"
       },
@@ -7964,7 +8018,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -8286,6 +8340,24 @@
       "duration_ms": 272359,
       "name": "Hingi \"Beauty\" (Part II)",
       "url": "https://open.spotify.com/track/0SoaBgTod3yMZLzI8sGCJ0"
+    },
+    {
+      "album": {
+        "name": "DEAD LINES",
+        "url": "https://open.spotify.com/album/76VqWnqpki7EKfcCV3Q6KM"
+      },
+      "artists": [
+        {
+          "name": "Bestial Mouths",
+          "url": "https://open.spotify.com/artist/0vHo9GceFuSSJjSbF49Uzt"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257952,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/12ZpVGHTxzavvVz96gTtrI"
     },
     {
       "album": {
@@ -9274,7 +9346,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 253866,
       "name": "In Longing - Satyrian Remix",
       "url": "https://open.spotify.com/track/3VygOo4u2UZK19ejxV4N6S"
@@ -9454,7 +9526,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "Innocent Smile - Radio Edit",
       "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
@@ -10200,7 +10272,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -10352,7 +10424,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/26mnIZ04a0hV0nVTY9kZ2S"
@@ -10998,7 +11070,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -11286,7 +11358,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 268000,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4N1CgNN64cCVeQ9To3THcB"
@@ -13146,7 +13218,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 267546,
       "name": "Nuda Veritas - Re-Recording from 2007",
       "url": "https://open.spotify.com/track/0Z4629KIriqTE0KkUQfYJg"
@@ -13312,7 +13384,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -15752,7 +15824,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -15792,10 +15864,28 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 240000,
       "name": "SHOULDER",
       "url": "https://open.spotify.com/track/0R50EFhaZ1IkQdkbhvuofA"
+    },
+    {
+      "album": {
+        "name": "DEAD LINES",
+        "url": "https://open.spotify.com/album/76VqWnqpki7EKfcCV3Q6KM"
+      },
+      "artists": [
+        {
+          "name": "Bestial Mouths",
+          "url": "https://open.spotify.com/artist/0vHo9GceFuSSJjSbF49Uzt"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "SHUTTERED",
+      "url": "https://open.spotify.com/track/6istuAhWobo2bJd25cuxJD"
     },
     {
       "album": {
@@ -15886,6 +15976,24 @@
       "duration_ms": 173571,
       "name": "Silk Noose",
       "url": "https://open.spotify.com/track/7H2SDlp9dNLV2Qep7grYaV"
+    },
+    {
+      "album": {
+        "name": "DEAD LINES",
+        "url": "https://open.spotify.com/album/76VqWnqpki7EKfcCV3Q6KM"
+      },
+      "artists": [
+        {
+          "name": "Bestial Mouths",
+          "url": "https://open.spotify.com/artist/0vHo9GceFuSSJjSbF49Uzt"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "SILLK",
+      "url": "https://open.spotify.com/track/7BYekiEvoOvzVF8BGMgKGV"
     },
     {
       "album": {
@@ -16012,7 +16120,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 173500,
       "name": "Slain",
       "url": "https://open.spotify.com/track/6KPCzPVCrKqWMFAxPXUtSF"
@@ -18299,6 +18407,24 @@
     },
     {
       "album": {
+        "name": "The Illness",
+        "url": "https://open.spotify.com/album/2EsiNnwLIv7IeE1orc0raC"
+      },
+      "artists": [
+        {
+          "name": "Medicine Beard",
+          "url": "https://open.spotify.com/artist/5N241nOKWee57HvlLjkfOw"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328625,
+      "name": "The Illness",
+      "url": "https://open.spotify.com/track/2LFMaAVjB44YC2I8mxzv53"
+    },
+    {
+      "album": {
         "name": "The Infinite Sadness",
         "url": "https://open.spotify.com/album/523f7cbyl1jNRDJ0AMwoTd"
       },
@@ -19984,7 +20110,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -21029,6 +21155,24 @@
     },
     {
       "album": {
+        "name": "Generating Station Complex",
+        "url": "https://open.spotify.com/album/070SquMp0lfMW3yicWxLhm"
+      },
+      "artists": [
+        {
+          "name": "The Cassandra Complex",
+          "url": "https://open.spotify.com/artist/3NhBwiq1BSgJg7HMJPlwVT"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208025,
+      "name": "What Can I Do For You - GSCX Version",
+      "url": "https://open.spotify.com/track/2vSy9KIDIrA8CECsUczbF8"
+    },
+    {
+      "album": {
         "name": "What Hope",
         "url": "https://open.spotify.com/album/6VLwda215aUWJPS8AW6Gqx"
       },
@@ -21348,7 +21492,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -21950,7 +22094,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

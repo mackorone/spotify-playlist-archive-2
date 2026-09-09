@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 510883,
+  "num_followers": 510948,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
+        "name": "You've Got a Friend",
+        "url": "https://open.spotify.com/album/428PXrg2qhVrzEo2FGMlPT"
+      },
+      "artists": [
+        {
+          "name": "The Cloverhearts",
+          "url": "https://open.spotify.com/artist/5zhpfAeN7k5tXfxSVbZu7l"
+        }
+      ],
+      "duration_ms": 223583,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
         "name": "Drunk and Fucked Up",
         "url": "https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i"
       },
@@ -667,34 +683,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "You've Got a Friend",
-        "url": "https://open.spotify.com/album/428PXrg2qhVrzEo2FGMlPT"
+        "name": "Raise 'em All",
+        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
       },
       "artists": [
         {
-          "name": "The Cloverhearts",
-          "url": "https://open.spotify.com/artist/5zhpfAeN7k5tXfxSVbZu7l"
+          "name": "Irish Moutarde",
+          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
         }
       ],
-      "duration_ms": 223583,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
-        "name": "Hung, Drawn & Portered",
-        "url": "https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        }
-      ],
-      "duration_ms": 117880,
-      "name": "I'll Tell Me Ma!",
-      "url": "https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq"
+      "duration_ms": 157875,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
     },
     {
       "added_at": "2024-02-06 19:54:12",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
     },
     {
-      "added_at": "2022-03-18 14:59:31",
+      "added_at": "2024-02-06 19:54:12",
       "album": {
-        "name": "Raise 'em All",
-        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
+        "name": "Hung, Drawn & Portered",
+        "url": "https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v"
       },
       "artists": [
         {
-          "name": "Irish Moutarde",
-          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
         }
       ],
-      "duration_ms": 157875,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
+      "duration_ms": 117880,
+      "name": "I'll Tell Me Ma!",
+      "url": "https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq"
     },
     {
       "added_at": "2022-03-18 14:59:31",

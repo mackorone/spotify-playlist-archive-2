@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 120773,
       "name": "Art Star",
       "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
@@ -878,6 +878,24 @@
       "duration_ms": 115880,
       "name": "Mars",
       "url": "https://open.spotify.com/track/247Id2zeNIXiAVpG0wVZTt"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "Mars - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0IS7SlSdmIIbfm7w9Wk8Ir"
     },
     {
       "album": {

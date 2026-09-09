@@ -1,6 +1,6 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 37021,
+  "num_followers": 37018,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Bangarang (feat. Sirah)",
+      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
         "name": "Peace Is The Mission : Extended",
         "url": "https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
-        "name": "Bangarang EP",
-        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Sirah",
-          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Bangarang (feat. Sirah)",
-      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
     },
     {
       "added_at": "2026-05-12 09:00:32",

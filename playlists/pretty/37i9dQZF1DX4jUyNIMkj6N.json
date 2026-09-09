@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 224609,
+  "num_followers": 224633,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "member",
-        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "member",
-      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
-    },
-    {
-      "added_at": "2026-09-03 22:01:42",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "The Arms Of You",
-        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+        "name": "member",
+        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 170302,
-      "name": "The Arms Of You",
-      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
+      "duration_ms": 187800,
+      "name": "member",
+      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -695,6 +679,22 @@
       "duration_ms": 247975,
       "name": "Raven",
       "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
+    },
+    {
+      "added_at": "2026-09-03 22:01:42",
+      "album": {
+        "name": "The Arms Of You",
+        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 170302,
+      "name": "The Arms Of You",
+      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -747,18 +747,22 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+        "name": "Cult to A Saint",
+        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        },
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 243520,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
+      "duration_ms": 218400,
+      "name": "Cult to A Saint",
+      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -811,22 +815,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Cult to A Saint",
-        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        },
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Cult to A Saint",
-      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
+      "duration_ms": 243520,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
     },
     {
       "added_at": "2026-09-03 22:01:42",

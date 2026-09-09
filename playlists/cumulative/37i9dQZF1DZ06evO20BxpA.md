@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-181 songs - 8 hr 14 min
+182 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 | 2026-09-03 |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 | 2025-11-30 |
 | [Ghost in the Frame](https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8) | [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ghost in the Frame](https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww) | 3:20 | 2026-07-11 | 2026-07-16 |
+| [Ghostly White](https://open.spotify.com/track/10ia2iIee43Qq4lKKj8aDd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:52 | 2026-09-09 |  |
 | [Glitching](https://open.spotify.com/track/7aFIki4tvfvdAO0Z3YaU3W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:42 | 2025-10-03 | 2025-10-29 |
 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 | 2023-08-04 |  |
 | [Great Rolling Waves \- From "Our Planet"](https://open.spotify.com/track/4wy0e7gAn5lAlRu7PXoLqn) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 6:36 | 2025-12-01 |  |
@@ -176,7 +177,7 @@
 | [We Took To The Skies](https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 4:49 | 2023-08-04 |  |
 | [Webbing](https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 2:56 | 2025-10-04 | 2025-11-16 |
 | [When I Closed My Eyes](https://open.spotify.com/track/4UfZpkSy0UIYKpe0ogsgb7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Swimmers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk) | 4:20 | 2023-08-04 | 2023-08-14 |
-| [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 | 2023-08-04 |  |
+| [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 | 2023-08-04 | 2026-09-09 |
 | [Who Pursues You?](https://open.spotify.com/track/1hdR8ObPjfEp4wxn9yKHD5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 3:08 | 2025-02-19 | 2025-02-27 |
 | [With Or Without Us](https://open.spotify.com/track/6GR1FpZStbjtRdVUPDqCL5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:11 | 2023-12-13 | 2026-08-20 |
 | [Wolfblood](https://open.spotify.com/track/4MMNVs1Xg1pQ9mdDBNNV4V) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 2:41 | 2025-01-31 | 2025-03-04 |

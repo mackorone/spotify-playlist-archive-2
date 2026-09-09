@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Back To Life (feat. bonniemxsy)",
+        "url": "https://open.spotify.com/album/2KUr39kOedUqka6Mbdkk98"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        },
+        {
+          "name": "bonniemxsy",
+          "url": "https://open.spotify.com/artist/0YZ3J42F6O5VZ3ASNgovLL"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Back To Life (feat. bonniemxsy)",
+      "url": "https://open.spotify.com/track/22VmvwPxoIJgHVqMCqGlQm"
+    },
+    {
+      "album": {
         "name": "Bass Care",
         "url": "https://open.spotify.com/album/7KEYcmsUwliPlLydKErg1Q"
       },
@@ -3590,6 +3612,28 @@
       "duration_ms": 487680,
       "name": "In The Shadows",
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
+    },
+    {
+      "album": {
+        "name": "In This World (Boris Brejcha Remix)",
+        "url": "https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "In This World - Boris Brejcha Remix",
+      "url": "https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl"
     },
     {
       "album": {
@@ -6862,6 +6906,28 @@
       "duration_ms": 275015,
       "name": "Sunny Side Up",
       "url": "https://open.spotify.com/track/2qyaih2MblDc9EfMu6fdZ6"
+    },
+    {
+      "album": {
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/2TMjHQFP6BnMQ5lNrYUMZ1"
+      },
+      "artists": [
+        {
+          "name": "A.M.R (DE)",
+          "url": "https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD"
+        },
+        {
+          "name": "mcfly",
+          "url": "https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272911,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/1VfAosmAK1aL4zc23iigBq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fred De Palma in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,683 songs - 7 day 21 hr 54 min
+3,684 songs - 7 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2986,6 +2986,7 @@
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-29 | 2024-09-20 |
 | [Sotto la pelle](https://open.spotify.com/track/7f0cI43BGlj9fOWEl6zZgG) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [Sotto la pelle](https://open.spotify.com/album/03EYIOoPBkfNPCUl5qOt6A) | 2:54 | 2025-04-03 | 2025-04-25 |
 | [SOTTO SOTTO](https://open.spotify.com/track/4Ae2GTlWYGzY7Xa4dvDDCy) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [SOTTO SOTTO](https://open.spotify.com/album/2LO0HmFLFdEakEAJMOa0hU) | 2:39 | 2026-05-07 | 2026-05-29 |
+| [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-08 |  |
 | [SOTTOMARINI](https://open.spotify.com/track/51ttz3b0rd7a6UOASo36lv) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [SOTTOMARINI](https://open.spotify.com/album/28da0MtocHgOTrheQsmGe5) | 2:53 | 2025-02-20 | 2025-03-21 |
 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 | 2024-10-03 | 2024-10-25 |
 | [Sottovoce](https://open.spotify.com/track/2DoflfeYOpvsFpmNK6dxEB) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Sottovoce](https://open.spotify.com/album/1rRflSMvQtIEy8Ij2TFmpa) | 3:17 | 2025-11-11 | 2025-12-05 |

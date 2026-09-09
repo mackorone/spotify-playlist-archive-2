@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,270 likes - 519 songs - 1 day 1 hr 16 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,271 likes - 527 songs - 1 day 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -527,5 +527,13 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 517 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 |
 | 518 | [THE ANTIHUMAN](https://open.spotify.com/track/2PLUQi0nRbx5lT2ncSJYYG) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [THE ANTIHUMAN](https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq) | 3:50 |
 | 519 | [THE ANTIHUMAN \- Instrumental](https://open.spotify.com/track/2RYTnXmYAtGCKOCqUdtJul) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [THE ANTIHUMAN](https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq) | 3:50 |
+| 520 | [FIND ME WHEN I'M DEAD](https://open.spotify.com/track/6M5UQNqI4dMRpjQ0CJAXjU) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [FIND ME WHEN I'M DEAD](https://open.spotify.com/album/1QXRJeiTywh2Gvgj9tTptv) | 3:08 |
+| 521 | [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 |
+| 522 | [THE RINGMASTER](https://open.spotify.com/track/6j3GHqe8aOdXk2HjQ8BdOL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [THE RINGMASTER](https://open.spotify.com/album/0GEWu5SM7yfdnUjqwA3Tu1) | 3:44 |
+| 523 | [Crimson Galaxies](https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Crimson Galaxies](https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c) | 3:22 |
+| 524 | [LAB RAT](https://open.spotify.com/track/1VPKIE7LdxUOThCT1KohDQ) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [LAB RAT](https://open.spotify.com/album/5ahV8ZZS4MbZQ5JENXs6pU) | 3:04 |
+| 525 | [HEAT](https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HEAT](https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v) | 4:00 |
+| 526 | [Forgotten](https://open.spotify.com/track/2r5HfRXMJ2l75Z9ZObSERc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Forgotten](https://open.spotify.com/album/2EKpATGHvFcDH4BVOc4tLz) | 2:46 |
+| 527 | [Luminescence](https://open.spotify.com/track/2jCB04KfiEgG2PjFF56hwo) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/6Azh0ISCBfxivr4685Q28P) | 4:25 |
 
-Snapshot ID: `AAAB8CHLT5HckY4Xh3PNwhlOADkS1fiE`
+Snapshot ID: `AAAB+IgKNLOZngX4onEGJaYvCcY36EDh`

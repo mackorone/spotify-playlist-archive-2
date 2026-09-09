@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,297 songs - 2 day 23 hr 53 min
+1,298 songs - 2 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Gotta Let Go](https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Adriano](https://open.spotify.com/artist/16rL3ixuAl02NLL6uTCt54) | [Gotta Let Go](https://open.spotify.com/album/0JA4OsVQ4nNNmN4gCzLW09) | 2:51 | 2023-03-23 | 2023-06-16 |
 | [Gravitation](https://open.spotify.com/track/596eZCTayPzpFxydrFRWvH) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Gravitation](https://open.spotify.com/album/4h9oOOppG73HKl0d9WX6hM) | 3:01 | 2024-06-24 | 2024-09-17 |
 | [Gravity](https://open.spotify.com/track/22rStFQ2WXKmD1HkVFJ4hJ) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Gravity](https://open.spotify.com/album/05yrtaurZxzZdTcfA4dvK0) | 4:08 | 2024-11-11 | 2025-02-21 |
+| [Gravity](https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU), [Nersha](https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN) | [Gravity](https://open.spotify.com/album/6erJLTgEFvdlnLocTQ5iBg) | 3:24 | 2026-09-08 |  |
 | [Grimoire](https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Grimoire](https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0) | 3:51 | 2022-07-04 | 2022-09-17 |
 | [Grit](https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Grit](https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU) | 4:43 | 2022-06-06 | 2022-08-16 |
 | [Groovemasta](https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Groovemasta / Beat It Up](https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J) | 4:12 | 2023-08-16 | 2023-12-14 |

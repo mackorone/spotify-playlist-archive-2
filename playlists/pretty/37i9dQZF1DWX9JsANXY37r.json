@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123646,
+  "num_followers": 123649,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "What You Need (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "What You Need (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "Catch n' Release",
-        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Red Wine Holiday",
-      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
+        "name": "Late Night Boogie",
+        "url": "https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA"
       },
       "artists": [
         {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+          "name": "Hot Toddy",
+          "url": "https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Hurry Hurry",
-      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
+      "duration_ms": 393666,
+      "name": "Down to Love",
+      "url": "https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

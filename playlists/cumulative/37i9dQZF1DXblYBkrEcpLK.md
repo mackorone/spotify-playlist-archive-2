@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-894 songs - 2 day 10 hr 38 min
+895 songs - 2 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [「ハートキャッチプリキュア!」主題歌 OP:Alright!ハートキャッチプリキュア!/ED:ハートキャッチ☆パラダイス!](https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf) | 3:46 | 2023-02-09 | 2023-03-08 |
 | [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [ハートキャッチプリキュア! ボーカルアルバム1 \~大地と海と陽と月と\~](https://open.spotify.com/album/4qQOOk8NVhM0WgyPuv7f5x) | 3:46 | 2023-02-07 | 2023-02-10 |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-06-09 |
+| [Amore](https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Amore](https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F) | 4:35 | 2026-09-08 |  |
 | [anemone](https://open.spotify.com/track/2uVy8hdTxgEyzY0dJQ1Kf7) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Nebula](https://open.spotify.com/album/4LQVlXzxqW7leT6P0jYLnS) | 4:40 | 2022-06-21 | 2022-06-25 |
 | [ANIMA](https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:27 | 2022-06-24 | 2022-07-01 |
 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 | 2022-07-28 | 2024-02-14 |
@@ -180,7 +181,7 @@
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 | 2023-10-18 |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 | 2024-01-19 |
 | [her](https://open.spotify.com/track/75ANZAu0Kyh5gjNXMtvVvU) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [her](https://open.spotify.com/album/3GOY8ldMEd2GVYD9vyfAFW) | 3:38 | 2025-07-24 | 2025-11-20 |
-| [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 | 2026-06-23 | 2026-09-07 |
+| [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 | 2026-06-23 |  |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-30 | 2024-02-14 |
 | [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 | 2024-02-14 |
 | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 | 2024-02-13 | 2024-03-27 |
@@ -418,7 +419,7 @@
 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 | 2023-05-09 | 2023-06-14 |
 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-09 | 2023-01-11 |
 | [Tiny Light \- Instrumental](https://open.spotify.com/track/7w9idgpNatXHHSF4roe5aT) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-09 | 2022-07-04 |
-| [Tokyo Gals](https://open.spotify.com/track/2FRf5fgRzgZ6cKBeEy9e8U) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [野口衣織](https://open.spotify.com/artist/7aKpjS6dHog2q6gK5ICr2v), [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | [Tokyo Gals](https://open.spotify.com/album/2X6CWtnyUomcImTENjLC1S) | 2:54 | 2026-09-01 |  |
+| [Tokyo Gals](https://open.spotify.com/track/2FRf5fgRzgZ6cKBeEy9e8U) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [野口衣織](https://open.spotify.com/artist/7aKpjS6dHog2q6gK5ICr2v), [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | [Tokyo Gals](https://open.spotify.com/album/2X6CWtnyUomcImTENjLC1S) | 2:54 | 2026-09-01 | 2026-09-09 |
 | [Tokyo Sunny Party](https://open.spotify.com/track/1HBxmRc7PCEw7Vtw3ykr8J) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [Tokyo Sunny Party](https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0) | 4:02 | 2022-07-07 | 2022-07-19 |
 | [Tomorrow's Diary](https://open.spotify.com/track/0fuUtnCN2n62BfTNSShbG2) | [AiRBLUE](https://open.spotify.com/artist/49nTLE5U2U3eMoEk1cPOLY) | [Tomorrow's Diary/ゆめだより](https://open.spotify.com/album/2ldSZ0ufXJJmch9JKxaPco) | 4:32 | 2022-07-07 | 2022-07-21 |
 | [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 | 2025-03-11 | 2025-04-02 |
@@ -486,7 +487,7 @@
 | [あまい夢](https://open.spotify.com/track/4O9LMQcPjRfNa0BPDHSjbm) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Empathy](https://open.spotify.com/album/0RGJ7M4sIgtfs5QwZvgs6J) | 4:03 | 2022-07-19 | 2022-07-22 |
 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 | 2022-07-07 | 2022-07-18 |
 | [いのちの名前 \- from CrosSing](https://open.spotify.com/track/4vZAPywqbFrLjq7lnclHve) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [いのちの名前 \- from CrosSing](https://open.spotify.com/album/6qJ7DoGzkCdwAEHKLaQhQV) | 4:27 | 2022-06-14 | 2022-07-27 |
-| [いーあるふぁんくらぶ](https://open.spotify.com/track/0uTR3jruuBGrsY4zuraYMj) | [地原舞\(CV.鈴代紗弓\)](https://open.spotify.com/artist/0qZHhjv2xKFkhK1XUlREPW) | [いーあるふぁんくらぶ](https://open.spotify.com/album/7hxEmhjZMXuEzRryoOXGuN) | 3:58 | 2026-08-25 |  |
+| [いーあるふぁんくらぶ](https://open.spotify.com/track/0uTR3jruuBGrsY4zuraYMj) | [地原舞\(CV.鈴代紗弓\)](https://open.spotify.com/artist/0qZHhjv2xKFkhK1XUlREPW) | [いーあるふぁんくらぶ](https://open.spotify.com/album/7hxEmhjZMXuEzRryoOXGuN) | 3:58 | 2026-08-25 | 2026-09-09 |
 | [うつろい](https://open.spotify.com/track/6UaUAuwWqAbuSGTITLTZ2Y) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:50 | 2022-06-12 | 2022-07-13 |
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 | 2023-09-27 |
 | [おもいでしりとり](https://open.spotify.com/track/21I2N3whjE3lanhe0CuJNH) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [おもいでしりとり](https://open.spotify.com/album/3NBlrlTK609r4bxaM7ouIZ) | 4:23 | 2022-06-09 | 2022-07-26 |

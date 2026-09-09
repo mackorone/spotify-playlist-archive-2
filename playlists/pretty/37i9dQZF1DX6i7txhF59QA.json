@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "\u5973\u5b50",
-        "url": "https://open.spotify.com/album/6COkrhmouIRszPygTwhpGa"
-      },
-      "artists": [
-        {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
-        }
-      ],
-      "duration_ms": 227683,
-      "name": "\ucd08\ud63c (2015 Ver.)",
-      "url": "https://open.spotify.com/track/6eJBDAZcQDVvxkxqulNY4V"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
         "name": "\uc544\ud649 \uc774\uc57c\uae30",
         "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 278413,
       "name": "\ud14c\uc2a4\ud615!",
       "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "\u5973\u5b50",
+        "url": "https://open.spotify.com/album/6COkrhmouIRszPygTwhpGa"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 227683,
+      "name": "\ucd08\ud63c (2015 Ver.)",
+      "url": "https://open.spotify.com/track/6eJBDAZcQDVvxkxqulNY4V"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -875,6 +875,54 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
+        "name": "MU-MYEONG JEONSEOL [Final Round 1 \u2013 Hit Song Mission]",
+        "url": "https://open.spotify.com/album/4UsiW04ITbQ5eWFDo0IGIk"
+      },
+      "artists": [
+        {
+          "name": "Kim Seong Ri",
+          "url": "https://open.spotify.com/artist/6lt5VopkvqJxcX71NdIZAQ"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Today This Night",
+      "url": "https://open.spotify.com/track/0XqTNti5dyeecWtaTRp6sM"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "GAIN;DAL",
+        "url": "https://open.spotify.com/album/4kFefI7saSFXo99MZNCOsD"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "duration_ms": 209505,
+      "name": "Asadal",
+      "url": "https://open.spotify.com/track/7uKug5gEqA3hG1MTJiwdEg"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "Music Source of Mr. Trot 2 Semifinal Mission for the New Song",
+        "url": "https://open.spotify.com/album/06V2NzogH4RyJAxJpYG5An"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Come with Turning on the Turn Signal",
+      "url": "https://open.spotify.com/track/0OM4q608ugvFAoozBdbuYB"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
         "name": "Bongsungah school PART15",
         "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
       },
@@ -915,38 +963,6 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "GAIN;DAL",
-        "url": "https://open.spotify.com/album/4kFefI7saSFXo99MZNCOsD"
-      },
-      "artists": [
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 209505,
-      "name": "Asadal",
-      "url": "https://open.spotify.com/track/7uKug5gEqA3hG1MTJiwdEg"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
-        "name": "Music Source of Mr. Trot 2 Semifinal Mission for the New Song",
-        "url": "https://open.spotify.com/album/06V2NzogH4RyJAxJpYG5An"
-      },
-      "artists": [
-        {
-          "name": "Park Ji Hyeon",
-          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Come with Turning on the Turn Signal",
-      "url": "https://open.spotify.com/track/0OM4q608ugvFAoozBdbuYB"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
         "name": "The Farewell Bus Stop",
         "url": "https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "MU-MYEONG JEONSEOL [Final Round 1 \u2013 Hit Song Mission]",
-        "url": "https://open.spotify.com/album/4UsiW04ITbQ5eWFDo0IGIk"
+        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
+        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
       },
       "artists": [
         {
-          "name": "Kim Seong Ri",
-          "url": "https://open.spotify.com/artist/6lt5VopkvqJxcX71NdIZAQ"
+          "name": "\uae40\uc6a9\uc784",
+          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Today This Night",
-      "url": "https://open.spotify.com/track/0XqTNti5dyeecWtaTRp6sM"
+      "duration_ms": 169914,
+      "name": "\uc0bc\uac01\uad00\uacc4",
+      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -995,22 +1011,6 @@
       "duration_ms": 183165,
       "name": "Island Village Teacher",
       "url": "https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
-        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
-        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
-      },
-      "artists": [
-        {
-          "name": "\uae40\uc6a9\uc784",
-          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
-        }
-      ],
-      "duration_ms": 169914,
-      "name": "\uc0bc\uac01\uad00\uacc4",
-      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
+        "name": "Love call center PART2",
+        "url": "https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "The Moon Represents My Heart",
+      "url": "https://open.spotify.com/track/0kthpblMmkuZpmpT3hyqiV"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
         "name": "MU-MYEONG JEONSEOL [Semifinals \u2013 Round 1: The Legend\u2019s Choice]",
         "url": "https://open.spotify.com/album/7yqUgyXmnMv69qYrMfXmlE"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "Love call center PART2",
-        "url": "https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O"
-      },
-      "artists": [
-        {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "The Moon Represents My Heart",
-      "url": "https://open.spotify.com/track/0kthpblMmkuZpmpT3hyqiV"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
         "name": "Bongsungah school PART15",
         "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "Music Source of Miss Trot Threegether(3-gether) Special PART3",
-        "url": "https://open.spotify.com/album/6b8iPxwvFTDFcyGFwvai8C"
-      },
-      "artists": [
-        {
-          "name": "Jung Seo Joo",
-          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Flower wind",
-      "url": "https://open.spotify.com/track/3M0jMmAFTqv3XLDnAejVCT"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 126520,
       "name": "Mom Arirang",
       "url": "https://open.spotify.com/track/71KOmCA0xRVfxhGJAF69U1"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "Music Source of Miss Trot Threegether(3-gether) Special PART3",
+        "url": "https://open.spotify.com/album/6b8iPxwvFTDFcyGFwvai8C"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Flower wind",
+      "url": "https://open.spotify.com/track/3M0jMmAFTqv3XLDnAejVCT"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "Promise of Spring",
-        "url": "https://open.spotify.com/album/02ldtAhCEs4YAJ6sdX4t7o"
-      },
-      "artists": [
-        {
-          "name": "Son Tae Jin",
-          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "A Boarder",
-      "url": "https://open.spotify.com/track/1m3rnxKsDU1QdMfwEKgxab"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
         "name": "Bongsungah school PART4",
         "url": "https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "\ud2b8\ub85c\ud2b8\uc758 \uc5ec\uc655 \uae40\uc5f0\uc790 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8",
-        "url": "https://open.spotify.com/album/7CGQqCgicLPbJymXfynisI"
+        "name": "Promise of Spring",
+        "url": "https://open.spotify.com/album/02ldtAhCEs4YAJ6sdX4t7o"
       },
       "artists": [
         {
-          "name": "KIM YONJA",
-          "url": "https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK"
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
         }
       ],
-      "duration_ms": 215413,
-      "name": "\uc544\ubaa8\ub974\ud30c\ud2f0",
-      "url": "https://open.spotify.com/track/0D9T9q0ObGZJDylvkeiGO2"
+      "duration_ms": 203000,
+      "name": "A Boarder",
+      "url": "https://open.spotify.com/track/1m3rnxKsDU1QdMfwEKgxab"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1583,6 +1567,22 @@
       "duration_ms": 256506,
       "name": "CHANGGWI",
       "url": "https://open.spotify.com/track/3L0DJSCvpcKuNcfMqy1GEi"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "\ud2b8\ub85c\ud2b8\uc758 \uc5ec\uc655 \uae40\uc5f0\uc790 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/7CGQqCgicLPbJymXfynisI"
+      },
+      "artists": [
+        {
+          "name": "KIM YONJA",
+          "url": "https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "\uc544\ubaa8\ub974\ud30c\ud2f0",
+      "url": "https://open.spotify.com/track/0D9T9q0ObGZJDylvkeiGO2"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt.17",
-        "url": "https://open.spotify.com/album/7it71jDEWeK6bWYMc4jmAT"
+        "name": "Tree ring love",
+        "url": "https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w"
       },
       "artists": [
         {
-          "name": "Youngki",
-          "url": "https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R"
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
         }
       ],
-      "duration_ms": 220884,
-      "name": "Beautiful day",
-      "url": "https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45"
+      "duration_ms": 184041,
+      "name": "Tree ring love",
+      "url": "https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "Tree ring love",
-        "url": "https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w"
+        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt.17",
+        "url": "https://open.spotify.com/album/7it71jDEWeK6bWYMc4jmAT"
       },
       "artists": [
         {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+          "name": "Youngki",
+          "url": "https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R"
         }
       ],
-      "duration_ms": 184041,
-      "name": "Tree ring love",
-      "url": "https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0"
+      "duration_ms": 220884,
+      "name": "Beautiful day",
+      "url": "https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2026-07-28 04:01:33",
       "album": {
-        "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
-        "url": "https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X"
+        "name": "Bongsungah school PART15",
+        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
       },
       "artists": [
         {
-          "name": "Copychu",
-          "url": "https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH"
-        },
-        {
-          "name": "JEON WON JU",
-          "url": "https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK"
+          "name": "Song Changsik",
+          "url": "https://open.spotify.com/artist/5UwskDVGUqto8Ce11hMZvB"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
-      "url": "https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero"
+      "duration_ms": 231946,
+      "name": "Story of old couple in their 60s (guitar by Ham Chun Ho)",
+      "url": "https://open.spotify.com/track/58UxdXUwclRKh0HbVOAtbS"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1895,6 +1891,26 @@
       "duration_ms": 164080,
       "name": "GiNiTa MoZZa (So cool)",
       "url": "https://open.spotify.com/track/2ok2w2jTCaaDlQyUUtumWx"
+    },
+    {
+      "added_at": "2026-07-28 04:01:33",
+      "album": {
+        "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
+        "url": "https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X"
+      },
+      "artists": [
+        {
+          "name": "Copychu",
+          "url": "https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH"
+        },
+        {
+          "name": "JEON WON JU",
+          "url": "https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
+      "url": "https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero"
     },
     {
       "added_at": "2026-07-28 04:01:33",
@@ -1939,22 +1955,6 @@
       "duration_ms": 190733,
       "name": "Oh! hot",
       "url": "https://open.spotify.com/track/04lpB6kpUMc7tTj6BmynCk"
-    },
-    {
-      "added_at": "2026-07-28 04:01:33",
-      "album": {
-        "name": "Bongsungah school PART15",
-        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
-      },
-      "artists": [
-        {
-          "name": "Song Changsik",
-          "url": "https://open.spotify.com/artist/5UwskDVGUqto8Ce11hMZvB"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "Story of old couple in their 60s (guitar by Ham Chun Ho)",
-      "url": "https://open.spotify.com/track/58UxdXUwclRKh0HbVOAtbS"
     },
     {
       "added_at": "2026-07-28 04:01:33",

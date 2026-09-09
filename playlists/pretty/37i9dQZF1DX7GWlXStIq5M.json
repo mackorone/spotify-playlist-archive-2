@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356817,
+  "num_followers": 356766,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Pura Magia",
         "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 220204,
       "name": "Pura Magia",
       "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Volto Logo",
-        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 152978,
-      "name": "Volto Logo",
-      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Quando me ver passar",
         "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "Volto Logo",
+        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 152978,
+      "name": "Volto Logo",
+      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -439,6 +423,22 @@
       "duration_ms": 187589,
       "name": "Disco Tropical",
       "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 169806,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 148000,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 169806,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 220750,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Camomila",
-        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Eu N\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
       },
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
-      },
-      "artists": [
-        {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 182608,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Ressaca da Saudade",
+        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
+      },
+      "artists": [
+        {
+          "name": "Aram\u00e0",
+          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
+        },
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 172395,
+      "name": "Ressaca da Saudade",
+      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Dias de Mar",
-        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Dias de Mar",
-      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Sem foto, sem v\u00eddeo",
         "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Dias de Mar",
+        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Dias de Mar",
+      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Liberdade?",
         "url": "https://open.spotify.com/album/2WIe2zcaxbqiwltJhyg604"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "TRANSBORDAR",
-        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
       },
       "artists": [
         {
-          "name": "Mafe Peccin",
-          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 165768,
-      "name": "afinal o que \u00e9 um amor tranquilo?",
-      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
+      "duration_ms": 136089,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
     }
   ],
   "unique_name": "Palco POP",

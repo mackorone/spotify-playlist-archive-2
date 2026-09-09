@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: BAMBII",
-  "num_followers": 2514,
+  "num_followers": 2536,
   "original_name": "Editors' Picks: Best Canadian Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEd57ekHzSjPYLZQ7vqcxKcIKvVw",
+  "snapshot_id": "AAAAAI0Aqt1pSdEsLacftGIt2Q4GQMrJ",
   "tracks": [
     {
       "added_at": "2026-09-01 02:00:35",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Now I've Got A Lot You Know",
-        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 310596,
-      "name": "Now I've Got A Lot You Know",
-      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Unforgivable Things",
         "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 155017,
       "name": "Unforgivable Things",
       "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5IjXFTsyhZlequxisljKhi"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 226072,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0e2LldrTup4Mw01aFolhgp"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 235822,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5IjXFTsyhZlequxisljKhi"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 226072,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0e2LldrTup4Mw01aFolhgp"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Preacherman",
-        "url": "https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn"
-      },
-      "artists": [
-        {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 132489,
-      "name": "Preacherman",
-      "url": "https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Some Kind Of Life",
         "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 196923,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Preacherman",
+        "url": "https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 132489,
+      "name": "Preacherman",
+      "url": "https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "The Veil",
-        "url": "https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Gut",
-      "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193600,
       "name": "Failing",
       "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        }
+      ],
+      "duration_ms": 145266,
+      "name": "Gut",
+      "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "MR MONEY",
-        "url": "https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI"
-      },
-      "artists": [
-        {
-          "name": "T\u00d6ME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 153931,
-      "name": "MR MONEY",
-      "url": "https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Sugar, Butter, Elbow Grease",
         "url": "https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210400,
       "name": "Sugar, Butter, Elbow Grease",
       "url": "https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "MR MONEY",
+        "url": "https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "MR MONEY",
+      "url": "https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P"
     },
     {
       "added_at": "2026-09-01 02:00:35",

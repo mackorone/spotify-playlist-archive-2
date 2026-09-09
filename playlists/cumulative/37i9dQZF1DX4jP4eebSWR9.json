@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Shirin David, Summer Cem",
+  "description": "50 Hits in einer Playlist! Cover: AD\u00c9LA",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
+        "name": "An meiner Seite",
+        "url": "https://open.spotify.com/album/4MOJKm9Ny169ZHLl1HZRe4"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "An meiner Seite",
+      "url": "https://open.spotify.com/track/2eCov3IL9WM18dOtIHJ5dy"
     },
     {
       "album": {
@@ -5572,7 +5590,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"

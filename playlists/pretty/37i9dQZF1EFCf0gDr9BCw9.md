@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 177 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 177 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 19 | [Remember](https://open.spotify.com/track/7rvuYWWPi0m86nnxXYwWTT) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 2:34 |
 | 20 | [Blood Count](https://open.spotify.com/track/2FN3icajFPjlWRlhSqe37u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
 | 21 | [If I Could See the World \(Through the Eyes of a Child\)](https://open.spotify.com/track/3821HZu61jFR4dTC1CUv5d) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Hungry For Love \- Her First Recordings, Vol\. 2](https://open.spotify.com/album/3yxr74Wuak4SNRNVM2RcU9) | 2:53 |
-| 22 | [Just A\-sittin' And A\-rockin'](https://open.spotify.com/track/6rQTUw65UArPdNALbn8Bdv) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Essential Masters](https://open.spotify.com/album/1feg8RBvJey6nXnD2lLI3b) | 4:20 |
-| 23 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
-| 24 | [This Can't Be Love](https://open.spotify.com/track/3xkzu0STqniWfJqEvXXRkk) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson Trio Play the Songbook Hits](https://open.spotify.com/album/3QrFGR5cNt3ZTsELSDnLy9) | 9:55 |
-| 25 | [Passion Flower](https://open.spotify.com/track/7moptFxhLMCEBZZAumSKjq) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:42 |
+| 22 | [Passion Flower](https://open.spotify.com/track/7vkQRaewfpJ8HaW1ZCOekH) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 5:36 |
+| 23 | [Just A\-sittin' And A\-rockin'](https://open.spotify.com/track/6rQTUw65UArPdNALbn8Bdv) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Essential Masters](https://open.spotify.com/album/1feg8RBvJey6nXnD2lLI3b) | 4:20 |
+| 24 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
+| 25 | [This Can't Be Love](https://open.spotify.com/track/3xkzu0STqniWfJqEvXXRkk) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson Trio Play the Songbook Hits](https://open.spotify.com/album/3QrFGR5cNt3ZTsELSDnLy9) | 9:55 |
 | 26 | [Raincheck](https://open.spotify.com/track/6xKrilmBUKENVFpbXN3W1z) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Jazz Poet](https://open.spotify.com/album/2wmca9iELMSj5FXOwns1oP) | 5:00 |
 | 27 | [Paradise](https://open.spotify.com/track/42sWDtFKf9tWByohvmKokH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:13 |
 | 28 | [Such Sweet Thunder \(Cleo\)](https://open.spotify.com/track/5jTKRe6q1XvY9Qu9B96KTE) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 176 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 177 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `Acbs3AAAAACRRV371AoaV4dTy7t0A7WJ`
+Snapshot ID: `AcbyfAAAAACdrI/WbneBaxlel9DF8LxP`

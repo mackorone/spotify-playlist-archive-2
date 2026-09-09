@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17951,
+  "num_followers": 17956,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADwodzlD2RhKGSN629gNvtm",
+  "snapshot_id": "ap3+gAAAAAB+NUUPrvnHjRHYwbAaUdCA",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
+      "duration_ms": 153000,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Touch\u00e9",
-      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
     },
     {
       "added_at": null,

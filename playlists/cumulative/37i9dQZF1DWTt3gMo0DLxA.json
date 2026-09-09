@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 224166,
       "name": "Dheem Tha Dhirana (From \"Jagamae Sangeetham\")",
       "url": "https://open.spotify.com/track/3KXVnullvdfGoCOuwafSwW"
@@ -4561,6 +4561,28 @@
     },
     {
       "album": {
+        "name": "Irumudi",
+        "url": "https://open.spotify.com/album/3UnALq7hOHxg2RjVyR5juf"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244149,
+      "name": "Karthika Maasam",
+      "url": "https://open.spotify.com/track/2ApmzYE7xij7lo84T6iA7d"
+    },
+    {
+      "album": {
         "name": "Kattula Ballam",
         "url": "https://open.spotify.com/album/2JmtHaQL8QUwfkffD95UrB"
       },
@@ -5091,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "Mamidakulu",
+        "url": "https://open.spotify.com/album/33lVSphSPs7OuLbbW1RgZc"
+      },
+      "artists": [
+        {
+          "name": "Srinidhi S",
+          "url": "https://open.spotify.com/artist/2DPZVfz6T0ElDoToDWoeyd"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Mamidakulu",
+      "url": "https://open.spotify.com/track/0Gcd90n2uZDo2RFiUJBgye"
+    },
+    {
+      "album": {
         "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
         "url": "https://open.spotify.com/album/4r5KYA9NveiXPLJ3ISBMu0"
       },
@@ -5574,7 +5614,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 269196,
       "name": "Missamma (From \"Modern Missamma\")",
       "url": "https://open.spotify.com/track/3KFRiBO6vP8r5YcFmDtVqa"

@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Rod Wave
 
-2,920 songs - 5 day 15 hr 44 min
+2,921 songs - 5 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2613,6 +2613,7 @@
 | [Too Damn Lit](https://open.spotify.com/track/2kcdO2VQnoLI9iHSM2vMlM) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Too Damn Lit](https://open.spotify.com/album/6fltqtTOWGwMlmu07kHjGb) | 2:31 | 2025-08-08 | 2025-08-23 |
 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe) | 3:17 | 2021-12-03 | 2022-01-29 |
 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 | 2022-01-14 | 2022-02-12 |
+| [Too Phat](https://open.spotify.com/track/1vEE3ZaSMwMih4DAFgDFOD) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [Too Phat](https://open.spotify.com/album/2wW0DM1EjuLv8lxoocnj2o) | 3:20 | 2026-09-08 |  |
 | [Too Rich](https://open.spotify.com/track/3KXF9ioaB9bmhHu4wvcpdY) | [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Too Rich](https://open.spotify.com/album/0MihMtzvUGxV3cOV9klzKV) | 2:34 | 2025-03-07 | 2025-03-15 |
 | [Toot It Up](https://open.spotify.com/track/5FwGjMnvsT4qJyxOWWhuIm) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Toot It Up](https://open.spotify.com/album/4UFoULB5bixAd51Ry6jM86) | 2:44 | 2025-10-10 | 2025-11-01 |
 | [Top Cobain](https://open.spotify.com/track/3SKyzZJvKDSabul0KwvMzn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top Cobain](https://open.spotify.com/album/7cBvKQxlZT5Cglic7x2T5r) | 3:45 | 2025-12-19 | 2026-01-17 |

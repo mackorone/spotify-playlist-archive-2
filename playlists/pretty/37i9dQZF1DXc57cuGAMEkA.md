@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。JISOO, Ellie Goulding, LISA,  Miley Cyrus, ADÉLA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,898 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,905 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [Lipgloss](https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Pour My Heart Out](https://open.spotify.com/album/1iEQOQrdww6JCTpb9D6zSn) | 2:48 |
 | 79 | [You Wish \- Abbey Road Fuzz Gospel Version](https://open.spotify.com/track/4mj3S7W301jKpURJB5iveA) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b) | [You Wish \(Abbey Road Fuzz Gospel Version\)](https://open.spotify.com/album/7htg2dGlOXnZKoPkHGJ8RN) | 4:48 |
 | 80 | [Senko Hanabi](https://open.spotify.com/track/3oZcYqufoBk5amUfAjMGQ9) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Late Summer Songs](https://open.spotify.com/album/7skTthjkAhKZ8fnhnNsJhV) | 2:23 |
+| 81 | [Now We Can Sing \- Edit](https://open.spotify.com/track/0At4AalfZgPoB5RttSXs2g) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Now We Can Sing](https://open.spotify.com/album/5Blf72Q1N733tuYzdTZW6B) | 7:02 |
 
 Snapshot ID: `AAAAABZtKraxiluscfwylHb8cJV+vcld`

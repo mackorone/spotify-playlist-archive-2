@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-1,224 songs - 2 day 20 hr 11 min
+1,225 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [PLEASE](https://open.spotify.com/track/7ahz5K9xcP6wc8qiqw432P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [PLEASE](https://open.spotify.com/album/0ono1xEy622e3WdiaUO8xe) | 3:27 | 2025-01-24 | 2025-03-08 |
 | [Please Don't Go](https://open.spotify.com/track/03Xiyla77qLyJuacJq9m8y) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Please Don't Go](https://open.spotify.com/album/47a69vW8kSJY58WWWLAYTA) | 2:26 | 2025-02-21 | 2025-05-03 |
 | [Please Stop Laughing](https://open.spotify.com/track/7hltRSTGF0rMUqxReGZEcU) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Please Stop Laughing](https://open.spotify.com/album/3EfTNeX1PvXV5HCv8wHpOk) | 2:46 | 2026-04-06 |  |
+| [Pleine Forêt](https://open.spotify.com/track/78yKoEoR4pmj2CzXpfhYbF) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Pleine Forêt](https://open.spotify.com/album/719tHn7FKQZ1CGB9XSaUYc) | 3:39 | 2026-09-08 |  |
 | [Poolside](https://open.spotify.com/track/2dJaKdrXxeXpGroJUpQkXj) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Take Carra Me](https://open.spotify.com/album/4pgyG6AnzwHi7PBug0Ohel) | 2:54 | 2024-06-14 | 2024-06-22 |
 | [Postcard](https://open.spotify.com/track/6kFViXXkWdLjU4ZSyTmEIE) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Boutique](https://open.spotify.com/album/0mf3iO1pGIee8XIqr8V8rn) | 3:51 | 2026-04-10 |  |
 | [Postlude](https://open.spotify.com/track/5crPCHLCUKTbUulzyR9BVT) | [Memory Pearl](https://open.spotify.com/artist/22jqaoK0HsEXfo8CyEelic), [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [Mas Aya](https://open.spotify.com/artist/3PQ5l1cwp95tCwIgynN7VW) | [Cosmic\-Astral](https://open.spotify.com/album/2uNHKmW4OA06uSyQHtTmcj) | 5:56 | 2025-01-31 | 2025-03-01 |

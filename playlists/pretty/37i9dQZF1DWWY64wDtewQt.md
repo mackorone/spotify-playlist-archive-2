@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,904,173 likes - 100 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,905,252 likes - 100 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 86 | [MAZKO](https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N) | [S4nri0](https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7), [MC LyC4N](https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz) | [MAZKO](https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B) | 1:15 |
 | 87 | [SOL VIBRA \- Slowed](https://open.spotify.com/track/7Gcvs2G5kvwPa2suJlBQQY) | [DJ Zarek](https://open.spotify.com/artist/52lpdjLJdAUK3iICFUEnH2), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [SOL VIBRA](https://open.spotify.com/album/5ggNprrUzrp2q7rb22NMgT) | 1:42 |
 | 88 | [MEMORIZING](https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh) | [DJ DELACROIX](https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi), [OXXED](https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98), [Wintherduud](https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU) | [MEMORIZING](https://open.spotify.com/album/3P9MWuWJGR9bhYbR4LA8No) | 1:39 |
-| 89 | [MONTAGEM ALUCINANTE](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g) | [MONTAGEM ALUCINANTE](https://open.spotify.com/album/1ytbKNSOn7FALPHrmOqAdN) | 2:50 |
+| 89 | [MONTAGEM ALUCINANTE](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [Mc Elodie](https://open.spotify.com/artist/6tjs56QiOSCIlVM8wcWBeA) | [MONTAGEM ALUCINANTE](https://open.spotify.com/album/1ytbKNSOn7FALPHrmOqAdN) | 2:50 |
 | 90 | [Beeper Funk \- Slowed](https://open.spotify.com/track/02WKo37gebkkQKor2TCuTk) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE), [Mc Vitorioso](https://open.spotify.com/artist/0sjGfRBmq6lKmUNgt8Ptic) | [Beeper Funk \(Slowed\)](https://open.spotify.com/album/5eEfzNcFaXPsBXJzkPiD3S) | 1:43 |
 | 91 | [RITMO DE VERAO \- SLOWED](https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [RITMO DE VERAO](https://open.spotify.com/album/6Lpeo3sn3ublWcoL5DCpcc) | 1:39 |
 | 92 | [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 |

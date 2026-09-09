@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Deep Chicken (Astrality Remix)",
+        "url": "https://open.spotify.com/album/7Bn01DLJMv6olKHBbFeZwF"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257187,
+      "name": "Deep Chicken - Astrality Remix",
+      "url": "https://open.spotify.com/track/7jnUxTj25G6nKi8PwtIBTy"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7nylWARTxfVLYSjF9VA4eC"
       },

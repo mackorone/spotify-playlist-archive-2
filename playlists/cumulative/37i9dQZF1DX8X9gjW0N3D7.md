@@ -4,10 +4,11 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: oui merci
 
-598 songs - 1 day 9 hr 30 min
+599 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [..\. And The Next Day](https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n) | [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [BASS WOMB ROOM: My ‘90s 4\-Track Demos x Field Recordings](https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p) | 3:41 | 2026-09-04 |  |
 | [1999](https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [1999](https://open.spotify.com/album/1668f4YvYOIMuUEW8lJWVP) | 2:10 | 2024-07-12 | 2024-08-24 |
 | [1999](https://open.spotify.com/track/5diLSr4cPJIgopAGt2MWlw) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [1999](https://open.spotify.com/album/7qJRJWYdkHzZmgh8F4e3k0) | 4:28 | 2026-03-13 | 2026-05-09 |
 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-11-21 | 2026-03-14 |
@@ -97,7 +98,7 @@
 | [Cool](https://open.spotify.com/track/3t21zDabYBaKqYovZbgWKq) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Y fait froid tout l'tour de la lune](https://open.spotify.com/album/5HqFB4TW4PHH0ESuqgQSWl) | 2:39 | 2025-03-14 | 2025-11-08 |
 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 | 2026-08-14 | 2026-09-05 |
 | [Corail](https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Corail](https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ) | 3:20 | 2025-01-17 | 2025-03-15 |
-| [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 | 2026-07-24 |  |
+| [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 | 2026-07-24 | 2026-09-09 |
 | [Couche tard](https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Couche tard](https://open.spotify.com/album/7HoyKW7zPtK0VoDXsUwNLQ) | 1:55 | 2025-06-20 | 2025-11-22 |
 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 | 2026-04-30 | 2026-06-13 |
 | [Coude au plancher](https://open.spotify.com/track/3ogPHqMjDF3pPnHKdJxAN1) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Tobin](https://open.spotify.com/artist/2s6qJ66nyUULVHTsxscSh9) | [Coude au plancher](https://open.spotify.com/album/1nCDFDLHZPdE8ovpf1qNgi) | 3:46 | 2026-07-13 |  |

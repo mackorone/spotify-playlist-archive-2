@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,537 songs - 6 day 5 hr 0 min
+2,539 songs - 6 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Flor Seca](https://open.spotify.com/track/1AlcFrUihb0cXeXqFKx5X2) | [DiVerso Vocals](https://open.spotify.com/artist/20f38mn8JsKWtuGdbr9kge) | [Flor Seca](https://open.spotify.com/album/5mCbbcAWfjt2JiqVSytLNP) | 3:38 | 2026-03-14 |  |
 | [Flora i Fauna](https://open.spotify.com/track/44tU5Ttkroof1twlUEHnmZ) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Flora i Fauna](https://open.spotify.com/album/1uN30RsiOCF8Z96pyESgvn) | 4:16 | 2025-07-27 |  |
 | [Flute Dub](https://open.spotify.com/track/5mwF9U2u0DlfpzkwbcAOSS) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Aktuch](https://open.spotify.com/artist/6CEwY0fTeRZdEdZSVn0utO) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:20 | 2024-03-10 |  |
+| [Flute Flow](https://open.spotify.com/track/5QtuudLFZi6gr8aFDLLbJ6) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Flute Flow](https://open.spotify.com/album/6NK0cRmWPB4Dbz8Yqor9mw) | 2:29 | 2026-09-08 |  |
 | [FLY](https://open.spotify.com/track/76PP4tJZm20WUJN17uYBYK) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Transcendence](https://open.spotify.com/album/7d8llUlhufyiBet1VBCS4M) | 2:50 | 2026-05-20 |  |
 | [Fly Higher \(Deep Fried Dub Remix\)](https://open.spotify.com/track/7846E8mm4E8z5b11FsaAAH) | [100th Monkey](https://open.spotify.com/artist/6qllqLG3uYwxmCk3W5D8L3), [Deep Fried Dub](https://open.spotify.com/artist/6ZMosuCoP5uGcPubpW9kQX) | [Refried IV](https://open.spotify.com/album/0GVDjs5ny2WgvbyiJ1B0RR) | 5:00 | 2025-11-08 |  |
 | [Fly me](https://open.spotify.com/track/4fFzQh360xdKJQtPra019D) | [Damien.D](https://open.spotify.com/artist/4G3PjYMwtAnBUszQS4KU1E) | [The Mighty Atom \(Extended\)](https://open.spotify.com/album/4rnNFEZ6qEnMR4A8LZRqUV) | 3:42 | 2026-05-26 |  |
@@ -862,6 +863,7 @@
 | [Grape Vines](https://open.spotify.com/track/48jkYOrR3hxMfzmAHje3iD) | [Krosst Out](https://open.spotify.com/artist/5SLzIGQL3GubJ4ri5PFGqM) | [Grape Vines](https://open.spotify.com/album/1Uljy3P4atifyuDcshyVlA) | 3:55 | 2025-12-31 |  |
 | [Gray Sofa](https://open.spotify.com/track/097JySBBDBX8htfGCOA8vt) | [Shenna](https://open.spotify.com/artist/33yC6eUVU50T46oKGq6WUM) | [Gray Sofa](https://open.spotify.com/album/4Boy6ZvqR1NFVQygo8wgmV) | 3:37 | 2025-07-09 |  |
 | [Great Big Love](https://open.spotify.com/track/52JSXUd61yeauZVa5XxN6p) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Great Big Love](https://open.spotify.com/album/5RBNwywDWK05lzzbzhmRke) | 4:11 | 2026-04-28 |  |
+| [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 | 2026-09-08 |  |
 | [Groov3](https://open.spotify.com/track/7lQtoryksWBbkKKFXOBAwA) | [S4HIB](https://open.spotify.com/artist/1WAijlfiS2rmiMlOOLboWY) | [Groov3](https://open.spotify.com/album/161AT2uRbc9fyksvJURxzZ) | 6:46 | 2025-03-30 |  |
 | [Groove Analyser](https://open.spotify.com/track/7l7yhncMnSaGJn01UmgoLD) | [Mister T.](https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7) | [Soul Shower](https://open.spotify.com/album/0MDEgla82omGDz6scX5gEA) | 3:26 | 2026-02-07 |  |
 | [Grooveria](https://open.spotify.com/track/1K4jY2tF9ETGtB7iTpF8gC) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 2:20 | 2026-03-16 |  |

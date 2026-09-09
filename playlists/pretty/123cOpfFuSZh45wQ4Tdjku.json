@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1270,
+  "num_followers": 1271,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "kiara",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAAB8CHLT5HckY4Xh3PNwhlOADkS1fiE",
+  "snapshot_id": "AAAB+IgKNLOZngX4onEGJaYvCcY36EDh",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -9135,6 +9135,142 @@
       "duration_ms": 230150,
       "name": "THE ANTIHUMAN - Instrumental",
       "url": "https://open.spotify.com/track/2RYTnXmYAtGCKOCqUdtJul"
+    },
+    {
+      "added_at": "2026-09-08 05:19:20",
+      "album": {
+        "name": "FIND ME WHEN I'M DEAD",
+        "url": "https://open.spotify.com/album/1QXRJeiTywh2Gvgj9tTptv"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 188241,
+      "name": "FIND ME WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/6M5UQNqI4dMRpjQ0CJAXjU"
+    },
+    {
+      "added_at": "2026-09-08 05:19:45",
+      "album": {
+        "name": "If I Were to Die",
+        "url": "https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "If I Were to Die",
+      "url": "https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ"
+    },
+    {
+      "added_at": "2026-09-08 05:19:48",
+      "album": {
+        "name": "THE RINGMASTER",
+        "url": "https://open.spotify.com/album/0GEWu5SM7yfdnUjqwA3Tu1"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "OodleZz",
+          "url": "https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "THE RINGMASTER",
+      "url": "https://open.spotify.com/track/6j3GHqe8aOdXk2HjQ8BdOL"
+    },
+    {
+      "added_at": "2026-09-08 05:19:49",
+      "album": {
+        "name": "Crimson Galaxies",
+        "url": "https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 202349,
+      "name": "Crimson Galaxies",
+      "url": "https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA"
+    },
+    {
+      "added_at": "2026-09-08 05:19:54",
+      "album": {
+        "name": "LAB RAT",
+        "url": "https://open.spotify.com/album/5ahV8ZZS4MbZQ5JENXs6pU"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "Stephanafro",
+          "url": "https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf"
+        }
+      ],
+      "duration_ms": 184594,
+      "name": "LAB RAT",
+      "url": "https://open.spotify.com/track/1VPKIE7LdxUOThCT1KohDQ"
+    },
+    {
+      "added_at": "2026-09-08 05:19:57",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/6stY2PRGbRXTyShn6wvz5v"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 240017,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2Eb90KOQVtffoYWTrx84cw"
+    },
+    {
+      "added_at": "2026-09-08 05:20:06",
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/2EKpATGHvFcDH4BVOc4tLz"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 166456,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/2r5HfRXMJ2l75Z9ZObSERc"
+    },
+    {
+      "added_at": "2026-09-08 05:20:11",
+      "album": {
+        "name": "Luminescence",
+        "url": "https://open.spotify.com/album/6Azh0ISCBfxivr4685Q28P"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 265842,
+      "name": "Luminescence",
+      "url": "https://open.spotify.com/track/2jCB04KfiEgG2PjFF56hwo"
     }
   ],
   "unique_name": "My favourite furry songs",

@@ -6,7 +6,7 @@
     "name": "sub",
     "url": "https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq"
   },
-  "snapshot_id": "AAAAp+s0RHvmYmcxIn3xB3vsWBzBesqy",
+  "snapshot_id": "AAAAqKP9C7kAeoD2srg8DHYZW10am8tv",
   "tracks": [
     {
       "added_at": "2023-12-05 13:18:14",
@@ -4619,6 +4619,38 @@
       "duration_ms": 193103,
       "name": "Tell me!!",
       "url": "https://open.spotify.com/track/4vSZYU5TduuNGLbSLOJaKU"
+    },
+    {
+      "added_at": "2026-09-08 04:24:00",
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 311718,
+      "name": "certainty",
+      "url": "https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S"
+    },
+    {
+      "added_at": "2026-09-08 04:24:00",
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 311718,
+      "name": "certainty - Instrumental Version",
+      "url": "https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb"
     }
   ],
   "unique_name": "^_^ All kittydog songs",

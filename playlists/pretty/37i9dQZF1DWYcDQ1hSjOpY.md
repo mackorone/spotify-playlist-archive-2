@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,226,060 likes - 370 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226,591 likes - 370 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 229 | [Steorra](https://open.spotify.com/track/6IFMQw8fiJFBFgidR7UUm0) | [Linnea Arden](https://open.spotify.com/artist/67q9KpqvcGic8KvNjkXzv9) | [Steorra](https://open.spotify.com/album/3s2fxfyBH5ZPXQ63Qnvjk3) | 2:25 |
 | 230 | [Conservation of Momentum](https://open.spotify.com/track/62c7lSvCUdAWh3L9dcb9b6) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Conservation of Momentum](https://open.spotify.com/album/6sb6PLOlQSc7GS79lMB69R) | 2:45 |
 | 231 | [Eternal Dreams](https://open.spotify.com/track/38xcIxrrfnZkgD2P00nkGB) | [Vilambit](https://open.spotify.com/artist/0OqFKcuZrOa3TAQzaMJL1M) | [Eternal Dreams](https://open.spotify.com/album/4pYOzmia6JbcUBzeK4aSwS) | 2:36 |
-| 232 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Zgva](https://open.spotify.com/artist/5UzIL2cfuelLB7c8wWSUWg) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
+| 232 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Zgva](https://open.spotify.com/artist/5UzIL2cfuelLB7c8wWSUWg), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
 | 233 | [Nebula Dreams](https://open.spotify.com/track/5SJKudDKsHRV1OdCqse7LH) | [Elare Veylon](https://open.spotify.com/artist/7fExDn2SpSOqb6APf0ZQzb) | [Nebula Dreams](https://open.spotify.com/album/4Fwnts4dmqZUNzFFekuL8p) | 2:42 |
 | 234 | [Eternal Horizon](https://open.spotify.com/track/2Es7gllTuNxiADI4BqahJ4) | [Solar Sonar](https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7) | [Eternal Horizon](https://open.spotify.com/album/7IsjEfw4VB3WEAGuYCRSvu) | 2:31 |
 | 235 | [Solace in Slow Motion](https://open.spotify.com/track/4ViQRViK5nzlQutdEvipCb) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Solace in Slow Motion](https://open.spotify.com/album/5XCL0sehcDMXh7R2UgNh1K) | 2:33 |
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 369 | [Follow the light](https://open.spotify.com/track/4IO1bKACHBxTWQl0kSU5LU) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Follow the light](https://open.spotify.com/album/2VtaE3vCJ4fzB6C5agXNQ1) | 2:52 |
 | 370 | [Falling Blue Stars](https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Falling Blue Stars](https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js) | 2:48 |
 
-Snapshot ID: `AAAAAGPoSnaNXmDHS5HGCeS3n9GLa8BX`
+Snapshot ID: `AAAAAM1VV1JwpHrgMa5TUswvdv4A3CQW`

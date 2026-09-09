@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 446315,
+  "num_followers": 446399,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAABXvqvoqk+V/CDdqcueTBRo",
+  "snapshot_id": "ap3+gAAAAAAxRe9AvFjpYOAh+yFEqxmK",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "White Knuckle Ride",
-      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 331800,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
     },
     {
       "added_at": null,

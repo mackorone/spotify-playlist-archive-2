@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona",
-  "num_followers": 168019,
+  "num_followers": 168039,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-08-14 04:01:33",
       "album": {
+        "name": "El Sano",
+        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Lex White",
+          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "El Sano",
+      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
+    },
+    {
+      "added_at": "2026-08-14 04:01:33",
+      "album": {
         "name": "EL PROBLEMA SOY YO",
         "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 211490,
       "name": "EL PROBLEMA SOY YO",
       "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
-    },
-    {
-      "added_at": "2026-08-14 04:01:33",
-      "album": {
-        "name": "El Sano",
-        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Lex White",
-          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "El Sano",
-      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
     },
     {
       "added_at": "2026-08-14 04:01:33",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-08-14 04:01:33",
       "album": {
+        "name": "TODO SE SUPERA",
+        "url": "https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        },
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        }
+      ],
+      "duration_ms": 165312,
+      "name": "TODO SE SUPERA",
+      "url": "https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi"
+    },
+    {
+      "added_at": "2026-08-14 04:01:33",
+      "album": {
         "name": "Yo lo s\u00e9",
         "url": "https://open.spotify.com/album/14h07hUekVScQA99nBO1fI"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 178823,
       "name": "Yo lo s\u00e9",
       "url": "https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R"
-    },
-    {
-      "added_at": "2026-08-14 04:01:33",
-      "album": {
-        "name": "TODO SE SUPERA",
-        "url": "https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        },
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        }
-      ],
-      "duration_ms": 165312,
-      "name": "TODO SE SUPERA",
-      "url": "https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi"
     },
     {
       "added_at": "2026-08-14 04:01:33",

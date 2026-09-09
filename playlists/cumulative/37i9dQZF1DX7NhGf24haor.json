@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: ItaloBrothers & Da Tweekaz",
+  "description": "Weekly new Hardstyle releases! Cover: DJ Isaac",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 202886,
       "name": "BALENCI",
       "url": "https://open.spotify.com/track/4rSiQKOQgUPtRWH6kacvFG"
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 158642,
       "name": "BODY MOVE",
       "url": "https://open.spotify.com/track/6NqIFmNHR1sWzWGTmnYaLl"
@@ -4960,6 +4960,24 @@
       "duration_ms": 190297,
       "name": "Born To Be King",
       "url": "https://open.spotify.com/track/5mkq1dyCOXQETVzGxH9Iqn"
+    },
+    {
+      "album": {
+        "name": "Born To Be Wild",
+        "url": "https://open.spotify.com/album/3qjDGn51BVWdh7ohi6b6LX"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199716,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/3vAazqCsv319hC3nCFCarE"
     },
     {
       "album": {
@@ -7265,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "Cloud Nine (feat. EVELYN)",
+        "url": "https://open.spotify.com/album/5rKCdW95TBDUSssrVpnpvv"
+      },
+      "artists": [
+        {
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
+        },
+        {
+          "name": "EVELYN",
+          "url": "https://open.spotify.com/artist/01TKphobwhv71IvjX321LF"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/1xgtgEzg1X9Y2TzYJv79yP"
+    },
+    {
+      "album": {
         "name": "COCO",
         "url": "https://open.spotify.com/album/3S0geRnQJwqUUF8dmwnz1A"
       },
@@ -7646,7 +7686,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 246842,
       "name": "Conduct The Beat",
       "url": "https://open.spotify.com/track/2bGXVQocKA5YB3zFKtuPSH"
@@ -8251,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "D13MENSION",
+        "url": "https://open.spotify.com/album/36ch95F2O1NqYke8C9DvN2"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "D13MENSION",
+      "url": "https://open.spotify.com/track/2BDomGju8g74Iywz15Vqa4"
+    },
+    {
+      "album": {
         "name": "D1G1T4L3 (2K20) (Ode to Thom)",
         "url": "https://open.spotify.com/album/1MQ1CZcistYgqzFkkMXyVk"
       },
@@ -8842,7 +8900,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 147000,
       "name": "Data Corrupted",
       "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
@@ -14414,7 +14472,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 207483,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr"
@@ -14436,7 +14494,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 198009,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
@@ -17128,6 +17186,24 @@
     {
       "album": {
         "name": "Higher",
+        "url": "https://open.spotify.com/album/0t3GnvwWhmFNvNcgMda6kv"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jax",
+          "url": "https://open.spotify.com/artist/1PYQj2h0huAOD01p2Bhn1O"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176412,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0FXiuUV4fBRcynBZPEs0GZ"
+    },
+    {
+      "album": {
+        "name": "Higher",
         "url": "https://open.spotify.com/album/7rppQv0SKgQPZYuUTYpvNX"
       },
       "artists": [
@@ -18953,6 +19029,32 @@
     },
     {
       "album": {
+        "name": "In Control (Kruelty Remix)",
+        "url": "https://open.spotify.com/album/03Y83k4J838OBrXrxD6GQk"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        },
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156027,
+      "name": "In Control - Kruelty Remix",
+      "url": "https://open.spotify.com/track/6oWdz20WckmsLk7ZHfZaMV"
+    },
+    {
+      "album": {
         "name": "In Flames",
         "url": "https://open.spotify.com/album/0av3XQqeZ9ykTSYXrBioLN"
       },
@@ -19832,6 +19934,28 @@
       "duration_ms": 195640,
       "name": "Irgendwie, irgendwo, irgendwann - HBz Remix",
       "url": "https://open.spotify.com/track/1tJHTEI5v9R4BdnfhWYLDe"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203334,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
     },
     {
       "album": {
@@ -25291,6 +25415,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/561GGkZGbGBBx7kxnqzY6n"
+      },
+      "artists": [
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5dwOYJUWGZb7uKiw8EXM3M"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3yRy0K3B5kNwmfGkwtbI9I"
       },
@@ -27298,6 +27440,24 @@
       "duration_ms": 187593,
       "name": "Nobody Likes",
       "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
+    },
+    {
+      "album": {
+        "name": "Nobody Listens To Techno '26",
+        "url": "https://open.spotify.com/album/7bixkFGNKaHFeZMTU38Q4B"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Nobody Listens To Techno '26",
+      "url": "https://open.spotify.com/track/0GMampTKujYJnDOmoCXgUk"
     },
     {
       "album": {
@@ -33836,7 +33996,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 150583,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/00mA76P6hXkzip7uZ94IWE"
@@ -34880,7 +35040,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 143507,
       "name": "SIDEQUEST - Tetris Mix",
       "url": "https://open.spotify.com/track/1fqpFQe0pLpD1IviXCcVnk"
@@ -39850,7 +40010,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 180000,
       "name": "The Path",
       "url": "https://open.spotify.com/track/37yusnWy9qFkzWtxfpY3iJ"
@@ -41838,7 +41998,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 174000,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/5AHKNUzIEIp6xRhHgpgXPF"
@@ -43926,6 +44086,28 @@
       "duration_ms": 119452,
       "name": "Watch You Move",
       "url": "https://open.spotify.com/track/0zTe7arEU2eGAmq9ku96Y1"
+    },
+    {
+      "album": {
+        "name": "Watching Me",
+        "url": "https://open.spotify.com/album/5yDKII8IEYGl2qYGmzNqcJ"
+      },
+      "artists": [
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        },
+        {
+          "name": "RAVEWALKER",
+          "url": "https://open.spotify.com/artist/15INytnL1COSphok1s4pC9"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188129,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/7oPrKHrhiQ97K8ro81Mzne"
     },
     {
       "album": {
@@ -46358,6 +46540,24 @@
       "duration_ms": 152718,
       "name": "YES SIR!!!",
       "url": "https://open.spotify.com/track/5rrSKP2H7mVCJ830dyjLG1"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/5oNd1IcspxFxq7BZvNeI3A"
+      },
+      "artists": [
+        {
+          "name": "RAM\u00d8N",
+          "url": "https://open.spotify.com/artist/3wGq6ADKJWJOBfHw0kzytT"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201419,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6ASACRMAQaUEK67ePsvl8v"
     },
     {
       "album": {

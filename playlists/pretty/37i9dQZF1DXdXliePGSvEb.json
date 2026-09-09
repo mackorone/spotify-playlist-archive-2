@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78567,
+  "num_followers": 78569,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Mystical Energy EP",
+        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "Mystical Energy",
+      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Mystical Energy EP",
-        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "Mystical Energy",
-      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Feel It For You",
+        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 211409,
+      "name": "Feel It For You",
+      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "E After Next",
         "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 239179,
       "name": "E After Next",
       "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Feel It For You",
-        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 211409,
-      "name": "Feel It For You",
-      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
     },
     {
       "added_at": "2025-12-03 12:15:55",

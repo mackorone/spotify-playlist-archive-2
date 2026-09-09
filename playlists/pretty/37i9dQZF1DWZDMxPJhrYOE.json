@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105623,
+  "num_followers": 105616,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Oh yeah?",
         "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 201557,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+      "duration_ms": 178334,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -451,22 +467,6 @@
       "duration_ms": 213746,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 178334,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "Shen Mao",
+        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 158568,
+      "name": "Shen Mao",
+      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "The Odyssey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Shen Mao",
-        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
-      },
-      "artists": [
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        }
-      ],
-      "duration_ms": 158568,
-      "name": "Shen Mao",
-      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 151609,
       "name": "Someday, Somewhere",
       "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Pay That Toll",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Pay That Toll",
+      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -583,22 +599,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Pay That Toll",
-        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Pay That Toll",
-      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 164000,
       "name": "Ringer Om Natten",
       "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "Reverse Psychology",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Reverse Psychology",
-        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Reverse Psychology",
-      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -955,6 +955,38 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "KBH",
+        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
+      },
+      "artists": [
+        {
+          "name": "Nik & Jay",
+          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "KBH",
+      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
       },
@@ -995,54 +1027,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "KBH",
-        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
-      },
-      "artists": [
-        {
-          "name": "Nik & Jay",
-          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
-        }
-      ],
-      "duration_ms": 175562,
-      "name": "KBH",
-      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "SO GOOD",
         "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 222316,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Can\u2019t Take My Eyes Off You",
-        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 150442,
-      "name": "Can\u2019t Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
+        "name": "Can\u2019t Take My Eyes Off You",
+        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 157104,
-      "name": "One Thousand Roses",
-      "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
+      "duration_ms": 150442,
+      "name": "Can\u2019t Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1207,6 +1191,22 @@
       "duration_ms": 186347,
       "name": "Du er min bror!",
       "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 157104,
+      "name": "One Thousand Roses",
+      "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "Circadian Rhythm",
+        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+      },
+      "artists": [
+        {
+          "name": "SKAI",
+          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+        }
+      ],
+      "duration_ms": 144451,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Saw You Dancing (feat. Mekdes)",
         "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Circadian Rhythm",
-        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
       },
       "artists": [
         {
-          "name": "SKAI",
-          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
         }
       ],
-      "duration_ms": 144451,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1423,22 +1439,6 @@
       "duration_ms": 250476,
       "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
       "url": "https://open.spotify.com/track/4EaCmBlUdXEC42iwcsvn10"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Hvor du er",
-        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
-      },
-      "artists": [
-        {
-          "name": "dreng&piger",
-          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
-        }
-      ],
-      "duration_ms": 145778,
-      "name": "Hvor du er",
-      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     }
   ],
   "unique_name": "De nye",

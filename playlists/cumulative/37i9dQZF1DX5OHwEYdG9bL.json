@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: Stray Kids) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: EVAN) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 264320,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 194365,
       "name": "BTG",
       "url": "https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 205089,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6c1QHuAkDnV9oOcaRmWxpZ"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 207509,
       "name": "Burnin\u2019 Tires (Changbin & I.N)",
       "url": "https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 215808,
       "name": "Countdown!",
       "url": "https://open.spotify.com/track/0iQVe9A63Xt0BP7coM0Hyx"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 215808,
       "name": "Countdown!",
       "url": "https://open.spotify.com/track/3zzSkxx2JhVthLIo4aaM3p"
@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "DEATH OF ME",
+        "url": "https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/7fguLMcnTfPK8qSKGNMTPF"
+    },
+    {
+      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/72ORvl4lM3vVPzT94dY2cD"
       },
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 193088,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/3CtCQGgUkRRmbJrRLM07y1"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 205098,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/1pOEu1CR7nzABdjduOq267"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 163498,
       "name": "FLEX LINE",
       "url": "https://open.spotify.com/track/5adAvXtX8VubKm0dPZzl4j"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 163456,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/4Jm1LzUBdCc1LOLU60Omx4"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 165081,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/02Tb1O8nTBxr9xEWKwu9cf"
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 141900,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt"
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 204543,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 204543,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 193343,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/5AP8DwNug6FEIT1N2W6lzW"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 173760,
       "name": "KNOW ABOUT ME",
       "url": "https://open.spotify.com/track/4yyV25B51NJRkaxqqqIoxY"
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 188608,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/2fsKNHi8vJN42gDLpBotRB"
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 188608,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/6qdGaCxEZzJ5qwi3mYS52z"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 238463,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/1gVZUPWSNPw8Q4ekYczjPM"
@@ -2938,7 +2956,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 158677,
       "name": "Mess",
       "url": "https://open.spotify.com/track/3Xh6AHSA00ROOKCc3eH3Ql"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 185813,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/7EfsDwMIp2K2zcesWFdIQ7"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 190997,
       "name": "Panic",
       "url": "https://open.spotify.com/track/624qd6FRTJ5MYNcuPdURYQ"

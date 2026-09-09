@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33743,
+  "num_followers": 33746,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAC8/uaRE2jnMvADGZv9BoGU",
+  "snapshot_id": "ap3+gAAAAADUjFycoeYDjm37bzvSzd+j",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 235080,
-      "name": "High Hope",
-      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
+      "duration_ms": 287601,
+      "name": "This Gift",
+      "url": "https://open.spotify.com/track/5E992ekvLksONA86pKVVS0"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 287601,
-      "name": "This Gift",
-      "url": "https://open.spotify.com/track/5E992ekvLksONA86pKVVS0"
+      "duration_ms": 235080,
+      "name": "High Hope",
+      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
     },
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "In These Arms",
+      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
       },
@@ -671,70 +695,6 @@
       "duration_ms": 266242,
       "name": "Time Will Be The Healer",
       "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "In These Arms",
-      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longitude",
-        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Star Star",
-      "url": "https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Star Star | Pure Imagination",
-      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,
@@ -823,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 238174,
+      "name": "Star Star",
+      "url": "https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Star Star | Pure Imagination",
+      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cost",
-        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -927,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longitude",
-        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
+        "name": "The Cost",
+        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
       },
       "artists": [
         {
@@ -940,9 +920,25 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 274343,
-      "name": "Seven Day Mile",
-      "url": "https://open.spotify.com/track/29bmB0tllG78IewIQYwFMj"
+      "duration_ms": 206413,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Grace Beneath the Pines",
+      "url": "https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm"
     },
     {
       "added_at": null,
@@ -963,18 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
       },
       "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Grace Beneath the Pines",
-      "url": "https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm"
+      "duration_ms": 274343,
+      "name": "Seven Day Mile",
+      "url": "https://open.spotify.com/track/29bmB0tllG78IewIQYwFMj"
     },
     {
       "added_at": null,

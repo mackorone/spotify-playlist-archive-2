@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "The Hand",
+        "url": "https://open.spotify.com/album/43fX9uwaRmoPEKbMzMMuav"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "The Hand",
+      "url": "https://open.spotify.com/track/177hzTEEFC7GTHOrfoUuSj"
+    },
+    {
+      "album": {
         "name": "Ola Gjeilo",
         "url": "https://open.spotify.com/album/4IOXEu8EgItKI8J9JDaEr4"
       },

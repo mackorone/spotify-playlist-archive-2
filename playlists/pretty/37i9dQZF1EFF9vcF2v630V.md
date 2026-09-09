@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 73 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 74 | [Better&Better](https://open.spotify.com/track/66pMYpqQfrPHUN2a2i2Xmk) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Better&Better](https://open.spotify.com/album/4TuCKQHAUQEIChrCJ0QEcD) | 2:24 |
 | 75 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
-| 76 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
-| 77 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
+| 76 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
+| 77 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AcbsyAAAAABI4Owk7vrQm5sf4XtPhmej`
+Snapshot ID: `AcbycgAAAADeICI6rV3SO1sbYSNhzAY/`

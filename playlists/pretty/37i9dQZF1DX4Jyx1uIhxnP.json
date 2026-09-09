@@ -1,6 +1,6 @@
 {
   "description": "The most iconic indie needle drops from the last two decades.",
-  "num_followers": 113846,
+  "num_followers": 113917,
   "original_name": "Indie On Screen",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-05-22 12:19:01",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/0PtqooT6O0E1uyizFZevFY"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5ibNaVO251Pb2c0Wdl00gG"
-    },
-    {
-      "added_at": "2026-05-22 12:19:01",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/4LTW34gTQI9N3f5zq6uMV2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 236333,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t"
+    },
+    {
+      "added_at": "2026-05-22 12:19:01",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/0PtqooT6O0E1uyizFZevFY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5ibNaVO251Pb2c0Wdl00gG"
     },
     {
       "added_at": "2026-05-22 12:19:01",

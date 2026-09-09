@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143507,
+  "num_followers": 143502,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+        "name": "Avant la suite",
+        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
+      "duration_ms": 217288,
+      "name": "Avant la suite",
+      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -263,22 +267,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Avant la suite",
-        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
       },
       "artists": [
         {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        },
-        {
-          "name": "Anastasia Kobekina",
-          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 217288,
-      "name": "Avant la suite",
-      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
+      "duration_ms": 182946,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Old Love",
         "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Moondog",
         "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Mais je sais que tu m'attends",
+      "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -631,38 +663,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Mais je sais que tu m'attends",
-      "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "how about you",
-        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 168484,
-      "name": "how about you",
-      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Loose Ends",
         "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 181448,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Sprint!",
+        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Frisbee & marmelade",
+      "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -695,22 +711,6 @@
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Sprint!",
-        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Frisbee & marmelade",
-      "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "I Liked Blue After You",
-        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
-      },
-      "artists": [
-        {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
-        }
-      ],
-      "duration_ms": 178168,
-      "name": "Dis-moi, dis-moi",
-      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Surface Tension",
         "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 169642,
       "name": "Surface Tension",
       "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -895,6 +879,22 @@
       "duration_ms": 197749,
       "name": "Eldorado - Acoustique",
       "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "TABLE DU FOND",
         "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 157750,
       "name": "TABLE DU FOND",
       "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Dog (everybody learns)",
-        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
-      },
-      "artists": [
-        {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
-        }
-      ],
-      "duration_ms": 193212,
-      "name": "Dog (everybody learns)",
-      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Future Lovers",
         "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 189386,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+      },
+      "artists": [
+        {
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+        }
+      ],
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Tempest",
         "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 205794,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+        "name": "Isabella",
+        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
       },
       "artists": [
         {
-          "name": "Olivia Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
         }
       ],
-      "duration_ms": 129204,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
+      "duration_ms": 248366,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1263,6 +1263,22 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "duration_ms": 129204,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1295,22 +1311,6 @@
       "duration_ms": 146597,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Isabella",
-        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
-      },
-      "artists": [
-        {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
-        }
-      ],
-      "duration_ms": 248366,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 189945,
-      "name": "Comme un b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1399,18 +1399,34 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 189945,
+      "name": "Comme un b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1431,22 +1447,6 @@
       "duration_ms": 316826,
       "name": "Dear Friend, Queer Friend",
       "url": "https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "les nuits sont blanches",
-        "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
+        "name": "Win of the Century",
+        "url": "https://open.spotify.com/album/791e4R93yIduaysv9IRthG"
       },
       "artists": [
         {
-          "name": "mirani coelho",
-          "url": "https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE"
+          "name": "Aidan Rex",
+          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
         }
       ],
-      "duration_ms": 202493,
-      "name": "verres fum\u00e9s",
-      "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
+      "duration_ms": 172500,
+      "name": "Win of the Century",
+      "url": "https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh"
     },
     {
       "added_at": "2026-09-04 04:03:17",

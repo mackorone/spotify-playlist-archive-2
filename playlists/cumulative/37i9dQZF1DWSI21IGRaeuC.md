@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-1,263 songs - 3 day 14 hr 16 min
+1,264 songs - 3 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [DECEIVER](https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5) | [M3RCH](https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8) | [DECEIVER](https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV) | 4:55 | 2025-11-11 | 2026-03-07 |
 | [Dedication \(feat\. Dub Princess\)](https://open.spotify.com/track/14iVg2g7m1esAQ7qZfexBI) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX), [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Dedication \(feat\. Dub Princess\)](https://open.spotify.com/album/00I0M1VEeKh21nHyBrSKBB) | 2:31 | 2025-01-24 | 2025-05-17 |
 | [Deep House Pumpin'](https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT), [AVIV SAB](https://open.spotify.com/artist/4bAjlKHnoyqHLW1UU7T0w3) | [Deep House Pumpin'](https://open.spotify.com/album/6gVyhHNeM4YL0laLjgG5Uh) | 2:52 | 2026-05-08 | 2026-08-08 |
+| [Deeper Blue](https://open.spotify.com/track/1fSz1mn3E5Ip4GW9FSTkze) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Ebullience 004](https://open.spotify.com/album/5IcTllM8oTQSid6WxoPwJk) | 7:50 | 2026-09-08 |  |
 | [Delighful Funk \- Edit](https://open.spotify.com/track/6Etd6C7NbfWIivVIbXprzw) | [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Spiritually Tessellate](https://open.spotify.com/album/5ZxjjfaZJf0fW1aOmxtMmp) | 4:30 | 2025-01-17 | 2025-01-25 |
 | [Delirium](https://open.spotify.com/track/17EDciH5MkBg3yIjGDULEz) | [Jacob Matthews](https://open.spotify.com/artist/6OLFLlG1W9ihgTCDQt5jaz) | [Delirium EP](https://open.spotify.com/album/1zizsnnKLkVbuqnkDIv3Xz) | 3:57 | 2026-03-13 | 2026-05-28 |
 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 | 2025-01-31 | 2025-05-17 |
@@ -664,7 +665,7 @@
 | [Loving Touch](https://open.spotify.com/track/3XA9NgjRNSrpTB0g1S1Y3U) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Boathouse EP](https://open.spotify.com/album/2liKEuM0zahgS2zBzc5VTL) | 6:21 | 2024-10-04 | 2024-11-23 |
 | [Loving You](https://open.spotify.com/track/7Jakum4jAT9jvM1DiNPYFH) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Loving You](https://open.spotify.com/album/4xif2QSx6ic8c7Gdfrysf6) | 3:00 | 2026-08-14 |  |
 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 | 2023-05-12 | 2024-03-09 |
-| [M.U.S.I.C](https://open.spotify.com/track/6QIHYxWiBHrznxiNWvnGnx) | [Radio Cargo](https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE) | [M.U.S.I.C](https://open.spotify.com/album/1IM0M2jNymmHjrVCQwc1Ht) | 3:22 | 2026-09-04 |  |
+| [M.U.S.I.C](https://open.spotify.com/track/6QIHYxWiBHrznxiNWvnGnx) | [Radio Cargo](https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE) | [M.U.S.I.C](https://open.spotify.com/album/1IM0M2jNymmHjrVCQwc1Ht) | 3:22 | 2026-09-04 | 2026-09-09 |
 | [Ma Money](https://open.spotify.com/track/0eIY2Oq4VtWMEj3f3RuNVq) | [ESCE](https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk) | [Ma Money](https://open.spotify.com/album/5UBlij9gS5MoBic5vD5UfP) | 3:12 | 2026-02-13 | 2026-03-14 |
 | [Madness](https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW) | [Pablo Aristimuño](https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI), [Mariche](https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF) | [Madness](https://open.spotify.com/album/4s7UM5ozdkz56jJqnxQwSO) | 3:32 | 2026-05-01 | 2026-08-08 |
 | [Magic Moment](https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju), [VIKTORIIA](https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:21 | 2022-07-15 | 2022-08-02 |

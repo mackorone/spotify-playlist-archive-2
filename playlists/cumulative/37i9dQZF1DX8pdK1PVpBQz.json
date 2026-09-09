@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Sammi Heaney",
+  "description": "The best new music by independent artists and labels. Cover: takytheartist",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 152451,
       "name": "2 Hours",
       "url": "https://open.spotify.com/track/3eM3aIMHuzZ45SQrAPAS7p"
@@ -7322,7 +7322,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 239500,
       "name": "bet on me",
       "url": "https://open.spotify.com/track/7oFsRjhIfGCRdOovTodkeZ"
@@ -12000,6 +12000,28 @@
       "duration_ms": 215884,
       "name": "Can We Talk When It's Over",
       "url": "https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1"
+    },
+    {
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/4ZfoNT53PrKcdGCXQdbFFr"
+      },
+      "artists": [
+        {
+          "name": "VNESSA",
+          "url": "https://open.spotify.com/artist/3KdGbRHItmkWPmcfPbASWJ"
+        },
+        {
+          "name": "J$L",
+          "url": "https://open.spotify.com/artist/6vIjwW1WEsw6CfMUIyS4oW"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161464,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1oZ9sLfmGVbVELcxPJGI4T"
     },
     {
       "album": {
@@ -25057,6 +25079,24 @@
     },
     {
       "album": {
+        "name": "FARK OFF",
+        "url": "https://open.spotify.com/album/7pWmNttatMq8nCWrOkF0MP"
+      },
+      "artists": [
+        {
+          "name": "takytheartist",
+          "url": "https://open.spotify.com/artist/43Wy4rxJRXDA9ybTkBz2Lf"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "FARK OFF",
+      "url": "https://open.spotify.com/track/5CECj9Jd8SC9Rr5MScgy14"
+    },
+    {
+      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/2rwT9A9iLERLtsNDKyoiPP"
       },
@@ -34203,6 +34243,24 @@
     },
     {
       "album": {
+        "name": "holy holy lord",
+        "url": "https://open.spotify.com/album/1kGFg10qrNC2Ep7vhnKHGA"
+      },
+      "artists": [
+        {
+          "name": "DeepFaith",
+          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254982,
+      "name": "holy holy lord",
+      "url": "https://open.spotify.com/track/2FJUmGmsUG5QHd8WBd58UV"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/37bHQLacoxIfddalbA7JGm"
       },
@@ -35814,6 +35872,28 @@
       "duration_ms": 186053,
       "name": "I HEAR THEM LAUGHING",
       "url": "https://open.spotify.com/track/7rH5ewwDtOyQQngISkJrLo"
+    },
+    {
+      "album": {
+        "name": "I Hope You Like Crazy Girls ft Evie Irie",
+        "url": "https://open.spotify.com/album/2eYO3eG3h1JZktjWTSdnUJ"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Lee",
+          "url": "https://open.spotify.com/artist/0S5Z6QmID3lnNX6ZDbYe8S"
+        },
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "I Hope You Like Crazy Girls ft Evie Irie",
+      "url": "https://open.spotify.com/track/5nEibzrAxWWfOxqUexhkPe"
     },
     {
       "album": {
@@ -37528,7 +37608,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 153428,
       "name": "IDFK",
       "url": "https://open.spotify.com/track/0YQE5ifusjCPWgwYXc45St"
@@ -39036,6 +39116,24 @@
       "duration_ms": 244160,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/2RHf6xi4tDKUuI8P5qiVQB"
+    },
+    {
+      "album": {
+        "name": "Innocence Lost",
+        "url": "https://open.spotify.com/album/75Wi3xjGZ3IABXAy6ZDDqE"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Innocence Lost",
+      "url": "https://open.spotify.com/track/3gLjcKMnD3HTShQndNph3G"
     },
     {
       "album": {
@@ -42150,7 +42248,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 198760,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/7HD1eI4xMRmiVer4mnkeEk"

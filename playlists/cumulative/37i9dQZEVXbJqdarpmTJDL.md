@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-2,961 songs - 6 day 8 hr 28 min
+2,962 songs - 6 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1688,6 +1688,7 @@
 | [Messi](https://open.spotify.com/track/3dlgCN1SOpdYTSihZ7s80k) | [GAB](https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [Young A6](https://open.spotify.com/artist/0VLbPNdrtGwHO1xlxodxYm) | [Messi](https://open.spotify.com/album/6jKknmLf1326njwOwMVufl) | 2:45 | 2022-04-11 | 2022-04-15 |
 | [MESSI](https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [MENJU](https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f) | [MESSI](https://open.spotify.com/album/1kDTW7rN7ClFlb5IJ3eqbq) | 2:31 | 2026-04-25 | 2026-05-15 |
 | [Messy](https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Messy](https://open.spotify.com/album/7nWf3uKfeQOGvkxAxfRfiw) | 3:12 | 2024-05-01 | 2024-09-01 |
+| [Metallo](https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Metallo](https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh) | 3:16 | 2026-09-08 |  |
 | [Metrhta](https://open.spotify.com/track/6kIzO9B518SyHCiKCC8q0J) | [GAMEBOY](https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd) | [Metrhta](https://open.spotify.com/album/6AciJoFvJZ8Q4w6gOio7Rz) | 2:29 | 2021-10-23 | 2021-10-24 |
 | [Metrita](https://open.spotify.com/track/5ZPhekpMLXFmewq8hc9GOA) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 4:06 | 2022-04-27 | 2022-05-08 |
 | [Mexri Telous](https://open.spotify.com/track/5t4ea9v5BSCWNw0aMzUoLd) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Mexri Telous](https://open.spotify.com/album/0TgTWLCCFaAIjJjUBXsTBK) | 4:03 | 2023-10-14 | 2023-10-20 |
@@ -2934,7 +2935,7 @@
 | [YELLOW TAPE](https://open.spotify.com/track/42E0QQ8QUEkNo65HT9HJSA) | [BTK 187](https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz), [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [F\(x\)](https://open.spotify.com/artist/1NbpbZKDQMFy0SrWe5tsI0), [Azazel](https://open.spotify.com/artist/0RYpaL8zGWdO7ZPGAPoFCy), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [YELLOW TAPE](https://open.spotify.com/album/5xchDlpk8smf3Vuj7pAjvv) | 3:56 | 2024-02-14 | 2024-02-16 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-13 | 2024-01-18 |
 | [YG](https://open.spotify.com/track/6u2xj0TGjUO1240jJclQPw) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 3:12 | 2026-04-25 | 2026-08-30 |
-| [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 | 2026-04-04 |  |
+| [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 | 2026-04-04 | 2026-09-09 |
 | [You And Me](https://open.spotify.com/track/2hawmeQUQ9Rou71QGou6Bb) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:41 | 2022-01-14 | 2022-03-13 |
 | [You Know Who](https://open.spotify.com/track/1fgnAIbZxLpb7redgLnB0i) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:41 | 2021-10-31 | 2021-11-05 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-02 |

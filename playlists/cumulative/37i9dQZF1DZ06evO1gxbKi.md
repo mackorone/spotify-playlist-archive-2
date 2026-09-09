@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-177 songs - 8 hr 47 min
+178 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Stand by Me](https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:53 | 2023-12-19 | 2024-08-23 |
 | [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 |  |
 | [Stand by Me \- Remastered](https://open.spotify.com/track/7ap282geVp4sKzLn93iYG2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Godmather of Rock'n'roll \- a Bluesy Twist on Gospel Music \(Remastered\)](https://open.spotify.com/album/02M2XVAfZLvasD7eTJ3V4z) | 2:54 | 2023-05-11 | 2023-09-03 |
+| [Steal Away \- Live At The Church Of God, NY / 1959](https://open.spotify.com/track/6c3I7Bi4lq4Zp1iwYF9Zqg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth \(Expanded Edition\)](https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl) | 3:14 | 2026-09-09 |  |
 | [Strange Things Are Happening](https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:21 | 2022-05-25 |  |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/2cXqQ0RT3zCKQ8yIVk7siF) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:47 | 2025-05-07 | 2025-07-02 |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 | 2022-05-25 | 2025-05-07 |

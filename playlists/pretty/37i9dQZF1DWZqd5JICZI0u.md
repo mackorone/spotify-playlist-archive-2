@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,865,523 likes - 222 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,866,217 likes - 222 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 16 | [Beyond Mist](https://open.spotify.com/track/5cwO9cfHua0QUEArBKMEic) | [Sable Flo](https://open.spotify.com/artist/4NdrRY3LXVcLpGbQR1IHTb) | [Beyond Mist](https://open.spotify.com/album/0XyQDQjMcOfqH53i6P3MJs) | 2:13 |
 | 17 | [Blooming Planet](https://open.spotify.com/track/2YWscIFSHjASXBUuijrEnk) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Blooming Planet](https://open.spotify.com/album/5bROtlloupvch8m6ZotSI1) | 2:32 |
 | 18 | [Meadow Dreams](https://open.spotify.com/track/7rKFCfBGJaP2APTYB0eaXw) | [Blundstoft](https://open.spotify.com/artist/2VvQi6CusXMIBImj5uNaTq) | [Meadow Dreams](https://open.spotify.com/album/6csrZX05UZrWKoX5e6Fv1e) | 2:13 |
-| 19 | [Filter](https://open.spotify.com/track/3wLZ2NgnLwB7l6ZZwXJPaj) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0) | [Filter](https://open.spotify.com/album/1HWM027MY9Wci4kGQSzZCq) | 2:15 |
+| 19 | [Filter](https://open.spotify.com/track/3wLZ2NgnLwB7l6ZZwXJPaj) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Rbili](https://open.spotify.com/artist/6hjZ7Lx0k79cXzMAHcIPRE) | [Filter](https://open.spotify.com/album/1HWM027MY9Wci4kGQSzZCq) | 2:15 |
 | 20 | [Moonrest](https://open.spotify.com/track/252jTZdnqJyOzDcYdP8m5p) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Moonrest](https://open.spotify.com/album/2cDE75sGImRDKIalg2wcun) | 2:39 |
 | 21 | [Regimens](https://open.spotify.com/track/66fjqZtyckhhkZaRsBibgl) | [Solenotte](https://open.spotify.com/artist/2vOGSidPf3VvxFRpgXQILQ) | [Regimens](https://open.spotify.com/album/4BitA8pMsmBOTABu0RhUU2) | 2:46 |
 | 22 | [Slow Glow](https://open.spotify.com/track/6kgRfqKWTEbEtVvLhQJjTy) | [Stella Solstice](https://open.spotify.com/artist/7FSm6WuCSQ8l2Gq6hUphpM) | [Slow Glow](https://open.spotify.com/album/0gN1miOUF2h6H7Eqa13mGw) | 2:37 |

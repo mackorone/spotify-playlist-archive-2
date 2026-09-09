@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 86795,
+  "num_followers": 86798,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAWFHaL2TVfZ+7NV+c7DP5h",
+  "snapshot_id": "ap3+gAAAAACg6BTk6NY3dqxL+H2YzNRI",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memorias Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "No Renunciar\u00e9",
-      "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 233280,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memorias Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "No Renunciar\u00e9",
+      "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "En Secreto",
-      "url": "https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 218840,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "En Secreto",
+      "url": "https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf"
     },
     {
       "added_at": null,

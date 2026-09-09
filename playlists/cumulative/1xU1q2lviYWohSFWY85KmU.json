@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 214949,
       "name": "Unbreakable (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/0EMYJRW1c1kCgNFdKMEIho"
@@ -2425,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "PIANOISM",
+        "url": "https://open.spotify.com/album/6Rz9m1QFncDVrZhefB1w1z"
+      },
+      "artists": [
+        {
+          "name": "\u6728\u702c\u306e\u3093",
+          "url": "https://open.spotify.com/artist/6s31l6banLnWpC9hm1lzcb"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "\u3053\u306e\u54c0\u306e\u7a7a\u306b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4jUPmc5B5hKtsrLm8IdG2Y"
+    },
+    {
+      "album": {
         "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f! (Sped Up)",
         "url": "https://open.spotify.com/album/13vmDOz3Oo5YHAwUOuGNcv"
       },
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 115582,
       "name": "\u3053\u308f\u308c\u3061\u3083\u3063\u305f\uff01\uff01 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6LsDXVbonXz8SSQriYV4Jt"
@@ -2797,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "\u306a\u3064\u307f",
+        "url": "https://open.spotify.com/album/2qFvXZuriuTM0QPnDtxi8e"
+      },
+      "artists": [
+        {
+          "name": "SLAVE.V-V-R",
+          "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "\u306a\u3064\u307f (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/4aNo8GRijAgEQcyDVaG0Gb"
+    },
+    {
+      "album": {
         "name": "iceQuarium -Melon Soda-",
         "url": "https://open.spotify.com/album/2UpQtAngd1zQvDed2CzlcZ"
       },
@@ -2996,7 +3040,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 227586,
       "name": "\u3075\u3042\u3093\uff01\u3075\u3042\u3093\uff01\u3075\u3042\u3093\uff01 (feat. \u521d\u97f3\u30df\u30af&\u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/7czjzKmL5C515dBLsRu0Tt"
@@ -3593,6 +3637,28 @@
     },
     {
       "album": {
+        "name": "ASTEROID",
+        "url": "https://open.spotify.com/album/0tlMBfmmZs10D8iDa1NUKc"
+      },
+      "artists": [
+        {
+          "name": "Hikarisyuyo",
+          "url": "https://open.spotify.com/artist/10CcaFt45OqB7FyU0VrUCT"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199585,
+      "name": "\u30a2\u30f3\u30c7\u30c3\u30c9 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/2rhqvkMHQWGSEIX268AqDZ"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30c9\u30a5",
         "url": "https://open.spotify.com/album/0DioWjcW8tvat58hhxDyoI"
       },
@@ -4134,7 +4200,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 148678,
       "name": "\u30ab\u30d7\u30bb\u30eb\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2TP5MnlwKkIPjRSgMBJKPK"
@@ -4288,7 +4354,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 167354,
       "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fcT (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/230cRggNk4fXdXyO0H6gMT"
@@ -8373,6 +8439,28 @@
     },
     {
       "album": {
+        "name": "\u597d\u30ad\u30b9\u30ad\u30c3\u30b9",
+        "url": "https://open.spotify.com/album/4ouJ3pqfKzkC1ui9Xo7oXo"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3064\u3042\u304f\u307e",
+          "url": "https://open.spotify.com/artist/07CEMzeMoCr76xtB6iglc0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "\u597d\u30ad\u30b9\u30ad\u30c3\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0RExn8CXWRKHCi70x1JddU"
+    },
+    {
+      "album": {
         "name": "\u5984\u60f3invitation",
         "url": "https://open.spotify.com/album/1Vz34nsmbOkqfXRl7ojs1a"
       },
@@ -9614,6 +9702,24 @@
       "duration_ms": 209500,
       "name": "\u6d0b\u71c8 (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5fEV1JGrOK0nnqilyVbe8m"
+    },
+    {
+      "album": {
+        "name": "\u6d17\u8133",
+        "url": "https://open.spotify.com/album/66CtC6WwCqspUDDbir6Mna"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171384,
+      "name": "\u6d17\u8133",
+      "url": "https://open.spotify.com/track/6EoeFqo0doIQQPjerATRdi"
     },
     {
       "album": {

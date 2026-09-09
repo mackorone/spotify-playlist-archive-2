@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 522 songs - 1 day 6 hr 0 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 523 songs - 1 day 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -530,5 +530,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 520 | [9:05AM](https://open.spotify.com/track/4xJNpTOBH56S9FyohmoHkw) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [9:05AM](https://open.spotify.com/album/4qbU6E7gD0eZvwaJqzjTzc) | 3:47 |
 | 521 | [Record Red](https://open.spotify.com/track/63be4fLJ60vW9xpDLEM1pa) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Utatane Piko](https://open.spotify.com/artist/1gU8DM5jfekks0NlNm0oNn) | [Record Red](https://open.spotify.com/album/6dujauPhtha0oFyApoi6mg) | 3:16 |
 | 522 | [生きてるおばけは生きている](https://open.spotify.com/track/2sWdQfVWACeiCfE0rK6Gf7) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GALAPAGOS](https://open.spotify.com/album/2SbwUk0WexA476H2UklLhe) | 3:21 |
+| 523 | [Last day](https://open.spotify.com/track/3GNMBhzzro7DQwLIPYDmHa) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:11 |
 
-Snapshot ID: `AAAKbATrzLpc6JcRVHAF+U8x4+wQ0wSi`
+Snapshot ID: `AAAKbVaan5pGFZo0QFgrib6+p58kpmWk`

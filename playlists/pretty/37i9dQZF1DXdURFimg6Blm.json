@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1485175,
+  "num_followers": 1485275,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "COOK",
         "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "I Rhyme Quick",
         "url": "https://open.spotify.com/album/4AFJwTFtpywljMCSXcsAIw"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 184850,
       "name": "I Rhyme Quick",
       "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr"
-      },
-      "artists": [
-        {
-          "name": "SEBS",
-          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Turn The Tide (ft. Sylver)",
-        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "Turn The Tide (ft. Sylver)",
-      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
         "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
@@ -1431,6 +1407,30 @@
       "duration_ms": 240318,
       "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
       "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Leaving (feat. Tristan Henry)",
+        "url": "https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "duration_ms": 198772,
+      "name": "Leaving (feat. Tristan Henry)",
+      "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Leaving (feat. Tristan Henry)",
-        "url": "https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
-        }
-      ],
-      "duration_ms": 198772,
-      "name": "Leaving (feat. Tristan Henry)",
-      "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Enigma POV",
         "url": "https://open.spotify.com/album/6XWlhXnqaiuAq8eFQx0Ocg"
       },
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Ehiorobo",
-          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Big Mad Banger",
         "url": "https://open.spotify.com/album/01j4PfyGgtsEJKJ795Is8u"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 252750,
       "name": "Big Mad Banger",
       "url": "https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-09-04 04:01:16",

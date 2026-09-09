@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,281 likes - 76 songs - 4 hr 32 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,296 likes - 88 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,17 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 74 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
 | 75 | [Daddy's Gone Disco](https://open.spotify.com/track/7BZ8YBm77VL9zypVjmal1C) | [Things We Built](https://open.spotify.com/artist/6nR593jw3f16T3dZ6r5naC) | [Daddy's Gone Disco](https://open.spotify.com/album/28r190G1W5ObFumX3uwrn3) | 4:24 |
 | 76 | [Falling to the Ground](https://open.spotify.com/track/75jXRd8mzVECXIOtCvbyg8) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [Falling to the Ground](https://open.spotify.com/album/5VxYxFcTOmQklzSyd6suRf) | 5:41 |
+| 77 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
+| 78 | [No Man's Land](https://open.spotify.com/track/17XkGGWCxIP7xgY1IjeveF) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [No Man's Land](https://open.spotify.com/album/3jTvRpe6hQw7bE4l8YTwDj) | 2:51 |
+| 79 | [Girl's Trip](https://open.spotify.com/track/0rIGhyl8iv0AVpjELBTTIT) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:03 |
+| 80 | [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 |
+| 81 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
+| 82 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 |
+| 83 | [No Friends Left](https://open.spotify.com/track/6L1yZEApeMG2EMWfz7u8U4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [No Friends Left](https://open.spotify.com/album/05nP9zQOxxEakXpzXALcWf) | 4:08 |
+| 84 | [Superpowers](https://open.spotify.com/track/1Q6j05Q09ZE0ii5xDwoUEO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:45 |
+| 85 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
+| 86 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
+| 87 | [1968 \(Revolution!\)](https://open.spotify.com/track/21Ots6rJlHoUidEw23tsLy) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [1968 \(Revolution!\)](https://open.spotify.com/album/64eYAjoS73rJKask7i9SrC) | 4:16 |
+| 88 | [White Line Fever](https://open.spotify.com/track/1kG0A9VkVKX5riGW3zauDV) | [Brian Lawless](https://open.spotify.com/artist/0j6sH1kk0VgjHu6xrCn674) | [Moonshine](https://open.spotify.com/album/5cMWXD5EcUKgQPyuzecdnA) | 3:38 |
 
-Snapshot ID: `AAAG9V09mUrH3BXGBIIhxH8edkBVCE1u`
+Snapshot ID: `AAAHAZc9JDNMQo3cSuS6ynWKSmZOzEp9`

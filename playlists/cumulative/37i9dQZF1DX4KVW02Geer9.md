@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 佐瀬悠輔
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 北村蕗
 
-619 songs - 1 day 20 hr 23 min
+621 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [EARLY AUTUMN](https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [LIVE\-ACTION \(Deluxe\)](https://open.spotify.com/album/5NHAIJ3NGdJPLvlYNO7ARG) | 2:21 | 2026-01-15 |  |
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-26 |  |
 | [Elastic Man](https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF) | [Tony Grey](https://open.spotify.com/artist/4YIpmOub8uUSREpCwKCoaf) | [Infinity Glitch](https://open.spotify.com/album/49JyMHpb8nxxfW1hGRsqEG) | 6:27 | 2024-10-17 | 2025-01-31 |
+| [embers](https://open.spotify.com/track/0lMsQ242U1HEo7OXnm2afH) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Camping Music](https://open.spotify.com/album/5UUH3V1AePhGd2v7HMIRKr) | 2:16 | 2026-09-08 |  |
 | [Endgame 3404](https://open.spotify.com/track/233OyZq9RYTq33crv2pcZN) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Endgame 3404](https://open.spotify.com/album/2EQ0C32Gjv90BXPNZUQc41) | 4:04 | 2025-09-18 | 2026-02-28 |
 | [Endless Gray](https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 3:40 | 2024-11-14 | 2025-03-07 |
 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 | 2026-07-16 |  |
@@ -338,6 +339,7 @@
 | [Message from Don Was pt.5](https://open.spotify.com/track/7eKHcRyOTN1BDFH747iwgB) | [Don Was](https://open.spotify.com/artist/3UZweLueIxSfgpLuFfeRYu) | [Message from Don Was](https://open.spotify.com/album/709yxv5DrLMCyBGW1cX5mJ) | 0:08 | 2025-06-05 | 2025-06-27 |
 | [Metamorphosis](https://open.spotify.com/track/7f5pfpSnF1R3jSM3LIz7il) | [Niklas Lukassen](https://open.spotify.com/artist/7xt7hs2uiOkaf0SITUoVUs), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Ben van Gelder](https://open.spotify.com/artist/3oF2KEIn3rBRaGktWCwKdg), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj) | [Still Waters](https://open.spotify.com/album/5W12gSskLDk1O5Rex8sXYq) | 3:19 | 2026-02-19 |  |
 | [Microcosm Session](https://open.spotify.com/track/7p3Mmio2WDsl52peHfJMNF) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [小川慶太](https://open.spotify.com/artist/4Tf8qWB33SgxD8rwdhHnAG), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj), [町田 匡](https://open.spotify.com/artist/1M6fgvIwZKHCAMA9rvoBE2) | [Microcosm](https://open.spotify.com/album/6OIZS1L07WvKFDBOjruviQ) | 6:28 | 2025-07-17 | 2025-08-15 |
+| [midi u](https://open.spotify.com/track/53bLuXCGsbSmfPgywKTkv7) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [midi u](https://open.spotify.com/album/2TKUMYawvqeMQnY6rB94jf) | 4:36 | 2026-09-08 |  |
 | [milk in my console](https://open.spotify.com/track/008dEKtOQpNLO2Clhx0UgD) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [milk in my console](https://open.spotify.com/album/0sNaG1rl47IO39BMB9I55L) | 5:29 | 2025-08-07 | 2025-11-28 |
 | [mini me](https://open.spotify.com/track/4RivZNKcpqoVuZy7o5U2p5) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [mini me](https://open.spotify.com/album/2sruJVYKJZdIY4c08Zm4OP) | 3:29 | 2025-10-16 |  |
 | [Missing My Bird \- 2024 Ver.](https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [Missing My Bird \(2024 Ver.\)](https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8) | 4:23 | 2024-08-29 | 2025-01-31 |

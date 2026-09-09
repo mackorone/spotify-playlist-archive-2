@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXqSX1qhYMDFGrnx30Rt0pOpAHKX1l",
+  "snapshot_id": "AAAXrHzKdYoenSlTel32K34SgG4pTkhx",
   "tracks": [
     {
       "added_at": "2026-09-04 07:33:13",
@@ -2043,6 +2043,58 @@
       "duration_ms": 208080,
       "name": "Ready to fly",
       "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
+    },
+    {
+      "added_at": "2026-09-08 07:56:28",
+      "album": {
+        "name": "Arena y Sal (Remix)",
+        "url": "https://open.spotify.com/album/02AKTqCfz1hGUgu2bUlttT"
+      },
+      "artists": [
+        {
+          "name": "Amor y Mareas",
+          "url": "https://open.spotify.com/artist/5q5rt9n700qDxWk62QPGQh"
+        },
+        {
+          "name": "Ralf Nasdalla",
+          "url": "https://open.spotify.com/artist/5hDDlbZZWQFs8Z1eZkro7Q"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Arena y Sal - Remix",
+      "url": "https://open.spotify.com/track/4Y1RkPyZPjbJJvPOeXVgUH"
+    },
+    {
+      "added_at": "2026-09-08 07:56:48",
+      "album": {
+        "name": "Queen of the Night",
+        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 228682,
+      "name": "Queen of the Night",
+      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+    },
+    {
+      "added_at": "2026-09-08 07:56:50",
+      "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/6l4JkbJGK2U8kKA7G1smnh"
+      },
+      "artists": [
+        {
+          "name": "Mango Tango",
+          "url": "https://open.spotify.com/artist/603GLu89qEAccU4GDkidt6"
+        }
+      ],
+      "duration_ms": 184313,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/6UyFSNlpzAtG8SD8IJXYm2"
     }
   ],
   "unique_name": "New Indie Music",

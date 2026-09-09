@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Jem Cassar\-Daley
 
-741 songs - 1 day 17 hr 28 min
+742 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-30 | 2024-09-23 |
 | [Body Step](https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Body Step](https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA) | 5:07 | 2026-07-09 | 2026-08-15 |
 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-28 | 2024-12-06 |
+| [Bogota](https://open.spotify.com/track/6Ep6LoM0zWCDTZg3dLhlTR) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Airbourne](https://open.spotify.com/album/5x82OmKG4iveTii2yecitJ) | 4:11 | 2026-09-03 |  |
 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 | 2026-07-16 | 2026-08-05 |
 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-04-23 |  |
 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 | 2025-10-17 | 2026-03-30 |
@@ -180,7 +181,7 @@
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-05 | 2025-06-13 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-30 | 2025-02-07 |
 | [Easing Out Of Control](https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:34 | 2026-01-15 | 2026-02-13 |
-| [East Village](https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY) | 3:31 | 2026-06-11 |  |
+| [East Village](https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY) | 3:31 | 2026-06-11 | 2026-09-09 |
 | [Eastern Rosellas \- Full Band](https://open.spotify.com/track/44Uzl6Q8nNEsuvem75ZCPN) | [Miles Phillips](https://open.spotify.com/artist/7ne7pZLngBmdkDWqz784lW) | [Eastern Rosellas \(Full Band\)](https://open.spotify.com/album/2E7vjISA5i7yc8Pm4e8Qf5) | 1:39 | 2026-08-27 |  |
 | [Easy](https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Easy](https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk) | 3:07 | 2026-08-07 |  |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-17 | 2025-10-04 |

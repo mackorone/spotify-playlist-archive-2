@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月6日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月7日付。
 
 7,906 songs - 19 day 15 hr 15 min
 
@@ -4156,7 +4156,7 @@
 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-17 | 2025-06-24 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-01-21 | 2026-01-23 |
 | [Stay Strong](https://open.spotify.com/track/5QpUC7xEHDtfb8LDKjQL1X) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 3:57 | 2025-11-03 | 2025-12-23 |
-| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 |  |
+| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 | 2026-09-09 |
 | [Stay With Me](https://open.spotify.com/track/0fsKNLLBYG3rKS2TqkjFK1) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/7kVrV33IC6X8fFjhbI8Bej) | 2:57 | 2026-01-05 | 2026-01-15 |
 | [STAY with ME](https://open.spotify.com/track/5jSydhgZhCHzEooYlRnK3y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [LiKE](https://open.spotify.com/album/0JKdtgiu4SQsxn463ay4WE) | 4:59 | 2026-04-23 | 2026-04-25 |
 | [stay with me](https://open.spotify.com/track/2H9QGcpwQ9kaPxNK5qBOEc) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [理屈で話す君と、感情論の僕](https://open.spotify.com/album/3VgIlelKWt7n48M80O7CHx) | 3:39 | 2026-02-16 | 2026-02-21 |
@@ -4250,7 +4250,7 @@
 | [Summer Princess](https://open.spotify.com/track/2mxLMO0U94w8URMdQgsmtO) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Summer Princess](https://open.spotify.com/album/7sec374LvT6rkiJXadGe5C) | 2:56 | 2024-08-16 | 2024-08-22 |
 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 | 2025-08-08 | 2025-08-13 |
 | [Summer Riot \~熱帯夜\~](https://open.spotify.com/track/6QClHcrHjZH4aVkVdt9uyl) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Summer Riot \~熱帯夜\~ / Everest](https://open.spotify.com/album/2xhHoQRF1wsO1dVHHhmygT) | 3:40 | 2023-08-01 | 2023-08-09 |
-| [SUMMER SONG](https://open.spotify.com/track/1ZCFq7Fq1ZN5nI5GHXEAdg) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 3:26 | 2023-07-24 |  |
+| [SUMMER SONG](https://open.spotify.com/track/1ZCFq7Fq1ZN5nI5GHXEAdg) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 3:26 | 2023-07-24 | 2026-09-09 |
 | [Summer Time \(feat\. DADA\)](https://open.spotify.com/track/4utMg0bctOrCj0uRNsTWRm) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Summer Time \(feat\. DADA\)](https://open.spotify.com/album/71tNqtYBMBvo0k70P0GbqI) | 3:03 | 2026-07-17 | 2026-07-21 |
 | [Summer Too Hot](https://open.spotify.com/track/47gueui8O3YPtQL410Mimv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:07 | 2025-04-11 | 2025-04-15 |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-24 | 2023-06-26 |
@@ -4749,7 +4749,7 @@
 | [UP TO TOKYO](https://open.spotify.com/track/0FuonCYwNDePhlh3xYIiOw) | [RIHITO \(INI\)](https://open.spotify.com/artist/1P7vQSwrVlucNomu6jayeD) | [UP TO TOKYO](https://open.spotify.com/album/2NjV5KynZPa59XhyMGSShW) | 3:18 | 2025-10-09 | 2025-10-11 |
 | [Up to you](https://open.spotify.com/track/0M518NEgun9RkYwxozJBic) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/18v5nf750qcff18B0a6WmG) | 2:58 | 2025-08-29 | 2025-09-04 |
 | [Up2u](https://open.spotify.com/track/5hTxxr5qA1JkJmDikqfGIN) | [KIKUMARU](https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [o](https://open.spotify.com/album/4Ief9bRqKML2BpCMmy9lYg) | 4:08 | 2023-09-29 | 2023-10-02 |
-| [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 | 2026-04-15 | 2026-09-08 |
+| [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 | 2026-04-15 |  |
 | [UPSIDE DOWN \- Studio Live \-](https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T \- Studio Live \-](https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX) | 3:09 | 2026-05-07 | 2026-05-09 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2024-01-04 | 2026-07-10 |
 | [Ureshii Hinamatsuri](https://open.spotify.com/track/7DvFnTXXzZ3byJw7CiEYMo) | [Shoko Haida](https://open.spotify.com/artist/3SW7viaMu12cE2V3DQPBIx) | [Minna no Douyou Shouka Medaka no Gakkou \- Yuuyake Koyake](https://open.spotify.com/album/2f9bo3pYA0FyICEvpweEG7) | 2:09 | 2025-03-06 | 2026-03-07 |
@@ -5107,7 +5107,7 @@
 | [you n me](https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [you n me](https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw) | 4:28 | 2023-05-29 | 2023-06-05 |
 | [You Wanna Cry](https://open.spotify.com/track/79PiWP2391W8NtEZMSRdHq) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 2:54 | 2025-02-19 | 2025-02-20 |
 | [You!Joy!Parade!](https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [You!Joy!Parade!](https://open.spotify.com/album/1HVcgwuswaCmIkYX41jRxT) | 3:01 | 2026-07-20 | 2026-07-28 |
-| [you&i](https://open.spotify.com/track/1wdW2U0jxre5f2GMcR7tiF) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [エロティシズム](https://open.spotify.com/album/696jUAIpCGgYV6kmSuCgsv) | 4:27 | 2026-08-19 | 2026-09-08 |
+| [you&i](https://open.spotify.com/track/1wdW2U0jxre5f2GMcR7tiF) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [エロティシズム](https://open.spotify.com/album/696jUAIpCGgYV6kmSuCgsv) | 4:27 | 2026-08-19 |  |
 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 | 2024-01-06 | 2024-01-16 |
 | [You're already dead](https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [You're already dead](https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG) | 3:19 | 2025-07-07 | 2025-07-15 |
 | [You're My Only Shinin' Star](https://open.spotify.com/track/7ojW19QsMIfVLcOFIkGCwl) | [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [COLLECTION Ⅱ](https://open.spotify.com/album/1xlyKa9AMqvJrIAQcp2J3X) | 4:39 | 2024-12-19 | 2024-12-20 |

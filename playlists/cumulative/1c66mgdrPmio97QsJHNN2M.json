@@ -268,7 +268,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 180777,
       "name": "A Box To Grow (Burn)",
       "url": "https://open.spotify.com/track/3zPOWzV3LP7rHbzWatCtrd"
@@ -5588,7 +5588,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 181160,
       "name": "Book Of The Year",
       "url": "https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 216920,
       "name": "Bro-trayal",
       "url": "https://open.spotify.com/track/3piWmDSJJ5okDmUImTT60Q"
@@ -9916,7 +9916,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 188333,
       "name": "Day Over Night",
       "url": "https://open.spotify.com/track/09zHsEmES1XK4sawUvMzY7"
@@ -10381,6 +10381,24 @@
     },
     {
       "album": {
+        "name": "Devil in a Drop Shoulder",
+        "url": "https://open.spotify.com/album/2sdaSgxDfpWlACYd665zAL"
+      },
+      "artists": [
+        {
+          "name": "Hayden J Barlow",
+          "url": "https://open.spotify.com/artist/54QKgqIuwIximWz6A6ZQG2"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Devil in a Drop Shoulder",
+      "url": "https://open.spotify.com/track/0DEQkZOqImRmrYrK65hvNv"
+    },
+    {
+      "album": {
         "name": "Devil in a Red T-Shirt",
         "url": "https://open.spotify.com/album/6mefiK97Qkk6uYWAYczOBx"
       },
@@ -10396,6 +10414,24 @@
       "duration_ms": 161000,
       "name": "Devil in a Red T-Shirt",
       "url": "https://open.spotify.com/track/3zsBtu7XSlCFEC2wVc5Uva"
+    },
+    {
+      "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/7rBXkGePRUjnVb1louqZKM"
+      },
+      "artists": [
+        {
+          "name": "Tanner Carlson",
+          "url": "https://open.spotify.com/artist/4Ksn3ZYq2hClDXBStnMB23"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182343,
+      "name": "Devil Stole (My Baby's Ring)",
+      "url": "https://open.spotify.com/track/2XwLLAJUGarWI3LzwGGl2s"
     },
     {
       "album": {
@@ -11322,7 +11358,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 187985,
       "name": "Don't Play with Fire",
       "url": "https://open.spotify.com/track/36Z7MHTZoR25HDvGpEoqYj"
@@ -15208,7 +15244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 192214,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6cjI0Hwsocw6aZYvn3Xr9g"
@@ -16738,7 +16774,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 176928,
       "name": "Ghoul",
       "url": "https://open.spotify.com/track/1qNZ8hE15ca11ls2LnRrEM"
@@ -20618,7 +20654,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 149370,
       "name": "I Landed",
       "url": "https://open.spotify.com/track/5QNKtFyOW7cU6ClaSY0JhH"
@@ -20730,6 +20766,24 @@
       "duration_ms": 170805,
       "name": "I miss you even though",
       "url": "https://open.spotify.com/track/6Gzxv1ZiZ5O9Jo9NL3pJai"
+    },
+    {
+      "album": {
+        "name": "I miss you sober",
+        "url": "https://open.spotify.com/album/4zuhCNoTPDiZeMH8LC3pco"
+      },
+      "artists": [
+        {
+          "name": "Kari Ann Peniche",
+          "url": "https://open.spotify.com/artist/7g4m4uKcZWZjFr5FcOshGT"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "I miss you sober",
+      "url": "https://open.spotify.com/track/5tFi6x2ezR7AsayLaP6ELv"
     },
     {
       "album": {
@@ -22238,7 +22292,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 181636,
       "name": "In Despair",
       "url": "https://open.spotify.com/track/5mlIbtH4lGIFfRHNZynaaZ"
@@ -22422,6 +22476,24 @@
       "duration_ms": 229285,
       "name": "In This Light",
       "url": "https://open.spotify.com/track/33RX6DlgVuk0T2SlCdNfWZ"
+    },
+    {
+      "album": {
+        "name": "In Your Head",
+        "url": "https://open.spotify.com/album/6SJYDG19dGxDwpXLPwxanv"
+      },
+      "artists": [
+        {
+          "name": "Alisha Richardson",
+          "url": "https://open.spotify.com/artist/0drKT3M6CZpSRvaCLyzBl3"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152656,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/2JBoBSAEaS5a4GeyIsi8oA"
     },
     {
       "album": {
@@ -22950,6 +23022,24 @@
       "duration_ms": 218000,
       "name": "It Feels Wrong (Aurawave Starlight Remix)",
       "url": "https://open.spotify.com/track/0989fQZGrjQmV4dDb3F62X"
+    },
+    {
+      "album": {
+        "name": "It Lasted Forever",
+        "url": "https://open.spotify.com/album/2VNwcps61Pbk3xlBA0dU4g"
+      },
+      "artists": [
+        {
+          "name": "N3RO",
+          "url": "https://open.spotify.com/artist/3VH4ac2WZh76HJm6nqIPIF"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198243,
+      "name": "It Lasted Forever",
+      "url": "https://open.spotify.com/track/1m77OG00Rc9So2qCo5xOap"
     },
     {
       "album": {
@@ -24928,7 +25018,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 151640,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/10yIfqlreo2Hu37eqKlmJh"
@@ -25592,6 +25682,24 @@
       "duration_ms": 206000,
       "name": "Little Blizzard",
       "url": "https://open.spotify.com/track/1Rpuz7TJ0MD0NzMAZPwyUQ"
+    },
+    {
+      "album": {
+        "name": "Little By Little I Fall For You",
+        "url": "https://open.spotify.com/album/4FuhBVblQX3uPlzXeKFU7X"
+      },
+      "artists": [
+        {
+          "name": "Ketan Shah",
+          "url": "https://open.spotify.com/artist/4I3NAsMT2ReFdGiioOYRhn"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Little By Little I Fall For You",
+      "url": "https://open.spotify.com/track/0NIIHYfDKHKmyWzLTbsz0m"
     },
     {
       "album": {
@@ -26287,6 +26395,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Echoes",
+        "url": "https://open.spotify.com/album/5HIazdinv90vPxWaUpUyWp"
+      },
+      "artists": [
+        {
+          "name": "Sophie Savage",
+          "url": "https://open.spotify.com/artist/20wEyeqiuiGbJn6UIsRvvu"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147433,
+      "name": "Lost In The Echoes",
+      "url": "https://open.spotify.com/track/4LKMCKaM8ljgjRnFIIKXlU"
+    },
+    {
+      "album": {
         "name": "The seagull has landed",
         "url": "https://open.spotify.com/album/2tXnOFf6oll6WHyMPZb9nN"
       },
@@ -26922,7 +27048,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 184627,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3yz43mqNcGvfcGZib491i5"
@@ -32158,7 +32284,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 147204,
       "name": "on me",
       "url": "https://open.spotify.com/track/7xRUVS3AP1QiMuDGh5OdW1"
@@ -34168,7 +34294,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 189098,
       "name": "Picture People - Live with Orchestra",
       "url": "https://open.spotify.com/track/7a0v60WJ3mfOjeNGtEdi8C"
@@ -37550,7 +37676,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 177916,
       "name": "SATELLITES IN LOVE",
       "url": "https://open.spotify.com/track/433whUDqRLdB6lGSvS0nCD"
@@ -38340,6 +38466,24 @@
       "duration_ms": 191110,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/6dbMExaYNVeOJtIf1q8Pop"
+    },
+    {
+      "album": {
+        "name": "Shadow self",
+        "url": "https://open.spotify.com/album/2fYCNTdtmyeBig4KgdM9Cy"
+      },
+      "artists": [
+        {
+          "name": "Roby Calt",
+          "url": "https://open.spotify.com/artist/3gvxYvK4zn37pEQvv16sIA"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Shadow self",
+      "url": "https://open.spotify.com/track/1SfXofrk2MsyNnbUoOF9dj"
     },
     {
       "album": {
@@ -40091,6 +40235,24 @@
     },
     {
       "album": {
+        "name": "Someone in My Head",
+        "url": "https://open.spotify.com/album/5r5U8DNO8SBvjKyRnxZRyM"
+      },
+      "artists": [
+        {
+          "name": "Paul Louis Villani",
+          "url": "https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Someone in My Head (Radio Edit)",
+      "url": "https://open.spotify.com/track/7ESjGoSzZB207tEKTg2Q8M"
+    },
+    {
+      "album": {
         "name": "Someone To Call",
         "url": "https://open.spotify.com/album/1lZpiyu7LXTRdTxu0tCIc7"
       },
@@ -41589,6 +41751,28 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down (Cheerful Music Writing Camp)",
+        "url": "https://open.spotify.com/album/2UuOBFvDe2vLXwkWb9XvHq"
+      },
+      "artists": [
+        {
+          "name": "PIggy",
+          "url": "https://open.spotify.com/artist/5Peky9rOMytKOvpiq5cJcT"
+        },
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/68pfAx9ScJhEfTjrEmiM8X"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/432OnIpU6flCteyB2zt5iH"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0SzByzSjWtvfJNtJ4geh0h"
       },
@@ -41636,7 +41820,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 209919,
       "name": "Suno Killed The Analog Star",
       "url": "https://open.spotify.com/track/2VDLHk7gpJ0nHKTTBCbTQi"
@@ -42784,7 +42968,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 217280,
       "name": "Tell Me More (Live from the Wrong Timeline)",
       "url": "https://open.spotify.com/track/4rOCHEeyxFIROj8aFDGRn4"
@@ -42954,7 +43138,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 82588,
       "name": "The Ambient Rhythm",
       "url": "https://open.spotify.com/track/2AA5NVq8GYQtzgQ6gR8D0S"
@@ -44850,7 +45034,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 149374,
       "name": "This Is Your Life - Radio Edit",
       "url": "https://open.spotify.com/track/11EVC4AaUTn0lw8srOW9dA"
@@ -46076,7 +46260,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 183640,
       "name": "Triangle - Radio Edit",
       "url": "https://open.spotify.com/track/543GCJ4pha6NR5nKOY0dg0"
@@ -48004,7 +48188,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 164784,
       "name": "WASTED TIME",
       "url": "https://open.spotify.com/track/6HVvieBw6iBITrpNI47THl"
@@ -48062,6 +48246,24 @@
       "duration_ms": 185919,
       "name": "Watch me now",
       "url": "https://open.spotify.com/track/3IwGgRGKUZdUH27rcnYYrU"
+    },
+    {
+      "album": {
+        "name": "UNFILTERED",
+        "url": "https://open.spotify.com/album/0c1hFwlzsb83Wk1ky78686"
+      },
+      "artists": [
+        {
+          "name": "DJBigShot",
+          "url": "https://open.spotify.com/artist/4W9avyG0YorkIUIadsZ1w8"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159039,
+      "name": "WAVE RAIDER",
+      "url": "https://open.spotify.com/track/5xJcH5Z8tKd9FLPOE0sQGM"
     },
     {
       "album": {
@@ -48278,7 +48480,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 106599,
       "name": "We're There",
       "url": "https://open.spotify.com/track/1dd0FKj77F6GV7s26ypcw8"
@@ -48642,7 +48844,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 163279,
       "name": "What Should I Name This",
       "url": "https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz"
@@ -49014,7 +49216,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 159798,
       "name": "Where did we go Wrong?",
       "url": "https://open.spotify.com/track/7dRSwtbDCs6TypGIANuZRw"

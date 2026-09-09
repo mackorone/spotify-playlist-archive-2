@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Pepe Madero en portada.",
-  "num_followers": 39471,
+  "num_followers": 39485,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
         "name": "\u00bfQui\u00e9n Gan\u00f3?",
         "url": "https://open.spotify.com/album/3c88JcbntIqCVkgxtguh8R"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195616,
       "name": "\u00bfQui\u00e9n Gan\u00f3?",
       "url": "https://open.spotify.com/track/0oVjMzqIPzgPkGnis5Aikt"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "Poder Quererme",
-        "url": "https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 266447,
-      "name": "Poder Quererme",
-      "url": "https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
         "name": "Se Me Va",
         "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213000,
       "name": "Se Me Va",
       "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
+        "name": "Poder Quererme",
+        "url": "https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 266447,
+      "name": "Poder Quererme",
+      "url": "https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "Vidrio por Doquier",
-        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Vidrio por Doquier",
-      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
         "name": "MAPAS II",
         "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 223125,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
         "name": "7 Secretos",
         "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
-        "name": "Vivos",
-        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
     },
     {
       "added_at": "2026-09-04 06:00:30",

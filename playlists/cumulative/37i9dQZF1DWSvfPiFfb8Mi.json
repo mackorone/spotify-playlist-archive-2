@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "album": {
         "name": "Electric Drama",
         "url": "https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU"
       },
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 246968,
       "name": "Pawa!",
       "url": "https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc"

@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13697,
+  "num_followers": 13702,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADTLai8OklmZnjar7U32AV5",
+  "snapshot_id": "ap3+gAAAAABulwX3alWmMr0sMsG8EpPR",
   "tracks": [
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPREME SANDERS",
-        "url": "https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 142506,
-      "name": "SUPREME SANDERS",
-      "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YA DIGG (feat. EST SkiMike)",
         "url": "https://open.spotify.com/album/5smTyvHpobgvjAzmhgjlbh"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 124186,
       "name": "YOU KNOW IT (feat. 86Snot, EST Spit & EST4Nikk)",
       "url": "https://open.spotify.com/track/1u2i7Zyqqtq0vYfy7LCzzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPREME SANDERS",
+        "url": "https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 142506,
+      "name": "SUPREME SANDERS",
+      "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
     },
     {
       "added_at": null,

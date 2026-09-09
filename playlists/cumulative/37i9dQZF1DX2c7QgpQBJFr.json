@@ -24649,6 +24649,24 @@
     },
     {
       "album": {
+        "name": "SOTTOGONNA",
+        "url": "https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "SOTTOGONNA",
+      "url": "https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv"
+    },
+    {
+      "album": {
         "name": "Sottopelle",
         "url": "https://open.spotify.com/album/03Uyur2DXG29BG0z9PzGTX"
       },

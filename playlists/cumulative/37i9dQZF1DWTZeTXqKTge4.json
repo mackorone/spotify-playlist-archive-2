@@ -8944,7 +8944,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 125090,
       "name": "Fanta",
       "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
@@ -14745,6 +14745,28 @@
     },
     {
       "album": {
+        "name": "los machucambos",
+        "url": "https://open.spotify.com/album/3oFZsXpfYDCypWCrhzxb9h"
+      },
+      "artists": [
+        {
+          "name": "FILOU",
+          "url": "https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102977,
+      "name": "los machucambos",
+      "url": "https://open.spotify.com/track/4nBwEYEr9AYdC257rVbf1o"
+    },
+    {
+      "album": {
         "name": "Love d'un voyou",
         "url": "https://open.spotify.com/album/6ehJBKCLlIMQrBpT6hwbP9"
       },
@@ -14912,7 +14934,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 193500,
       "name": "L\u00c0 TU C",
       "url": "https://open.spotify.com/track/0SjxnsjYxT0HWKi1zVflOU"
@@ -22554,6 +22576,24 @@
       "duration_ms": 191135,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/0QzKhiUheuDm0et5lzKpTy"
+    },
+    {
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "album": {

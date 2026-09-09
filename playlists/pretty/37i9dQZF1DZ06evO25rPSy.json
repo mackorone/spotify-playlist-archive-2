@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25257,
+  "num_followers": 25256,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAACXAerCickZOTDBYlBphcw1",
+  "snapshot_id": "ap3+gAAAAAAAJoqMx8XE1r7GQzkCKrAg",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 273933,
-      "name": "Cuando El Sol Va A Salir",
-      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
+      "duration_ms": 282266,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 259252,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
+      "duration_ms": 204480,
+      "name": "Los Ni\u00f1os Se Enamoran",
+      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 282266,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
+      "duration_ms": 273933,
+      "name": "Cuando El Sol Va A Salir",
+      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 204480,
-      "name": "Los Ni\u00f1os Se Enamoran",
-      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
+      "duration_ms": 259252,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
     },
     {
       "added_at": null,

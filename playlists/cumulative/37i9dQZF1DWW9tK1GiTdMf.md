@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-1,762 songs - 3 day 8 hr 56 min
+1,763 songs - 3 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1452,6 +1452,7 @@
 | [sotto sotto](https://open.spotify.com/track/10gwf4dDvntcxFpBE2opUe) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [sotto sotto](https://open.spotify.com/album/0qIbw1ruQOL01mXkqZFwKn) | 2:46 | 2023-05-03 | 2023-07-14 |
 | [sotto xan](https://open.spotify.com/track/7BfKvlQp2FYJMwDZL15PUu) | [vilesangue](https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym) | [sotto xan](https://open.spotify.com/album/01at1bmVfJ8JCMhrmIPfMT) | 2:49 | 2025-11-06 | 2025-11-28 |
 | [SOTTOCASSA](https://open.spotify.com/track/0Rf4LshYiwd7DOeLwVjzQQ) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [SOTTOCASSA](https://open.spotify.com/album/6VedZ2fANn6LXntx72NTa1) | 2:36 | 2024-07-18 | 2024-12-20 |
+| [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-08 |  |
 | [SOTTONE DANNATO](https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv) | 3:12 | 2022-08-11 | 2023-02-25 |
 | [SOTTONE DANNATO](https://open.spotify.com/track/6tUwIQtOtnr3ETob6dl1Kz) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/7mpH2Yd0j1Y7LnSAy15T0t) | 3:12 | 2023-02-23 | 2023-04-28 |
 | [Sottosopra](https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Sottosopra](https://open.spotify.com/album/2wl48fvKt0jNKC5y6Z53Dr) | 2:39 | 2022-05-06 | 2023-01-13 |

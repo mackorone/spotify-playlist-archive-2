@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,169 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,183 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Ich hoffe du hast Angst](https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Ich hoffe du hast Angst](https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860) | 2:30 |
 | 18 | [OAKBERRY](https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [OAKBERRY](https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7) | 1:51 |
 | 19 | [kahs là bas](https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [kahs là bas](https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0) | 2:10 |
-| 20 | [Annabella](https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL) | [Laura Larsson](https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Annabella](https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq) | 2:26 |
-| 21 | [mr\. rush](https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [mr\. rush](https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3) | 2:24 |
+| 20 | [mr\. rush](https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [mr\. rush](https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3) | 2:24 |
+| 21 | [Annabella](https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL) | [Laura Larsson](https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Annabella](https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq) | 2:26 |
 | 22 | [dummes klavier](https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [dummes klavier](https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4) | 3:19 |
 | 23 | [BLESSED](https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:51 |
 | 24 | [blair waldorf \#mag mich](https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [blair waldorf \#mag mich](https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM) | 2:22 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Keine Tränen](https://open.spotify.com/track/0TExrpemmt9Yt9GkOTzwJf) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode](https://open.spotify.com/album/7hCDEPx9vObaxVQi8UJQx0) | 2:11 |
 | 31 | [Blow Sum More](https://open.spotify.com/track/7G9dl9K9KfN2W6ygwEeBtL) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Blow Sum More](https://open.spotify.com/album/1R0KCsLVFFmork5VL9bpq2) | 2:13 |
 | 32 | [Little Silver](https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Little Silver](https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN) | 3:26 |
-| 33 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
-| 34 | [ADRENALIN](https://open.spotify.com/track/40uLIxGcvydremPOVvcasV) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [ADRENALIN](https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ) | 2:27 |
-| 35 | [chameleon](https://open.spotify.com/track/6CHBHzPUxiFKcHNmWrpe1n) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chameleon](https://open.spotify.com/album/5jzR0Rqvd7IZp6XWVKWipm) | 2:48 |
+| 33 | [ADRENALIN](https://open.spotify.com/track/40uLIxGcvydremPOVvcasV) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [ADRENALIN](https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ) | 2:27 |
+| 34 | [chameleon](https://open.spotify.com/track/6CHBHzPUxiFKcHNmWrpe1n) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chameleon](https://open.spotify.com/album/5jzR0Rqvd7IZp6XWVKWipm) | 2:48 |
+| 35 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
 | 36 | [TEST](https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [TEST](https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84) | 2:41 |
 | 37 | [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 |
 | 38 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |

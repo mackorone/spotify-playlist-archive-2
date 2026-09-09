@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Glória Groove
 
-1,208 songs - 2 day 11 hr 54 min
+1,209 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Aditivada](https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Aditivada](https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU) | 2:29 | 2024-12-13 | 2025-02-08 |
 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 | 2023-07-22 |
 | [AFF](https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [AFF](https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv) | 2:26 | 2025-10-24 | 2026-01-31 |
-| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 |  |
+| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 | 2026-09-09 |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2024-06-15 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2020-10-20 | 2023-02-15 |
 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 | 2025-08-15 |  |
@@ -1176,6 +1176,7 @@
 | [Vim de Longe](https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv) | [SUPERALMA](https://open.spotify.com/artist/7f8jwHZAtx26tKaOWYmn3a) | [Vim de Longe](https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh) | 2:49 | 2025-08-22 | 2026-03-28 |
 | [VINGANCINHA](https://open.spotify.com/track/0T1fxjJtJY0i6BRj5KtYJN) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [VINGANCINHA](https://open.spotify.com/album/518E90Kf3wO1O2rI65G7Eb) | 2:20 | 2023-04-07 | 2023-09-16 |
 | [Vira E Mexe](https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Vira E Mexe](https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh) | 3:10 | 2024-06-21 | 2025-07-26 |
+| [Vira\-Lata](https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Vira\-Lata](https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA) | 2:16 | 2026-09-04 |  |
 | [Visão](https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:01 | 2024-10-04 | 2025-08-15 |
 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 | 2025-05-30 | 2026-02-07 |
 | [Vivendo Demais](https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Vivendo Demais](https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4) | 3:13 | 2025-08-22 | 2025-11-29 |

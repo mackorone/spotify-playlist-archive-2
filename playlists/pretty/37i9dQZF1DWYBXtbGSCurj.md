@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Abbot, LX
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,762 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,727 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 12 | [NUVENS](https://open.spotify.com/track/5QPLRJhWa6l7mCeC4wfQ6m) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [NUVENS](https://open.spotify.com/album/1y09HGo5MwyfWD9X8bp73H) | 3:13 |
 | 13 | [Patrão](https://open.spotify.com/track/1GosuxJvRT9i10NLWODgyt) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [DNAY](https://open.spotify.com/artist/5MfRy5LzLtiGj7YQg8FvBB) | [Na Prática](https://open.spotify.com/album/0V9Cqq4R2rGYqbnuZq2FbY) | 2:37 |
 | 14 | [Amém](https://open.spotify.com/track/5dzXFd8hKi9Lrb7LcoILB5) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Amém](https://open.spotify.com/album/0XCUNkpZjp2JEZVpRSZALC) | 2:04 |
-| 15 | [I luv ma gun](https://open.spotify.com/track/2N3NDfk6JY0I8k8p5ejz9K) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [I luv ma gun](https://open.spotify.com/album/1dewrAoh458eAuVPWIpsCF) | 2:07 |
+| 15 | [I luv ma gun](https://open.spotify.com/track/2N3NDfk6JY0I8k8p5ejz9K) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Virtual Swag](https://open.spotify.com/artist/0TTlRqrmG1fNvte2huwMaX) | [I luv ma gun](https://open.spotify.com/album/1dewrAoh458eAuVPWIpsCF) | 2:07 |
 | 16 | [VC NÃO PARECE MAIS A MESMA](https://open.spotify.com/track/3MnMV8cKeVYU6jVgxnKzEh) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [VC NÃO PARECE MAIS A MESMA](https://open.spotify.com/album/1ZzujNVOBnAkwzQtslv4LO) | 2:22 |
 | 17 | [AFF](https://open.spotify.com/track/1EAxWlbTdoC4i2LiiAHS7D) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [AFF](https://open.spotify.com/album/03gQlMtlBYkl97sKZkKBTj) | 4:32 |
 | 18 | [Sold Out](https://open.spotify.com/track/5ZE5SxtIf8vnSqOuB63Svc) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX) | [LMC Vol.1](https://open.spotify.com/album/2nXcz3AyIkcI3NTV2u138e) | 2:46 |

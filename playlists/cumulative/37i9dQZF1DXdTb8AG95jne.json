@@ -11094,7 +11094,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 187908,
       "name": "is blue",
       "url": "https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR"
@@ -21306,6 +21306,24 @@
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
+    },
+    {
+      "album": {
+        "name": "The Algebra of Youth",
+        "url": "https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Algebra of Youth",
+      "url": "https://open.spotify.com/track/16wD6ziwSh7FDVpmsNdZ1F"
     },
     {
       "album": {

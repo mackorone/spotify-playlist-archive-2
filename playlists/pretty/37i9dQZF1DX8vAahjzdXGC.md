@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rony Parulian, Yura Yunita, LISA, For Revenge, YB, Tepe, Miley Cyrus dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,436 likes - 94 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,408 likes - 94 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 52 | [Dosa Terindah](https://open.spotify.com/track/5XZB4qDvqQkT0U5b7BaIMD) | [ARDHITIO](https://open.spotify.com/artist/2zOuTsIUlWngXiShXxqzRk), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Dosa Terindah](https://open.spotify.com/album/6OrsQafLMjpt12v2TKha8i) | 2:40 |
 | 53 | [For My Loved Ones](https://open.spotify.com/track/55BfgXkyXUGu0N2ALxcjnv) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [For My Loved Ones](https://open.spotify.com/album/4xuUmhMS1fHsMh8ZsEv7qa) | 4:15 |
 | 54 | [Like a Child](https://open.spotify.com/track/4sRk84ftw6dPkH5nw6LQs0) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Like a Child](https://open.spotify.com/album/4cUXPyTAJuPwNGDbw6Xhom) | 3:31 |
-| 55 | [Table Talk](https://open.spotify.com/track/0F72HslN82FdvP8Xb2jXL6) | [nahumlogo](https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr) | [Obrolan Meja Makan](https://open.spotify.com/album/307uvZdrbrm1a12w6CbVXP) | 3:07 |
+| 55 | [Obrolan Meja Makan](https://open.spotify.com/track/0F72HslN82FdvP8Xb2jXL6) | [nahumlogo](https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr) | [Obrolan Meja Makan](https://open.spotify.com/album/307uvZdrbrm1a12w6CbVXP) | 3:07 |
 | 56 | [Salah Tingkah](https://open.spotify.com/track/1EC83q6yiGuTWEaXZ0n9yK) | [Farrel Nugroho](https://open.spotify.com/artist/5fTEdlBvW2WQtX5CxPoVE5) | [Salah Tingkah](https://open.spotify.com/album/2v3m69kc35al7BiGTz7jPo) | 3:12 |
 | 57 | [Narcissist](https://open.spotify.com/track/06gSQd06NIarczurzB3AKP) | [Nicole Robertson](https://open.spotify.com/artist/4enHMMX4UVKcCxEhKlA0Fl) | [Narcissist](https://open.spotify.com/album/397schniTzzIRHJNSG1C8A) | 3:54 |
 | 58 | [NOVICE](https://open.spotify.com/track/2H34oNaju6YmAG2s2nRm2y) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [NOVICE](https://open.spotify.com/album/1VW7sTtN1Xqo90PR1lWCY1) | 2:18 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 89 | [This Is the Last Song About You](https://open.spotify.com/track/56mCbeIok8fW5fG3oe0wmn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [This Is the Last Song About You](https://open.spotify.com/album/4QVwataDdz8ZuUNa2dKiAJ) | 2:06 |
 | 90 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
 | 91 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
-| 92 | [when you know you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
+| 92 | [when you know, you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know, you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
 | 93 | [Bad to the Bone](https://open.spotify.com/track/6NFhJLpovj3CqgT1rKC95l) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Bad to the Bone](https://open.spotify.com/album/44wKOYtHNZ5xXkY9g24nww) | 1:59 |
 | 94 | [You and I](https://open.spotify.com/track/1PZlaH5eXJzQmOYKTxkdU9) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [You and I](https://open.spotify.com/album/4GtPa2MgKEzfGdTnBQsHdw) | 2:26 |
 

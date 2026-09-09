@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
+        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
+      },
+      "artists": [
+        {
+          "name": "Melissa Auf der Maur",
+          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221587,
+      "name": "... And The Next Day",
+      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
+    },
+    {
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/1668f4YvYOIMuUEW8lJWVP"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 198000,
       "name": "Corps (feat. Lou-Adriane Cassidy)",
       "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"

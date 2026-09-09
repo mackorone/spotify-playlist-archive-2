@@ -7186,7 +7186,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 241333,
       "name": "Ghar Ya Makaan",
       "url": "https://open.spotify.com/track/6MeqyxzoPacmtSrRm4LjrQ"
@@ -13156,7 +13156,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 288290,
       "name": "Maa Kahaan Jaa Rahi Hai - From \"Batwara 1947\"",
       "url": "https://open.spotify.com/track/2fDBRUoYN4wMd18gLjk59Q"
@@ -15028,6 +15028,28 @@
       "duration_ms": 224769,
       "name": "Mujhe Rok Lo",
       "url": "https://open.spotify.com/track/5q68Sjztv6bnxgbj9bwHll"
+    },
+    {
+      "album": {
+        "name": "Mulaqatein",
+        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243851,
+      "name": "Mulaqatein",
+      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
     },
     {
       "album": {
@@ -23860,6 +23882,32 @@
       "duration_ms": 208945,
       "name": "Waade",
       "url": "https://open.spotify.com/track/67OAbfn2fUMsVWQX8sWbUC"
+    },
+    {
+      "album": {
+        "name": "Waade Saare",
+        "url": "https://open.spotify.com/album/7FGpdKc4qUCbhmDUbMxJEK"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Shubham Srivastava",
+          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248031,
+      "name": "Waade Saare",
+      "url": "https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi"
     },
     {
       "album": {

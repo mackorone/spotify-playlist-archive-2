@@ -1,4 +1,4 @@
-## Playlists \(9322\)
+## Playlists \(9323\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -4549,7 +4549,7 @@
 - [Office Garden](/playlists/pretty/37i9dQZF1DX00KQQMCcMxZ.md)
 - [Office Music \(New & Old Hits!\)](/playlists/pretty/4MGjsC9FFb2SlwoNuSdI9d.md)
 - [Office Offensive](/playlists/pretty/37i9dQZF1DXdEXmWwCHnI5.md)
-- [Offizielle Deutsche Streaming\-Charts KW 35.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
+- [Offizielle Deutsche Streaming\-Charts KW 36.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
 - [Old School Hip\-Hop House Party](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md)
 - [Old School Metal](/playlists/pretty/37i9dQZF1DX2LTcinqsO68.md)
 - [Old School Reggaeton](/playlists/pretty/37i9dQZF1DX8SfyqmSFDwe.md)
@@ -8347,6 +8347,7 @@
 - [Written By Delacey](/playlists/pretty/37i9dQZF1EFENUZ3QCewVM.md)
 - [Written By Denisia "Blu June" Andrews](/playlists/pretty/37i9dQZF1EFMzqILIGFdfQ.md)
 - [Written By Diane Warren](/playlists/pretty/37i9dQZF1EFC5Q0Qd39sZn.md)
+- [Written By Dolly Parton](/playlists/pretty/37i9dQZF1EFQVKsdpjeA1d.md)
 - [Written By Dorothy Fields](/playlists/pretty/37i9dQZF1EFQg9yVuIR1TI.md)
 - [Written By Dyo](/playlists/pretty/37i9dQZF1EFJQjo66KwDYO.md)
 - [Written By E.Y\. "Yip" Harburg](/playlists/pretty/37i9dQZF1EFA5bLxifCVBV.md)

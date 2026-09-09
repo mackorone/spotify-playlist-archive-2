@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz, Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,386 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,377 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 35 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
 | 36 | [Ímã](https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mundo Gira](https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt) | 2:51 |
 | 37 | [SAMBA DE CRIA](https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [TÁ FELIZ?!](https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg) | 3:11 |
-| 38 | [Sorte](https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d) | [Ana Cacimba](https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [LUMINOSA, ATO II: SOL](https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D) | 2:59 |
-| 39 | [Ibérico \- O Canto do Beija\-Flor\-de\-Gravata\-Verde](https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Ibérico \(O Canto do Beija\-Flor\-de\-Gravata\-Verde\)](https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua) | 2:03 |
+| 38 | [Ibérico \- O Canto do Beija\-Flor\-de\-Gravata\-Verde](https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Ibérico \(O Canto do Beija\-Flor\-de\-Gravata\-Verde\)](https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua) | 2:03 |
+| 39 | [Sorte](https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d) | [Ana Cacimba](https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [LUMINOSA, ATO II: SOL](https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D) | 2:59 |
 | 40 | [Gamou](https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ) | [Bê Vieira](https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj) | [Tempo Bom](https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb) | 3:14 |
 | 41 | [Um Pouco Mais](https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Um Pouco Mais](https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga) | 3:02 |
 | 42 | [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 |

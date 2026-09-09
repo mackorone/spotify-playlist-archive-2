@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: g0nny \(거니\)\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,395 songs - 3 day 12 hr 28 min
+1,396 songs - 3 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,7 +599,7 @@
 | [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2021-12-21 | 2022-07-26 |
 | [Intentions](https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [Intentions](https://open.spotify.com/album/7CfKlyjdwKrliAU59i1eNC) | 3:05 | 2022-03-31 | 2022-07-26 |
 | [Ironic](https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Ironic](https://open.spotify.com/album/222uC5p2bcGmcTh8at8Iv5) | 2:30 | 2025-04-09 | 2025-05-14 |
-| [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 | 2026-04-30 |  |
+| [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 | 2026-04-30 | 2026-09-09 |
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-05-01 |
 | [It stings!](https://open.spotify.com/track/6avPD0pubMIFY55Nn0fwe7) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FANTASY](https://open.spotify.com/album/1nhxJmX1wipzaOkihjiH4s) | 2:29 | 2025-10-23 | 2025-12-09 |
@@ -1146,6 +1146,7 @@
 | [That year, That love](https://open.spotify.com/track/7gxUXbYdHZbMUf1gmeL5Vj) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [That year, That love](https://open.spotify.com/album/1WU28WOTWguO5Hl7HItAFb) | 3:08 | 2025-01-15 | 2025-03-22 |
 | [That you came to me](https://open.spotify.com/track/48Dk5wZQNXMmxqE8B2Glt4) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [That you came to me](https://open.spotify.com/album/16WDt0NESttjZfkHLdLPDd) | 2:56 | 2023-07-17 | 2023-08-01 |
 | [THE](https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [JIAN](https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb) | [ARE YOU THERE](https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU) | 3:37 | 2021-12-12 | 2022-07-29 |
+| [The Algebra of Youth](https://open.spotify.com/track/16wD6ziwSh7FDVpmsNdZ1F) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [The Algebra of Youth](https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl) | 3:30 | 2026-09-08 |  |
 | [THE BEACON OF HOPE](https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [THE BEACON OF HOPE](https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv) | 4:44 | 2024-11-20 | 2025-01-31 |
 | [the beginning of love](https://open.spotify.com/track/61GIG0J84qsIAymMgw5VeL) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [the beginning of love](https://open.spotify.com/album/5EdaQnclyZKmJZwHtGevz2) | 3:11 | 2024-04-30 | 2024-05-10 |
 | [The Best Days](https://open.spotify.com/track/5c6hk38nrbJBRsEUfq7lpH) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Best Days](https://open.spotify.com/album/6wOER8VYJcmahoUs4jVNCV) | 4:48 | 2022-03-31 | 2022-04-20 |

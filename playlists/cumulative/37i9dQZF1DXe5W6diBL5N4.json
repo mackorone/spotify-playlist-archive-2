@@ -4499,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "4real",
+        "url": "https://open.spotify.com/album/0NKJlpruRROomjmAm17u8L"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "4real",
+      "url": "https://open.spotify.com/track/7DbDnr8s44NrXsme8fRWMd"
+    },
+    {
+      "album": {
         "name": "4Seasons",
         "url": "https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL"
       },
@@ -102687,6 +102705,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Guitarist",
+      "url": "https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa"
+    },
+    {
+      "album": {
         "name": "GULA (feat. QM)",
         "url": "https://open.spotify.com/album/2lPQ3yyQ4r7TLteA8A2MT7"
       },
@@ -166416,6 +166452,24 @@
       "duration_ms": 270000,
       "name": "Mariposa - Orchestra Version",
       "url": "https://open.spotify.com/track/2Yc1bYOFlo5fVXcCvQmBbt"
+    },
+    {
+      "album": {
+        "name": "Mark on Me",
+        "url": "https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Mark on Me",
+      "url": "https://open.spotify.com/track/5rLa4taWmqZsZBDh5iKNIH"
     },
     {
       "album": {

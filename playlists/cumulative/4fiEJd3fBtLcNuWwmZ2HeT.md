@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-554 songs - 1 day 8 hr 28 min
+555 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |
 | [lapis lazuli](https://open.spotify.com/track/471Ij7ju21628jTjGCQX6U) | [璃依子](https://open.spotify.com/artist/0h9Bctxh6IkFpbsYhIBj07) | [lapis lazuli](https://open.spotify.com/album/5WyyjVnvOkDkTZzD63AxKW) | 4:19 | 2025-05-27 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2023-01-29 |  |
+| [Last day](https://open.spotify.com/track/3GNMBhzzro7DQwLIPYDmHa) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:11 | 2026-09-09 |  |
 | [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 | 2025-09-22 | 2026-02-13 |
 | [Leave You on the Back of the Earth](https://open.spotify.com/track/4mIRahi5l9LcCuZDSaMexo) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Films, Sunny Spots, Graduations](https://open.spotify.com/album/6p8MnsedzWHh3vwOsxfNJx) | 4:15 | 2026-06-02 |  |
 | [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 | 2025-05-20 |  |

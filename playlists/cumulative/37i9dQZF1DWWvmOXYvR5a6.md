@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Raf Sandou\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Jay Park\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-848 songs - 1 day 21 hr 12 min
+849 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2022-04-01 |  |
 | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/album/67dg4k1O64jXpZls8H5moQ) | 3:49 | 2022-10-07 | 2022-11-02 |
 | [D.R.E.A.M\. \(feat\. pH\-1\)](https://open.spotify.com/track/5OuTSgILh3Mkgj6ir9x9Pz) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:19 | 2022-10-28 | 2023-01-20 |
+| [DADDY](https://open.spotify.com/track/55hvAlWKNC9FJ1QUkaheWR) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [DADDY](https://open.spotify.com/album/1wHCS61gObQcmYhiv3eLHz) | 2:45 | 2026-09-08 |  |
 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 | 2023-01-25 | 2023-02-16 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2022-04-01 | 2026-03-04 |
 | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/track/50mWLy36Ib9tMjjd9pZSpz) | [Emetsound](https://open.spotify.com/artist/4dKJnc3oBTZWbuNQiQvFLd), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/album/6HDaYXCwPtlr7i2mXJE4Gu) | 2:44 | 2022-06-13 | 2022-06-19 |
@@ -388,7 +389,7 @@
 | [Killin me softly \(feat\. Skinny Brown\)](https://open.spotify.com/track/1j8H6zxSArZDQsbpBCLtgn) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-01 | 2022-04-22 |
 | [Kiss Like This](https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF) | [cyan](https://open.spotify.com/artist/7909RijUN4OHQDLWadiWfI), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [House of Girls, Episode 3](https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D) | 2:43 | 2025-06-27 | 2025-08-12 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2022-07-24 | 2024-04-19 |
-| [Kiss Me](https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 4:38 | 2022-04-01 |  |
+| [Kiss Me](https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 4:38 | 2022-04-01 | 2026-09-09 |
 | [KISS ME \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [KISS ME](https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH) | 3:22 | 2023-04-06 | 2023-05-05 |
 | [Kitty \(Feat\. MIYEON \(\(G\)I\-DLE\)](https://open.spotify.com/track/4Jpsou7XWCNG2cgeFZBSvL) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Kitty \(Feat\. MIYEON \(\(G\)I\-DLE\)](https://open.spotify.com/album/2UHeGXqUbCAPwL116EhgHf) | 3:41 | 2022-04-21 | 2022-07-29 |
 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 | 2023-02-24 | 2023-03-28 |

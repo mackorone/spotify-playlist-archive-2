@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Hatsune Miku & slayr",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u9808\u7530\u666f\u51ea",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 98264,
       "name": "(a_study)",
       "url": "https://open.spotify.com/track/6LImLpGYlruBWi75lOWPtf"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 184616,
       "name": "25-26",
       "url": "https://open.spotify.com/track/7ypDYILkOC7ymgNN8t3X2L"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 182993,
       "name": "BLACK",
       "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
@@ -1578,6 +1578,24 @@
       "duration_ms": 203592,
       "name": "BLUE MOON",
       "url": "https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi"
+    },
+    {
+      "album": {
+        "name": "BLUE SIGNAL",
+        "url": "https://open.spotify.com/album/6kS2ZUImFmIGoJV0Ljvqzp"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "BLUE SIGNAL",
+      "url": "https://open.spotify.com/track/1vn1twRDO1PI2UZdW9yY5m"
     },
     {
       "album": {
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 175546,
       "name": "BooooM!!!",
       "url": "https://open.spotify.com/track/7AXidZD7ndzSkWAeTnpw7c"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 198095,
       "name": "fade into blue",
       "url": "https://open.spotify.com/track/24r2tN5hlPDY535tkAa9cu"
@@ -6407,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/5SheUhupcthWQZcvnFqFOO"
+      },
+      "artists": [
+        {
+          "name": "OFFICE DESTRUCTION GIRL",
+          "url": "https://open.spotify.com/artist/13HyK2xAsfe2QY3UAR8H4n"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284679,
+      "name": "koppu",
+      "url": "https://open.spotify.com/track/3akyNzMj1tpBwy8STGPTo6"
+    },
+    {
+      "album": {
         "name": "Kura Kura",
         "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
       },
@@ -6480,6 +6516,24 @@
       "duration_ms": 199026,
       "name": "Kyuseishu",
       "url": "https://open.spotify.com/track/1wXrIFdqheifq4ETjCpqoi"
+    },
+    {
+      "album": {
+        "name": "LAG",
+        "url": "https://open.spotify.com/album/1NYo3smB13y6hGWsU1HMi0"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "LAG",
+      "url": "https://open.spotify.com/track/2qRF1DoIW1Le4eoWPzbTFc"
     },
     {
       "album": {
@@ -6720,7 +6774,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 159069,
       "name": "Light (with Hatsune Miku, slayr, XAMIYA, & picco)",
       "url": "https://open.spotify.com/track/1b9ufliXS0LXrbazXewa5j"
@@ -10980,7 +11034,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 268978,
       "name": "SOUND ONLY",
       "url": "https://open.spotify.com/track/2K6rll2tgBkytN9sICAbze"
@@ -11038,7 +11092,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 298461,
       "name": "SPYCANDY",
       "url": "https://open.spotify.com/track/5SQzgtLeQwnwD2BQaKhd2b"
@@ -12059,6 +12113,24 @@
     },
     {
       "album": {
+        "name": "u let me down",
+        "url": "https://open.spotify.com/album/37d5MnEpQ5YcEJMRw0OvGT"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139321,
+      "name": "u let me down",
+      "url": "https://open.spotify.com/track/0ZXX57QyfJNNrIN2zK73YG"
+    },
+    {
+      "album": {
         "name": "ULTRA C",
         "url": "https://open.spotify.com/album/1UyxLrubhJ7WYhzcsxOVgL"
       },
@@ -12382,7 +12454,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 184200,
       "name": "utahime(feat. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso)",
       "url": "https://open.spotify.com/track/0tQ6BUsm560fc7VEalqBHL"
@@ -17948,7 +18020,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 150120,
       "name": "\u30ab\u30f3\u30ac\u30eb\u30fc",
       "url": "https://open.spotify.com/track/2ZCdNU5I1PwUuVmJRFUgSd"
@@ -22832,7 +22904,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 195666,
       "name": "\u30e1\u30b7\u30a2",
       "url": "https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM"
@@ -22920,6 +22992,24 @@
       "duration_ms": 182075,
       "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3FJVe0Wl2ET4Q0bEuaAgWR"
+    },
+    {
+      "album": {
+        "name": "LOVE HATE",
+        "url": "https://open.spotify.com/album/141fpw0PCyRcPel4vKimkM"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186203,
+      "name": "\u30e1\u30eb\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/44ZL6tDsddX8aKnfTdmiIq"
     },
     {
       "album": {
@@ -23842,7 +23932,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 134071,
       "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
@@ -24002,7 +24092,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 158838,
       "name": "\u30ec\u30e0",
       "url": "https://open.spotify.com/track/7jknqnVScv1P6ed2b7YCh1"
@@ -26442,7 +26532,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 200109,
       "name": "\u5730\u7344\u306e\u30ed\u30de\u30f3",
       "url": "https://open.spotify.com/track/77dkaCDWi6DZ3ysL3CGX2q"
@@ -27298,7 +27388,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 208433,
       "name": "\u5b66\u5712\u6226\u7dda",
       "url": "https://open.spotify.com/track/4x49CYdjm1m26BWJqzCZh7"
@@ -29142,6 +29232,24 @@
       "duration_ms": 193639,
       "name": "\u6625\u967d",
       "url": "https://open.spotify.com/track/5NC3yAtCGSRx9patPXTAy9"
+    },
+    {
+      "album": {
+        "name": "\u6642\u5316",
+        "url": "https://open.spotify.com/album/3ICPpqdgaNgehRVFOP4MHP"
+      },
+      "artists": [
+        {
+          "name": "Guiano",
+          "url": "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "\u6642\u5316",
+      "url": "https://open.spotify.com/track/3PMVwGH5QzrdBWdfNQ90LW"
     },
     {
       "album": {
@@ -32612,7 +32720,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 240833,
       "name": "\u82b1\u706b",
       "url": "https://open.spotify.com/track/0szDCJERv2wykbWIUsORli"

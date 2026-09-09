@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-[sub](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 413 likes - 273 songs - 8 hr 38 min
+[sub](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 413 likes - 275 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,5 +281,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 271 | [Naked \(Take It Off\)](https://open.spotify.com/track/0eOFAi3pkOtr0RTtwZbj95) | [Ari Angel](https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Naked \(Take It Off\)](https://open.spotify.com/album/6DOz94e6FkAs114bbe3DQ9) | 2:50 |
 | 272 | [LIFE IS TRANSACTIONAL](https://open.spotify.com/track/1YKtKH6goYFFo1RJ7ZnRmA) | [Meowmaid Squad](https://open.spotify.com/artist/0ICDi877v90BpOrAGuCZAO), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LIFE IS TRANSACTIONAL](https://open.spotify.com/album/1YDfV0UBp40232etcnBn69) | 3:24 |
 | 273 | [Tell me!!](https://open.spotify.com/track/4vSZYU5TduuNGLbSLOJaKU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/2YP8V2O4uD8e35mHjAbHTJ) | 3:13 |
+| 274 | [certainty](https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
+| 275 | [certainty \- Instrumental Version](https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
 
-Snapshot ID: `AAAAp+s0RHvmYmcxIn3xB3vsWBzBesqy`
+Snapshot ID: `AAAAqKP9C7kAeoD2srg8DHYZW10am8tv`

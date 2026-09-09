@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Remi Wolf
 
-2,507 songs - 5 day 13 hr 41 min
+2,509 songs - 5 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 | 2026-02-20 | 2026-03-31 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2026-03-21 |
 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-15 |  |
+| [Blind](https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Blind](https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6) | 3:09 | 2026-09-08 |  |
 | [Blindside](https://open.spotify.com/track/47iGN5FfJJnBSZWh5pz1bZ) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Blindside](https://open.spotify.com/album/2iPcf10Dnk8YCSjpnCNH3l) | 3:38 | 2022-04-08 | 2022-04-21 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-27 |
 | [Block Your Number](https://open.spotify.com/track/2ydxcOqV1csgBuJSJPunvX) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Block Your Number](https://open.spotify.com/album/3cpcgAYgkdLDW64J704aNB) | 3:22 | 2020-10-13\* | 2021-05-22 |
@@ -1240,7 +1241,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-11-07 | 2024-05-18 |
 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-07-03 | 2024-01-13 |
 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 | 2022-03-29 | 2022-04-02 |
-| [Killing Time](https://open.spotify.com/track/1IzJUosMnntxD6S9grgc7c) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Killing Time](https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN) | 2:59 | 2026-08-21 |  |
+| [Killing Time](https://open.spotify.com/track/1IzJUosMnntxD6S9grgc7c) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Killing Time](https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN) | 2:59 | 2026-08-21 | 2026-09-09 |
 | [King of the Basement](https://open.spotify.com/track/2YGSiFpIrhHHzpogSahLK5) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/4yT6C0MlsJ7Z4LniiePQM2) | 4:24 | 2021-05-03 | 2021-12-21 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-07 | 2021-05-27 |
 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 | 2026-04-10 | 2026-05-16 |
@@ -1525,7 +1526,7 @@
 | [N.P.D](https://open.spotify.com/track/1eEIMkDqSr8jbnobIEBQz1) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [N.P.D](https://open.spotify.com/album/29hxvEZkaNi0quZsfpcp2U) | 5:31 | 2024-01-20 | 2024-02-11 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-22 | 2022-04-16 |
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 | 2026-02-21 |
-| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-15 |  |
+| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-15 | 2026-09-09 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-08-06 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-12 | 2023-06-23 |
 | [Name Something Better](https://open.spotify.com/track/2Nd1dImwW0VVN5HJ9MfvUd) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Easy Way To Lose](https://open.spotify.com/album/0QO71Myy3GIOVaG7v1jwwm) | 4:01 | 2024-01-12 | 2024-03-22 |
@@ -1696,6 +1697,7 @@
 | [Peaceful In My Mind](https://open.spotify.com/track/6pQcqaoZlGKF3zvglt6tvc) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Peaceful In My Mind](https://open.spotify.com/album/3qr8WlrGBQMrzpRL6ERL4B) | 2:49 | 2021-11-12 | 2022-09-17 |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-24 | 2022-04-09 |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-04 | 2023-09-09 |
+| [pelagia](https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [pelagia](https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS) | 3:10 | 2026-09-08 |  |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-19 | 2023-01-24 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2021-02-24 | 2021-05-23 |
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-29 | 2022-07-01 |

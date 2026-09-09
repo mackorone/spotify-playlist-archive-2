@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx"
+    },
+    {
+      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },

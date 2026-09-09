@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Rikas",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: CHARLOT",
   "name": "Indie Update",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 148889,
       "name": "133",
       "url": "https://open.spotify.com/track/3sx3yiNiGQwkJByVZLLj9X"
+    },
+    {
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256718,
+      "name": "143",
+      "url": "https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy"
     },
     {
       "album": {
@@ -957,6 +975,24 @@
     },
     {
       "album": {
+        "name": "And Then I Woke Up",
+        "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350699,
+      "name": "And Then I Woke Up",
+      "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
+    },
+    {
+      "album": {
         "name": "Animaru",
         "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
       },
@@ -1491,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
+      },
+      "artists": [
+        {
+          "name": "Iris Jean",
+          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
+    },
+    {
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -1806,7 +1860,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
@@ -2661,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Caravan Dreams",
+        "url": "https://open.spotify.com/album/2jQISIKsnA833zD0G2xtdE"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245193,
+      "name": "Caravan Dream",
+      "url": "https://open.spotify.com/track/6LYvWyx9PVEV5NlP7WgbtN"
+    },
+    {
+      "album": {
         "name": "Caroline (i should\u2019ve known better)",
         "url": "https://open.spotify.com/album/7akMIKWLQ83YzA6G4DYefd"
       },
@@ -3168,7 +3240,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 208876,
       "name": "Coats",
       "url": "https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb"
@@ -4067,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "Room 12",
+        "url": "https://open.spotify.com/album/2yGdO0zbudnZ9ac1NYCnSv"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190738,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2RWXtGD9yJAVJHr10Tk7Oy"
+    },
+    {
+      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -4608,7 +4698,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 254157,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/2x7S5YilTvmvftVnJGTlxW"
@@ -5066,7 +5156,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 202593,
       "name": "Find My!",
       "url": "https://open.spotify.com/track/047e0SSWyaduEaaj7FypTC"
@@ -5192,7 +5282,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 215514,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
@@ -6538,7 +6628,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 196310,
       "name": "Hold Me How You Always Do",
       "url": "https://open.spotify.com/track/2fUyO4uHRhKs9zuFWDAMhf"
@@ -7578,7 +7668,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 244464,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/2qqs9KICn0IIzpIozP0tNd"
@@ -9269,6 +9359,24 @@
     },
     {
       "album": {
+        "name": "Mediocre Woman",
+        "url": "https://open.spotify.com/album/6d5vo8xtAwHLiM0JXi2kP6"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Mediocre Woman",
+      "url": "https://open.spotify.com/track/6PRW3ShE1tmjy7c4ZWYFx4"
+    },
+    {
+      "album": {
         "name": "Meet Cute",
         "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
       },
@@ -9969,6 +10077,24 @@
     },
     {
       "album": {
+        "name": "My Blessing & My Curse",
+        "url": "https://open.spotify.com/album/1Jb8eJc2SPqK50QFLYtt8E"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "My Blessing & My Curse",
+      "url": "https://open.spotify.com/track/3XFnGVGvZ1Wxy3YRJwJ4hB"
+    },
+    {
+      "album": {
         "name": "My Child, My Friend - Anchor",
         "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
@@ -10196,7 +10322,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 169371,
       "name": "New Love",
       "url": "https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X"
@@ -10560,7 +10686,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 223764,
       "name": "o pen bro ken",
       "url": "https://open.spotify.com/track/1XPB97GokrgncK64pDwPoW"
@@ -11932,7 +12058,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 218712,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
@@ -12250,7 +12376,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 272878,
       "name": "Ride Lonesome",
       "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
@@ -12492,6 +12618,24 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/0tucyJ4pzR9qLrpxCLmm0d"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243100,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/0qe9WjF8QojPvxdpQBSnX7"
     },
     {
       "album": {
@@ -13069,6 +13213,24 @@
     },
     {
       "album": {
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm"
+      },
+      "artists": [
+        {
+          "name": "OAKK",
+          "url": "https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/4sP9Ns0mNNH64XDWRIylTp"
       },
@@ -13214,7 +13376,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 265969,
       "name": "small red tree",
       "url": "https://open.spotify.com/track/45vShxI8norxKMVdTWSs2P"
@@ -13513,6 +13675,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5l68gFaOzLobugsFw1n2BN"
+      },
+      "artists": [
+        {
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
@@ -13672,7 +13852,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
@@ -13762,7 +13942,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 243680,
       "name": "Stem the Flow",
       "url": "https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA"
@@ -15325,6 +15505,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196665,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
+    },
+    {
+      "album": {
         "name": "the van",
         "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
@@ -15646,7 +15844,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 178600,
       "name": "Tiny Raisin",
       "url": "https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT"
@@ -16684,7 +16882,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 175588,
       "name": "Whatever It Takes (Break Your Heart)",
       "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"

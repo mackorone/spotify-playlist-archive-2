@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-527 songs - 1 day 3 hr 21 min
+528 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Gratidão](https://open.spotify.com/track/4c7R1kxObqY9J2haly4xtW) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Gratidão](https://open.spotify.com/album/1JRT4DoBWJhlMliUrE9Lqh) | 3:23 | 2023-04-15 | 2023-04-22 |
 | [Gratidão](https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Gratidão](https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U) | 2:18 | 2023-12-22 |  |
 | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/track/7MFUS8HSQYU54uZeinq8l8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/album/27ieajaQCF46pGILC5VUdS) | 4:18 | 2022-03-22 | 2022-08-20 |
-| [Guardado](https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Guardado](https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W) | 3:42 | 2025-10-17 |  |
+| [Guardado](https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Guardado](https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W) | 3:42 | 2025-10-17 | 2026-09-09 |
 | [GUERRA](https://open.spotify.com/track/3uRZiFeEAkKBrbmwMHsMAH) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [GUERRA](https://open.spotify.com/album/535nAJZufr0NmUjxfQREDN) | 2:00 | 2022-08-19 | 2022-09-03 |
 | [Guerra de Egos](https://open.spotify.com/track/3XN4MRdpZHX3RY0IoUVWPO) | [Jansen e Renata](https://open.spotify.com/artist/0MXo4GsutYWYPFbdwnhEzH), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Guerra de Egos](https://open.spotify.com/album/5YVhPUTTN5Ymw5eFmABys9) | 2:55 | 2024-12-27 | 2025-02-22 |
 | [Guerra na Mente](https://open.spotify.com/track/3ntHNRbHfFWulYtQ6evnCz) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Guerra na Mente](https://open.spotify.com/album/4uezGxULAtnIzGAT1C6d7K) | 3:37 | 2023-07-07 | 2023-07-22 |
@@ -284,6 +284,7 @@
 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 | 2022-04-08 | 2023-03-04 |
 | [Me Perdoe Pai](https://open.spotify.com/track/31kZJ0vwsWsBULl64IIQsF) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Me Perdoe Pai](https://open.spotify.com/album/0vh3sNiT2QRwK6qzq9bD3R) | 4:22 | 2023-09-08 | 2023-10-07 |
 | [Me Sustenta](https://open.spotify.com/track/7yDpnr91TkMNfFEVZdynrT) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe) | [Me Sustenta](https://open.spotify.com/album/2qbFnuqecW7tGr1cRdFpT1) | 2:32 | 2023-09-01 | 2023-09-09 |
+| [Me Tira O Medo](https://open.spotify.com/track/2fIReMUdqvdKPtFKCNb4r5) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Gabi Vicari](https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8) | [Me Tira O Medo](https://open.spotify.com/album/5xdFKvsfbgfccbSUUYOCG6) | 2:15 | 2026-09-08 |  |
 | [Medo](https://open.spotify.com/track/1DfElz56bAKqzyxNGqR30v) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [ULTRA FACE](https://open.spotify.com/artist/6ActLE7hUyGQT3k6Ne1llH) | [Medo](https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0) | 4:32 | 2025-04-11 |  |
 | [Melhor Caminho \(Speed Up\)](https://open.spotify.com/track/1yIan5w5UcNUV1G7Z83xJW) | [ZOLLA](https://open.spotify.com/artist/1L1zbiydML9ARTkX9zAHob), [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Melhor Caminho \(Speed Up\)](https://open.spotify.com/album/7H2GrHn6TcMsbcnBcfpfBS) | 2:31 | 2023-06-02 | 2023-06-17 |
 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 | 2025-02-07 |  |

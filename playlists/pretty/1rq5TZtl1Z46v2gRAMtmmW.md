@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,989 likes - 90 songs - 5 hr 7 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,990 likes - 91 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 88 | [The Dagger](https://open.spotify.com/track/6MdTyiiX1cmzGoVYdbrYFM) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [Leap Life](https://open.spotify.com/album/0P0KIq1skyp9fTuNXSZAoO) | 2:59 |
 | 89 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 90 | [One More Dance](https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [One More Dance](https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz) | 3:50 |
+| 91 | [Never Get Enough](https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Get Enough](https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM) | 3:55 |
 
-Snapshot ID: `AAASBL5HiNPLC0yC5DRFUK9I0dFmXENx`
+Snapshot ID: `AAASBc9s0u/1lHwODEhAGnz7cj4YcrWM`

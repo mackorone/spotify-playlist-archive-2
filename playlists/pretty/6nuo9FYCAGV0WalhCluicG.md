@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz\.  Today's hit: Gass \- Travis Scott x Nemzzz
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,421 likes - 70 songs - 3 hr 7 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,417 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4vxm88uvi5zUo2vfwnSHpb) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [GASS \(feat.Travis Scott\)](https://open.spotify.com/album/0zPqZZ1lZNPv3h3FF763io) | 1:54 |
+| 1 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4vxm88uvi5zUo2vfwnSHpb) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/album/0zPqZZ1lZNPv3h3FF763io) | 1:54 |
 | 2 | [Need No One \(feat\. VICI\)](https://open.spotify.com/track/00Q8DINwsW6Oe1kr62D2Lt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [VICI](https://open.spotify.com/artist/1VgmNNs0nqvTXv6mMdzyFk) | [Need No One \(feat\. VICI\)](https://open.spotify.com/album/3pIOWf5V8zS7V56vynnVDs) | 2:37 |
 | 3 | [Bando \(feat\. Pharrell Williams & Quavo\) \- Orchestral](https://open.spotify.com/track/0lBoWB1rFFeN4NFnkR94sI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HOPE!!](https://open.spotify.com/album/17Grm8FoBWNyw4f9u2Ykec) | 3:19 |
 | 4 | [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 |

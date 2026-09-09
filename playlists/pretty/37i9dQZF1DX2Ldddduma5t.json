@@ -1,29 +1,13 @@
 {
   "description": "Check out the best new music videos from around the world. Music videos only available on Premium.",
-  "num_followers": 6713,
+  "num_followers": 6777,
   "original_name": "Best New Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANtLZpsQTeg1Ib5BZzomyI7T2q23",
+  "snapshot_id": "AAAAANSB13urh+pPMLnu7ouY5KBXwS18",
   "tracks": [
-    {
-      "added_at": "2026-09-04 15:49:52",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202460,
-      "name": "Bass Persuades",
-      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
-    },
     {
       "added_at": "2026-09-04 15:49:52",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2026-09-04 15:49:52",
       "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
         }
       ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+      "duration_ms": 154270,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC"
     },
     {
       "added_at": "2026-09-04 15:49:52",
@@ -75,6 +59,38 @@
     {
       "added_at": "2026-09-04 15:49:52",
       "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+    },
+    {
+      "added_at": "2026-09-04 15:49:52",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-09-04 15:49:52",
+      "album": {
         "name": "I Used to Kill",
         "url": "https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 214956,
       "name": "I Used to Kill",
       "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
-    },
-    {
-      "added_at": "2026-09-04 15:49:52",
-      "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 154270,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC"
     },
     {
       "added_at": "2026-09-04 15:49:52",

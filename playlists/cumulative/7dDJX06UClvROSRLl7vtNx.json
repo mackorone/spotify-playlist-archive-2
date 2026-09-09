@@ -20867,6 +20867,24 @@
     },
     {
       "album": {
+        "name": "Nothing Else Compares",
+        "url": "https://open.spotify.com/album/0Lm6QN0OLtLkPjcKe4rA1h"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Nothing Else Compares",
+      "url": "https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/01NFHHRrwNyJW9h0e42j5n"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2159,
+  "num_followers": 2160,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAABbwkh5Rxt2y6FaxvsTAPTe",
+  "snapshot_id": "ap3+gAAAAABweiIqCep2xtv9pDYUOo/4",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 151564,
       "name": "Recio",
       "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
     },
     {
       "added_at": null,
@@ -971,6 +971,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/67g4uYZEDGZrEFMzFfeNSK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POBRE",
         "url": "https://open.spotify.com/album/7kgOdGmRc9QBOtFq0LAt27"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 178409,
       "name": "POBRE",
       "url": "https://open.spotify.com/track/2nuBpbteTNAQVZJNKCRE69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/67g4uYZEDGZrEFMzFfeNSK"
     },
     {
       "added_at": null,

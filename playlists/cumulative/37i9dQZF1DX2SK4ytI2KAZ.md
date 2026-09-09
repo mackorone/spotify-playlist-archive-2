@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-698 songs - 1 day 14 hr 23 min
+699 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2021-03-10 | 2022-07-29 |
 | [Hall Of Fame](https://open.spotify.com/track/5AuMmTdIsWELqlI6GmSho5) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hall Of Fame](https://open.spotify.com/album/5wTKHzsIPtoGWi3x4T9aJi) | 2:55 | 2022-03-11 | 2022-04-21 |
 | [Halloween in Summertime](https://open.spotify.com/track/3hhd4SQuN1S3w3kAxLIBRt) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [Halloween in Summertime](https://open.spotify.com/album/47D7xFMssgmGGwVVJ8m6lk) | 2:16 | 2021-03-10 | 2022-05-04 |
+| [Hang Me Up To Dry \- Phantogram Version](https://open.spotify.com/track/0RZTK66wRdfMMQFw8afAEU) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Hang Me Up To Dry \(Phantogram Version\)](https://open.spotify.com/album/4W5h4tk5htdsJVkQ8nQLXo) | 3:13 | 2026-09-08 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-27 | 2024-07-19 |
 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-08-08 | 2024-10-21 |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2023-03-29 |
@@ -650,7 +651,7 @@
 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-08 |  |
 | [Van Horn](https://open.spotify.com/track/4UgLRXh1z9NorzrdawpIgj) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack: Pt\. 1](https://open.spotify.com/album/58m5trM2xJ9sXj49bjCAIg) | 2:41 | 2021-03-10 | 2022-07-29 |
 | [Van Horn](https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 2:41 | 2022-06-27 | 2024-04-19 |
-| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-05-05 |  |
+| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-05-05 | 2026-09-09 |
 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 | 2025-10-31 | 2025-12-01 |
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-10-18 |  |
 | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/album/31igbA4aIGMPNt2JhEpLIo) | 3:04 | 2021-03-10 | 2022-07-29 |

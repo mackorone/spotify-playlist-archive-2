@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA+m5VOOhgjtF8ExItKDcrDk0kXzwXy",
+  "snapshot_id": "AAA+oKf0ICJjcvvNUVo0Q3AFqic41Die",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/2WXbnxUAyRROexxM5H06GU"
     },
     {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Lo Bendito",
+        "url": "https://open.spotify.com/album/6GQCOwz7dueyeNzVRIf28k"
+      },
+      "artists": [
+        {
+          "name": "Delicada",
+          "url": "https://open.spotify.com/artist/7M8guOTVi1gfZjRTfcluE3"
+        }
+      ],
+      "duration_ms": 257750,
+      "name": "Lo Bendito",
+      "url": "https://open.spotify.com/track/4qK0ND07UOvZg4yFr6Mf6c"
+    },
+    {
       "added_at": "2026-09-05 15:03:20",
       "album": {
         "name": "Planet Kasumu: Alternate Realities",
@@ -2227,22 +2243,6 @@
       "duration_ms": 123643,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1FK2WHTDg3SSOCLLEFTiAR"
-    },
-    {
-      "added_at": "2026-08-09 21:08:57",
-      "album": {
-        "name": "Pulling Me Away",
-        "url": "https://open.spotify.com/album/3eqGgwgfAtV7HXuS0EqaCI"
-      },
-      "artists": [
-        {
-          "name": "Gracie Ella",
-          "url": "https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj"
-        }
-      ],
-      "duration_ms": 158020,
-      "name": "Pulling Me Away",
-      "url": "https://open.spotify.com/track/2I37HVgY8h6Myf6NRTR18J"
     },
     {
       "added_at": "2026-08-10 13:21:51",
@@ -3391,90 +3391,6 @@
       "duration_ms": 193409,
       "name": "El Regreso",
       "url": "https://open.spotify.com/track/4phmdDvyLVIk4pTLVEdpHm"
-    },
-    {
-      "added_at": "2026-08-29 23:02:41",
-      "album": {
-        "name": "Mekkita",
-        "url": "https://open.spotify.com/album/5gL3MeyGcILdNdFaM4oKHJ"
-      },
-      "artists": [
-        {
-          "name": "Yuma",
-          "url": "https://open.spotify.com/artist/0Bsuh3pep7ZxBGmLvX1BoD"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Mekkita",
-      "url": "https://open.spotify.com/track/4uLdasHnf9seKwT8y4kwoI"
-    },
-    {
-      "added_at": "2026-08-29 18:01:29",
-      "album": {
-        "name": "on living and dying well",
-        "url": "https://open.spotify.com/album/1LkGZmzN3GRnbtCscml5Qp"
-      },
-      "artists": [
-        {
-          "name": "prom hearts",
-          "url": "https://open.spotify.com/artist/05o6cQG8kPUnZJs9DD8Tyk"
-        }
-      ],
-      "duration_ms": 142112,
-      "name": "skin",
-      "url": "https://open.spotify.com/track/0zLy9gBAsAtqK4QUriTGAc"
-    },
-    {
-      "added_at": "2026-08-29 18:01:25",
-      "album": {
-        "name": "The Magic Wand",
-        "url": "https://open.spotify.com/album/1dEbuWZtOiKrZDIMkT8sO4"
-      },
-      "artists": [
-        {
-          "name": "Theresa Rhodes",
-          "url": "https://open.spotify.com/artist/2liMYin7UvHieKIS3IPglm"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "The Magic Wand",
-      "url": "https://open.spotify.com/track/3RQDMFTN5PRkRgAgyeKh3b"
-    },
-    {
-      "added_at": "2026-08-29 06:01:41",
-      "album": {
-        "name": "Dating App Introvert",
-        "url": "https://open.spotify.com/album/25SzlpKcEovWhujv0btOR4"
-      },
-      "artists": [
-        {
-          "name": "IntraVknows",
-          "url": "https://open.spotify.com/artist/0CUm8oyD2dE0kjhJUD2dGE"
-        },
-        {
-          "name": "Xtina Louise",
-          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
-        }
-      ],
-      "duration_ms": 222208,
-      "name": "Dating App Introvert",
-      "url": "https://open.spotify.com/track/5LHk2K0u7BFMGlGjFRNVPI"
-    },
-    {
-      "added_at": "2026-08-29 00:01:39",
-      "album": {
-        "name": "VEGAS (What Goes On)",
-        "url": "https://open.spotify.com/album/45ERTytupjwF0kt8T2peIA"
-      },
-      "artists": [
-        {
-          "name": "Chantae Vetrice",
-          "url": "https://open.spotify.com/artist/0oLhUZmnf5X9ZFeVvkiuTg"
-        }
-      ],
-      "duration_ms": 141346,
-      "name": "VEGAS (What Goes On)",
-      "url": "https://open.spotify.com/track/0YAGosEIjMO1bg4AUbkY19"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

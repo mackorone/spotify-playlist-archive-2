@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 239574,
+  "num_followers": 239615,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -675,30 +675,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "ANOTHER WAY (26th Junction Remix)",
-        "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
-      },
-      "artists": [
-        {
-          "name": "BLVRS",
-          "url": "https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD"
-        },
-        {
-          "name": "Ka\u00e9gan",
-          "url": "https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam"
-        },
-        {
-          "name": "26th Junction",
-          "url": "https://open.spotify.com/artist/5HpnylF7vghXmoSK1LmVc5"
-        }
-      ],
-      "duration_ms": 157888,
-      "name": "ANOTHER WAY - 26th Junction Remix",
-      "url": "https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Who You Say I Am (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 203772,
       "name": "Who You Say I Am - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "ANOTHER WAY (26th Junction Remix)",
+        "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
+      },
+      "artists": [
+        {
+          "name": "BLVRS",
+          "url": "https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD"
+        },
+        {
+          "name": "Ka\u00e9gan",
+          "url": "https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam"
+        },
+        {
+          "name": "26th Junction",
+          "url": "https://open.spotify.com/artist/5HpnylF7vghXmoSK1LmVc5"
+        }
+      ],
+      "duration_ms": 157888,
+      "name": "ANOTHER WAY - 26th Junction Remix",
+      "url": "https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1419,26 +1419,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Love Me",
-        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
+        "name": "Who I was",
+        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
       },
       "artists": [
         {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
         },
         {
-          "name": "Freddy Fercho",
-          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
-        },
-        {
-          "name": "Juan Carlos Ochoa",
-          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
+          "name": "ZooFunktion",
+          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
         }
       ],
-      "duration_ms": 193208,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
+      "duration_ms": 208800,
+      "name": "Who I Was",
+      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1459,22 +1455,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Who I was",
-        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
       },
       "artists": [
         {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
         },
         {
-          "name": "ZooFunktion",
-          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
+          "name": "Freddy Fercho",
+          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
+        },
+        {
+          "name": "Juan Carlos Ochoa",
+          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Who I Was",
-      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
+      "duration_ms": 193208,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+      },
+      "artists": [
+        {
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1563,22 +1583,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
       "artists": [
         {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1595,22 +1611,6 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Reign Jesus (House Remix)",
+        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "duration_ms": 405691,
+      "name": "Reign Jesus - House Remix",
+      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 200433,
       "name": "Deliver (Higher)",
       "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Reign Jesus (House Remix)",
-        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
-      },
-      "artists": [
-        {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
-        },
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        }
-      ],
-      "duration_ms": 405691,
-      "name": "Reign Jesus - House Remix",
-      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
-      },
-      "artists": [
-        {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
-        }
-      ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 173333,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+      },
+      "artists": [
+        {
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
-      },
-      "artists": [
-        {
-          "name": "Megamind Nova",
-          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
-        },
-        {
-          "name": "MacD",
-          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
-        }
-      ],
-      "duration_ms": 434086,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Fire Fall (Paris Jones Remix)",
         "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 250378,
       "name": "Fire Fall - Paris Jones Remix",
       "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
+      },
+      "artists": [
+        {
+          "name": "Megamind Nova",
+          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
+        },
+        {
+          "name": "MacD",
+          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
+        }
+      ],
+      "duration_ms": 434086,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
     },
     {
       "added_at": "2026-08-18 23:12:48",

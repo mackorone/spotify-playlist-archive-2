@@ -12289,6 +12289,28 @@
     },
     {
       "album": {
+        "name": "\u3053\u306e\u661f\u3067\u3088\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/3ZdBpZh8AFbjew07xq8qd8"
+      },
+      "artists": [
+        {
+          "name": "OKINI\u2606PARTY'S",
+          "url": "https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199058,
+      "name": "\u3053\u306e\u661f\u3067\u3088\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB"
+    },
+    {
+      "album": {
         "name": "\u3057\u3042\u308f\u305b\u306e\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/493RXitsfoJI5RQR6BEVlh"
       },

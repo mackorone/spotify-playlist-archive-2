@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla",
-  "num_followers": 6745,
+  "num_followers": 6744,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "So Easy (To Fall In Love)",
         "url": "https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "PARADISE LOST",
         "url": "https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196958,
       "name": "MY EVERYTHING",
       "url": "https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -879,38 +879,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Fuji Xtra",
-        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Life Of The Faaji",
-      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
-        "name": "How To Be Human",
-        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "Ola Sbali",
         "url": "https://open.spotify.com/album/7bZcVI4cbAVAfUFweMvnHh"
       },
@@ -931,22 +899,34 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "RnBling",
-        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "LE:GEND",
-          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 142439,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
+      "duration_ms": 205952,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -963,6 +943,26 @@
       "duration_ms": 221826,
       "name": "You're My",
       "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "LE:GEND",
+          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
+        "name": "Watermarks",
+        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Watermarks",
+      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "My Hallelujah",
+        "url": "https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL"
+      },
+      "artists": [
+        {
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "My Hallelujah",
+      "url": "https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
         "name": "Some Strings Attached",
         "url": "https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs"
       },
@@ -1087,22 +1119,6 @@
       "duration_ms": 180133,
       "name": "More Room",
       "url": "https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
-        "name": "Watermarks",
-        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
-      },
-      "artists": [
-        {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Watermarks",
-      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "My Hallelujah",
-        "url": "https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL"
-      },
-      "artists": [
-        {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "My Hallelujah",
-      "url": "https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "Love Is for Suckers",
         "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 254115,
       "name": "If U Love Me Now",
       "url": "https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Ted Mosby",
-        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
-      },
-      "artists": [
-        {
-          "name": "Sir Silly",
-          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Ted Mosby",
-      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0hjPhlvKTwUFXvphvv9LBG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 192266,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/0e7gzyPH40qnJWJzCt7qOX"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Ted Mosby",
+        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
+      },
+      "artists": [
+        {
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ted Mosby",
+      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
     }
   ],
   "unique_name": "pop fm",

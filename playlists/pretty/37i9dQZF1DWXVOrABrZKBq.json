@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: DA Uzi",
-  "num_followers": 23672,
+  "num_followers": 23685,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-04 04:03:18",
       "album": {
-        "name": "Pangor (Swalalala)",
-        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
-      },
-      "artists": [
-        {
-          "name": "Djaksparo",
-          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
-        }
-      ],
-      "duration_ms": 121704,
-      "name": "Pangor (Swalalala)",
-      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
-    },
-    {
-      "added_at": "2026-09-04 04:03:18",
-      "album": {
         "name": "Ch\u00e9rie coco",
         "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 144000,
       "name": "Ch\u00e9rie coco",
       "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
+    },
+    {
+      "added_at": "2026-09-04 04:03:18",
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
     },
     {
       "added_at": "2026-09-04 04:03:18",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-04 04:03:18",
       "album": {
-        "name": "REQUIEM : MIEUX QU'HIER",
-        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 153490,
-      "name": "EXPLICIT 69",
-      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
-    },
-    {
-      "added_at": "2026-09-04 04:03:18",
-      "album": {
         "name": "Allo Doudou",
         "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 170681,
       "name": "Allo Doudou",
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
+    },
+    {
+      "added_at": "2026-09-04 04:03:18",
+      "album": {
+        "name": "REQUIEM : MIEUX QU'HIER",
+        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 153490,
+      "name": "EXPLICIT 69",
+      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
     },
     {
       "added_at": "2026-09-04 04:03:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-04 04:03:18",
       "album": {
-        "name": "GROSEILLE",
-        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "GROSEILLE",
-      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
-    },
-    {
-      "added_at": "2026-09-04 04:03:18",
-      "album": {
         "name": "Pow Pow / Allo Doudou",
         "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 219583,
       "name": "Pow Pow / Allo Doudou",
       "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
+    },
+    {
+      "added_at": "2026-09-04 04:03:18",
+      "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
     },
     {
       "added_at": "2026-09-04 04:03:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-09-04 04:03:18",
       "album": {
+        "name": "Les avions dessinent dans le ciel",
+        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 183694,
+      "name": "Les avions dessinent dans le ciel",
+      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
+    },
+    {
+      "added_at": "2026-09-04 04:03:18",
+      "album": {
         "name": "L.T.P",
         "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
       },
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2026-09-04 04:03:18",
       "album": {
-        "name": "Les avions dessinent dans le ciel",
-        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Les avions dessinent dans le ciel",
-      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
-    },
-    {
-      "added_at": "2026-09-04 04:03:18",
-      "album": {
-        "name": "Blanco nemesis",
-        "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Kendall",
-      "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
-    },
-    {
-      "added_at": "2026-09-04 04:03:18",
-      "album": {
         "name": "LA VAR",
         "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-09-04 04:03:18",
+      "album": {
+        "name": "Blanco nemesis",
+        "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Kendall",
+      "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
     },
     {
       "added_at": "2026-09-04 04:03:18",

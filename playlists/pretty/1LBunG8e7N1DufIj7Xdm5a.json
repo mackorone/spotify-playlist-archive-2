@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ+212aQ4oXtFRSg/TPnczDF8DiHIo",
+  "snapshot_id": "AAAJ/Z/2v2yems2OSj28OsV6XUy2klcf",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -78675,6 +78675,42 @@
       "duration_ms": 226500,
       "name": "Casa Roso",
       "url": "https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq"
+    },
+    {
+      "added_at": "2026-09-08 12:51:42",
+      "album": {
+        "name": "MAJESTIC",
+        "url": "https://open.spotify.com/album/0kGz7FtryUYbc9Fcz4ZyZl"
+      },
+      "artists": [
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "MAJESTIC",
+      "url": "https://open.spotify.com/track/04BNeVlgc24jUaHetyxndP"
+    },
+    {
+      "added_at": "2026-09-09 02:17:41",
+      "album": {
+        "name": "Permission to Share (Marcel Reps-Gotsch Techno Remix)",
+        "url": "https://open.spotify.com/album/2MFpVFNuuUrulvcrC16BCT"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        },
+        {
+          "name": "Marcel Reps-Gotsch",
+          "url": "https://open.spotify.com/artist/2XcSz6LiS3o85dYKEtQQ1Z"
+        }
+      ],
+      "duration_ms": 324923,
+      "name": "Permission to Share - Marcel Reps-Gotsch Techno Remix",
+      "url": "https://open.spotify.com/track/3lcmCPgjjC207jAZCYV0Kj"
     }
   ],
   "unique_name": "playlist spotify free",

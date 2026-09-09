@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 215196,
       "name": "A Pagodeira - Ao Vivo",
       "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
@@ -1124,6 +1124,40 @@
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9m da Putaria",
+        "url": "https://open.spotify.com/album/596YOoyXOiB2OLTVRWWYGc"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        },
+        {
+          "name": "Dj D\u00e9dda",
+          "url": "https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "AL\u00d4 BM",
+      "url": "https://open.spotify.com/track/23itiyhnoZyJkqxJiBowMp"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAA+03IDoaCQxbeMATglOTvW",
+  "snapshot_id": "ap3+gAAAAABD6hQVlBD5nViw9eP2JXVQ",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiva 2.0 (Bacardi Remix)",
-        "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Zenn'Bk",
-          "url": "https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH"
-        }
-      ],
-      "duration_ms": 249577,
-      "name": "Jiva 2.0 - Bacardi Remix",
-      "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Zenn'Bk",
+          "url": "https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH"
+        }
+      ],
+      "duration_ms": 249577,
+      "name": "Jiva 2.0 - Bacardi Remix",
+      "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
     },
     {
       "added_at": null,

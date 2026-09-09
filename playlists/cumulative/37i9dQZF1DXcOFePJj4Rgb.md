@@ -2,7 +2,7 @@
 
 ### [Pop Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcOFePJj4Rgb)
 
-> The pop hits you just can't get enough of \|\| Justice for C,XOXO w/ Camila Cabello
+> Apparently Training Season is not over..\. yet\. The pop hits you just can't get enough of w/ Dua Lipa
 
 307 songs - 16 hr 17 min
 

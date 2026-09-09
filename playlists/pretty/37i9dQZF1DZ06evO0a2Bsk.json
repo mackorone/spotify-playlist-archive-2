@@ -1,12 +1,12 @@
 {
   "description": "This is Every Time I Die. The essential tracks, all in one playlist.",
-  "num_followers": 7667,
+  "num_followers": 7736,
   "original_name": "This Is Every Time I Die",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAABBujZKxgguak+sKPgEaL8Y",
+  "snapshot_id": "ap3+gAAAAAD9Ko0vAX2N4DRKbEfTn3dz",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Low Teens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 167289,
+      "name": "The Coin Has A Say",
+      "url": "https://open.spotify.com/track/3TUMSGDwjoNYXxjDbpA1fm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Junk Aesthetic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 250306,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5YSR67UAwL3LhBqqccfQyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Pigs Is Pigs",
-      "url": "https://open.spotify.com/track/7lgqWNDU5enA8JhxZBg7ao"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Low Teens (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 167289,
-      "name": "The Coin Has A Say",
-      "url": "https://open.spotify.com/track/3TUMSGDwjoNYXxjDbpA1fm"
+      "duration_ms": 159600,
+      "name": "Pigs Is Pigs",
+      "url": "https://open.spotify.com/track/7lgqWNDU5enA8JhxZBg7ao"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+        "name": "Low Teens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 203426,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
+      "duration_ms": 223262,
+      "name": "It Remembers",
+      "url": "https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Low Teens (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 223262,
-      "name": "It Remembers",
-      "url": "https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w"
+      "duration_ms": 203426,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+        "name": "Low Teens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 244800,
-      "name": "INRIhab",
-      "url": "https://open.spotify.com/track/6U6CQjaqOtYTLNDsnze4qO"
+      "duration_ms": 175324,
+      "name": "Fear and Trembling",
+      "url": "https://open.spotify.com/track/7wR0hf657gUFkyNm2xnHsU"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Low Teens (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 175324,
-      "name": "Fear and Trembling",
-      "url": "https://open.spotify.com/track/7wR0hf657gUFkyNm2xnHsU"
+      "duration_ms": 244800,
+      "name": "INRIhab",
+      "url": "https://open.spotify.com/track/6U6CQjaqOtYTLNDsnze4qO"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+        "name": "Low Teens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 153786,
-      "name": "Apocalypse Now And Then",
-      "url": "https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO"
+      "duration_ms": 165863,
+      "name": "Glitches",
+      "url": "https://open.spotify.com/track/0tb3aXvK8lHNJbMuTOnKya"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Low Teens (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 165863,
-      "name": "Glitches",
-      "url": "https://open.spotify.com/track/0tb3aXvK8lHNJbMuTOnKya"
+      "duration_ms": 153786,
+      "name": "Apocalypse Now And Then",
+      "url": "https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179106,
-      "name": "For The Record",
-      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
+      "duration_ms": 103226,
+      "name": "The Marvelous Slut",
+      "url": "https://open.spotify.com/track/0pdZXrH0pvXYDoofSq7NmJ"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Parts Unknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
+        "name": "Ex Lives (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 206567,
-      "name": "Moor",
-      "url": "https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd"
+      "duration_ms": 145896,
+      "name": "Typical Miracle",
+      "url": "https://open.spotify.com/track/0GAtTt7CgIdiRoq1GnsXMt"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 103226,
-      "name": "The Marvelous Slut",
-      "url": "https://open.spotify.com/track/0pdZXrH0pvXYDoofSq7NmJ"
+      "duration_ms": 179106,
+      "name": "For The Record",
+      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex Lives (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h"
+        "name": "From Parts Unknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 145896,
-      "name": "Typical Miracle",
-      "url": "https://open.spotify.com/track/0GAtTt7CgIdiRoq1GnsXMt"
+      "duration_ms": 206567,
+      "name": "Moor",
+      "url": "https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Parts Unknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 118823,
-      "name": "Pelican Of The Desert",
-      "url": "https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ex Lives (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 175532,
       "name": "I Suck (Blood)",
       "url": "https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Parts Unknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 118823,
+      "name": "Pelican Of The Desert",
+      "url": "https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 172373,
-      "name": "The Sweet Life",
-      "url": "https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj"
+      "duration_ms": 179946,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
+      "duration_ms": 172373,
+      "name": "The Sweet Life",
+      "url": "https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj"
     }
   ],
   "unique_name": "This Is Every Time I Die",

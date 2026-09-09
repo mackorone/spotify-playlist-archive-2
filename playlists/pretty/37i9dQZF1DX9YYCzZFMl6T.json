@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8329,
+  "num_followers": 8331,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Merry Christmas Mary Jane",
-        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 252388,
-      "name": "Merry Christmas Mary Jane",
-      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Merry Christmas Mary Jane",
+        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 252388,
+      "name": "Merry Christmas Mary Jane",
+      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 131746,
-      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "The Sound of Christmas",
         "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 197562,
       "name": "The Sound Of Christmas",
       "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 131746,
+      "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "More Than Christmas",
-        "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "More Than Christmas",
-      "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Christmas Time's A-Comin'",
         "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 182406,
       "name": "Christmas Time's A-Comin' - Live",
       "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "More Than Christmas",
+        "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "More Than Christmas",
+      "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -623,22 +623,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas in Prison",
-        "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        },
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Christmas in Prison",
-      "url": "https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx"
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -659,34 +655,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+        "name": "Christmas in Prison",
+        "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
-      },
-      "artists": [
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        },
         {
-          "name": "Palmyra",
-          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
         }
       ],
-      "duration_ms": 194582,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+      "duration_ms": 212333,
+      "name": "Christmas in Prison",
+      "url": "https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -703,6 +687,22 @@
       "duration_ms": 207735,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
+      },
+      "artists": [
+        {
+          "name": "Palmyra",
+          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+        }
+      ],
+      "duration_ms": 194582,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Kid On Christmas",
-        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Kid On Christmas",
-      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
       "added_at": "2025-12-12 05:00:29",

@@ -4,7 +4,7 @@
 
 > Enjoy music from "TOKYO REVENGERS"! Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-117 songs - 6 hr 34 min
+118 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Believe](https://open.spotify.com/track/2hxuAPBIza2jYoZifRddTJ) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TV Anime "Tokyo Revengers" EP 02](https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc) | 3:21 | 2023-01-06 | 2024-04-19 |
 | [I Believe \- Instrumental](https://open.spotify.com/track/2xQ5Ph1ZWfSKp1CNKO4f72) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TV Anime "Tokyo Revengers" EP 02](https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc) | 3:21 | 2023-01-06 | 2024-04-19 |
 | [I Believe \- Instrumental](https://open.spotify.com/track/4C1QYCAuIyz4FEz0fCbfzX) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:21 | 2023-12-19 |  |
+| [IGNITE](https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [IGNITE](https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW) | 3:29 | 2026-09-08 |  |
 | [It Might Be Painful, But I Still Love It.](https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:23 | 2023-04-25 | 2024-04-19 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 | 2023-06-24 |
 | [Kickin' It](https://open.spotify.com/track/4SQbqc1i0YnQTF69QRkExL) | [YVY](https://open.spotify.com/artist/6ZpEv6b0DmfqVK4XGhGfy2), [Frank Bentley](https://open.spotify.com/artist/7dqEgtZn16N557PkibjXS9) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 4:16 | 2023-01-06 |  |

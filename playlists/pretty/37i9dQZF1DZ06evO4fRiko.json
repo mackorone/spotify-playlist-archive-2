@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 992775,
+  "num_followers": 992844,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAqJYLdXVRTaVtJlJIqV2Xa",
+  "snapshot_id": "ap3+gAAAAADtXTAWsOy+I3PDHinxvDE4",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waves [feat. Chris Brown & T.I.] (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/52QdlPr1yYnxb37FBOPpdo"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 190846,
+      "name": "Waves [feat. Chris Brown & T.I.] - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/2HDhsfCmbVjLHYXK32jaCC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freaky Friday (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waves [feat. Chris Brown & T.I.] (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/52QdlPr1yYnxb37FBOPpdo"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 190846,
-      "name": "Waves [feat. Chris Brown & T.I.] - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/2HDhsfCmbVjLHYXK32jaCC"
     },
     {
       "added_at": null,

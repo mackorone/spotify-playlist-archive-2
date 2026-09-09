@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana 🇮🇹 cover: Nuvola
 
-1,507 songs - 2 day 23 hr 53 min
+1,508 songs - 2 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1290,6 +1290,7 @@
 | [Sottoacqua](https://open.spotify.com/track/6cWFNmuxxXPgDXvjeunREN) | [Etra](https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF) | [Sottoacqua](https://open.spotify.com/album/6aBzCG8O4tNiv4ey55DIwv) | 3:01 | 2026-01-08 | 2026-02-13 |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 | 2024-11-15 |
 | [Sottofondo](https://open.spotify.com/track/0qnumFvYWWfEvMVdGqp2u5) | [Spicci](https://open.spotify.com/artist/2oCeUp2TzzTCbW5IC9BVHm) | [Sottofondo](https://open.spotify.com/album/2Tp0rFeqPbXZ2vw4GlLhMQ) | 2:46 | 2024-12-05 | 2025-01-31 |
+| [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-08 |  |
 | [Sottopelle](https://open.spotify.com/track/4TWoef8HG8T0AHeM2w1xp5) | [SKA](https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa) | [Sottopelle](https://open.spotify.com/album/03Uyur2DXG29BG0z9PzGTX) | 2:47 | 2025-12-18 | 2026-01-23 |
 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 | 2024-10-03 | 2024-12-13 |
 | [Sottovoce](https://open.spotify.com/track/2DoflfeYOpvsFpmNK6dxEB) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Sottovoce](https://open.spotify.com/album/1rRflSMvQtIEy8Ij2TFmpa) | 3:17 | 2025-11-11 | 2026-01-15 |

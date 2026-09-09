@@ -4,7 +4,7 @@
 
 > solo le tracce con l'aura migliore 👾 ARIETE e Angelina Mango in cover
 
-1,232 songs - 2 day 9 hr 27 min
+1,233 songs - 2 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [sotto la luna](https://open.spotify.com/track/0eX8cR0kZ4BziC04r0Tx8q) | [DAVIDE](https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL), [FIFexclamation](https://open.spotify.com/artist/0KdZjC6G1gxuZCZ9GICrsk) | [sotto la luna](https://open.spotify.com/album/315TtGnw5jyqIf2ruUZh12) | 2:12 | 2025-05-15 | 2025-06-13 |
 | [Sotto la pelle](https://open.spotify.com/track/7f0cI43BGlj9fOWEl6zZgG) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [Sotto la pelle](https://open.spotify.com/album/03EYIOoPBkfNPCUl5qOt6A) | 2:54 | 2025-04-03 | 2025-05-02 |
 | [Sottoacqua](https://open.spotify.com/track/6cWFNmuxxXPgDXvjeunREN) | [Etra](https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF) | [Sottoacqua](https://open.spotify.com/album/6aBzCG8O4tNiv4ey55DIwv) | 3:01 | 2026-01-08 | 2026-01-30 |
+| [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-08 |  |
 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 | 2024-10-03 | 2025-05-02 |
 | [Sottoterra](https://open.spotify.com/track/5DxNp6C2ft0DA8bqcIgDeB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Sottoterra](https://open.spotify.com/album/7pP33aj7Qqqp5CoDTcbokd) | 2:32 | 2023-03-23 | 2023-03-31 |
 | [SPAZZATURA](https://open.spotify.com/track/3aXhGOFc8XRsUoxdlftnsj) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH), [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [SPAZZATURA](https://open.spotify.com/album/70wjp9z48HRgGssIKlrmzC) | 3:03 | 2024-05-31 | 2024-06-14 |

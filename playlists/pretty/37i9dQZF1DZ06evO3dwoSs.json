@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 573244,
+  "num_followers": 573243,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADDU4dxs00lHkt+I/2K0cxl",
+  "snapshot_id": "ap3+gAAAAAAHOrMENgNKUzaA3KfSHPxu",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greetings From Suffocate City (From Beyond The Abyss: Deluxe Edition)",
+        "url": "https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
         "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 245951,
       "name": "M.I.N.E (End This Way)",
       "url": "https://open.spotify.com/track/2pkhDDoWnF31Vn0zrTliWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greetings From Suffocate City (From Beyond The Abyss: Deluxe Edition)",
-        "url": "https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2"
-      },
-      "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-      "url": "https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl"
     },
     {
       "added_at": null,

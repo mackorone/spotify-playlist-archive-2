@@ -740,7 +740,7 @@
 | [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-05-30 | 2025-07-05 |
 | [ÁNGEL \- BCLIP CLUB VERSION](https://open.spotify.com/track/5HRPy36mVa644wZRq94Upk) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Bclip](https://open.spotify.com/artist/7kGL1m1wkAzKUrLCqaDVDT) | [CLUB GRASA](https://open.spotify.com/album/4VWYv2QkykYT9EBfydrwIJ) | 4:19 | 2026-05-15 | 2026-06-12 |
 | [Ángel Caído](https://open.spotify.com/track/7jUm9qwlA75HLx27RDKkWS) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ángel Caído](https://open.spotify.com/album/6tWk3CScCYmtpiABKdxkDy) | 4:25 | 2026-05-01 | 2026-07-03 |
-| [Átomo](https://open.spotify.com/track/1sgwXutRSbeqSprRHF3OHT) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Átomo](https://open.spotify.com/album/2eqMFGNFaDQRRf6zL61WJa) | 4:23 | 2026-08-14 |  |
+| [Átomo](https://open.spotify.com/track/1sgwXutRSbeqSprRHF3OHT) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Átomo](https://open.spotify.com/album/2eqMFGNFaDQRRf6zL61WJa) | 4:21 | 2026-08-14 |  |
 | [⅞](https://open.spotify.com/track/1e3i1QINpaceyv6EcVmBWz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 2:27 | 2024-03-29 | 2024-06-29 |
 
 \*This playlist was first scraped on 2023-10-15. Prior content cannot be recovered.

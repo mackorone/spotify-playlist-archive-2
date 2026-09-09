@@ -4,7 +4,7 @@
 
 > 
 
-143 songs - 10 hr 2 min
+144 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2026-03-30 | 2026-05-03 |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-08-13 |  |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2026-03-30 |  |
+| [The Hand](https://open.spotify.com/track/177hzTEEFC7GTHOrfoUuSj) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/43fX9uwaRmoPEKbMzMMuav) | 3:10 | 2026-09-08 |  |
 | [The Lake Isle](https://open.spotify.com/track/5QhtE8F6sCVmAj9hLsHfK7) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Kristian Kvalvaag](https://open.spotify.com/artist/2gWimrrYeCW2NMr5yE8Xvh), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [Ciaran McCabe](https://open.spotify.com/artist/21c1PU3FDMEteSVpYnuOYD), [Jon Thorne](https://open.spotify.com/artist/5zO7OYFWteJtQyg0iBKhyH), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7) | [Ola Gjeilo](https://open.spotify.com/album/4IOXEu8EgItKI8J9JDaEr4) | 6:18 | 2026-03-30 |  |
 | [The Let Out](https://open.spotify.com/track/2aNaJLXE4SXbm9L23qpHTG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:14 | 2026-08-08 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4Musyaro0NM5Awx8b5c627) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:01 | 2026-08-25 |  |

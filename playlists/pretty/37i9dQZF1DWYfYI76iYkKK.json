@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130441,
+  "num_followers": 130449,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
-        "url": "https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq"
+        "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
+        "url": "https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du"
       },
       "artists": [
         {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
         }
       ],
-      "duration_ms": 273273,
-      "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
-      "url": "https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00"
+      "duration_ms": 280992,
+      "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
+      "url": "https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -291,34 +291,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
-        "url": "https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du"
+        "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
+        "url": "https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq"
       },
       "artists": [
         {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
         }
       ],
-      "duration_ms": 280992,
-      "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
-      "url": "https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+      "duration_ms": 273273,
+      "name": "\u4eba\u9192\u8457\u4e0d\u904e\u4e00\u842c\u591a\u5929",
+      "url": "https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -335,6 +319,22 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u6084\u6084\u544a\u8a34\u4f60",
-        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
-      },
-      "artists": [
-        {
-          "name": "Christine Fan",
-          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "\u6084\u6084\u544a\u8a34\u4f60",
-      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 232693,
       "name": "\u6d77\u67af\u77f3\u721b",
       "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u8327Jian",
+        "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
+      },
+      "artists": [
+        {
+          "name": "Wang OK",
+          "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
+        }
+      ],
+      "duration_ms": 199282,
+      "name": "\u8327Jian",
+      "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

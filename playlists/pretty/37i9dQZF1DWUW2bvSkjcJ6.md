@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Miley Cyrus, Tokio Hotel, THIZZY52, Ellie Goulding, Travis Scott & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,934 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,886 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Enmascarados, Pin-Up Girls, Engrasados y Surfers en un mismo lugar ",
-  "num_followers": 85200,
+  "num_followers": 85210,
   "original_name": "Garage, Surf & Rockabilly ",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-07 06:00:36",
       "album": {
-        "name": "Dr. Malicia / 10 A\u00f1os El\u00e1sticos",
-        "url": "https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "Blue Demon Jr.",
-      "url": "https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0"
-    },
-    {
-      "added_at": "2026-08-07 06:00:36",
-      "album": {
         "name": "Guitars In Orbit",
         "url": "https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-08-07 06:00:36",
       "album": {
+        "name": "Dr. Malicia / 10 A\u00f1os El\u00e1sticos",
+        "url": "https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss"
+      },
+      "artists": [
+        {
+          "name": "Los Elasticos",
+          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
+        }
+      ],
+      "duration_ms": 134493,
+      "name": "Blue Demon Jr.",
+      "url": "https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0"
+    },
+    {
+      "added_at": "2026-08-07 06:00:36",
+      "album": {
         "name": "Naci\u00f3n Apache",
         "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 128453,
       "name": "Naci\u00f3n Apache",
       "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
+    },
+    {
+      "added_at": "2026-08-07 06:00:36",
+      "album": {
+        "name": "Guateque Estelar",
+        "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
+      },
+      "artists": [
+        {
+          "name": "Matorralman",
+          "url": "https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Chicas Kamikaze",
+      "url": "https://open.spotify.com/track/72kbuWvm36guCtSreHM203"
     },
     {
       "added_at": "2026-08-07 06:00:36",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2026-08-07 06:00:36",
       "album": {
-        "name": "Guateque Estelar",
-        "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
-      },
-      "artists": [
-        {
-          "name": "Matorralman",
-          "url": "https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Chicas Kamikaze",
-      "url": "https://open.spotify.com/track/72kbuWvm36guCtSreHM203"
-    },
-    {
-      "added_at": "2026-08-07 06:00:36",
-      "album": {
         "name": "Tsunami Mami",
         "url": "https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-08-07 06:00:36",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/31Zc2FUYI5ckAeI5qKGmV2"
-      },
-      "artists": [
-        {
-          "name": "Yokozuna",
-          "url": "https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK"
-        }
-      ],
-      "duration_ms": 163455,
-      "name": "Huevos Al Motor",
-      "url": "https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs"
-    },
-    {
-      "added_at": "2026-08-07 06:00:36",
-      "album": {
         "name": "Cordyceps",
         "url": "https://open.spotify.com/album/06BS8FuiWWr0qqJqxsZloj"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 154100,
       "name": "Cordyceps",
       "url": "https://open.spotify.com/track/0vPMGS5FEPjk7pVf6oNdMc"
+    },
+    {
+      "added_at": "2026-08-07 06:00:36",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/31Zc2FUYI5ckAeI5qKGmV2"
+      },
+      "artists": [
+        {
+          "name": "Yokozuna",
+          "url": "https://open.spotify.com/artist/0m8WjSikRGBl70zGGUukbK"
+        }
+      ],
+      "duration_ms": 163455,
+      "name": "Huevos Al Motor",
+      "url": "https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs"
     },
     {
       "added_at": "2026-08-07 06:00:36",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-08-07 06:00:36",
       "album": {
+        "name": "Fiesta inolvidable (Estamos bien)",
+        "url": "https://open.spotify.com/album/4RHwnRFgdxKWmAW2beG9pW"
+      },
+      "artists": [
+        {
+          "name": "Los Esquizitos",
+          "url": "https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A"
+        }
+      ],
+      "duration_ms": 194825,
+      "name": "Fiesta Inolvidable (Estamos bien)",
+      "url": "https://open.spotify.com/track/42uenM4LIuu6DiSLGH11cV"
+    },
+    {
+      "added_at": "2026-08-07 06:00:36",
+      "album": {
         "name": "Surfin'tenochtillan",
         "url": "https://open.spotify.com/album/4uiytkWk5tke2mjnIN9rpy"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 123612,
       "name": "Garaje o Muerte",
       "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
-    },
-    {
-      "added_at": "2026-08-07 06:00:36",
-      "album": {
-        "name": "Fiesta inolvidable (Estamos bien)",
-        "url": "https://open.spotify.com/album/4RHwnRFgdxKWmAW2beG9pW"
-      },
-      "artists": [
-        {
-          "name": "Los Esquizitos",
-          "url": "https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A"
-        }
-      ],
-      "duration_ms": 194825,
-      "name": "Fiesta Inolvidable (Estamos bien)",
-      "url": "https://open.spotify.com/track/42uenM4LIuu6DiSLGH11cV"
     },
     {
       "added_at": "2026-08-07 06:00:36",

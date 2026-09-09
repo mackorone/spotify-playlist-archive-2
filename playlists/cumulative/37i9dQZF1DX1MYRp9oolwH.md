@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-468 songs - 1 day 6 hr 4 min
+469 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Sittharala Sithravathi](https://open.spotify.com/track/41fwiD8lWd33niYg3yQ14D) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Aadikeshava](https://open.spotify.com/album/4LXMolmh5RAfzyjqZ2tnxZ) | 3:36 | 2023-09-09 | 2025-02-01 |
 | [Sogasu Chudatharama \(From "Telusu Kada"\)](https://open.spotify.com/track/3UlG7yRyzw7RsGC0vxVXgO) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Adviteeya Vojjala](https://open.spotify.com/artist/09J325BgRreHJKVVVAECLx), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sogasu Chudatharama \(From "Telusu Kada"\)](https://open.spotify.com/album/7Gb3tz0K3bEADvxkfpxNdV) | 4:16 | 2025-09-24 | 2026-03-31 |
 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 | 2023-03-25 | 2023-06-17 |
+| [Soggadila](https://open.spotify.com/track/1rzyfH2rXIjdsIt18ZNubt) | [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Sudaksh](https://open.spotify.com/artist/2E1gCbV4M3AdfASZGEExLJ) | [Mana Doctor Babe](https://open.spotify.com/album/5xBMzP1p5o7HkaBqNBcoQR) | 4:28 | 2026-09-08 |  |
 | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5) | 4:20 | 2024-05-29 | 2025-02-28 |
 | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Sridevi Chiranjeevi \(From "Waltair Veerayya"\)](https://open.spotify.com/album/5zZZLjaf8sIf0aiYMeMtI5) | 2:58 | 2022-12-19 | 2023-08-25 |
 | [Srimathi Garu \(From "Lucky Baskhar"\)\(Telugu\)](https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Shree Mani](https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh) | [Srimathi Garu \(From "Lucky Baskhar"\)\(Telugu\)](https://open.spotify.com/album/1jt6U4Ag5PaI5UwpBWvDFc) | 3:42 | 2024-06-19 | 2025-02-28 |

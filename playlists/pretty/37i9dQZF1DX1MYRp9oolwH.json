@@ -1,13 +1,37 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 171457,
+  "num_followers": 171460,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGWty1mIkmOczY2q42XW/XaCZTd",
+  "snapshot_id": "AAAAAN4x4fGVBKv3V3jgqzypPZn2rZUe",
   "tracks": [
+    {
+      "added_at": "2026-08-18 08:00:06",
+      "album": {
+        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "duration_ms": 250027,
+      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
+    },
     {
       "added_at": "2026-09-07 07:00:41",
       "album": {
@@ -59,30 +83,6 @@
       "duration_ms": 233181,
       "name": "Allakallolamga (From \"Gaja\")",
       "url": "https://open.spotify.com/track/5rR5vmFvPLjgEn1NnZkZkY"
-    },
-    {
-      "added_at": "2026-08-18 08:00:06",
-      "album": {
-        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Kalyan Chakravarthy",
-          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
-        }
-      ],
-      "duration_ms": 250027,
-      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
     },
     {
       "added_at": "2026-09-07 07:00:41",
@@ -239,6 +239,26 @@
       "duration_ms": 255833,
       "name": "Manasa Vacha (From \"EPIC - First Semester\")",
       "url": "https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD"
+    },
+    {
+      "added_at": "2026-09-08 10:11:21",
+      "album": {
+        "name": "Mana Doctor Babe",
+        "url": "https://open.spotify.com/album/5xBMzP1p5o7HkaBqNBcoQR"
+      },
+      "artists": [
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Sudaksh",
+          "url": "https://open.spotify.com/artist/2E1gCbV4M3AdfASZGEExLJ"
+        }
+      ],
+      "duration_ms": 268768,
+      "name": "Soggadila",
+      "url": "https://open.spotify.com/track/1rzyfH2rXIjdsIt18ZNubt"
     },
     {
       "added_at": "2026-07-23 06:03:20",

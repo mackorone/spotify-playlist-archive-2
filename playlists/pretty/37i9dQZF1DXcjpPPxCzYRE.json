@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 444855,
+  "num_followers": 444900,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "La Chica del Norte",
-        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "La Chica del Norte",
-      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Mejor ma\u00f1ana",
         "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 203893,
       "name": "Mejor ma\u00f1ana",
       "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "B\u00c9SAME",
-        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
       "artists": [
         {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
         }
       ],
-      "duration_ms": 148000,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+        "name": "B\u00c9SAME",
+        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
       },
       "artists": [
         {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
         }
       ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+      "duration_ms": 148000,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1075,54 +1059,18 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "El silencio de las 4",
-        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
       },
       "artists": [
         {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 173684,
-      "name": "El silencio de las 4",
-      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
-      },
-      "artists": [
-        {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
-        }
-      ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "Aire Fresco (feat. LYNN)",
-        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
-      },
-      "artists": [
-        {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
-        },
-        {
-          "name": "LYNN",
-          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "Aire Fresco (feat. LYNN)",
-      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1143,6 +1091,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "El silencio de las 4",
+        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "El silencio de las 4",
+      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -1159,6 +1123,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Aire Fresco (feat. LYNN)",
+        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
+      },
+      "artists": [
+        {
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "duration_ms": 179134,
+      "name": "Aire Fresco (feat. LYNN)",
+      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 357956,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 208700,
       "name": "Cat Fun",
       "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 357956,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Te perd\u00ed",
         "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1739,26 +1739,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+        "name": "Albino Rhino",
+        "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+          "name": "Aaron Rux",
+          "url": "https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0"
         },
         {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "The Crying Cowboys",
+          "url": "https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+      "duration_ms": 249861,
+      "name": "Albino Rhino",
+      "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1779,22 +1775,26 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Albino Rhino",
-        "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
       },
       "artists": [
         {
-          "name": "Aaron Rux",
-          "url": "https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0"
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
         },
         {
-          "name": "The Crying Cowboys",
-          "url": "https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd"
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
         }
       ],
-      "duration_ms": 249861,
-      "name": "Albino Rhino",
-      "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1863,30 +1847,6 @@
       "duration_ms": 188411,
       "name": "Tan brillant",
       "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "El Sitio de Mi Recreo",
-        "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
-      },
-      "artists": [
-        {
-          "name": "Alba Molina",
-          "url": "https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1"
-        },
-        {
-          "name": "Mayte Martin",
-          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "El Sitio de Mi Recreo",
-      "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1911,6 +1871,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1923,6 +1899,30 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "El Sitio de Mi Recreo",
+        "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
+      },
+      "artists": [
+        {
+          "name": "Alba Molina",
+          "url": "https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1"
+        },
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        },
+        {
+          "name": "Vicente Amigo",
+          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "El Sitio de Mi Recreo",
+      "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "No quiero olvidar",
-        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 201441,
-      "name": "No quiero olvidar",
-      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 216800,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "No quiero olvidar",
+        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 201441,
+      "name": "No quiero olvidar",
+      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
     },
     {
       "added_at": "2026-09-04 15:20:08",

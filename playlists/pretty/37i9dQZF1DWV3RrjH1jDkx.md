@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Tobias Sten, Highasakite, Roc Boyz og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,088 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,089 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

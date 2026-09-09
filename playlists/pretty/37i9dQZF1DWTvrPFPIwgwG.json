@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 208581,
+  "num_followers": 208647,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,30 @@
     {
       "added_at": "2026-08-07 14:18:04",
       "album": {
+        "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
+        "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 353770,
+      "name": "A Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
+    },
+    {
+      "added_at": "2026-08-07 14:18:04",
+      "album": {
         "name": "Vendavais (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
       },
@@ -631,30 +655,6 @@
       "duration_ms": 487456,
       "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
       "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
-    },
-    {
-      "added_at": "2026-08-07 14:18:04",
-      "album": {
-        "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
-        "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        },
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 353770,
-      "name": "A Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
     },
     {
       "added_at": "2026-08-07 14:18:04",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-08-07 14:18:04",
       "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
       "artists": [
         {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2026-08-07 14:18:04",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-08-07 14:18:04",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
         }
       ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
     },
     {
       "added_at": "2026-08-07 14:18:04",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-08-07 14:18:04",
       "album": {
-        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Souza",
-          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 461540,
-      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
-    },
-    {
-      "added_at": "2026-08-07 14:18:04",
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 281106,
       "name": "Eu Sei Quem Sou",
       "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
+    },
+    {
+      "added_at": "2026-08-07 14:18:04",
+      "album": {
+        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Souza",
+          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 461540,
+      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2026-08-07 14:18:04",

@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 637802,
       "name": "Darmaan (feat. Lina Belaid & Veeru Shan)",
       "url": "https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM"
@@ -6810,7 +6810,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 221204,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/2tSkRDbsIRWQJtMmRr2HvV"
@@ -10831,6 +10831,24 @@
     },
     {
       "album": {
+        "name": "IRIDESCENCE",
+        "url": "https://open.spotify.com/album/6KXG4wZ2kX5tvHPrggOVTG"
+      },
+      "artists": [
+        {
+          "name": "MALIK.",
+          "url": "https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210864,
+      "name": "IRIDESCENCE",
+      "url": "https://open.spotify.com/track/5rrDXEGEQiqBus9lBvUdaM"
+    },
+    {
+      "album": {
         "name": "Ishaq Dariya",
         "url": "https://open.spotify.com/album/0STzN92xfNnz3Sn3ZjQFMJ"
       },
@@ -11100,7 +11118,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 145573,
       "name": "Jaa Re",
       "url": "https://open.spotify.com/track/02ETwPLhrmejzjp1i2mWfn"
@@ -13486,7 +13504,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 607236,
       "name": "Koi Achi Khabar",
       "url": "https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM"
@@ -20126,6 +20144,28 @@
       "duration_ms": 234655,
       "name": "Rani",
       "url": "https://open.spotify.com/track/1RRCXiSC4BFV6cHY5vYKSU"
+    },
+    {
+      "album": {
+        "name": "ranj",
+        "url": "https://open.spotify.com/album/3cnEjmmBL2C0MsLa5hjFOf"
+      },
+      "artists": [
+        {
+          "name": "Tahami",
+          "url": "https://open.spotify.com/artist/5z2rn72EVm3jch5Fnxlbo7"
+        },
+        {
+          "name": "Reggs",
+          "url": "https://open.spotify.com/artist/5ZiXTiApJhxzxicjIznlLs"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156446,
+      "name": "ranj",
+      "url": "https://open.spotify.com/track/77BxEIbmerTnbTYHLAp0CT"
     },
     {
       "album": {

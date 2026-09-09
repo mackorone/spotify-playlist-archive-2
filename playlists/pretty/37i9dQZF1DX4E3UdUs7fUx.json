@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 1969834,
+  "num_followers": 1969511,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Imperial Recordings Best Of",
+        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Where's My Love (Acoustic)",
         "url": "https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 250438,
       "name": "Resilient",
       "url": "https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Imperial Recordings Best Of",
-        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
     },
     {
       "added_at": "2024-08-23 15:05:15",

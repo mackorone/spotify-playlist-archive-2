@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Amelie Lens
 
-1,435 songs - 3 day 1 hr 4 min
+1,436 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,6 +1297,7 @@
 | [Time To Move](https://open.spotify.com/track/77a1NpI0XMHdJFQU50i5EV) | [LAMMER](https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc) | [Highly Rogue](https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd) | 3:58 | 2025-10-09 | 2025-11-14 |
 | [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-07-17 | 2025-08-09 |
 | [Timeless](https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac) | [Timeless](https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z) | 6:16 | 2026-01-29 | 2026-03-06 |
+| [To The Floor \(Vai Descendo\)](https://open.spotify.com/track/0VCLJHFuhgOQUVyWSU3aKr) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [To The Floor \(Vai Descendo\)](https://open.spotify.com/album/5yuEph0ggq7kX9uvAedKgb) | 2:13 | 2026-09-08 |  |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-08-15 |
 | [Tomorrow Can Wait](https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Tomorrow Can Wait](https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU) | 3:12 | 2026-06-25 | 2026-08-15 |
 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 | 2025-10-09 | 2025-11-08 |

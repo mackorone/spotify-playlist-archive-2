@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Anchor Flame",
+        "url": "https://open.spotify.com/album/7CNgptK0iV1DlySpVgeh7U"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248595,
+      "name": "Anchor Flame",
+      "url": "https://open.spotify.com/track/5XX2PuC0I96fUypzhz4wPA"
+    },
+    {
+      "album": {
         "name": "Angie",
         "url": "https://open.spotify.com/album/684W97C1tLkWkAXAnSA3GH"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 215586,
       "name": "Break out!!",
       "url": "https://open.spotify.com/track/5cODOqzSP1SSNyfVynsOpU"
@@ -4158,6 +4176,24 @@
       "duration_ms": 226640,
       "name": "Cantabile",
       "url": "https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58"
+    },
+    {
+      "album": {
+        "name": "Cantare",
+        "url": "https://open.spotify.com/album/4Fq6qfiK4bBrGPLlESTuUq"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/6DCQHIS4sRR1aBoSiQegyL"
     },
     {
       "album": {
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 222166,
       "name": "CRIMSON BULLET",
       "url": "https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x"
@@ -9187,6 +9223,24 @@
     },
     {
       "album": {
+        "name": "Give a reason",
+        "url": "https://open.spotify.com/album/4IRFB88YvybekNE9G3tx9e"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Give a reason",
+      "url": "https://open.spotify.com/track/3nO5Q6TNYns242EKW3FRKg"
+    },
+    {
+      "album": {
         "name": "Give Me Life",
         "url": "https://open.spotify.com/album/4RrLUANu5Qbs6hKNlfzH4a"
       },
@@ -11866,6 +11920,24 @@
       "duration_ms": 226080,
       "name": "Ignis -\u30a4\u30b0\u30cb\u30b9-",
       "url": "https://open.spotify.com/track/1NhM7fLXtADQqmOUDpX7gd"
+    },
+    {
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx"
     },
     {
       "album": {
@@ -17574,7 +17646,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 209480,
       "name": "NAVIGATOR:",
       "url": "https://open.spotify.com/track/1NlQq400xO0DiwXoxCxCqJ"
@@ -17940,7 +18012,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 189000,
       "name": "NEW GAME",
       "url": "https://open.spotify.com/track/5737EHlVX7lgite3eziaS6"
@@ -19217,6 +19289,24 @@
     },
     {
       "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/2sMekad9LMEM1khq2foXJR"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/7nLnCxUgjRkTWYichBcWW9"
+    },
+    {
+      "album": {
         "name": "Paper Bouquet",
         "url": "https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir"
       },
@@ -19726,7 +19816,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 218030,
       "name": "po-ai feat. Mirai Moriyama",
       "url": "https://open.spotify.com/track/3QaKwZt5c1EK0DaUqkr7N3"
@@ -19874,7 +19964,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 221700,
       "name": "POWER OF STARS",
       "url": "https://open.spotify.com/track/7yx6ZBk9IbpGkDUWYzuGuR"
@@ -21390,7 +21480,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 178506,
       "name": "Ritornello",
       "url": "https://open.spotify.com/track/6jV1evtWGv8x0GNMkdJWxb"
@@ -24171,6 +24261,32 @@
     },
     {
       "album": {
+        "name": "Steel My Soul",
+        "url": "https://open.spotify.com/album/5dqXtVpxa5njvKdwfIW0kE"
+      },
+      "artists": [
+        {
+          "name": "GROTESQQQUE",
+          "url": "https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn"
+        },
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        },
+        {
+          "name": "\u5fd7\u5d0e\u6a3a\u97f3",
+          "url": "https://open.spotify.com/artist/2s2f7DTKmw8BLRzzj2n5RH"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146093,
+      "name": "Steel My Soul",
+      "url": "https://open.spotify.com/track/44fyVuN4FnMWGuYNkrPhDG"
+    },
+    {
+      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/16NFl55ufQP4m2cohUxOMz"
       },
@@ -26396,7 +26512,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 174480,
       "name": "Tokyo Gals",
       "url": "https://open.spotify.com/track/2FRf5fgRzgZ6cKBeEy9e8U"
@@ -31465,6 +31581,28 @@
     },
     {
       "album": {
+        "name": "\u3053\u306e\u661f\u3067\u3088\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/3ZdBpZh8AFbjew07xq8qd8"
+      },
+      "artists": [
+        {
+          "name": "OKINI\u2606PARTY'S",
+          "url": "https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199058,
+      "name": "\u3053\u306e\u661f\u3067\u3088\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB"
+    },
+    {
+      "album": {
         "name": "\u3053\u307e\u308a\u308f\u3089\u3044",
         "url": "https://open.spotify.com/album/00DeFhBiMsWTraxBRxu7PZ"
       },
@@ -31956,7 +32094,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 223346,
       "name": "\u305d\u308c\u3067\u3082\u821e\u53f0\u306f\u7d9a\u3044\u3066\u304f",
       "url": "https://open.spotify.com/track/3IADZsRsFNHfKK7vc3CTPD"
@@ -36537,6 +36675,24 @@
     },
     {
       "album": {
+        "name": "\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8\u30fb\u30ad\u30e9\u30fc\u30fb\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/73C2LLfiwBSFLmIDH8CwOx"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u5bb6Dumb Rock!",
+          "url": "https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8\u30fb\u30ad\u30e9\u30fc\u30fb\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0Clwm7Zt7XLawpVGrIMLs5"
+    },
+    {
+      "album": {
         "name": "\u30b8\u30e3\u30fc\u30cb\u30fc\u30ba\u30fb\u30c8\u30e9\u30f3\u30af",
         "url": "https://open.spotify.com/album/6OGSorkbD4Rgm6Haa0rbDe"
       },
@@ -38466,7 +38622,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 209200,
       "name": "\u30cf\u30a4\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/08wiYF42f2wVoEW0xZfzAl"
@@ -47535,6 +47691,24 @@
     },
     {
       "album": {
+        "name": "\u6765\u308c\u604b\u30fb\u81f3\u308c\u611b",
+        "url": "https://open.spotify.com/album/5Zuz1RpEup2yQhHJKoPS6L"
+      },
+      "artists": [
+        {
+          "name": "\u604b\u592a\u90ce\u30d5\u30a1\u30df\u30ea\u30fc",
+          "url": "https://open.spotify.com/artist/7usiekwkfBXIT1v92xDSAE"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "\u6765\u308c\u604b\u30fb\u81f3\u308c\u611b",
+      "url": "https://open.spotify.com/track/3BrdIKZbTuz1AZHTGzCCcL"
+    },
+    {
+      "album": {
         "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
         "url": "https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz"
       },
@@ -49252,6 +49426,28 @@
       "duration_ms": 256428,
       "name": "\u785d\u5b50\u306e\u7dda",
       "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
+    },
+    {
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 35",
+        "url": "https://open.spotify.com/album/12oWEbGLTyngd6boOaXckp"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30d4\u30d5\u30a1\u30cd\u30a4\u30a2 (CV. \u5343\u8cc0\u5149\u8389)",
+          "url": "https://open.spotify.com/artist/7vI36mvsWrpfa834C53X81"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176886,
+      "name": "\u78ba\u4fe1\u7684\u21d4Supernova",
+      "url": "https://open.spotify.com/track/2dehjyShmXTd90R7DarKrH"
     },
     {
       "album": {

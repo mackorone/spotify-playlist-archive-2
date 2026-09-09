@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Snotkop en Ricus Nel",
-  "num_followers": 150469,
+  "num_followers": 150485,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Tina Tequila",
-        "url": "https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tina Tequila",
-      "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Lenie Blou",
         "url": "https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180952,
       "name": "Lenie Blou",
       "url": "https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Tina Tequila",
+        "url": "https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tina Tequila",
+      "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Sterre",
-        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        },
-        {
-          "name": "Liezel Pieters",
-          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
-        }
-      ],
-      "duration_ms": 213461,
-      "name": "Sterre",
-      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Hoe Nou?",
         "url": "https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Sterre",
+        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+        }
+      ],
+      "duration_ms": 213461,
+      "name": "Sterre",
+      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Daai Gevoel",
-        "url": "https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 191222,
-      "name": "Daai Gevoel",
-      "url": "https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Jannaman",
         "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 205114,
       "name": "Jannaman",
       "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Daai Gevoel",
+        "url": "https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 191222,
+      "name": "Daai Gevoel",
+      "url": "https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Winter In Die Kaap",
-        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Bella",
-          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "Winter In Die Kaap",
-      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Country Girl Van Bloem",
         "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "308",
-        "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
+        "name": "Winter In Die Kaap",
+        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
       },
       "artists": [
         {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         },
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
         }
       ],
-      "duration_ms": 167472,
-      "name": "308",
-      "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
+      "duration_ms": 206271,
+      "name": "Winter In Die Kaap",
+      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -1303,6 +1283,26 @@
       "duration_ms": 213000,
       "name": "Madelein",
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "308",
+        "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 167472,
+      "name": "308",
+      "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Trek Hom Plat",
-        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Trek Hom Plat",
-      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "My Tipe",
         "url": "https://open.spotify.com/album/7fKwFfj6hA9MWVScNwRteT"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 228888,
       "name": "Hart soos 'n Hilux",
       "url": "https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Trek Hom Plat",
+        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Trek Hom Plat",
+      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     }
   ],
   "unique_name": "Afrikaanse Hits",

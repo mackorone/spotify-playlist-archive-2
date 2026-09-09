@@ -1,13 +1,29 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Faria Abdullah",
-  "num_followers": 45418,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Vamsi Kalakuntla",
+  "num_followers": 45431,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3LcelzpBeCNG2IgawpuR8xigxp",
+  "snapshot_id": "AAAAAKxw6G+BHmF9gnsvWStuphLZ4Uzn",
   "tracks": [
+    {
+      "added_at": "2026-08-13 09:09:29",
+      "album": {
+        "name": "Maantra",
+        "url": "https://open.spotify.com/album/33ncr8lFD42MgiiAEufdbo"
+      },
+      "artists": [
+        {
+          "name": "Vamsi Kalakuntla",
+          "url": "https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk"
+        }
+      ],
+      "duration_ms": 177935,
+      "name": "Maantra",
+      "url": "https://open.spotify.com/track/3CTLl4rZXCkF6PvdWHnZEw"
+    },
     {
       "added_at": "2026-08-31 17:00:24",
       "album": {
@@ -35,46 +51,6 @@
       "duration_ms": 186047,
       "name": "Bangaram",
       "url": "https://open.spotify.com/track/2snhZ3f3oy2HZiQhkpldqJ"
-    },
-    {
-      "added_at": "2026-08-17 07:13:06",
-      "album": {
-        "name": "LITE LELO",
-        "url": "https://open.spotify.com/album/6YpenHWeeQRxtCVepibAzv"
-      },
-      "artists": [
-        {
-          "name": "Faria Abdullah",
-          "url": "https://open.spotify.com/artist/638uCpbXcepPKOZdNfAHLv"
-        },
-        {
-          "name": "Asura",
-          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
-        },
-        {
-          "name": "Addyction",
-          "url": "https://open.spotify.com/artist/6UIOk5wIHMUWs30ISs4vXl"
-        }
-      ],
-      "duration_ms": 304350,
-      "name": "LITE LELO",
-      "url": "https://open.spotify.com/track/1S9UjPfddiONdqYS8HP2Aq"
-    },
-    {
-      "added_at": "2026-08-13 09:09:29",
-      "album": {
-        "name": "Maantra",
-        "url": "https://open.spotify.com/album/33ncr8lFD42MgiiAEufdbo"
-      },
-      "artists": [
-        {
-          "name": "Vamsi Kalakuntla",
-          "url": "https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk"
-        }
-      ],
-      "duration_ms": 177935,
-      "name": "Maantra",
-      "url": "https://open.spotify.com/track/3CTLl4rZXCkF6PvdWHnZEw"
     },
     {
       "added_at": "2026-07-31 05:55:02",
@@ -183,6 +159,30 @@
       "duration_ms": 181463,
       "name": "Vegam",
       "url": "https://open.spotify.com/track/77MLceeAJMHKjeKi6Uah6r"
+    },
+    {
+      "added_at": "2026-08-17 07:13:06",
+      "album": {
+        "name": "LITE LELO",
+        "url": "https://open.spotify.com/album/6YpenHWeeQRxtCVepibAzv"
+      },
+      "artists": [
+        {
+          "name": "Faria Abdullah",
+          "url": "https://open.spotify.com/artist/638uCpbXcepPKOZdNfAHLv"
+        },
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "Addyction",
+          "url": "https://open.spotify.com/artist/6UIOk5wIHMUWs30ISs4vXl"
+        }
+      ],
+      "duration_ms": 304350,
+      "name": "LITE LELO",
+      "url": "https://open.spotify.com/track/1S9UjPfddiONdqYS8HP2Aq"
     },
     {
       "added_at": "2026-03-26 07:31:04",
@@ -721,6 +721,42 @@
       "url": "https://open.spotify.com/track/37N0pehYBuG4DGRdx3Q93u"
     },
     {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Kaougili",
+        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Sankuri",
+          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "Kaougili",
+      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Gamyam",
+        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        },
+        {
+          "name": "Balavardhan",
+          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
+        }
+      ],
+      "duration_ms": 260662,
+      "name": "Gamyam",
+      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
+    },
+    {
       "added_at": "2026-07-10 11:11:11",
       "album": {
         "name": "Naatu",
@@ -761,42 +797,6 @@
       "url": "https://open.spotify.com/track/4RPrGHAfx79zn877n2DHKw"
     },
     {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Kaougili",
-        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
-      },
-      "artists": [
-        {
-          "name": "Abhinav Sankuri",
-          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
-        }
-      ],
-      "duration_ms": 167717,
-      "name": "Kaougili",
-      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
-    },
-    {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Gamyam",
-        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        },
-        {
-          "name": "Balavardhan",
-          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
-        }
-      ],
-      "duration_ms": 260662,
-      "name": "Gamyam",
-      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
-    },
-    {
       "added_at": "2026-07-03 09:04:25",
       "album": {
         "name": "Ishq Edo Maayale (Rewind)",
@@ -831,22 +831,6 @@
       "duration_ms": 275647,
       "name": "Nee Parichayame",
       "url": "https://open.spotify.com/track/4zgLrMrPEMXaTokloGJwPA"
-    },
-    {
-      "added_at": "2026-06-19 05:43:05",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
-      },
-      "artists": [
-        {
-          "name": "Sai Sandeep Pakki",
-          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
     },
     {
       "added_at": "2026-03-12 14:20:28",
@@ -887,6 +871,22 @@
       "duration_ms": 215386,
       "name": "Bagundhiley",
       "url": "https://open.spotify.com/track/2NqXqilVdviS616yjTlpeg"
+    },
+    {
+      "added_at": "2026-06-19 05:43:05",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
     },
     {
       "added_at": "2026-07-24 05:28:52",
@@ -1009,20 +1009,20 @@
       "url": "https://open.spotify.com/track/3VoZO7ceMwffilEDWQ3tIe"
     },
     {
-      "added_at": "2026-06-12 00:10:05",
+      "added_at": "2026-02-28 00:01:13",
       "album": {
-        "name": "Kaattey",
-        "url": "https://open.spotify.com/album/1WghfNsJYXtwDNSs7H1cvG"
+        "name": "Vennela",
+        "url": "https://open.spotify.com/album/6xqTVfYYhITayEtXlVVadT"
       },
       "artists": [
         {
-          "name": "brownkiddreams",
-          "url": "https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY"
+          "name": "Fleep & Arin",
+          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
         }
       ],
-      "duration_ms": 120819,
-      "name": "Kaattey",
-      "url": "https://open.spotify.com/track/2e5S5dEUM4HVz53iffsTQr"
+      "duration_ms": 181552,
+      "name": "Vennela",
+      "url": "https://open.spotify.com/track/5WPphyuv7OeTyqeZ3KkJ5i"
     },
     {
       "added_at": "2026-05-15 06:15:24",
@@ -1041,20 +1041,36 @@
       "url": "https://open.spotify.com/track/4o7tPAJ4vDbBHzM8pJZOyr"
     },
     {
-      "added_at": "2026-02-28 00:01:13",
+      "added_at": "2026-06-12 00:10:05",
       "album": {
-        "name": "Vennela",
-        "url": "https://open.spotify.com/album/6xqTVfYYhITayEtXlVVadT"
+        "name": "Kaattey",
+        "url": "https://open.spotify.com/album/1WghfNsJYXtwDNSs7H1cvG"
       },
       "artists": [
         {
-          "name": "Fleep & Arin",
-          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+          "name": "brownkiddreams",
+          "url": "https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY"
         }
       ],
-      "duration_ms": 181552,
-      "name": "Vennela",
-      "url": "https://open.spotify.com/track/5WPphyuv7OeTyqeZ3KkJ5i"
+      "duration_ms": 120819,
+      "name": "Kaattey",
+      "url": "https://open.spotify.com/track/2e5S5dEUM4HVz53iffsTQr"
+    },
+    {
+      "added_at": "2026-02-14 00:30:30",
+      "album": {
+        "name": "Oo Ammayi",
+        "url": "https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Arya",
+          "url": "https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK"
+        }
+      ],
+      "duration_ms": 230868,
+      "name": "Oo Ammayi",
+      "url": "https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5"
     },
     {
       "added_at": "2026-03-06 11:18:07",
@@ -1097,22 +1113,6 @@
       "url": "https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI"
     },
     {
-      "added_at": "2026-02-14 00:30:30",
-      "album": {
-        "name": "Oo Ammayi",
-        "url": "https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd"
-      },
-      "artists": [
-        {
-          "name": "Abhishek Arya",
-          "url": "https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK"
-        }
-      ],
-      "duration_ms": 230868,
-      "name": "Oo Ammayi",
-      "url": "https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5"
-    },
-    {
       "added_at": "2026-04-20 05:40:31",
       "album": {
         "name": "Happy Birthday",
@@ -1131,6 +1131,22 @@
       "duration_ms": 205290,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/3l5EhKoxEuLXacDSVriuYy"
+    },
+    {
+      "added_at": "2026-03-06 11:18:07",
+      "album": {
+        "name": "WELCOME TO SOUTH INDIA",
+        "url": "https://open.spotify.com/album/0oSwG6F1vo1nm8B8cVMS3O"
+      },
+      "artists": [
+        {
+          "name": "Ronn",
+          "url": "https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "WELCOME TO SOUTH INDIA",
+      "url": "https://open.spotify.com/track/54tyV81NFJMLIOjFG4GyH7"
     },
     {
       "added_at": "2026-07-01 06:10:30",
@@ -1163,22 +1179,6 @@
       "duration_ms": 225502,
       "name": "Oopiri",
       "url": "https://open.spotify.com/track/44QbjliCK9u4CTfcYX42XS"
-    },
-    {
-      "added_at": "2026-03-06 11:18:07",
-      "album": {
-        "name": "WELCOME TO SOUTH INDIA",
-        "url": "https://open.spotify.com/album/0oSwG6F1vo1nm8B8cVMS3O"
-      },
-      "artists": [
-        {
-          "name": "Ronn",
-          "url": "https://open.spotify.com/artist/6LW1EbzNVeFXwLX3CTAu2U"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "WELCOME TO SOUTH INDIA",
-      "url": "https://open.spotify.com/track/54tyV81NFJMLIOjFG4GyH7"
     },
     {
       "added_at": "2026-05-01 00:31:27",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/6QT1yxqJUvCE96xkPJuLpw"
     },
     {
+      "added_at": "2026-03-06 11:18:07",
+      "album": {
+        "name": "Vinamrata",
+        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
+      },
+      "artists": [
+        {
+          "name": "Sanskari",
+          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Daari Maarina",
+      "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
+    },
+    {
       "added_at": "2026-06-08 06:50:41",
       "album": {
         "name": "Mangalyam",
@@ -1323,22 +1339,6 @@
       "duration_ms": 186666,
       "name": "Mangalyam",
       "url": "https://open.spotify.com/track/3wIcDmdY6KP6J19yI0nJAm"
-    },
-    {
-      "added_at": "2026-03-06 11:18:07",
-      "album": {
-        "name": "Vinamrata",
-        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
-      },
-      "artists": [
-        {
-          "name": "Sanskari",
-          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Daari Maarina",
-      "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
     },
     {
       "added_at": "2026-02-14 00:30:30",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/4j6PBcLi6LDwnp5mbEhiVZ"
     },
     {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Nuvve",
-        "url": "https://open.spotify.com/album/0Fpqaq6TAvdY8eHWYMlsAM"
-      },
-      "artists": [
-        {
-          "name": "Uday Kiran UK",
-          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Nuvve",
-      "url": "https://open.spotify.com/track/7iursa6zsjh1QlsZLbzuos"
-    },
-    {
       "added_at": "2026-02-28 00:01:13",
       "album": {
         "name": "Gymdagi",
@@ -1431,6 +1415,22 @@
       "duration_ms": 207244,
       "name": "Gymdagi",
       "url": "https://open.spotify.com/track/62apKp3zsfo4rJkCaKjpI8"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Nuvve",
+        "url": "https://open.spotify.com/album/0Fpqaq6TAvdY8eHWYMlsAM"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Nuvve",
+      "url": "https://open.spotify.com/track/7iursa6zsjh1QlsZLbzuos"
     },
     {
       "added_at": "2026-04-24 09:54:03",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/5hjOo3JUkew4wosrTIkGa1"
     },
     {
+      "added_at": "2026-06-22 07:48:18",
+      "album": {
+        "name": "Kaalam",
+        "url": "https://open.spotify.com/album/5kD8qdqqd29afX96LPGHHu"
+      },
+      "artists": [
+        {
+          "name": "Likhith Dorbala",
+          "url": "https://open.spotify.com/artist/3PchR7lSIh9Po7xqsnFRPR"
+        }
+      ],
+      "duration_ms": 207860,
+      "name": "KAALAM",
+      "url": "https://open.spotify.com/track/4GJAQdLi59Bs6PnPavRDMJ"
+    },
+    {
       "added_at": "2026-03-05 08:20:11",
       "album": {
         "name": "Bangaru Bomma",
@@ -1503,38 +1519,6 @@
     {
       "added_at": "2026-05-01 00:31:27",
       "album": {
-        "name": "Cheliya",
-        "url": "https://open.spotify.com/album/1GX7iRuOaLtEb5NJ4oWYOD"
-      },
-      "artists": [
-        {
-          "name": "Uday Kiran UK",
-          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Cheliya",
-      "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
-    },
-    {
-      "added_at": "2026-06-22 07:48:18",
-      "album": {
-        "name": "Kaalam",
-        "url": "https://open.spotify.com/album/5kD8qdqqd29afX96LPGHHu"
-      },
-      "artists": [
-        {
-          "name": "Likhith Dorbala",
-          "url": "https://open.spotify.com/artist/3PchR7lSIh9Po7xqsnFRPR"
-        }
-      ],
-      "duration_ms": 207860,
-      "name": "KAALAM",
-      "url": "https://open.spotify.com/track/4GJAQdLi59Bs6PnPavRDMJ"
-    },
-    {
-      "added_at": "2026-05-01 00:31:27",
-      "album": {
         "name": "Marichaaney",
         "url": "https://open.spotify.com/album/0ZpjzUp3bApCFbySZMrlLE"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 196768,
       "name": "Marichaaney",
       "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
+    },
+    {
+      "added_at": "2026-05-01 00:31:27",
+      "album": {
+        "name": "Cheliya",
+        "url": "https://open.spotify.com/album/1GX7iRuOaLtEb5NJ4oWYOD"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Cheliya",
+      "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
     },
     {
       "added_at": "2026-02-20 09:03:20",
@@ -1579,22 +1579,6 @@
       "duration_ms": 159183,
       "name": "Alajadi",
       "url": "https://open.spotify.com/track/6ayDIICYVw1Mpl9wJiW8fe"
-    },
-    {
-      "added_at": "2026-07-10 11:11:11",
-      "album": {
-        "name": "24 / 26 - Freeverse",
-        "url": "https://open.spotify.com/album/7sNHmYK6XlTC4MnFgrxGqE"
-      },
-      "artists": [
-        {
-          "name": "Straightoutskx",
-          "url": "https://open.spotify.com/artist/0PAT6abajvOaw3MQcnVAxa"
-        }
-      ],
-      "duration_ms": 125543,
-      "name": "24 / 26 - Freeverse",
-      "url": "https://open.spotify.com/track/7bgOjaDrhlMYTQCIMQ14Tg"
     },
     {
       "added_at": "2026-07-17 05:26:21",
@@ -1637,20 +1621,20 @@
       "url": "https://open.spotify.com/track/5PYbVLwMbaBl2xAGKZLOiz"
     },
     {
-      "added_at": "2026-03-27 09:08:58",
+      "added_at": "2026-07-10 11:11:11",
       "album": {
-        "name": "N.E.N.U (Nothing Ever Numbs Us)",
-        "url": "https://open.spotify.com/album/1lPCz7OHCzmlvoemqTJBzl"
+        "name": "24 / 26 - Freeverse",
+        "url": "https://open.spotify.com/album/7sNHmYK6XlTC4MnFgrxGqE"
       },
       "artists": [
         {
-          "name": "ARKID ZANE",
-          "url": "https://open.spotify.com/artist/52zmye5qgCJW85bpleNsko"
+          "name": "Straightoutskx",
+          "url": "https://open.spotify.com/artist/0PAT6abajvOaw3MQcnVAxa"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Nalla Addhal",
-      "url": "https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP"
+      "duration_ms": 125543,
+      "name": "24 / 26 - Freeverse",
+      "url": "https://open.spotify.com/track/7bgOjaDrhlMYTQCIMQ14Tg"
     },
     {
       "added_at": "2026-03-13 08:50:39",
@@ -1669,6 +1653,22 @@
       "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
     },
     {
+      "added_at": "2026-03-27 09:08:58",
+      "album": {
+        "name": "N.E.N.U (Nothing Ever Numbs Us)",
+        "url": "https://open.spotify.com/album/1lPCz7OHCzmlvoemqTJBzl"
+      },
+      "artists": [
+        {
+          "name": "ARKID ZANE",
+          "url": "https://open.spotify.com/artist/52zmye5qgCJW85bpleNsko"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Nalla Addhal",
+      "url": "https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP"
+    },
+    {
       "added_at": "2026-07-01 06:10:30",
       "album": {
         "name": "Naa Valla Kaademo",
@@ -1683,22 +1683,6 @@
       "duration_ms": 165227,
       "name": "Naa Valla Kaademo",
       "url": "https://open.spotify.com/track/4xtn0WiAAMmuzvoKN52Uwd"
-    },
-    {
-      "added_at": "2026-04-24 09:54:03",
-      "album": {
-        "name": "Better Than Yesterday",
-        "url": "https://open.spotify.com/album/4B5lLXh6dECGiZgq9E1PRD"
-      },
-      "artists": [
-        {
-          "name": "23King",
-          "url": "https://open.spotify.com/artist/2gpsWSSn8iQGlrWVcDpgDx"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Better Than Yesterday",
-      "url": "https://open.spotify.com/track/1X0F2svtTzNJHzQcf0GS7t"
     },
     {
       "added_at": "2026-08-06 09:27:09",
@@ -1723,6 +1707,22 @@
       "duration_ms": 303500,
       "name": "Sagali Neeve",
       "url": "https://open.spotify.com/track/4mGAxCG7OE2i2jCVdEHRll"
+    },
+    {
+      "added_at": "2026-04-24 09:54:03",
+      "album": {
+        "name": "Better Than Yesterday",
+        "url": "https://open.spotify.com/album/4B5lLXh6dECGiZgq9E1PRD"
+      },
+      "artists": [
+        {
+          "name": "23King",
+          "url": "https://open.spotify.com/artist/2gpsWSSn8iQGlrWVcDpgDx"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Better Than Yesterday",
+      "url": "https://open.spotify.com/track/1X0F2svtTzNJHzQcf0GS7t"
     },
     {
       "added_at": "2026-04-24 09:54:03",

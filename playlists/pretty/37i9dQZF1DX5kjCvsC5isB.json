@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 317707,
+  "num_followers": 317715,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Big Bite",
-        "url": "https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cole",
-          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Big Bite",
-      "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Downhill",
         "url": "https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 185960,
       "name": "Downhill",
       "url": "https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Big Bite",
+        "url": "https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cole",
+          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Big Bite",
+      "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "WHO DIED AND MADE YOU KING?",
-        "url": "https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Jonze",
-          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
-        },
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 143524,
-      "name": "WHO DIED AND MADE YOU KING?",
-      "url": "https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 150186,
       "name": "I Died",
       "url": "https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "WHO DIED AND MADE YOU KING?",
+        "url": "https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "duration_ms": 143524,
+      "name": "WHO DIED AND MADE YOU KING?",
+      "url": "https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV"
     },
     {
       "added_at": "2024-07-05 22:18:14",

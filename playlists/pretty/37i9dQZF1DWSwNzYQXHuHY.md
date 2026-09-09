@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,869 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,874 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 |
 | 50 | [banana milk](https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv), [AVN](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [banana milk](https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY) | 2:40 |
 
-Snapshot ID: `AAAAAJocKJe70UC1e7wgryOSHR+YUizQ`
+Snapshot ID: `AAAAAK2lZ8lp1eAJKmYWf9BaUUa5CaOp`

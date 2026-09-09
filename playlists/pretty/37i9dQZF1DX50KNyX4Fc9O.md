@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,809 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,820 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 23 | [You Make It Easy](https://open.spotify.com/track/1qhtHRkj2erogAUbIG3XnN) | [Ricky Rosen](https://open.spotify.com/artist/5pkaRScaZtRzYedQavygpZ) | [You Make It Easy](https://open.spotify.com/album/2XVR0x1uHq9dLcSRyy9dLK) | 2:51 |
 | 24 | [Beautiful Love](https://open.spotify.com/track/58SM8GoeArGdh9xNqicg3G) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Beautiful Love](https://open.spotify.com/album/3TULJQsXwyF3h6K1F2VDnc) | 3:30 |
 | 25 | [Lipgloss](https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Pour My Heart Out](https://open.spotify.com/album/1iEQOQrdww6JCTpb9D6zSn) | 2:48 |
-| 26 | [when you know you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
+| 26 | [when you know, you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know, you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
 | 27 | [Are You Okay?](https://open.spotify.com/track/6zcbD3JSXLcBMHjOEreQHA) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Are You Okay?](https://open.spotify.com/album/2haE9WqtR4wn0aProXmiCA) | 4:34 |
 | 28 | [Touch Touch](https://open.spotify.com/track/18fRO6IsVaKNn5HIdVraSA) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Touch Touch](https://open.spotify.com/album/5O8sdtkdClPUYxdD69MuKG) | 4:29 |
 | 29 | [Distant Lands](https://open.spotify.com/track/6QsCyT9FUno8E6z7mHRsvp) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Distant Lands](https://open.spotify.com/album/2143zP3o55sTpIwmU20E2W) | 1:52 |

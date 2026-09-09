@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 196086,
       "name": "A Long Way",
       "url": "https://open.spotify.com/track/3iLdRoMegIcfZNR2YyURno"
@@ -4643,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "brainless",
+        "url": "https://open.spotify.com/album/4U2IiEo6236EZd0JX2l6iy"
+      },
+      "artists": [
+        {
+          "name": "downcast",
+          "url": "https://open.spotify.com/artist/1LAZFjhdVWpuV15E7OyrGf"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "brainless",
+      "url": "https://open.spotify.com/track/0G4matHY4FQm5oMeYs2S8i"
+    },
+    {
+      "album": {
         "name": "Brainrot",
         "url": "https://open.spotify.com/album/10ozy05LVeqNwL7RJrmSKR"
       },
@@ -5148,6 +5166,24 @@
       "duration_ms": 186927,
       "name": "Broken to Pieces",
       "url": "https://open.spotify.com/track/4dpbweaATSdupQ7BT3gPPL"
+    },
+    {
+      "album": {
+        "name": "Prison Baby",
+        "url": "https://open.spotify.com/album/0dcG7zNlavpwpgPcdDWTAx"
+      },
+      "artists": [
+        {
+          "name": "Barnshed",
+          "url": "https://open.spotify.com/artist/25NiXzEzQZXv5AXSUJ0QbP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210852,
+      "name": "Brother Keeper",
+      "url": "https://open.spotify.com/track/6MtEv7yakjZGw7OnTC2MFc"
     },
     {
       "album": {
@@ -11676,7 +11712,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 216924,
       "name": "Fair Weather Friends",
       "url": "https://open.spotify.com/track/2wavKpqLdYX7zzUEWLsZEK"
@@ -12000,7 +12036,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
@@ -12245,6 +12281,24 @@
     },
     {
       "album": {
+        "name": "INFINITY MIRROR",
+        "url": "https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B"
+      },
+      "artists": [
+        {
+          "name": "St. Kio",
+          "url": "https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "Fix Yourself",
+      "url": "https://open.spotify.com/track/6TM06jpsOHPYqnBeGosDjW"
+    },
+    {
+      "album": {
         "name": "Flaccid Venus (Demo)",
         "url": "https://open.spotify.com/album/5BwyS6H8sa7UxeuAT4BhtX"
       },
@@ -12440,7 +12494,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 291669,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0rDJXMg7OX1POjkAMKOsEc"
@@ -15863,6 +15917,24 @@
     },
     {
       "album": {
+        "name": "Holler",
+        "url": "https://open.spotify.com/album/5FgfrcSep1DO8PSO6pu63C"
+      },
+      "artists": [
+        {
+          "name": "Resurrection Men",
+          "url": "https://open.spotify.com/artist/1Xx1afzdyRehp3JJWJ02MO"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224958,
+      "name": "Holler",
+      "url": "https://open.spotify.com/track/1We4WQzRZQCSzrYP8Jgxiw"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP"
       },
@@ -18678,7 +18750,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 193598,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/4aFaTYrhZyh7CKEpl2VfAu"
@@ -19618,7 +19690,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 201084,
       "name": "Let's Make Tomorrow Today",
       "url": "https://open.spotify.com/track/18GZyETm2tLsGBcktCQlKL"
@@ -20456,6 +20528,24 @@
       "duration_ms": 125998,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/7dNNncnaQ8cr5ECcujXd3H"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/0L5lVIDZZftJ0XtXgM7Jfj"
+      },
+      "artists": [
+        {
+          "name": "Ben Gel",
+          "url": "https://open.spotify.com/artist/061zXo3f18S4rvBolMK6Pk"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155284,
+      "name": "Lonely & Alone",
+      "url": "https://open.spotify.com/track/7pZSv8kOOntAOGPHgEAoG5"
     },
     {
       "album": {
@@ -26282,7 +26372,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 196079,
       "name": "Picking flowers",
       "url": "https://open.spotify.com/track/2Qt1oPbvCCwvg3Z65Nh3uN"
@@ -28569,6 +28659,24 @@
     },
     {
       "album": {
+        "name": "WHERE ROSES WEEP",
+        "url": "https://open.spotify.com/album/577qKJuyxkhkayeUibt86D"
+      },
+      "artists": [
+        {
+          "name": "2SILENT",
+          "url": "https://open.spotify.com/artist/3pT3euMjE4uLu0CKwfRApA"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191496,
+      "name": "ROSES WILT",
+      "url": "https://open.spotify.com/track/4AkItVwjieKU6Tc5voRz9A"
+    },
+    {
+      "album": {
         "name": "Round and Round",
         "url": "https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk"
       },
@@ -29592,7 +29700,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 155294,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/2RYctPfxOm4d37pxt82deZ"
@@ -33580,7 +33688,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 239339,
       "name": "T-shirt",
       "url": "https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4"
@@ -37740,7 +37848,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 254142,
       "name": "Vibe on Forever",
       "url": "https://open.spotify.com/track/2eYBNUgJBjx9Q4kryqiYyr"
@@ -40494,7 +40602,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 274378,
       "name": "YOU ME THEM",
       "url": "https://open.spotify.com/track/4FPpSsMGTqQxwGladeLdQs"
@@ -40988,7 +41096,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 207500,
       "name": "\u05d0\u05dc\u05d2\u05d5\u05e8\u05d9\u05ea\u05dd",
       "url": "https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo"

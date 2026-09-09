@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。JISOO, Ellie Goulding, LISA,  Miley Cyrus, ADÉLA and more!
 
-15,039 songs - 34 day 23 hr 53 min
+15,040 songs - 35 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8683,6 +8683,7 @@
 | [Now or Never](https://open.spotify.com/track/5yVqwO00adW49FDzaQQu3B) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Velvet](https://open.spotify.com/album/6le5OvVzNcQGZBqdpqh03G) | 3:14 | 2026-07-17 | 2026-07-24 |
 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-14 | 2024-11-22 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-06 | 2023-07-14 |
+| [Now We Can Sing \- Edit](https://open.spotify.com/track/0At4AalfZgPoB5RttSXs2g) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Now We Can Sing](https://open.spotify.com/album/5Blf72Q1N733tuYzdTZW6B) | 7:02 | 2026-09-05 |  |
 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 | 2023-11-16 | 2023-12-09 |
 | [Nowhere to Hide](https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Nowhere to Hide](https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ) | 3:19 | 2024-01-11 | 2024-01-19 |
 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-05-10 | 2024-05-17 |

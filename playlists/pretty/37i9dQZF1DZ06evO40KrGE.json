@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38279,
+  "num_followers": 38280,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAABhho1yUlenJILSjgJ3a+wD",
+  "snapshot_id": "ap3+gAAAAADfbovrjnez+iZesz2qBRs1",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Louve Sempre",
+      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For\u00e7a Imensa",
         "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 302927,
       "name": "Igreja Pequena",
       "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "De Valor em Valor",
-      "url": "https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 322478,
-      "name": "Louve Sempre",
-      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+      "duration_ms": 268933,
+      "name": "De Valor em Valor",
+      "url": "https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I"
     },
     {
       "added_at": null,

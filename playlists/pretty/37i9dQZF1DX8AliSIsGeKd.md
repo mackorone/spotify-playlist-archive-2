@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DJ HEARTSTRING, Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,884 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,899 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Love Is The Dance \- Ivory Remix](https://open.spotify.com/track/6vyUWwycrsoI92u0R5Rdyb) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Love Is The Dance \(Ivory Remix\)](https://open.spotify.com/album/14cMUHRLUVpMGyBtp887Sc) | 5:36 |
 | 10 | [Interesting](https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Interesting](https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j) | 4:03 |
 | 11 | [Bittersweet](https://open.spotify.com/track/02FFymdzZldxRiFowY46M4) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Bittersweet](https://open.spotify.com/album/7aJupeUiODYCzIpPXxCbt7) | 7:03 |
-| 12 | [MORTAL\-KOMPA 2](https://open.spotify.com/track/2Pw3SyrKrDeU5gMqQGwkxw) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [MORTAL\-KOMPA 2](https://open.spotify.com/album/4bcjlG8k7qgaB6vl1iHDoo) | 2:50 |
+| 12 | [MORTAL\-KOMPA 2](https://open.spotify.com/track/2Pw3SyrKrDeU5gMqQGwkxw) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [MORTAL\-KOMPA 2](https://open.spotify.com/album/4bcjlG8k7qgaB6vl1iHDoo) | 2:50 |
 | 13 | [A Love Bizarre](https://open.spotify.com/track/6fsw9iIfqponytejX4Dwx6) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eddie Bizzarre](https://open.spotify.com/artist/3OyvIlYOIFtJRxYxXWYKfR) | [A Love Bizarre](https://open.spotify.com/album/7KaBXbxGBrJEQnihJSEUSm) | 3:25 |
 | 14 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |
 | 15 | [Time \- Edit](https://open.spotify.com/track/4htvRYhJ56RRP6w8xgxZoO) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [Obsessions](https://open.spotify.com/album/470qxohAZhjO90CdzyRdoh) | 2:46 |

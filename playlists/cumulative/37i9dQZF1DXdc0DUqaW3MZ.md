@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-515 songs - 1 day 6 hr 2 min
+516 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [AOT](https://open.spotify.com/track/2BAcbnk7JMYspiJip31953) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:55 | 2023-12-01 |  |
 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 | 2022-06-20 | 2024-04-19 |
 | [Apocalypse](https://open.spotify.com/track/66y1fdK0PkqdhD8yOleDBD) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/47WMGg3UQBQAGn8cVnPdiW) | 1:01 | 2021-12-07 | 2022-10-13 |
-| [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 | 2025-12-12 |  |
+| [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 | 2025-12-12 | 2026-09-09 |
 | [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 | 2022-06-20 | 2024-01-04 |
 | [Aquaself](https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Stars](https://open.spotify.com/album/6tZqo8dAjOS8Nb0XWSqMDJ) | 6:16 | 2021-12-07 | 2022-07-24 |
 | [argentin](https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [argentin](https://open.spotify.com/album/6K99lHPJIPlR62rMl0RvLN) | 2:53 | 2021-12-07 | 2022-05-07 |
@@ -235,6 +235,7 @@
 | [I Lied, You Lied](https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn) | 3:23 | 2026-08-20 |  |
 | [I See You Sometimes](https://open.spotify.com/track/0FBqO0pBgYmtQfRFXp2UwW) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6EbLhss9FGRx89U6Oo4DkB) | 3:05 | 2023-12-01 | 2024-01-03 |
 | [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-07 | 2022-07-29 |
+| [I Want U](https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB) | 3:33 | 2026-09-03 |  |
 | [I Want Your Love](https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [I Want Your Love](https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6) | 2:33 | 2026-05-07 |  |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2023-12-01 |  |
 | [I'm On Fire \(feat\. MAAD & Keys the Prince\) \- Chill Mix](https://open.spotify.com/track/016KELYIJ3pUwgLFIem0q9) | [Tazer](https://open.spotify.com/artist/2zVANZpVz1kX1Jy8vlLQcH), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [I'm On Fire \(feat\. MAAD & Keys the Prince\) \(Chill Mix\)](https://open.spotify.com/album/0uDkCHkOzgbo61S1gqGF5N) | 3:10 | 2022-04-11 | 2022-04-20 |

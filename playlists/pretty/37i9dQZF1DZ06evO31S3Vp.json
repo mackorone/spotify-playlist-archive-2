@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 207870,
+  "num_followers": 207886,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADn/Kyf2Or94LXpA7IMHglK",
+  "snapshot_id": "ap3+gAAAAABRkijKE4jgjSzK94eA/LqO",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 255159,
-      "name": "A \u00daltima Noite",
-      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+      "duration_ms": 148548,
+      "name": "Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
     },
     {
       "added_at": null,
@@ -395,6 +395,42 @@
       "duration_ms": 187080,
       "name": "Coringa",
       "url": "https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "A \u00daltima Noite",
+      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 166255,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
     },
     {
       "added_at": null,
@@ -431,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal",
-        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 166255,
-      "name": "Mal",
-      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 181234,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 148548,
-      "name": "Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 278557,
-      "name": "Locadora (Vers\u00e3o Estendida)",
-      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coisas da Gera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 278557,
+      "name": "Locadora (Vers\u00e3o Estendida)",
+      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
     },
     {
       "added_at": null,

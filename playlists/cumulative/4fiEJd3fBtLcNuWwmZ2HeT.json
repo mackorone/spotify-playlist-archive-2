@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Coin locker Baby",
+        "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191793,
+      "name": "Last day",
+      "url": "https://open.spotify.com/track/3GNMBhzzro7DQwLIPYDmHa"
+    },
+    {
+      "album": {
         "name": "-merveilles-",
         "url": "https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft"
       },

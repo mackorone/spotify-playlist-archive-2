@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33049,
+  "num_followers": 33062,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 197025,
+      "name": "Kell egy p\u00e1r nap",
+      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
         "name": "NEM \u00c9RI MEG",
         "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 171665,
       "name": "NEM \u00c9RI MEG",
       "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "Kell egy p\u00e1r nap",
-      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "Always be mine",
-        "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        },
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Always be mine",
-      "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 130285,
       "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
       "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "Always be mine",
+        "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Always be mine",
+      "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "civil",
-        "url": "https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 182884,
-      "name": "civil",
-      "url": "https://open.spotify.com/track/3zDopiQnon32IK2Am0jmpH"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "D\u00c9RYN\u00c9",
         "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 187826,
       "name": "D\u00c9RYN\u00c9",
       "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "civil",
+        "url": "https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 182884,
+      "name": "civil",
+      "url": "https://open.spotify.com/track/3zDopiQnon32IK2Am0jmpH"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
+        "name": "special 2026",
+        "url": "https://open.spotify.com/album/2N9fTNl951zgM3eG13ILtQ"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "duration_ms": 114352,
+      "name": "special 2026",
+      "url": "https://open.spotify.com/track/0ENokHRN2tmGOFC9Jeygoa"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
         "name": "Ha bukok",
         "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 271090,
       "name": "F\u00fajj meg sz\u00e9l",
       "url": "https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
-        "name": "special 2026",
-        "url": "https://open.spotify.com/album/2N9fTNl951zgM3eG13ILtQ"
-      },
-      "artists": [
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 114352,
-      "name": "special 2026",
-      "url": "https://open.spotify.com/track/0ENokHRN2tmGOFC9Jeygoa"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
+        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         }
       ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+      "duration_ms": 197538,
+      "name": "Estelente",
+      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
-        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
       },
       "artists": [
         {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Estelente",
-      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-09-07 16:11:48",

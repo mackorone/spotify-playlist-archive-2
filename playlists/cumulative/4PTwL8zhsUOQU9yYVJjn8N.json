@@ -827,6 +827,42 @@
     },
     {
       "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311718,
+      "name": "certainty",
+      "url": "https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S"
+    },
+    {
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311718,
+      "name": "certainty - Instrumental Version",
+      "url": "https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb"
+    },
+    {
+      "album": {
         "name": "kittydog music album",
         "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
       },

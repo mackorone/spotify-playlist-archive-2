@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Clothesline",
+        "url": "https://open.spotify.com/album/3i1x3kgu16jQJlXV2jwfrB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207778,
+      "name": "Clothesline",
+      "url": "https://open.spotify.com/track/1fj3OcoKr7IVemETrPCFdO"
+    },
+    {
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 166792,
       "name": "Dirty Rosie",
       "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 192660,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH"
@@ -2747,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240166,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
+    },
+    {
+      "album": {
         "name": "GO HOME W U (WITH LAINEY WILSON)",
         "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
@@ -3033,6 +3073,28 @@
     },
     {
       "album": {
+        "name": "Hardwired",
+        "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291676,
+      "name": "Hardwired (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL"
+    },
+    {
+      "album": {
         "name": "Hate How You Look",
         "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
       },
@@ -3272,7 +3334,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 191830,
       "name": "high school sweetheart",
       "url": "https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z"
@@ -3842,10 +3904,32 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 212929,
       "name": "If I Don't Leave I\u2019m Gonna Stay",
       "url": "https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9"
+    },
+    {
+      "album": {
+        "name": "Honest Woman",
+        "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "If I Don't Leave I\u2019m Gonna Stay",
+      "url": "https://open.spotify.com/track/48jx9tKPCPiCZV8MoYzuYA"
     },
     {
       "album": {
@@ -4113,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Kicked Out Of Bars",
+        "url": "https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164098,
+      "name": "Kicked Out Of Bars",
+      "url": "https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc"
+    },
+    {
+      "album": {
         "name": "Kiss My Boots",
         "url": "https://open.spotify.com/album/1dU5eqJrPOxxy7L6sktkDn"
       },
@@ -4250,7 +4352,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 209323,
       "name": "Let Me Show You Love",
       "url": "https://open.spotify.com/track/1GJsiT7fmv9c4RprwabzrQ"
@@ -4901,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+    },
+    {
+      "album": {
         "name": "MESSED UP AS ME",
         "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
       },
@@ -5252,6 +5372,28 @@
       "duration_ms": 186986,
       "name": "Neon Needs The Night",
       "url": "https://open.spotify.com/track/3ymcorUKwzHUPBAtoEoKBP"
+    },
+    {
+      "album": {
+        "name": "Never Been In Love",
+        "url": "https://open.spotify.com/album/2InZ67EN10T7DEZIIkiV3I"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171883,
+      "name": "Never Been In Love (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/6z7rUFycJ1zwnaJ5h1idmV"
     },
     {
       "album": {
@@ -6226,7 +6368,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 200623,
       "name": "Rest Of My",
       "url": "https://open.spotify.com/track/5gg60N7CLZfi8n6dUDds7C"
@@ -7696,7 +7838,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 150000,
       "name": "Till I Get To Heaven",
       "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
@@ -8858,7 +9000,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 195924,
       "name": "You Can Have Him",
       "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"

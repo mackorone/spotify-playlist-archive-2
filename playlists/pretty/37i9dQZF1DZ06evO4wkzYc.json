@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 199581,
+  "num_followers": 199692,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAK0rqq4pe0MJC7kBDy5J6t",
+  "snapshot_id": "ap3+gAAAAACjLubM/AEFOzIbsUo8CVYF",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147609,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 238780,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265901,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 218750,
       "name": "Nunca Se Imagin\u00f3",
       "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265901,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg"
     },
     {
       "added_at": null,

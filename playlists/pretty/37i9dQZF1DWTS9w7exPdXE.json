@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 172137,
+  "num_followers": 172196,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Hobbelen",
+        "url": "https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 183831,
+      "name": "Hobbelen",
+      "url": "https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Ik Spaar Geen Centen",
         "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Hobbelen",
-        "url": "https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg"
+        "name": "Niemand Anders",
+        "url": "https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB"
       },
       "artists": [
         {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
         }
       ],
-      "duration_ms": 183831,
-      "name": "Hobbelen",
-      "url": "https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG"
+      "duration_ms": 248093,
+      "name": "Ik Heb De Hele Nacht Liggen Dromen",
+      "url": "https://open.spotify.com/track/424Blek9ClYC97FV3muHqV"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -715,22 +731,6 @@
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Niemand Anders",
-        "url": "https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB"
-      },
-      "artists": [
-        {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Ik Heb De Hele Nacht Liggen Dromen",
-      "url": "https://open.spotify.com/track/424Blek9ClYC97FV3muHqV"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Danny de Munk",
+        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Mijn Stad",
+      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 171508,
       "name": "Pa Olvidarte",
       "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Danny de Munk",
-        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
-      },
-      "artists": [
-        {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Mijn Stad",
-      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
     },
     {
       "added_at": "2026-06-17 07:46:41",

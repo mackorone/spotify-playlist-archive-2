@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Gunna",
-  "num_followers": 2118562,
+  "num_followers": 2118479,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALigGFqRoMcs1tK9+iXBAflhq7lr",
+  "snapshot_id": "AAAAAO9sK7K/dC5msHAwkJJIsAh/Q7Co",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:21",
@@ -99,6 +99,22 @@
       "duration_ms": 271875,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
+    {
+      "added_at": "2026-09-08 19:23:08",
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 132204,
+      "name": "Dope Girl",
+      "url": "https://open.spotify.com/track/03UERpSRNgwNt1poeQQZ0M"
     },
     {
       "added_at": "2026-09-04 04:02:21",

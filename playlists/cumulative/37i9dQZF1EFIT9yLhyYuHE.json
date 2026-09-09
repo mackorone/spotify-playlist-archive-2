@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130520,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/0l5T7ZRb3JR77r7mT3v3lO"
+    },
+    {
+      "album": {
         "name": "Project Me",
         "url": "https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj"
       },
@@ -593,6 +615,32 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7vmXsXELhHmhrVYiONd3db"
+      },
+      "artists": [
+        {
+          "name": "Freejak",
+          "url": "https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        },
+        {
+          "name": "Benno",
+          "url": "https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150115,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2kDRN8L3nVihuFt2yDAhOK"
+    },
+    {
+      "album": {
         "name": "How Would It Feel",
         "url": "https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd"
       },
@@ -730,6 +778,54 @@
       "duration_ms": 198750,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/4uINEnAkWBH93gpB0dyhCd"
+    },
+    {
+      "album": {
+        "name": "Love After Love",
+        "url": "https://open.spotify.com/album/1zpqtg4zGSAK4vCrzZcbmg"
+      },
+      "artists": [
+        {
+          "name": "Almost Weekend",
+          "url": "https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O"
+        },
+        {
+          "name": "Max Vermeulen",
+          "url": "https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Love After Love",
+      "url": "https://open.spotify.com/track/4tOYaHjIW3sb6mPt7fIA4H"
+    },
+    {
+      "album": {
+        "name": "Love On Repeat",
+        "url": "https://open.spotify.com/album/2S15a8eML7xeXgMvaDXzMd"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142297,
+      "name": "Love On Repeat",
+      "url": "https://open.spotify.com/track/0NHdtnwg1K4QOazIZKH8DT"
     },
     {
       "album": {

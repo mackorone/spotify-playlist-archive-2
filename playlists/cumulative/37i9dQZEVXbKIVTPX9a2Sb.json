@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 331849,
       "name": "10 Min\u00fat",
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 144858,
       "name": "Alibaba",
       "url": "https://open.spotify.com/track/4FcA0rWOI5RRXIifH5LDRe"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
       "url": "https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4"
@@ -12502,7 +12502,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -16698,7 +16698,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 129795,
       "name": "G Party",
       "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
@@ -22595,6 +22595,28 @@
     },
     {
       "album": {
+        "name": "WONKA",
+        "url": "https://open.spotify.com/album/5AYn0NGxDY524xveDBZV7b"
+      },
+      "artists": [
+        {
+          "name": "Smolki13K",
+          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196687,
+      "name": "Ivan Bogdanov",
+      "url": "https://open.spotify.com/track/4d1tujXruFPrx1N3q7SEMZ"
+    },
+    {
+      "album": {
         "name": "Ivan Bogdanov",
         "url": "https://open.spotify.com/album/47VQfJ3mpfbmYYLrDahkQV"
       },
@@ -22610,7 +22632,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 196687,
       "name": "Ivan Bogdanov",
       "url": "https://open.spotify.com/track/5VgEzKDS7RYKp1q1vUTbPT"
@@ -24674,7 +24696,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 163626,
       "name": "KENPACHI&YACHIRU",
       "url": "https://open.spotify.com/track/6QRyVEroDCbxGnFsnEgJl5"
@@ -29164,7 +29186,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 110303,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/3PtGzlgwAUUDm9k6wMxSx3"
@@ -30498,7 +30520,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 250906,
       "name": "Modra",
       "url": "https://open.spotify.com/track/6WfhZNzOioBmDUq4xb5kvz"
@@ -42170,7 +42192,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 190500,
       "name": "Rockstar Lifestyle",
       "url": "https://open.spotify.com/track/1Xta6NZrYtyFz6jKMtAD85"
@@ -50046,7 +50068,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

@@ -2,7 +2,7 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rosh
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vyshak Varma
 
 719 songs - 1 day 16 hr 40 min
 

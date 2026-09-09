@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9879,
+  "num_followers": 9882,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAMVNurLoC/TGRs0lYfdZTV",
+  "snapshot_id": "ap3+gAAAAABbsr5zMkJ/6ynVZjkDJVv7",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 193478,
-      "name": "Common Crook",
-      "url": "https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m"
+      "duration_ms": 171746,
+      "name": "Nervous Breakdown",
+      "url": "https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Common Crook",
+      "url": "https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -248,25 +264,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Nervous Breakdown",
-      "url": "https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+      "duration_ms": 202346,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 216520,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -598,11 +598,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "William Ryan Key",
+          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
+      "duration_ms": 156952,
+      "name": "Seafoam",
+      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
     },
     {
       "added_at": null,
@@ -623,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
       "artists": [
         {
@@ -632,9 +636,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     },
     {
       "added_at": null,
@@ -662,21 +666,17 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "William Ryan Key",
-          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
         }
       ],
-      "duration_ms": 156952,
-      "name": "Seafoam",
-      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 226826,
-      "name": "The Business Of Paper Stars",
-      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Four White Walls",
+      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dead Formats, Vol. 1",
         "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 224762,
       "name": "We Were Never Lost",
       "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Four White Walls",
-      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
     },
     {
       "added_at": null,

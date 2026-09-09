@@ -172319,6 +172319,24 @@
     },
     {
       "album": {
+        "name": "Now We Can Sing",
+        "url": "https://open.spotify.com/album/5Blf72Q1N733tuYzdTZW6B"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422446,
+      "name": "Now We Can Sing - Edit",
+      "url": "https://open.spotify.com/track/0At4AalfZgPoB5RttSXs2g"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
       },

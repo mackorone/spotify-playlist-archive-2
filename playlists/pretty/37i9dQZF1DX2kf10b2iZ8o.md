@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,513 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,515 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 56 | [The 1st Movement ～未来のための二重奏～](https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 4:56 |
 | 57 | [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 |
 | 58 | [Flowing Freedom](https://open.spotify.com/track/3AFe98j9NnfmhQ9ewFb5l6) | [北村想楽 \(CV.汐谷文康\)](https://open.spotify.com/artist/6gLPEzlIMIN8WZwdSd4kmN) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:14 |
-| 59 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |
-| 60 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 59 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 60 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |
 | 61 | [ミュージアムジカ](https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 3:53 |
 | 62 | [ALOHA! HAPPY CREATOR!](https://open.spotify.com/track/10UEvm0LZb8dZs4GKVyXol) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/0SOZQEEUmzX3VAtAAApU2q), [姫野かのん \(CV.村瀬 歩\)](https://open.spotify.com/artist/6iwwou4dCBVUQEZPAgxhHW), [舞田 類 \(CV.榎木淳弥\)](https://open.spotify.com/artist/3I60yHBjKRDuGBcDsW3S98) | [THE IDOLM@STER SideM WORLD TRE@SURE 05](https://open.spotify.com/album/02Ppn2Q2dEIOHEMBtrdVVj) | 4:16 |
 | 63 | [Growing Smiles！](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles！](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 |

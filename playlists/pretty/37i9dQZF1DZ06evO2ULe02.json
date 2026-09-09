@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2117,
+  "num_followers": 2116,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAACcZJ9ecMqd7AvTEKRgrrGx",
+  "snapshot_id": "ap3+gAAAAAAjcXVmW1FQibWhYRmqMkmp",
   "tracks": [
     {
       "added_at": null,
@@ -224,7 +224,7 @@
       "added_at": null,
       "album": {
         "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
+        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 140613,
-      "name": "2 much 2 handle",
-      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
+      "duration_ms": 177200,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
     },
     {
       "added_at": null,
@@ -292,7 +292,7 @@
       "added_at": null,
       "album": {
         "name": "shut up and love me",
-        "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
+        "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 177200,
-      "name": "are we in love yet?",
-      "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
+      "duration_ms": 140613,
+      "name": "2 much 2 handle",
+      "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
     },
     {
       "added_at": null,

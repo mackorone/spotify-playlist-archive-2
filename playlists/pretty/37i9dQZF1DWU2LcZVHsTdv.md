@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,758 likes - 190 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,778 likes - 190 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 17 | [How I Learned to Pray](https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Rubberband](https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b) | 4:20 |
 | 18 | [Well Water](https://open.spotify.com/track/4fpoIB1b6pA0K41UTpvxqW) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Well Water](https://open.spotify.com/album/3Xvch3VWF9z7LE5Pl2cF4c) | 3:41 |
 | 19 | [If God Lives Here](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 3:41 |
-| 20 | [The Baptism of Jesse Taylor](https://open.spotify.com/track/3I1g3df1iiVB9MvBQkRwlK) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF), [Charlie McCoy](https://open.spotify.com/artist/4LwB86Ve6LpHYtsbnu6bvC), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [The Baptism of Jesse Taylor](https://open.spotify.com/album/3dhw3hStafRCEl3iQlhaeH) | 3:58 |
+| 20 | [The Baptism of Jesse Taylor](https://open.spotify.com/track/3I1g3df1iiVB9MvBQkRwlK) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Charlie McCoy](https://open.spotify.com/artist/4LwB86Ve6LpHYtsbnu6bvC), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [The Baptism of Jesse Taylor](https://open.spotify.com/album/3dhw3hStafRCEl3iQlhaeH) | 3:58 |
 | 21 | [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 |
 | 22 | [Make Heaven Crowded](https://open.spotify.com/track/6tl9lCo2dhDMFUEQTB695d) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Make Heaven Crowded](https://open.spotify.com/album/1eokdrcUTUUlJjuNRTLmRp) | 3:11 |
 | 23 | [My Country](https://open.spotify.com/track/0NOIhvYEBUKcR6lBW2eD0w) | [Band Reeves](https://open.spotify.com/artist/2KuImPwSXezVrIEtpeRVmk) | [My Country](https://open.spotify.com/album/3NvJJj5UaCYMj9Aua3DLeg) | 3:10 |

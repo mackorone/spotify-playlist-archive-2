@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 362201,
+  "num_followers": 362419,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
         "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 207939,
       "name": "Non Fiction: I.I Sonore",
       "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Shall We Begin",
-        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Shall We Begin",
-      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "wistful",
-        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "wistful",
-      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
       "artists": [
         {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
         }
       ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1171,22 +1187,6 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Snowa",
         "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1579,18 +1595,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+        "name": "cry",
+        "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
       "artists": [
         {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
         }
       ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+      "duration_ms": 146133,
+      "name": "cry - Slowed",
+      "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1623,26 +1643,6 @@
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "cry",
-        "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
-      },
-      "artists": [
-        {
-          "name": "vowl.",
-          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
-        },
-        {
-          "name": "Kol",
-          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "cry - Slowed",
-      "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Hidden Lights",
+        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Hidden Lights",
+      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Lonesome Sound",
         "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Hidden Lights",
-        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
       },
       "artists": [
         {
-          "name": "\u00d8rlund",
-          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Hidden Lights",
-      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1775,22 +1791,6 @@
       "duration_ms": 276866,
       "name": "Squatter's Quarters",
       "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     }
   ],
   "unique_name": "gloomcore",

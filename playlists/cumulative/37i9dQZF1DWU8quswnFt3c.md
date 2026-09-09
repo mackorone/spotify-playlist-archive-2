@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Jess Moskaluke
+> Listen to women at full volume with Jess Moskaluke from Canada.
 
 3,055 songs - 7 day 1 hr 7 min
 

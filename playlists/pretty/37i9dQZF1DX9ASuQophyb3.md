@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Melike Şahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,018 likes - 56 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,073 likes - 56 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 11 | [Bilsem Ki](https://open.spotify.com/track/6afIJDjgq6YLjwHoWLD9zc) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Bilsem Ki](https://open.spotify.com/album/42u2gtEhPcL8ycsVliIndv) | 2:47 |
 | 12 | [Acıya Teslim Olmaktan](https://open.spotify.com/track/3LTsMXnWZfWw3X483LE313) | [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z) | [Acıya Teslim Olmaktan](https://open.spotify.com/album/20zaT6Gv0JSBv0sLqe6EPN) | 3:00 |
 | 13 | [Rüzgarın Kızı](https://open.spotify.com/track/75u4mXzV41uNScPE3rSesb) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Rüzgarın Kızı](https://open.spotify.com/album/4irGEVNIKQyLBwgqZ93N93) | 2:52 |
-| 14 | [RENKLENSİN \- Tallava Versİyon](https://open.spotify.com/track/6g4Yw818XtxZC6CTiOdPrF) | [Tanju Bahçeci](https://open.spotify.com/artist/1i8SCg1hfNsfqcPKJhv92I), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [RENKLENSİN \(Tallava Versİyon\)](https://open.spotify.com/album/7M6izwZwXUkFT4c9muNQ2D) | 3:10 |
+| 14 | [RENKLENSİN \- Tallava Versiyon](https://open.spotify.com/track/6g4Yw818XtxZC6CTiOdPrF) | [Tanju Bahçeci](https://open.spotify.com/artist/1i8SCg1hfNsfqcPKJhv92I), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [RENKLENSİN \(Tallava Versİyon\)](https://open.spotify.com/album/7M6izwZwXUkFT4c9muNQ2D) | 3:10 |
 | 15 | [Bitti](https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bitti](https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0) | 2:52 |
 | 16 | [Canavarlar](https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Canavarlar](https://open.spotify.com/album/6C9MQlOIK19IR0sKbgNCFT) | 3:02 |
 | 17 | [Bana Biraz Renk Ver \- Elektra](https://open.spotify.com/track/6mh5JR468gaLV10SNIVfrQ) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0), [Tolga Şanlı](https://open.spotify.com/artist/54Ro2Kliedr4NbvCs2pFrv) | [Bana Biraz Renk Ver \(Elektra\)](https://open.spotify.com/album/4tyMyBtGgkOkmmLZBVBv3D) | 3:21 |

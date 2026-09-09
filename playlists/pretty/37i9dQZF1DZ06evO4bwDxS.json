@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 9549,
+  "num_followers": 9571,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAEMFdqhCXFj2nEFHB2wCzD",
+  "snapshot_id": "ap3+gAAAAADNPtzZH4D5EIOSQiqdNZxb",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espresso (Working Late Remixes)",
-        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
       "artists": [
         {
@@ -572,17 +572,13 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "FNZ",
-          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 184156,
-      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
-      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
+      "duration_ms": 184136,
+      "name": "Please Please Please (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
     },
     {
       "added_at": null,
@@ -603,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+        "name": "Espresso (Working Late Remixes)",
+        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
       "artists": [
         {
@@ -612,13 +608,17 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "FNZ",
+          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
         }
       ],
-      "duration_ms": 184136,
-      "name": "Please Please Please (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
+      "duration_ms": 184156,
+      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
+      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
       "added_at": null,

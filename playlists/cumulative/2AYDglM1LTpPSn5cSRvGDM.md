@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-281 songs - 16 hr 4 min
+282 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Crash Landing](https://open.spotify.com/track/4jxy5teSqBWmOFqrPH1VPi) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [B\_SAN](https://open.spotify.com/artist/2r6UST0wWH7RdRqLqUvm8b) | [Crash Landing](https://open.spotify.com/album/33K82KXEzVkNyqCg8FzWUZ) | 3:23 | 2026-04-27 | 2026-07-11 |
 | [Cry \(Just A Little\)](https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Cry \(Just A Little\)](https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji) | 2:43 | 2025-09-15 | 2025-12-13 |
 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 | 2025-11-14 |  |
+| [Deep Chicken \- Astrality Remix](https://open.spotify.com/track/7jnUxTj25G6nKi8PwtIBTy) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Deep Chicken \(Astrality Remix\)](https://open.spotify.com/album/7Bn01DLJMv6olKHBbFeZwF) | 4:17 | 2026-09-08 |  |
 | [Deeper](https://open.spotify.com/track/0O1AfyqZqk2dNJ7mvum3Y9) | [Mesa & Boss](https://open.spotify.com/artist/286crklkKR6w66BO79BJQG) | [Deeper](https://open.spotify.com/album/7nylWARTxfVLYSjF9VA4eC) | 3:12 | 2026-02-27 | 2026-08-01 |
 | [Deepest Truth \- Nourey Remix](https://open.spotify.com/track/5KZLNQU6MZZP9S00BMA1wC) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Odyssey \(Remixes\)](https://open.spotify.com/album/6LkfEhBqqOz4L5Glwe4c4C) | 3:26 | 2025-07-11 | 2026-03-07 |
 | [Delorean](https://open.spotify.com/track/0IgAYDZFwHUnSe6TlMtowu) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO) | [Colorize Winter Sampler 2025](https://open.spotify.com/album/4RCLhJq0ksv7mKJYDQZExx) | 3:27 | 2025-07-11 | 2025-09-06 |

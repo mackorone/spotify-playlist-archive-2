@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,020 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,028 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 43 | [Hope \- Acoustic](https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hope \(Acoustic\)](https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC) | 3:43 |
 | 44 | [Never Gonna Be Alone \(HONNE Remix\)](https://open.spotify.com/track/3z9rfhgooezVTMBrRvNz0l) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Mayer](https://open.spotify.com/artist/7EXJJpgDl7y4szvrpUYj0s), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Never Gonna Be Alone \(HONNE Remix\)](https://open.spotify.com/album/6lfVjl4oZl6q9DTiJHOoax) | 3:45 |
 
-Snapshot ID: `apytAAAAAAAVL6CenHNXKIhOHhA8YJSs`
+Snapshot ID: `ap3+gAAAAADsduvPZ2Um1/vPT238ghhg`

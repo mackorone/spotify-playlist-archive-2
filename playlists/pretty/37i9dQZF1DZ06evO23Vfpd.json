@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 70999,
+  "num_followers": 71029,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAJ/rL41Q0H3WsgCwRFXi3S",
+  "snapshot_id": "ap3+gAAAAAAqRcydieC8v2vdUHrQljc7",
   "tracks": [
     {
       "added_at": null,
@@ -510,11 +510,15 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Garzon",
+          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
+      "duration_ms": 189159,
+      "name": "Why Can't Love Be The Reason (feat. Garzon)",
+      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {
       "added_at": null,
@@ -586,15 +590,11 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Garzon",
-          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
         }
       ],
-      "duration_ms": 189159,
-      "name": "Why Can't Love Be The Reason (feat. Garzon)",
-      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
+      "duration_ms": 154897,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377598,
+  "num_followers": 377609,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -455,30 +455,22 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "I Want Your Love",
-        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
         },
         {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
         }
       ],
-      "duration_ms": 153050,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -503,22 +495,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Come Back Tomorrow",
-        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
       },
       "artists": [
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         },
         {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
         }
       ],
-      "duration_ms": 202017,
-      "name": "Come Back Tomorrow",
-      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "APRIL",
-        "url": "https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "APRIL",
-      "url": "https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "I Want U",
+        "url": "https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "I Want U",
+      "url": "https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV"
     }
   ],
   "unique_name": "Soultronic",

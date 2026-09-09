@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JISOO\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,821 songs - 39 day 21 hr 2 min
+16,824 songs - 39 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [4:ever](https://open.spotify.com/track/3SmHyaTCDWnJjlrWQs5Chx) | [TEAM 24:00](https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0) | [4:ever](https://open.spotify.com/album/4P0kjkeTg5XEX1ELCLBBLv) | 2:51 | 2023-06-27 | 2023-08-10 |
 | [4am](https://open.spotify.com/track/6WXX48O5lE9GwnQH8hUUiW) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [4am](https://open.spotify.com/album/6T8Nrg2KG8IPld0wBQmxPC) | 4:18 | 2023-11-10 | 2023-11-18 |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-15 | 2024-09-20 |
+| [4real](https://open.spotify.com/track/7DbDnr8s44NrXsme8fRWMd) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4real](https://open.spotify.com/album/0NKJlpruRROomjmAm17u8L) | 2:43 | 2026-09-08 |  |
 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 | 2025-04-28 | 2025-05-06 |
 | [4SHO 4SHO](https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 4:01 | 2026-05-18 | 2026-06-09 |
 | [5 \(feat\. 9m88\)](https://open.spotify.com/track/7xLTI4PKBKG6kPOoXMrH1r) | [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [CN X](https://open.spotify.com/album/1jRhPtPtV52l3uUZqbYSE8) | 4:52 | 2024-10-17 | 2024-11-05 |
@@ -5335,6 +5336,7 @@
 | [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 | 2026-02-16 | 2026-02-27 |
 | [Guilty Pleasure](https://open.spotify.com/track/7GdhPFfd00VGA4siYdoeuy) | [SEOMINGYU](https://open.spotify.com/artist/4tMzjDnmgRlaNOshrP7BzO) | [Guilty Pleasure](https://open.spotify.com/album/67mFOnmYD6CeN1iGbvU4Qd) | 2:42 | 2022-07-08 | 2022-07-20 |
 | [Guimun](https://open.spotify.com/track/5GNueEonL3DkgEDxLh2p1C) | [HASE](https://open.spotify.com/artist/5Sk09SziEGsP9so00kDaph) | [Mysterious phenomenon](https://open.spotify.com/album/78u89xwKhADc7vBLaHIGFS) | 3:16 | 2026-06-08 | 2026-06-23 |
+| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 |  |
 | [GULA \(feat\. QM\)](https://open.spotify.com/track/3NGbtAVWBJGKA06vCdELUN) | [Squabby Doo](https://open.spotify.com/artist/2BCVAcHZm6GamIxlQCGmRx), [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [GULA \(feat\. QM\)](https://open.spotify.com/album/2lPQ3yyQ4r7TLteA8A2MT7) | 2:51 | 2023-03-04 | 2023-03-28 |
 | [Gulliver](https://open.spotify.com/track/7HB3OUMUrZDdS0XnQ9h8Wr) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Street Man Fighter Original Vol.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ZxaSeVDBBvSKDLXbCSLYU) | 3:03 | 2022-08-23 | 2022-09-06 |
 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-11-10 | 2023-12-14 |
@@ -8663,6 +8665,7 @@
 | [Marge](https://open.spotify.com/track/28cicjJtZV0k93VIZ9PId1) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 3:10 | 2023-11-10 | 2023-12-14 |
 | [Maria \(Kpop ver\)](https://open.spotify.com/track/6WA3uJoAXmUxISMrO5hQ4v) | [Park Jin Joo](https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm) | [Maria \(Kpop ver\)](https://open.spotify.com/album/1GdONWZE3J8PyV5fx6xWlZ) | 3:08 | 2025-11-17 | 2025-11-25 |
 | [Mariposa \- Orchestra Version](https://open.spotify.com/track/2Yc1bYOFlo5fVXcCvQmBbt) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Mariposa \(Orchestra Version\)](https://open.spotify.com/album/2j5IgfNXSDAmxk4sui8XQd) | 4:30 | 2025-12-29 | 2026-01-15 |
+| [Mark on Me](https://open.spotify.com/track/5rLa4taWmqZsZBDh5iKNIH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:51 | 2026-09-08 |  |
 | [Marley \(feat\. Huckleberry P\)](https://open.spotify.com/track/2Vfab88uvIEuwa0YX9OLm9) | [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [2022 Monthly Brown May](https://open.spotify.com/album/2fVWXrJnn03sknbjc3ZK9n) | 3:05 | 2022-05-31 | 2022-06-14 |
 | [Marmalade](https://open.spotify.com/track/32RTLocyM1CPGrtePnKZC0) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Marmalade](https://open.spotify.com/album/4YKZdgFHm4ot3dV0GTa3T9) | 3:17 | 2024-08-29 | 2024-09-20 |
 | [Marry me](https://open.spotify.com/track/22sx5e3qU4B6n7ZpLFinZe) | [Gitae](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6), [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Marry me](https://open.spotify.com/album/0mqPlCFmBFcAMF2hOA8wUL) | 4:27 | 2025-06-02 | 2025-06-09 |

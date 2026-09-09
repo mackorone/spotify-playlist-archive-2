@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-863 songs - 2 day 0 hr 45 min
+864 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [En Kaadhal Thaedi Odinen](https://open.spotify.com/track/0ozEoFS0MHjI098ZUZkDhU) | [Naveen Chelladurai](https://open.spotify.com/artist/55xjbKMt7Vsw2vTcyfnILB) | [En Kaadhal Thaedi Odinen](https://open.spotify.com/album/76EcZzs2v7sB9GyjT0Ix6D) | 4:15 | 2025-04-04 | 2025-06-24 |
 | [En Kaadhalile](https://open.spotify.com/track/0d3r7EWtfJP9wsAWDsHTvd) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [En Kaadhalile](https://open.spotify.com/album/6beTVU4H7jFnfVI6nxjpGn) | 2:59 | 2023-07-31 | 2023-10-04 |
 | [En Kadhali](https://open.spotify.com/track/22G7gaLarS2lmRJzO7tHcT) | [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [En Kadhali](https://open.spotify.com/album/6KvBP0lXW8tVy8Lc0bE3hX) | 4:06 | 2026-06-11 |  |
+| [En Kangal](https://open.spotify.com/track/36GchciU08GChUGKHy5ZnU) | [SHRU](https://open.spotify.com/artist/5V6SYitM5SSFXrHKUSbl91), [Guru Kural](https://open.spotify.com/artist/1OTFxo444ARUX1zVZxbiDj) | [En Kangal](https://open.spotify.com/album/6hJpb0UAUPxuEiw7hen6A6) | 2:39 | 2026-09-08 |  |
 | [En kannadi](https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p) | [Shangeerththan](https://open.spotify.com/artist/1Gn7YwjhMEyenRUcN4o5jt), [Sathurshana](https://open.spotify.com/artist/0PdJEgyoTPGKPiTjA4TdTr) | [Rose](https://open.spotify.com/album/2VqiAb5LyoLpNEjL5RW7ly) | 4:47 | 2024-07-12 | 2024-12-06 |
 | [En Nilav](https://open.spotify.com/track/2SAehaZgtMkygse1UGrZWs) | [Nidhin Jo Jacob](https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ), [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK), [Gayathri Suresh](https://open.spotify.com/artist/17KMGAxvstqpaHy7JnxI51) | [En Nilav](https://open.spotify.com/album/4OxD2nnqhV2p68eHISEamf) | 3:24 | 2025-07-03 | 2025-11-29 |
 | [En Ooru](https://open.spotify.com/track/2nHw7dzQ8ttgId3gMZYpJg) | [M.C.Eric Fernando](https://open.spotify.com/artist/16uJqCGjyyevy0tYkwnYGS), [Abi](https://open.spotify.com/artist/38oIyGou6wEBfdg0dtufA3) | [En Ooru](https://open.spotify.com/album/7u9iOxs8jtDc5Qwwqi7qpu) | 3:42 | 2024-07-19 | 2024-09-21 |
@@ -322,7 +323,7 @@
 | [Kannadi Kaadhal](https://open.spotify.com/track/0QQFLawqnCCkakWlVjoNH2) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Kannadi Kaadhal](https://open.spotify.com/album/68W8QRoknzyEaCa29pChdZ) | 1:17 | 2024-02-01 | 2024-04-05 |
 | [Kannadi Kaadhal](https://open.spotify.com/track/47WrhLnsR1m70M12EVhuiq) | [Sharan musician](https://open.spotify.com/artist/0PQ7Qxxuybj8aNYQEKUV53) | [Kannadi Kaadhal](https://open.spotify.com/album/4JrXLB4Hd01QUkT717ZLX6) | 1:17 | 2023-10-10 | 2024-02-21 |
 | [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 | 2024-05-03 | 2024-12-06 |
-| [Kannal Kadhal Kolludhadi \(From "Imir Music"\)](https://open.spotify.com/track/7zHudAKNGkZEMHRXQim6mk) | [Ajmal Khan](https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR), [Nithesh Dhakshin](https://open.spotify.com/artist/3A8FtmRPlshsKsFLN70tZv) | [Kannal Kadhal Kolludhadi \(From "Imir Music"\)](https://open.spotify.com/album/1uqC8tEdebgdnblIKbKtq5) | 2:19 | 2026-03-26 |  |
+| [Kannal Kadhal Kolludhadi \(From "Imir Music"\)](https://open.spotify.com/track/7zHudAKNGkZEMHRXQim6mk) | [Ajmal Khan](https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR), [Nithesh Dhakshin](https://open.spotify.com/artist/3A8FtmRPlshsKsFLN70tZv) | [Kannal Kadhal Kolludhadi \(From "Imir Music"\)](https://open.spotify.com/album/1uqC8tEdebgdnblIKbKtq5) | 2:19 | 2026-03-26 | 2026-09-09 |
 | [Kannala Thakatha](https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh) | [Kirusanth Edman](https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kannala Thakatha](https://open.spotify.com/album/6LmA6UxbxBP763f06TJERt) | 3:13 | 2026-02-24 | 2026-07-18 |
 | [Kanne](https://open.spotify.com/track/5UCmPFvHbfb9cOcdEVc44M) | [Vivek Leo](https://open.spotify.com/artist/7nyXMk3a3vruVCqXwtXDIy), [Juvainy Mohd](https://open.spotify.com/artist/7zssdQMMHxUG0bWf88Stw8) | [Kanne](https://open.spotify.com/album/0lNDSWNDSz8NmBStBmQK3A) | 2:53 | 2025-03-17 | 2025-06-04 |
 | [Kanni Boyz](https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr) | [RK Arvin](https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM), [Rk Tharan](https://open.spotify.com/artist/2teckjfXrt39sR75clLegg) | [Kanni Boyz](https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD) | 3:51 | 2024-12-05 | 2025-02-25 |

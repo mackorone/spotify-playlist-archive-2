@@ -7241,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "Never Get Enough",
+        "url": "https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235337,
+      "name": "Never Get Enough",
+      "url": "https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR"
+    },
+    {
+      "album": {
         "name": "Nice Town",
         "url": "https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e"
       },

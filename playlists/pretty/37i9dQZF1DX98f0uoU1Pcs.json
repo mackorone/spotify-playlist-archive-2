@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295365,
+  "num_followers": 295360,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Black Paint",
-        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Black Paint",
-      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Pain to Power",
         "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 363918,
       "name": "Hit My Head All Day",
       "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Black Paint",
+        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Black Paint",
+      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Something Worth Waiting For",
-        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
       },
       "artists": [
         {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
         }
       ],
-      "duration_ms": 204123,
-      "name": "Still Around",
-      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -951,6 +935,22 @@
       "duration_ms": 219810,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Something Worth Waiting For",
+        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 204123,
+      "name": "Still Around",
+      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Saturday Sun",
-        "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+        "name": "Saturday Sun",
+        "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
       },
       "artists": [
         {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
         }
       ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
+      "duration_ms": 234600,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1063,6 +1047,22 @@
       "duration_ms": 397448,
       "name": "Sunburned in London",
       "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Rolling By",
-        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
-      },
-      "artists": [
-        {
-          "name": "Antenna",
-          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
-        }
-      ],
-      "duration_ms": 182714,
-      "name": "Rolling By",
-      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cherry Picker",
         "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Rolling By",
+        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
+      },
+      "artists": [
+        {
+          "name": "Antenna",
+          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
+        }
+      ],
+      "duration_ms": 182714,
+      "name": "Rolling By",
+      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Public Luxury",
-        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
-      },
-      "artists": [
-        {
-          "name": "Downtown Boys",
-          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
-        }
-      ],
-      "duration_ms": 217468,
-      "name": "No Me Jodas",
-      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Public Luxury",
+        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
+      },
+      "artists": [
+        {
+          "name": "Downtown Boys",
+          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
+        }
+      ],
+      "duration_ms": 217468,
+      "name": "No Me Jodas",
+      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
     },
     {
       "added_at": "2026-07-17 17:28:38",

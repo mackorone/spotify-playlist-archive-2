@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:2zOaxQrkHE4FGO1Vs0oyjL\">Morgan Morrison</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:2Y0XnClqugqbVaHhgZIu3x\">TOM PIGMENT</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -7713,6 +7713,28 @@
     },
     {
       "album": {
+        "name": "B\u0119dziemy si\u0119 z tego \u015bmia\u0107",
+        "url": "https://open.spotify.com/album/2P5cyH871t97Jy8OsLtpYH"
+      },
+      "artists": [
+        {
+          "name": "Szymon Norkowski",
+          "url": "https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS"
+        },
+        {
+          "name": "Jerzy Koczur",
+          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "B\u0119dziemy si\u0119 z tego \u015bmia\u0107",
+      "url": "https://open.spotify.com/track/208pXvC2UcIeaIAPpdJlKL"
+    },
+    {
+      "album": {
         "name": "b\u0119d\u0105 t\u0119skni\u0107 (ocean)",
         "url": "https://open.spotify.com/album/5FQ5nq96VIdcOnuYL42DBX"
       },
@@ -12862,7 +12884,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 174444,
       "name": "DARUJ SOBIE",
       "url": "https://open.spotify.com/track/6EwMHcpHtSTKfgpSK7wMPW"
@@ -14722,6 +14744,24 @@
       "duration_ms": 180200,
       "name": "dontchange",
       "url": "https://open.spotify.com/track/3Az5NdFMOxQWzf611HpFCy"
+    },
+    {
+      "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/4arPrhCQWQhZIE3RJ2Zh96"
+      },
+      "artists": [
+        {
+          "name": "lee o",
+          "url": "https://open.spotify.com/artist/1sII8VFQzIBdSDW2uhAv6B"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124456,
+      "name": "don\u2019t dissapear",
+      "url": "https://open.spotify.com/track/2sXwzZKicJdC4Gt0MDuJ1u"
     },
     {
       "album": {
@@ -29398,7 +29438,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 149189,
       "name": "kr\u00f3tki film",
       "url": "https://open.spotify.com/track/0mWlebIV5sifLTivDvQaSg"
@@ -33133,6 +33173,24 @@
     },
     {
       "album": {
+        "name": "LUSTRO",
+        "url": "https://open.spotify.com/album/7ARNLxczq7g5TrRQ10TEFE"
+      },
+      "artists": [
+        {
+          "name": "jezioro",
+          "url": "https://open.spotify.com/artist/7I3WV80umpktjivehINE7i"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "LUSTRO",
+      "url": "https://open.spotify.com/track/3YQrVJrZ3d2XsmCXn6qWTk"
+    },
+    {
+      "album": {
         "name": "Luty",
         "url": "https://open.spotify.com/album/78KQQhURtFkGQ7Vv9tdD5t"
       },
@@ -33598,6 +33656,24 @@
       "duration_ms": 117727,
       "name": "malinowy drift",
       "url": "https://open.spotify.com/track/3awpz0agIs2axvbr4YTGro"
+    },
+    {
+      "album": {
+        "name": "Malta",
+        "url": "https://open.spotify.com/album/6U3PbYDXVjhz5yxfTEfRzW"
+      },
+      "artists": [
+        {
+          "name": "TOM PIGMENT",
+          "url": "https://open.spotify.com/artist/2Y0XnClqugqbVaHhgZIu3x"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Malta",
+      "url": "https://open.spotify.com/track/1yiIxGo07LNfxUvYbVAePg"
     },
     {
       "album": {
@@ -45355,6 +45431,24 @@
     },
     {
       "album": {
+        "name": "o ksi\u0119\u017cycu",
+        "url": "https://open.spotify.com/album/4M6oPzM8l2c1YXxevDpZlN"
+      },
+      "artists": [
+        {
+          "name": "Nela",
+          "url": "https://open.spotify.com/artist/61d6N6y1Hi6OSLxVX97Dp5"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "o ksi\u0119\u017cycu",
+      "url": "https://open.spotify.com/track/79L2plP4MRzcInx74KvKC3"
+    },
+    {
+      "album": {
         "name": "O Mnie",
         "url": "https://open.spotify.com/album/7Hi67vbgfJA1TL1cIPje3u"
       },
@@ -56946,7 +57040,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 202745,
       "name": "Runo",
       "url": "https://open.spotify.com/track/7lq2TakSsp1e0XD0M8UH5L"
@@ -58730,7 +58824,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 183196,
       "name": "Sentymenty",
       "url": "https://open.spotify.com/track/4GK3vy2nhR5yBctCb3UdTz"
@@ -72799,6 +72893,24 @@
     },
     {
       "album": {
+        "name": "Warto",
+        "url": "https://open.spotify.com/album/6tM4eAXx9HuHsXC1xC8eqN"
+      },
+      "artists": [
+        {
+          "name": "Ina Kopciuch",
+          "url": "https://open.spotify.com/artist/6rqxboohA2cyKTkGKRdOor"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192884,
+      "name": "Warto",
+      "url": "https://open.spotify.com/track/5wUJKiTzDTDQnxHfjQ6SGw"
+    },
+    {
+      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/0PM6rvqww5O48wH85znW7q"
       },
@@ -77706,7 +77818,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 140851,
       "name": "Za du\u017co",
       "url": "https://open.spotify.com/track/5xUrgu3iLsKCO4YTvQGuOc"
@@ -81542,7 +81654,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 205689,
       "name": "\u015anieg ju\u017c stopnia\u0142",
       "url": "https://open.spotify.com/track/5GNH7L6kAXFEDOvRdHFunw"

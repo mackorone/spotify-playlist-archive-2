@@ -805,6 +805,36 @@
     },
     {
       "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o"
+      },
+      "artists": [
+        {
+          "name": "Sorry My Love",
+          "url": "https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM"
+        },
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Albert Hype",
+          "url": "https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153133,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
+    },
+    {
+      "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },

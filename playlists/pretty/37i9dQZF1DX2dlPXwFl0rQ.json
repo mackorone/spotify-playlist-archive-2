@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 10882,
+  "num_followers": 10903,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Mariana Millan",
-          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Ahora Te Llamas Ex",
         "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 149835,
       "name": "Ahora Te Llamas Ex",
       "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
     },
     {
       "added_at": "2026-08-28 06:00:15",

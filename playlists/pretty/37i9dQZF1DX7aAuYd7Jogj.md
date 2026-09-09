@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,958,739 likes - 360 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958,973 likes - 360 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,7 +279,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 269 | [Silver Wakes](https://open.spotify.com/track/0BIsSTUGjOy6vSPHDoRQaI) | [Cael Lunor](https://open.spotify.com/artist/2LpnVQdlKLHTJZSd68cARu) | [Silver Wakes](https://open.spotify.com/album/3KaPWa1a2R40H52NbqCcBN) | 2:24 |
 | 270 | [Auspicious](https://open.spotify.com/track/7sTzvkV6uKU4OQ8RuY4Gs1) | [Meleira](https://open.spotify.com/artist/2FJo0qMTC1O0a3ggZGg43q) | [Auspicious](https://open.spotify.com/album/6xt8POOpWaDnTV89hppirg) | 2:44 |
 | 271 | [Clouds Beneath](https://open.spotify.com/track/0KNodqc5PnG6hZYcVYUCYI) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Clouds Beneath](https://open.spotify.com/album/5ZXrQpoZ09CcFLV44qzlIU) | 2:28 |
-| 272 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Zgva](https://open.spotify.com/artist/5UzIL2cfuelLB7c8wWSUWg) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
+| 272 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Zgva](https://open.spotify.com/artist/5UzIL2cfuelLB7c8wWSUWg), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
 | 273 | [Slow Fall](https://open.spotify.com/track/1YtkMlAN0dDErdKmvAIR3R) | [knownbyC](https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb) | [Slow Fall](https://open.spotify.com/album/1Srd5lVGsqUcLV3zI5UUaX) | 2:17 |
 | 274 | [Honeyed](https://open.spotify.com/track/2X0RQzNCFduEMtLjCpRp2h) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [Honeyed](https://open.spotify.com/album/4ep0KSgvAOtfU1xzzzGZ33) | 2:23 |
 | 275 | [Neblina](https://open.spotify.com/track/0oo9pzUL3BDofMUTMbbtEx) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Neblina](https://open.spotify.com/album/0VzkrUTyBjUyUuexFyxHiZ) | 3:00 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 359 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 |
 | 360 | [Lyria](https://open.spotify.com/track/6vMuJ5Ksai6YewJFVEsJcK) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Lyria](https://open.spotify.com/album/1mi4W11biS0vxNLxqtz6aG) | 2:44 |
 
-Snapshot ID: `AAAAAG9hT8XPmD5EP+UvFUa7UP6+gsqU`
+Snapshot ID: `AAAAAM+XDK/c8hX8afGFIAVLFSn6r/+J`

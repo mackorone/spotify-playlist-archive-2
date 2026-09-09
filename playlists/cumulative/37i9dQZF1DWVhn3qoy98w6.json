@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Patronato.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Julia Sabat\u00e9.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -9344,6 +9344,24 @@
       "duration_ms": 163295,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/5H96NwjJy40JkoF3If7taS"
+    },
+    {
+      "album": {
+        "name": "Alovera",
+        "url": "https://open.spotify.com/album/7JsmOG68e0iIfSo2bNd3C1"
+      },
+      "artists": [
+        {
+          "name": "Agua de Madrid",
+          "url": "https://open.spotify.com/artist/11XbzasT70vQZUoUemJxfD"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263533,
+      "name": "Alovera",
+      "url": "https://open.spotify.com/track/49EnpX7wvfBoZLO1zWHWKw"
     },
     {
       "album": {
@@ -35578,7 +35596,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 156505,
       "name": "dame un break",
       "url": "https://open.spotify.com/track/3w8rE2p6A1LO3c2T0i3a3H"
@@ -39100,7 +39118,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 169565,
       "name": "DESTEMPO",
       "url": "https://open.spotify.com/track/4JccDv1zHxXYHDpi1c9pcN"
@@ -77396,7 +77414,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 134288,
       "name": "Lejos, Lejos",
       "url": "https://open.spotify.com/track/4YHwhTc9N8BLJV5N3MZnDL"
@@ -78757,6 +78775,24 @@
     },
     {
       "album": {
+        "name": "RELICARIO",
+        "url": "https://open.spotify.com/album/1R9oj9aetAooi5MjPnuV44"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c1N",
+          "url": "https://open.spotify.com/artist/0G85IbnJkC9Y0WVexb5bCB"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149021,
+      "name": "LLORA",
+      "url": "https://open.spotify.com/track/1sHNfLI8XTCC20Wi8YYzBE"
+    },
+    {
+      "album": {
         "name": "LLORALOYYASTA",
         "url": "https://open.spotify.com/album/3dAsoKRyoRnAjQANftQJWM"
       },
@@ -78852,6 +78888,24 @@
       "duration_ms": 181454,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/5fY2LoTX0Kmr1Ev1uAATh6"
+    },
+    {
+      "album": {
+        "name": "llorar asi de bonito",
+        "url": "https://open.spotify.com/album/6rzoLYyHjo64iMV8DuZ3le"
+      },
+      "artists": [
+        {
+          "name": "Gharama",
+          "url": "https://open.spotify.com/artist/0x30WQAHNTguWiBy5wMjbf"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "llorar asi de bonito",
+      "url": "https://open.spotify.com/track/1LYXJslRf3i25UW8El04Tp"
     },
     {
       "album": {
@@ -87656,7 +87710,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 246546,
       "name": "Ma\u00f1ana m\u00e1s",
       "url": "https://open.spotify.com/track/3BxumdSbGvlkrrlCXdTmb8"
@@ -99362,7 +99416,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 155231,
       "name": "Nere zortea",
       "url": "https://open.spotify.com/track/0Ydn04Dv1CCWCv7c5pIyuZ"
@@ -142159,6 +142213,24 @@
     },
     {
       "album": {
+        "name": "TE VAS",
+        "url": "https://open.spotify.com/album/0JdsSkttemYffc9YeRNYhH"
+      },
+      "artists": [
+        {
+          "name": "NOHE",
+          "url": "https://open.spotify.com/artist/6HuasZ7GITPFZjMxx7ZX0I"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "TE VAS",
+      "url": "https://open.spotify.com/track/59HtKFNfmChl74e9FfdYEi"
+    },
+    {
+      "album": {
         "name": "Te Vas :(",
         "url": "https://open.spotify.com/album/0Z0eCG0Ruh4lXBZr2q1cTl"
       },
@@ -142264,6 +142336,24 @@
       "duration_ms": 138211,
       "name": "Te vi llorar",
       "url": "https://open.spotify.com/track/5Q5XX5lRJaOFCW0iwmyfvB"
+    },
+    {
+      "album": {
+        "name": "Te Vi Venir",
+        "url": "https://open.spotify.com/album/5UglxnFDLVAtxQ0W0s8OXw"
+      },
+      "artists": [
+        {
+          "name": "Catalina Pocov\u00ed",
+          "url": "https://open.spotify.com/artist/1jv0wpOspqWkPO1sHbdlzk"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156036,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/6O9K4tWQ6f21LXjMnbFnhq"
     },
     {
       "album": {
@@ -156614,7 +156704,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 228013,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5VlZr9MQJUhxcJ9hzJYvwc"
@@ -158746,6 +158836,24 @@
       "duration_ms": 118459,
       "name": "y d nuevo",
       "url": "https://open.spotify.com/track/2guNq4lVFKtPUyfA8dWgH8"
+    },
+    {
+      "album": {
+        "name": "Y dime",
+        "url": "https://open.spotify.com/album/665xGJYCaL5H5VirzLknZd"
+      },
+      "artists": [
+        {
+          "name": "Nenazas",
+          "url": "https://open.spotify.com/artist/3iulHYJiNfl40agn0qdD81"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272237,
+      "name": "Y dime",
+      "url": "https://open.spotify.com/track/5lRv65IVIesY4UIVEDAnaj"
     },
     {
       "album": {

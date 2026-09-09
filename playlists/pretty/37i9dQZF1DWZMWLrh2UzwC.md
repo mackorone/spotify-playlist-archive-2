@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from LISA, Ellie Goulding, Miley, JISOO,  ADÉLA, Zaki Yamani, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,611 likes - 111 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,609 likes - 111 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 106 | [This Is the Last Song About You](https://open.spotify.com/track/56mCbeIok8fW5fG3oe0wmn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [This Is the Last Song About You](https://open.spotify.com/album/4QVwataDdz8ZuUNa2dKiAJ) | 2:06 |
 | 107 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
 | 108 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
-| 109 | [when you know you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
+| 109 | [when you know, you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know, you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
 | 110 | [Bad to the Bone](https://open.spotify.com/track/6NFhJLpovj3CqgT1rKC95l) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Bad to the Bone](https://open.spotify.com/album/44wKOYtHNZ5xXkY9g24nww) | 1:59 |
 | 111 | [You and I](https://open.spotify.com/track/1PZlaH5eXJzQmOYKTxkdU9) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [You and I](https://open.spotify.com/album/4GtPa2MgKEzfGdTnBQsHdw) | 2:26 |
 

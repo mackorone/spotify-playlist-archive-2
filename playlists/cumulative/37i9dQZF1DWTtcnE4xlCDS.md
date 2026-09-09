@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU!
 
-516 songs - 1 day 5 hr 57 min
+517 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [いちる](https://open.spotify.com/track/5nvtMVhRpg7CWJCE3zbsVU) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [雅賀烈賀 \(CV: 矢吹真央\)](https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN) | [いちる](https://open.spotify.com/album/7kMHyUJ45MWSJAYeBPxNPX) | 2:51 | 2024-06-20 |  |
 | [いちる \- JJJ Remix](https://open.spotify.com/track/1VBYPEBR35lBqyPdTBDuE5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [雅賀烈賀 \(CV: 矢吹真央\)](https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN), [jjj](https://open.spotify.com/artist/5oHRHqwUaKXOKcFZP0s9dY) | [いちる \(JJJ Remix\)](https://open.spotify.com/album/4d8MyWEt0UMAYSv0VnCjh9) | 3:18 | 2025-01-24 |  |
 | [ええやんかいさっ！](https://open.spotify.com/track/4Zrbx028TPx2ctQlQHJY2h) | [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [ええやんかいさっ！](https://open.spotify.com/album/1FvKnj3Yfn6qKF16pF30A5) | 3:20 | 2026-08-25 |  |
+| [この星でよかった](https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB) | [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [この星でよかった](https://open.spotify.com/album/3ZdBpZh8AFbjew07xq8qd8) | 3:19 | 2026-09-08 |  |
 | [しあわせの魔法](https://open.spotify.com/track/6QiZlyylLrbxU1IJohN0nI) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [Jun Kuroda](https://open.spotify.com/artist/3RfdQlmxIQ1tQAjnrPXsuJ) | [しあわせの魔法](https://open.spotify.com/album/493RXitsfoJI5RQR6BEVlh) | 4:44 | 2024-04-18 |  |
 | [そーれそれそれ そいそいや](https://open.spotify.com/track/28i5IYEAZny6Pmu6jxQTIx) | [NAKANO\-DENNOU](https://open.spotify.com/artist/3TKx2J9CUmHwUx0TtkLWJy), [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [そーれそれそれ そいそいや](https://open.spotify.com/album/6V4C0p3GNzZb3kF8gTECQM) | 3:45 | 2025-10-28 |  |
 | [どうせ](https://open.spotify.com/track/6QIKEHaZWsHHlGDmWxAy6P) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ヤマモトショウ](https://open.spotify.com/artist/4amdnfQqCtmLSBn9Bb29uU), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz) | [どうせ](https://open.spotify.com/album/7wGXPlZQtENlEYhfQbTL0L) | 4:03 | 2025-01-24 |  |

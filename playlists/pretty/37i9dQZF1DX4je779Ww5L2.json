@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190235,
+  "num_followers": 190230,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Can You Swim?",
+        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 295378,
+      "name": "Can You Swim?",
+      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Can You Swim?",
-        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 295378,
-      "name": "Can You Swim?",
-      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Muddy Water",
         "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 170500,
       "name": "dance & giggle",
       "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "My Child, My Friend - Anchor",
-        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 152146,
-      "name": "My Child, My Friend",
-      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "love so blind (night tapes)",
         "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 245714,
       "name": "love so blind - night tapes",
       "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "My Child, My Friend - Anchor",
+        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 152146,
+      "name": "My Child, My Friend",
+      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 264346,
       "name": "Rush Hour Traffic",
       "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
       "artists": [
         {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
         }
       ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+      "duration_ms": 209237,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
       "artists": [
         {
-          "name": "Loki Project",
-          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
       },
       "artists": [
         {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+          "name": "Loki Project",
+          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
         }
       ],
-      "duration_ms": 209237,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+      "duration_ms": 266466,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
-      },
-      "artists": [
-        {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
-        }
-      ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Kaleidoscope Eyes",
-        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
       "artists": [
         {
-          "name": "Kiki Annette",
-          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
         }
       ],
-      "duration_ms": 238542,
-      "name": "Kaleidoscope Eyes",
-      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1387,6 +1371,22 @@
       "duration_ms": 306766,
       "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
       "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Kaleidoscope Eyes",
+        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+      },
+      "artists": [
+        {
+          "name": "Kiki Annette",
+          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+        }
+      ],
+      "duration_ms": 238542,
+      "name": "Kaleidoscope Eyes",
+      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "My Hands",
-        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
-      },
-      "artists": [
-        {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
-        }
-      ],
-      "duration_ms": 218701,
-      "name": "My Hands",
-      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "My Hands",
+        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 218701,
+      "name": "My Hands",
+      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "The Moon Is Going For A Swim",
-        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
-        }
-      ],
-      "duration_ms": 227433,
-      "name": "The Moon Is Going For A Swim",
-      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Tardigrades",
         "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 190631,
       "name": "Tardigrades",
       "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "The Moon Is Going For A Swim",
+        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 227433,
+      "name": "The Moon Is Going For A Swim",
+      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
     },
     {
       "added_at": "2026-07-17 14:00:09",

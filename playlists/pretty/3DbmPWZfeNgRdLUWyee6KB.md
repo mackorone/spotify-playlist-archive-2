@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 125 songs - 7 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 128 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,5 +133,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 123 | [Partycrasher](https://open.spotify.com/track/59JSdeSwOgjOVjDa8dGTlO) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Partycrasher](https://open.spotify.com/album/1ufv95qDeuiuwsEaiXTVBL) | 3:56 |
 | 124 | [MBTAM](https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu), [Midas Maximus](https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3) | [MBTAM](https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3) | 2:26 |
 | 125 | [Ready to fly](https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x) | [The Last North](https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs) | [Ready to fly](https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs) | 3:28 |
+| 126 | [Arena y Sal \- Remix](https://open.spotify.com/track/4Y1RkPyZPjbJJvPOeXVgUH) | [Amor y Mareas](https://open.spotify.com/artist/5q5rt9n700qDxWk62QPGQh), [Ralf Nasdalla](https://open.spotify.com/artist/5hDDlbZZWQFs8Z1eZkro7Q) | [Arena y Sal \(Remix\)](https://open.spotify.com/album/02AKTqCfz1hGUgu2bUlttT) | 3:44 |
+| 127 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
+| 128 | [Modern Man](https://open.spotify.com/track/6UyFSNlpzAtG8SD8IJXYm2) | [Mango Tango](https://open.spotify.com/artist/603GLu89qEAccU4GDkidt6) | [Modern Man](https://open.spotify.com/album/6l4JkbJGK2U8kKA7G1smnh) | 3:04 |
 
-Snapshot ID: `AAAXqSX1qhYMDFGrnx30Rt0pOpAHKX1l`
+Snapshot ID: `AAAXrHzKdYoenSlTel32K34SgG4pTkhx`

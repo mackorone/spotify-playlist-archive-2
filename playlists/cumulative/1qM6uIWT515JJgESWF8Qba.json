@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "For You To Know",
+        "url": "https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo"
+      },
+      "artists": [
+        {
+          "name": "Groove Vultures",
+          "url": "https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209311,
+      "name": "For You To Know",
+      "url": "https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU"
+    },
+    {
+      "album": {
         "name": "Last Woman Left At The Market",
         "url": "https://open.spotify.com/album/5QwDMazOp31hcNanUG7MCx"
       },
@@ -5343,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r"
+    },
+    {
+      "album": {
         "name": "Unmovable Fires",
         "url": "https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv"
       },
@@ -5610,6 +5646,24 @@
       "duration_ms": 165216,
       "name": "Yo soy un privilegio",
       "url": "https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV"
+    },
+    {
+      "album": {
+        "name": "You Dont' See but I'm Here",
+        "url": "https://open.spotify.com/album/0PYFuehLCYVCUi0rGG8bQZ"
+      },
+      "artists": [
+        {
+          "name": "Karyttah",
+          "url": "https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340047,
+      "name": "You Dont' See but I'm Here",
+      "url": "https://open.spotify.com/track/33rAoJ9rujAdlWwBnWfuW4"
     },
     {
       "album": {

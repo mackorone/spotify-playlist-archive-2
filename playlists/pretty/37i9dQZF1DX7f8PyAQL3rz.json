@@ -1,6 +1,6 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1433678,
+  "num_followers": 1433572,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -551,30 +551,6 @@
     {
       "added_at": "2026-09-04 03:01:24",
       "album": {
-        "name": "F\u00f3rmula Perfeita",
-        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "F\u00f3rmula Perfeita",
-      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
-    },
-    {
-      "added_at": "2026-09-04 03:01:24",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+    },
+    {
+      "added_at": "2026-09-04 03:01:24",
+      "album": {
+        "name": "F\u00f3rmula Perfeita",
+        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "F\u00f3rmula Perfeita",
+      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
     },
     {
       "added_at": "2026-09-04 03:01:24",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-09-04 03:01:24",
       "album": {
+        "name": "AMO FLOR",
+        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "AMO FLOR",
+      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
+    },
+    {
+      "added_at": "2026-09-04 03:01:24",
+      "album": {
         "name": "Cultura de Rua",
         "url": "https://open.spotify.com/album/2FjrC4pe2CpkKFDxotpAA4"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 209093,
       "name": "Cultura de Rua",
       "url": "https://open.spotify.com/track/0T9VMb4KNHn3bHcz8hinLU"
-    },
-    {
-      "added_at": "2026-09-04 03:01:24",
-      "album": {
-        "name": "AMO FLOR",
-        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "AMO FLOR",
-      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
     },
     {
       "added_at": "2026-09-04 03:01:24",

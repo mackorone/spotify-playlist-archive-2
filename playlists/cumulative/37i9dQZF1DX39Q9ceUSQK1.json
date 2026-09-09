@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Fontaines D.C.",
+  "description": "Nieuwe alternative & rock releases. Cover: Moss",
   "name": "New Alternative",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "album": {
+        "name": "9to5",
+        "url": "https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7"
+      },
+      "artists": [
+        {
+          "name": "uwase",
+          "url": "https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "9to5",
+      "url": "https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv"
     },
     {
       "album": {
@@ -402,6 +420,24 @@
       "duration_ms": 222667,
       "name": "A Question of You",
       "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
+    },
+    {
+      "album": {
+        "name": "A Scent",
+        "url": "https://open.spotify.com/album/0FR3YdkK23ujPE7aepjJbM"
+      },
+      "artists": [
+        {
+          "name": "Eosine",
+          "url": "https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "A Scent",
+      "url": "https://open.spotify.com/track/4wuFbKAAfBfpUTuqFC2d8F"
     },
     {
       "album": {
@@ -5799,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Throw The Dice",
+        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206890,
+      "name": "Gravity's Pull",
+      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
+    },
+    {
+      "album": {
         "name": "Great Lovers",
         "url": "https://open.spotify.com/album/6dLfV3LKIIMUVPqv3SI5Ns"
       },
@@ -6066,7 +6120,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 194093,
       "name": "Have a Heart",
       "url": "https://open.spotify.com/track/4LHpIlgOHSMOj8UL0n9th6"
@@ -6282,7 +6336,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 326599,
       "name": "Hexagons",
       "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
@@ -7528,7 +7582,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 193280,
       "name": "IN MOTION",
       "url": "https://open.spotify.com/track/2VWy9jGKzkMaYA3wlxroqx"
@@ -7694,6 +7748,24 @@
       "duration_ms": 284314,
       "name": "Into You",
       "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
+    },
+    {
+      "album": {
+        "name": "Life! On TV",
+        "url": "https://open.spotify.com/album/02DkosO7nQALa1j5jkhRpc"
+      },
+      "artists": [
+        {
+          "name": "Apeshit",
+          "url": "https://open.spotify.com/artist/60idytqipfbGaZr3u2a0QG"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "Is That What It Is",
+      "url": "https://open.spotify.com/track/5rbD4xvwCC5bChwxj8sGF3"
     },
     {
       "album": {
@@ -8156,7 +8228,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 201687,
       "name": "Kid",
       "url": "https://open.spotify.com/track/0rnGKWawCSQTEsHTSzCCCy"
@@ -9824,7 +9896,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 223690,
       "name": "Morning Lights",
       "url": "https://open.spotify.com/track/2TWAJ47wrjAGlc95NHtL88"
@@ -10098,7 +10170,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 242116,
       "name": "NEED",
       "url": "https://open.spotify.com/track/7sav8HC9epsE3GSh7Fwrlj"
@@ -10318,7 +10390,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 247144,
       "name": "Nightshift Superstar",
       "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
@@ -12152,7 +12224,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 335650,
       "name": "Rock o\u2019 Stone",
       "url": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
@@ -12884,6 +12956,24 @@
       "duration_ms": 153533,
       "name": "Shelf Life",
       "url": "https://open.spotify.com/track/7Blvsx4HrrtmE11kEKOcyR"
+    },
+    {
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/7LsKksdJFXo0QSEKNRDit8"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Shelly",
+      "url": "https://open.spotify.com/track/1jfh9b8BkvPTGXlqPjRIYU"
     },
     {
       "album": {
@@ -14043,6 +14133,24 @@
     },
     {
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/6IAqIdJyvJFPiI7Fp2d5US"
+      },
+      "artists": [
+        {
+          "name": "Tramhaus",
+          "url": "https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/4UFPf8Q2Zpsk76b7BNwW4n"
+    },
+    {
+      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg"
       },
@@ -14274,6 +14382,24 @@
       "duration_ms": 197706,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5DTJe70P5QE5s6ImL4efUG"
+      },
+      "artists": [
+        {
+          "name": "Noonzy",
+          "url": "https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205810,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG"
     },
     {
       "album": {
@@ -15706,7 +15832,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 253703,
       "name": "Today (Elevator Song)",
       "url": "https://open.spotify.com/track/0CwrWwanRwqVs8ClgYuEjl"
@@ -16902,10 +17028,28 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 184189,
       "name": "Why I Called You",
       "url": "https://open.spotify.com/track/44BCct9yANoa073riVBQ67"
+    },
+    {
+      "album": {
+        "name": "Why Oh Why",
+        "url": "https://open.spotify.com/album/5YCLa23FsP2NpftBqMc7RT"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235359,
+      "name": "Why Oh Why",
+      "url": "https://open.spotify.com/track/4ZfAR3Y0RR0k8kv5lqWTWI"
     },
     {
       "album": {

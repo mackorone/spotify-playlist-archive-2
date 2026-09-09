@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 133500,
       "name": "123",
       "url": "https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 209293,
       "name": "Aspirini",
       "url": "https://open.spotify.com/track/1RdIFpB3h5RpGBzOohedCV"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -3980,7 +3980,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 235973,
       "name": "Didima Feggaria",
       "url": "https://open.spotify.com/track/5lPj87L3JtlqZuSfzf0ccN"
@@ -5570,7 +5570,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 180705,
       "name": "FREAKED OUT - AFTER HOURS SLOWED",
       "url": "https://open.spotify.com/track/4rA1eFkTg7ngYpBf1KjkMg"
@@ -7875,6 +7875,28 @@
     },
     {
       "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "KAMIA",
+      "url": "https://open.spotify.com/track/7H1UWowk8Dd2DLu0oAQEX1"
+    },
+    {
+      "album": {
         "name": "Ixogenia",
         "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
       },
@@ -8032,7 +8054,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 146707,
       "name": "KENO",
       "url": "https://open.spotify.com/track/0gHJaxTC8LopPDr6fuLAUI"
@@ -8310,6 +8332,28 @@
       "duration_ms": 187617,
       "name": "Kontra Pao",
       "url": "https://open.spotify.com/track/6aiZBuwD6tTymjfmiVl071"
+    },
+    {
+      "album": {
+        "name": "2XXX",
+        "url": "https://open.spotify.com/album/1lz0jZD6kF18GrXWWLPUEM"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224651,
+      "name": "Korakia",
+      "url": "https://open.spotify.com/track/4BCjxdM0hXbCEFf0Ck1Dod"
     },
     {
       "album": {
@@ -9098,6 +9142,32 @@
       "duration_ms": 311000,
       "name": "Magiko Hali",
       "url": "https://open.spotify.com/track/4Du5inwBEt2y2LzuwL7sZ5"
+    },
+    {
+      "album": {
+        "name": "LEVEL I",
+        "url": "https://open.spotify.com/album/4jQSuLcUZeJO6EDrl6ILHV"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "MAGKAS KAI ALITIS",
+      "url": "https://open.spotify.com/track/5nG3S4ZF3P26oSfKYq0erY"
     },
     {
       "album": {
@@ -10150,7 +10220,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 154705,
       "name": "MORE PUTA",
       "url": "https://open.spotify.com/track/63mi2Pc1CeDGjNWUn7Rn1h"
@@ -11360,10 +11430,28 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 195508,
       "name": "O,ti Pio Omorfo",
       "url": "https://open.spotify.com/track/1wXUjl40kdUHbnL4fYMQW7"
+    },
+    {
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157617,
+      "name": "OI KAIROI ALLAZOUNE",
+      "url": "https://open.spotify.com/track/16mFMQBhGTOhcvP8ObXWuX"
     },
     {
       "album": {
@@ -11558,6 +11646,24 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "ORES",
+      "url": "https://open.spotify.com/track/4rXI3GKWppbWrlBckmSkFR"
     },
     {
       "album": {
@@ -11817,6 +11923,24 @@
     },
     {
       "album": {
+        "name": "Pagkosmia Mera Tou Psefti",
+        "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165239,
+      "name": "Pagkosmia Mera Tou Psefti",
+      "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
+    },
+    {
+      "album": {
         "name": "Paid to Exist",
         "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
       },
@@ -12052,6 +12176,28 @@
       "duration_ms": 138070,
       "name": "Paralia",
       "url": "https://open.spotify.com/track/54hqiJnShbAYKaX5HRQwSA"
+    },
+    {
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "PARAPANO",
+      "url": "https://open.spotify.com/track/5pq1eF1UTIXzUHjDVbv32f"
     },
     {
       "album": {
@@ -12492,7 +12638,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 236028,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4h4HJ4Ukao32nesuYLFC5b"
@@ -15145,6 +15291,36 @@
     },
     {
       "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169485,
+      "name": "THALASSA AKRIVI",
+      "url": "https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6"
+    },
+    {
+      "album": {
         "name": "Thalasses",
         "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
       },
@@ -16033,6 +16209,24 @@
     },
     {
       "album": {
+        "name": "Dua Lipa - Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220937,
+      "name": "Training Season (Live from the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
+    },
+    {
+      "album": {
         "name": "Trakter",
         "url": "https://open.spotify.com/album/0bEEq2tGAgifWk795cQJIT"
       },
@@ -16368,7 +16562,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 207843,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/1lCEKvT4OPOCBAJQ1t8wvA"
@@ -16448,7 +16642,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 159081,
       "name": "VASHA",
       "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
@@ -16470,6 +16664,24 @@
       "duration_ms": 135944,
       "name": "VERI",
       "url": "https://open.spotify.com/track/6Qk7z7ywXV5hdu7Up0smRs"
+    },
+    {
+      "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93187,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
     },
     {
       "album": {
@@ -17116,6 +17328,32 @@
       "duration_ms": 202328,
       "name": "Xeirovomvida",
       "url": "https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7"
+    },
+    {
+      "album": {
+        "name": "Xeno Nisi",
+        "url": "https://open.spotify.com/album/4kgB71eDE1trY21XdcARR5"
+      },
+      "artists": [
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Xeno Nisi",
+      "url": "https://open.spotify.com/track/7yzcbzhDUt0MACVK6uEz6f"
     },
     {
       "album": {

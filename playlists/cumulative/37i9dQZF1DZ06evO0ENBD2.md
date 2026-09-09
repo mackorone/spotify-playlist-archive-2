@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-186 songs - 12 hr 7 min
+187 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Face It Alone](https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT) | 4:07 | 2022-10-15 | 2026-03-29 |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-19 | 2022-11-16 |
 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 | 2025-03-27 | 2026-03-22 |
+| [Fat Bottomed Girls](https://open.spotify.com/track/5GT2mT3P8vMK4U9R4zzu7a) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE) | 4:17 | 2026-09-09 |  |
 | [Fat Bottomed Girls \- 2011 Remaster](https://open.spotify.com/track/6IAVxNFi1W88UhDeyvOsdo) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 4:15 | 2022-09-19 | 2023-03-18 |
-| [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 | 2022-09-17 |  |
+| [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 | 2022-09-17 | 2026-09-09 |
 | [Father To Son \- 2026 Mix](https://open.spotify.com/track/6doNuP5cvN0DB7jLJCVkSw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Collector's Edition\)](https://open.spotify.com/album/1HkKjf80Bkby4XpBQl0te0) | 6:12 | 2026-03-29 | 2026-04-26 |
 | [Father To Son \- Backing Track](https://open.spotify.com/track/15d6UmXZwWMODwxJgLPvn0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Collector's Edition\)](https://open.spotify.com/album/1HkKjf80Bkby4XpBQl0te0) | 6:12 | 2026-04-28 | 2026-05-11 |
 | [Father To Son \- Backing Track](https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/1HFobzrUk120xHeop7rC5D) | 6:12 | 2026-04-26 | 2026-05-24 |

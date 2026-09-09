@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Phoebe Hall",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Tailtiu",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 210152,
       "name": "Best of My Life",
       "url": "https://open.spotify.com/track/3QtC8qwynQY5foKoVKUOPE"
@@ -39075,6 +39075,24 @@
     },
     {
       "album": {
+        "name": "melancholy (chain)",
+        "url": "https://open.spotify.com/album/5xN9fGUhNxoIBf3rVMBbls"
+      },
+      "artists": [
+        {
+          "name": "cowboyy",
+          "url": "https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227130,
+      "name": "melancholy (chain)",
+      "url": "https://open.spotify.com/track/5CAxWw8SslEPgfMWJdIOQb"
+    },
+    {
+      "album": {
         "name": "melanie",
         "url": "https://open.spotify.com/album/5CHeEuGnXqXnC1mVQNXJAt"
       },
@@ -49436,7 +49454,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 272000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/4OVEhK3OmAKyTzJBDKEgF1"
@@ -55002,7 +55020,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 138857,
       "name": "solo",
       "url": "https://open.spotify.com/track/5tmv0I8TqzOie4jLCf0za0"
@@ -56806,6 +56824,24 @@
       "duration_ms": 246620,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr"
+    },
+    {
+      "album": {
+        "name": "I can't bring myself to care/Stuck between",
+        "url": "https://open.spotify.com/album/6EOAT6pr3KTQI9Nrtus1ry"
+      },
+      "artists": [
+        {
+          "name": "Tailtiu",
+          "url": "https://open.spotify.com/artist/2qgofxtIkqevnfRyeOSQio"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Stuck between",
+      "url": "https://open.spotify.com/track/3WeP2oTlRLOgQOCI6iPPEo"
     },
     {
       "album": {
@@ -59582,7 +59618,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 211541,
       "name": "The Drugs Don't Work Anymore",
       "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
@@ -60892,6 +60928,24 @@
       "duration_ms": 186432,
       "name": "Third Time Lucky",
       "url": "https://open.spotify.com/track/49HgyKaneQrj1YeJp6OvUC"
+    },
+    {
+      "album": {
+        "name": "THIRSTY",
+        "url": "https://open.spotify.com/album/3JgH21MvcuPdTwLU6USL0Z"
+      },
+      "artists": [
+        {
+          "name": "Proph",
+          "url": "https://open.spotify.com/artist/18DEfDOq0MKiDApmoCXjpt"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "THIRSTY",
+      "url": "https://open.spotify.com/track/4A7X9ernJjLXBobHsc6fAk"
     },
     {
       "album": {
@@ -63926,7 +63980,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 252944,
       "name": "Vinyl Spinning",
       "url": "https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn"
@@ -65967,6 +66021,24 @@
     },
     {
       "album": {
+        "name": "Where the Fairies Lie",
+        "url": "https://open.spotify.com/album/1slvZQBeHdjFA5h344FYOl"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166752,
+      "name": "Where the Fairies Lie",
+      "url": "https://open.spotify.com/track/1v5F9Lf9UqhdGUasJF84EQ"
+    },
+    {
+      "album": {
         "name": "Where We Are",
         "url": "https://open.spotify.com/album/6VJHpbzPIQvNKLuNnoRF1J"
       },
@@ -66465,6 +66537,24 @@
     },
     {
       "album": {
+        "name": "leave myself behind",
+        "url": "https://open.spotify.com/album/2JLtrDTTr5qxNXhD3g0EbQ"
+      },
+      "artists": [
+        {
+          "name": "frances mistry",
+          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "whydoitry?",
+      "url": "https://open.spotify.com/track/2jsUfrXac6zWH651dcSkzk"
+    },
+    {
+      "album": {
         "name": "Wickeda",
         "url": "https://open.spotify.com/album/5UPzQXgxF54Yr4l0gjyVnu"
       },
@@ -66733,6 +66823,24 @@
     },
     {
       "album": {
+        "name": "wish u",
+        "url": "https://open.spotify.com/album/0aKeyMr8TBJZ87ToNctoqF"
+      },
+      "artists": [
+        {
+          "name": "The Twins",
+          "url": "https://open.spotify.com/artist/6vsNRwGyyXmphFE9Lu27qi"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "wish u",
+      "url": "https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl"
+    },
+    {
+      "album": {
         "name": "wish u well",
         "url": "https://open.spotify.com/album/6KU2n6JkcvJPeULjZtgKmB"
       },
@@ -66982,7 +67090,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 261053,
       "name": "Won't You Ever Need Me",
       "url": "https://open.spotify.com/track/0gO6fILDlRAjpjidGPPT8s"

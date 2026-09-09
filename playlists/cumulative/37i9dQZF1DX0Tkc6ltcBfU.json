@@ -52899,6 +52899,24 @@
     },
     {
       "album": {
+        "name": "Too Phat",
+        "url": "https://open.spotify.com/album/2wW0DM1EjuLv8lxoocnj2o"
+      },
+      "artists": [
+        {
+          "name": "HoodRich Pablo Juan",
+          "url": "https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200328,
+      "name": "Too Phat",
+      "url": "https://open.spotify.com/track/1vEE3ZaSMwMih4DAFgDFOD"
+    },
+    {
+      "album": {
         "name": "Too Rich",
         "url": "https://open.spotify.com/album/0MihMtzvUGxV3cOV9klzKV"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,874 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,891 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 35 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
 | 36 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 37 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
-| 38 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
-| 39 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
+| 38 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
+| 39 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
 | 40 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 41 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
 | 42 | [SÍNDROME DE REF](https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd) | [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Vitonez](https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL) | [SÍNDROME DE REF](https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0) | 2:56 |

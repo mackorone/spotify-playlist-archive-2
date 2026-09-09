@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 542801,
+  "num_followers": 542794,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "There Goes The Neighbourhood",
+        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Can EU Hear Me?",
+      "url": "https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 210750,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "There Goes The Neighbourhood",
-        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Can EU Hear Me?",
-      "url": "https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "SURVIVORS GUILT: THE MIXTAPE//",
         "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 137986,
       "name": "survivors guilt//",
       "url": "https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Sailor Honeymoon",
-        "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
+        "name": "Don't Overdose and Drive",
+        "url": "https://open.spotify.com/album/5CxyTZiReRNbpfIUMdSNLO"
       },
       "artists": [
         {
-          "name": "Sailor Honeymoon",
-          "url": "https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C"
+          "name": "Happy.",
+          "url": "https://open.spotify.com/artist/40mwE0EKsKcxbGdUSxkwUg"
         }
       ],
-      "duration_ms": 157198,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR"
+      "duration_ms": 160682,
+      "name": "Don't Overdose and Drive",
+      "url": "https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn"
     }
   ],
   "unique_name": "Punk Rock Workout",

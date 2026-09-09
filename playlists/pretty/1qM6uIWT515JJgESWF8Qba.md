@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 560 likes - 67 songs - 4 hr 13 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 566 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 65 | [Power Management](https://open.spotify.com/track/1m0hOFTswQKVZoQ8BU8dIJ) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Power Management](https://open.spotify.com/album/0cbK5vCpieD5Rd0ZlnX3xM) | 2:52 |
 | 66 | [Fáilte Ar Ais](https://open.spotify.com/track/1gyWpdvX41YmRY7IZ8wuQE) | [The Falls](https://open.spotify.com/artist/1idQKjppJVYq4aFbffUKEs) | [Fáilte Ar Ais](https://open.spotify.com/album/4GTOxYl0JiXsDst6BcbaAT) | 3:11 |
 | 67 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 |
+| 68 | [You Dont' See but I'm Here](https://open.spotify.com/track/33rAoJ9rujAdlWwBnWfuW4) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [You Dont' See but I'm Here](https://open.spotify.com/album/0PYFuehLCYVCUi0rGG8bQZ) | 5:40 |
+| 69 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
+| 70 | [For You To Know](https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [For You To Know](https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo) | 3:29 |
 
-Snapshot ID: `AAACIp4PxvO0zr9DCnQB6idwmCsoPuQN`
+Snapshot ID: `AAACJaYCM8ef3aVeIvisQ8HeAPPf5nPE`

@@ -1,12 +1,12 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1593109,
+  "num_followers": 1593387,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOt58Hm896tyg428SwTlQxSJHBna",
+  "snapshot_id": "AAAAAH8eKEhULONCdU1l0XDtNwOed5Hn",
   "tracks": [
     {
       "added_at": "2026-08-31 08:46:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 249427,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
         "name": "Sleep Well Beast",
         "url": "https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 236746,
       "name": "The System Only Dreams in Total Darkness",
       "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "The Boatman's Call (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
         "name": "Untrue",
         "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
       },
@@ -2107,34 +2091,18 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Supernature",
-        "url": "https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f"
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
       },
       "artists": [
         {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+      "duration_ms": 256120,
+      "name": "Into My Arms - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2155,18 +2123,34 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Abattoir Blues / The Lyre of Orpheus",
-        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 411386,
-      "name": "O Children",
-      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
+        "name": "Supernature",
+        "url": "https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 411386,
+      "name": "O Children",
+      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
       },
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Black Cherry",
-        "url": "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Strict Machine",
-      "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
         "name": "Brothers In Arms (Remastered)",
         "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 308800,
       "name": "So Far Away - Full Version",
       "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
+        "name": "Black Cherry",
+        "url": "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Strict Machine",
+      "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 480466,
+      "name": "Aja",
+      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
         "name": "The Grand Budapest Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4JSC6btqLvqKRnW4It66pQ"
       },
@@ -2379,6 +2395,22 @@
       "duration_ms": 298400,
       "name": "Heaven Or Las Vegas",
       "url": "https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj"
+    },
+    {
+      "added_at": "2026-08-31 08:46:46",
+      "album": {
+        "name": "Such Great Heights",
+        "url": "https://open.spotify.com/album/0bskBaoSjjUmm8cPNphQcp"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/36Ae28qcIcoV3940YBBSxX"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2415,22 +2447,6 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "Hyper-ballad",
-      "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
         "name": "Since I Left You",
         "url": "https://open.spotify.com/album/7j4m8OUy87xQsuIVJQxF3J"
       },
@@ -2447,18 +2463,18 @@
     {
       "added_at": "2026-08-31 08:46:46",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 480466,
-      "name": "Aja",
-      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
+      "duration_ms": 321533,
+      "name": "Hyper-ballad",
+      "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
     },
     {
       "added_at": "2026-08-31 08:46:46",
@@ -2523,22 +2539,6 @@
       "duration_ms": 179066,
       "name": "Spirits In The Material World - Remastered 2003",
       "url": "https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H"
-    },
-    {
-      "added_at": "2026-08-31 08:46:46",
-      "album": {
-        "name": "Until We Meet the Sky",
-        "url": "https://open.spotify.com/album/64oJjdIQtrNWEMCplxiKu1"
-      },
-      "artists": [
-        {
-          "name": "Solar Fields",
-          "url": "https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc"
-        }
-      ],
-      "duration_ms": 343733,
-      "name": "Phase 09 - Sombrero",
-      "url": "https://open.spotify.com/track/0atOMgnZQ0bkSzDacwkKwB"
     }
   ],
   "unique_name": "Songs to Test Speakers With",

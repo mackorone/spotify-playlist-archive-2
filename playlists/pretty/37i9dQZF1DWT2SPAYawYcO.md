@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Angus & Julia Stone, Miley Cyrus, Nemzzz, Travis Scott, ADELA, Drax Project + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,814 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,784 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 58 | [Foxtrot Oscar](https://open.spotify.com/track/1BgZyTf26WaeUMeDtBspC2) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [We Want Bass](https://open.spotify.com/album/4aXFpQRlFuW6bE8Fyq5ML7) | 2:34 |
 | 59 | [Heaven](https://open.spotify.com/track/4Wt3IblTMoFA8Xcs1Ds0YN) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8) | [Ok ok now](https://open.spotify.com/album/5Ql8JLeYrJcIkpdnqwKWxG) | 2:27 |
 | 60 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |
-| 61 | [when you know you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
+| 61 | [when you know, you know](https://open.spotify.com/track/3yApBuMF7exJQdxooBdItf) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [when you know, you know](https://open.spotify.com/album/2xn9Blwvgc1BpDR1pDXWej) | 3:50 |
 | 62 | [confessions](https://open.spotify.com/track/0orUpt2hP2AJkShGLxYUSj) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [confessions](https://open.spotify.com/album/5MT1dUi817suTpsxkqcRVw) | 2:41 |
 | 63 | [Sugar On Top](https://open.spotify.com/track/1KoZm0t30ad0P1bxUbtZx1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Sugar On Top](https://open.spotify.com/album/0S0i34McnggME9HXzGBcTd) | 4:28 |
 | 64 | [Sleepwalker](https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Blood Of Your Empire](https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 
 > 음악으로 경계를 허물며 하나가 되는 DMZ PEACE TRAIN FESTIVAL 2026의 셋리스트를 다시 들어보세요!<br/>Listen back to the setlist from DMZ PEACE TRAIN FESTIVAL 2026, where dancers become borderless through peace and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 205 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 205 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 | 5 | [Jackfish Storm](https://open.spotify.com/track/7fFdFAkatqfAG86CaWxgac) | [Animal Divers](https://open.spotify.com/artist/105InXJ7PVFkCAN7yBhaPl) | [Monsoon](https://open.spotify.com/album/3WHtxelSOodDUQ8aKI7dSb) | 5:54 |
 | 6 | [Metamorphosis](https://open.spotify.com/track/6f0eRrYq33XzTlBpqfAlAe) | [Animal Divers](https://open.spotify.com/artist/105InXJ7PVFkCAN7yBhaPl) | [Metamorphosis](https://open.spotify.com/album/0JonKSX7dTBp8xstrhKAzW) | 5:34 |
 | 7 | [Cosmic voyage](https://open.spotify.com/track/5LBjqdHZkH1RPLhAofDjLZ) | [Animal Divers](https://open.spotify.com/artist/105InXJ7PVFkCAN7yBhaPl) | [Odyssey](https://open.spotify.com/album/3M109dhSefmgNqar9Zbu60) | 5:34 |
-| 8 | [Hyper Sun](https://open.spotify.com/track/7yWy7FWHf6qiuxk6kdEM5k) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 2:56 |
-| 9 | [Same Same](https://open.spotify.com/track/5W339aWwbB6mv2P7h1relE) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 1:50 |
-| 10 | [Watermark Park](https://open.spotify.com/track/121WqWnLQxcPNQr0qQU4li) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 2:28 |
-| 11 | [Sevenless](https://open.spotify.com/track/2fUTtSYsgiFdP4YHfAFwcs) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Hero](https://open.spotify.com/album/7GCzrstMeBzu57YO2XrOGX) | 3:14 |
-| 12 | [Feel It](https://open.spotify.com/track/0102s7QtzoqTGedDO9O3AU) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 3:28 |
-| 13 | [Yes Or No](https://open.spotify.com/track/5tEAVwgKiAU4uE7Oe8wkG4) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 1:56 |
-| 14 | [Molotov Cocktail](https://open.spotify.com/track/0qTto5vuHHeZkK1ZnRjOl1) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Hero](https://open.spotify.com/album/7GCzrstMeBzu57YO2XrOGX) | 4:06 |
-| 15 | [차원의 벽 \- Remix Version](https://open.spotify.com/track/0dMXosBGVXejOvz5lFAcgh) | [National Pigeon Unity](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Like A Light](https://open.spotify.com/album/15v2BWjfLwzf6VgQDiqJrz) | 5:41 |
+| 8 | [Hyper Sun](https://open.spotify.com/track/7yWy7FWHf6qiuxk6kdEM5k) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 2:56 |
+| 9 | [Same Same](https://open.spotify.com/track/5W339aWwbB6mv2P7h1relE) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 1:50 |
+| 10 | [Watermark Park](https://open.spotify.com/track/121WqWnLQxcPNQr0qQU4li) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 2:28 |
+| 11 | [Sevenless](https://open.spotify.com/track/2fUTtSYsgiFdP4YHfAFwcs) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Hero](https://open.spotify.com/album/7GCzrstMeBzu57YO2XrOGX) | 3:14 |
+| 12 | [Feel It](https://open.spotify.com/track/0102s7QtzoqTGedDO9O3AU) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 3:28 |
+| 13 | [Yes Or No](https://open.spotify.com/track/5tEAVwgKiAU4uE7Oe8wkG4) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [999](https://open.spotify.com/album/4Cwnl6VDj2tER6luqGuORO) | 1:56 |
+| 14 | [Molotov Cocktail](https://open.spotify.com/track/0qTto5vuHHeZkK1ZnRjOl1) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Hero](https://open.spotify.com/album/7GCzrstMeBzu57YO2XrOGX) | 4:06 |
+| 15 | [차원의 벽 \- Remix Version](https://open.spotify.com/track/0dMXosBGVXejOvz5lFAcgh) | [NPU](https://open.spotify.com/artist/4Ipi581cUqyURU7Ml6pyWF) | [Like A Light](https://open.spotify.com/album/15v2BWjfLwzf6VgQDiqJrz) | 5:41 |
 | 16 | [Alternate Universe](https://open.spotify.com/track/3lRX9GTRNR3O3CXjzh5zRY) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG) | [Burnt Crispy Beats](https://open.spotify.com/album/5heytFYTEciJp44Lj3N0Bo) | 3:27 |
 | 17 | [Dirty](https://open.spotify.com/track/7CwUi985m99CMowYnMx09J) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG) | [Burnt Crispy Beats](https://open.spotify.com/album/5heytFYTEciJp44Lj3N0Bo) | 7:53 |
 | 18 | [Out](https://open.spotify.com/track/0pFEkWISRqthvcWFVukLKW) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG) | [Burnt Crispy Beats](https://open.spotify.com/album/5heytFYTEciJp44Lj3N0Bo) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,609 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,599 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 15 | [Mun sydän on mun](https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Mun sydän on mun](https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr) | 3:25 |
 | 16 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
 | 17 | [Edestakaisin](https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy) | [Diya](https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5) | [Edestakaisin](https://open.spotify.com/album/2DVilstn40JgfJzJmHgXpK) | 2:33 |
-| 18 | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ) | 3:07 |
-| 19 | [Vaarallist](https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ) | [Vaarallist](https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV) | 2:34 |
-| 20 | [Sisko en tahdo jäädä](https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Tuskasta Taidetta](https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48) | 3:31 |
+| 18 | [Sisko en tahdo jäädä](https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Tuskasta Taidetta](https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48) | 3:31 |
+| 19 | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Liian nuorii kuolinilmotuksiin](https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ) | 3:07 |
+| 20 | [Vaarallist](https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ) | [Vaarallist](https://open.spotify.com/album/66IQbZGr5Z1KnnDwQEUsCV) | 2:34 |
 | 21 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 |
 | 22 | [KUKA TÄÄ MIMMI ON?](https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u) | [KUKA TÄÄ MIMMI ON?](https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY) | 2:58 |
 | 23 | [Samurai](https://open.spotify.com/track/3rVKDafQFUMyO42Of3YXKq) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Samurai](https://open.spotify.com/album/5XwZhHz1eVPWn951mXvm42) | 3:22 |
 | 24 | [Vinojen tähtien alla](https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Vinojen tähtien alla](https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa) | 2:33 |
-| 25 | [Paina play paina stop](https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Paina play paina stop](https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH) | 2:33 |
-| 26 | [Dancing Alone](https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt) | [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Dancing Alone](https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI) | 2:16 |
+| 25 | [Dancing Alone](https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt) | [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Dancing Alone](https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI) | 2:16 |
+| 26 | [Paina play paina stop](https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Paina play paina stop](https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH) | 2:33 |
 | 27 | [Vaan yks sinä](https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Vaan yks sinä](https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH) | 2:48 |
 | 28 | [Ruusunen](https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz) | [EMI](https://open.spotify.com/artist/0fZ4VC0udPzZNPi1yF88uB) | [Ruusunen](https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9) | 3:22 |
 | 29 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 35 | [Vastaa](https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Josua Leier](https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh), [Alttari](https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj) | [Jumalanmiehii III](https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e) | 4:28 |
 | 36 | [The Weight of the World](https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N), [Murrettumeri](https://open.spotify.com/artist/7pj9SdwRTID3M56shFkzy1) | [The Weight of the World](https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8) | 4:07 |
 | 37 | [Bailebella](https://open.spotify.com/track/4SteSu1nj6EDKpmfnPWzBb) | [S4RA](https://open.spotify.com/artist/6UM1oztn0RG4yv1RBO2tJB) | [Bailebella](https://open.spotify.com/album/2xOkAkqFeS3U7Q62RUzCyu) | 3:02 |
-| 38 | [PLIIS](https://open.spotify.com/track/3WYGtfd7H5vm7W8GoYFohb) | [SAFIRA](https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW) | [PLIIS](https://open.spotify.com/album/2GvtTeluH4jidSOVV8zxQW) | 2:13 |
-| 39 | [Takas](https://open.spotify.com/track/1hIEcmeuHYzPeCOjtxSQ0T) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Takas](https://open.spotify.com/album/3VXQHpCWPkH8p43fw3Xsza) | 2:29 |
-| 40 | [HELSINKI ON PILALLA](https://open.spotify.com/track/5OCMIcfLYcapoR0tdzu9dD) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [HELSINKI ON PILALLA](https://open.spotify.com/album/5JpWxryNHHmacV2HknBzO8) | 4:07 |
-| 41 | [JOTAIN RUMAA](https://open.spotify.com/track/7IUWV9nVnp5RcWdIJ3DNOV) | [MAMMA](https://open.spotify.com/artist/45sD2bIEHPx2cM7iEc4e0g) | [JOTAIN RUMAA](https://open.spotify.com/album/1K1FSXfLGsfHmUFwDWlJHi) | 3:32 |
-| 42 | [pgs](https://open.spotify.com/track/0j3sUOb1uQUnYMAeLmJxg9) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A), [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [pgs](https://open.spotify.com/album/6hztcC9NTZz6iJQJx1yKVa) | 1:36 |
-| 43 | [Hiljaisuus](https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn) | [Kastehelmi](https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa) | [Hiljaisuus](https://open.spotify.com/album/46embklLqA4N58C8PBkRvI) | 3:17 |
+| 38 | [Takas](https://open.spotify.com/track/1hIEcmeuHYzPeCOjtxSQ0T) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Takas](https://open.spotify.com/album/3VXQHpCWPkH8p43fw3Xsza) | 2:29 |
+| 39 | [PLIIS](https://open.spotify.com/track/3WYGtfd7H5vm7W8GoYFohb) | [SAFIRA](https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW) | [PLIIS](https://open.spotify.com/album/2GvtTeluH4jidSOVV8zxQW) | 2:13 |
+| 40 | [Hiljaisuus](https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn) | [Kastehelmi](https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa) | [Hiljaisuus](https://open.spotify.com/album/46embklLqA4N58C8PBkRvI) | 3:17 |
+| 41 | [HELSINKI ON PILALLA](https://open.spotify.com/track/5OCMIcfLYcapoR0tdzu9dD) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [HELSINKI ON PILALLA](https://open.spotify.com/album/5JpWxryNHHmacV2HknBzO8) | 4:07 |
+| 42 | [JOTAIN RUMAA](https://open.spotify.com/track/7IUWV9nVnp5RcWdIJ3DNOV) | [MAMMA](https://open.spotify.com/artist/45sD2bIEHPx2cM7iEc4e0g) | [JOTAIN RUMAA](https://open.spotify.com/album/1K1FSXfLGsfHmUFwDWlJHi) | 3:32 |
+| 43 | [pgs](https://open.spotify.com/track/0j3sUOb1uQUnYMAeLmJxg9) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A), [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [pgs](https://open.spotify.com/album/6hztcC9NTZz6iJQJx1yKVa) | 1:36 |
 | 44 | [DM](https://open.spotify.com/track/1PJoJPFAgO9W0xfCpxaG3D) | [Nathanael](https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9) | [DM](https://open.spotify.com/album/0aiIlgIS4A7nb90GVERKwo) | 3:16 |
 | 45 | [toukokuu](https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [toukokuu](https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x) | 1:31 |
 | 46 | [Viiniinmenevii naisii](https://open.spotify.com/track/5EECa0xVdWNjG9Lix0tTfk) | [Vahtera](https://open.spotify.com/artist/5bavKfuSixZTrpyxC0qmfj) | [Silti huominen tulee](https://open.spotify.com/album/24yfcMpeIgEMTc67cWMekn) | 3:18 |

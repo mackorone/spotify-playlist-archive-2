@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-513 songs - 1 day 0 hr 14 min
+514 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 |  |
 | [Forest Breath](https://open.spotify.com/track/72AWR4rSo3Rs9PsTV85t9f) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Breath](https://open.spotify.com/album/4y12ZOAShExtJ6x49TtkX3) | 3:41 | 2026-08-19 |  |
 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2026-04-03 |  |
-| [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 |  |
+| [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 | 2026-09-09 |
 | [Forest Harmonies](https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Forest Harmonies](https://open.spotify.com/album/6obYCVTwZFsqvyxtNUqSy0) | 3:10 | 2026-04-03 |  |
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2023-04-28 | 2025-05-22 |
 | [Forest Light](https://open.spotify.com/track/34IxmQ8weOEdwbDR3LN4eA) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [Forest Light](https://open.spotify.com/album/6OslZPWEAKF2fyezabsPlZ) | 2:35 | 2026-08-19 |  |
@@ -421,6 +421,7 @@
 | [Sphagnum](https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Sphagnum](https://open.spotify.com/album/5dV6q8LIdcS2D1MCdYqGOk) | 2:00 | 2026-02-23 | 2026-04-04 |
 | [Spirits of the Forest](https://open.spotify.com/track/7msLXwo8PXqnqgFJd4flKq) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Spirits of the Forest](https://open.spotify.com/album/5i6A1J1ux4zb7XKyOr6ODo) | 2:24 | 2026-02-23 | 2026-04-04 |
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-11 | 2025-10-16 |
+| [Spring](https://open.spotify.com/track/0oZXyfxCEbzYvGYCW30DlF) | [slowerlane](https://open.spotify.com/artist/5TCtVMGX05BJEZ3uSDGr9h) | [Spring](https://open.spotify.com/album/7bB5HEnnWKBRixQQqgyH5i) | 2:40 | 2026-08-19 |  |
 | [Spring Ambience](https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Spring Ambience](https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73) | 2:31 | 2025-05-16 | 2026-04-04 |
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-08 | 2026-04-04 |
 | [Stillness Within](https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Stillness Within](https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ) | 2:29 | 2026-01-08 | 2026-04-04 |

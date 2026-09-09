@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1044237,
+  "num_followers": 1044494,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "En El Area De Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Le Dije Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "El Maquinista",
         "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 188800,
       "name": "Ayer La Vi Por La Calle",
       "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "En El Area De Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Le Dije Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Camino Equivocado",
-        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Avi\u00e9ntame",
-      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 190360,
       "name": "El Rey De Mil Coronas",
       "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Camino Equivocado",
+        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Avi\u00e9ntame",
+      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Me Nacio Del Alma",
-        "url": "https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1"
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Me Naci\u00f3 Del Alma",
-      "url": "https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY"
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+        "name": "Me Nacio Del Alma",
+        "url": "https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+      "duration_ms": 156386,
+      "name": "Me Naci\u00f3 Del Alma",
+      "url": "https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "S\u00f3lo Exitos una Pagina Mas",
-        "url": "https://open.spotify.com/album/5x828YRyGbYuMxm8RNPyon"
-      },
-      "artists": [
-        {
-          "name": "Chuy Vega Y Los Nuevos Cadetes",
-          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
-        }
-      ],
-      "duration_ms": 177841,
-      "name": "Aquel Amor",
-      "url": "https://open.spotify.com/track/6Syhx2jXvL0jjSdh8RsP8q"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "S\u00f3lo Exitos una Pagina Mas",
+        "url": "https://open.spotify.com/album/5x828YRyGbYuMxm8RNPyon"
+      },
+      "artists": [
+        {
+          "name": "Chuy Vega Y Los Nuevos Cadetes",
+          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
+        }
+      ],
+      "duration_ms": 177841,
+      "name": "Aquel Amor",
+      "url": "https://open.spotify.com/track/6Syhx2jXvL0jjSdh8RsP8q"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Una Noche Me Embriague y Muchos Exitos Mas",
-        "url": "https://open.spotify.com/album/6WvT8Q7vYy8zVVA2IACjjy"
-      },
-      "artists": [
-        {
-          "name": "Los Marineros del Norte",
-          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "La Novia Del Pajarillo",
-      "url": "https://open.spotify.com/track/03S0tX8ZsKI2vAoWfU4x4Y"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2H83T51ahRk16QOyjsLxvx"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Una Noche Me Embriague y Muchos Exitos Mas",
+        "url": "https://open.spotify.com/album/6WvT8Q7vYy8zVVA2IACjjy"
+      },
+      "artists": [
+        {
+          "name": "Los Marineros del Norte",
+          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "La Novia Del Pajarillo",
+      "url": "https://open.spotify.com/track/03S0tX8ZsKI2vAoWfU4x4Y"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Una Noche Me Embriague y Muchos Exitos Mas",
-        "url": "https://open.spotify.com/album/6WvT8Q7vYy8zVVA2IACjjy"
-      },
-      "artists": [
-        {
-          "name": "Los Marineros del Norte",
-          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "Una Noche Me Embriague",
-      "url": "https://open.spotify.com/track/3bpxsSIvnez9vF3CZv2evO"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/1y8Ha4gflL877QQ1MViILD"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/1ZsR2xBtTRG1y9Xu2TLgDn"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Una Noche Me Embriague y Muchos Exitos Mas",
+        "url": "https://open.spotify.com/album/6WvT8Q7vYy8zVVA2IACjjy"
+      },
+      "artists": [
+        {
+          "name": "Los Marineros del Norte",
+          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "Una Noche Me Embriague",
+      "url": "https://open.spotify.com/track/3bpxsSIvnez9vF3CZv2evO"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2883,8 +2883,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
+        "name": "Seis Rosas Amarillas",
+        "url": "https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf"
       },
       "artists": [
         {
@@ -2892,9 +2892,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 144426,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
+      "duration_ms": 141200,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/5pXmkweVbVGC5q7X6jxO0Z"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2963,8 +2963,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Seis Rosas Amarillas",
-        "url": "https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf"
+        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
       },
       "artists": [
         {
@@ -2972,9 +2972,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 141200,
-      "name": "No Porque Seas T\u00fa",
-      "url": "https://open.spotify.com/track/5pXmkweVbVGC5q7X6jxO0Z"
+      "duration_ms": 144426,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3712,9 +3712,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 164480,
-      "name": "Los Barandales Del Puente",
-      "url": "https://open.spotify.com/track/40zHq35NA61BUHZnrVCALe"
+      "duration_ms": 165680,
+      "name": "Amorcito Norte\u00f1o",
+      "url": "https://open.spotify.com/track/1b4WW2ebYVrg41IU33fUCw"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3792,9 +3792,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 165680,
-      "name": "Amorcito Norte\u00f1o",
-      "url": "https://open.spotify.com/track/1b4WW2ebYVrg41IU33fUCw"
+      "duration_ms": 164480,
+      "name": "Los Barandales Del Puente",
+      "url": "https://open.spotify.com/track/40zHq35NA61BUHZnrVCALe"
     },
     {
       "added_at": "2026-03-10 01:04:29",

@@ -6151,6 +6151,28 @@
     },
     {
       "album": {
+        "name": "Ponto Fraco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L"
+      },
+      "artists": [
+        {
+          "name": "Duda Bertelli",
+          "url": "https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125998,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY"
+    },
+    {
+      "album": {
         "name": "Ponto G",
         "url": "https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R"
       },

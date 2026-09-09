@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: TAEMIN) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: MINHO) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -4556,6 +4556,24 @@
       "duration_ms": 203013,
       "name": "Don't hesitate",
       "url": "https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU"
+    },
+    {
+      "album": {
+        "name": "CONFETTI",
+        "url": "https://open.spotify.com/album/2fAzHTQSUcSWy6kE8jgJ9r"
+      },
+      "artists": [
+        {
+          "name": "VERIVERY",
+          "url": "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Don't Panic!",
+      "url": "https://open.spotify.com/track/2iIpjlEWePSLiA1Wa46hM0"
     },
     {
       "album": {
@@ -10231,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "Make it hot - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/2P6CBXbbiWNv9CXVAXSy6z"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Make it hot",
+      "url": "https://open.spotify.com/track/06ZgGUzxTQ27mkYKvXcoZU"
+    },
+    {
+      "album": {
         "name": "MAXIS BY RYAN JHUN PT. 1",
         "url": "https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc"
       },
@@ -10502,7 +10538,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 158813,
       "name": "Mmchk",
       "url": "https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82"
@@ -14984,7 +15020,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"

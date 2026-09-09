@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-743 songs - 1 day 14 hr 58 min
+744 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Brown Noise Thunderstorm](https://open.spotify.com/track/6vANG8Nd4jWuceVBW0qbIP) | [Breez Bing](https://open.spotify.com/artist/6etNuBwGVHTfpyZmaoZHFH) | [Brown Noise Oasis](https://open.spotify.com/album/4xagPuzcbr1yU6lqSJYgqa) | 2:48 | 2023-01-27 |  |
 | [Brown Noise Tranquil Mind](https://open.spotify.com/track/4w3MPe2mBxO6cVSINTBW5B) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:02 | 2022-11-18 | 2026-08-15 |
 | [Brown Noise Tunnel](https://open.spotify.com/track/3xJdA7Nq7J6VvPtdxyjBot) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Brown Noise Tunnel](https://open.spotify.com/album/3Ncdjt0dxhi49771DRE8c1) | 2:26 | 2026-03-31 |  |
+| [Brown Noise Warm Amber](https://open.spotify.com/track/1zEqGtYSbmV5ICTNGtI8dO) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Brown Noise Warm Amber](https://open.spotify.com/album/2aYRfxPYgfCwc3OmC7joiM) | 2:42 | 2026-08-14 |  |
 | [Brown Noise Waterfall](https://open.spotify.com/track/4D8NrgPfpaVDgYL5RGIJ66) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Calm Noise](https://open.spotify.com/album/6ZHA1t28vnQkY5Oj23WsVV) | 2:50 | 2021-12-01 | 2022-12-21 |
 | [Brown Noise Zen](https://open.spotify.com/track/3CTBLZaFX89g0ZJ737a6lF) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:41 | 2022-06-03 |  |
 | [Brown Oceanic Noise 340 Hz \- Seamless](https://open.spotify.com/track/21d1Gbp9u8SiupUfAImyBL) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Brown Noise](https://open.spotify.com/album/69iNf6AZ6JpFJUktVcoTdv) | 3:04 | 2022-11-18 | 2026-08-15 |
@@ -324,7 +325,7 @@
 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 | 2022-09-08 | 2023-12-06 |
 | [Flowing Pink Noise](https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [Baby Sleep Noise Kit](https://open.spotify.com/album/3tMcFcLTvWGZHNUfcBvDFS) | 2:14 | 2021-12-01 | 2025-11-14 |
 | [Fluffy Pink](https://open.spotify.com/track/4u9d04CkITBZq0CKxouPOP) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Pink Dreams](https://open.spotify.com/album/53KCxVWdq7Zd0Swxzgbzac) | 3:11 | 2022-08-02 | 2025-10-02 |
-| [Fluffy Wide Pink](https://open.spotify.com/track/0UaDJ82Q6KKzYTpEFEBtcl) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Fluffy Noise](https://open.spotify.com/album/1fk48vtyGj4jzJhXz0TXjB) | 2:52 | 2022-12-20 |  |
+| [Fluffy Wide Pink](https://open.spotify.com/track/0UaDJ82Q6KKzYTpEFEBtcl) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Fluffy Noise](https://open.spotify.com/album/1fk48vtyGj4jzJhXz0TXjB) | 2:52 | 2022-12-20 | 2026-09-09 |
 | [Flying High with Pink Noise](https://open.spotify.com/track/6s1DzDttinDY6648Ar5IQk) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:28 | 2022-08-02 | 2026-06-27 |
 | [Focus Freq.](https://open.spotify.com/track/6rQMUEV7zrz3KbzDXRoRwF) | [Ambient Eclipse](https://open.spotify.com/artist/5kfu1YGIiPo81N6z7ipvOB) | [Focus Freq.](https://open.spotify.com/album/44qDPoC3RbYTMzqxQmH74P) | 2:47 | 2022-12-20 |  |
 | [Focus Pink Noise](https://open.spotify.com/track/0e4GdvXP29UfAK0NvO5CrO) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Focus Pink](https://open.spotify.com/album/3JtuwlW560YM6fO29fCszu) | 2:54 | 2022-12-20 |  |

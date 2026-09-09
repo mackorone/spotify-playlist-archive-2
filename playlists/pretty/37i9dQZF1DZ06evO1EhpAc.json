@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9735,
+  "num_followers": 9733,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADI242xByiCbjzkitC69t6n",
+  "snapshot_id": "ap3+gAAAAAB5cjRF4HFNY4lW6J4N6+v/",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe In Ya",
-        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Girl Talk",
-          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
-        }
-      ],
-      "duration_ms": 179089,
-      "name": "Believe In Ya",
-      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/5uqvTMO6KZ2mvLVwAWM6dA"
       },
@@ -155,6 +131,30 @@
       "duration_ms": 202537,
       "name": "One More",
       "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe In Ya",
+        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        }
+      ],
+      "duration_ms": 179089,
+      "name": "Believe In Ya",
+      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Your Fantasy (Remix)",
         "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -351,26 +351,6 @@
       "duration_ms": 172613,
       "name": "Done (Let's Get It)",
       "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New York 93 (Baba Stiltz Remix)",
-        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Baba Stiltz",
-          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
-        }
-      ],
-      "duration_ms": 355121,
-      "name": "New York 93 (Baba Stiltz Remix)",
-      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
     },
     {
       "added_at": null,
@@ -395,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "name": "New York 93 (Baba Stiltz Remix)",
+        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
       "artists": [
         {
@@ -404,33 +384,13 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         },
         {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        },
-        {
-          "name": "G.L.A.M.",
-          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
         }
       ],
-      "duration_ms": 186873,
-      "name": "SPELL \uc8fc\ubb38",
-      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Submerge FM",
-      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+      "duration_ms": 355121,
+      "name": "New York 93 (Baba Stiltz Remix)",
+      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
     },
     {
       "added_at": null,
@@ -451,6 +411,46 @@
       "duration_ms": 254507,
       "name": "Year to Year",
       "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "G.L.A.M.",
+          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
+        }
+      ],
+      "duration_ms": 186873,
+      "name": "SPELL \uc8fc\ubb38",
+      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 155116,
-      "name": "Feelings Change",
-      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 155116,
+      "name": "Feelings Change",
+      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 127487,
       "name": "Do You See Me",
       "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
       "duration_ms": 162459,
       "name": "WHEN I GROW UP",
       "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,
@@ -723,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PAC-TIVE",
+        "url": "https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "DiAN",
+          "url": "https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ"
+        }
+      ],
+      "duration_ms": 122108,
+      "name": "PAC-TIVE",
+      "url": "https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -743,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAC-TIVE",
-        "url": "https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW"
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "DiAN",
-          "url": "https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ"
         }
       ],
-      "duration_ms": 122108,
-      "name": "PAC-TIVE",
-      "url": "https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     }
   ],
   "unique_name": "This Is Yaeji",

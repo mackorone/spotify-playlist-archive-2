@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-274 songs - 8 hr 40 min
+276 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,8 @@
 | [Catgirl Anthem](https://open.spotify.com/track/4WWwVDleSyJ02e7uNumpJS) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Flowmotionyt](https://open.spotify.com/artist/0u0LOv8v5XscTVMQT2i6jl) | [Catgirl Anthem](https://open.spotify.com/album/1DxbwM9DB2JowbeZ2pmTT9) | 2:38 | 2024-09-07 |  |
 | [celebrity](https://open.spotify.com/track/55PRekiHsbKlOZjtbJ3dek) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:20 | 2023-12-05 |  |
 | [celebrity \- Instrumental](https://open.spotify.com/track/3eJygvjh7lKznlCnvzzoGx) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:17 | 2023-12-05 |  |
+| [certainty](https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 | 2026-09-08 |  |
+| [certainty \- Instrumental Version](https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 | 2026-09-08 |  |
 | [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2023-12-05 |  |
 | [cooking for one](https://open.spotify.com/track/6w0yINXIxgrGVw9Crio4om) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 0:46 | 2026-01-23 |  |
 | [cool dude](https://open.spotify.com/track/0ggPzhBDbmYW7f8VlXGYtd) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:22 | 2026-01-22 |  |

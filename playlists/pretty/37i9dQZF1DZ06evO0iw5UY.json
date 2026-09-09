@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAACiHRX7j5JNWGllF20KuURO",
+  "snapshot_id": "ap3+gAAAAABrVMbx7ZxHrajnKnWnpXhx",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Live for the Night",
-      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
+      "duration_ms": 211693,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 211693,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
+      "duration_ms": 206480,
+      "name": "Live for the Night",
+      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Falling rain",
+      "url": "https://open.spotify.com/track/2zxeefhhrdwJOz7H8MLLcW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
@@ -387,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PEAK",
         "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
@@ -399,34 +431,6 @@
       "duration_ms": 220500,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/7uMqKmDyNB03BNCAJJ0BkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crying On The Dancefloor (Matrix & Futurebound Remix)",
-        "url": "https://open.spotify.com/album/1p8NwUCRGnRQ5SPgZb9lNT"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Matrix & Futurebound",
-          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
-        },
-        {
-          "name": "Matrix",
-          "url": "https://open.spotify.com/artist/3Z5ml7uZK8sG3jCu9oL8jK"
-        },
-        {
-          "name": "Futurebound",
-          "url": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Crying On The Dancefloor - Matrix & Futurebound Remix",
-      "url": "https://open.spotify.com/track/5BGuQnjP0iZDQHk3AW1Hpc"
     },
     {
       "added_at": null,
@@ -447,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Sacred",
-        "url": "https://open.spotify.com/album/69VqvgJmhI2M7C8c1REEmj"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 275309,
-      "name": "Something Sacred",
-      "url": "https://open.spotify.com/track/6gXUbbYtO1yBdNzXuzSRD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Falling rain",
-      "url": "https://open.spotify.com/track/2zxeefhhrdwJOz7H8MLLcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -491,22 +463,6 @@
       "duration_ms": 186965,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
     },
     {
       "added_at": null,
@@ -543,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
       "artists": [
         {
@@ -552,9 +508,25 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Sacred",
+        "url": "https://open.spotify.com/album/69VqvgJmhI2M7C8c1REEmj"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 275309,
+      "name": "Something Sacred",
+      "url": "https://open.spotify.com/track/6gXUbbYtO1yBdNzXuzSRD9"
     },
     {
       "added_at": null,
@@ -583,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "where did U go?",
+      "url": "https://open.spotify.com/track/2BKJ0bxy1jKpSq8jhlRlEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -603,22 +591,6 @@
       "duration_ms": 162030,
       "name": "New World",
       "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "where did U go?",
-      "url": "https://open.spotify.com/track/2BKJ0bxy1jKpSq8jhlRlEC"
     },
     {
       "added_at": null,
@@ -663,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "TILL IT HITS!",
+      "url": "https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
@@ -683,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
       "artists": [
         {
@@ -692,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 187200,
-      "name": "TILL IT HITS!",
-      "url": "https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO"
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -715,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
       "artists": [
         {
@@ -724,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
+      "duration_ms": 258600,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/3AkFGsjpG1R72MRJZcQTg9"
     },
     {
       "added_at": null,
@@ -747,22 +735,6 @@
       "duration_ms": 227880,
       "name": "Beggars",
       "url": "https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 51200,
-      "name": "lost in Paraty (intro)",
-      "url": "https://open.spotify.com/track/0tpoD2qzC3QLVJAV43QdUe"
     },
     {
       "added_at": null,
@@ -859,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United Kids of the World (feat. Krewella)",
-        "url": "https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "United Kids of the World (feat. Krewella)",
-      "url": "https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't That Why (Skytech Remix)",
         "url": "https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV"
       },
@@ -899,6 +851,26 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United Kids of the World (feat. Krewella)",
+        "url": "https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "United Kids of the World (feat. Krewella)",
+      "url": "https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37"
     },
     {
       "added_at": null,
@@ -995,6 +967,22 @@
       "duration_ms": 208240,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "TH2C",
+      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
     }
   ],
   "unique_name": "This Is Krewella",

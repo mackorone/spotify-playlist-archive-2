@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Oria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,426 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,410 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 30 | [Moitié les mêmes](https://open.spotify.com/track/5bvqmfsknupgemx1eTlOFz) | [Victorien](https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE) | [Moitié les mêmes](https://open.spotify.com/album/6PXiQIVz7ZBKeDXMbbPoGl) | 2:58 |
 | 31 | [mAnIAc](https://open.spotify.com/track/1uMISOROzvfKs1i2292HOn) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [mAnIAc](https://open.spotify.com/album/5AmHvTK4lO5DLy8mHZN8RM) | 3:24 |
 | 32 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 |
-| 33 | [Tout pour toi](https://open.spotify.com/track/0HLGxzEdvtskPHP0H9PPvv) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Elisa Palmire](https://open.spotify.com/artist/3lq3wPMNtvu25QrtFqhluu) | [Tout pour toi](https://open.spotify.com/album/1CqSrchd9eXoY4gHHMOYdP) | 2:56 |
+| 33 | [tout pour toi](https://open.spotify.com/track/0HLGxzEdvtskPHP0H9PPvv) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Elisa Palmire](https://open.spotify.com/artist/3lq3wPMNtvu25QrtFqhluu) | [Tout pour toi](https://open.spotify.com/album/1CqSrchd9eXoY4gHHMOYdP) | 2:56 |
 | 34 | [Atlas](https://open.spotify.com/track/16Pa5nSoPMvwzspLJh4i0q) | [Margot](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Atlas](https://open.spotify.com/album/4G58xLrNEwFLX07lqtu7IL) | 2:25 |
 | 35 | [chambre d'ado](https://open.spotify.com/track/7qbr3dwkMiCLUx4e1WnBKD) | [melissa](https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba) | [tout va bien \(jcrois\)](https://open.spotify.com/album/3xTuNXYehyPW7Ta6M08b4h) | 3:01 |
 | 36 | [Tu restes là](https://open.spotify.com/track/7Gptk4gZ0zktQdhhjieIOh) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Tu restes là](https://open.spotify.com/album/2LTXGRQ4JERB1G6y2S4XMA) | 3:08 |

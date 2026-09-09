@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+    },
+    {
+      "album": {
         "name": "Bariere (Remix)",
         "url": "https://open.spotify.com/album/2nlmZMdJKuKoCPTHOxXXUI"
       },
@@ -1869,6 +1891,28 @@
     },
     {
       "album": {
+        "name": "CARAIBE",
+        "url": "https://open.spotify.com/album/0KMPfUlLGJN71fzyuBxRfY"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "CARAIBE",
+      "url": "https://open.spotify.com/track/25aZ8v8QmMRHQFrpG5BftI"
+    },
+    {
+      "album": {
         "name": "Caramela",
         "url": "https://open.spotify.com/album/34Rqf2STHPVOCs7HuKP30t"
       },
@@ -1978,7 +2022,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 211967,
       "name": "Ce S-A Intamplat Cu Noi",
       "url": "https://open.spotify.com/track/4DTuzPQcPAJCvM4mbfAmkn"
@@ -2036,7 +2080,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 149387,
       "name": "Ceai langa tine",
       "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
@@ -2982,7 +3026,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -3098,7 +3142,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 240000,
       "name": "De Dorul Tau",
       "url": "https://open.spotify.com/track/6GWGjOnlKZRGQToYlnqvac"
@@ -4023,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "ES EL MADATORRICELLI",
+        "url": "https://open.spotify.com/album/2dEXqEfO5bRUyxLtzqmtvl"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Flat Beats",
+          "url": "https://open.spotify.com/artist/115sRQUDPv3C53NhRPoPfp"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "ES EL MADATORRICELLI",
+      "url": "https://open.spotify.com/track/5kaQPHgvExgs6U3Kq4o5fo"
+    },
+    {
+      "album": {
         "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
       },
@@ -4778,6 +4844,24 @@
       "duration_ms": 153641,
       "name": "Hai, Rom\u00e2nia!",
       "url": "https://open.spotify.com/track/3JW630Ce4LbN0w6kkPyEJG"
+    },
+    {
+      "album": {
+        "name": "Hazolina",
+        "url": "https://open.spotify.com/album/4upj57p63IS1nFebjr0S3E"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Hazolina",
+      "url": "https://open.spotify.com/track/5NMilcHFhhivtUCwqoASI0"
     },
     {
       "album": {
@@ -5752,6 +5836,50 @@
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227401,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+    },
+    {
+      "album": {
+        "name": "B.U.G. Mafia Prezinta Casa",
+        "url": "https://open.spotify.com/album/1cIdztckCGQOeGrou4xOG4"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Luchian",
+          "url": "https://open.spotify.com/artist/2g6ylSUiWoWbPRthCgHQoI"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "La Furat (Toata Viata Mea) [feat. Luchian]",
+      "url": "https://open.spotify.com/track/58sQSb57vLiR5YKm9Ok34E"
     },
     {
       "album": {
@@ -8917,6 +9045,28 @@
     },
     {
       "album": {
+        "name": "Sheik Yo Body",
+        "url": "https://open.spotify.com/album/4kTTrLM15TobYToXLERtC6"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Adi Ploiesteanu",
+          "url": "https://open.spotify.com/artist/5tjo9S3AcLqbrLinGFtblY"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148688,
+      "name": "Sheik Yo Body",
+      "url": "https://open.spotify.com/track/3lalW2qJFjoMXtFTUFQLt8"
+    },
+    {
+      "album": {
         "name": "Shot",
         "url": "https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE"
       },
@@ -9290,7 +9440,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 196874,
       "name": "SOLO TU",
       "url": "https://open.spotify.com/track/2VfBwNlaw7CaWmMMNpGcwR"
@@ -9362,7 +9512,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
@@ -9674,7 +9824,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) - from the Netflix film KPop Demon Hunters",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -10183,6 +10333,24 @@
     },
     {
       "album": {
+        "name": "Dua Lipa - Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220937,
+      "name": "Training Season (Live from the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
+    },
+    {
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
@@ -10514,7 +10682,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 137431,
       "name": "UP",
       "url": "https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE"
@@ -10576,7 +10744,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 155500,
       "name": "Vara nu e vara",
       "url": "https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE"
@@ -11388,6 +11556,28 @@
       "duration_ms": 175978,
       "name": "\u00cenc\u0103 Ne Iubim",
       "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"
+    },
+    {
+      "album": {
+        "name": "\u0218tiu ce vrea",
+        "url": "https://open.spotify.com/album/69BwQOKhEo8yl3kH3QoOY2"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "\u0218tiu ce vrea",
+      "url": "https://open.spotify.com/track/45hU35nsO2MS8coV6qN4ns"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Akanksha Sethi
 
-373 songs - 20 hr 31 min
+374 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Ban gayi main teri piya](https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Ban gayi main teri piya](https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3) | 3:20 | 2025-11-26 | 2025-12-20 |
 | [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 | 2026-02-06 |  |
 | [BANNI](https://open.spotify.com/track/1DKcBVnaDg3tHBJEXovH4x) | [Aneesh](https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2), [Krtin Kay](https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1), [Kunnu](https://open.spotify.com/artist/5arO2RojBN2crCUwvzMZvV), [Gargei Lavekar](https://open.spotify.com/artist/3O4N0ZOr7YqsNV0qrUTTQa) | [BANNI](https://open.spotify.com/album/7JJaYuxxTkm2lcwWrYyFNh) | 2:05 | 2026-09-04 |  |
+| [Barsa](https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Barsa](https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f) | 3:26 | 2026-09-07 |  |
 | [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 | 2024-09-20 | 2025-09-17 |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-10 | 2026-07-03 |
 | [Bechaini](https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj) | [Bechaini](https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP) | 2:42 | 2024-04-02 | 2025-01-08 |
@@ -177,7 +178,7 @@
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-16 | 2023-08-01 |
 | [Kho Sa Gaya Hoon](https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kho Sa Gaya Hoon](https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N) | 2:07 | 2026-08-07 |  |
 | [Khone Do](https://open.spotify.com/track/0eei3Q3RLKtA9HkvYCQC7t) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:59 | 2024-04-05 | 2024-06-18 |
-| [Khota](https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khota](https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X) | 3:33 | 2026-07-10 |  |
+| [Khota](https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khota](https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X) | 3:33 | 2026-07-10 | 2026-09-09 |
 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 | 2025-09-13 |
 | [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 | 2023-12-15 | 2024-02-16 |
 | [KHU](https://open.spotify.com/track/08SW2nDqYzv6UOOtaoJdTE) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [KHU](https://open.spotify.com/album/3BOrCKOWf5DZklELAV6fnc) | 3:54 | 2023-08-11 | 2023-11-11 |

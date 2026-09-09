@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,476 songs - 2 day 15 hr 32 min
+1,477 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Not Lonely](https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Ella XO](https://open.spotify.com/artist/40TaxYEQCZ7OQVby4MaQUP) | [Not Lonely](https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q) | 3:03 | 2024-10-25 | 2026-04-17 |
 | [Not The Only One](https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Not The Only One](https://open.spotify.com/album/5MOh0lvL0EuY9xoTqpx6rt) | 2:20 | 2025-02-07 | 2025-03-15 |
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |
+| [Nothing Else Compares](https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Nothing Else Compares](https://open.spotify.com/album/0Lm6QN0OLtLkPjcKe4rA1h) | 2:27 | 2026-09-08 |  |
 | [Nothing To Lose](https://open.spotify.com/track/4qQLUPDmMNNq2YC2x3vKxl) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Brunette Drive](https://open.spotify.com/artist/0mUntOdsZg21k8143AH9N3), [Palma](https://open.spotify.com/artist/0HtAORWIjXSXCYcNy3aXDS), [TOZZ](https://open.spotify.com/artist/2ekk7QvrGs9H8B4s1VzfKY) | [Nothing To Lose](https://open.spotify.com/album/01NFHHRrwNyJW9h0e42j5n) | 2:23 | 2025-10-05 |  |
 | [notice me](https://open.spotify.com/track/7HZbjY2grEz4n7btH0ydiQ) | [beinghonest.](https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87) | [notice me](https://open.spotify.com/album/35dQSegtVUnfUt9WoK3Dkj) | 2:37 | 2025-04-11 | 2025-05-10 |
 | [Now I'm Gone](https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Now I'm Gone](https://open.spotify.com/album/1rCZsToVVv9nP1nuHOqpMd) | 2:30 | 2024-06-07 | 2024-07-14 |

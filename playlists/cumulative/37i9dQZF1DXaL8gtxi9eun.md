@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: زياد ظاظا
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: ويجز
 
-533 songs - 1 day 7 hr 28 min
+535 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bel Bont El3areedh](https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bel Bont El3areedh](https://open.spotify.com/album/6w5blHKUDHSspaKU5cuf9J) | 3:18 | 2022-05-04 | 2022-07-11 |
 | [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 | 2024-08-16 | 2025-05-16 |
 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 | 2022-05-04 | 2023-02-16 |
-| [BOSA](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [BOSA](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 | 2026-09-03 |  |
+| [Bosa](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Bosa](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 | 2026-09-03 |  |
 | [Btmanna Ansak](https://open.spotify.com/track/0yXKYYBPxOuakAOshy1cah) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Btmanna Ansak](https://open.spotify.com/album/5VSaFCbLM1mxocW2NADEiy) | 2:52 | 2025-12-30 | 2026-07-07 |
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-25 | 2023-07-12 |
 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 | 2022-12-29 | 2023-07-12 |
@@ -109,6 +109,7 @@
 | [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-25 | 2023-08-05 |
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-05-17 | 2023-05-26 |
 | [Eih Mastakfitsh](https://open.spotify.com/track/4FdE80MQin0VNEucCOyx7V) | [Hamada Majrshi](https://open.spotify.com/artist/56dos4HeHr1HpSmROilHHb) | [Eih Mastakfitsh](https://open.spotify.com/album/18vY1101trpdjYEOalqpPE) | 4:16 | 2026-07-13 | 2026-08-07 |
+| [Einy 3al Habib](https://open.spotify.com/track/5JbCMNt4gwXv44ZexW9hWv) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Einy 3al Habib](https://open.spotify.com/album/4ceN7SJfAusr3dQGQr8Gq7) | 3:12 | 2026-09-08 |  |
 | [EKDEB W OUL](https://open.spotify.com/track/160pEuFoT79CDoQf4q4MDv) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1) | [EKDEB W OUL](https://open.spotify.com/album/4ywsfJ6EGEtwg6TjmnY5MS) | 3:22 | 2026-08-17 |  |
 | [El Ayah](https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayah](https://open.spotify.com/album/30NGKVgfo8xRh6UugCieTv) | 3:30 | 2026-08-21 | 2026-09-04 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-05-18 |
@@ -119,6 +120,7 @@
 | [El Lazaza](https://open.spotify.com/track/7aFoVkwQUxxwhwcRG4eV3i) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [El Lazaza](https://open.spotify.com/album/1dCroOEz97iq3QptK2npvy) | 2:25 | 2026-07-22 |  |
 | [El Okd](https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [El Okd](https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj) | 3:38 | 2023-08-20 | 2023-08-22 |
 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 | 2023-08-03 |
+| [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 | 2026-09-08 |  |
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-02-15 | 2023-05-18 |
 | [Elhob W Bass](https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Elhob W Bass](https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG) | 5:20 | 2025-06-23 | 2026-07-07 |
 | [Elly Yemshy 3ady](https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Yemshy 3ady](https://open.spotify.com/album/3dYZ5ljeUeYlADvkX5V6b8) | 4:40 | 2022-05-04 | 2023-01-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: Nsqk",
-  "num_followers": 1543169,
+  "num_followers": 1542987,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
         "name": "HABLAR DE TI (...)",
         "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
-      },
-      "artists": [
-        {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
-        }
-      ],
-      "duration_ms": 187702,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
         "name": "milveces",
         "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 220800,
       "name": "milveces",
       "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 187702,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "Si Un D\u00eda Me Extra\u00f1as",
-        "url": "https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Si Un D\u00eda Me Extra\u00f1as",
-      "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "Finjo y estoy bien (Divisi\u00f3n A)",
-        "url": "https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx"
+        "name": "Si Un D\u00eda Me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd"
       },
       "artists": [
         {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
         }
       ],
-      "duration_ms": 235748,
-      "name": "SI NO EST\u00c1S T\u00da",
-      "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
+      "duration_ms": 206680,
+      "name": "Si Un D\u00eda Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -831,6 +811,26 @@
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
+        "name": "Finjo y estoy bien (Divisi\u00f3n A)",
+        "url": "https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 235748,
+      "name": "SI NO EST\u00c1S T\u00da",
+      "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
     },
     {
       "added_at": "2026-09-04 04:01:56",

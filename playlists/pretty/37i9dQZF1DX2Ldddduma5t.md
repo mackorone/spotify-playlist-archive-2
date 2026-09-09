@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,713 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,777 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
-| 2 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
-| 3 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
-| 4 | [one good thing](https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [one good thing](https://open.spotify.com/album/0izq3cdOEnJu9Y4CW0X5Gh) | 3:16 |
-| 5 | [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 |
-| 6 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
+| 1 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
+| 2 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
+| 3 | [one good thing](https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [one good thing](https://open.spotify.com/album/0izq3cdOEnJu9Y4CW0X5Gh) | 3:16 |
+| 4 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
+| 5 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
+| 6 | [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 |
 | 7 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 |
 | 8 | [Chrome Pony](https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Chrome Pony](https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4) | 3:24 |
 | 9 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 | 29 | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Fantasy \(Baby if u know me\) \(feat\. Kosmo Kint\)](https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl) | 3:09 |
 | 30 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 
-Snapshot ID: `AAAAANtLZpsQTeg1Ib5BZzomyI7T2q23`
+Snapshot ID: `AAAAANSB13urh+pPMLnu7ouY5KBXwS18`

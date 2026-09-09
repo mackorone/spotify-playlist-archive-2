@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zomer 2026 beleef je hier!
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,800 likes - 110 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,795 likes - 110 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

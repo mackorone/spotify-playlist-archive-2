@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAADoGYgS1zvYZw5zR4M7elp1",
+  "snapshot_id": "ap3+gAAAAAC6jvvRK/QNS8L2MLcjkk9M",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIONA",
-        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 188446,
-      "name": "FIONA",
-      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BELLAGIO",
         "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 158066,
       "name": "BELLAGIO",
       "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIONA",
+        "url": "https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 188446,
+      "name": "FIONA",
+      "url": "https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacando El Polvo",
-        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 241727,
-      "name": "Sacando El Polvo",
-      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
     },
     {
       "added_at": null,
@@ -551,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
     },
     {
       "added_at": null,

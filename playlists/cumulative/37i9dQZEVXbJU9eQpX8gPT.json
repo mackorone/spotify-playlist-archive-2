@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 224720,
       "name": "Africain",
       "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
@@ -9971,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "DEATH OF ME",
+        "url": "https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/7fguLMcnTfPK8qSKGNMTPF"
+    },
+    {
+      "album": {
         "name": "Deghri Deghri",
         "url": "https://open.spotify.com/album/3WcHikXDcd7HopAj1IVD7j"
       },
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 183043,
       "name": "DFN",
       "url": "https://open.spotify.com/track/2wS7w717hzJ31zgPtCVwXm"
@@ -18744,7 +18762,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -19038,7 +19056,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 250320,
       "name": "Kelma",
       "url": "https://open.spotify.com/track/7pJ1Dgg2PS2LChBgGFJv7Z"
@@ -28588,7 +28606,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 183999,
       "name": "OMAR",
       "url": "https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl"
@@ -33280,7 +33298,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 161666,
       "name": "Sahran lil",
       "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
@@ -38912,7 +38930,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "TWINS",
       "url": "https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln"

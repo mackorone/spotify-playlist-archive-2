@@ -4743,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Ebullience 004",
+        "url": "https://open.spotify.com/album/5IcTllM8oTQSid6WxoPwJk"
+      },
+      "artists": [
+        {
+          "name": "Rupert Ellis",
+          "url": "https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470909,
+      "name": "Deeper Blue",
+      "url": "https://open.spotify.com/track/1fSz1mn3E5Ip4GW9FSTkze"
+    },
+    {
+      "album": {
         "name": "Spiritually Tessellate",
         "url": "https://open.spotify.com/album/5ZxjjfaZJf0fW1aOmxtMmp"
       },
@@ -12696,7 +12714,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 202037,
       "name": "M.U.S.I.C",
       "url": "https://open.spotify.com/track/6QIHYxWiBHrznxiNWvnGnx"

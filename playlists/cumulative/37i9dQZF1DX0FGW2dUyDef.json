@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 127000,
       "name": "Diva",
       "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
@@ -2132,6 +2132,24 @@
       "duration_ms": 216000,
       "name": "D\u00e2r-\u0131 D\u00fcnya",
       "url": "https://open.spotify.com/track/4RJY7X7EgYVKYv0Fp1XJ3z"
+    },
+    {
+      "album": {
+        "name": "D\u00f6nd\u00fcm",
+        "url": "https://open.spotify.com/album/5gvjfCHsGMDwQBIXpPiOGI"
+      },
+      "artists": [
+        {
+          "name": "Bora Duran",
+          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205566,
+      "name": "D\u00f6nd\u00fcm",
+      "url": "https://open.spotify.com/track/2pc1hu3tfc90Ito191MM9J"
     },
     {
       "album": {
@@ -3576,6 +3594,28 @@
       "duration_ms": 172245,
       "name": "Kara Yaz\u0131",
       "url": "https://open.spotify.com/track/3baJJpuPE2m59HQWRRCPEy"
+    },
+    {
+      "album": {
+        "name": "karambol",
+        "url": "https://open.spotify.com/album/2ZBjdhZrB9zpD5c9eABnQp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207214,
+      "name": "karambol",
+      "url": "https://open.spotify.com/track/3pPPDBOwb5F9drPF09wthF"
     },
     {
       "album": {
@@ -5868,7 +5908,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 164690,
       "name": "Ta Burama",
       "url": "https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ"

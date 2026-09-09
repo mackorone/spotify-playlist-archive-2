@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Paula Santos",
+          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312426,
+      "name": "Na Comunh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b"
+    },
+    {
+      "album": {
         "name": "Ele \u00c9 Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
       },
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 477994,
       "name": "Reacende a Chama - Ao Vivo",
       "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"

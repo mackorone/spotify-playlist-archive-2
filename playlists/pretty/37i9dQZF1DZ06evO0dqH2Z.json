@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4908,
+  "num_followers": 4909,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAAAHBso0fb3mKTEv3i8xbtKo",
+  "snapshot_id": "ap3+gAAAAACwWiyNR9RDgIyZiHk+61ft",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 163924,
-      "name": "Hesitation",
-      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Brief Intermission in the Flattening of Time",
         "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 163924,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 164569,
-      "name": "New Detroit",
-      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 161386,
       "name": "Distress Signal",
       "url": "https://open.spotify.com/track/4Y3G7w3oCtXI2vLTa3YKaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 156089,
-      "name": "Cat's Cradle",
-      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 156089,
+      "name": "Cat's Cradle",
+      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 100613,
       "name": "Let Go/Trashed Floors",
       "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 189578,
-      "name": "Lemon Mouth",
-      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
     },
     {
       "added_at": null,
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 153589,
-      "name": "Commit",
-      "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
+      "duration_ms": 189578,
+      "name": "Lemon Mouth",
+      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 163080,
       "name": "Soft Spoken",
       "url": "https://open.spotify.com/track/6YGxFDZk1GqcALKfksQasQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 153589,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

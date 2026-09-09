@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 26864,
+  "num_followers": 26868,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apytAAAAAABnqL7TZryYpDk8ACCUURNC",
+  "snapshot_id": "ap3+gAAAAAC1W+rQUms9CrfzfuC8HtBM",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 254842,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 202181,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 254842,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u604b\u8863",
-        "url": "https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 212758,
-      "name": "\u604b\u8863",
-      "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 215866,
       "name": "18",
       "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u604b\u8863",
+        "url": "https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 212758,
+      "name": "\u604b\u8863",
+      "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u6587\u901a",
+        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
         "url": "https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6587\u901a",
-        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "\u6587\u901a",
-      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
     },
     {
       "added_at": null,

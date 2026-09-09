@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Favo, Yeat, Cuo Zay and more",
+  "description": "With Favo, Yeat, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 90649,
       "name": "FlatHead",
       "url": "https://open.spotify.com/track/4w5lUNhEm1t1y4Ghpr0lxf"
@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3986,7 +3986,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 139075,
       "name": "owe you",
       "url": "https://open.spotify.com/track/0na2GxmPZI7Gza6UbUgnSe"
@@ -4160,7 +4160,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
@@ -5465,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "ONEHITWONDER",
+        "url": "https://open.spotify.com/album/2Hi4ra06ThTZI2wVyKqLV4"
+      },
+      "artists": [
+        {
+          "name": "yvngGuda",
+          "url": "https://open.spotify.com/artist/1SovUsFMkRuWWExNh7I80p"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108871,
+      "name": "THEY HATE JERSEYCLUB",
+      "url": "https://open.spotify.com/track/5noOwYrbfWHC2TPo2uyxG7"
+    },
+    {
+      "album": {
         "name": "Unfakeable",
         "url": "https://open.spotify.com/album/6hhl9IdszW2BNYyJH01y2w"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 126647,
       "name": "Till i make a difference",
       "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"

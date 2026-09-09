@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,974 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,976 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 40 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 41 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 42 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 43 | [Humo](https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Andrés Melojo](https://open.spotify.com/artist/1ymKRveYirruiLxi6Ls8sS) | [Humo](https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG) | 3:48 |
-| 44 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 43 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 44 | [Humo](https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Andrés Melojo](https://open.spotify.com/artist/1ymKRveYirruiLxi6Ls8sS) | [Humo](https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG) | 3:48 |
 | 45 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 46 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 47 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 61 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |
 | 62 | [Ley Mordaza](https://open.spotify.com/track/1b3RZY4jJf5TNkTvnHP8d9) | [Kalerizo](https://open.spotify.com/artist/6QxQ8t4OrDpuGs9lfADhVH), [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Ley Mordaza](https://open.spotify.com/album/2uLKgreeEDiw4JuUOkIj76) | 4:16 |
 | 63 | [Todo Va a Arder](https://open.spotify.com/track/3VDCPhe5Iy1vOrDPYcEPIU) | [Alkayata](https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ), [Kata Kamikazes](https://open.spotify.com/artist/1FX6mA0d5LwHQcyPJiFPTK), [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Todo Va a Arder](https://open.spotify.com/album/3Y4uIciI2jvbhUJiElr4KC) | 3:01 |
-| 64 | [Síndrome de Trinchera](https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo) | [Bardeo](https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH) | [Síndrome de Trinchera](https://open.spotify.com/album/2VdR7bHFYYDmmr4Ch7KBbN) | 4:06 |
-| 65 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
+| 64 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 |
+| 65 | [Síndrome de Trinchera](https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo) | [Bardeo](https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH) | [Síndrome de Trinchera](https://open.spotify.com/album/2VdR7bHFYYDmmr4Ch7KBbN) | 4:06 |
 | 66 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
 | 67 | [Yo soy por ti](https://open.spotify.com/track/26jfRPNdiWuNJ6CFruoUB9) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Yo soy por ti](https://open.spotify.com/album/6Q9qPwKUDUBB3IpMRFCnlc) | 2:03 |
 | 68 | [Ayatolá del Rock](https://open.spotify.com/track/4LQ8ScRZWsOjtZXyP8C2Ns) | [Tokyo Blues](https://open.spotify.com/artist/4X9U15t9G0Cvasc2M6QFMV) | [Ayatolá del Rock](https://open.spotify.com/album/053o0eO2ikYG3S1bWMHiWu) | 2:38 |

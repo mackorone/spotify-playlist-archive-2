@@ -15923,6 +15923,28 @@
     },
     {
       "album": {
+        "name": "Pleine For\u00eat",
+        "url": "https://open.spotify.com/album/719tHn7FKQZ1CGB9XSaUYc"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Pleine For\u00eat",
+      "url": "https://open.spotify.com/track/78yKoEoR4pmj2CzXpfhYbF"
+    },
+    {
+      "album": {
         "name": "Take Carra Me",
         "url": "https://open.spotify.com/album/4pgyG6AnzwHi7PBug0Ohel"
       },

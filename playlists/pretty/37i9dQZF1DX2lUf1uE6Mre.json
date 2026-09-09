@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 908077,
+  "num_followers": 908050,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
-        "name": "Mungu",
-        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "Mungu",
-      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 141866,
       "name": "FUXWAVE",
       "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
+        "name": "Mungu",
+        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "Mungu",
+      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
     },
     {
       "added_at": "2026-08-31 06:37:26",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-08-31 06:37:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
         "name": "Kodex",
         "url": "https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 130909,
       "name": "KODEX",
       "url": "https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "added_at": "2026-08-31 06:37:26",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 151546,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
         "name": "Bend Over 2",
         "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 131428,
       "name": "Bend Over 2",
       "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 151546,
-      "name": "MARIA",
-      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
     },
     {
       "added_at": "2026-08-31 06:37:26",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
-        "name": "Wach",
-        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Wach",
-      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 118986,
       "name": "REDE",
       "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "added_at": "2026-08-31 06:37:26",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-08-31 06:37:26",
       "album": {
-        "name": "VILLAIN / EXCITING",
-        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
-      },
-      "artists": [
-        {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
-    },
-    {
-      "added_at": "2026-08-31 06:37:26",
-      "album": {
         "name": "Nasibi",
         "url": "https://open.spotify.com/album/6iEuRly5MXXah6gzgE78wN"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 137067,
       "name": "Nasibi",
       "url": "https://open.spotify.com/track/6S0gytfNPZSmJmTEbiPcKn"
+    },
+    {
+      "added_at": "2026-08-31 06:37:26",
+      "album": {
+        "name": "VILLAIN / EXCITING",
+        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+      },
+      "artists": [
+        {
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
     }
   ],
   "unique_name": "Shisha Club",

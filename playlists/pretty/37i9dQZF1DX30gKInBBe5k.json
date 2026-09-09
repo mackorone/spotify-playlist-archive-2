@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212035,
+  "num_followers": 212028,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "talking to flowers",
-        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
-      },
-      "artists": [
-        {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
-        }
-      ],
-      "duration_ms": 123047,
-      "name": "talking to flowers",
-      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Summer Sun",
         "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 334626,
       "name": "Today Is the Day",
       "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "talking to flowers",
+        "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 123047,
+      "name": "talking to flowers",
+      "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Control (Remastered)",
-        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 344160,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Control (Remastered)",
+        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Red House Painters I",
-        "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
-      },
-      "artists": [
-        {
-          "name": "Red House Painters",
-          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
-        }
-      ],
-      "duration_ms": 502866,
-      "name": "Katy Song",
-      "url": "https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "You Are Free",
-        "url": "https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6"
+        "name": "Magnolia Electric Co. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
         }
       ],
-      "duration_ms": 256293,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/2WEMLmGP6s5ZLccFD8lQGA"
+      "duration_ms": 471200,
+      "name": "Hold On Magnolia",
+      "url": "https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Red House Painters I",
+        "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
+      },
+      "artists": [
+        {
+          "name": "Red House Painters",
+          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
+        }
+      ],
+      "duration_ms": 502866,
+      "name": "Katy Song",
+      "url": "https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Magnolia Electric Co. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY"
+        "name": "You Are Free",
+        "url": "https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6"
       },
       "artists": [
         {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 471200,
-      "name": "Hold On Magnolia",
-      "url": "https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT"
+      "duration_ms": 256293,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/2WEMLmGP6s5ZLccFD8lQGA"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Didn't It Rain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM"
+      },
+      "artists": [
+        {
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+        }
+      ],
+      "duration_ms": 472613,
+      "name": "Didn't It Rain",
+      "url": "https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Spiderland",
         "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 315659,
       "name": "nail i couldn't bite",
       "url": "https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Didn't It Rain (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 472613,
-      "name": "Didn't It Rain",
-      "url": "https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS"
     },
     {
       "added_at": "2025-08-07 23:00:59",

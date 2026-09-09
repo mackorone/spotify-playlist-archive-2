@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-462 songs - 1 day 5 hr 48 min
+463 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Easy To Love](https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Easy To Love](https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV) | 4:00 | 2025-03-28 |  |
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-07-18 |  |
 | [Eko Eko \(DJ\-Kicks\)](https://open.spotify.com/track/0w8oXrxGo4XPwJVCB0sdVt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Eko Eko \(DJ\-Kicks\)](https://open.spotify.com/album/7ksd8Zlj95Ch6IBjxx5mC1) | 3:59 | 2025-04-11 | 2025-06-20 |
+| [Elation](https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Elation](https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3) | 3:32 | 2026-09-04 |  |
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 | 2023-06-10 |
 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 | 2025-03-07 |  |
@@ -315,7 +316,7 @@
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 |  |
 | [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 |  |
 | [Patti](https://open.spotify.com/track/4T5Z0tSggegOb89AORT6AM) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Patti](https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s) | 3:22 | 2021-07-24 | 2023-06-25 |
-| [Pawa!](https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Pawa!](https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3) | 4:06 | 2026-03-13 |  |
+| [Pawa!](https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Pawa!](https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3) | 4:06 | 2026-03-13 | 2026-09-09 |
 | [Petite Etoile](https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:35 | 2025-03-28 |  |
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-05-26 | 2023-07-09 |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 | 2023-05-19 | 2024-06-18 |

@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Emerald Rainforest Drips",
+        "url": "https://open.spotify.com/album/3xAZQ7pwT0Uq7FDrmvrlct"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Emerald Rainforest Drips",
+      "url": "https://open.spotify.com/track/6jZahGmiN5iJX3jiHGZRYy"
+    },
+    {
+      "album": {
         "name": "Sounds of the Jungle",
         "url": "https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-09",
       "duration_ms": 180000,
       "name": "Rain and Bird Sounds",
       "url": "https://open.spotify.com/track/1a2tFSMQyFHt8vSuQnFgl0"

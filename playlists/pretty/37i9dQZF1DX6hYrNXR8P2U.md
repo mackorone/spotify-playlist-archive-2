@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Broke Carrey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,491 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,327 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 2 | [En Vano](https://open.spotify.com/track/6R12ZDn9nyXSdKlT36EhQm) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [En Vano](https://open.spotify.com/album/2dRft0eBfDnPAJ1cegh0Vy) | 2:54 |
 | 3 | [Llora Llora](https://open.spotify.com/track/1VA1FJpD05AdUZImWC1zTk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Llora Llora](https://open.spotify.com/album/7tc7ZNwJYKXBPGxntsaMGS) | 4:03 |
 | 4 | [miss universo](https://open.spotify.com/track/5jAC6o32oJXDYk4uRtdGNH) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [miss universo](https://open.spotify.com/album/7f4vaflTTp2eL5m622wqJi) | 3:12 |
-| 5 | [Átomo](https://open.spotify.com/track/1sgwXutRSbeqSprRHF3OHT) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Átomo](https://open.spotify.com/album/2eqMFGNFaDQRRf6zL61WJa) | 4:23 |
+| 5 | [Átomo](https://open.spotify.com/track/1sgwXutRSbeqSprRHF3OHT) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Átomo](https://open.spotify.com/album/2eqMFGNFaDQRRf6zL61WJa) | 4:21 |
 | 6 | [Souvenir](https://open.spotify.com/track/71xBOUQwcnHusww25YOlHB) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [LA NUEVA VIOLENCIA](https://open.spotify.com/album/6OFtCmtiEuIhIXnwz5QTZk) | 3:56 |
 | 7 | [MOSTRAME TU HERIDA](https://open.spotify.com/track/0GvKO9FwC36jd68WtgGEC0) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [CARTAS DE AMOR](https://open.spotify.com/album/6euIRDQDgHu8VEX83IGetI) | 2:03 |
 | 8 | [Un papel en la heladera](https://open.spotify.com/track/6DYqNzaD9RdefOCOSS0q5v) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Un papel en la heladera](https://open.spotify.com/album/53K26ICfxacYdtvW00nOIL) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 98 | [CAPITÁN](https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CAPITÁN](https://open.spotify.com/album/79KU6YUJgSaDPo94AjqlKz) | 3:13 |
 | 99 | [Una Mañana Más](https://open.spotify.com/track/4bE74uhUpgxxMQxnqEOO0j) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Una Mañana Más](https://open.spotify.com/album/2RipfeES7U9HDusL4hQS9D) | 2:49 |
 
-Snapshot ID: `AAAAAP3Qqgnd5LSIUEmkUMX7sy25IOih`
+Snapshot ID: `AAAAABTjyh40wsop6RJ1v0BJlrbEB/2r`

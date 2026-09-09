@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34387,
+  "num_followers": 34389,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
-      },
-      "artists": [
-        {
-          "name": "Monica Sex",
-          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
         "name": "\u05db\u05de\u05d5 \u05d4\u05d3\u05d5\u05d1\u05d9\u05dd",
         "url": "https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y"
       },
@@ -859,18 +843,38 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
       },
       "artists": [
         {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
         }
       ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
+        "name": "\u05e0\u05d9\u05e6\u05df",
+        "url": "https://open.spotify.com/album/7nSMzoR5c5WU7dPE2tTVbi"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
+        },
+        {
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+        }
+      ],
+      "duration_ms": 235924,
+      "name": "\u05e0\u05d9\u05e6\u05df",
+      "url": "https://open.spotify.com/track/47OCPqYwCd6b4UNVsj64OJ"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

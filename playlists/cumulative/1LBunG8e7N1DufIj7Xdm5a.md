@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,758 songs - 10 day 17 hr 9 min
+4,760 songs - 10 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2502,6 +2502,7 @@
 | [Magnetic Fever](https://open.spotify.com/track/1XQIZrHl1aIsE08oDDvt8t) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 3:19 | 2025-09-19 |  |
 | [Magnetic Groove](https://open.spotify.com/track/2vaOKutQY18k0OokvotgEZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 4:09 | 2025-09-20 |  |
 | [Mai e poi Mai](https://open.spotify.com/track/2bwpadOoYx8ovBfLzpK4DD) | [Scarlet Novel](https://open.spotify.com/artist/7DgxkGmEK3o7DLhE91wGLT) | [Mai e poi Mai](https://open.spotify.com/album/4jed3Z6mZCqiftUvridcRI) | 2:47 | 2025-06-25 |  |
+| [MAJESTIC](https://open.spotify.com/track/04BNeVlgc24jUaHetyxndP) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [MAJESTIC](https://open.spotify.com/album/0kGz7FtryUYbc9Fcz4ZyZl) | 3:03 | 2026-09-08 |  |
 | [Make It Real](https://open.spotify.com/track/2AWancFaRM8vLW2qniBhWd) | [Sosino](https://open.spotify.com/artist/3N3Fm0hNW4lWeYysGAzFhL) | [Make It Real](https://open.spotify.com/album/35EkGgbw1mElzAHHEaqR7r) | 3:05 | 2025-06-04 |  |
 | [make it talk](https://open.spotify.com/track/5Ypz4UzvjqEZVhhsUCkPPP) | [moments](https://open.spotify.com/artist/4jXPwHGcQPGI7yQgFCPTkL) | [make it talk](https://open.spotify.com/album/6nfty6rS56sgKloRRHYJgB) | 2:41 | 2025-05-16 |  |
 | [Making Moves](https://open.spotify.com/track/0ZN09cJPjy0D93GziDLIlv) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [Making Moves](https://open.spotify.com/album/4EKRJ064meO2Rp6CABZKG5) | 2:43 | 2025-07-03 |  |
@@ -3141,6 +3142,7 @@
 | [Perfect score](https://open.spotify.com/track/0jgQU8xlIESx3GZn0qlldW) | [Cess](https://open.spotify.com/artist/19eEmlPdBf0H2B2IrnRK2Y) | [Perfect score](https://open.spotify.com/album/4twebpmlfFjkSrSR9EqUln) | 2:20 | 2025-12-04 |  |
 | [Peri](https://open.spotify.com/track/3k1pgfxcmHrZSE7VXnN8Av) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:34 | 2025-09-22 |  |
 | [Pericolo giallo](https://open.spotify.com/track/2HvyzMmiFEvjmQyyfkLeYx) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [Pericolo giallo](https://open.spotify.com/album/0NTgMryPXL9i5HOTRhACv7) | 2:55 | 2025-11-12 |  |
+| [Permission to Share \- Marcel Reps\-Gotsch Techno Remix](https://open.spotify.com/track/3lcmCPgjjC207jAZCYV0Kj) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6), [Marcel Reps\-Gotsch](https://open.spotify.com/artist/2XcSz6LiS3o85dYKEtQQ1Z) | [Permission to Share \(Marcel Reps\-Gotsch Techno Remix\)](https://open.spotify.com/album/2MFpVFNuuUrulvcrC16BCT) | 5:24 | 2026-09-09 |  |
 | [Perreo Sucio](https://open.spotify.com/track/1PiPXkHkzMZeuVAa6XFUSt) | [Dany Melki](https://open.spotify.com/artist/037AeZZVeAnTNITCescluf) | [Perreo Sucio](https://open.spotify.com/album/2AbmHbcHOHeJX0YUSmYjhd) | 2:28 | 2026-04-28 |  |
 | [Persi nel Ritmo](https://open.spotify.com/track/69iIP2OpNaWHvz4uQEe4Jq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:08 | 2025-09-12 |  |
 | [Personne n’est comme toi](https://open.spotify.com/track/3e9ZUp2zCG7rIjydxxU0fB) | [Carlo Furii](https://open.spotify.com/artist/79WFeSImI8x1pypmrMxTZM), [François Clavel](https://open.spotify.com/artist/6sbqnTkiftUTU1OxZ0PSGa) | [Personne n’est comme toi](https://open.spotify.com/album/3bgSwm3MR8gM2OWnGM5z4G) | 3:51 | 2025-07-01 |  |
