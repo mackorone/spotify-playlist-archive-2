@@ -3305,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "What Should I Name This",
+        "url": "https://open.spotify.com/album/5UCy77QScrnxdDPHdWUdF1"
+      },
+      "artists": [
+        {
+          "name": "Lil Cam 5 1",
+          "url": "https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163279,
+      "name": "What Should I Name This",
+      "url": "https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz"
+    },
+    {
+      "album": {
         "name": "When The Roots Don't Hold (2026 Remaster)",
         "url": "https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6925,
+  "num_followers": 6947,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABvAg3OQfy+f+w6BvGwQjuy",
+  "snapshot_id": "ap9QAAAAAABBd11aNmJpqKr2Bfu4xWJO",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 266840,
       "name": "Where Did It All Go Wrong?",
       "url": "https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go Let It Out",
-        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Let's All Make Believe",
-      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
     },
     {
       "added_at": null,

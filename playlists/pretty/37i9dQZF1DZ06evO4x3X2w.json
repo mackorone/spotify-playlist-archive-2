@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 724797,
+  "num_followers": 724820,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAB4+iYE7YyoF3rLg0/O1Knv",
+  "snapshot_id": "ap9QAAAAAAD//ZoiRrq42PDZrsaue6AH",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 269186,
-      "name": "Mama Kin",
-      "url": "https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0"
+      "duration_ms": 333662,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 333662,
-      "name": "Train Kept a Rollin'",
-      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
+      "duration_ms": 269186,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0"
     },
     {
       "added_at": null,

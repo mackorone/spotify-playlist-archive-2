@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 141410,
+  "num_followers": 141446,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAACqNjUvOSBt+OMxBYlJF6EK",
+  "snapshot_id": "ap9QAAAAAACkJQmrvcVGXE3z3TRNsTFV",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 191888,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
+      "duration_ms": 191888,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Jason Derulo, The Second Voice, Qing Madi
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,764 likes - 296 songs - 14 hr 39 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,757 likes - 296 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LET ME BE](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
+| 1 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
 | 2 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
 | 3 | [Bette Davis Eyes](https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD) | [Chase Maverix](https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC) | [Bette Davis Eyes](https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4) | 2:57 |
 | 4 | [Breathless](https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Breathless](https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO) | 2:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 24578,
+  "num_followers": 24580,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Princesses nubiennes",
+        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
+      },
+      "artists": [
+        {
+          "name": "Les Nubians",
+          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Demain jazz",
+      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 431133,
       "name": "Happy Feelin's",
       "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Princesses nubiennes",
-        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
-      },
-      "artists": [
-        {
-          "name": "Les Nubians",
-          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Demain jazz",
-      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Action Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Milk",
-          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Action Speaks Louder Than Words",
-      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "gold fronts (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235978,
       "name": "gold fronts (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Action Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Milk",
+          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Action Speaks Louder Than Words",
+      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",

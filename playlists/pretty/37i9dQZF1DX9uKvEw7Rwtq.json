@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 127477,
+  "num_followers": 127490,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "The First Glimmer of Wind",
+      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "The First Glimmer of Wind",
-      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Timewave Zero",
-        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Ea: First Movement",
-      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "The Ever Shifting Fields",
         "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 277133,
       "name": "In Collusion with the Waves",
       "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Timewave Zero",
+        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Ea: First Movement",
+      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209115,
       "name": "Release",
       "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -971,22 +971,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
       "artists": [
         {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
         }
       ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1007,34 +1003,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
       "artists": [
         {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
-      },
-      "artists": [
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
         {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1067,6 +1051,22 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "The Blurred Horizon",
         "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
       },
       "artists": [
         {
-          "name": "mieke?",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
         }
       ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1195,6 +1179,22 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+      },
+      "artists": [
+        {
+          "name": "mieke?",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 420330,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1387,22 +1403,6 @@
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
-      },
-      "artists": [
-        {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "The Choir",
+          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
         }
       ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+      "duration_ms": 366000,
+      "name": "Watching Feathers Float",
+      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "growing up",
         "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 157755,
       "name": "growing up",
       "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Translucent",
-        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
-      },
-      "artists": [
-        {
-          "name": "The Choir",
-          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Watching Feathers Float",
-      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
     },
     {
       "added_at": "2026-05-29 04:00:33",

@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Jim Gardner",
-  "num_followers": 2025,
+  "num_followers": 2029,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Gebruiksaanwijzing",
-        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
-      },
-      "artists": [
-        {
-          "name": "Marieke Schenk",
-          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
-        }
-      ],
-      "duration_ms": 162321,
-      "name": "Gebruiksaanwijzing",
-      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Wie weet",
         "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 195459,
       "name": "Wie weet",
       "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Gebruiksaanwijzing",
+        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
+      },
+      "artists": [
+        {
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
+        }
+      ],
+      "duration_ms": 162321,
+      "name": "Gebruiksaanwijzing",
+      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "okaydokay_",
-        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
-      },
-      "artists": [
-        {
-          "name": "Magazines",
-          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "okaydokay_",
-      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Bad Mood",
         "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 186400,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "okaydokay_",
+        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "okaydokay_",
+      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Fabienne",
-          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
-        }
-      ],
-      "duration_ms": 187787,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "They Want To See You Fall",
         "url": "https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 142946,
       "name": "Digital Prison",
       "url": "https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Fabienne",
+          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
+        }
+      ],
+      "duration_ms": 187787,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
+        "name": "The Circle Ends Where It Began",
+        "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
       },
       "artists": [
         {
-          "name": "Gus Walker",
-          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
+          "name": "Semuta",
+          "url": "https://open.spotify.com/artist/7doMHVicETTTudF6j6jXYI"
         }
       ],
-      "duration_ms": 211339,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
+      "duration_ms": 253292,
+      "name": "This Change Is Bigger Than Us",
+      "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -727,6 +727,38 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+      },
+      "artists": [
+        {
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
+      },
+      "artists": [
+        {
+          "name": "Gus Walker",
+          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
+        }
+      ],
+      "duration_ms": 211339,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Gingah",
         "url": "https://open.spotify.com/album/3DnQQs5TlPMctrgqNs5oog"
       },
@@ -743,38 +775,6 @@
       "duration_ms": 136969,
       "name": "Gingah",
       "url": "https://open.spotify.com/track/5CiI5CS7yLfEq94B8rcTzo"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "The Circle Ends Where It Began",
-        "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
-      },
-      "artists": [
-        {
-          "name": "Semuta",
-          "url": "https://open.spotify.com/artist/7doMHVicETTTudF6j6jXYI"
-        }
-      ],
-      "duration_ms": 253292,
-      "name": "This Change Is Bigger Than Us",
-      "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
-      },
-      "artists": [
-        {
-          "name": "Wilson A.",
-          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
-      },
-      "artists": [
-        {
-          "name": "Gilly",
-          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -875,6 +859,38 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
+      },
+      "artists": [
+        {
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
+        }
+      ],
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+      },
+      "artists": [
+        {
+          "name": "Gilly",
+          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Kleine Liefde",
         "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
+        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
+      },
+      "artists": [
+        {
+          "name": "Coalmine Canary",
+          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "bandnamegenerator",
+      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "Vallen",
         "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
-      },
-      "artists": [
-        {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
-        }
-      ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -943,22 +959,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
-        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
-      },
-      "artists": [
-        {
-          "name": "Coalmine Canary",
-          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "bandnamegenerator",
-      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 165784,
       "name": "Trepanationforthenationalhealth",
       "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "leave the party . \u0741\u208a \u22b9 .",
-        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
-      },
-      "artists": [
-        {
-          "name": "Nelles",
-          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
-        }
-      ],
-      "duration_ms": 201434,
-      "name": "leave the party . \u0741\u208a \u22b9 .",
-      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
+        "name": "leave the party . \u0741\u208a \u22b9 .",
+        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
+      },
+      "artists": [
+        {
+          "name": "Nelles",
+          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
+        }
+      ],
+      "duration_ms": 201434,
+      "name": "leave the party . \u0741\u208a \u22b9 .",
+      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
         "name": "see-through",
         "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "ZO MOE",
-        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
-      },
-      "artists": [
-        {
-          "name": "WABR",
-          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "ZO MOE",
-      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Wistful Way",
         "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 223000,
       "name": "The Crow Won't Cry",
       "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "ZO MOE",
+        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+      },
+      "artists": [
+        {
+          "name": "WABR",
+          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "ZO MOE",
+      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
-      },
-      "artists": [
-        {
-          "name": "JAH",
-          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "Agony",
         "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 310015,
       "name": "Agony",
       "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "lOvE",
-        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Louii",
-          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "lOvE",
-      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "CAH",
         "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
@@ -1199,18 +1183,34 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "BAD CHI",
-        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+        "name": "Warm Light",
+        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
       },
       "artists": [
         {
-          "name": "Kidd Nebula",
-          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+          "name": "Amelie Spinks",
+          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
         }
       ],
-      "duration_ms": 223974,
-      "name": "BAD CHI - Single Version",
-      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
+      "duration_ms": 189000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "lOvE",
+        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Louii",
+          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "lOvE",
+      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1235,18 +1235,34 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Warm Light",
-        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
+        "name": "Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
       },
       "artists": [
         {
-          "name": "Amelie Spinks",
-          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
+          "name": "The Robots Are Coming",
+          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
+      "duration_ms": 213152,
+      "name": "Machine (Radio Edit)",
+      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "BAD CHI",
+        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Nebula",
+          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+        }
+      ],
+      "duration_ms": 223974,
+      "name": "BAD CHI - Single Version",
+      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Piranhas",
-        "url": "https://open.spotify.com/album/5d4KlUar0raqvKzCQ3tE9N"
+        "name": "Still In The Race",
+        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
       },
       "artists": [
         {
-          "name": "Dracula\u2019s Beach Party",
-          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
         }
       ],
-      "duration_ms": 355017,
-      "name": "Piranhas",
-      "url": "https://open.spotify.com/track/5qyhH3izjZWS5z6O0yRXzL"
+      "duration_ms": 163620,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1295,6 +1311,22 @@
       "duration_ms": 144000,
       "name": "fornow",
       "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-09-03 22:00:59",
+      "album": {
+        "name": "Piranhas",
+        "url": "https://open.spotify.com/album/5d4KlUar0raqvKzCQ3tE9N"
+      },
+      "artists": [
+        {
+          "name": "Dracula\u2019s Beach Party",
+          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+        }
+      ],
+      "duration_ms": 355017,
+      "name": "Piranhas",
+      "url": "https://open.spotify.com/track/5qyhH3izjZWS5z6O0yRXzL"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Still In The Race",
-        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
-      },
-      "artists": [
-        {
-          "name": "RubinCarter",
-          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
-        }
-      ],
-      "duration_ms": 163620,
-      "name": "April",
-      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2026-09-03 22:00:59",
       "album": {
-        "name": "Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
+        "name": "paths of sand",
+        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
       },
       "artists": [
         {
-          "name": "The Robots Are Coming",
-          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
+          "name": "xico",
+          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
         }
       ],
-      "duration_ms": 213152,
-      "name": "Machine (Radio Edit)",
-      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
+      "duration_ms": 303526,
+      "name": "chaos oasis",
+      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
     },
     {
       "added_at": "2026-09-03 22:00:59",
@@ -1391,22 +1407,6 @@
       "duration_ms": 276000,
       "name": "Magnum Opus",
       "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
-    },
-    {
-      "added_at": "2026-09-03 22:00:59",
-      "album": {
-        "name": "paths of sand",
-        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
-      },
-      "artists": [
-        {
-          "name": "xico",
-          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
-        }
-      ],
-      "duration_ms": 303526,
-      "name": "chaos oasis",
-      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
     },
     {
       "added_at": "2026-09-03 22:00:59",

@@ -7279,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "Do Numbari (From \u201cMirzapur The Movie\u201d)",
+        "url": "https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163695,
+      "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
+    },
+    {
+      "album": {
         "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX"
       },
@@ -10782,7 +10800,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 268463,
       "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
       "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
@@ -12636,7 +12654,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 180004,
       "name": "Jaiye Sajana",
       "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy"
@@ -21404,7 +21422,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
@@ -21422,7 +21440,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
@@ -25422,7 +25440,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

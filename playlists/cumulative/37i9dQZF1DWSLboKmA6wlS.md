@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PENPRAPA\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: JOONS\. Artwork: Isu Kim
 
-2,690 songs - 7 day 0 hr 47 min
+2,693 songs - 7 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Abracadabra จงรักจงหลง](https://open.spotify.com/track/79f9vgwPpakO8orwgoPJx6) | [FELIZZ](https://open.spotify.com/artist/1syMBJs334spaMGj5sZFYo) | [Abracadabra จงรักจงหลง](https://open.spotify.com/album/5d5r2zGGwvxLWyHlwGwSRR) | 2:34 | 2025-08-29 | 2025-09-06 |
 | [Actor](https://open.spotify.com/track/66I6uhPWIDDmR36IBPMUXw) | [2021 Ocean Vibes](https://open.spotify.com/artist/0B1nmBPwtQpUJHKKwFTkNo) | [Actor](https://open.spotify.com/album/6qm0nxeE686x9E3mWe4kFa) | 4:54 | 2024-05-31 | 2024-06-22 |
 | [ADD FAN](https://open.spotify.com/track/21fvSmhjnKpT90JIm48ehD) | [CANDYROOM](https://open.spotify.com/artist/1s0pOR5FfVvMgYPzOatA7k) | [ADD FAN](https://open.spotify.com/album/5eo5gTjeth5QxxB9cevmj1) | 3:05 | 2022-11-04 | 2022-11-26 |
+| [Adore](https://open.spotify.com/track/5UrImmfgaR89pknZBKoZND) | [JOONS](https://open.spotify.com/artist/0A4Iu6DpHpYibqc61Zw4oP) | [Adore](https://open.spotify.com/album/4xXMK306X7JV3LKii30A8L) | 3:26 | 2026-09-09 |  |
 | [al dente](https://open.spotify.com/track/1hkAWiahjurKmvtmNyPmSO) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [al dente](https://open.spotify.com/album/4WiFKWtJ6EsHsLx6TkimZj) | 3:50 | 2025-09-26 | 2025-10-25 |
 | [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 | 2025-01-25 |
 | [All Night Long](https://open.spotify.com/track/5CY7msDC8bIRZydsNWQm7m) | [B.DAWN](https://open.spotify.com/artist/2Vpoc32JNZBd2xltf7MAyU) | [All Night Long](https://open.spotify.com/album/5YSj9CuT5Zn8M7XGvAlSoE) | 3:54 | 2024-01-12 | 2024-03-09 |
@@ -65,6 +66,7 @@
 | [Best of Me](https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [Best of Me](https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy) | 3:29 | 2022-09-15 | 2022-09-30 |
 | [Bet You](https://open.spotify.com/track/5loc8B9AyBps5cXWFu3pDN) | [jeenarr](https://open.spotify.com/artist/5BQQSfNQ9YCK09uJIC0KgW) | [Bet You](https://open.spotify.com/album/1Ik9XKHJ6zmsN8RWJZvisu) | 3:47 | 2025-10-31 | 2025-12-05 |
 | [BETTA](https://open.spotify.com/track/52v30YXmc3n5ri6aFsxyYn) | [SIXSUMMER AUDIO](https://open.spotify.com/artist/5IxsZhPwoockTcNuPAnCXa), [Stickyrice Killah](https://open.spotify.com/artist/4vRJ7PcK5rBxs9OjvMkNiN) | [BETTA](https://open.spotify.com/album/7Ir3dXiLHaAtn4DcfbEzr9) | 2:18 | 2025-07-10 | 2025-09-06 |
+| [BETTER](https://open.spotify.com/track/6GxnPinovu0AosoXMwwV6T) | [QLO](https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF) | [BETTER](https://open.spotify.com/album/3zOcqZ20AhEJyrdNPlxMA8) | 2:42 | 2026-09-09 |  |
 | [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 | 2024-10-25 | 2024-11-30 |
 | [Blah Blah Blah](https://open.spotify.com/track/4tO3hXwy46uaCo9eQQ9PW0) | [EMPRESS](https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu) | [Blah Blah Blah](https://open.spotify.com/album/2SrMt23u6CgRh51fU4pmEv) | 3:30 | 2024-02-23 | 2024-03-09 |
 | [BLEED COLD](https://open.spotify.com/track/7vtpm89NKvdz4Zq7rikOwe) | [CSNP](https://open.spotify.com/artist/0g99fro1e3wsldTwsqFBHr) | [BLEED COLD](https://open.spotify.com/album/0IOyNxQ4F7hNHmH1hlwFW1) | 2:54 | 2025-08-29 | 2025-09-06 |
@@ -358,7 +360,7 @@
 | [my daisy](https://open.spotify.com/track/0q1b14y590mo6EE2XyBhNy) | [RISA NARISA](https://open.spotify.com/artist/5X0IhmlIPQhxzgS59EA0It) | [my daisy](https://open.spotify.com/album/7uoILv8qVb2mGjA5Xnldge) | 3:11 | 2024-10-25 | 2024-11-30 |
 | [My Flower](https://open.spotify.com/track/3bOImUJlyWyjvtlndK2nDU) | [BLue X ONENIGHT](https://open.spotify.com/artist/2WR5zlGNXPjeSLPutcfufW) | [My Flower](https://open.spotify.com/album/3lG2h22crZXwEN91UcD4wZ) | 4:04 | 2023-03-24 | 2023-05-20 |
 | [My Happiness \(เหมือนฝัน\)](https://open.spotify.com/track/5LO7L4BcA5kBREPXCop2oP) | [TAKE AWAY.](https://open.spotify.com/artist/5TwqbQyqvValzUppb7QHU1) | [My Happiness \(เหมือนฝัน\)](https://open.spotify.com/album/4RzQzEmi8ElTmDXbP1Rdl3) | 4:35 | 2023-04-28 | 2023-05-06 |
-| [My Kind of Friday](https://open.spotify.com/track/6OGALa2mD2vOzkT4Lvdepk) | [Sun&Moon](https://open.spotify.com/artist/2IAvowEKxKHxbWmQurqYeI) | [My Kind of Friday](https://open.spotify.com/album/59sgyZdc0yNed2tAza64aw) | 2:57 | 2026-05-06 |  |
+| [My Kind of Friday](https://open.spotify.com/track/6OGALa2mD2vOzkT4Lvdepk) | [Sun&Moon](https://open.spotify.com/artist/2IAvowEKxKHxbWmQurqYeI) | [My Kind of Friday](https://open.spotify.com/album/59sgyZdc0yNed2tAza64aw) | 2:57 | 2026-05-06 | 2026-09-10 |
 | [my nina](https://open.spotify.com/track/3EJk6O1407dNzd53RlRNnK) | [Baby Boat](https://open.spotify.com/artist/7fMMVyalfNuiZBTVbaeJaU) | [my nina](https://open.spotify.com/album/4OP9eq1BQ7PZ8x0wnIbcPp) | 2:55 | 2024-05-31 | 2024-07-02 |
 | [mybrofukonurbih \(feat\. Nuay\)](https://open.spotify.com/track/1cHWnd0bK0H09i5QrqNgps) | [JiFuji](https://open.spotify.com/artist/42HsKClMz1RGdRFo989Gnk) | [stuck](https://open.spotify.com/album/4NV37tUdy5Tx3fI7Wl2LDc) | 2:29 | 2024-05-24 | 2024-06-08 |
 | [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 | 2025-07-24 | 2025-08-08 |
@@ -622,6 +624,7 @@
 | [กาลครั้งหนึ่งก่อนถึงวันสุดท้าย](https://open.spotify.com/track/5oEZ8HfEwZyq9TmmpjaTR7) | [airri](https://open.spotify.com/artist/0ONn2t3TFHAtVr6K6E8apo) | [no more pastel.](https://open.spotify.com/album/2dsjDTb8G6BIxNNlNbWp5q) | 4:36 | 2024-05-31 | 2024-06-15 |
 | [กาลคิดถึง](https://open.spotify.com/track/4wwfZbIT0DEttRd7672ja2) | [BYMY](https://open.spotify.com/artist/0JoK1fnSGue4Nlc8FkQz7h) | [กาลคิดถึง](https://open.spotify.com/album/5KNlxtNApPVKf5vIMwGSYC) | 5:33 | 2024-10-25 | 2024-11-02 |
 | [กาลบันทึก](https://open.spotify.com/track/4IrJS4MilyjcmqCFZJr9uL) | [CHANDAGE](https://open.spotify.com/artist/3NZdazEd4BFRKuqCRWiYAv) | [กาลบันทึก](https://open.spotify.com/album/2HX99x30suqyOgPhuPXmd0) | 4:52 | 2025-05-15 | 2025-07-11 |
+| [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/track/1qivAYxhYjitA0YJ1RWEi8) | [PEPPA PEAK](https://open.spotify.com/artist/2mRJgEPpfyHmsSQ1xlNIfg) | [กำลังกั๊ก \(Hold On\)](https://open.spotify.com/album/2BjCYAAqX5xsoRh9xVrvci) | 3:04 | 2026-09-09 |  |
 | [กำลังดี](https://open.spotify.com/track/0AFbbxmliu882sAhQ1s0p7) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [กำลังดี](https://open.spotify.com/album/0KeoAAWwaI8JbX4PuYAzki) | 3:35 | 2023-05-26 | 2023-07-15 |
 | [กีฬา](https://open.spotify.com/track/69v0moOjUOx8pxdRtchmHl) | [Buzzbas](https://open.spotify.com/artist/3rQM6M6GhxvXb3aev0zjDE), [911 Korn](https://open.spotify.com/artist/3pXgJj2cnpIJ3DOwW8XwWh) | [กีฬา](https://open.spotify.com/album/1S5rfrfvP21tvudoowVl0M) | 3:10 | 2024-01-12 | 2024-02-17 |
 | [กี่ฤดู](https://open.spotify.com/track/7K3nbmvuYNmLSPl6tHvxjj) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [กี่ฤดู](https://open.spotify.com/album/1Netdn7wiwKval9w126VrC) | 4:11 | 2025-11-07 | 2025-11-22 |
@@ -781,7 +784,7 @@
 | [ความผิดในวันนั้น \(Muticolours\)](https://open.spotify.com/track/4NCuiibKCHZNdPAsSa3CP9) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ความผิดในวันนั้น \(Muticolours\)](https://open.spotify.com/album/0JOLWblKp4wC7quXRuy58K) | 4:05 | 2023-03-24 | 2023-05-27 |
 | [ความฝัน\(Phobia\)](https://open.spotify.com/track/23v9RDpWENv7VhUGRkCTqy) | [Phafun](https://open.spotify.com/artist/6G8fi0nQ1u1PzZrLyjl5n6) | [ความฝัน\(Phobia\)](https://open.spotify.com/album/0hUjXVeb6mYKQoxfrczOxc) | 4:20 | 2023-08-25 | 2023-10-21 |
 | [ความรัก 101](https://open.spotify.com/track/4SLUWbb8icMIOCmIJXr61o) | [Earthlollipop](https://open.spotify.com/artist/78ZgCJcn0eDSkw9qcbSUVY) | [ความรัก 101](https://open.spotify.com/album/6LXW2EiWS3GEbMk24dbovI) | 3:52 | 2024-03-15 | 2024-06-01 |
-| [ความรัก ความปลอดภัย](https://open.spotify.com/track/03eUw7cpqBoAPLhpdn1RWa) | [Yellow Butter Cult](https://open.spotify.com/artist/2kRRO1bskAHboNesK6Yv1F) | [ความรัก ความปลอดภัย](https://open.spotify.com/album/72ld6NDW02YJyrM7Zd5wum) | 4:58 | 2026-08-12 |  |
+| [ความรัก ความปลอดภัย](https://open.spotify.com/track/03eUw7cpqBoAPLhpdn1RWa) | [Yellow Butter Cult](https://open.spotify.com/artist/2kRRO1bskAHboNesK6Yv1F) | [ความรัก ความปลอดภัย](https://open.spotify.com/album/72ld6NDW02YJyrM7Zd5wum) | 4:58 | 2026-08-12 | 2026-09-10 |
 | [ความรักดีๆ](https://open.spotify.com/track/1XZjKDTCM0x9X7sL1yMNtg) | [Mai Maitai](https://open.spotify.com/artist/6MhEj2UMhICh03M0Tolyzp) | [ความรักดีๆ](https://open.spotify.com/album/4iUOBWG1lEFRt2rRtVbWgV) | 3:30 | 2025-02-07 | 2025-04-25 |
 | [ความรักที่ตามหา](https://open.spotify.com/track/4nFbKuTU3xc7LCBzhImmj3) | [ดาวเหนือ](https://open.spotify.com/artist/6ug5zNxOeSVI2HOcSuC56d) | [ความรักที่ตามหา](https://open.spotify.com/album/2obPptsKmrfmpypSZKf7Fx) | 3:57 | 2025-01-31 | 2025-07-11 |
 | [ความรักที่เธอตามหา \(love and found\)](https://open.spotify.com/track/2BN78CNjqPeKU7uaVP2yHk) | [jaei](https://open.spotify.com/artist/2bze7PiynegDpDl6CX8kSO) | [ความรักที่เธอตามหา \(love and found\)](https://open.spotify.com/album/59cgu7x4gcgnrXpOsSBaV2) | 3:36 | 2025-05-22 | 2025-06-28 |
@@ -2459,7 +2462,7 @@
 | [โคตรคิดถึง](https://open.spotify.com/track/41TaJNKF1YGZ5vdWZewPE4) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [โคตรคิดถึง](https://open.spotify.com/album/49uSWlOJYw8B5TRhiIEEk2) | 4:12 | 2023-05-05 | 2023-05-27 |
 | [โคตรคิดถึง](https://open.spotify.com/track/2lmmmalFVCrwqZDJfEFAk1) | [ZLAD](https://open.spotify.com/artist/3B3EU9qAvsyensN23oOmpD) | [โคตรคิดถึง](https://open.spotify.com/album/7yrnEO9JEzOuUqOUfrcchv) | 4:48 | 2023-08-25 | 2023-09-02 |
 | [โคตรดีเลย](https://open.spotify.com/track/0lYH7xhdEwNMVNiVfnu4UN) | [Jom Jager](https://open.spotify.com/artist/1oShxO7dLutsnJpnxYL7I1), [Tom Isara](https://open.spotify.com/artist/7HMuruYOBljjjsit1De1nm) | [โคตรดีเลย](https://open.spotify.com/album/6WgLDyTJZTBJVq996jjJZq) | 3:47 | 2025-08-21 | 2025-08-30 |
-| [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 | 2026-07-29 |  |
+| [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 | 2026-07-29 | 2026-09-10 |
 | [โคตรเบื่อ](https://open.spotify.com/track/7iK16XLoqQ6swzOsmwG5vR) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [โคตรเบื่อ](https://open.spotify.com/album/3rPJ5XUkJJNZolQ6LWMroc) | 3:46 | 2022-10-21 | 2022-10-29 |
 | [โคตรไม่โอเค](https://open.spotify.com/track/60vbEC6zp0gBMlRPCIXJEL) | [KANOOM](https://open.spotify.com/artist/7AnPCUa9YPwbsIci8iAw10) | [โคตรไม่โอเค](https://open.spotify.com/album/1YC1kjcpuSDzaAxrPwiRNg) | 3:30 | 2023-05-05 | 2023-05-27 |
 | [โค้ช](https://open.spotify.com/track/6KBTgyNsoKL87oQ3NdOz0e) | [Ta noppawit](https://open.spotify.com/artist/5kswkZgA6CkuBWfm0YL11s) | [โค้ช](https://open.spotify.com/album/4mRocMAx2P3zGUEmEWRtwP) | 3:20 | 2024-02-16 | 2024-03-25 |

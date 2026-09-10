@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356766,
+  "num_followers": 356710,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 177130,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "NUVEM NEGRA",
         "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 294570,
       "name": "NUVEM NEGRA",
       "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 220750,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Camomila",
-        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Te Amar Me D\u00e1 Asas",
-        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Te Amar Me D\u00e1 Asas",
-      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 182608,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Te Amar Me D\u00e1 Asas",
+        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Te Amar Me D\u00e1 Asas",
+      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Dias de Mar",
         "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 168960,
       "name": "Liberdade?",
       "url": "https://open.spotify.com/track/05OSoY5o8YImbjWhU2QRZ8"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
     }
   ],
   "unique_name": "Palco POP",

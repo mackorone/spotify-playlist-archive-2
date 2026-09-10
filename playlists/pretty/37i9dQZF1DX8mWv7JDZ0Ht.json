@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Ana Laura Lopes",
-  "num_followers": 433471,
+  "num_followers": 433461,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Ser Feliz de Novo",
+        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 227737,
+      "name": "Ser Feliz de Novo",
+      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 189886,
       "name": "FOME",
       "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Ser Feliz de Novo",
-        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 227737,
-      "name": "Ser Feliz de Novo",
-      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "Bela Vista, 133",
         "url": "https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 189073,
       "name": "M\u00e1gica - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 178645,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -719,38 +735,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Ressaca de saudade",
-        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "Ressaca de saudade",
-      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "Ressaca de saudade",
+        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "Ressaca de saudade",
+      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-        "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-      "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Coisa de Alma",
         "url": "https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "N\u00e3o \u00e9 t\u00e3o ruim",
+        "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "N\u00e3o \u00e9 t\u00e3o ruim",
+      "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "QUANDO ASSUM VOAR",
         "url": "https://open.spotify.com/album/0m909aW6kNTzgB05lzga06"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 175801,
       "name": "QUANDO ASSUM VOAR",
       "url": "https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "C\u00e9u Rosa",
-        "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 150383,
-      "name": "C\u00e9u Rosa",
-      "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 190000,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "C\u00e9u Rosa",
+        "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 150383,
+      "name": "C\u00e9u Rosa",
+      "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
     },
     {
       "added_at": "2026-09-04 03:00:30",

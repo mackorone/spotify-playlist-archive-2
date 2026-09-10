@@ -17401,6 +17401,28 @@
     },
     {
       "album": {
+        "name": "Not Lacoco (Scotty\u2019s Interlude)",
+        "url": "https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf"
+      },
+      "artists": [
+        {
+          "name": "Tobby BadAss",
+          "url": "https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106086,
+      "name": "Not Lacoco (Scotty\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C"
+    },
+    {
+      "album": {
         "name": "Not My Fault",
         "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
       },
@@ -21224,28 +21246,6 @@
       "duration_ms": 195398,
       "name": "Scatta Scatta",
       "url": "https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy"
-    },
-    {
-      "album": {
-        "name": "Scotty\u2019s Interlude",
-        "url": "https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf"
-      },
-      "artists": [
-        {
-          "name": "Tobby BadAss",
-          "url": "https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX"
-        },
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "date_added": "2026-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106086,
-      "name": "Scotty\u2019s Interlude",
-      "url": "https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C"
     },
     {
       "album": {

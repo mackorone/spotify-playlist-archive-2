@@ -1445,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "Uma por Uma (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6U6n2VYTFtRrR8vFU86SAh"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271428,
+      "name": "Uma por Uma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5HlkiKDkEJ6g7WEmCwnJvk"
+    },
+    {
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },

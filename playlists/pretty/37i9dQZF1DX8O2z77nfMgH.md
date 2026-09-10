@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Wisin
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,690 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,582 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [Cuál Es La Necesidad](https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuál Es La Necesidad](https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On) | 2:24 |
 | 8 | [Casi Algo](https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Casi Algo](https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb) | 3:32 |
 | 9 | [CONTIGO COMBINO](https://open.spotify.com/track/3EBJHYyOcOHba6IJTE6KN5) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi) | [CONTIGO COMBINO](https://open.spotify.com/album/3Y7uDww3bFrGAjTHZVB2Wh) | 2:31 |
-| 10 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
+| 10 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 11 | [abrázame](https://open.spotify.com/track/6U85Zxlq5KwuW2yYKlLnIx) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [lucy miró al mundo y notó que está girando](https://open.spotify.com/album/3VcleF9EbQ0tBFsVCWeB6Y) | 2:46 |
 | 12 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
 | 13 | [Cruz de Olvido](https://open.spotify.com/track/2KYuqg2xVo9Ph51ndlXZjy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Cruz de Olvido](https://open.spotify.com/album/7ekuClkiVqgE7dVi5s5rEF) | 3:45 |

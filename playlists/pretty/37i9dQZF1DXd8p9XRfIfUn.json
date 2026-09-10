@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81362,
+  "num_followers": 81359,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "M\u00e1s Papel",
         "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 152952,
       "name": "M\u00e1s Papel",
       "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "De la Calle (Remix)",
+        "url": "https://open.spotify.com/album/6XBvuVSZXQzGrmPRNKVVlL"
+      },
+      "artists": [
+        {
+          "name": "Martina Chanell",
+          "url": "https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ"
+        },
+        {
+          "name": "Andresito Otro Corte",
+          "url": "https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo"
+        },
+        {
+          "name": "Yong Bryel",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "De la Calle - Remix",
+      "url": "https://open.spotify.com/track/6GYR87yZfXlWWllkPJTQty"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

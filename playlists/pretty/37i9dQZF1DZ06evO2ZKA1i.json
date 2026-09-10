@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303548,
+  "num_followers": 303559,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADnvM/Dslxj6RIy5o3lqJLI",
+  "snapshot_id": "ap9QAAAAAACwQrTmQJFCSP3XEDFcO1AT",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 321333,
-      "name": "Demon's Eye - 1996 Remaster",
-      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+      "duration_ms": 224680,
+      "name": "Love Conquers All",
+      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Love Conquers All",
-      "url": "https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F"
+      "duration_ms": 321333,
+      "name": "Demon's Eye - 1996 Remaster",
+      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
     },
     {
       "added_at": null,

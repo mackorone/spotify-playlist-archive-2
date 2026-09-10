@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAAQp7AjK/1D7/IxG1cfYG8T",
+  "snapshot_id": "ap9QAAAAAADl87Xn2mzBokTmYrRQl8ka",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7Dux06ZgwiPe0LHb4WAkGP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wait For Dark (The Toxic Avenger Remix)",
         "url": "https://open.spotify.com/album/1YvBftCNy214fE35UO0Avr"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 241417,
       "name": "Wait For Dark - The Toxic Avenger Remix",
       "url": "https://open.spotify.com/track/1st4sL0Z4ShdKkXnqR1PLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Still There",
-      "url": "https://open.spotify.com/track/7Dux06ZgwiPe0LHb4WAkGP"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 181771,
       "name": "Amanita",
       "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick to Silence",
-        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 226456,
-      "name": "Stick to Silence",
-      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 264306,
       "name": "The Luck You Had",
       "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stick to Silence",
+        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 226456,
+      "name": "Stick to Silence",
+      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 276424,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 252169,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1"
+      "duration_ms": 234065,
+      "name": "412",
+      "url": "https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

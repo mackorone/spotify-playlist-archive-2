@@ -4,13 +4,14 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 31 min
+60 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 | 2023-08-19 |  |
 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-23 |  |
-| [Back in My Ways](https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Back in My Ways](https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec) | 4:03 | 2026-05-10 |  |
+| [Back in My Ways](https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Back in My Ways](https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec) | 4:03 | 2026-05-10 | 2026-09-10 |
+| [Back in My Ways](https://open.spotify.com/track/7jNZ1uFDBLId4BpyCgCx6i) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:03 | 2026-09-10 |  |
 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 | 2022-09-19 |  |
 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 |  |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-16 |  |
@@ -27,7 +28,7 @@
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-27 | 2023-08-29 |
 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 | 2022-09-16 | 2024-07-20 |
 | [Flowerbed](https://open.spotify.com/track/1qRAtQjuQdABlBLi9W8dOc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:57 | 2026-09-06 |  |
-| [Fragile Hands](https://open.spotify.com/track/64lJaDtxSW9GhGawuZTFxj) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:31 | 2026-09-06 |  |
+| [Fragile Hands](https://open.spotify.com/track/64lJaDtxSW9GhGawuZTFxj) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:31 | 2026-09-06 | 2026-09-10 |
 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 | 2022-09-16 |  |
 | [Garden Eyes](https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:23 | 2022-09-16 |  |
 | [Happier Now](https://open.spotify.com/track/4jKonocCzh6JbKfmoANcix) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:47 | 2026-09-06 |  |

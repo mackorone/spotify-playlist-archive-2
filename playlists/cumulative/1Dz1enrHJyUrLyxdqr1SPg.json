@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/5pVHrBjnuOWKXshWKJaVil"
+      },
+      "artists": [
+        {
+          "name": "WAS Music",
+          "url": "https://open.spotify.com/artist/3IqAQfmvqry08s3o5YVYew"
+        },
+        {
+          "name": "Gaz Twist",
+          "url": "https://open.spotify.com/artist/52MTNuYffSQRjZcZ7KiSam"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244837,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6uMJNnzsWizuk6RNjOPeIG"
+    },
+    {
+      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/3c6u2ytsTyiXEOizWF493Z"
       },

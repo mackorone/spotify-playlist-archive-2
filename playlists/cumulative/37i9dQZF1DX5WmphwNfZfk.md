@@ -4,7 +4,7 @@
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Magi Merlin
 
-2,615 songs - 5 day 13 hr 53 min
+2,616 songs - 5 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 | 2026-05-01 | 2026-08-05 |
 | [I Can't Love](https://open.spotify.com/track/7r18qv0F0GTK0OSiPfFXbx) | [TrillNagi](https://open.spotify.com/artist/3XL3rwMLXI6yonSBnDwMon) | [I Can't Love](https://open.spotify.com/album/3HSUNrld3xTjNXRbPvxvS1) | 3:07 | 2022-05-06 | 2022-06-04 |
 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 | 2022-05-06 | 2022-06-04 |
+| [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 | 2026-09-04 |  |
 | [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 | 2024-06-07 | 2024-07-06 |
 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 | 2026-05-01 | 2026-06-06 |
 | [I Don't Wanna Hang](https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU) | [Cola H.](https://open.spotify.com/artist/4bUIemhzXV37xcUk9lGh5T) | [I Don't Wanna Hang](https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT) | 3:44 | 2022-01-07 | 2022-02-05 |

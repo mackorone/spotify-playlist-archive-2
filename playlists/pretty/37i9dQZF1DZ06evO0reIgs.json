@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADCzrxOqKEYjdU/mQ9rPAwU",
+  "snapshot_id": "ap9QAAAAAAAEkIA02FLbNi+pSVcHzxN+",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 193322,
       "name": "Camisa P",
       "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Col\u00edrio da C\u00f3lera",
-        "url": "https://open.spotify.com/album/2PmgQahqFIrluuyIu9xHEW"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 202108,
-      "name": "Jurei/Odin",
-      "url": "https://open.spotify.com/track/1hpujZfaZr8hikiiYaEFjs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As 25 Horas de Le Mans",
         "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 194965,
       "name": "As 25 Horas de Le Mans",
       "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Col\u00edrio da C\u00f3lera",
+        "url": "https://open.spotify.com/album/2PmgQahqFIrluuyIu9xHEW"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 202108,
+      "name": "Jurei/Odin",
+      "url": "https://open.spotify.com/track/1hpujZfaZr8hikiiYaEFjs"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Mundo da Lua / Abra\u00e7o",
-        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 338861,
-      "name": "No Mundo da Lua / Abra\u00e7o",
-      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PUT@RIA & POE$IA (mixtape)",
         "url": "https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 151836,
       "name": "sexy",
       "url": "https://open.spotify.com/track/4L9mRFnqK4lOXtw6k3gC1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Mundo da Lua / Abra\u00e7o",
+        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 338861,
+      "name": "No Mundo da Lua / Abra\u00e7o",
+      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
     },
     {
       "added_at": null,
@@ -660,13 +660,17 @@
           "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
         },
         {
-          "name": "Amorim PL",
-          "url": "https://open.spotify.com/artist/65F0ZSq5lEEWBe5dSMwPtB"
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/6AH3DsNS11Tie09WQra0Yt"
+      "duration_ms": 233333,
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/704naSwe7DPtbMfqeMsRp1"
     },
     {
       "added_at": null,
@@ -756,17 +760,13 @@
           "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
         },
         {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+          "name": "Amorim PL",
+          "url": "https://open.spotify.com/artist/65F0ZSq5lEEWBe5dSMwPtB"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Seu Olhar",
-      "url": "https://open.spotify.com/track/704naSwe7DPtbMfqeMsRp1"
+      "duration_ms": 128000,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/6AH3DsNS11Tie09WQra0Yt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,166 likes - 58 songs - 3 hr 18 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,169 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 56 | [Mr.Sun](https://open.spotify.com/track/1E07RRFqexoSkhgHGxNnFE) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr.Sun](https://open.spotify.com/album/4rfPrJpXlulatmgpjygzwp) | 2:49 |
 | 57 | [Goodbye](https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Goodbye](https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE) | 2:52 |
 | 58 | [DND](https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS) | [Mila Sidhu](https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk) | [DND](https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT) | 2:41 |
+| 59 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
+| 60 | [The Leap](https://open.spotify.com/track/4XnrMlrVHHcAmITgLRwcoZ) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr\. Sun](https://open.spotify.com/album/2InfXnHrTN8TCFycbq7HqO) | 2:48 |
 
-Snapshot ID: `AAAEXAAO4jaNIzJUBolvh53nhR1w8RBF`
+Snapshot ID: `AAAEXuAvDRYIS9T/isaVTAtsYGeeF1VC`

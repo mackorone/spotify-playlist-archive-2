@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Muyeez
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,100 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,206 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 10 | [Massacre The Show](https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv) | [Fergiee](https://open.spotify.com/artist/75yvKMzpIeYGyw5ElkoLYw), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Massacre The Show](https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd) | 2:13 |
 | 11 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 12 | [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 |
-| 13 | [Scotty’s Interlude](https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C) | [Tobby BadAss](https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Scotty’s Interlude](https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf) | 1:46 |
+| 13 | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C) | [Tobby BadAss](https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf) | 1:46 |
 | 14 | [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 |
 | 15 | [Lifestyle \(YA MAN\)](https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lifestyle \(YA MAN\)](https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T) | 2:15 |
 | 16 | [Tight Rope](https://open.spotify.com/track/3Oy3IKaPLnx896sd7oiF1w) | [Quest ott](https://open.spotify.com/artist/4x1YCCrjVHd5jAs02esbNJ), [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Tight Rope](https://open.spotify.com/album/2ZeOk9yRVQfQ7actJcV5Jt) | 3:14 |

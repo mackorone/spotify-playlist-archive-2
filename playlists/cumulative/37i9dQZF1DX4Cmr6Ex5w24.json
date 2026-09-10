@@ -476,10 +476,36 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 293076,
       "name": "Chinna Chinna Asai",
       "url": "https://open.spotify.com/track/301uYgwDevsSCzCBW6t7JC"
+    },
+    {
+      "album": {
+        "name": "Roja (Tamil)",
+        "url": "https://open.spotify.com/album/1CfGCFiwkTcAVOJFOeDS6M"
+      },
+      "artists": [
+        {
+          "name": "Minmini",
+          "url": "https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295706,
+      "name": "Chinna Chinna Asai",
+      "url": "https://open.spotify.com/track/330ALr1xfwFGwOXBE3Tnvf"
     },
     {
       "album": {
@@ -726,7 +752,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 360359,
       "name": "En Kadhale",
       "url": "https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai"
@@ -1112,10 +1138,58 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 312032,
       "name": "Ennavale Adi Ennavale",
       "url": "https://open.spotify.com/track/7AH2SbY4kpTmvxp9zAsHDS"
+    },
+    {
+      "album": {
+        "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312058,
+      "name": "Ennavale Adi Ennavale",
+      "url": "https://open.spotify.com/track/3lrXYLTJPCJcFd3ZnBB74X"
+    },
+    {
+      "album": {
+        "name": "Uyire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Lpme9j90TFp5j3UGOeYTU"
+      },
+      "artists": [
+        {
+          "name": "Srinivas",
+          "url": "https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441652,
+      "name": "Ennuyire",
+      "url": "https://open.spotify.com/track/3hTvdWIVGJJxyYmOCYQhW8"
     },
     {
       "album": {
@@ -1134,7 +1208,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 442004,
       "name": "Ennuyire",
       "url": "https://open.spotify.com/track/6DNeqxj4E9rsyWC69L1OdD"
@@ -1204,6 +1278,36 @@
       "duration_ms": 309315,
       "name": "Errani Kurrathanni (Koli Kunju)",
       "url": "https://open.spotify.com/track/5KIqSUol7yUXvf7rosJXMA"
+    },
+    {
+      "album": {
+        "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307304,
+      "name": "Errani Kurrathanni (Koli Kunju)",
+      "url": "https://open.spotify.com/track/6Zl7x48C5Q78h3jyQrIFBU"
     },
     {
       "album": {
@@ -1338,7 +1442,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 268506,
       "name": "July Matham",
       "url": "https://open.spotify.com/track/33YNTB6DdLOub76BwkWkBj"
@@ -1496,10 +1600,40 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 299911,
       "name": "Kaadhal Rojave",
       "url": "https://open.spotify.com/track/2ppIxEsahAYSLp4XXFcKFi"
+    },
+    {
+      "album": {
+        "name": "Roja (Tamil)",
+        "url": "https://open.spotify.com/album/1CfGCFiwkTcAVOJFOeDS6M"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302994,
+      "name": "Kaadhal Rojave",
+      "url": "https://open.spotify.com/track/7ixjRjfWTVgEKp6YQeCH0d"
     },
     {
       "album": {
@@ -1890,6 +2024,40 @@
     {
       "album": {
         "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "B. Pallavi",
+          "url": "https://open.spotify.com/artist/2oGJHibWINA9leMQ2YxHNK"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289306,
+      "name": "Kathalikkum Penin Kaikal",
+      "url": "https://open.spotify.com/track/0dbT0P1a07Mwnf6D269QU8"
+    },
+    {
+      "album": {
+        "name": "Kaadhalan",
         "url": "https://open.spotify.com/album/2FLFZYTdBl3PyrsMVm1fMR"
       },
       "artists": [
@@ -1942,7 +2110,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 289306,
       "name": "Kathalikkum Penin Kaikal",
       "url": "https://open.spotify.com/track/7HHMnYSDwFRrsPThKwp1Ba"
@@ -2633,6 +2801,36 @@
     },
     {
       "album": {
+        "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/1qsqcIuXEXubTfxtzNGTit"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323448,
+      "name": "Mukkala Mukkabla (Tamil)",
+      "url": "https://open.spotify.com/track/29omwIbpPH0Fg2gebMtPo3"
+    },
+    {
+      "album": {
         "name": "Iruvar",
         "url": "https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD"
       },
@@ -2774,6 +2972,24 @@
     {
       "album": {
         "name": "Uyire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Lpme9j90TFp5j3UGOeYTU"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302367,
+      "name": "Nenjinile",
+      "url": "https://open.spotify.com/track/5LULgwaei1OGnWnbklM6GN"
+    },
+    {
+      "album": {
+        "name": "Uyire (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s"
       },
       "artists": [
@@ -2784,7 +3000,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 302571,
       "name": "Nenjinile",
       "url": "https://open.spotify.com/track/4mKiuyytbYITuoeF19MvSG"
@@ -2886,7 +3102,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 255007,
       "name": "Nila Kaaigiradhu(Male Version)",
       "url": "https://open.spotify.com/track/5M4z4zaSIeSCC3wUa3nQKq"
@@ -3214,6 +3430,40 @@
     {
       "album": {
         "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Shahul Hameed",
+          "url": "https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP"
+        },
+        {
+          "name": "Theanee Kunjaramma",
+          "url": "https://open.spotify.com/artist/2o8E3P3mNpCNUPNR3dyFCj"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shankar",
+          "url": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262243,
+      "name": "Pettai Rap",
+      "url": "https://open.spotify.com/track/41JeMJrePcC7QV9CFG7rou"
+    },
+    {
+      "album": {
+        "name": "Kaadhalan",
         "url": "https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT"
       },
       "artists": [
@@ -3240,7 +3490,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 264228,
       "name": "Pettai Rap",
       "url": "https://open.spotify.com/track/4pR2j98bcXjWFRAKHJQ9hC"
@@ -3348,6 +3598,28 @@
     {
       "album": {
         "name": "Uyire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Lpme9j90TFp5j3UGOeYTU"
+      },
+      "artists": [
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340610,
+      "name": "Poongatrile",
+      "url": "https://open.spotify.com/track/22l0qyOhl50I7bslggljTD"
+    },
+    {
+      "album": {
+        "name": "Uyire (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s"
       },
       "artists": [
@@ -3362,7 +3634,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 340874,
       "name": "Poongatrile",
       "url": "https://open.spotify.com/track/0lVVSxwaEmStgTECv4JSTM"
@@ -3558,10 +3830,40 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 313028,
       "name": "Pudhu Vellai Mazhai",
       "url": "https://open.spotify.com/track/74JDoZRPAe8gTObg33orPA"
+    },
+    {
+      "album": {
+        "name": "Roja (Tamil)",
+        "url": "https://open.spotify.com/album/1CfGCFiwkTcAVOJFOeDS6M"
+      },
+      "artists": [
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315533,
+      "name": "Pudhu Vellai Mazhai",
+      "url": "https://open.spotify.com/track/4CkaZM5ClbGDgxMNdkbuE2"
     },
     {
       "album": {
@@ -3885,6 +4187,36 @@
     },
     {
       "album": {
+        "name": "Roja (Tamil)",
+        "url": "https://open.spotify.com/album/1CfGCFiwkTcAVOJFOeDS6M"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356519,
+      "name": "Rukkumani Rukkumani",
+      "url": "https://open.spotify.com/track/2PnrWoAZVgRgjlOaYPcn9B"
+    },
+    {
+      "album": {
         "name": "Love Birds",
         "url": "https://open.spotify.com/album/2EXhA2k0LttCoCLIqRmuHw"
       },
@@ -3922,6 +4254,24 @@
     {
       "album": {
         "name": "Uyire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Lpme9j90TFp5j3UGOeYTU"
+      },
+      "artists": [
+        {
+          "name": "Febi",
+          "url": "https://open.spotify.com/artist/1dmd51Ju8K6uPcGU8dmdT3"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406700,
+      "name": "Santhosha Kanneere",
+      "url": "https://open.spotify.com/track/6h46G8mMwc3QDymuVKcPhR"
+    },
+    {
+      "album": {
+        "name": "Uyire (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s"
       },
       "artists": [
@@ -3932,7 +4282,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 407013,
       "name": "Santhosha kanneere",
       "url": "https://open.spotify.com/track/7DmDTkdvuBlhnvwPsHD1f2"
@@ -4424,7 +4774,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 302666,
       "name": "Thanga Thamari Magale",
       "url": "https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW"
@@ -4472,7 +4822,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 409025,
       "name": "Thayya Thayya",
       "url": "https://open.spotify.com/track/6otKKnSdVkg0OYGdJIK9NM"
@@ -4498,6 +4848,28 @@
       "duration_ms": 409025,
       "name": "Thayya Thayya (From \"Uyire\")",
       "url": "https://open.spotify.com/track/7MJL98mvKTj9ZUIasgqPa2"
+    },
+    {
+      "album": {
+        "name": "Uyire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Lpme9j90TFp5j3UGOeYTU"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Subha",
+          "url": "https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408711,
+      "name": "Thayya Thayya, Pt. 1",
+      "url": "https://open.spotify.com/track/1GduaYBnT5O5sIsCSLMd3l"
     },
     {
       "album": {
@@ -4800,6 +5172,36 @@
       "duration_ms": 340480,
       "name": "Urvashi Uravashi",
       "url": "https://open.spotify.com/track/2vGVScEqLhQXZNkeoDIyMP"
+    },
+    {
+      "album": {
+        "name": "Kaadhalan",
+        "url": "https://open.spotify.com/album/0LHedE5rMWPPhCRTcomlTW"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Shahul Hameed",
+          "url": "https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340480,
+      "name": "Urvashi Uravashi (Tamil)",
+      "url": "https://open.spotify.com/track/53raVXuk8V5ftSouxBrYRd"
     },
     {
       "album": {

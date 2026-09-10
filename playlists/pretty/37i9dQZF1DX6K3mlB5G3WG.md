@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Fred De Palma in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,298 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,296 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 16 | [STRIPPER](https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [STRIPPER](https://open.spotify.com/album/4YC00XnYhLvJpj54BIyzLM) | 1:54 |
 | 17 | [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/track/7Eg0McMVERpFrpuJ9P4e0O) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Roy Paci](https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb) | [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/album/3hv1rvBltcEwa2VN0bK80U) | 2:10 |
 | 18 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
-| 19 | [LET ME BE](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
+| 19 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
 | 20 | [All My Demons Greeting Me As A Friend](https://open.spotify.com/track/3aS6wXMHDCAo6LJy7o4FTt) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend](https://open.spotify.com/album/4hhkPjixKFGxQ0b8Yog4Qt) | 3:41 |
 | 21 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 22 | [IL GIORNO CHE ASPETTAVO](https://open.spotify.com/track/4kkbhtfbTCp3JN4H7zu9ny) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [IL GIORNO CHE ASPETTAVO](https://open.spotify.com/album/7Hww6TqaOQMRjWJSNqVyyY) | 3:19 |

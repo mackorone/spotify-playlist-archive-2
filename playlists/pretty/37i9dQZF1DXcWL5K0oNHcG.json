@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 244804,
+  "num_followers": 244869,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfiea1JGLd6cUIbs/w+1GbUUnKk",
+  "snapshot_id": "AAAAAAM/9ugLx0dB9GZCujvPAVYqLdWU",
   "tracks": [
     {
       "added_at": "2026-09-02 16:54:55",
@@ -27,6 +27,22 @@
       "duration_ms": 254522,
       "name": "GAIA",
       "url": "https://open.spotify.com/track/3Nv2FmkTX4GNMQdm4ofmyj"
+    },
+    {
+      "added_at": "2026-09-09 16:22:45",
+      "album": {
+        "name": "Break The Motion",
+        "url": "https://open.spotify.com/album/1wyVhNjmIz5s3uWvQ2HhP6"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Break The Motion",
+      "url": "https://open.spotify.com/track/4nOg9QgZeifAO1s3izKZ0f"
     },
     {
       "added_at": "2026-08-12 17:47:49",
@@ -639,22 +655,6 @@
       "duration_ms": 262792,
       "name": "We The People",
       "url": "https://open.spotify.com/track/5pNVpQECQ0YY1yuD75nSXq"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Bost\u00e9",
-        "url": "https://open.spotify.com/album/4hfod6huUPnat3S6kCxiKh"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        }
-      ],
-      "duration_ms": 483363,
-      "name": "Bost\u00e9",
-      "url": "https://open.spotify.com/track/5qE37tGLNDz5eip472RywN"
     },
     {
       "added_at": "2026-02-18 17:47:31",

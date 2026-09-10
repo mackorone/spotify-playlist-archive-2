@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 6505,
+  "num_followers": 6544,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Chaka Chaka",
-          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Umqombothi",
-      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Umqombothi",
+      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Vintage Sounds of Johannesburg",
-        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
-      },
-      "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
-        }
-      ],
-      "duration_ms": 292034,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 247630,
       "name": "Sbali",
       "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Vintage Sounds of Johannesburg",
+        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
+        }
+      ],
+      "duration_ms": 292034,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
     },
     {
       "added_at": "2026-04-24 07:22:05",

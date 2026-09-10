@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPA/LloHwl3Ya9U0jvO0O323BVNYd7",
+  "snapshot_id": "AAAPBS97BqxTgH3Syt7WWIVqR0DmfQ7C",
   "tracks": [
+    {
+      "added_at": "2026-09-09 08:23:14",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "duration_ms": 489770,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
+    },
     {
       "added_at": "2026-08-27 13:07:48",
       "album": {
@@ -1407,6 +1423,22 @@
       "duration_ms": 169960,
       "name": "L'astronave",
       "url": "https://open.spotify.com/track/3cgNF8Pa9VU6MYpPsiWcvf"
+    },
+    {
+      "added_at": "2026-09-09 21:46:06",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/3lAJIdOrpMBJJc9VLNfrMP"
+      },
+      "artists": [
+        {
+          "name": "YAGA",
+          "url": "https://open.spotify.com/artist/0WbfaOeQ4zullSOwUnVsac"
+        }
+      ],
+      "duration_ms": 253435,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3jotFtJLdprcErSYOsDCbO"
     }
   ],
   "unique_name": "Indie Rock",

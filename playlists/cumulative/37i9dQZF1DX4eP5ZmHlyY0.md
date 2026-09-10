@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: &TEAM
 
-1,108 songs - 2 day 11 hr 52 min
+1,111 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 | 2025-04-21 |
 | [aigre\-doux](https://open.spotify.com/track/7MQRzWGNbrsbbJxlxFJ6MR) | [長妻怜央 & 安井謙太郎 from 7ORDER](https://open.spotify.com/artist/24p9nQZKkZpT2kI4eRwmjN) | [aigre\-doux](https://open.spotify.com/album/1Wom06jbs8fva9g4mZfB6N) | 3:17 | 2024-02-06 | 2024-02-14 |
 | [Align](https://open.spotify.com/track/2c7kYyXCrgfeKK8dET009i) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [MAGenter](https://open.spotify.com/album/5hIqFmBFKmakk5UdnhgWJe) | 3:15 | 2025-12-15 | 2026-03-10 |
+| [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 | 2026-09-09 |  |
 | [All 4 U](https://open.spotify.com/track/5xmNzGUk4jc7maVBxjuKTW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [All 4 U](https://open.spotify.com/album/7GosBgij0r8amicLz11kZV) | 3:06 | 2026-03-31 | 2026-04-21 |
 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 | 2025-07-09 |
 | [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 | 2025-07-24 | 2025-07-29 |
@@ -294,7 +295,8 @@
 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 | 2023-11-23 | 2024-02-14 |
 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 | 2024-04-10 |
 | [FIRST](https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [FIRST](https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8) | 3:14 | 2024-09-03 | 2024-11-10 |
-| [Flame \(feat\. milet\)](https://open.spotify.com/track/3kc015UcTXwPahxNLJqe4M) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flame \(feat\. milet\)](https://open.spotify.com/album/31iNQGSIHwJXUFXUhQ4Iel) | 3:07 | 2026-09-04 |  |
+| [Flame \(feat\. milet\)](https://open.spotify.com/track/167V5iL3BHjy9Fu5EO5hxW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flame \(feat\. milet\)](https://open.spotify.com/album/3IN99tLHkNBdqB9fLREzP1) | 3:07 | 2026-09-09 |  |
+| [Flame \(feat\. milet\)](https://open.spotify.com/track/3kc015UcTXwPahxNLJqe4M) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flame \(feat\. milet\)](https://open.spotify.com/album/31iNQGSIHwJXUFXUhQ4Iel) | 3:07 | 2026-09-04 | 2026-09-10 |
 | [Flip the Coin](https://open.spotify.com/track/2ngahTOJYKxjJoeBKAjZQt) | [NEWBEAT](https://open.spotify.com/artist/5Zj3vazMOh0sADCiAejr3z) | [RAW AND RAD](https://open.spotify.com/album/62XEKoEzO7FS84bPBHSLxj) | 2:53 | 2025-03-24 | 2025-07-02 |
 | [FLOAT](https://open.spotify.com/track/4W5VNip3sxbyPbpgsaXJTy) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [PHASE 1 : Soft Violence](https://open.spotify.com/album/6NeiKYzfx8nEgq5RlDqYTG) | 2:55 | 2026-09-01 |  |
 | [FLOW](https://open.spotify.com/track/2qLRfCmK69VvxTLpGzWLrj) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [FLOW](https://open.spotify.com/album/21CHgBI3l9kBYeAq9Ugawb) | 2:47 | 2024-03-07 | 2024-03-13 |
@@ -459,6 +461,7 @@
 | [Just Go](https://open.spotify.com/track/06N5gDiLRqzyrshVYJtSOn) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [COME TRUE](https://open.spotify.com/album/0TYQ6sOd4WG5XL9aQ0bUUH) | 3:09 | 2026-01-30 | 2026-02-12 |
 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-01-19 | 2025-03-07 |
 | [Just Say Yes](https://open.spotify.com/track/5BxqNSdRok2AaGSYVFXdmY) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Handz In My Pocket \(Special Edition\)](https://open.spotify.com/album/6aAGo57SUlJ5Z3TaTWnxiJ) | 3:15 | 2025-10-21 | 2025-11-03 |
+| [KAKERA \-Unmei no Piece\-](https://open.spotify.com/track/5BzO9ZJn7RIthj3U1qXK0L) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [KAKERA \-Unmei no Piece\-](https://open.spotify.com/album/5pJV7V3H5gyYqW3mMTWnmT) | 4:24 | 2026-09-09 |  |
 | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 | 2026-03-11 | 2026-06-23 |
 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 | 2024-12-17 | 2025-02-24 |
 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 | 2025-02-18 | 2025-04-30 |

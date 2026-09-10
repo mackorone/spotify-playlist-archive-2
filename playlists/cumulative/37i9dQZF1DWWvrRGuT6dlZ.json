@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Mona Shirakawa. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: owellciao. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -16885,6 +16885,24 @@
     },
     {
       "album": {
+        "name": "Only Wanna Be With You",
+        "url": "https://open.spotify.com/album/4vNlL29IUSp9g4dsr3AIVX"
+      },
+      "artists": [
+        {
+          "name": "RYAN ANDERS",
+          "url": "https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/4yd8IQLseDVvaHbkEODxRC"
+    },
+    {
+      "album": {
         "name": "opposites attract",
         "url": "https://open.spotify.com/album/1E5AQ9d72tUFY7taBIFSuY"
       },
@@ -18656,6 +18674,24 @@
       "duration_ms": 214756,
       "name": "Putus Asa",
       "url": "https://open.spotify.com/track/0meM92aaDDZjAOtc4Iq9TU"
+    },
+    {
+      "album": {
+        "name": "puzzle piece",
+        "url": "https://open.spotify.com/album/7aCb0byYcIO3oy0ijZ9Y4m"
+      },
+      "artists": [
+        {
+          "name": "owellciao",
+          "url": "https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "puzzle piece",
+      "url": "https://open.spotify.com/track/020qZ5kynvUuY9kLLVjaMn"
     },
     {
       "album": {
@@ -26828,6 +26864,24 @@
       "duration_ms": 277411,
       "name": "Would You Ever",
       "url": "https://open.spotify.com/track/6G5nyQPvqSfojOVzXfNAHf"
+    },
+    {
+      "album": {
+        "name": "wouldn't change for you",
+        "url": "https://open.spotify.com/album/1Ar15vmZe1I2FX7vDvzfJN"
+      },
+      "artists": [
+        {
+          "name": "kahmy",
+          "url": "https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "wouldn't change for you",
+      "url": "https://open.spotify.com/track/74GOphegX9cYK9DKAwzWm5"
     },
     {
       "album": {

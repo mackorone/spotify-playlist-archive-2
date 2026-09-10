@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADXHoUF03LuyaerJUAF283J",
+  "snapshot_id": "ap9QAAAAAABmhn1K2nbvlthKuv+2jDhl",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 217960,
-      "name": "You Got Lucky",
-      "url": "https://open.spotify.com/track/5eMZ3EPIMGoWlrrVhxatdv"
+      "duration_ms": 223333,
+      "name": "Into The Great Wide Open",
+      "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Into The Great Wide Open",
-      "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
+      "duration_ms": 217960,
+      "name": "You Got Lucky",
+      "url": "https://open.spotify.com/track/5eMZ3EPIMGoWlrrVhxatdv"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 300933,
       "name": "Room at the Top",
       "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Fillmore, 1997 (Deluxe)",
-        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 151687,
-      "name": "American Girl - Live at the Fillmore, 1997",
-      "url": "https://open.spotify.com/track/1Pbu4tX4D7H9zCNuXuynp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 321693,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 151687,
+      "name": "American Girl - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/1Pbu4tX4D7H9zCNuXuynp8"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 352413,
-      "name": "Louisiana Rain",
-      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 144026,
-      "name": "Anything That's Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
+      "duration_ms": 352413,
+      "name": "Louisiana Rain",
+      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Casa Dega",
-      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 250520,
       "name": "Something Good Coming",
       "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Casa Dega",
+      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last DJ",
-        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "Have Love, Will Travel",
-      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tom Petty And The Heartbreakers",
         "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 183400,
       "name": "The Wild One, Forever",
       "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "Have Love, Will Travel",
+      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
     },
     {
       "added_at": null,

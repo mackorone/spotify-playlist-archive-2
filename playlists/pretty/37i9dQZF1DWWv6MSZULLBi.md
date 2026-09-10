@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: young friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,247 likes - 151 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,242 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 20 | [Never Held One](https://open.spotify.com/track/2Bi9giuRwJmZ5NCFKbYxwT) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4) | [Never Held One](https://open.spotify.com/album/3vmzoxUtE1ziqS4cwjTge9) | 4:16 |
 | 21 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
 | 22 | [Lost Child](https://open.spotify.com/track/12nINXObjFpoofWmixLUrD) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Lost Child](https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol) | 3:31 |
-| 23 | [Leaving The Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
+| 23 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
 | 24 | [Tempest](https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Tempest](https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II) | 3:25 |
 | 25 | [California Sober](https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [California Sober / In Your Ocean \(Acoustic\)](https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7) | 3:20 |
 | 26 | [Coquihalla](https://open.spotify.com/track/5EdwMMjdUXyIe6K8oCJzrw) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [Coquihalla](https://open.spotify.com/album/6sOvtJyWQ7J8fIC2XRcmM3) | 2:36 |
-| 27 | [Casting Me Away From You](https://open.spotify.com/track/5rSKigOAKclUR3JzQgEb98) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Casting Me Away From You](https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss) | 2:37 |
+| 27 | [Casting Me Away From You](https://open.spotify.com/track/5rSKigOAKclUR3JzQgEb98) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Casting Me Away From You](https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss) | 2:38 |
 | 28 | [Compass](https://open.spotify.com/track/1cG638T4uymBifCbyqy8Qj) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Something More](https://open.spotify.com/album/0Lak2L8IVUM8nPjJh4H7vV) | 4:11 |
 | 29 | [Haven Hill](https://open.spotify.com/track/2os8dLW2POd2gezm36kXJe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Haven Hill](https://open.spotify.com/album/3HT5SnCWmVP7SNh7KetkC1) | 3:50 |
 | 30 | [Kaleidosphere \(Devil His Due\)](https://open.spotify.com/track/01bgR1vuRQbYXWj35UyC5k) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Sound Signal Serenades](https://open.spotify.com/album/0W7O5J3TceInPS5FGDjLbo) | 3:09 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 79 | [Trying to Love You](https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trying to Love You](https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk) | 4:50 |
 | 80 | [Her Eyes Dart Round](https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [Her Eyes Dart Round](https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1) | 2:53 |
 | 81 | [Clay Pigeons](https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Clay Pigeons](https://open.spotify.com/album/6D5WGK2o4UWgyY5X4GkAjq) | 3:09 |
-| 82 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:20 |
+| 82 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:15 |
 | 83 | [Old\-Fashioned Love Song](https://open.spotify.com/track/5UFbRkSIHF5ONf7iibz4pr) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Old\-Fashioned Love Song](https://open.spotify.com/album/5SnS6yKukeKSU2jbXgt92C) | 4:24 |
 | 84 | [Reminder](https://open.spotify.com/track/06M4bZjTkhiCx9s0uBfHmB) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Reminder](https://open.spotify.com/album/75vsZsmuJdCA1mxqh64T2u) | 4:45 |
 | 85 | [What Do I Do](https://open.spotify.com/track/0qOZddOqjMiWJBJqw6dn0p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [What Do I Do](https://open.spotify.com/album/6p2zNDTBbUMA3DOgEGaSkn) | 3:34 |

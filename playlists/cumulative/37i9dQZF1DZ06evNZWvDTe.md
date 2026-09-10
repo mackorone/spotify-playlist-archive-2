@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-252 songs - 14 hr 54 min
+253 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Psalm 35](https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Shay On You](https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke) | 3:32 | 2022-10-16 | 2023-05-15 |
 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 | 2025-11-16 |  |
 | [Rns Rich Nigga Shit](https://open.spotify.com/track/4vKO4U7OCu9lcWnW7NkZmp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Rns Rich Nigga Shit](https://open.spotify.com/album/1ToAS30v6lc1e7qAtqRliw) | 3:22 | 2022-10-19 | 2022-11-13 |
-| [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 | 2025-10-02 |  |
+| [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 | 2025-10-02 | 2026-09-10 |
 | [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 | 2021-12-28 | 2025-09-17 |
 | [Round 2 \(feat\. Giggs\)](https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:56 | 2022-01-01 | 2022-03-23 |
 | [Saa Okodie No](https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 4:08 | 2025-11-25 | 2026-07-24 |
@@ -211,6 +211,7 @@
 | [Sarkastic](https://open.spotify.com/track/1hu8nXmfGce1ppr4yGGyXX) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [The Last Of A Dying Breed](https://open.spotify.com/album/7ruMWGWsEzrDGl2EM9wshD) | 4:07 | 2026-01-15 | 2026-05-03 |
 | [Shake Body](https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU) | [Masta Groove](https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY) | 3:09 | 2022-09-10 | 2024-04-19 |
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-20 | 2024-05-08 |
+| [Sika](https://open.spotify.com/track/08k1vfVq9tiN1fRUMWGnS7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sika](https://open.spotify.com/album/6w3cZP8pDu7R5wQjgsqeXj) | 4:42 | 2026-09-10 |  |
 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 | 2022-04-28 | 2025-05-07 |
 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 | 2022-04-18 | 2025-08-14 |
 | [Stir It Up](https://open.spotify.com/track/7h35uAmKtfoUwTiUhHkmjs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:41 | 2023-08-13 | 2024-09-05 |

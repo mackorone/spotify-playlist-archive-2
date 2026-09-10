@@ -1,12 +1,12 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 110437,
+  "num_followers": 110457,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABA7a2I8iV2bhgroLvoOw3vn2mS5HXA",
+  "snapshot_id": "AABA7twfelq2MaB+RLHFXm+JbgZRmaBP",
   "tracks": [
     {
       "added_at": "2026-08-21 05:37:05",
@@ -27,6 +27,26 @@
       "duration_ms": 207619,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y"
+    },
+    {
+      "added_at": "2026-09-08 08:03:34",
+      "album": {
+        "name": "Deep Chicken (Astrality Remix)",
+        "url": "https://open.spotify.com/album/7Bn01DLJMv6olKHBbFeZwF"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        },
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 257187,
+      "name": "Deep Chicken - Astrality Remix",
+      "url": "https://open.spotify.com/track/7jnUxTj25G6nKi8PwtIBTy"
     },
     {
       "added_at": "2026-09-02 22:09:12",
@@ -975,26 +995,6 @@
       "duration_ms": 195555,
       "name": "Team Outside",
       "url": "https://open.spotify.com/track/1UzgXSvZUu2o4o4NGo4HnF"
-    },
-    {
-      "added_at": "2026-09-08 08:03:34",
-      "album": {
-        "name": "Deep Chicken (Astrality Remix)",
-        "url": "https://open.spotify.com/album/7Bn01DLJMv6olKHBbFeZwF"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        },
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 257187,
-      "name": "Deep Chicken - Astrality Remix",
-      "url": "https://open.spotify.com/track/7jnUxTj25G6nKi8PwtIBTy"
     },
     {
       "added_at": "2026-07-31 14:11:12",

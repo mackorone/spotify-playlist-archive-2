@@ -6474,7 +6474,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -12687,6 +12687,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
+    },
+    {
+      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
@@ -13146,7 +13164,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -26506,7 +26524,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 255000,
       "name": "Kur ir t\u0101 j\u016bra?",
       "url": "https://open.spotify.com/track/2ezQhiqDnJYRQNpFVKIvdy"
@@ -27374,7 +27392,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Laup\u012b\u0161ana",
       "url": "https://open.spotify.com/track/4T11T9Xug937CWy5esFT7N"
@@ -36588,7 +36606,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 169680,
       "name": "N\u0101rnija",
       "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
@@ -38520,7 +38538,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 190714,
       "name": "Par Atmi\u0146\u0101m",
       "url": "https://open.spotify.com/track/5KeVphreV2qkvRZupdMFXD"
@@ -55932,6 +55950,24 @@
       "duration_ms": 253586,
       "name": "VENT'ANNI",
       "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
+    },
+    {
+      "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93187,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
     },
     {
       "album": {

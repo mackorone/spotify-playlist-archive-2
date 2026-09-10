@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97966,
+  "num_followers": 97973,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Estoy Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Jefe Fresa",
-      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Eres Mi Sexto Sentido",
         "url": "https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 184900,
       "name": "Guachita Hermosa",
       "url": "https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Jefe Fresa",
+      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Al 100 y Pasadito",
-        "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
-          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
-        }
-      ],
-      "duration_ms": 157622,
-      "name": "La Boca Es Para Comer",
-      "url": "https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Por Qu\u00e9 Me Gustas",
         "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 221354,
       "name": "5 Minutos",
       "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Al 100 y Pasadito",
+        "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
+          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
+        }
+      ],
+      "duration_ms": 157622,
+      "name": "La Boca Es Para Comer",
+      "url": "https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Mal Amor",
-        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Mal Amor",
+        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
       "artists": [
         {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
         }
       ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Al Mismo Nivel",
-        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
-      },
-      "artists": [
-        {
-          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 203125,
       "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
       "url": "https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Al Mismo Nivel",
+        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
+      },
+      "artists": [
+        {
+          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "\u00c9chame La Culpa A Mi",
+        "url": "https://open.spotify.com/album/1MQKjRr3LQmOUSnKfrBb3l"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "\u00c9chame La Culpa A Mi",
+      "url": "https://open.spotify.com/track/271VZINotNJnfByIZW3SGK"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Canci\u00f3n a mi Pap\u00e1",
         "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 170812,
       "name": "Canci\u00f3n a mi Pap\u00e1",
       "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "Te Ves Fatal",
-        "url": "https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
     }
   ],
   "unique_name": "Tierra Caliente",

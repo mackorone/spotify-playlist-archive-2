@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 219334,
       "name": "Planos",
       "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
@@ -1692,6 +1692,28 @@
       "duration_ms": 165299,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/7tDghG79gNiQzE1wgLI8Fp"
+    },
+    {
+      "album": {
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
     },
     {
       "album": {

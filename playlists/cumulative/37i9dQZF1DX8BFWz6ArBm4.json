@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina Lioliou",
+  "description": "\u0398\u03c5\u03bc\u03cc\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd \u0393\u03b9\u03ce\u03c1\u03b3\u03bf \u039c\u03b1\u03b6\u03c9\u03bd\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae \u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ac \u03c4\u03bf\u03c5.",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 238777,
       "name": "12 Tsigara",
       "url": "https://open.spotify.com/track/3KjgRSqqVtkbs44g2dlRnQ"
@@ -118,6 +118,42 @@
       "duration_ms": 170257,
       "name": "Agapi Mou Me Dioxneis",
       "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
+    },
+    {
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206630,
+      "name": "Agapo Simeni",
+      "url": "https://open.spotify.com/track/1ANPH4P1vGm6ACBtlXjMXv"
+    },
+    {
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/6c5sBIoLOBq4Gc1emQ8dgX"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207637,
+      "name": "Agapo Simeni",
+      "url": "https://open.spotify.com/track/5kMtCT2rpD26KCiHFu5VqY"
     },
     {
       "album": {
@@ -282,7 +318,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 254769,
       "name": "Amyna",
       "url": "https://open.spotify.com/track/3taCePOvlBh8K72OS2I0B9"
@@ -325,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260184,
+      "name": "An M' Akous",
+      "url": "https://open.spotify.com/track/02taeXGFYC32WRWZrbRwPX"
+    },
+    {
+      "album": {
         "name": "An Me Agapas Deiks' To",
         "url": "https://open.spotify.com/album/3VTtb3b5nGLNcFlZZtfm9W"
       },
@@ -354,7 +408,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 283520,
       "name": "Anasa",
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
@@ -405,6 +459,46 @@
     },
     {
       "album": {
+        "name": "To Louketo",
+        "url": "https://open.spotify.com/album/1CJHMDTR0fh77HVuJTUjDv"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Aniko Se Mena",
+      "url": "https://open.spotify.com/track/4iyruKhfMGVKXKmhUSUHiX"
+    },
+    {
+      "album": {
+        "name": "Aniko Se Mena",
+        "url": "https://open.spotify.com/album/5IHTJwEBPBqtnMt8stGPD4"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Kid Moxie",
+          "url": "https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "Aniko Se Mena",
+      "url": "https://open.spotify.com/track/6mYd2aGw8MBa6aP4F6F6Sh"
+    },
+    {
+      "album": {
         "name": "Antisimvatiki Sxesi",
         "url": "https://open.spotify.com/album/2nH9TR365bFoDbxHo3UqEj"
       },
@@ -420,7 +514,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 198912,
       "name": "Antisimvatiki Sxesi",
       "url": "https://open.spotify.com/track/1iqDMi4MyYsxj2aAivSsdC"
@@ -586,7 +680,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 170000,
       "name": "Ase Oti Kaneis",
       "url": "https://open.spotify.com/track/2fSUhpsHAuW3exWwQiAI3s"
@@ -622,7 +716,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 187602,
       "name": "Astrofeggia",
       "url": "https://open.spotify.com/track/6VYarRcF6WxGDZ0BejmCR9"
@@ -658,7 +752,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 186506,
       "name": "Avgoustiatiko Feggari",
       "url": "https://open.spotify.com/track/4m1rVXIjwDNnWiuMZov3o9"
@@ -818,7 +912,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 161785,
       "name": "Den Apantas",
       "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
@@ -840,6 +934,32 @@
       "duration_ms": 212342,
       "name": "Den Einai Pou S' Agapisa",
       "url": "https://open.spotify.com/track/0c4nr4Q6x1hG7VlzjkCGdD"
+    },
+    {
+      "album": {
+        "name": "Hardcore Lounge",
+        "url": "https://open.spotify.com/album/2XXcSMFduPZKBfAANnmc9m"
+      },
+      "artists": [
+        {
+          "name": "Studio HC Orchestra",
+          "url": "https://open.spotify.com/artist/0GJOQIy1NBiTXvSpbtUlPn"
+        },
+        {
+          "name": "Glacial",
+          "url": "https://open.spotify.com/artist/3B3qnIuVRLlLuxWgQNSPCt"
+        },
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187031,
+      "name": "Den Ime Ego",
+      "url": "https://open.spotify.com/track/18yNRhNCzkGhayQzsobFQT"
     },
     {
       "album": {
@@ -912,6 +1032,24 @@
       "duration_ms": 240222,
       "name": "Deutera",
       "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281443,
+      "name": "Diskola Feggaria",
+      "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
     },
     {
       "album": {
@@ -988,6 +1126,24 @@
       "duration_ms": 193963,
       "name": "Dyskolos Xaraktiras",
       "url": "https://open.spotify.com/track/2nmWMCVLLeyePXtCrVacyH"
+    },
+    {
+      "album": {
+        "name": "Edo",
+        "url": "https://open.spotify.com/album/3228LC5J9gyebLoyKfDGz9"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176239,
+      "name": "Edo - Radio Edit",
+      "url": "https://open.spotify.com/track/5v3yV4IhnkmZ2Quu1NtAto"
     },
     {
       "album": {
@@ -1108,7 +1264,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 243936,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
@@ -1195,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Ta Kalitera",
+        "url": "https://open.spotify.com/album/4fKpKe1WA0jInmJrXL2JnG"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268120,
+      "name": "Ela Na Deis",
+      "url": "https://open.spotify.com/track/7rcQWfz03mH2fEfmXqgBus"
+    },
+    {
+      "album": {
         "name": "Emeis",
         "url": "https://open.spotify.com/album/2mzrqsgeLmp1aw9jRTL9Cs"
       },
@@ -1235,6 +1409,42 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269768,
+      "name": "Ena Thavma",
+      "url": "https://open.spotify.com/track/4oMBRSkdtjd5lZHi4zYvkp"
+    },
+    {
+      "album": {
+        "name": "Ena Thavma",
+        "url": "https://open.spotify.com/album/73uBIpxXfqpqgOj8NAcGU6"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271820,
+      "name": "Ena Thavma",
+      "url": "https://open.spotify.com/track/6FwF7HxWA67H5fSiMm7x8H"
+    },
+    {
+      "album": {
         "name": "Enoho Kormi",
         "url": "https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P"
       },
@@ -1246,7 +1456,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 219795,
       "name": "Enoho Kormi",
       "url": "https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd"
@@ -1322,7 +1532,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 222083,
       "name": "Epithesi",
       "url": "https://open.spotify.com/track/50QoR0IEoj8pg3cqzn2nPC"
@@ -1376,7 +1586,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 242000,
       "name": "Etsi Eimai",
       "url": "https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8"
@@ -1394,7 +1604,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 190148,
       "name": "Etsi Exei Mathei",
       "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
@@ -1530,7 +1740,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -1642,10 +1852,32 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 199648,
       "name": "Fortigo",
       "url": "https://open.spotify.com/track/2NndVcLMwvJt6NYnm7ufUs"
+    },
+    {
+      "album": {
+        "name": "Diko Mou",
+        "url": "https://open.spotify.com/album/0zR1ABpo7EEwl8U8C3R8Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "Fotia Mou",
+      "url": "https://open.spotify.com/track/3olMbhB6NEScttDGk7yj2h"
     },
     {
       "album": {
@@ -1664,6 +1896,24 @@
       "duration_ms": 175462,
       "name": "Fotografies",
       "url": "https://open.spotify.com/track/77fUCoEscEFsbE22NKv42N"
+    },
+    {
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "Foveri",
+      "url": "https://open.spotify.com/track/6mKIDcpm0TQOixG71Pyae0"
     },
     {
       "album": {
@@ -1722,7 +1972,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 211137,
       "name": "Gia Mena",
       "url": "https://open.spotify.com/track/1VmTEkRCztvb2ubRcH1Gs9"
@@ -1788,7 +2038,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 156176,
       "name": "Gia To Kalo Mou",
       "url": "https://open.spotify.com/track/4Ga61DQK2yrGSkh0xn9iur"
@@ -1890,7 +2140,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 230256,
       "name": "Hanome",
       "url": "https://open.spotify.com/track/7mLlh7q7iKTPoYTeog0OUc"
@@ -2031,6 +2281,60 @@
     },
     {
       "album": {
+        "name": "I Kardia Mou",
+        "url": "https://open.spotify.com/album/0j2InohDPy1DCd28b1OU4Q"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279010,
+      "name": "I Kardia Mou",
+      "url": "https://open.spotify.com/track/6Ueg5EDfszVrgNsxzvnWTu"
+    },
+    {
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Inopnevma Ftino",
+      "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
+    },
+    {
+      "album": {
+        "name": "Inopnevma Ftino",
+        "url": "https://open.spotify.com/album/4VzQlcJ61sMSxMAY4v3B8X"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Inopnevma Ftino",
+      "url": "https://open.spotify.com/track/6IXf1ItX7jvR9qDG8T56MW"
+    },
+    {
+      "album": {
         "name": "Ipa Sou Htenistou",
         "url": "https://open.spotify.com/album/4A6zWpwWUhwHcPbtHEMPi6"
       },
@@ -2096,7 +2400,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 165328,
       "name": "KABANES",
       "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
@@ -2114,7 +2418,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 227000,
       "name": "Kai Eis Anotera",
       "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
@@ -2180,6 +2484,24 @@
       "duration_ms": 241280,
       "name": "Kalokeri",
       "url": "https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp"
+    },
+    {
+      "album": {
+        "name": "Kalos Sas Vrika",
+        "url": "https://open.spotify.com/album/51lUHTj2QkZ5iTszlbbKHL"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224760,
+      "name": "Kalos Sas Vrika",
+      "url": "https://open.spotify.com/track/0gVu88TRGxLr7VLhtkBjXw"
     },
     {
       "album": {
@@ -2346,7 +2668,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 166800,
       "name": "Katarameni Kardia",
       "url": "https://open.spotify.com/track/36X7kwEYIWh6gQtB4MGZaJ"
@@ -2400,7 +2722,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 240071,
       "name": "Kenouries Meres",
       "url": "https://open.spotify.com/track/5BgJaJcoUx5iZmbYwxl1ew"
@@ -2436,7 +2758,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 197551,
       "name": "Kollima",
       "url": "https://open.spotify.com/track/1jGZX7XcviQ8PAwOCnP0pA"
@@ -2476,7 +2798,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 281624,
       "name": "Kori Mou",
       "url": "https://open.spotify.com/track/0XiLP3zSCn3lSlds4Zdo6x"
@@ -2548,7 +2870,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 202894,
       "name": "Lathos Sou",
       "url": "https://open.spotify.com/track/2vDJ8rZVKKDQvzeZknZpMH"
@@ -2620,10 +2942,28 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 152829,
       "name": "Lemonia Mou",
       "url": "https://open.spotify.com/track/3Ypd9akQZ1uisFau9qWi73"
+    },
+    {
+      "album": {
+        "name": "Lipi Pali O Theos",
+        "url": "https://open.spotify.com/album/1idniLRErXsEmZ76HqGAEe"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252283,
+      "name": "Lipi Pali O Theos",
+      "url": "https://open.spotify.com/track/45uAHimGTBiDXolHg7RUSE"
     },
     {
       "album": {
@@ -2768,7 +3108,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 182928,
       "name": "Mavra Feggaria",
       "url": "https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm"
@@ -2826,7 +3166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 208355,
       "name": "maZW Akoma (Ola Mou Ta Thelo)",
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
@@ -2932,7 +3272,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -3012,7 +3352,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 199581,
       "name": "MHN FIGEIS MEINE",
       "url": "https://open.spotify.com/track/1kl2x4SKPXSlqjQ36NQBcZ"
@@ -3055,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Min Pas Pouthena",
+        "url": "https://open.spotify.com/album/71THflgIcL7hz2PzXkPHqX"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246285,
+      "name": "Min Pas Pouthena",
+      "url": "https://open.spotify.com/track/5UYQqxTJuk0GinPYZekDCM"
+    },
+    {
+      "album": {
         "name": "Minima Estali",
         "url": "https://open.spotify.com/album/3Y97UbFx8EtESVvuSNIsBi"
       },
@@ -3088,7 +3446,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 210337,
       "name": "Monadikos Ipefthinos",
       "url": "https://open.spotify.com/track/66wNGWlJ3jl50Yfrp9U1iC"
@@ -3142,7 +3500,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 219681,
       "name": "Mono Logia",
       "url": "https://open.spotify.com/track/5nLZH9sUmzExy4kOewevc9"
@@ -3214,7 +3572,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 200576,
       "name": "Na Girnouses Piso",
       "url": "https://open.spotify.com/track/2opshSqvan9kufDbZSmbzw"
@@ -3250,7 +3608,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 180600,
       "name": "Na M' Agapas",
       "url": "https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO"
@@ -3290,6 +3648,24 @@
       "duration_ms": 261474,
       "name": "Na Pernas",
       "url": "https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis"
+    },
+    {
+      "album": {
+        "name": "Na Pernas",
+        "url": "https://open.spotify.com/album/5olEGV4JhNsWwvTzRbjHWS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261474,
+      "name": "Na Pernas",
+      "url": "https://open.spotify.com/track/4k4vVNDi90EXY62xvQLnq0"
     },
     {
       "album": {
@@ -3511,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Oi Antres Den Klene (Monacha Ponane)",
+        "url": "https://open.spotify.com/album/2fchTr8lmLAzwcCmM4mboO"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Oi Antres Den Klene (Monacha Ponane)",
+      "url": "https://open.spotify.com/track/5MJAC1NqkA4UNqp4loVzCk"
+    },
+    {
+      "album": {
         "name": "Ola Gia Ola",
         "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
       },
@@ -3583,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269314,
+      "name": "Ores Mikres",
+      "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
+    },
+    {
+      "album": {
         "name": "Pagkosmia Mera Tou Psefti",
         "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
       },
@@ -3594,7 +4006,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 165239,
       "name": "Pagkosmia Mera Tou Psefti",
       "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
@@ -3612,7 +4024,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 189649,
       "name": "Pagkosmio Fainomeno",
       "url": "https://open.spotify.com/track/6D4HZbIu78JR8Dh9Owi7OO"
@@ -3634,6 +4046,28 @@
       "duration_ms": 178612,
       "name": "Paidi Tis Nihtas",
       "url": "https://open.spotify.com/track/4rRYZpFSnqsQ2fCctTOj3K"
+    },
+    {
+      "album": {
+        "name": "Paidi Tis Nixtas",
+        "url": "https://open.spotify.com/album/2Qu31WwByO76KeQqU9Opok"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Paidi Tis Nixtas",
+      "url": "https://open.spotify.com/track/1pgHTgifpQN35pO1dWhJ9W"
     },
     {
       "album": {
@@ -3688,6 +4122,24 @@
       "duration_ms": 162035,
       "name": "Pano Kato",
       "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
+    },
+    {
+      "album": {
+        "name": "Par' Ta Ola Dika Sou (20 Chronia Eleana Vrachali / Paidi Diko Sou)",
+        "url": "https://open.spotify.com/album/3E3wYZm41wsCpbLk6ZY0Yj"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255117,
+      "name": "Par' Ta Ola Dika Sou - 20 Chronia Eleana Vrachali / Paidi Diko Sou",
+      "url": "https://open.spotify.com/track/3dKMLXkSyqsXUSZIG0b7kx"
     },
     {
       "album": {
@@ -3796,7 +4248,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 220694,
       "name": "Pare Na Exeis",
       "url": "https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15"
@@ -3836,10 +4288,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 153264,
       "name": "PAR\u00c9A - co-starring Lena Zevgara",
       "url": "https://open.spotify.com/track/1Ualn0R2DXgdx3OxlaGKLC"
+    },
+    {
+      "album": {
+        "name": "Patas Ta Oria",
+        "url": "https://open.spotify.com/album/29NR8hMisZduUbid9dKXhL"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Patas Ta Oria",
+      "url": "https://open.spotify.com/track/7ANbXdSrmlSKT5piq6OTr6"
     },
     {
       "album": {
@@ -3872,7 +4342,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 221570,
       "name": "Perastikoi",
       "url": "https://open.spotify.com/track/5lGwvQdPqkISzWf2t1c4HN"
@@ -3980,7 +4450,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194202,
       "name": "Pigene Me Pali Piso Taxitzi",
       "url": "https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G"
@@ -4024,10 +4494,28 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 215937,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
+    },
+    {
+      "album": {
+        "name": "Pnigomai",
+        "url": "https://open.spotify.com/album/2xNlJdlKfSfnDGnKS8bw7y"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "Pnigomai",
+      "url": "https://open.spotify.com/track/2wkTYwLhmZ2ii2HzXI6idC"
     },
     {
       "album": {
@@ -4078,7 +4566,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 216774,
       "name": "Pou Na Pao",
       "url": "https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S"
@@ -4126,7 +4614,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 168000,
       "name": "Prive",
       "url": "https://open.spotify.com/track/5Jwzkuu1edcK252FWNNpM9"
@@ -4198,7 +4686,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 175613,
       "name": "Psemata Mi Po",
       "url": "https://open.spotify.com/track/3NDkI4Vqf7AYBBNQXufprj"
@@ -4270,7 +4758,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 169456,
       "name": "S' Agapo San Amartia",
       "url": "https://open.spotify.com/track/3S9BnC9E3a2DmJ8oq6BTwu"
@@ -4288,7 +4776,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194658,
       "name": "Safari",
       "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
@@ -4357,6 +4845,32 @@
     },
     {
       "album": {
+        "name": "Savvato",
+        "url": "https://open.spotify.com/album/1NkUIqDz4AEyWcIH8z13sk"
+      },
+      "artists": [
+        {
+          "name": "M.Hustler",
+          "url": "https://open.spotify.com/artist/4DQVXkgvUChjlRvkwoLc1a"
+        },
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234344,
+      "name": "Savvato",
+      "url": "https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq"
+    },
+    {
+      "album": {
         "name": "Savvato Vrady",
         "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
       },
@@ -4390,6 +4904,28 @@
       "duration_ms": 214218,
       "name": "Se Afisa Sto Htes - Eisai Treli",
       "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
+    },
+    {
+      "album": {
+        "name": "S Eho Epithimisei",
+        "url": "https://open.spotify.com/album/3VBBydXRv8DzmiKdRiCMl0"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Se Eho Epithimisei",
+      "url": "https://open.spotify.com/track/3xkxHgTvglpbQbr8iyCKWm"
     },
     {
       "album": {
@@ -4643,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Sopa Ki Akou",
+        "url": "https://open.spotify.com/album/2k4ZiaGMiSOX10pdyWx6sx"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260475,
+      "name": "Sopa Ki Akou",
+      "url": "https://open.spotify.com/track/6DM7ri4nMgqDfHBNeFjPgP"
+    },
+    {
+      "album": {
         "name": "Sou Eho Agapi Megali",
         "url": "https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8"
       },
@@ -4690,7 +5244,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
@@ -4708,7 +5262,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 188316,
       "name": "Spaste Ta",
       "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
@@ -4730,7 +5284,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 191379,
       "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
       "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
@@ -4835,6 +5389,32 @@
     },
     {
       "album": {
+        "name": "Summer In Greece",
+        "url": "https://open.spotify.com/album/588u6xiPemgTfBD5dL26oK"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Victoria Halkiti",
+          "url": "https://open.spotify.com/artist/4C2tQheZrX1lofahPNRMP0"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265184,
+      "name": "Summer in Greece",
+      "url": "https://open.spotify.com/track/1HzuFgh5jCK8A7tLKUKdue"
+    },
+    {
+      "album": {
         "name": "Ta Ehoume Pei",
         "url": "https://open.spotify.com/album/43z2iEsY78F2swT8oAgtfJ"
       },
@@ -4864,7 +5444,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 428383,
       "name": "Ta Erotika Part 2 - Unplugged Live Medley",
       "url": "https://open.spotify.com/track/3q1xdKVTR8dI1A4Udmp4jt"
@@ -4954,7 +5534,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 195573,
       "name": "TA NISIOTIKA PAIDIA",
       "url": "https://open.spotify.com/track/4XDlAln3qATRL5FCZwnny5"
@@ -4972,7 +5552,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 175147,
       "name": "Ta Parapona Mou",
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
@@ -5059,6 +5639,24 @@
     },
     {
       "album": {
+        "name": "To Paraxeno Me Mena",
+        "url": "https://open.spotify.com/album/5WTfJJrkGpfNC84T9ioBvf"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252869,
+      "name": "Terma",
+      "url": "https://open.spotify.com/track/0GapJ5Qqs7ejIqkKO5a2Ee"
+    },
+    {
+      "album": {
         "name": "Terma Laika",
         "url": "https://open.spotify.com/album/6gsa6An5xsJ9FEJHMEUhkM"
       },
@@ -5092,6 +5690,24 @@
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
+    },
+    {
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254373,
+      "name": "Tesseris Pige",
+      "url": "https://open.spotify.com/track/33RFyLDmblI628Ny8qP8uq"
     },
     {
       "album": {
@@ -5230,6 +5846,24 @@
     {
       "album": {
         "name": "Thalasses",
+        "url": "https://open.spotify.com/album/03XpLUsXcPksF7MVIYWFXY"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "Thalasses",
+      "url": "https://open.spotify.com/track/0nGKflfBcF4zajyhRxa8kX"
+    },
+    {
+      "album": {
+        "name": "Thalasses",
         "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
       },
       "artists": [
@@ -5258,7 +5892,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 251308,
       "name": "Thalassografia",
       "url": "https://open.spotify.com/track/0PfaNcbiGZHzadkKGdetYg"
@@ -5280,7 +5914,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194099,
       "name": "Thimizeis Kati Apo Ellada",
       "url": "https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg"
@@ -5298,7 +5932,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 195112,
       "name": "Ti Gynaika Eisai Esy",
       "url": "https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW"
@@ -5399,6 +6033,24 @@
     },
     {
       "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221192,
+      "name": "Ti Sou Eho Kanei",
+      "url": "https://open.spotify.com/track/3EK0uoI0u6ZvH7WNgz2jU9"
+    },
+    {
+      "album": {
         "name": "Ti Sou Hrostao",
         "url": "https://open.spotify.com/album/4aQB3sUB56Gn52u3BJ1lel"
       },
@@ -5414,7 +6066,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 203797,
       "name": "Ti Sou Hrostao",
       "url": "https://open.spotify.com/track/0oFoDNiUUSxcx0wzZsT8y2"
@@ -5556,7 +6208,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 201013,
       "name": "To Proto Sou Fili",
       "url": "https://open.spotify.com/track/5KKrxq8JQ90ETCeRgeKGcT"
@@ -5653,6 +6305,28 @@
     },
     {
       "album": {
+        "name": "Tora Tora (Boro Boro)",
+        "url": "https://open.spotify.com/album/0fzbLBpbGXvRPpBlL1BZqC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Tora Tora (Boro Boro)",
+      "url": "https://open.spotify.com/track/4N7UpiOnVCysT8K3QqK9Me"
+    },
+    {
+      "album": {
         "name": "Ta Dika Mou Nisiotika",
         "url": "https://open.spotify.com/album/4yHDv2u45TqswVzz6mB29k"
       },
@@ -5664,7 +6338,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 225434,
       "name": "Tou Horiou Mou Ta Sokakia",
       "url": "https://open.spotify.com/track/1tmJFGLIJbUWWRdmXZ3T1Q"
@@ -5726,7 +6400,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 161814,
       "name": "Tzamaika - Live From Athens, Greece / 2026",
       "url": "https://open.spotify.com/track/1ykIbJe0wczOTWYEv1gu9x"
@@ -5744,7 +6418,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
@@ -5788,7 +6462,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 196166,
       "name": "Xatiri",
       "url": "https://open.spotify.com/track/53XZxBD8QICUrA1PrClBvh"
@@ -5828,7 +6502,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 162683,
       "name": "Xelogiastra",
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
@@ -5868,7 +6542,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
@@ -5974,6 +6648,24 @@
       "duration_ms": 227789,
       "name": "Yposinidito",
       "url": "https://open.spotify.com/track/39pggFowhEJLR6jEnYzEb1"
+    },
+    {
+      "album": {
+        "name": "Paidi Tis Nychtas",
+        "url": "https://open.spotify.com/album/4UEk9yNFllhpH6reMCJaZU"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Zilevo",
+      "url": "https://open.spotify.com/track/0szmijpnvC2vy9fZtET0Fd"
     },
     {
       "album": {

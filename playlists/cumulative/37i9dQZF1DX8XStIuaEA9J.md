@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: JO1
 
-2,003 songs - 4 day 18 hr 39 min
+2,003 songs - 4 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,6 +982,7 @@
 | [Sweet Illusion](https://open.spotify.com/track/6B8wyrDPiNblURc7V0RYJT) | [Haruki Hamano](https://open.spotify.com/artist/4M9QFJob54EhKhyxeCjmOR) | [From Fukuoka](https://open.spotify.com/album/77eGDeGoUuBmXZMqzWbBA6) | 2:35 | 2026-08-04 | 2026-08-12 |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-03-19 | 2024-05-15 |
 | [Sweetie](https://open.spotify.com/track/2YORtNHlZ4AF1iqfa64Z9L) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Sweetie](https://open.spotify.com/album/48pkdo7vJncc2iGpmcb5ce) | 2:34 | 2024-12-03 | 2025-02-19 |
+| [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 | 2026-09-08 |  |
 | [TAKE IT BACK](https://open.spotify.com/track/2Xq5v9lRy6kxaLL3fJq4Fm) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [MUSi\-aM](https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie) | 2:22 | 2024-10-01 | 2024-10-09 |
 | [Take Me Home](https://open.spotify.com/track/3GKE5mjJZyISiK9wqEQtiU) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Take Me Home](https://open.spotify.com/album/3ijF5MCsS0AfHoIHeAHJpt) | 3:30 | 2025-08-26 | 2025-10-22 |
 | [Talk that Talk \- Japanese ver.](https://open.spotify.com/track/47crMubP1Z1dvjUjkrHulp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Talk that Talk \(Japanese ver.\)](https://open.spotify.com/album/6N4brtEUhu2zhwbV1GkMwi) | 2:57 | 2025-04-15 | 2025-05-14 |
@@ -1045,7 +1046,6 @@
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-11-12 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-05-13 |
-| [Track 2](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 0:00 | 2026-09-08 |  |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 | 2025-11-25 | 2025-12-24 |

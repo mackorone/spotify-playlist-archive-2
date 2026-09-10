@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
-  "num_followers": 873622,
+  "num_followers": 873556,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
         "name": "KEEP SEEING THINGS",
         "url": "https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 160000,
       "name": "KEEP SEEING THINGS",
       "url": "https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 171000,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 119172,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
         "name": "ALLNIGHTER",
         "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
       },
@@ -1603,22 +1623,22 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
+        "name": "Lazarus Rise",
+        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
       },
       "artists": [
         {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
         },
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         }
       ],
-      "duration_ms": 135724,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+      "duration_ms": 192727,
+      "name": "Lazarus Rise",
+      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1663,22 +1683,18 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "Lazarus Rise",
-        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
       },
       "artists": [
         {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 192727,
-      "name": "Lazarus Rise",
-      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1695,22 +1711,6 @@
       "duration_ms": 144000,
       "name": "move! (that body)",
       "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-09-04 04:02:03",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-09-04 04:02:03",
       "album": {
-        "name": "RXGER CLUB!",
-        "url": "https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld"
-      },
-      "artists": [
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "redSKY",
-      "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
-    },
-    {
-      "added_at": "2026-09-04 04:02:03",
-      "album": {
         "name": "Dead To Me",
         "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 179142,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
+    },
+    {
+      "added_at": "2026-09-04 04:02:03",
+      "album": {
+        "name": "RXGER CLUB!",
+        "url": "https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld"
+      },
+      "artists": [
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "redSKY",
+      "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
     },
     {
       "added_at": "2026-09-04 04:02:03",

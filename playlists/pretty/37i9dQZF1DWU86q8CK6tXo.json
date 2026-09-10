@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Willow Avalon",
-  "num_followers": 65339,
+  "num_followers": 65340,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "the bridge",
-        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+        "name": "Get Hit",
+        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
         }
       ],
-      "duration_ms": 233533,
-      "name": "the bridge",
-      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
+      "duration_ms": 114928,
+      "name": "Get Hit",
+      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Get Hit",
-        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
       },
       "artists": [
         {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 114928,
-      "name": "Get Hit",
-      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 173655,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "NWM",
         "url": "https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 192000,
       "name": "NWM",
       "url": "https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 173655,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -691,6 +691,38 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 173827,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "only one way to know",
+        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "only one way to know",
+      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
         "name": "Happy For Myself",
         "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
       },
@@ -723,50 +755,18 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "only one way to know",
-        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
       },
       "artists": [
         {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 166378,
-      "name": "only one way to know",
-      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 173827,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
-        "name": "Pathetic",
-        "url": "https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 202606,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/13QihOzLoI07UwMONgspKh"
+      "duration_ms": 169591,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+        "name": "Pathetic",
+        "url": "https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+      "duration_ms": 202606,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/13QihOzLoI07UwMONgspKh"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Ethereal Redneck Shit",
-        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 233357,
-      "name": "Ethereal Redneck Shit",
-      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "Joy Without Sound",
         "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 195480,
       "name": "Joy Without Sound",
       "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Ethereal Redneck Shit",
+        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 233357,
+      "name": "Ethereal Redneck Shit",
+      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
     },
     {
       "added_at": "2026-09-02 14:25:13",

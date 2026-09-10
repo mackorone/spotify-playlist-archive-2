@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: g0nny (\uac70\ub2c8))  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Chang Kiha)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -20923,6 +20923,24 @@
     },
     {
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/078MaeP1UL9jU9ypV2xiEN"
+      },
+      "artists": [
+        {
+          "name": "\uc57c\uc790\uc218",
+          "url": "https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290258,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4lFx0JSmbkvY3OlHC7e06b"
+    },
+    {
+      "album": {
         "name": "Swimming In Stars",
         "url": "https://open.spotify.com/album/7bhmu8wRFlltlaJTlDvfYJ"
       },
@@ -22374,7 +22392,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 189069,
       "name": "Too Young, Too Unready",
       "url": "https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De"
@@ -22660,7 +22678,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 213700,
       "name": "UFO",
       "url": "https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6"
@@ -23010,7 +23028,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 218000,
       "name": "Untitled_08",
       "url": "https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy"
@@ -24799,6 +24817,24 @@
     },
     {
       "album": {
+        "name": "yaya",
+        "url": "https://open.spotify.com/album/3Q2VHW2FPLE9S7svKVCRPm"
+      },
+      "artists": [
+        {
+          "name": "Thmoon",
+          "url": "https://open.spotify.com/artist/4DZR3oSwvSIeLP3F5gZ58f"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "yaya",
+      "url": "https://open.spotify.com/track/55TKpzNGVRikAjyw3simiK"
+    },
+    {
+      "album": {
         "name": "Yesterday, Today and Tomorrow",
         "url": "https://open.spotify.com/album/64csJuZL1aPB8IVWNFEEa5"
       },
@@ -25536,6 +25572,24 @@
       "duration_ms": 196250,
       "name": "\ub0a8",
       "url": "https://open.spotify.com/track/3IrLU6Qp6RdXL7TK7puZxd"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\uc0b0\uc870\uac01",
+        "url": "https://open.spotify.com/album/25JRvTSj01VG92b4FJMC0Z"
+      },
+      "artists": [
+        {
+          "name": "Chang Kiha",
+          "url": "https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234484,
+      "name": "\ub108\ub098 \ub098\ub098",
+      "url": "https://open.spotify.com/track/1e6sMUN6kpz0qzXfVvdCiH"
     },
     {
       "album": {

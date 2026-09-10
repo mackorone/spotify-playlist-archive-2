@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-367 songs - 18 hr 54 min
+368 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 | 2025-08-22 | 2025-10-10 |
 | [Repete](https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Repete](https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD) | 3:50 | 2023-04-28 | 2023-07-29 |
 | [Reprise](https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u) | [Yuri Fernandes](https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP) | [Reprise](https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt) | 3:35 | 2023-08-11 | 2023-10-07 |
+| [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 | 2026-09-10 |  |
 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 | 2022-11-18 | 2026-01-31 |
 | [Retrovisor](https://open.spotify.com/track/4HYZYfXAeETot63750cbxe) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:10 | 2025-05-30 | 2025-08-23 |
 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 | 2024-09-27 |  |
@@ -314,7 +315,7 @@
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 | 2024-11-30 |
 | [slow](https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Kino Osheanic](https://open.spotify.com/artist/1xpFujR2lkwHcgf5Vkr196) | [slow](https://open.spotify.com/album/39P9PBpBliszL4BGl9KkI8) | 3:01 | 2025-02-14 | 2025-08-23 |
 | [SLOW DOWN](https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn), [rod shawty](https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask) | [REAL R&B, Vol\. 2](https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us) | 2:37 | 2025-05-16 | 2025-10-24 |
-| [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 | 2025-12-12 |  |
+| [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 | 2025-12-12 | 2026-09-10 |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 | 2026-01-31 |
 | [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 | 2024-01-13 |
 | [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 | 2023-11-17 |

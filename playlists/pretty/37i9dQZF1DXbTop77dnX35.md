@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Bees & Honey, and Omah Lay Black Sherif, Boj & Ajebutter,  Nasty C, 2 Chainz, Wiz Khalifa, LISA and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,859 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,920 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [YOU](https://open.spotify.com/track/35KTKsN8oT3XPjZnBQAxI3) | [CAVIARR](https://open.spotify.com/artist/1KsuMtsmOGwiE5pY6zNIuQ), [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [YOU](https://open.spotify.com/album/3ZNwnqV9L6sDPw5M297unn) | 2:01 |
 | 22 | [Settings](https://open.spotify.com/track/6dpdg0ZLCyP9smr8wrsW6e) | [Igho](https://open.spotify.com/artist/41o1S50ycVycGavxGVD8ae), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Settings](https://open.spotify.com/album/2nUXGM1cT9XMicptbwmtod) | 2:49 |
 | 23 | [Massacre The Show](https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv) | [Fergiee](https://open.spotify.com/artist/75yvKMzpIeYGyw5ElkoLYw), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Massacre The Show](https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd) | 2:13 |
-| 24 | [Scotty’s Interlude](https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C) | [Tobby BadAss](https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Scotty’s Interlude](https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf) | 1:46 |
+| 24 | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C) | [Tobby BadAss](https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf) | 1:46 |
 | 25 | [ENOUGH \( ALOT\)](https://open.spotify.com/track/6n16EK96q2j55ME6l8pt5w) | [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z), [Wana Sn](https://open.spotify.com/artist/7rGdPKZx6tqAbclJ7llUbs) | [ENOUGH / EASY](https://open.spotify.com/album/3rYehTyObSNDu920aQccCq) | 2:14 |
 | 26 | [PASSIMA](https://open.spotify.com/track/0QfkZhG4YHkAh2uZD9wpMM) | [Neeza](https://open.spotify.com/artist/7afjvXGwEtEwhIHIjdQymg), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2), [Veron Drums](https://open.spotify.com/artist/5eL3k8chjx46PTigY7kuHJ) | [PASSIMA](https://open.spotify.com/album/4peJV0ivnq2yViaT7ktWAS) | 2:58 |
 | 27 | [Life](https://open.spotify.com/track/3vSELdnfG82GQvhjeAR6u7) | [KennyBlaze](https://open.spotify.com/artist/6sTQuJgAkPwjW7csMMWkaa), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [Life](https://open.spotify.com/album/0vM39HV9yv1ANdAOGkPkpo) | 3:16 |

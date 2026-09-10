@@ -1,12 +1,12 @@
 {
   "description": "The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire. Now streaming on Disney+!",
-  "num_followers": 96717,
+  "num_followers": 96728,
   "original_name": "The Mandalorian Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOUSzIkCMAA4E4gwSs1EKlpARhf",
+  "snapshot_id": "AAAAANyKOzTi2rjoiXrAIin1fTHmIlFR",
   "tracks": [
     {
       "added_at": "2026-05-27 18:50:47",
@@ -2087,6 +2087,30 @@
       "duration_ms": 211795,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/2pNeuTRp5WmJ2RJI1c1ZlS"
+    },
+    {
+      "added_at": "2026-09-09 19:14:04",
+      "album": {
+        "name": "LEGO Star Wars: The Mandalorian (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        },
+        {
+          "name": "Roberto Prado",
+          "url": "https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c"
+        },
+        {
+          "name": "Adam Dib",
+          "url": "https://open.spotify.com/artist/0ZVeelMvsBkCUI14FgJob6"
+        }
+      ],
+      "duration_ms": 74066,
+      "name": "This Is the Slay",
+      "url": "https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d"
     },
     {
       "added_at": "2026-05-27 18:50:47",

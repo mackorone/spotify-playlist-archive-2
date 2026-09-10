@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2981,
+  "num_followers": 2985,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAAuUoYHZR/ZN0F3eMWb+LNj",
+  "snapshot_id": "ap9QAAAAAAA5JxC6MnZ6C0OR68chpDA8",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Home, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
       "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 379619,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+      "duration_ms": 234649,
+      "name": "Mr. Pessimistic",
+      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
     },
     {
       "added_at": null,
@@ -487,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+        "name": "Feels Like Home, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
       },
       "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234649,
-      "name": "Mr. Pessimistic",
-      "url": "https://open.spotify.com/track/2qhgNcJsn5eqPaO0YOgWyG"
+      "duration_ms": 379619,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
     },
     {
       "added_at": null,
@@ -515,42 +515,6 @@
       "duration_ms": 200551,
       "name": "More Beautiful",
       "url": "https://open.spotify.com/track/3ZPG1HLi5JCidWkB0eCJEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "When The Rain Starts",
-      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        },
-        {
-          "name": "Peter Collins",
-          "url": "https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8"
-        }
-      ],
-      "duration_ms": 255141,
-      "name": "I Don't Feel No Ways Tired",
-      "url": "https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm"
     },
     {
       "added_at": null,
@@ -579,6 +543,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        },
+        {
+          "name": "Peter Collins",
+          "url": "https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8"
+        }
+      ],
+      "duration_ms": 255141,
+      "name": "I Don't Feel No Ways Tired",
+      "url": "https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "When The Rain Starts",
+      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Broken Instrument",
         "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
       },
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 233053,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
+      "duration_ms": 244551,
+      "name": "Outside Myself",
+      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 244551,
-      "name": "Outside Myself",
-      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
+      "duration_ms": 233053,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Just Loving Me",
-      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
+      "duration_ms": 250509,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 250509,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
+      "duration_ms": 228600,
+      "name": "Just Loving Me",
+      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "We Are The Light",
-      "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity Song LIVE",
         "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 89235,
       "name": "Hater's Reprise - Live",
       "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "We Are The Light",
+      "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
     }
   ],
   "unique_name": "This Is Infinity Song",

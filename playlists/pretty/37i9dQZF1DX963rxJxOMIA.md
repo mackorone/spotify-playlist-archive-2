@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante como Ryan Castro y Feid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,913 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,935 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 4 | [A Xon De Que](https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Xon De Que](https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP) | 2:21 |
 | 5 | [Casi Algo](https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Casi Algo](https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb) | 3:32 |
 | 6 | [Mano al piso remix](https://open.spotify.com/track/4CibTBydFDLzQKyg6Vtr23) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Mano al piso remix](https://open.spotify.com/album/7HlnR44j7zO6jhDjAzMWIp) | 3:04 |
-| 7 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
+| 7 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 8 | [La Perlita](https://open.spotify.com/track/1gSIXZsZI1GskABhPMpwGE) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [La Perlita](https://open.spotify.com/album/72ePILJ69fHPvY6ae6uMoC) | 3:39 |
 | 9 | [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 |
 | 10 | [Isla Bonita](https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Isla Bonita](https://open.spotify.com/album/3US50V3VCPozqqyMVb6Psw) | 2:44 |

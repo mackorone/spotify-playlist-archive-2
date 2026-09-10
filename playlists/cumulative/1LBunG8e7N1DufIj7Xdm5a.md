@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,760 songs - 10 day 17 hr 17 min
+4,763 songs - 10 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,11 +521,12 @@
 | [Bubblegum Blade](https://open.spotify.com/track/74VRkhBBRuqggNzgJuLiDe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:07 | 2025-09-16 |  |
 | [Bubblegum Blade \(another\)](https://open.spotify.com/track/5scbUz4ceP5MWSE5b6ueTV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 1:56 | 2025-09-16 |  |
 | [Buddy](https://open.spotify.com/track/1CGoIbOgoXFGqBPOjGtTJL) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw) | [Lung Bread For Daddy](https://open.spotify.com/album/53oTwZHLAKRfInbkgP4lS3) | 2:26 | 2025-11-05 |  |
-| [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 | 2026-07-06 |  |
+| [Build to Burn \- Demo](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn \(Demo\)](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 | 2026-07-06 |  |
 | [Bukowski](https://open.spotify.com/track/3i0Pz0PwNOGKObvr6ejioW) | [Giovanni Succi](https://open.spotify.com/artist/7peAkZ9gXodeU3OyetuOjX) | [Con ghiaccio](https://open.spotify.com/album/3m3F1OmiRNe6Unjq6tBPLL) | 3:26 | 2025-11-12 |  |
 | [Bulletproof Symphony](https://open.spotify.com/track/2TxA3LBRde44ZANmHbWSrh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:27 | 2025-08-20 |  |
 | [Bulletproof Symphony \(another\)](https://open.spotify.com/track/0fNQNrD50HSJtfiYVQXuEQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:44 | 2025-08-20 |  |
 | [Bundle Of Sticks](https://open.spotify.com/track/77nwu12sddVUqFBMW9o9jM) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [If I Could I Would](https://open.spotify.com/album/1pTKXy38frQio4nQzPGwnZ) | 2:47 | 2025-07-28 |  |
+| [Buoyancy](https://open.spotify.com/track/6OUb9JWTXgFuvgH5JqdkQa) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Buoyancy](https://open.spotify.com/album/7hnQQdAFWXQac2M1izmrCN) | 3:19 | 2026-09-09 |  |
 | [burden of time](https://open.spotify.com/track/4mEl8vO04uuZNWiqYxfvRC) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [The Voight\-Kampff Test](https://open.spotify.com/album/6DqOPQwdjFqVa1b8Iut0fy) | 3:58 | 2025-04-30 |  |
 | [Burn It All](https://open.spotify.com/track/6fPMysTTUg5NJ4q4mzaqco) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 3:14 | 2025-09-12 |  |
 | [Burn It Down](https://open.spotify.com/track/1NGsRbrlBXnikdw6Uy8vlB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:22 | 2025-09-17 |  |
@@ -1761,13 +1762,14 @@
 | [Goodbye](https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS) | [Alice Elzira](https://open.spotify.com/artist/2UMZWBBmQ6wxLSDVXCM6HK) | [Goodbye](https://open.spotify.com/album/1zkbYSANz5os3fqAUnRvth) | 3:16 | 2025-05-16 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-12-10 |  |
 | [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
-| [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-18 |  |
+| [Got Your Gun \- Demo](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun \(Demo\)](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-18 |  |
 | [Gothic Ackward](https://open.spotify.com/track/6iVOcEDNlwqgaQXpXY4O96) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Gothic Ackward](https://open.spotify.com/album/6qk9E24NtMnPd1E3PBgoov) | 2:56 | 2026-05-07 |  |
 | [Gotta Go Baby](https://open.spotify.com/track/0j7WLlQUzoawGRjs5m8YR7) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Gotta Go Baby](https://open.spotify.com/album/5FXw6cJb5jTvI2zReZMTFB) | 3:32 | 2025-06-04 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2025-05-09 |  |
 | [Grand Social](https://open.spotify.com/track/5VXh6UbjkesZvwpUrGYs2c) | [Von Loop](https://open.spotify.com/artist/7xj9QGmzc8LLQU8sCsFYcN) | [Grand Social](https://open.spotify.com/album/0sITVX4ltEr8W19hfLmKes) | 2:59 | 2026-06-14 |  |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-12-04 |  |
 | [GREED](https://open.spotify.com/track/4Sv5sgRvyd3xXqTZMWnlO0) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [534RCH](https://open.spotify.com/album/0nZVVuTqGDbBnhBdLI8mJn) | 2:56 | 2025-06-23 |  |
+| [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 | 2026-09-09 |  |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2025-12-29 |  |
 | [Green Light](https://open.spotify.com/track/34usNzrCgt3CAtpd4uCnLo) | [SETTINGS](https://open.spotify.com/artist/1kfMHJCbmgZzcQDJoslasA) | [Green Light](https://open.spotify.com/album/5YHZsCQH6Poj37014rt7oY) | 3:30 | 2025-08-11 |  |
 | [Greenland](https://open.spotify.com/track/3eaLYgoVlXUhzuuYbVuXNa) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [Greenland](https://open.spotify.com/album/5otQANts7tOBoC5SQW3zDa) | 5:09 | 2025-06-04 |  |
@@ -3525,6 +3527,7 @@
 | [Set Him Free](https://open.spotify.com/track/3WQUHix74Pp8RflJBNSNoX) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Set Him Free](https://open.spotify.com/album/3aMryRUbkqhEUPUIc1PIL3) | 3:38 | 2025-11-02 |  |
 | [seven](https://open.spotify.com/track/3YzRYT7EtyE25xLljYqjoM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:04 | 2025-08-20 |  |
 | [Seven Days a Week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven Days a Week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 | 2025-09-17 |  |
+| [Seven Seas](https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Bridging The Gap](https://open.spotify.com/album/5oudgZVxN0EsMqb7WtwItP) | 4:11 | 2026-09-09 |  |
 | [Seven Times Rising](https://open.spotify.com/track/28tQoNYxL0OJqfJJnbudAQ) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:37 | 2026-09-06 |  |
 | [Seven Times Rising \(fomo mode\)](https://open.spotify.com/track/6letT9XAesk2LIewoUedP0) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:04 | 2026-09-06 |  |
 | [seventeen](https://open.spotify.com/track/1ikx8mBXjEk45nbF6ZP7e5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:58 | 2025-08-20 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JISOO\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,824 songs - 39 day 21 hr 11 min
+16,828 songs - 39 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Alive](https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 | 2023-08-16 | 2023-09-06 |
 | [alive](https://open.spotify.com/track/22fmrs9ryrH771Exi5x7nC) | [TA\-Copy](https://open.spotify.com/artist/6OxjdkqXIEIvK36dIMWNx3) | [alive](https://open.spotify.com/album/4RozZQXp1vXJAca40Ty8ND) | 3:20 | 2023-09-19 | 2023-11-11 |
 | [Alive](https://open.spotify.com/track/6ssI8kBFYhiMKCUB4WuTch) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Alive](https://open.spotify.com/album/2FZhIkExXvCsDkvl72Zrxb) | 2:35 | 2023-06-19 | 2023-08-10 |
+| [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 | 2026-09-09 |  |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2022-09-01 |
 | [ALL ABOUT FAREWELL \(with JAMIE\)](https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Winter Songs](https://open.spotify.com/album/0aTPUVSa8UApotqgfkrKaB) | 3:52 | 2022-12-07 | 2022-12-22 |
 | [All About You](https://open.spotify.com/track/4BPHgRFpbYJZhYLp5161Qi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [ADAMAS, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1MkWm3teh6zqfBVkpPUaji) | 4:17 | 2022-09-02 | 2022-09-09 |
@@ -7097,6 +7098,7 @@
 | [It’s on me \(Feat\. Choiza\)](https://open.spotify.com/track/4xmSjMbTxV6kwoT1Tfw4AL) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx) | [It’s on me \(Feat\. Choiza\)](https://open.spotify.com/album/6fRIIqsOkBxACQ6Xy7d75n) | 2:35 | 2026-03-25 | 2026-04-07 |
 | [It’s on me \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6Iabxj8JonMPfdeZSCsFG5) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [It’s on me](https://open.spotify.com/album/63KlbY062pYL6vDjIT5xYJ) | 3:17 | 2023-07-27 | 2023-08-18 |
 | [It’s Raining \(Veiled Musician X SOLE with Eobang\-dong\)](https://open.spotify.com/track/0XBuegXNAWe137zG4TeI90) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [It’s Raining \(Veiled Musician X SOLE with Eobang\-dong\)](https://open.spotify.com/album/2042eYhYN39yVO9MNPelHn) | 3:35 | 2023-11-10 | 2023-12-14 |
+| [It’s That](https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:18 | 2026-09-09 |  |
 | [It’s you](https://open.spotify.com/track/6UoFQyPJg4e1QSXumsGggx) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Life's still Good](https://open.spotify.com/album/2E7fy0z18imBJEWYMfZWMi) | 3:17 | 2023-07-17 | 2023-08-10 |
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-10-25 | 2022-12-22 |
 | [It′s call](https://open.spotify.com/track/7flf9UUTgCczDhkNHsTnLG) | [SONG](https://open.spotify.com/artist/0VyVt7snmnvV0DvFNqVOmj) | [It′s CALL!](https://open.spotify.com/album/2RaXwodOLvYzvgMjErWKTW) | 3:19 | 2024-03-06 | 2024-05-01 |
@@ -7790,6 +7792,7 @@
 | [Lighthouse](https://open.spotify.com/track/6YjeUAGesbIozhBRBU9IIj) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Where's my hero? Special OST Part.3](https://open.spotify.com/album/4v0OZO8z80mVjGQxWVv5aK) | 3:38 | 2025-08-05 | 2025-08-18 |
 | [LIGHTHOUSE](https://open.spotify.com/track/6Zv31tXdpqXPuMXIT4Pq7p) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [TEMPEST Voyage](https://open.spotify.com/album/5oDe8KM2IkcIVw9jhHjtkX) | 3:26 | 2024-03-11 | 2024-05-01 |
 | [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 | 2025-05-22 | 2025-06-03 |
+| [LIGHTNING](https://open.spotify.com/track/0HeJfEzrGOxSynpVZUeaA3) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [LIGHTNING](https://open.spotify.com/album/5VsNrj3ARlHDzwRspVKLgx) | 1:54 | 2026-09-09 |  |
 | [Lights](https://open.spotify.com/track/6oqpdPyUlrvth5trYx0l0y) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [MERIDIEM](https://open.spotify.com/album/3a8zl8zbMxiR3VYTQiRs4s) | 3:20 | 2022-11-08 | 2022-12-22 |
 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 | 2022-11-09 | 2022-12-22 |
 | [LIGHTS ON](https://open.spotify.com/track/2twVlgkEBjCecQXzathzlj) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Bliss](https://open.spotify.com/album/5L7D7qRVcgeuz9KqnbnxnK) | 3:11 | 2024-07-09 | 2024-07-23 |
@@ -16210,6 +16213,7 @@
 | [너 때문에 울고 있어 나 \(I'm crying over you\)](https://open.spotify.com/track/7hNI3u2mEQ24n8StnJDywO) | [Kwon Ji Eun](https://open.spotify.com/artist/5w0EaPtsOtA28C7u2xOPTG) | [너 때문에 울고 있어 나 \(I'm crying over you\)](https://open.spotify.com/album/1wxhNKVRfFqHfJMkacfmA9) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [너 없는 하루가 이렇게 길 줄 몰랐어](https://open.spotify.com/track/00Yg2DKMIEuKt7EFrr7sSi) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [너 없는 하루가 이렇게 길 줄 몰랐어](https://open.spotify.com/album/35zcIyGDhvdXvpA05urALv) | 3:27 | 2026-06-01 | 2026-06-09 |
 | [너 없이 나는 어떻게 살아](https://open.spotify.com/track/2nB939wOwPPas2eIrwj8W3) | [Suki](https://open.spotify.com/artist/6wiGqCi92zXYnvXazWTsry) | [너 없이 나는 어떻게 살아](https://open.spotify.com/album/7qhEtoZdqAGvkrvsuwpeBe) | 2:47 | 2026-05-18 | 2026-05-19 |
+| [너나 나나](https://open.spotify.com/track/1e6sMUN6kpz0qzXfVvdCiH) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [산산조각](https://open.spotify.com/album/25JRvTSj01VG92b4FJMC0Z) | 3:54 | 2026-09-09 |  |
 | [너는 여름이야 \(with 에녹\) \(You, Summer \(with Enoch\)\)](https://open.spotify.com/track/4H1QIbHpWfeaHoUAl6Ucrk) | [N\-Roo](https://open.spotify.com/artist/4DMSjYaaLBH5rupNmnGprM) | [YOU, SUMMER](https://open.spotify.com/album/5niq02wIRHtJThcO4Z53C6) | 2:57 | 2026-06-17 | 2026-06-30 |
 | [너도 헤어지고 싶잖아 \(You want to break up, too\)](https://open.spotify.com/track/2TJiIStSuDmNmzeLMGwPNh) | [Ja Jung](https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK) | [너도 헤어지고 싶잖아 \(You want to break up, too\)](https://open.spotify.com/album/3bRjtBoeo9yu7Ypd3upUtB) | 3:09 | 2025-06-20 | 2025-07-03 |
 | [너라는 가을 \(You Are My Autumn\)](https://open.spotify.com/track/15Wd3eSAQt9YNaQ2wyf9DA) | [Lee Se Joon](https://open.spotify.com/artist/6z7PM9dWn2BNcyWTxVwZ8h) | [Month Lee 2510](https://open.spotify.com/album/2WwYLqFar2UV26iyeebkNi) | 3:48 | 2025-10-30 | 2025-11-05 |

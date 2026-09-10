@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer 2",
-  "num_followers": 762608,
+  "num_followers": 762719,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgJhoD/remfWqKdP+Q8BU5hyKJO",
+  "snapshot_id": "AAAAABKvqwVuM2UWoIevNeU/YtELhjr9",
   "tracks": [
     {
       "added_at": "2026-08-21 12:44:25",
@@ -229,6 +229,30 @@
       "url": "https://open.spotify.com/track/7AXkC07rMyKgrxD548J7sM"
     },
     {
+      "added_at": "2026-09-09 12:28:29",
+      "album": {
+        "name": "Magale (From \"Baththa\")",
+        "url": "https://open.spotify.com/album/5cDr3o7wxFcG1c1ZAWsEzA"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "duration_ms": 257812,
+      "name": "Magale - From \"Baththa\"",
+      "url": "https://open.spotify.com/track/0sMveuaRdkEHZpCHpCAhvt"
+    },
+    {
       "added_at": "2026-07-03 11:16:04",
       "album": {
         "name": "One Name (From \"Jailer 2\")",
@@ -327,6 +351,30 @@
       "duration_ms": 168000,
       "name": "Pimbilikka Pilaappi",
       "url": "https://open.spotify.com/track/2XCUEycn08bVTzGexDJYl8"
+    },
+    {
+      "added_at": "2026-09-09 10:40:49",
+      "album": {
+        "name": "Rage Of Sigma (From \"Sigma\") (Tamil)",
+        "url": "https://open.spotify.com/album/3EbWJ60JCndywbcIB4PJrK"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/1lTyvlYcW49bbvY6oL7Jlo"
+        }
+      ],
+      "duration_ms": 241757,
+      "name": "Rage Of Sigma (From \"Sigma\") (Tamil)",
+      "url": "https://open.spotify.com/track/7xGQm8imHqOfL1HGAJBsRG"
     },
     {
       "added_at": "2026-09-07 10:57:42",
@@ -521,6 +569,30 @@
       "url": "https://open.spotify.com/track/2lnHF3Qsqst9VMtSecuhGQ"
     },
     {
+      "added_at": "2026-09-09 10:44:14",
+      "album": {
+        "name": "Karayil Nuraigal (From \"I'M Game - Tamil\")",
+        "url": "https://open.spotify.com/album/6BQaIN09BHg1Cn9W0RtFLo"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 139847,
+      "name": "Karayil Nuraigal - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/1bjaJLIN4GXLjspDrwr9vO"
+    },
+    {
       "added_at": "2026-09-08 10:13:27",
       "album": {
         "name": "Immortal (Original Motion Picture Soundtrack)",
@@ -619,6 +691,34 @@
       "duration_ms": 190322,
       "name": "High Stakes - From \"I'M Game - Tamil\"",
       "url": "https://open.spotify.com/track/6YLBdn8M6JkBg7Sqk6NJle"
+    },
+    {
+      "added_at": "2026-09-09 10:44:14",
+      "album": {
+        "name": "Veeraney - Rise of Vicky (From \"I'M Game - Tamil\")",
+        "url": "https://open.spotify.com/album/7p1BnxpvD49wuco7torwan"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 217924,
+      "name": "Veeraney - Rise of Vicky - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/7LTXWbMp6FGmKDnJhmBKk7"
     },
     {
       "added_at": "2026-09-02 15:31:47",
@@ -899,30 +999,6 @@
       "duration_ms": 218666,
       "name": "Manasukku Pudicha Ok",
       "url": "https://open.spotify.com/track/4AGANl7w1xP0lRVNsVrYri"
-    },
-    {
-      "added_at": "2026-08-21 12:40:12",
-      "album": {
-        "name": "Irumudi Kattu",
-        "url": "https://open.spotify.com/album/0Ll3ZRvsBv9h7CnZeJTs98"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
-        },
-        {
-          "name": "Balaji Venugopal",
-          "url": "https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli"
-        }
-      ],
-      "duration_ms": 249115,
-      "name": "Irumudi Kattu",
-      "url": "https://open.spotify.com/track/3WJIfLrfKIYdnzIUMnoWXI"
     },
     {
       "added_at": "2026-09-02 15:31:47",
@@ -2105,54 +2181,6 @@
       "url": "https://open.spotify.com/track/4t92F78M8bUJ7ghVBLP0i5"
     },
     {
-      "added_at": "2026-08-06 10:19:38",
-      "album": {
-        "name": "G.D.N (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Kavingar Sarathy",
-          "url": "https://open.spotify.com/artist/5yhfcqPbHJhno1xsrCoyOm"
-        },
-        {
-          "name": "Charulatha Mani",
-          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
-        }
-      ],
-      "duration_ms": 103834,
-      "name": "Nee Enadhu Maarbodu ( From \"G.D.N.\")",
-      "url": "https://open.spotify.com/track/1052hFvrh2Jj1K38oU9zPZ"
-    },
-    {
-      "added_at": "2026-07-10 15:25:34",
-      "album": {
-        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Idhayaa - Extended",
-      "url": "https://open.spotify.com/track/37m2El0eIgXO2cz2BndvOU"
-    },
-    {
       "added_at": "2026-08-04 06:41:36",
       "album": {
         "name": "Oh Sukumari (Tamil)",
@@ -2315,26 +2343,6 @@
       "duration_ms": 303055,
       "name": "Thangame Thangame",
       "url": "https://open.spotify.com/track/39WC47tKMREDYR05LVBQKV"
-    },
-    {
-      "added_at": "2026-06-26 04:46:46",
-      "album": {
-        "name": "Kadaya Saathu",
-        "url": "https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs"
-      },
-      "artists": [
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Vaasi",
-          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Kadaya Saathu",
-      "url": "https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap"
     }
   ],
   "unique_name": "Latest Tamil",

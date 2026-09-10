@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-3,081 songs - 6 day 16 hr 18 min
+3,082 songs - 6 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,8 +551,8 @@
 | [Dancing On A Sunny Day](https://open.spotify.com/track/3UF6EXPvr6pxN8NW1zt6LV) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 2:56 | 2022-06-18 | 2022-06-22 |
 | [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-11 | 2022-06-16 |
 | [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2022-01-01 | 2026-09-07 |
-| [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 | 2026-07-29 | 2026-09-01 |
-| [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 | 2026-08-01 |  |
+| [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 | 2026-07-29 |  |
+| [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 | 2026-08-01 | 2026-09-10 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-09-05 | 2026-01-03 |
 | [Dandi dansa](https://open.spotify.com/track/41iZhFesLQ6JLjyPxI4LLL) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Dandi dansa](https://open.spotify.com/album/4b4LGue9EPEclYIXoLdC8m) | 2:59 | 2021-03-27\* | 2021-04-17 |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-23 | 2024-04-21 |
@@ -2623,7 +2623,8 @@
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Withness](https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts) | 3:11 | 2026-08-21 | 2026-08-23 |
 | [Talk Vår Shit](https://open.spotify.com/track/2aP7znjm7A4xfWz2aJmz9G) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Talk Vår Shit](https://open.spotify.com/album/4l9K8pqbdgU4puMMQ4KTvD) | 3:01 | 2021-05-23 | 2021-05-24 |
 | [TALKING](https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:05 | 2024-02-12 | 2024-02-14 |
-| [Talking Body](https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm) | 3:58 | 2026-09-08 |  |
+| [Talking Body](https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm) | 3:58 | 2026-09-08 | 2026-09-10 |
+| [Talking Body](https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw) | 3:58 | 2026-09-09 |  |
 | [TALLRIKAR](https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:41 | 2022-02-05 | 2022-02-20 |
 | [Tandtråd](https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tandtråd](https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm) | 4:02 | 2023-05-04 | 2026-08-16 |
 | [TANKAR](https://open.spotify.com/track/6v4p9AaVYr1TSosk4XuEX4) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [TANKAR](https://open.spotify.com/album/2aMwW3DkqmhrdkyK5wQTp6) | 2:51 | 2021-10-31 | 2021-11-21 |

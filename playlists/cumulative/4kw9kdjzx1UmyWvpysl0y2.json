@@ -12039,6 +12039,24 @@
     },
     {
       "album": {
+        "name": "Interconnected",
+        "url": "https://open.spotify.com/album/0VViNSTKBZQBzMOeGXJK0x"
+      },
+      "artists": [
+        {
+          "name": "Simulcats",
+          "url": "https://open.spotify.com/artist/4eM1PMvj5NTpvtTfkQWRYr"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221727,
+      "name": "Interconnected",
+      "url": "https://open.spotify.com/track/4SEvIt5BvRlfSSRUQWvXw7"
+    },
+    {
+      "album": {
         "name": "Invane",
         "url": "https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW"
       },

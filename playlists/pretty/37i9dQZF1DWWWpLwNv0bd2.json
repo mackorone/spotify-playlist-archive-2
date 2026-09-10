@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Vishwanath & Sons",
-  "num_followers": 217457,
+  "num_followers": 217580,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO04gwjn0pY5KmyajDe+XVBrCLuo",
+  "snapshot_id": "AAAAAKLJQ2F5tECcFIUMmiH8qt07FBd5",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:57",
@@ -169,6 +169,38 @@
       "url": "https://open.spotify.com/track/5mCbDAhxef5s1smT9Vi5ve"
     },
     {
+      "added_at": "2026-09-09 09:57:57",
+      "album": {
+        "name": "Radhimaa (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Nargis Teji",
+          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
+        },
+        {
+          "name": "Asma Teji",
+          "url": "https://open.spotify.com/artist/4nTgmp4xA89rC3gKhHwrWg"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 259852,
+      "name": "Radhimaa - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
+    },
+    {
       "added_at": "2026-08-14 00:28:03",
       "album": {
         "name": "DC (Original Motion Picture Soundtrack)",
@@ -231,6 +263,30 @@
       "duration_ms": 208000,
       "name": "Singari",
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
+    },
+    {
+      "added_at": "2026-09-09 09:57:57",
+      "album": {
+        "name": "Parandhu Pogum Manase (From \"XY\" Mayavan Universe)",
+        "url": "https://open.spotify.com/album/31YYTr1znSiI8MsnF6nTnp"
+      },
+      "artists": [
+        {
+          "name": "Srikant Krishna",
+          "url": "https://open.spotify.com/artist/3CzoBGsEukKWTwHhCQWA1x"
+        },
+        {
+          "name": "Chinmayi Sripada",
+          "url": "https://open.spotify.com/artist/68Ia6L2UG0Aw6grtMwibMz"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        }
+      ],
+      "duration_ms": 164879,
+      "name": "Parandhu Pogum Manase - From \"XY\" Mayavan Universe",
+      "url": "https://open.spotify.com/track/4JOFlTrj00qH7LkXfxa2k2"
     },
     {
       "added_at": "2026-07-17 07:56:05",
@@ -335,30 +391,6 @@
       "duration_ms": 252127,
       "name": "Mudhala Mudiva (From \"Modha Rathri\")",
       "url": "https://open.spotify.com/track/3ZuVTkZkH0efFYCLIq5KWX"
-    },
-    {
-      "added_at": "2026-03-03 07:39:34",
-      "album": {
-        "name": "Aasa Pulla (From \"Youth\")",
-        "url": "https://open.spotify.com/album/1dtD4i2Zai1mmmfXbVSeTi"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Ken Karunaas",
-          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
-        },
-        {
-          "name": "Eshwar",
-          "url": "https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "Aasa Pulla (From \"Youth\")",
-      "url": "https://open.spotify.com/track/1CP3eJVGHGN6IaUAlEgQeM"
     },
     {
       "added_at": "2026-08-14 00:28:03",
@@ -1195,26 +1227,6 @@
       "duration_ms": 220120,
       "name": "Sattendru Maarudhu Vaanilai (From \"Sattendru Maarudhu Vaanilai\")",
       "url": "https://open.spotify.com/track/1zoAGVMQ1QwHJq1NkcMX1u"
-    },
-    {
-      "added_at": "2026-03-03 08:11:17",
-      "album": {
-        "name": "Tere Ishk Mein (TAMIL)",
-        "url": "https://open.spotify.com/album/2b0Ub6NATfFZuBQvxnTuuk"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Mashook Rahman",
-          "url": "https://open.spotify.com/artist/72GcNDIG98BhoVp2p01UWS"
-        }
-      ],
-      "duration_ms": 337177,
-      "name": "Kannae Kanmaniye",
-      "url": "https://open.spotify.com/track/13Ovp6ZSQpV6z2CfdWoP4S"
     }
   ],
   "unique_name": "Latest Love Tamil",

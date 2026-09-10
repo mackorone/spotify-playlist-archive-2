@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från jalda, Dizzy och ADÉLA med flera\. Happy New Music Friday!
 
-25,668 songs - 55 day 10 hr 51 min
+25,669 songs - 55 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19953,6 +19953,7 @@
 | [Smakar som sol](https://open.spotify.com/track/1dLwyLqGFSaacesZYAyjvf) | [Philly](https://open.spotify.com/artist/1NCPSuEn4tCtPesgOnqSQN), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [Smakar som sol](https://open.spotify.com/album/24sI6P93iHlxdNHRlZRT7F) | 3:07 | 2024-06-27 | 2024-07-05 |
 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 | 2024-10-31 | 2024-11-08 |
 | [Small Girl](https://open.spotify.com/track/7COgXThkW973Wdp0IXDFE8) | [Wilma Holmes](https://open.spotify.com/artist/2O0pWoVhWXSByvqyxGvr7Z) | [Small Girl](https://open.spotify.com/album/6KgfDNOwmOw7TPIS0CabGU) | 2:52 | 2026-05-28 | 2026-06-05 |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-04 |  |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-17 | 2022-03-25 |
 | [Small Things](https://open.spotify.com/track/403LS0qmffGYkMuJsxlBmc) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Small Things](https://open.spotify.com/album/3ZigTrSNkCB9t5wE66aejf) | 3:12 | 2024-04-04 | 2024-04-12 |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-08 | 2025-05-16 |

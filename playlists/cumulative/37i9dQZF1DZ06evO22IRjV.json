@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 196880,
       "name": "Re:member",
       "url": "https://open.spotify.com/track/7eyNBX6ffLGH4q2Ef0Xbvz"
@@ -1440,6 +1440,24 @@
       "duration_ms": 199560,
       "name": "Re:member",
       "url": "https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Re:member (Album Mix)",
+      "url": "https://open.spotify.com/track/477kyluwXAByVZwEBWLBDJ"
     },
     {
       "album": {

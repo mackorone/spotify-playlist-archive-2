@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con KAROL G, rusowsky y Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,573,408 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,573,324 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 4 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
 | 5 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |
 | 6 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 |
-| 7 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
+| 7 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:40 |
 | 8 | [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 |
 | 9 | [Yo te conozco :\):](https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 1:58 |
 | 10 | [4 Life](https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [4 Life](https://open.spotify.com/album/39PEyxBEGMFlGdGIgCrCn9) | 2:47 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 25 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 | 26 | [Casi Algo](https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Casi Algo](https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb) | 3:32 |
 | 27 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
-| 28 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
+| 28 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 29 | [$UELTA GATITA $UELTA](https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:51 |
 | 30 | [Hace Mucho Tiempo](https://open.spotify.com/track/6QTckciPQ3qzXGnjrvVNbn) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Hace Mucho Tiempo](https://open.spotify.com/album/1zdc1Jn6esQL4n25bZEyus) | 4:22 |
 | 31 | [POLLYPOCKET](https://open.spotify.com/track/0zGd3VAcooAZEKbSu5LETG) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [POLLYPOCKET](https://open.spotify.com/album/44LjdzXoDhXby4wzzfT8CD) | 2:32 |

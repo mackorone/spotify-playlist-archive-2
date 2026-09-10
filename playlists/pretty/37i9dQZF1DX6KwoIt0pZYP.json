@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 262096,
+  "num_followers": 262107,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -779,42 +779,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Ikigai (feat. Loonie)",
-        "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Loonie",
-          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
-        }
-      ],
-      "duration_ms": 245729,
-      "name": "Ikigai (feat. Loonie)",
-      "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -835,6 +799,42 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "Ikigai (feat. Loonie)",
+        "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        }
+      ],
+      "duration_ms": 245729,
+      "name": "Ikigai (feat. Loonie)",
+      "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "BINIverse",
-        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 170508,
-      "name": "Zero Pressure",
-      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "when the rain stopped following me",
         "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "the space between us",
-        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
       "artists": [
         {
-          "name": "siopaolo",
-          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 253325,
-      "name": "the space between us",
-      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
+      "duration_ms": 170508,
+      "name": "Zero Pressure",
+      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -947,6 +931,22 @@
       "duration_ms": 196222,
       "name": "what can i do?",
       "url": "https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "the space between us",
+        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+      },
+      "artists": [
+        {
+          "name": "siopaolo",
+          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+        }
+      ],
+      "duration_ms": 253325,
+      "name": "the space between us",
+      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "sad face :(",
-        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 208051,
-      "name": "sad face :(",
-      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "BINIverse",
         "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 204650,
       "name": "Secrets (feat. eaJ)",
       "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "sad face :(",
+        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 208051,
+      "name": "sad face :(",
+      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "would you be mine?",
         "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Questionnaire",
+        "url": "https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 132043,
+      "name": "Questionnaire",
+      "url": "https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1679,22 +1695,6 @@
       "duration_ms": 167202,
       "name": "Black Tie",
       "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "Questionnaire",
-        "url": "https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 132043,
-      "name": "Questionnaire",
-      "url": "https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU"
     },
     {
       "added_at": "2026-08-07 04:12:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,934 likes - 205 songs - 10 hr 54 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,940 likes - 210 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,5 +213,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 203 | [Someone in My Head \(Radio Edit\)](https://open.spotify.com/track/7ESjGoSzZB207tEKTg2Q8M) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Someone in My Head](https://open.spotify.com/album/5r5U8DNO8SBvjKyRnxZRyM) | 3:45 |
 | 204 | [In Your Head](https://open.spotify.com/track/2JBoBSAEaS5a4GeyIsi8oA) | [Alisha Richardson](https://open.spotify.com/artist/0drKT3M6CZpSRvaCLyzBl3) | [In Your Head](https://open.spotify.com/album/6SJYDG19dGxDwpXLPwxanv) | 2:32 |
 | 205 | [WAVE RAIDER](https://open.spotify.com/track/5xJcH5Z8tKd9FLPOE0sQGM) | [DJBigShot](https://open.spotify.com/artist/4W9avyG0YorkIUIadsZ1w8) | [UNFILTERED](https://open.spotify.com/album/0c1hFwlzsb83Wk1ky78686) | 2:39 |
+| 206 | [Caroline](https://open.spotify.com/track/5GuhG0eK2T57JvxgBLI5X4) | [Marie Haw](https://open.spotify.com/artist/7x5nVjNQwJgpRooIFRWppe) | [Caroline](https://open.spotify.com/album/3bYFYzUqGEJLVbICGCU58z) | 3:12 |
+| 207 | [Quiet Kind of Lost](https://open.spotify.com/track/7DcR9TJpuH6tySVgDcqE4F) | [Horizon Beyond](https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad) | [Quiet Kind of Lost](https://open.spotify.com/album/64M3gTX1cUlXrpeqebR076) | 3:29 |
+| 208 | [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 |
+| 209 | [You make me feel](https://open.spotify.com/track/3HrjTkUWsc8JG0izMZVsEy) | [Kristina Romankova](https://open.spotify.com/artist/64glwjiXcb0uB7uBId5MHV) | [You make me feel](https://open.spotify.com/album/5s1jG5hMTMCwXxOz9EE7xR) | 3:18 |
+| 210 | [Somebody Help Britney](https://open.spotify.com/track/4RWms6XOnmNqzmUaHBERaS) | [Kari Ann Peniche](https://open.spotify.com/artist/7g4m4uKcZWZjFr5FcOshGT) | [Somebody Help Britney](https://open.spotify.com/album/24nnJOAQwCLOrNMui0rOvj) | 3:36 |
 
-Snapshot ID: `AAA8GB0KUB5TTnxSWqD9NQq3PChBVNQU`
+Snapshot ID: `AAA8HU+j5YQbzFu0K8OQdcWH80hbBjaD`

@@ -4,7 +4,7 @@
 
 > Wekelijkse update met de beste Indie releases\. Cover: CHARLOT
 
-953 songs - 2 day 7 hr 40 min
+954 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(Not\) A Slow Song](https://open.spotify.com/track/4rcabq5E7QOhXwwdTnIJS2) | [Gos Rosling](https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf) | [Trainwrecks at the Seaside](https://open.spotify.com/album/3FxXCivO23WbTckfZk3UzC) | 6:24 | 2024-11-06 | 2025-01-24 |
 | [\(Tell Me\) Like You Mean It](https://open.spotify.com/track/3YeLWiFRvONgtLR17VeQf8) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE), [plonki](https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g) | [pretty and warm and dark and vile](https://open.spotify.com/album/1SQpNQN1OyNQQzHrRpZhPK) | 3:02 | 2026-04-16 | 2026-07-31 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-05-07 |
-| [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 | 2026-05-18 |  |
+| [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 | 2026-05-18 | 2026-09-10 |
 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 | 2026-02-13 | 2026-05-19 |
 | [133](https://open.spotify.com/track/3sx3yiNiGQwkJByVZLLj9X) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP) | [What Do You Expect?](https://open.spotify.com/album/74znMa6jQ1MI1OSga90Hyl) | 2:28 | 2025-09-05 | 2025-10-14 |
 | [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-08 |  |
@@ -307,6 +307,7 @@
 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 | 2024-11-14 | 2025-02-08 |
 | [Game Sounds](https://open.spotify.com/track/7Aw5lv7dmE0zr57MG0qV7g) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:26 | 2025-09-12 | 2026-01-20 |
 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 | 2026-01-30 | 2026-04-17 |
+| [Geen Rem](https://open.spotify.com/track/1EZTLVCni1vFwydultwvoX) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Geen Rem](https://open.spotify.com/album/4s55OHqLbK4xEl8PeW8dff) | 3:03 | 2026-09-09 |  |
 | [Gentle Love](https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:31 | 2026-04-03 | 2026-07-31 |
 | [Get Back](https://open.spotify.com/track/2t4MbFWSRdpOto3ckcUq7T) | [Patches](https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh) | [Get Back](https://open.spotify.com/album/3M69bnbydOeZTHJfvW6uGW) | 4:29 | 2026-04-23 | 2026-09-01 |
 | [GET DOWN // MOVE ON](https://open.spotify.com/track/0riltreQsCdXzUrxi1d2op) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [GET DOWN // MOVE ON](https://open.spotify.com/album/6nXf5rN4ec4eMb1BDiCzF7) | 3:19 | 2025-03-06 | 2025-04-26 |

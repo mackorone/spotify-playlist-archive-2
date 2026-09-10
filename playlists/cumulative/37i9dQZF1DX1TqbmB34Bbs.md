@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Jeffrey White\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: Kim Ximya\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,383 songs - 3 day 3 hr 56 min
+1,384 songs - 3 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [INTRO\. 권지용 \(Middle Fingers\-Up\)](https://open.spotify.com/track/0ZXx7qUQRlToc2D2LItzRZ) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [KWON JI YONG](https://open.spotify.com/album/5dD4zxBFm8fnRYQnFIEqLR) | 3:42 | 2022-06-13 | 2022-07-11 |
 | [ISLAND BOYS \(Feat\. sokodomo, pH\-1\)](https://open.spotify.com/track/4oI2C9d4zYW3nVkKj19btE) | [Lil Bemo](https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:17 | 2022-05-31 | 2026-03-20 |
 | [Island Phobia \(feat\. Tiger JK\)](https://open.spotify.com/track/0WegGUMx1IRzq2gkEwX5Bd) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [MONEY BREATH](https://open.spotify.com/album/6Yhynoz0adjSekgJunlYSG) | 2:48 | 2023-02-16 | 2023-03-14 |
+| [It’s That](https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:18 | 2026-09-10 |  |
 | [I’M FINE \(Feat\. Yumdda\)](https://open.spotify.com/track/5w2WQ24nkuhuPArfvBLCvX) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 2:38 | 2022-05-31 |  |
 | [I’m Gone](https://open.spotify.com/track/1AN7BllhO1nMLYfMzXTszi) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Rap Legend 2](https://open.spotify.com/album/27rgxNNXDDUl78uOAROpLi) | 3:23 | 2022-05-31 | 2022-07-17 |
 | [J2B](https://open.spotify.com/track/22lb1Uyvlwgf8TaFnT3Lpu) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [GORAP LOSERS](https://open.spotify.com/album/61XkU29Se9VQONb24BFngZ) | 1:25 | 2022-06-03 | 2022-07-26 |
@@ -764,7 +765,7 @@
 | [MSG \(Feat\. PENOMECO\)](https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:37 | 2022-08-12 | 2024-04-19 |
 | [MUD BOY](https://open.spotify.com/track/14ljoxCJdB99dFbsZJmFw7) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Rap Legend 2](https://open.spotify.com/album/27rgxNNXDDUl78uOAROpLi) | 3:20 | 2022-07-04 | 2022-07-06 |
 | [Muji \(feat\. Boi B\) \(Prod\. h4rdy\)](https://open.spotify.com/track/62RTncey7OY9zGThxSfxe4) | [Ssup](https://open.spotify.com/artist/4g7bXUnyELAsvRv0d3zWfe), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [ROOM RAPPER Part.3 Final](https://open.spotify.com/album/2pdcwHsziBZobQDSgufgRr) | 2:57 | 2022-06-09 | 2022-06-19 |
-| [MUKKBANG!](https://open.spotify.com/track/1rXoI14y5yzJHa6EBWp3vY) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [Chef Talk](https://open.spotify.com/album/2ll17HjU834VzWOzSL57Sw) | 2:38 | 2026-03-20 |  |
+| [MUKKBANG!](https://open.spotify.com/track/1rXoI14y5yzJHa6EBWp3vY) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [Chef Talk](https://open.spotify.com/album/2ll17HjU834VzWOzSL57Sw) | 2:38 | 2026-03-20 | 2026-09-10 |
 | [MUKKBANG!](https://open.spotify.com/track/1ytyN1DG9CmuZv5YeGxZjR) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CHEF TALK](https://open.spotify.com/album/0FKMz23wZJpRofQZB0TobO) | 2:38 | 2022-07-25 | 2024-04-19 |
 | [MUKKBANG! \- REMIX](https://open.spotify.com/track/2VatmjFdAfLAWCWDYa4KwS) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Chef Talk](https://open.spotify.com/album/2ll17HjU834VzWOzSL57Sw) | 2:40 | 2022-05-31 | 2026-04-16 |
 | [MUKKBANG! \- REMIX](https://open.spotify.com/track/5ze6MpKEEN6c1kfguekf72) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [CHEF TALK](https://open.spotify.com/album/0FKMz23wZJpRofQZB0TobO) | 2:42 | 2022-08-15 | 2022-10-29 |

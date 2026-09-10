@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 166666,
       "name": "Assunto Que D\u00f3i",
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 218107,
       "name": "Bala Alojada",
       "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
@@ -5352,7 +5352,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -6765,6 +6765,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00eas & Deus (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/7fF43JKZ1MTkFiWRzrkzcn"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160613,
+      "name": "Cadeira Cativa - Ao Vivo",
+      "url": "https://open.spotify.com/track/27BcWN9G2MxGBXvC0tEKkN"
+    },
+    {
+      "album": {
         "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
       },
@@ -6776,7 +6794,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 160613,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
@@ -9054,7 +9072,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -9992,7 +10010,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 213191,
       "name": "Deixe Me Ir (feat. Pablo Martins) - Ac\u00fastico 1Kilo",
       "url": "https://open.spotify.com/track/6JKkP9ABQzYZUFSKSVDKIc"
@@ -13848,7 +13866,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 205714,
       "name": "Eu Me Apaixonei",
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
@@ -22304,7 +22322,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ"
@@ -24842,7 +24860,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 141692,
       "name": "MTG Pra Ficar Legal",
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
@@ -27926,10 +27944,28 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 187750,
       "name": "Oi, Tudo Bem? - Ao Vivo",
       "url": "https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF"
+    },
+    {
+      "album": {
+        "name": "Voc\u00eas & Deus (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/7fF43JKZ1MTkFiWRzrkzcn"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Oi, Tudo Bem? - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pun5KW0ZTtZSNtd38s0na"
     },
     {
       "album": {
@@ -30539,6 +30575,102 @@
     },
     {
       "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471767,
+      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/6gFQhcUOhNXaq965kYEdsH"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Maquiny",
+          "url": "https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577819,
+      "name": "Poesia Ac\u00fastica #6 Era uma Vez",
+      "url": "https://open.spotify.com/track/5JC2ezFSbkVi4Js4byzKoj"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
       },
@@ -31152,7 +31284,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 192755,
       "name": "Pra N\u00e3o Esquecer De Mim",
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
@@ -32132,7 +32264,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 167999,
       "name": "QUANDO EU TOMO GIN DE 10",
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"
@@ -37170,7 +37302,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"

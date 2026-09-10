@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 9월 10\-13, SPOTIFY HOUSE 서울 라인업 아티스트들의 베스트곡 리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,402 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,407 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 18 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 |
 | 19 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 20 | [joyful joyful](https://open.spotify.com/track/2oTDvoEuxCj33rFL9u5Xum) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:03 |
-| 21 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 |
-| 22 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
+| 21 | [KoK](https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [KoK](https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU) | 8:26 |
+| 22 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
 | 23 | [Antenna](https://open.spotify.com/track/1g0C3XVAWkcQTR0BtFx0wa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 3:24 |
 | 24 | [NO PAIN](https://open.spotify.com/track/4ceXU11FfeiQ47B4cX28gB) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/49CqNP5omI7QbOe8TPAR0y) | 3:41 |
 | 25 | [Juxtaposition](https://open.spotify.com/track/4urDYWwPDzI2TDUg02T1jN) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/49CqNP5omI7QbOe8TPAR0y) | 4:12 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 53 | [PAJAMA \(Feat\. WOODZ\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 4:18 |
 | 54 | [Whenever \(Feat\. JUNNY\)](https://open.spotify.com/track/3Va1GWNQ53gcPiB4KxuCd5) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOHO](https://open.spotify.com/album/2AIQqI5SbhjQrmg0SlQenm) | 2:33 |
 
-Snapshot ID: `AAAAAJQPdFvAK2u5Csgc9b/xOWlmXlpj`
+Snapshot ID: `AAAAAPN0YfZqO0/0apEoZby4P/+VdarA`

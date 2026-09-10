@@ -1,15 +1,31 @@
 {
-  "description": "The best new music by independent artists and labels, featuring  Grupo MM",
-  "num_followers": 16603,
+  "description": "The best new music by independent artists and labels, featuring  Benji V",
+  "num_followers": 16627,
   "original_name": "Fresh Finds M\u00fasica Mexicana ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2O6r1PLQ2pNLno4ixDVl/anXZp",
+  "snapshot_id": "AAAAANrHNaAI34UDSyumEeCsM6XeiPwS",
   "tracks": [
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "INRI",
+        "url": "https://open.spotify.com/album/10p4zZtZT9f5ncE7WJbh4b"
+      },
+      "artists": [
+        {
+          "name": "Benji V",
+          "url": "https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "INRI",
+      "url": "https://open.spotify.com/track/1sGQI2J2jElouXORCvm5wH"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Rihanna",
         "url": "https://open.spotify.com/album/0MB5CiP4nMnzZaSCZbNPNK"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2rPPcpgDIMqb6Q2zIk49Qc"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Vatos",
         "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
@@ -41,7 +57,67 @@
       "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "LOKOCHON",
+        "url": "https://open.spotify.com/album/0H2g4O7ZV3dKwzlCzRvG9b"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Anthony VZ",
+          "url": "https://open.spotify.com/artist/0PLXSnBmO0woxJmEBu2VXy"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "LOKOCHON",
+      "url": "https://open.spotify.com/track/3xinc6QwBj55Kykwv0Y6GU"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "TRES D\u00cdAS (Remix)",
+        "url": "https://open.spotify.com/album/6vVxz2TmVdXWxzB6lKvQ0i"
+      },
+      "artists": [
+        {
+          "name": "Joa Perez",
+          "url": "https://open.spotify.com/artist/6Q6kFxsxmYGcF60htRl1YH"
+        },
+        {
+          "name": "Leo C",
+          "url": "https://open.spotify.com/artist/6Xz4bQDc1Xoxke7aVPfdRI"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "TRES D\u00cdAS - Remix",
+      "url": "https://open.spotify.com/track/2RfzTAEgIzk5qFgR1b5J9z"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "IR\u00d8N\u00cdA",
+        "url": "https://open.spotify.com/album/2M8ck0IYvKCyngPDD9S4Y4"
+      },
+      "artists": [
+        {
+          "name": "Manu J",
+          "url": "https://open.spotify.com/artist/2fkubR0RVKOzHf5t1h1H5V"
+        },
+        {
+          "name": "CROUZZ",
+          "url": "https://open.spotify.com/artist/520BL2Gasf55JebdNCQUnu"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "IR\u00d8N\u00cdA",
+      "url": "https://open.spotify.com/track/5TT9iGVfhfivrfem0SMAXg"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Panam\u00e1",
         "url": "https://open.spotify.com/album/3ftm9tPAZLYpkECIkeVVwV"
@@ -61,23 +137,7 @@
       "url": "https://open.spotify.com/track/016d9Tv8P3fuANlhZgpQK1"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "INRI",
-        "url": "https://open.spotify.com/album/10p4zZtZT9f5ncE7WJbh4b"
-      },
-      "artists": [
-        {
-          "name": "Benji V",
-          "url": "https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "INRI",
-      "url": "https://open.spotify.com/track/1sGQI2J2jElouXORCvm5wH"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "T\u00edrense a Matar",
         "url": "https://open.spotify.com/album/5u6wYKE871MK79Efiupoe4"
@@ -93,7 +153,7 @@
       "url": "https://open.spotify.com/track/1f8IMVP70r6Y0okgmwxrK4"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Moviendo Piezas",
         "url": "https://open.spotify.com/album/09reBj08UjkKD37W1Ckr5l"
@@ -109,7 +169,7 @@
       "url": "https://open.spotify.com/track/6qEyO87lphVYGPhecy2doX"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "No Esta Facil",
         "url": "https://open.spotify.com/album/2HY6Yhu7JkaBB78Vvmuq2I"
@@ -125,7 +185,7 @@
       "url": "https://open.spotify.com/track/4gAVGumAm75OC59VGqndOc"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
@@ -141,7 +201,39 @@
       "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "Amor X Mercancia",
+        "url": "https://open.spotify.com/album/7LpJ8VBy820Hz5oFXf40RQ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Martinez",
+          "url": "https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Amor X Mercancia",
+      "url": "https://open.spotify.com/track/1sYVtH4kZyif0E5tZC4W0a"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "Un Album Versatil",
+        "url": "https://open.spotify.com/album/6MS6H74HKJ7wBHUxqhKsRl"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/2vkCqMB5QRkjCTv0kwEw6i"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "Tu Carcel",
+      "url": "https://open.spotify.com/track/70cQrpYDOg3Kl6qGKdoroo"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Deb\u00ed besarte",
         "url": "https://open.spotify.com/album/0535FyRchIZALTjbkaBOhV"
@@ -157,7 +249,7 @@
       "url": "https://open.spotify.com/track/6RaMjuTijuazx36Wi1YCks"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "\u00bfQui\u00e9n Perdi\u00f3?",
         "url": "https://open.spotify.com/album/1E9px3ZHdOy2fLUNO7C7CT"
@@ -173,7 +265,7 @@
       "url": "https://open.spotify.com/track/5i0ANnQNEZzZ3Wqwo9nA1d"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Mil x Hora",
         "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
@@ -189,7 +281,7 @@
       "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Paso Firme",
         "url": "https://open.spotify.com/album/20kx0RYMvXKdpFwjp96vBK"
@@ -205,7 +297,7 @@
       "url": "https://open.spotify.com/track/4Mra8EdCYTUeIwFAathPXI"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Enero",
         "url": "https://open.spotify.com/album/1tktkOQNG1CT9WONe4EvIu"
@@ -221,7 +313,7 @@
       "url": "https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Coqueta",
         "url": "https://open.spotify.com/album/2eYEX58tzrhOny8ic4j4rX"
@@ -237,7 +329,23 @@
       "url": "https://open.spotify.com/track/06NgMRksl3jKfVkh5hbb9b"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
+      "album": {
+        "name": "COSAS QUE A TI TE CONTABA.",
+        "url": "https://open.spotify.com/album/1SE5rhFC0LKu25F5k0KFuc"
+      },
+      "artists": [
+        {
+          "name": "Ramses Rico",
+          "url": "https://open.spotify.com/artist/6J3O2ixka3HAaIuRrR9YQU"
+        }
+      ],
+      "duration_ms": 212312,
+      "name": "Por Accidente",
+      "url": "https://open.spotify.com/track/2DLxFEl2aVe8JB6UOMf2jR"
+    },
+    {
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N"
@@ -253,7 +361,7 @@
       "url": "https://open.spotify.com/track/7DpxUbPnZJhh0t4NVtZPAd"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Los Ojos",
         "url": "https://open.spotify.com/album/1C3CWlUwxV9WJZemR6kPwJ"
@@ -269,7 +377,7 @@
       "url": "https://open.spotify.com/track/2I5pgDmvZl0YqinWsyY2KQ"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "El Quarterback",
         "url": "https://open.spotify.com/album/5W6j9i2emyWCFqdzjoAVGU"
@@ -285,7 +393,7 @@
       "url": "https://open.spotify.com/track/7ij4iKaDMPlsoJyDo2i9VD"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/4QAZjZixdVZvsWjNDjJk7P"
@@ -305,7 +413,7 @@
       "url": "https://open.spotify.com/track/4mGhy84yKIKCdeXkIkMVE3"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "VERTE FELIZ",
         "url": "https://open.spotify.com/album/6rASLjJ2Vt4HtNQ7CZX4lI"
@@ -325,7 +433,7 @@
       "url": "https://open.spotify.com/track/4s6VfPfp92MvK6GP2tmA6R"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "DaVinci",
         "url": "https://open.spotify.com/album/6X8pFW6yquR8sPiAfLRiWG"
@@ -345,7 +453,7 @@
       "url": "https://open.spotify.com/track/20KQXLYF4MVENCUxHwjpdY"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "La Gata Bajo La Lluvia",
         "url": "https://open.spotify.com/album/27LwFp5BJx9xYGatnh3cXf"
@@ -361,7 +469,7 @@
       "url": "https://open.spotify.com/track/6xBR4IYdK9MzO5u1FjDyNN"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Cuando Ladran Los Perros",
         "url": "https://open.spotify.com/album/67E0oY0zumGE7ZK7ZARJLB"
@@ -377,7 +485,7 @@
       "url": "https://open.spotify.com/track/1pIXSyZoNnpYJER9njhI9j"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "A Las Dos",
         "url": "https://open.spotify.com/album/0IOUzOCWuK6DfHRNw4JL70"
@@ -397,7 +505,7 @@
       "url": "https://open.spotify.com/track/3b2F9RQepqYhTD9xDN4Lbp"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "POLO",
         "url": "https://open.spotify.com/album/44ocQNNvFhGzCbPh9r3ljm"
@@ -413,7 +521,7 @@
       "url": "https://open.spotify.com/track/76SKiOuHHvKhHCeWV835Hn"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/7H8dyBB47DrD4D9ybIB8hJ"
@@ -429,7 +537,7 @@
       "url": "https://open.spotify.com/track/43hJrUcamNZAX4EdRSEc5v"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Sal Al Azar",
         "url": "https://open.spotify.com/album/0KDlYgRCh8o9czqcnvTMWQ"
@@ -445,7 +553,7 @@
       "url": "https://open.spotify.com/track/0y8CTBkmQSK4RhDeeEoSWW"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Regresa La Reina",
         "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
@@ -461,7 +569,7 @@
       "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "SPLN",
         "url": "https://open.spotify.com/album/1akUfZXB5VE5fClyGDchEQ"
@@ -481,7 +589,7 @@
       "url": "https://open.spotify.com/track/6f1TcaRkAgpBDaTUoJaTiS"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Flowsito",
         "url": "https://open.spotify.com/album/6Sga9eN4ibML9rBpjR9EhZ"
@@ -497,7 +605,7 @@
       "url": "https://open.spotify.com/track/5UAp5RotVHNQg57b9uRqCQ"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/5A4N1BYLCeveFDCYbc745O"
@@ -513,7 +621,7 @@
       "url": "https://open.spotify.com/track/2UJkb8RvwvOdE2syi2TvJM"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Baby Acu\u00e9rdate",
         "url": "https://open.spotify.com/album/6iy9utVZJ0v0txAMfWE95f"
@@ -529,7 +637,7 @@
       "url": "https://open.spotify.com/track/1fpzL2FmosNcqlMrjCDqAz"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "CHUKY",
         "url": "https://open.spotify.com/album/4ZtBIxUxXRIMPRApBONDKP"
@@ -545,7 +653,7 @@
       "url": "https://open.spotify.com/track/4IOprexcjM0A0ASngRcBFh"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "ARRE PUE$",
         "url": "https://open.spotify.com/album/2Hv2DWtLV17H4iorxmeKaF"
@@ -561,7 +669,7 @@
       "url": "https://open.spotify.com/track/09xwLaPAHW1zPqPkNxUkOe"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "NOCHE",
         "url": "https://open.spotify.com/album/1KySh2KIFS4pHnsP3iDUnn"
@@ -577,7 +685,7 @@
       "url": "https://open.spotify.com/track/1ewma8QrB9uz6fOygLs1mX"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Cubanitas",
         "url": "https://open.spotify.com/album/4gwKneyADLyKhqOYqND7Qb"
@@ -597,7 +705,7 @@
       "url": "https://open.spotify.com/track/6JDrIqWhTOOVc5wuXMEwV8"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "VIEJOOO",
         "url": "https://open.spotify.com/album/71Mq6JAXX3pdYFn1I32OlQ"
@@ -613,7 +721,7 @@
       "url": "https://open.spotify.com/track/0h0GZ0OfdGhijlqREHT6FR"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "ALL THE THINGS SHE SAID",
         "url": "https://open.spotify.com/album/3FCtH80ntWTVqDYkDsbfSm"
@@ -629,7 +737,7 @@
       "url": "https://open.spotify.com/track/2hlaYHZUhF9yYqo1o71h4X"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "MONCLEAR",
         "url": "https://open.spotify.com/album/2MqEX3Ni7ECjJuFnecFa9I"
@@ -645,7 +753,7 @@
       "url": "https://open.spotify.com/track/4UQCarWacWGhdAuVUyrHiz"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Dilo Reina",
         "url": "https://open.spotify.com/album/2fzZ3GhgDuV8ol4qypVEMl"
@@ -661,7 +769,7 @@
       "url": "https://open.spotify.com/track/5r73WOfVVs3H5oTcwxc2Zb"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "OTRO UNIVERSO",
         "url": "https://open.spotify.com/album/2xEz9eGJcGyLEPSpOFMgzn"
@@ -677,7 +785,7 @@
       "url": "https://open.spotify.com/track/6NSpoTmAsZIh7plcfsy5WT"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "MGPX",
         "url": "https://open.spotify.com/album/0OW9PY5kh92PFIiLO6evSl"
@@ -697,7 +805,7 @@
       "url": "https://open.spotify.com/track/5qhK341vjUvf0hYWAuZI0H"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3Wu7QYURhbZGDzcoM5DHsP"
@@ -721,7 +829,7 @@
       "url": "https://open.spotify.com/track/1RieFKHFB3rSsG2s0S4hEh"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Amor de Bandidos",
         "url": "https://open.spotify.com/album/1qFtTfcIXjWiU6KI6MPAE4"
@@ -737,7 +845,7 @@
       "url": "https://open.spotify.com/track/7bgMjDSp8JOTFaqEhl9zi6"
     },
     {
-      "added_at": "2026-09-02 21:08:14",
+      "added_at": "2026-09-10 02:04:08",
       "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/2aYAXbkKPbEoMNhqSxmK8N"
@@ -751,110 +859,6 @@
       "duration_ms": 168557,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/6qJB7fAIeI7TLS27IwbNVZ"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "RDP",
-        "url": "https://open.spotify.com/album/5qJw577np4Eua1FUzjHMJR"
-      },
-      "artists": [
-        {
-          "name": "BigMAQ",
-          "url": "https://open.spotify.com/artist/7n9lshnTGO750RgXU2qsrs"
-        },
-        {
-          "name": "Los Ilegales de Mty",
-          "url": "https://open.spotify.com/artist/5K50ijSqSznxxWAwp1tPYR"
-        }
-      ],
-      "duration_ms": 160693,
-      "name": "RDP",
-      "url": "https://open.spotify.com/track/1dOw5HIP2d1Kk1p9lyZT6T"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "Tu Cambiaste",
-        "url": "https://open.spotify.com/album/5zs9XYgagCtj14VxQfHBCv"
-      },
-      "artists": [
-        {
-          "name": "L\u00eda Ham",
-          "url": "https://open.spotify.com/artist/2aWDnUfPAbM2o1SYOsLOEk"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Tu Cambiaste",
-      "url": "https://open.spotify.com/track/7cqpHgA6ZZPgLz3x8maTqL"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/4bmUOzG8aVgjxIWRivWk5X"
-      },
-      "artists": [
-        {
-          "name": "Odin Orozco",
-          "url": "https://open.spotify.com/artist/7M7Dkt0NsJC60BpQY6LLhd"
-        },
-        {
-          "name": "Asael gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/0jx5RRtMAzF59RIiULZ58T"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "ALCATRAZ",
-        "url": "https://open.spotify.com/album/1cghsja2WNEpwf8MsWXlrU"
-      },
-      "artists": [
-        {
-          "name": "Erick GR",
-          "url": "https://open.spotify.com/artist/6MjJDGKqTMt17DdoUM2Opw"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "ALCATRAZ",
-      "url": "https://open.spotify.com/track/15MLh59f827a28oCfJILAS"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "Ese Morrito",
-        "url": "https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Ese Morrito",
-      "url": "https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89"
-    },
-    {
-      "added_at": "2026-09-02 21:08:14",
-      "album": {
-        "name": "Bandera Blanca",
-        "url": "https://open.spotify.com/album/73CqTrGgKmyd4RJ4ATxBso"
-      },
-      "artists": [
-        {
-          "name": "Jenn Santos",
-          "url": "https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl"
-        }
-      ],
-      "duration_ms": 182016,
-      "name": "Bandera Blanca",
-      "url": "https://open.spotify.com/track/2s6FlM3MxL3N1eWMa1l72w"
     }
   ],
   "unique_name": "Fresh Finds M\u00fasica Mexicana ",

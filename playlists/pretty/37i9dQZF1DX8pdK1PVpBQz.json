@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: takytheartist",
-  "num_followers": 31236,
+  "num_followers": 31240,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAr5BQ+RnseOQ+qTmYGVCgqY8b4P",
+  "snapshot_id": "AAAAABqZBbv0f/hEWBP5CdclQ5FIqeil",
   "tracks": [
     {
       "added_at": "2026-09-08 14:00:24",
@@ -91,6 +91,22 @@
       "duration_ms": 226122,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
+    },
+    {
+      "added_at": "2026-09-09 23:13:47",
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
     },
     {
       "added_at": "2026-09-08 14:00:24",
@@ -1683,22 +1699,6 @@
       "duration_ms": 219071,
       "name": "It's All In My Head",
       "url": "https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU"
-    },
-    {
-      "added_at": "2026-09-08 14:00:24",
-      "album": {
-        "name": "North West Coastal Highway",
-        "url": "https://open.spotify.com/album/7qHK6n4P8hkKh8WWVcHRUq"
-      },
-      "artists": [
-        {
-          "name": "RATSALAD.",
-          "url": "https://open.spotify.com/artist/3zTboMc9nTwFmqSWI2bkPz"
-        }
-      ],
-      "duration_ms": 107714,
-      "name": "North West Coastal Highway",
-      "url": "https://open.spotify.com/track/5aDhgpcK0OEBEDPT4HgL5l"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

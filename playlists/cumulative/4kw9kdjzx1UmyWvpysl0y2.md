@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,298 songs - 2 day 23 hr 57 min
+1,299 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Infortunii](https://open.spotify.com/track/5WesZOkeAlWuxNRvS64SOr) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Infortunii](https://open.spotify.com/album/6IoL8qCD3mZodqlyEMYkqO) | 3:42 | 2023-10-10 | 2024-01-23 |
 | [INNER FYRE](https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc) | [Bleach](https://open.spotify.com/album/3VXSmuGlhlCYmhA9mouesP) | 2:34 | 2023-06-15 | 2023-09-26 |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
+| [Interconnected](https://open.spotify.com/track/4SEvIt5BvRlfSSRUQWvXw7) | [Simulcats](https://open.spotify.com/artist/4eM1PMvj5NTpvtTfkQWRYr) | [Interconnected](https://open.spotify.com/album/0VViNSTKBZQBzMOeGXJK0x) | 3:41 | 2026-09-09 |  |
 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 | 2022-12-13 |
 | [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 | 2023-10-26 | 2024-02-09 |
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-24 | 2023-12-14 |

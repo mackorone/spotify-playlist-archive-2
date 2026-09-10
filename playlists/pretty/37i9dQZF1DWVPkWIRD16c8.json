@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 270962,
+  "num_followers": 271128,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Holding On (Praise God)",
-        "url": "https://open.spotify.com/album/7cf4mvGVW24x6Ugy6jZ83u"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 218785,
-      "name": "Holding On (Praise God)",
-      "url": "https://open.spotify.com/track/6YLeNiSaMlAneSXWerpreU"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 197706,
       "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Holding On (Praise God)",
+        "url": "https://open.spotify.com/album/7cf4mvGVW24x6Ugy6jZ83u"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 218785,
+      "name": "Holding On (Praise God)",
+      "url": "https://open.spotify.com/track/6YLeNiSaMlAneSXWerpreU"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -315,26 +315,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+        "name": "Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+      "duration_ms": 230377,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -355,18 +347,26 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Gonna Be Alright",
-        "url": "https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18"
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 230377,
-      "name": "Gonna Be Alright",
-      "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "mourning 2 dancing",
         "url": "https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 164253,
       "name": "mourning 2 dancing",
       "url": "https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "After All This Time",
-        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
-      },
-      "artists": [
-        {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "After All This Time",
-      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Poetic",
-        "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
-      },
-      "artists": [
-        {
-          "name": "The Band JAREN",
-          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
-        }
-      ],
-      "duration_ms": 228677,
-      "name": "Poetic",
-      "url": "https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 193274,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Poetic",
+        "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "duration_ms": 228677,
+      "name": "Poetic",
+      "url": "https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "getting somewhere",
-        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "getting somewhere",
-      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 248960,
       "name": "We Could Run Away",
       "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "getting somewhere",
+        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "getting somewhere",
+      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
     },
     {
       "added_at": "2026-07-29 17:48:00",

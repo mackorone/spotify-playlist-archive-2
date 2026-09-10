@@ -4995,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Love Your Country",
+        "url": "https://open.spotify.com/album/6WSDhO1ccOFKABv08pXHFA"
+      },
+      "artists": [
+        {
+          "name": "Western Jaguar",
+          "url": "https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Love Your Country",
+      "url": "https://open.spotify.com/track/6p0X6WIUT2hIQ4ElJZgsmc"
+    },
+    {
+      "album": {
         "name": "9 2 5",
         "url": "https://open.spotify.com/album/3trknleJinlGnyzjZRTi40"
       },

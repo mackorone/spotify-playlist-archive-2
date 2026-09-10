@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 128169,
+  "num_followers": 128214,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Amor Entre S\u00e1banas",
         "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 181254,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Fiesta a la Colombiana",
         "url": "https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 224573,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/14wlPLPgWlPv42Y7G0YQ9y"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -743,8 +743,8 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "En Tu Cuarto",
-        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Quiero Ser Libre",
-      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
+      "duration_ms": 219358,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -823,8 +823,8 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "En Tu Cuarto",
+        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
         }
       ],
-      "duration_ms": 219358,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
+      "duration_ms": 220266,
+      "name": "Quiero Ser Libre",
+      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/5s39l4jmnbhrqztnag434s"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 227563,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5eURzSME8gvf8DEYqNXBz2"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 117950,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/5s39l4jmnbhrqztnag434s"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 227563,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5eURzSME8gvf8DEYqNXBz2"
     },
     {
       "added_at": "2026-09-04 18:44:34",

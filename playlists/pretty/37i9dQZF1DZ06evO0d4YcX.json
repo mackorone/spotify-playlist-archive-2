@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16667,
+  "num_followers": 16666,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABb6zlFN5ettabUdJFYGqF3",
+  "snapshot_id": "ap9QAAAAAADN2Q1PcpsOE4soGgHuskYd",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 232273,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like A Hunger",
         "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 272736,
       "name": "Like A Hunger",
       "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 232273,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put You On",
         "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 224553,
       "name": "Put You On",
       "url": "https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": null,

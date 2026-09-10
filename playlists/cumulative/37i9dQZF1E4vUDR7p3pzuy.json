@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, JUST LIZZY, Bestial Mouths and more",
+  "description": "With Bestial Mouths, VELATINE, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 219059,
       "name": "Basic Physics",
       "url": "https://open.spotify.com/track/1zxEvglhP9KWTT0KTreOOb"
@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 221760,
       "name": "CONJURE",
       "url": "https://open.spotify.com/track/4q8fm60IMS9bD3wkrk0FQk"
@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 213375,
       "name": "Exploded View",
       "url": "https://open.spotify.com/track/7aebRmIk3zGEWHMedeOAOz"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 268466,
       "name": "Fairy Child - 2002 the Dreamside Remix",
       "url": "https://open.spotify.com/track/33XIjROsKXHUaySCPEEDIA"
@@ -7204,7 +7204,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -7302,7 +7302,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 197520,
       "name": "GARRAS",
       "url": "https://open.spotify.com/track/7qWDVBP7lKD2bsU5TgSbRn"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 222232,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5CexrvPbFIwcOWvB0c9WPM"
@@ -9115,6 +9115,28 @@
     },
     {
       "album": {
+        "name": "i'm getting closer",
+        "url": "https://open.spotify.com/album/2aOEtl04IDFif7WFakmFOS"
+      },
+      "artists": [
+        {
+          "name": "gothcandy",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+        },
+        {
+          "name": "Skyper",
+          "url": "https://open.spotify.com/artist/0CNfs9pEtUEZSwo0QUuom3"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147687,
+      "name": "i'm getting closer",
+      "url": "https://open.spotify.com/track/2BkbCEwlUfUyIMw5n9uT4w"
+    },
+    {
+      "album": {
         "name": "Puppets Know",
         "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
       },
@@ -9526,7 +9548,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 180800,
       "name": "Innocent Smile - Radio Edit",
       "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
@@ -9681,6 +9703,24 @@
     },
     {
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/1uQA4p8o3KyyxgnGb9CpCP"
+      },
+      "artists": [
+        {
+          "name": "PurNie",
+          "url": "https://open.spotify.com/artist/2dOPR5sFY1EDsSv0Xnlq4e"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278005,
+      "name": "Iron",
+      "url": "https://open.spotify.com/track/4jtdEcsmSfV1WLCGqdOr2J"
+    },
+    {
+      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/43Hle60MVbIDJFj4e8576z"
       },
@@ -9736,6 +9776,24 @@
       "duration_ms": 261865,
       "name": "Is it real",
       "url": "https://open.spotify.com/track/02qzQv8WF5s0LWuQhxCZgW"
+    },
+    {
+      "album": {
+        "name": "The Death of Me",
+        "url": "https://open.spotify.com/album/1PYBJOR5VQrWNlKRqloiq0"
+      },
+      "artists": [
+        {
+          "name": "Tania Cassette",
+          "url": "https://open.spotify.com/artist/7b9ea1qYy8iXBCjGTWphtK"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/4VXpRrm5cBUzTJrcZsNI1l"
     },
     {
       "album": {
@@ -10424,7 +10482,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/26mnIZ04a0hV0nVTY9kZ2S"
@@ -11070,7 +11128,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -11196,7 +11254,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -15824,7 +15882,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -15864,7 +15922,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "SHOULDER",
       "url": "https://open.spotify.com/track/0R50EFhaZ1IkQdkbhvuofA"
@@ -18418,7 +18476,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 328625,
       "name": "The Illness",
       "url": "https://open.spotify.com/track/2LFMaAVjB44YC2I8mxzv53"
@@ -19208,7 +19266,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 207936,
       "name": "This Dance",
       "url": "https://open.spotify.com/track/27GtVpyrQcZ1Gtp74vPOFG"
@@ -20110,7 +20168,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -21166,7 +21224,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 208025,
       "name": "What Can I Do For You - GSCX Version",
       "url": "https://open.spotify.com/track/2vSy9KIDIrA8CECsUczbF8"
@@ -21456,7 +21514,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -22116,7 +22174,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

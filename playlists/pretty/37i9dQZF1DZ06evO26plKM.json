@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33746,
+  "num_followers": 33758,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADUjFycoeYDjm37bzvSzd+j",
+  "snapshot_id": "ap9QAAAAAAAW9N5pn2CwQY8ljTghe5us",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "Just to Be the One (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "Just to Be the One (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
         "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
       },
@@ -591,26 +591,6 @@
       "duration_ms": 380095,
       "name": "Fitzcarraldo (Funkhaus Version)",
       "url": "https://open.spotify.com/track/5bgNDhKnTLFedQFTClTMx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn the Maps",
-        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 239386,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
     },
     {
       "added_at": null,
@@ -635,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+        "name": "Burn the Maps",
+        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
       },
       "artists": [
         {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 213853,
-      "name": "In These Arms",
-      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
+      "duration_ms": 239386,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
     },
     {
       "added_at": null,
@@ -679,6 +655,30 @@
       "duration_ms": 231546,
       "name": "Stuck In Reverse",
       "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "In These Arms",
+      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longitude",
-        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Star Star",
-      "url": "https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 238174,
+      "name": "Star Star",
+      "url": "https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 258970,
-      "name": "Leave A Light (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 284626,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/6nuMBIXdGs2wL3mp49Ndf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 258970,
+      "name": "Leave A Light (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 328525,
-      "name": "McCormack's Wall (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/5IR0YWcfa8aI9WGZonDFd0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Longitude",
         "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 274343,
       "name": "Seven Day Mile",
       "url": "https://open.spotify.com/track/29bmB0tllG78IewIQYwFMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 328525,
+      "name": "McCormack's Wall (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/5IR0YWcfa8aI9WGZonDFd0"
     },
     {
       "added_at": null,

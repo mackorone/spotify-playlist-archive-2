@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAAC78iYdMn1MVrl4Y1qMwXlwPs5Thp8",
+  "snapshot_id": "AAAC8Zi2I96KhYOYjzzoR4O8la5dNzfg",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -9847,6 +9847,42 @@
       "duration_ms": 247200,
       "name": "Endgame",
       "url": "https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL"
+    },
+    {
+      "added_at": "2026-09-09 20:25:42",
+      "album": {
+        "name": "Lifelike Figures",
+        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/4sExGfGQZ4ovpWosLswA0P"
+    },
+    {
+      "added_at": "2026-09-09 20:26:36",
+      "album": {
+        "name": "Heroes Get Hurt",
+        "url": "https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        },
+        {
+          "name": "Terry Lupton",
+          "url": "https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i"
+        }
+      ],
+      "duration_ms": 222805,
+      "name": "Heroes Get Hurt",
+      "url": "https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk"
     }
   ],
   "unique_name": "Rock Frequency (2)",

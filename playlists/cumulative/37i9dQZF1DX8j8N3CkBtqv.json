@@ -2691,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Baarish Aati Hai",
+        "url": "https://open.spotify.com/album/563CRnck0tiSfYNCXokmH7"
+      },
+      "artists": [
+        {
+          "name": "Suman Kashyap",
+          "url": "https://open.spotify.com/artist/4owNXME4aABZ2szPPM9cYE"
+        },
+        {
+          "name": "Hridoy Chandan",
+          "url": "https://open.spotify.com/artist/6HNXIb9Jq6wIdo7L4IUiW4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305379,
+      "name": "Baarish Aati Hai",
+      "url": "https://open.spotify.com/track/6fg5sgvPXE7PLISehD5EoC"
+    },
+    {
+      "album": {
         "name": "Baarish Aayi Hai",
         "url": "https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc"
       },
@@ -25882,7 +25904,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 149381,
       "name": "Sahab Salam",
       "url": "https://open.spotify.com/track/3XrYm1qqA6wi8C9nAob7Gp"

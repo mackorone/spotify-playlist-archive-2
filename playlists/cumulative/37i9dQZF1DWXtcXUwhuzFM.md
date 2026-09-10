@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat ANI, AHTI, Nenerchy..\. ja moni muu  🎶
 
-12,546 songs - 27 day 15 hr 38 min
+12,547 songs - 27 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9573,6 +9573,7 @@
 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 | 2025-07-10 | 2025-07-18 |
 | [sly cooper](https://open.spotify.com/track/5tE1U31dzUzgn52uuCWgeZ) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [sly cooper](https://open.spotify.com/album/0Xq7CFmAl8qSty0IVhEASN) | 2:41 | 2025-08-29 | 2025-09-06 |
 | [Slängään öissä](https://open.spotify.com/track/2YtstqGG5zESxmHo8bE7ST) | [Cotton & Lance](https://open.spotify.com/artist/3uBowIHzTtW5qfWVzNL2mX), [Kid Liki](https://open.spotify.com/artist/4IZoSgpc6x4xznIiExAMTJ) | [Slängään öissä](https://open.spotify.com/album/2diBNk0y4wEyxLvw9Y6IBJ) | 3:58 | 2025-02-13 | 2025-02-21 |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-03 |  |
 | [Small Town Syndrome](https://open.spotify.com/track/5zcZWauQFIqz90488s06Xn) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Small Town Syndrome](https://open.spotify.com/album/1YMO805X4i11iqElzNXfjB) | 2:59 | 2024-07-11 | 2024-07-19 |
 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 | 2025-03-13 | 2025-03-21 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-10 | 2025-04-18 |

@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 158761,
       "name": "Dhooram",
       "url": "https://open.spotify.com/track/4Gmm0gSQZsU9uQwUieQ3cf"
@@ -6142,6 +6142,28 @@
       "duration_ms": 200830,
       "name": "Mask",
       "url": "https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2"
+    },
+    {
+      "album": {
+        "name": "Math Mutham",
+        "url": "https://open.spotify.com/album/3R5jgJKjvxfwtaXWf56nAo"
+      },
+      "artists": [
+        {
+          "name": "Najran Kabeer",
+          "url": "https://open.spotify.com/artist/0jvCibdhene4gjkWnfdort"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231930,
+      "name": "Math Mutham",
+      "url": "https://open.spotify.com/track/1l0w4A1t6ogRyghau5XMbh"
     },
     {
       "album": {

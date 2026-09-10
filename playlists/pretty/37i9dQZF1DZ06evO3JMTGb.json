@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABtA1yz6BlBR0XjSH/4jC+r",
+  "snapshot_id": "ap9QAAAAAACjTSrvhBAUnxOTKQZlCToI",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Repair Techniques",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 89977,
-      "name": "You Make Me Care More",
-      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
+      "duration_ms": 225742,
+      "name": "Driving Towards the Deaths Mycelium",
+      "url": "https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Repair Techniques",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 225742,
-      "name": "Driving Towards the Deaths Mycelium",
-      "url": "https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ"
+      "duration_ms": 89977,
+      "name": "You Make Me Care More",
+      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
     },
     {
       "added_at": null,

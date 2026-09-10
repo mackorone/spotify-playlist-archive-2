@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,653 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,627 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 12 | [Experimenta ver](https://open.spotify.com/track/4q9t6Vmyipzfbddbt6KsbN) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Experimenta ver](https://open.spotify.com/album/4Kvwmeg2wtdSwBOINZeApF) | 3:23 |
 | 13 | [Bong De Maracujá](https://open.spotify.com/track/4tGhnYxCmtJ6QKZALBjXkH) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Músicas Para Marolar](https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp) | 2:18 |
 | 14 | [FRANKFURT](https://open.spotify.com/track/2L5HhsbheVrLUsPRFMzfXn) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb) | [FRANKFURT](https://open.spotify.com/album/71U9A62SXVGcvbCqrKGJbx) | 3:12 |
-| 15 | [ÍCONE FASHION \- Remix](https://open.spotify.com/track/47SzUXU4kpNrR8HtftdLVu) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:39 |
+| 15 | [HISTERIA](https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 2:21 |
 | 16 | [a última dança](https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [a última dança](https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E) | 2:06 |
 | 17 | [Foi Mal Aí](https://open.spotify.com/track/5OoHKyFa8khX9XCeI8aGkt) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Não Me Leve a Mal](https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1) | 2:54 |
 | 18 | [Somos Assim](https://open.spotify.com/track/2cZR6skM36HwAU7j8CmoKY) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Somos Assim](https://open.spotify.com/album/7umn3q4s1zg1RtEKO9aUS7) | 3:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 64 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
 | 65 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:07 |
 
-Snapshot ID: `AAAAACskkNqAUB9sNbrGbI3SUnUgvsfl`
+Snapshot ID: `AAAAAOPrY6W3+V8zVF/CsQqGP4KLX/Yn`

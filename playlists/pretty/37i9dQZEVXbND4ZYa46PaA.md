@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,859 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,862 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 50 | [De zomer van Oya Lélé](https://open.spotify.com/track/781CYhpS8TdpVN9Uosyu3e) | [K3](https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D) | [De zomer van Oya Lélé](https://open.spotify.com/album/2WAx5Ugj9NA9hnMsLBi34q) | 3:13 |
 
-Snapshot ID: `MjN+0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MjTQUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

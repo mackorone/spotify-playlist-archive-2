@@ -228,7 +228,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 151680,
       "name": "Aasa Pulla (From \"Youth\")",
       "url": "https://open.spotify.com/track/1CP3eJVGHGN6IaUAlEgQeM"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 337177,
       "name": "Kannae Kanmaniye",
       "url": "https://open.spotify.com/track/13Ovp6ZSQpV6z2CfdWoP4S"
@@ -6863,6 +6863,32 @@
     },
     {
       "album": {
+        "name": "Parandhu Pogum Manase (From \"XY\" Mayavan Universe)",
+        "url": "https://open.spotify.com/album/31YYTr1znSiI8MsnF6nTnp"
+      },
+      "artists": [
+        {
+          "name": "Srikant Krishna",
+          "url": "https://open.spotify.com/artist/3CzoBGsEukKWTwHhCQWA1x"
+        },
+        {
+          "name": "Chinmayi Sripada",
+          "url": "https://open.spotify.com/artist/68Ia6L2UG0Aw6grtMwibMz"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164879,
+      "name": "Parandhu Pogum Manase - From \"XY\" Mayavan Universe",
+      "url": "https://open.spotify.com/track/4JOFlTrj00qH7LkXfxa2k2"
+    },
+    {
+      "album": {
         "name": "Paranthene Penne (From \"Youth\")",
         "url": "https://open.spotify.com/album/7KP9rdrmLHAq1N7iPceFTR"
       },
@@ -7298,6 +7324,40 @@
       "duration_ms": 258553,
       "name": "Raati",
       "url": "https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2"
+    },
+    {
+      "album": {
+        "name": "Radhimaa (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Nargis Teji",
+          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
+        },
+        {
+          "name": "Asma Teji",
+          "url": "https://open.spotify.com/artist/4nTgmp4xA89rC3gKhHwrWg"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259852,
+      "name": "Radhimaa - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
     },
     {
       "album": {

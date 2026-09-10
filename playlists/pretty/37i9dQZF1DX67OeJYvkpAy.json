@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109363,
+  "num_followers": 109356,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 138110,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
     },
     {
       "added_at": "2025-10-10 12:01:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pablo com Simone Mendes, Gustavo Mioto, Beyoncé, Miley Cyrus, Iguinho e Lulinha, JUNIOR com Luccas Carlos e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,147 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,900 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [Climão \- Ao Vivo](https://open.spotify.com/track/0aZAPax7u43NPQ5qBOUNoO) | [Lorena Cristine](https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Meu Copo Não Trai \(Ao Vivo\)](https://open.spotify.com/album/38xuj9OsDD8IgONhYs8yHU) | 2:27 |
 | 66 | [2002](https://open.spotify.com/track/5PT6rLT40t7fIn5pyUa2Xm) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920) | [2002](https://open.spotify.com/album/2YQg0nD77wMMUxO13lHXq9) | 2:04 |
 | 67 | [Canção do Apocalipse \- Acústico](https://open.spotify.com/track/63W9u5e9FI17GLVJaoW39K) | [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb) | [Canção do Apocalipse \(Acústico\)](https://open.spotify.com/album/0KwrpKaesqBIUmK6KCD1IQ) | 8:58 |
-| 68 | [Se Foi \(Cangaço Sessions 4\)](https://open.spotify.com/track/1nbA12dugNWRyMhQygYFFF) | [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Drake D.N](https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27), [Guiga Serra](https://open.spotify.com/artist/5uWhcNhwxiHN6oX4CEcEh4) | [Se Foi \(Cangaço Sessions 4\)](https://open.spotify.com/album/4aKQi3FgeNWP885XvRmZjg) | 3:32 |
+| 68 | [Se Foi \(Cangaço Sessions 4\)](https://open.spotify.com/track/1nbA12dugNWRyMhQygYFFF) | [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Guiga Serra](https://open.spotify.com/artist/5uWhcNhwxiHN6oX4CEcEh4) | [Se Foi \(Cangaço Sessions 4\)](https://open.spotify.com/album/4aKQi3FgeNWP885XvRmZjg) | 3:32 |
 | 69 | [Essência](https://open.spotify.com/track/5596rV2cTq68eP3RuueQ2I) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV) | [Essência](https://open.spotify.com/album/44N8VmuAaelURg71uWr4yj) | 2:17 |
 
 Snapshot ID: `AAAAAOj35rLwCy78oHvd6W8SStXzfFPW`

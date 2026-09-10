@@ -4823,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/0SwkvjoLJtTofh2kCo2L1V"
+      },
+      "artists": [
+        {
+          "name": "Szilver",
+          "url": "https://open.spotify.com/artist/4XsRVYfQgld2414XL85ApN"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/56fLrrqiXHH8ygYCrrb9AT"
+    },
+    {
+      "album": {
         "name": "BOMBA-BOMBA",
         "url": "https://open.spotify.com/album/2Wb81UCL8aWqOvmLtQzIKL"
       },
@@ -19044,7 +19062,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -30052,7 +30070,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 262800,
       "name": "SHOW ME WHAT YOU GOT",
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
@@ -37068,7 +37086,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,647 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,646 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 16 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
 | 17 | [A Place Called Home](https://open.spotify.com/track/4QmBs5a3mFFLaLA1QTEVrN) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:42 |
 | 18 | [The Garden](https://open.spotify.com/track/69EBjVoAh2Z10jubFXz8YL) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:12 |
-| 19 | [Hit the City](https://open.spotify.com/track/3OXX5hy8YPQP9QYgzqaY2f) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 2:48 |
-| 20 | [I Inside the Old I Dying](https://open.spotify.com/track/2lNYfvYzscwtbM6d6A7uly) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:08 |
+| 19 | [I Inside the Old I Dying](https://open.spotify.com/track/2lNYfvYzscwtbM6d6A7uly) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:08 |
+| 20 | [Hit the City](https://open.spotify.com/track/3OXX5hy8YPQP9QYgzqaY2f) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 2:48 |
 | 21 | [We Float](https://open.spotify.com/track/0FTdrBz10BKS1LI7rXAjFp) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 6:07 |
 | 22 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
 | 23 | [The Dancer](https://open.spotify.com/track/1XXnKGbxitQMuOuzEoWKtj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 4:05 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 33 | [Come to Me](https://open.spotify.com/track/7xDeTALyFeNz7241qj3aJS) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 3:45 |
 | 34 | [Catherine](https://open.spotify.com/track/1FtCIt8zecbYf4mKvqJ029) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:05 |
 | 35 | [Red Right Hand](https://open.spotify.com/track/0iZ4UE5OZyQwSzTTm6yIW0) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [B\-Sides, Demos & Rarities](https://open.spotify.com/album/1MHs4v5JaQAN9gDJW8Emkr) | 2:52 |
-| 36 | [The Words That Maketh Murder](https://open.spotify.com/track/64EePXuDYpMZMvaTT7k8vi) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:45 |
+| 36 | [In The Dark Places](https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:59 |
 | 37 | [A Child's Question, August](https://open.spotify.com/track/25jKtcME8AUUOBd82DBF71) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 2:46 |
 | 38 | [Dress](https://open.spotify.com/track/6pRWjTvrRM8vmf3LE9akXc) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:18 |
-| 39 | [Man\-Size](https://open.spotify.com/track/3X4qUkEhAvGY3qIlpNh1sl) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:16 |
-| 40 | [In The Dark Places](https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:59 |
-| 41 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 |
-| 42 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
-| 43 | [Rub 'Til It Bleeds](https://open.spotify.com/track/2nZdhNwhvoaUIDqPG9rtz1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 5:03 |
+| 39 | [Rub 'Til It Bleeds](https://open.spotify.com/track/2nZdhNwhvoaUIDqPG9rtz1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 5:03 |
+| 40 | [The Words That Maketh Murder](https://open.spotify.com/track/64EePXuDYpMZMvaTT7k8vi) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:45 |
+| 41 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
+| 42 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 |
+| 43 | [Man\-Size](https://open.spotify.com/track/3X4qUkEhAvGY3qIlpNh1sl) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:16 |
 | 44 | [The Last Living Rose](https://open.spotify.com/track/2K7qvmfEWQm41wIJkjDBj4) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:21 |
 | 45 | [Sheela\-na\-gig](https://open.spotify.com/track/4WTNdb4ivbpoFuEMrykehP) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:12 |
 | 46 | [The Mistery of Love](https://open.spotify.com/track/631jwAiEhwJO3aXpzHQx6X) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Before the Poison](https://open.spotify.com/album/2d6SyohTVmBFfAVkE4Bzyu) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 49 | [Lwonesome Tonight](https://open.spotify.com/track/1YOs9wSUVlmIIJ0GNL1Oiv) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:48 |
 | 50 | [The Letter](https://open.spotify.com/track/2ZJ28OVvI4RDb6ZwxOOCOw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 3:19 |
 
-Snapshot ID: `ap3+gAAAAADKIgFVi/TJSo2yWJl0wYGF`
+Snapshot ID: `ap9QAAAAAACJmG+WS75T9q2HjHMv2C0a`

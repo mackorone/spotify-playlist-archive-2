@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: The Callous Daoboys",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: NOVELISTS",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 112626,
       "name": "Accelerationist",
       "url": "https://open.spotify.com/track/5DKj8ilZhqi7yA8l9cBcBD"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 238634,
       "name": "Burial",
       "url": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB"
@@ -2484,6 +2484,24 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/45G4ZS3vHZ2CPoKec8cqpG"
+      },
+      "artists": [
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222566,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/3Bl53Ud5Z55tasf0R9vjtm"
     },
     {
       "album": {
@@ -3347,6 +3365,28 @@
     },
     {
       "album": {
+        "name": "Crocodile.",
+        "url": "https://open.spotify.com/album/4NG6FxNPmnfIVtXWWeTVZx"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295292,
+      "name": "Crocodile.",
+      "url": "https://open.spotify.com/track/15BCiZbLXGxPvBqvUVOpNS"
+    },
+    {
+      "album": {
         "name": "Cross To Bear",
         "url": "https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx"
       },
@@ -3380,6 +3420,24 @@
       "duration_ms": 165420,
       "name": "Crucifix",
       "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/775FTflkHkZfaZYP130ALj"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
     },
     {
       "album": {
@@ -3814,7 +3872,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 258008,
       "name": "Death of the Wolf",
       "url": "https://open.spotify.com/track/15BcUDMO0skpQT6FgED0es"
@@ -5658,7 +5716,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 208615,
       "name": "Far",
       "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
@@ -5712,7 +5770,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 167953,
       "name": "Fear Is The New Belief",
       "url": "https://open.spotify.com/track/75WK5aoRBPF1dYwOIorBoD"
@@ -5806,7 +5864,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 165180,
       "name": "Flesh and Bone",
       "url": "https://open.spotify.com/track/2AbOj8FBoZ17C0u3HsSiFp"
@@ -8796,6 +8854,24 @@
     {
       "album": {
         "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/67qYPlud0bcwTaHrPGGymI"
+      },
+      "artists": [
+        {
+          "name": "No Life",
+          "url": "https://open.spotify.com/artist/1AV6c2X9NdJqzPpSr7JziK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145428,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3zgedOMMt7sgzUoKqKSyUR"
+    },
+    {
+      "album": {
+        "name": "Labyrinth",
         "url": "https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE"
       },
       "artists": [
@@ -10391,6 +10467,24 @@
     },
     {
       "album": {
+        "name": "nevermore",
+        "url": "https://open.spotify.com/album/2mU5A4F37HQ5DUnXDmkaaI"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202726,
+      "name": "nevermore",
+      "url": "https://open.spotify.com/track/0gssIXt6nTS150m8cWnaQb"
+    },
+    {
+      "album": {
         "name": "Next To Bleed",
         "url": "https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU"
       },
@@ -11074,6 +11168,24 @@
       "duration_ms": 347595,
       "name": "One For The Garden",
       "url": "https://open.spotify.com/track/0OjVhGleoUkZuoyA4BVB1k"
+    },
+    {
+      "album": {
+        "name": "ONE MINUTE",
+        "url": "https://open.spotify.com/album/4hC720cmw0GIPo7ldiLAVS"
+      },
+      "artists": [
+        {
+          "name": "UNDEAD CORPORATION",
+          "url": "https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85412,
+      "name": "ONE MINUTE",
+      "url": "https://open.spotify.com/track/7tTsTV5XZOWiiovCDytYYu"
     },
     {
       "album": {
@@ -12192,6 +12304,24 @@
       "duration_ms": 185874,
       "name": "RARARA",
       "url": "https://open.spotify.com/track/6f37FHyrXjpaBpRsfVU1fI"
+    },
+    {
+      "album": {
+        "name": "Ravage",
+        "url": "https://open.spotify.com/album/53UI4z0J8wtkg87bm2Neoq"
+      },
+      "artists": [
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256043,
+      "name": "Ravage",
+      "url": "https://open.spotify.com/track/2pUaecpU87lb2enphyDByI"
     },
     {
       "album": {
@@ -15540,7 +15670,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 247116,
       "name": "The Sun's Domain",
       "url": "https://open.spotify.com/track/19DBkJwrnqn1KmYNcqGOwi"
@@ -16600,7 +16730,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 185760,
       "name": "vessel",
       "url": "https://open.spotify.com/track/0egpHgCiAjfnzo3sHieS7P"
@@ -17366,6 +17496,28 @@
       "duration_ms": 176353,
       "name": "Why?",
       "url": "https://open.spotify.com/track/6ssX5woHXkbyasb5AmNCkb"
+    },
+    {
+      "album": {
+        "name": "Willenlos",
+        "url": "https://open.spotify.com/album/4uHDn9N4XlPuY7yvesKEwj"
+      },
+      "artists": [
+        {
+          "name": "Consvmer",
+          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
+        },
+        {
+          "name": "DOGBITE",
+          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163382,
+      "name": "Willenlos",
+      "url": "https://open.spotify.com/track/1ZsttjDd9Lk7qXCHAoYzqU"
     },
     {
       "album": {

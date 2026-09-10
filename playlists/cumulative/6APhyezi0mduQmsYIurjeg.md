@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-595 songs - 1 day 12 hr 6 min
+597 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Heart Too Big To Break](https://open.spotify.com/track/1MXTrUQH8reL53xlRDwOqC) | [Jolene Harnish](https://open.spotify.com/artist/22VyEhA1s5rMiqI8hSyM6t) | [Heart Too Big To Break](https://open.spotify.com/album/1niCXjN0e8R0wFCltRTR8k) | 2:56 | 2023-05-02 |  |
 | [Heavy](https://open.spotify.com/track/7KEYVYIQs0fGpasrwD49KC) | [The Curve](https://open.spotify.com/artist/7scLDhUJV92qAunNa3jIr2) | [Revelation](https://open.spotify.com/album/3DOaAEbe41J9VqMhIJeOUh) | 4:36 | 2023-05-30 |  |
 | [Heroes \- Cover](https://open.spotify.com/track/0BY9nprwMSqfClfDxowHSo) | [Man Maze](https://open.spotify.com/artist/7kWch5Y73BCAXUGn25rusq) | [Heroes](https://open.spotify.com/album/7yDkljUEbrcegJeRQwGGNJ) | 3:42 | 2024-12-09 |  |
+| [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 | 2026-09-09 |  |
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2023-02-27 |  |
 | [Hey Woman \- Live](https://open.spotify.com/track/6752pDfyK4wjdx461bV7CD) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:04 | 2026-07-16 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2026-06-15 |  |
@@ -558,6 +559,7 @@
 | [Under the Moon](https://open.spotify.com/track/2X0SFnu4naoCePitcJtbph) | [The Docs](https://open.spotify.com/artist/39X2CTpM9FClOtUz0TQ6yZ) | [Under the Moon](https://open.spotify.com/album/0a2fQqn3e3Ei641KSJLoJq) | 3:31 | 2023-04-21 |  |
 | [Unseen](https://open.spotify.com/track/7JlIobxcyxqVEcix7RtcyV) | [Glenn Joseph Beats](https://open.spotify.com/artist/6CNGJJVoEwfqmLwq2HDLGc) | [Unseen Pieces \(Dual\)](https://open.spotify.com/album/6GCqWMNKGeLyywhUIaIsVw) | 3:38 | 2026-06-08 |  |
 | [Viernes](https://open.spotify.com/track/7nlK8sV7FUC6BaKcvL7hYU) | [Jonatan Ulises](https://open.spotify.com/artist/0c6eLKC7ent1tYp7iXlMgn) | [Viernes](https://open.spotify.com/album/2DkNkTpuTf14wpHHzd8tFB) | 2:22 | 2024-12-20 |  |
+| [Visualize](https://open.spotify.com/track/4sExGfGQZ4ovpWosLswA0P) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:16 | 2026-09-09 |  |
 | [Vodka soda](https://open.spotify.com/track/06Dz7mteBrSTJ9QDMa5BpB) | [Camping Lagon](https://open.spotify.com/artist/5FUG0uZPhmWPMRo0ztzgBH) | [Vodka soda](https://open.spotify.com/album/3iCMVBrLCJmdXDdSdKSTd0) | 2:48 | 2025-03-16 |  |
 | [Volver a Brillar](https://open.spotify.com/track/1Wjxe6g0BBQWZzFiWDUfuz) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 4:51 | 2026-09-01 |  |
 | [Waiting For It](https://open.spotify.com/track/4APidGIaSMpkIQCNJx2I26) | [Hucksters](https://open.spotify.com/artist/2YIuxsSEfrQeWq3ispbQ7G) | [Better Late Than Never](https://open.spotify.com/album/6SXCtYDzyKU6Wuv3RhsHWF) | 3:01 | 2024-12-31 |  |

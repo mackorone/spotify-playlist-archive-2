@@ -4,7 +4,7 @@
 
 > New music from Mauvais Djo, Miley Cyrus, Oria, Amelie Lens and more...
 
-11,522 songs - 25 day 2 hr 12 min
+11,523 songs - 25 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9032,6 +9032,7 @@
 | [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 | 2026-08-13 | 2026-08-21 |
 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 | 2024-10-31 | 2024-11-08 |
 | [Small Steps](https://open.spotify.com/track/4NrjXfhok3GMYf9b7bmSf3) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG), [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi) | [Small Steps](https://open.spotify.com/album/4ipB1VLcRfVUjLfJ1cRXSh) | 3:35 | 2025-06-12 | 2025-06-20 |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-03 |  |
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-08 | 2025-05-16 |
 | [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 | 2025-11-06 | 2025-11-14 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-10 | 2025-04-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 65281,
+  "num_followers": 65291,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAASaPkNKQfOOfMjGx5jvy/F",
+  "snapshot_id": "ap9QAAAAAAAt+Ezo2lgHcThIJFiXVAiw",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Feel Hope Coming",
-        "url": "https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 311686,
-      "name": "I Feel Hope Coming",
-      "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 187053,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3Kvjw6Rs6fA1vt3WQ3HWoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Feel Hope Coming",
+        "url": "https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 311686,
+      "name": "I Feel Hope Coming",
+      "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Hang Loose",
-      "url": "https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 271968,
       "name": "Waist Deep",
       "url": "https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "Hang Loose",
+      "url": "https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 298712,
       "name": "Time",
       "url": "https://open.spotify.com/track/2VJNDgdnV2OftCehOWMeuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "I Ain't The Same",
-      "url": "https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 275970,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/4Lm0T3gbhQ7XTGL0xTsGYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "I Ain't The Same",
+      "url": "https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Rise To The Sun",
-      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 255897,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2WouvVAjyFRCEnJboXFDpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "Rise To The Sun",
+      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 216588,
       "name": "How Love's Supposed To Go",
       "url": "https://open.spotify.com/track/7vkRvlDZqIFfGQgMaodifL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
     },
     {
       "added_at": null,

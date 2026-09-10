@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 120 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 120 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 119 | [Stars](https://open.spotify.com/track/3mnToYOHkOq2xtTLSDLXYq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Take What You Want, Do As You Please](https://open.spotify.com/album/5LHbBEPs1lSN7x3iW9DuMX) | 4:14 |
 | 120 | [Ripple](https://open.spotify.com/track/5K9wVa20dEVdqU0SEXFRVU) | [Lost Voice](https://open.spotify.com/artist/7aAaXn1p5LdxLIGqDuguGw) | [Ripple](https://open.spotify.com/album/4mCXYL78yDh115b3Otmurr) | 3:56 |
 
-Snapshot ID: `AcbyfAAAAADR0YWHG23Q4sG2k7tQoA1Q`
+Snapshot ID: `Acb4MAAAAADlwFlGVyJM1q+8JYy0SukY`

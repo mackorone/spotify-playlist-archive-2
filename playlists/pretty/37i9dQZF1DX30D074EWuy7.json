@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35052,
+  "num_followers": 35053,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "La ragazza dalla pelle di luna",
         "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1231,18 +1231,34 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+        "name": "Baccanalia",
+        "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        },
+        {
+          "name": "Pietro Santangelo",
+          "url": "https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k"
+        },
+        {
+          "name": "Paolo Bat\u00e0 Bianconcini",
+          "url": "https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s"
+        },
+        {
+          "name": "Giuseppe Giroffi",
+          "url": "https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC"
+        },
+        {
+          "name": "Luigi Di Nunzio",
+          "url": "https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr"
         }
       ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+      "duration_ms": 283675,
+      "name": "Lupercalia",
+      "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1287,34 +1303,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Baccanalia",
-        "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        },
-        {
-          "name": "Pietro Santangelo",
-          "url": "https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k"
-        },
-        {
-          "name": "Paolo Bat\u00e0 Bianconcini",
-          "url": "https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s"
-        },
-        {
-          "name": "Giuseppe Giroffi",
-          "url": "https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC"
-        },
-        {
-          "name": "Luigi Di Nunzio",
-          "url": "https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 283675,
-      "name": "Lupercalia",
-      "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Cratere",
+        "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "Cratere",
+      "url": "https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Alchimia",
         "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 370960,
       "name": "chiquil\u00edn de bach\u00edn",
       "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Cratere",
-        "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Cratere",
-      "url": "https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq"
     },
     {
       "added_at": "2026-08-04 12:28:31",

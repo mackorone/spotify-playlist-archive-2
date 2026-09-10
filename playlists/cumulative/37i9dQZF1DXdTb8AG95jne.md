@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: g0nny \(거니\)\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chang Kiha\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,396 songs - 3 day 12 hr 31 min
+1,399 songs - 3 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,6 +1125,7 @@
 | [Swim \- Virus Edit](https://open.spotify.com/track/5A2p3ewIaFMGpJN3P3L2hl) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 | 2022-02-10 | 2022-04-05 |
 | [SWIMMING](https://open.spotify.com/track/5kBbwUU7azLeOlZl4pEsZG) | [HYEEUN](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SWIMMING](https://open.spotify.com/album/4GcS4r0YR5LAuUoD5NMOTu) | 3:05 | 2021-12-21 | 2022-04-16 |
+| [Swimming](https://open.spotify.com/track/4lFx0JSmbkvY3OlHC7e06b) | [야자수](https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag) | [Swimming](https://open.spotify.com/album/078MaeP1UL9jU9ypV2xiEN) | 4:50 | 2026-09-09 |  |
 | [Swimming In Stars](https://open.spotify.com/track/04VNf8zCO7uj1mvGBIp0vu) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Swimming In Stars](https://open.spotify.com/album/7bhmu8wRFlltlaJTlDvfYJ) | 2:56 | 2022-09-21 | 2022-09-30 |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 | 2023-03-01 |
 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-07-07 | 2025-07-09 |
@@ -1203,7 +1204,7 @@
 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-04 | 2025-10-15 |
 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 | 2025-09-25 | 2025-11-06 |
 | [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-04 | 2025-08-27 |
-| [Too Young, Too Unready](https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Too Young, Too Unready](https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq) | 3:09 | 2026-05-11 |  |
+| [Too Young, Too Unready](https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Too Young, Too Unready](https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq) | 3:09 | 2026-05-11 | 2026-09-10 |
 | [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-19 | 2026-02-14 |
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
@@ -1218,7 +1219,7 @@
 | [Twit Winter](https://open.spotify.com/track/5qBRUlDyVF6PyX8PmICULm) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:21 | 2025-08-15 | 2025-09-26 |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [Typing \. \. \. \(with Jehwwn\)](https://open.spotify.com/track/4yR254OLRXvEYiAdwSyhTR) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Recall 2](https://open.spotify.com/album/0CGkAjIWKjuDGWXlP38TWU) | 2:48 | 2025-07-29 | 2025-09-04 |
-| [UFO](https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [UFO](https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5) | 3:33 | 2026-05-07 |  |
+| [UFO](https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [UFO](https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5) | 3:33 | 2026-05-07 | 2026-09-10 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
 | [Uncertainty](https://open.spotify.com/track/110fmD1UZunfVmFqrgMJ2o) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG), [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [UBUBU](https://open.spotify.com/album/6pbrTmdUYrorSP876yMIFm) | 9:47 | 2025-09-30 | 2025-11-03 |
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |
@@ -1237,7 +1238,7 @@
 | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 | 2024-01-30 | 2024-05-10 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |
 | [Untitled Youth](https://open.spotify.com/track/2seJWl70G8rJa4eNI2bef6) | [RYE](https://open.spotify.com/artist/1cxx3blWps3N86tFei5Yji) | [Untitled Youth](https://open.spotify.com/album/6UINEg2FXlzPV4WEDyx4Tp) | 3:29 | 2025-04-30 | 2025-05-14 |
-| [Untitled\_08](https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [We Are All Trying Here \(Original Soundtrack\) Part.6](https://open.spotify.com/album/15aLcoTHfvL5jZc4QH6BfY) | 3:38 | 2026-05-11 |  |
+| [Untitled\_08](https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [We Are All Trying Here \(Original Soundtrack\) Part.6](https://open.spotify.com/album/15aLcoTHfvL5jZc4QH6BfY) | 3:38 | 2026-05-11 | 2026-09-10 |
 | [Us](https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Us](https://open.spotify.com/album/23dZakjHhvfJJsiuX5A8MF) | 3:38 | 2021-12-21 | 2022-07-28 |
 | [Vacation](https://open.spotify.com/track/0M5yxK9rMHXxVPm80ls4XJ) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby), [Kim Hanjoo](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Vacation](https://open.spotify.com/album/7sTAJIi75smp8DjPQEC4RF) | 4:17 | 2025-04-11 | 2025-05-14 |
 | [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-08-29 | 2024-09-04 |
@@ -1333,6 +1334,7 @@
 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 | 2023-01-25 | 2023-02-15 |
 | [YA,YA 야,야](https://open.spotify.com/track/3BwKReqxpaS1CCsLkydw5a) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YA,YA 야,야](https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu) | 4:42 | 2022-01-27 | 2022-04-15 |
 | [YAYA](https://open.spotify.com/track/1eLt1qqQQdhSNomFZ7FqhD) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP), [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [YAYA](https://open.spotify.com/album/3b7Gkime029zOsf82qmqvI) | 4:17 | 2025-02-12 | 2025-04-11 |
+| [yaya](https://open.spotify.com/track/55TKpzNGVRikAjyw3simiK) | [Thmoon](https://open.spotify.com/artist/4DZR3oSwvSIeLP3F5gZ58f) | [yaya](https://open.spotify.com/album/3Q2VHW2FPLE9S7svKVCRPm) | 2:38 | 2026-09-09 |  |
 | [Yesterday, Today and Tomorrow](https://open.spotify.com/track/0Dk3leCGdbez4KTGdcCWnc) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Yesterday, Today and Tomorrow](https://open.spotify.com/album/64csJuZL1aPB8IVWNFEEa5) | 3:12 | 2025-09-05 | 2025-10-15 |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2022-06-18 | 2022-07-05 |
 | [Yongcheon Cave](https://open.spotify.com/track/3wWn5kGPSElAhNjj04n11z) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Yongcheon Cave](https://open.spotify.com/album/6aXYvIbs7JOuppcd7mOsPn) | 2:50 | 2022-03-31 | 2022-04-20 |
@@ -1373,6 +1375,7 @@
 | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/track/78FZO8IrNvegLUmCmJCgKm) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/album/1m2Yj8iAnUtCJ0BeWAAp5l) | 4:45 | 2023-02-14 | 2023-03-01 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 | 2025-08-13 |
 | [남](https://open.spotify.com/track/3IrLU6Qp6RdXL7TK7puZxd) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [남](https://open.spotify.com/album/7D48pjH1quK7raiZuF5kIG) | 3:16 | 2026-02-20 | 2026-04-20 |
+| [너나 나나](https://open.spotify.com/track/1e6sMUN6kpz0qzXfVvdCiH) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [산산조각](https://open.spotify.com/album/25JRvTSj01VG92b4FJMC0Z) | 3:54 | 2026-09-09 |  |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |
 | [널 쳐다볼 수 없다는 건 \(feat\. 애주레버\)](https://open.spotify.com/track/5pfn2VzX9479nIJpJimI7y) | [ONSEEON](https://open.spotify.com/artist/4cF9R9jQRn9KDSJ7NJukdy), [Azurever](https://open.spotify.com/artist/0e2qmR2yaHGVpsjwZpJ35N) | [널 쳐다볼 수 없다는 건](https://open.spotify.com/album/2C5UnsoKTOXkCStmqKoFjE) | 3:04 | 2025-03-14 | 2025-04-10 |
 | [뉴 로맨틱](https://open.spotify.com/track/52Ui66UsXzLYILg6cTzwAE) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [뉴 로맨틱](https://open.spotify.com/album/2brDUUXgAcB5l1vVmWtiYi) | 2:57 | 2025-07-18 | 2025-08-16 |

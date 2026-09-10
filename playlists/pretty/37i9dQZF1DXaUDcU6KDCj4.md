@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hans Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,355 likes - 164 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,352 likes - 164 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 68 | [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 |
 | 69 | [Daddy's Gonna Buy You a Car](https://open.spotify.com/track/5euyasUWQNPf0uwQshxMv5) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Welterweight](https://open.spotify.com/album/00Kk1SZ8ML7FYVGNnHVMPw) | 2:28 |
 | 70 | [The Best Possible World, Pt\. 1](https://open.spotify.com/track/5KsAEJknSjIlLoB9tASGkf) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Homes on the Hill](https://open.spotify.com/album/4hkXGVtZNE9edFCMrwuPuw) | 3:08 |
-| 71 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:20 |
+| 71 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:15 |
 | 72 | [Trying to Love You](https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trying to Love You](https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk) | 4:50 |
 | 73 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
 | 74 | [Her Eyes Dart Round](https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [Her Eyes Dart Round](https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1) | 2:53 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
-  "num_followers": 74355,
+  "num_followers": 74396,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "LA PERLA (V. ELECTRO-CORRIDO)",
         "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
       },
@@ -539,6 +523,42 @@
       "duration_ms": 182584,
       "name": "LA PERLA (V. ELECTRO-CORRIDO)",
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -567,26 +587,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "Ya no te quiero ver",
         "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 213555,
       "name": "Ya no te quiero ver",
       "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
-        "name": "Flores de Abril",
-        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "DIAN",
-          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "Flores de Abril",
-      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -651,6 +631,26 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "Flores de Abril",
+        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "DIAN",
+          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "Flores de Abril",
+      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 269880,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 269880,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
+        "name": "Nada Falta Como Me Faltas",
+        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 203715,
+      "name": "Nada Falta Como Me Faltas",
+      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
       },
@@ -1315,26 +1331,6 @@
       "duration_ms": 247500,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Nada Falta Como Me Faltas",
-        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
       },
       "artists": [
         {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 203715,
-      "name": "Nada Falta Como Me Faltas",
-      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Chupa (Feat. Ms Nina)",
-        "url": "https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y"
-      },
-      "artists": [
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Chupa (Feat. Ms Nina)",
-      "url": "https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 338181,
       "name": "Living on Video - The Wookies Remix",
       "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "Chupa (Feat. Ms Nina)",
+        "url": "https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y"
+      },
+      "artists": [
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Chupa (Feat. Ms Nina)",
+      "url": "https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
+        "name": "+ (P\u00e9gate)",
+        "url": "https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW"
+      },
+      "artists": [
+        {
+          "name": "Mark Cast",
+          "url": "https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1"
+        },
+        {
+          "name": "Bante",
+          "url": "https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj"
+        },
+        {
+          "name": "Chris Fr\u00edas",
+          "url": "https://open.spotify.com/artist/5lA7vZCZmYEIw2SBcy8Dxx"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "+ (P\u00e9gate)",
+      "url": "https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
         "name": "LA MALA VIDA",
         "url": "https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw"
       },
@@ -1747,30 +1771,6 @@
       "duration_ms": 141232,
       "name": "#Ruta Technomami",
       "url": "https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
-        "name": "+ (P\u00e9gate)",
-        "url": "https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW"
-      },
-      "artists": [
-        {
-          "name": "Mark Cast",
-          "url": "https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1"
-        },
-        {
-          "name": "Bante",
-          "url": "https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj"
-        },
-        {
-          "name": "Chris Fr\u00edas",
-          "url": "https://open.spotify.com/artist/5lA7vZCZmYEIw2SBcy8Dxx"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "+ (P\u00e9gate)",
-      "url": "https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA"
     },
     {
       "added_at": "2026-09-04 06:00:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,430 songs - 5 day 10 hr 20 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,431 songs - 5 day 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2438,5 +2438,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2428 | [HYB1](https://open.spotify.com/track/62KDEo3wpkHOOIZ4wEUgO0) | [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Reality Check](https://open.spotify.com/album/0NAvHnCl6vIBendC5PGPkX) | 4:20 |
 | 2429 | [Goretex](https://open.spotify.com/track/5TOcwfBVOnZX1jPaYmprhY) | [ikea99](https://open.spotify.com/artist/2IAycvrgSoZoDReX1egCW8) | [The Internet Gallery](https://open.spotify.com/album/7H7bDTwFOlUjCkO00XAJTC) | 1:28 |
 | 2430 | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 |
+| 2431 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 
-Snapshot ID: `AAAFhxQ5lYubXxLJMktnfGafDRsn2eVN`
+Snapshot ID: `AAAFiN8VlzqjU0dQR1TaUSRiy3LpTUP6`

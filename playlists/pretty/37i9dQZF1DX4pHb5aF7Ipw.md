@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Wazir Patar, Diljit Dosanjh,  Simiran Kaur Dhadli and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,384 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,399 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 10 | [Manifesto](https://open.spotify.com/track/1Ail5F8w2WlIoMgQiJb1LT) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa), [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1) | [Prism](https://open.spotify.com/album/4x22ElixbC451xN3A7SRyr) | 2:27 |
 | 11 | [Gun Lover](https://open.spotify.com/track/6vnob5wkU6KxsNse83aVqu) | [KARMA MAHAL](https://open.spotify.com/artist/1CmJWBsbV8b47Vdkvh2wWY), [Baaman](https://open.spotify.com/artist/1UQmFEmKLVxazrrIuX1VZs), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Gun Lover](https://open.spotify.com/album/3jeimpFbcl1j1mC9Bz5Nur) | 2:32 |
 | 12 | [Sugar](https://open.spotify.com/track/63RTRoYb1NHKuO4n7CM0nS) | [Inder Saini](https://open.spotify.com/artist/7o7RSfgBdKZH06WSC4lwSx) | [Sugar](https://open.spotify.com/album/6ZkUgdupoVGWRRdBdAZWvW) | 2:39 |
-| 13 | [My Luv \(From "Three Ways"\)](https://open.spotify.com/track/0N8m29igej9x35xfCOTygn) | [Knockout](https://open.spotify.com/artist/1HdB4Cw4YKfDH4lPIKOR3u), [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm) | [My Luv \(From "Three Ways"\)](https://open.spotify.com/album/0CIXIAwrTq5dGFXYt0glxu) | 1:57 |
+| 13 | [My Luv \(From "Three Ways EP"\)](https://open.spotify.com/track/0N8m29igej9x35xfCOTygn) | [Knockout](https://open.spotify.com/artist/1HdB4Cw4YKfDH4lPIKOR3u), [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm) | [My Luv \(From "Three Ways EP"\)](https://open.spotify.com/album/0CIXIAwrTq5dGFXYt0glxu) | 1:57 |
 | 14 | [Bagad Flow](https://open.spotify.com/track/7mXSbV60y5XDGnHs6IM3cU) | [Rana Brass](https://open.spotify.com/artist/5ZzjJaWW89yvDv6cCiwYKK), [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Signature By OG](https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu) | [Bagad Flow](https://open.spotify.com/album/1HpE3g4LCTXSwM1lbZRxjy) | 2:09 |
 | 15 | [Dynasty](https://open.spotify.com/track/2keAHNvrZhwT6638Hiz8TV) | [Sukhn Sandhu](https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l), [Og 604](https://open.spotify.com/artist/6ZJEiUHzmQoF2AqC6hW5ks), [Karbon](https://open.spotify.com/artist/3d35Qfp3CjJMnRzvvtuwtB) | [Dynasty](https://open.spotify.com/album/4AnTbAAzFLcEGD86b370g9) | 2:36 |
 | 16 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |

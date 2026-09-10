@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1417724,
+  "num_followers": 1417767,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Soul Folk In Action",
+        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Rock On",
         "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Soul Folk In Action",
-        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
     },
     {
       "added_at": "2024-06-24 11:23:29",

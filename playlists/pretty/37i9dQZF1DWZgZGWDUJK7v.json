@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Tomb Raider King (\ub3c4\uad74\uc655)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 118743,
+  "num_followers": 118741,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OST)",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
-        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Goodbye Now",
-      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Your Letter (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 296000,
       "name": "Your Letter",
       "url": "https://open.spotify.com/track/3w1Q9xlMlm4NeG5ydVSfwP"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Goodbye Now",
+      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
-      },
-      "artists": [
-        {
-          "name": "JAEHEE",
-          "url": "https://open.spotify.com/artist/1j0jr8bVdKMXcLsxwHZn1P"
-        },
-        {
-          "name": "YUHA",
-          "url": "https://open.spotify.com/artist/7me9iyo3I2a21n5N93Eoey"
-        }
-      ],
-      "duration_ms": 198034,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
         "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+        "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "JAEHEE",
+          "url": "https://open.spotify.com/artist/1j0jr8bVdKMXcLsxwHZn1P"
+        },
+        {
+          "name": "YUHA",
+          "url": "https://open.spotify.com/artist/7me9iyo3I2a21n5N93Eoey"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+      "duration_ms": 198034,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -723,6 +707,22 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
         "name": "Wishcat Magic Card - Wishing Star (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6oL6m23xp8e1s2i9nKOoZn"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 153268,
       "name": "Wishing Star",
       "url": "https://open.spotify.com/track/2xaKTH848s5yBeECxbmTNR"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
-        "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
-        "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Wego Wego",
-      "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -771,6 +755,22 @@
       "duration_ms": 295013,
       "name": "Bonvoyage",
       "url": "https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Wego Wego",
+      "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
-        "url": "https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP"
-      },
-      "artists": [
-        {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
-      "url": "https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
+        "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+      "url": "https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
         "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
         "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 181333,
       "name": "MAY LILY",
       "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
-        "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
-        "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1119,6 +1099,26 @@
       "duration_ms": 228720,
       "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+        "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "True Love (Secret Relationships X LEECHANGSUB)",
         "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 229013,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
+        "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
+        "url": "https://open.spotify.com/album/0B5AVDaRE8cGY071a2kiSm"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU (MONSTA X)",
+          "url": "https://open.spotify.com/artist/6bSWLKCL7hFxU0B1BXVfwC"
+        },
+        {
+          "name": "MINHYUK (MONSTA X)",
+          "url": "https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
+      "url": "https://open.spotify.com/track/72AuI3170zfskntKsfaDwR"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
         "name": "True Beauty Season 1, Part.1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7q2nSEWTAAFPZSZy0g6hwa"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 189000,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/0MLwoMXSXA949blDhkpUYW"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
-        "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
-        "url": "https://open.spotify.com/album/0B5AVDaRE8cGY071a2kiSm"
-      },
-      "artists": [
-        {
-          "name": "SHOWNU (MONSTA X)",
-          "url": "https://open.spotify.com/artist/6bSWLKCL7hFxU0B1BXVfwC"
-        },
-        {
-          "name": "MINHYUK (MONSTA X)",
-          "url": "https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "HAVE A GOODNIGHT (She is My Type\u2661 X SHOWNU (MONSTA X), MINHYUK (MONSTA X))",
-      "url": "https://open.spotify.com/track/72AuI3170zfskntKsfaDwR"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "99 (Guide to Proper Romance X Standing Egg)",
-        "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "99 (Guide to Proper Romance X Standing Egg)",
-      "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Terror Man Ending (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/77MiF7mgIiToecrI9Gb4Pf"
+        "name": "99 (Guide to Proper Romance X Standing Egg)",
+        "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Late Night Talks",
-      "url": "https://open.spotify.com/track/52QCOtIb0R1VNw4PF5NbOA"
+      "duration_ms": 212786,
+      "name": "99 (Guide to Proper Romance X Standing Egg)",
+      "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+        "name": "Terror Man Ending (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/77MiF7mgIiToecrI9Gb4Pf"
       },
       "artists": [
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+      "duration_ms": 185866,
+      "name": "Late Night Talks",
+      "url": "https://open.spotify.com/track/52QCOtIb0R1VNw4PF5NbOA"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1767,6 +1751,22 @@
       "duration_ms": 201645,
       "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
       "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     }
   ],
   "unique_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OST)",

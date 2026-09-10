@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,777 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,780 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 76 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
 | 77 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
 | 78 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 |
-| 79 | [Palermo's Grunch](https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Palermo's Grunch](https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj) | 5:08 |
-| 80 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
+| 79 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
+| 80 | [Palermo's Grunch](https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Palermo's Grunch](https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj) | 5:08 |
 | 81 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
 | 82 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
 | 83 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 93 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |
 | 94 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
 | 95 | [We Haven't Been Introduced](https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U) | [Locobeach](https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J) | [We Haven't Been Introduced](https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz) | 4:34 |
-| 96 | [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 |
+| 96 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
 | 97 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
-| 98 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
+| 98 | [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 |
 | 99 | [Loco por Tu Amor](https://open.spotify.com/track/6BdXIpQeiubbZhP7ZN944z) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Loco por Tu Amor](https://open.spotify.com/album/55NPFfTI9SG3aSbmUwfPMY) | 3:52 |
 | 100 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 |
 

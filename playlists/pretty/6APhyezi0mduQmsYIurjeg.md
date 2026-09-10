@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 601 songs - 1 day 12 hr 29 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 603 songs - 1 day 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,5 +609,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 599 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 |
 | 600 | [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 |
 | 601 | [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 |
+| 602 | [Visualize](https://open.spotify.com/track/4sExGfGQZ4ovpWosLswA0P) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:16 |
+| 603 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
 
-Snapshot ID: `AAAC78iYdMn1MVrl4Y1qMwXlwPs5Thp8`
+Snapshot ID: `AAAC8Zi2I96KhYOYjzzoR4O8la5dNzfg`

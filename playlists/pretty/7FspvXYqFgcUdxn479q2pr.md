@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Jason Derulo, The Second Voice, Qing Madi
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,371 likes - 346 songs - 17 hr 47 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,370 likes - 346 songs - 17 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LET ME BE](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
+| 1 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
 | 2 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 |
 | 3 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
 | 4 | [Vaelor](https://open.spotify.com/track/474v81fZYLnYuTnaTosfsY) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn) | [Vaelor](https://open.spotify.com/album/4EPeL1sEMkznkXQu0zRbIx) | 1:48 |

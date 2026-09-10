@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 534869,
+  "num_followers": 534911,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "The Most From Beny More",
-        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "El Esp\u00edritu de la Rumba",
         "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 407920,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "The Most From Beny More",
+        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -795,42 +795,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Mi M\u00fasica",
-        "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
+        "name": "Pupy y Los que Son Son Best Of",
+        "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
       },
       "artists": [
         {
-          "name": "Grupo Danson",
-          "url": "https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R"
-        },
-        {
-          "name": "Carlos Liban P\u00e9rez Alfonso",
-          "url": "https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU"
-        },
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Mia Birch Engsager",
-          "url": "https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl"
-        },
-        {
-          "name": "Ernesto Manuitt Hernandez",
-          "url": "https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C"
-        },
-        {
-          "name": "Yasser Pino",
-          "url": "https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4"
-        },
-        {
-          "name": "Rune Thorsteinsson",
-          "url": "https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS"
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
         }
       ],
-      "duration_ms": 368850,
-      "name": "Mi M\u00fasica",
-      "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
+      "duration_ms": 341394,
+      "name": "La borrachera",
+      "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
     }
   ],
   "unique_name": "Salsa Cubana",

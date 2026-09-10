@@ -1,12 +1,12 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 53260,
+  "num_followers": 53261,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABVsScpakYyaUle9AtZynM3",
+  "snapshot_id": "ap9QAAAAAABqLcWUFoKp0P8GL8vcXp3N",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "American Wedding",
-      "url": "https://open.spotify.com/track/6XHYOwQyNOG3vKqTk0W7Q8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 144474,
       "name": "butterflies",
       "url": "https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promising Young Woman",
+        "url": "https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/6XHYOwQyNOG3vKqTk0W7Q8"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 178806,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/4OVK8oaLIhx9Xu0P8D3SA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 178806,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/4OVK8oaLIhx9Xu0P8D3SA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Promising Young Woman",
         "url": "https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I"
       },
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 166816,
-      "name": "The Things That I Would Do To Be Enough For You",
-      "url": "https://open.spotify.com/track/7hxcf62V3zALqYIhiy3SSO"
+      "duration_ms": 171360,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/2s233n5Uj0FYwmYxgmXGC7"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/2s233n5Uj0FYwmYxgmXGC7"
+      "duration_ms": 166816,
+      "name": "The Things That I Would Do To Be Enough For You",
+      "url": "https://open.spotify.com/track/7hxcf62V3zALqYIhiy3SSO"
     },
     {
       "added_at": null,

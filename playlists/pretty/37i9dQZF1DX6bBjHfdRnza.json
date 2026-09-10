@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring SLAMM. Curated with love by human Spotify editors. \n",
-  "num_followers": 216103,
+  "num_followers": 216145,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJqUShlg1KVrJxXSGfP1rG4eeWI",
+  "snapshot_id": "AAAAAL/jORaBmNhS3WSISv5Ihn2FwZp2",
   "tracks": [
     {
       "added_at": "2026-09-04 04:01:34",
@@ -25,192 +25,20 @@
       "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
     },
     {
-      "added_at": "2026-09-04 14:32:20",
+      "added_at": "2026-09-10 03:17:50",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
+        "name": "Wait What",
+        "url": "https://open.spotify.com/album/2aRO3b2NJ2APsM9MhMn7Hp"
       },
       "artists": [
         {
-          "name": "Ben Griff",
-          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
+          "name": "Amanda Simpson",
+          "url": "https://open.spotify.com/artist/6dXPtR6vh6nwAwFoXWxkoM"
         }
       ],
-      "duration_ms": 209090,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
-    },
-    {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
-      },
-      "artists": [
-        {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "MEDIA DOME",
-        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        }
-      ],
-      "duration_ms": 218436,
-      "name": "MEDIA DOME",
-      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
-    },
-    {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Pile Up",
-        "url": "https://open.spotify.com/album/1VbaE3ZQQmZj0lqkZQeHXn"
-      },
-      "artists": [
-        {
-          "name": "Marshall James",
-          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
-        },
-        {
-          "name": "RISCAT",
-          "url": "https://open.spotify.com/artist/6goXtuLYgacfLbAxCq0oye"
-        }
-      ],
-      "duration_ms": 200643,
-      "name": "Pile Up",
-      "url": "https://open.spotify.com/track/0M1pZHTJEJOIou6Tutsq4p"
-    },
-    {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Watching Me",
-        "url": "https://open.spotify.com/album/2cAVThPltJrgKROgd4KcPB"
-      },
-      "artists": [
-        {
-          "name": "Miro (AR)",
-          "url": "https://open.spotify.com/artist/13uRSbjdNhmJbQwpUCtqYJ"
-        }
-      ],
-      "duration_ms": 192723,
-      "name": "Watching Me",
-      "url": "https://open.spotify.com/track/2a28OspY80WeudpFUro4wq"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
-      },
-      "artists": [
-        {
-          "name": "Paqu\u00e9",
-          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
-        },
-        {
-          "name": "Sebastian Wibe",
-          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Luire",
-        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
-      },
-      "artists": [
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Luire",
-      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
-    },
-    {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
-    },
-    {
-      "added_at": "2026-09-04 04:01:34",
-      "album": {
-        "name": "LR002",
-        "url": "https://open.spotify.com/album/5cSCgi8BzuZlCKbX7ubQhj"
-      },
-      "artists": [
-        {
-          "name": "Larry Latenight",
-          "url": "https://open.spotify.com/artist/23wFOj7b7mywwkpPOAUjZf"
-        }
-      ],
-      "duration_ms": 288033,
-      "name": "The Bug",
-      "url": "https://open.spotify.com/track/0KDMGlT9H2q0CAkCURtR33"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/6koZk3ynAW6ld3Eqga7QBm"
-      },
-      "artists": [
-        {
-          "name": "HARLEY GIRL",
-          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
-        }
-      ],
-      "duration_ms": 153159,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
-    },
-    {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Dancing With The Unknown",
-        "url": "https://open.spotify.com/album/2sRKHWY18joMLcf1PtEgDB"
-      },
-      "artists": [
-        {
-          "name": "Blossom Hill",
-          "url": "https://open.spotify.com/artist/1XDRiF92Udd46NuFLTKnIb"
-        },
-        {
-          "name": "aint about me",
-          "url": "https://open.spotify.com/artist/0pRD3uRIaAwqUvvD1lOkMK"
-        }
-      ],
-      "duration_ms": 228632,
-      "name": "Dancing With The Unknown",
-      "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
+      "duration_ms": 166867,
+      "name": "Wait What - Radio Edit",
+      "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
     },
     {
       "added_at": "2026-09-04 04:01:34",
@@ -249,20 +77,108 @@
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
     },
     {
-      "added_at": "2026-09-04 04:01:34",
+      "added_at": "2026-09-10 03:17:50",
       "album": {
-        "name": "Flickering Dawn",
-        "url": "https://open.spotify.com/album/3UwjWUFVAOmviDhLArxvDH"
+        "name": "When Love Takes Over (edit)",
+        "url": "https://open.spotify.com/album/5i9hnBveVxkK5V84s2psc0"
       },
       "artists": [
         {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+          "name": "Die Klar",
+          "url": "https://open.spotify.com/artist/7zbiIacgzXHrGJBsm0L38V"
         }
       ],
-      "duration_ms": 138544,
-      "name": "Flickering Dawn",
-      "url": "https://open.spotify.com/track/0KmKxHrCsLK5yJtNWBxSX7"
+      "duration_ms": 231800,
+      "name": "When Love Takes Over (edit)",
+      "url": "https://open.spotify.com/track/5Ouf4ITCDxrgrgcYrRxFoz"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
+      },
+      "artists": [
+        {
+          "name": "Paqu\u00e9",
+          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
+        },
+        {
+          "name": "Sebastian Wibe",
+          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
+    },
+    {
+      "added_at": "2026-07-17 17:46:34",
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+      },
+      "artists": [
+        {
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "SKULL",
+        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 195899,
+      "name": "SKULL",
+      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/370coWuZvo8rkv3ivRfUvp"
+      },
+      "artists": [
+        {
+          "name": "COD",
+          "url": "https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw"
+        }
+      ],
+      "duration_ms": 255767,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4An56EIHDAvx5Jkw5meV2A"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -279,6 +195,210 @@
       "duration_ms": 202500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "Where I Stand",
+        "url": "https://open.spotify.com/album/56KMlB0e6LcEYXScsqjELe"
+      },
+      "artists": [
+        {
+          "name": "Karod",
+          "url": "https://open.spotify.com/artist/267FlnTC1YprshD7Vf3fqv"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Where I Stand",
+      "url": "https://open.spotify.com/track/3SkuTkIkeNa9l2UCexClYh"
+    },
+    {
+      "added_at": "2026-09-02 04:00:31",
+      "album": {
+        "name": "Pile Up",
+        "url": "https://open.spotify.com/album/1VbaE3ZQQmZj0lqkZQeHXn"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        },
+        {
+          "name": "RISCAT",
+          "url": "https://open.spotify.com/artist/6goXtuLYgacfLbAxCq0oye"
+        }
+      ],
+      "duration_ms": 200643,
+      "name": "Pile Up",
+      "url": "https://open.spotify.com/track/0M1pZHTJEJOIou6Tutsq4p"
+    },
+    {
+      "added_at": "2026-09-04 14:32:20",
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
+      },
+      "artists": [
+        {
+          "name": "Ben Griff",
+          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Bad B$tch",
+        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
+      },
+      "artists": [
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        },
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bad B$tch",
+      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/33WjG1aG4yDsx06dcDuYWb"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9",
+          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/2CvD086JNMQLeDrWRTIXrI"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "LR002",
+        "url": "https://open.spotify.com/album/5cSCgi8BzuZlCKbX7ubQhj"
+      },
+      "artists": [
+        {
+          "name": "Larry Latenight",
+          "url": "https://open.spotify.com/artist/23wFOj7b7mywwkpPOAUjZf"
+        }
+      ],
+      "duration_ms": 288033,
+      "name": "The Bug",
+      "url": "https://open.spotify.com/track/0KDMGlT9H2q0CAkCURtR33"
+    },
+    {
+      "added_at": "2026-07-31 04:02:23",
+      "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-09-02 04:00:31",
+      "album": {
+        "name": "Watching Me",
+        "url": "https://open.spotify.com/album/2cAVThPltJrgKROgd4KcPB"
+      },
+      "artists": [
+        {
+          "name": "Miro (AR)",
+          "url": "https://open.spotify.com/artist/13uRSbjdNhmJbQwpUCtqYJ"
+        }
+      ],
+      "duration_ms": 192723,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/2a28OspY80WeudpFUro4wq"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Luire",
+        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Luire",
+      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/6koZk3ynAW6ld3Eqga7QBm"
+      },
+      "artists": [
+        {
+          "name": "HARLEY GIRL",
+          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
+        }
+      ],
+      "duration_ms": 153159,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "Flickering Dawn",
+        "url": "https://open.spotify.com/album/3UwjWUFVAOmviDhLArxvDH"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "duration_ms": 138544,
+      "name": "Flickering Dawn",
+      "url": "https://open.spotify.com/track/0KmKxHrCsLK5yJtNWBxSX7"
+    },
+    {
+      "added_at": "2026-09-02 04:00:31",
+      "album": {
+        "name": "Dancing With The Unknown",
+        "url": "https://open.spotify.com/album/2sRKHWY18joMLcf1PtEgDB"
+      },
+      "artists": [
+        {
+          "name": "Blossom Hill",
+          "url": "https://open.spotify.com/artist/1XDRiF92Udd46NuFLTKnIb"
+        },
+        {
+          "name": "aint about me",
+          "url": "https://open.spotify.com/artist/0pRD3uRIaAwqUvvD1lOkMK"
+        }
+      ],
+      "duration_ms": 228632,
+      "name": "Dancing With The Unknown",
+      "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -461,22 +581,6 @@
       "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
     },
     {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "SEETHISTHRU",
-        "url": "https://open.spotify.com/album/6ObXALRks7eET0pVrUr3n5"
-      },
-      "artists": [
-        {
-          "name": "That Franco",
-          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
-        }
-      ],
-      "duration_ms": 197744,
-      "name": "SEETHISTHRU",
-      "url": "https://open.spotify.com/track/7KzS1HW4MHcInfVbtrFjkp"
-    },
-    {
       "added_at": "2026-08-26 04:00:40",
       "album": {
         "name": "Let It Go (Breathe)",
@@ -491,26 +595,6 @@
       "duration_ms": 213781,
       "name": "Let It Go (Breathe)",
       "url": "https://open.spotify.com/track/4Wm8OqvY5K5LebhcFtWr7G"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Bad B$tch",
-        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
-      },
-      "artists": [
-        {
-          "name": "DvirNuns",
-          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
-        },
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bad B$tch",
-      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -695,38 +779,6 @@
     {
       "added_at": "2026-08-06 01:55:50",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/0E759JQ6VvJzfkhrOsLB5Z"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/6gW7QZfXLHfwcuw9hZvzkB"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/26H1yQUEiitO76ZMuzeFed"
-      },
-      "artists": [
-        {
-          "name": "lizaliza",
-          "url": "https://open.spotify.com/artist/1Jjmi74BCGSSBgWfpG4AdP"
-        }
-      ],
-      "duration_ms": 311739,
-      "name": "I feel",
-      "url": "https://open.spotify.com/track/0xalqnnZrm3wXHxdd6QYgJ"
-    },
-    {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
         "name": "THIS IS IT",
         "url": "https://open.spotify.com/album/6hD4cPYOjisWMEFtz6brSG"
       },
@@ -787,22 +839,6 @@
       "duration_ms": 226000,
       "name": "Honey, Drip Down",
       "url": "https://open.spotify.com/track/3zXVt7y4i6iCnF0PBx1VrW"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Rip",
-        "url": "https://open.spotify.com/album/1gtwDZAxz77f07RfOSILnS"
-      },
-      "artists": [
-        {
-          "name": "CLN (BR)",
-          "url": "https://open.spotify.com/artist/4yOZWdHpPuRHzV5tJcYqi5"
-        }
-      ],
-      "duration_ms": 209783,
-      "name": "Rip - Radio Edit",
-      "url": "https://open.spotify.com/track/3ININm5AqJvi1qwVowzosN"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -923,46 +959,6 @@
       "duration_ms": 225563,
       "name": "i got you",
       "url": "https://open.spotify.com/track/6NazFWRTXIpqsuVGQiaDB0"
-    },
-    {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "DURO (Te Te Te)",
-        "url": "https://open.spotify.com/album/3ba2EvvnVrN6texUB7uNg8"
-      },
-      "artists": [
-        {
-          "name": "Chicca Leaf",
-          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "DURO (Te Te Te)",
-      "url": "https://open.spotify.com/track/0WcdXAQYo6z2QqhFRlSJYI"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Ijoya",
-        "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
-      },
-      "artists": [
-        {
-          "name": "Arthi",
-          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
-        },
-        {
-          "name": "Dismantle",
-          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
-        },
-        {
-          "name": "\u00a3MONZO",
-          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
-        }
-      ],
-      "duration_ms": 236079,
-      "name": "Ijoya",
-      "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
     },
     {
       "added_at": "2026-07-31 04:02:23",

@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "album": {
         "name": "Breakdown",
         "url": "https://open.spotify.com/album/0RFS0UAtQ6AfdHxF7yLvlN"
       },
@@ -2825,6 +2843,28 @@
     },
     {
       "album": {
+        "name": "Hang Me Up To Dry (Phantogram Version)",
+        "url": "https://open.spotify.com/album/4W5h4tk5htdsJVkQ8nQLXo"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193809,
+      "name": "Hang Me Up To Dry - Phantogram Version",
+      "url": "https://open.spotify.com/track/0RZTK66wRdfMMQFw8afAEU"
+    },
+    {
+      "album": {
         "name": "Harder, Better, Faster, Stronger",
         "url": "https://open.spotify.com/album/7kEgA5suCapUXnxaS1me8T"
       },
@@ -3414,7 +3454,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194938,
       "name": "Insect Song",
       "url": "https://open.spotify.com/track/4foh6agVKurSkd9dujPrlB"
@@ -3574,7 +3614,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 170000,
       "name": "laced up",
       "url": "https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z"
@@ -5745,6 +5785,28 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455693,
+      "name": "SOLE: FLOATING POINTS VERSION",
+      "url": "https://open.spotify.com/track/0uiH6W4NYKHCSNuyfWsIG3"
+    },
+    {
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc"
       },
@@ -6494,7 +6556,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"

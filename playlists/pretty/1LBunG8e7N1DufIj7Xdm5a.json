@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ/Z/2v2yems2OSj28OsV6XUy2klcf",
+  "snapshot_id": "AAAKAMnRktRWTvjIKkJJh2Iyg+bj7fSL",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -74227,7 +74227,7 @@
     {
       "added_at": "2026-07-06 21:14:19",
       "album": {
-        "name": "Build to Burn",
+        "name": "Build to Burn (Demo)",
         "url": "https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW"
       },
       "artists": [
@@ -74237,7 +74237,7 @@
         }
       ],
       "duration_ms": 296240,
-      "name": "Build to Burn",
+      "name": "Build to Burn - Demo",
       "url": "https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ"
     },
     {
@@ -76623,7 +76623,7 @@
     {
       "added_at": "2026-08-18 09:44:08",
       "album": {
-        "name": "Got Your Gun",
+        "name": "Got Your Gun (Demo)",
         "url": "https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx"
       },
       "artists": [
@@ -76633,7 +76633,7 @@
         }
       ],
       "duration_ms": 230671,
-      "name": "Got Your Gun",
+      "name": "Got Your Gun - Demo",
       "url": "https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh"
     },
     {
@@ -78711,6 +78711,58 @@
       "duration_ms": 324923,
       "name": "Permission to Share - Marcel Reps-Gotsch Techno Remix",
       "url": "https://open.spotify.com/track/3lcmCPgjjC207jAZCYV0Kj"
+    },
+    {
+      "added_at": "2026-09-09 13:09:13",
+      "album": {
+        "name": "Green Forest Ranger",
+        "url": "https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 162584,
+      "name": "Green Forest Ranger",
+      "url": "https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl"
+    },
+    {
+      "added_at": "2026-09-09 14:07:41",
+      "album": {
+        "name": "Buoyancy",
+        "url": "https://open.spotify.com/album/7hnQQdAFWXQac2M1izmrCN"
+      },
+      "artists": [
+        {
+          "name": "Frequency Overload",
+          "url": "https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Buoyancy",
+      "url": "https://open.spotify.com/track/6OUb9JWTXgFuvgH5JqdkQa"
+    },
+    {
+      "added_at": "2026-09-09 14:09:34",
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/5oudgZVxN0EsMqb7WtwItP"
+      },
+      "artists": [
+        {
+          "name": "Richie Cross",
+          "url": "https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT"
+        }
+      ],
+      "duration_ms": 251688,
+      "name": "Seven Seas",
+      "url": "https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo"
     }
   ],
   "unique_name": "playlist spotify free",

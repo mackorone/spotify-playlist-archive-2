@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,702 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,697 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 97 | [ASAP](https://open.spotify.com/track/4nuxD9efbuqu6MDze4SqSK) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Sinners Club](https://open.spotify.com/album/54tbMXotxjF1LYEZ7nDYSJ) | 3:40 |
 | 98 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
 | 99 | [Guele](https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Guele](https://open.spotify.com/album/3hkWFsGhzkj7qOtVRxcdL6) | 2:41 |
-| 100 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
+| 100 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:40 |
 
 Snapshot ID: `AAAAAOPpfV4FCSyoExYZs5++isV+2kSA`

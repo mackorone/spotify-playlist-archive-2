@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
+    },
+    {
+      "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
       },
@@ -1904,6 +1922,28 @@
       "duration_ms": 204000,
       "name": "Knockdown",
       "url": "https://open.spotify.com/track/7Bok5pIQl8Wuj5xf6qZpE5"
+    },
+    {
+      "album": {
+        "name": "KoK",
+        "url": "https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506773,
+      "name": "KoK",
+      "url": "https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef"
     },
     {
       "album": {
@@ -3826,7 +3866,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194866,
       "name": "Wi Ing Wi Ing",
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
@@ -3910,7 +3950,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI"

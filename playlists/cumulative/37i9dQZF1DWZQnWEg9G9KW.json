@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Play It My Way (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/4cCL4cjPg1D26Q9XM9xRGk"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244936,
+      "name": "Play It My Way (Guitar Version)",
+      "url": "https://open.spotify.com/track/2FqsCqtnDJZxot0PpUcOtD"
+    },
+    {
+      "album": {
         "name": "Camp Rock 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABCZMRsdMECmHrdQ1uuYWUv",
+  "snapshot_id": "ap9QAAAAAABM5inTRj86tAxm64vIhi1m",
   "tracks": [
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/6hbJCRM1jQDDCVcg6uMoLU"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
     },
     {
       "added_at": null,

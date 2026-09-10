@@ -6,32 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAC1sZDnniIXoEep2v3LyiIV",
+  "snapshot_id": "ap9QAAAAAADHiT8sHYsBicTIPBd4S2gk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
-        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Papel de Ot\u00e1ria",
-      "url": "https://open.spotify.com/track/5ND5kdJMoo7Rrv7VKF2Uph"
-    },
     {
       "added_at": null,
       "album": {
@@ -1075,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
+        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
       },
       "artists": [
         {
@@ -1084,13 +1060,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Jayp",
-          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
         }
       ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
+      "duration_ms": 211026,
+      "name": "Papel de Ot\u00e1ria",
+      "url": "https://open.spotify.com/track/5ND5kdJMoo7Rrv7VKF2Uph"
     },
     {
       "added_at": null,
@@ -1119,8 +1099,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
-        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
       "artists": [
         {
@@ -1128,17 +1108,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+          "name": "Jayp",
+          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Medley 4x4",
-      "url": "https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn"
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
     },
     {
       "added_at": null,
@@ -1163,6 +1139,54 @@
       "duration_ms": 147428,
       "name": "Sucessagem",
       "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
+        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Medley 4x4",
+      "url": "https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": null,
@@ -1195,30 +1219,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": null,

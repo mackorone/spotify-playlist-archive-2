@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYXEO3u0YOMv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYXEO3u0YOMv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYXEO3u0YOMv)
 
-### [This Is MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
+### [MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 

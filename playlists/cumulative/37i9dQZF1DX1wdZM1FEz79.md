@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Yun DDanDDan\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Baek A\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-690 songs - 1 day 16 hr 32 min
+692 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-18 | 2026-03-25 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-09-08 |
-| [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 | 2026-07-08 |  |
+| [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 | 2026-07-08 | 2026-09-10 |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
 | [Jealousy on the Rocks](https://open.spotify.com/track/2WujsWis0VgMAVuvP9GX8i) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Half jokes, Half Truth](https://open.spotify.com/album/3pCIwwk2QQiIWc8LVYHhVz) | 3:24 | 2026-01-15 | 2026-01-27 |
 | [Jellyfish](https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Jellyfish](https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu) | 3:43 | 2025-11-14 | 2025-12-19 |
@@ -609,6 +609,7 @@
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-12-10 |  |
 | [We, the young](https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [We, the young](https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31) | 3:25 | 2025-10-10 | 2025-10-14 |
 | [What are you doing this evening](https://open.spotify.com/track/1BWKZ94ognDAUXWxQjHQza) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Girl's World \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3AfjZrMs5QewjUSPHfklgL) | 3:14 | 2022-04-12 | 2022-04-21 |
+| [What Are You Thinking? \(Feat\. Chawool\)](https://open.spotify.com/track/3NuxOpxGUrmdoCKW0kOjbd) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy), [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Escapist](https://open.spotify.com/album/5zBy9M9v6MYjHUrrocJEuS) | 4:37 | 2026-09-09 |  |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-01-10 | 2026-09-04 |
 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 | 2021-12-10 |  |
 | [What I want to say \(feat\. Kyoung Mi Choi\)](https://open.spotify.com/track/5s4fDRk47TQynFOTS09dJU) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [Kyoung Mi Choi](https://open.spotify.com/artist/1fbb9GhUL4UNeh7x7NApJE) | [What I want to say](https://open.spotify.com/album/6Hf7qNGWOADauTKMPhokdq) | 2:38 | 2022-03-31 | 2022-04-19 |
@@ -625,6 +626,7 @@
 | [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 | 2023-01-04 |
 | [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 | 2025-10-10 | 2025-11-07 |
 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 | 2022-06-09 | 2022-06-14 |
+| [Why Does Love](https://open.spotify.com/track/5iG9ydo9cjiyGNmOv97bVN) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [The Algebra of Youth](https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl) | 3:50 | 2026-09-09 |  |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/4AGgXEtNPFPAMUoDEgjvwX) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/4pPg8mMEDja315sNthkACE) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [Will be fine](https://open.spotify.com/track/2CNk8tRxdb3RGRoWLWsDCI) | [기수](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Will be fine](https://open.spotify.com/album/6TyDIjhkPLyKpX8p6PGxdm) | 3:09 | 2022-03-31 | 2022-04-11 |
@@ -658,7 +660,7 @@
 | [YOUR SONG](https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MY NAME IS SAM](https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3) | 4:18 | 2021-12-10 | 2022-07-29 |
 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 | 2024-04-16 |
 | [your voice\(acoustic\)](https://open.spotify.com/track/5ZJybAI37PVMbeEQwfkk3J) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice\(acoustic\)](https://open.spotify.com/album/6zAiZBYCwmblKjIO3yJF0l) | 5:18 | 2022-03-07 | 2022-07-20 |
-| [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 | 2025-06-13 |  |
+| [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 | 2025-06-13 | 2026-09-10 |
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |

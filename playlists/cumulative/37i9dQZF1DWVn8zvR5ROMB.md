@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Kane Brown with Shania Twain, Kameron Marlowe, and Waylon Wyatt with Carter Faith.
 
-13,825 songs - 31 day 12 hr 3 min
+13,826 songs - 31 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8917,6 +8917,7 @@
 | [One On The Way \- Strings](https://open.spotify.com/track/2JbJdgBshwTZlyV7zOEBL0) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way \(Strings\)](https://open.spotify.com/album/4JUCmM8eKUXTAAZP3oUZf6) | 3:48 | 2024-03-15 | 2024-03-23 |
 | [One Percent \(revisited\)](https://open.spotify.com/track/56mvHKd7xHptRkOcPxOFf5) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:29 | 2022-08-12 | 2022-08-20 |
 | [One Song At A Time](https://open.spotify.com/track/2VE15W2a5R6oXPkef9vBp2) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [One Song At A Time](https://open.spotify.com/album/1RM8jtGdVgavuKTtQbWpX7) | 3:45 | 2026-08-07 | 2026-08-22 |
+| [ONE STORY HOUSE](https://open.spotify.com/track/28YEKsksvX8B6C7DmUZ0D4) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [ONE STORY HOUSE](https://open.spotify.com/album/6TyHDo1RoeD2ineKighQ6H) | 3:23 | 2026-09-09 |  |
 | [One Tequila](https://open.spotify.com/track/0BtI8JxqMrjDIQnZvElo6O) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [One Tequila](https://open.spotify.com/album/6qYkhk99r0AsocACXjwNKG) | 3:05 | 2023-05-05 | 2023-05-27 |
 | [One That Got Away](https://open.spotify.com/track/0DFSzG7BagAIiMuAm0Nfm7) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [One That Got Away](https://open.spotify.com/album/7zIdPAPNO0K08iJtHVowq7) | 2:50 | 2026-08-14 | 2026-08-22 |
 | [One That Got Away](https://open.spotify.com/track/76Rsh6G2omv7j0qvtQTuMV) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [One That Got Away](https://open.spotify.com/album/5NKwSk0OJ4251OI8EKhcUR) | 3:13 | 2023-08-04 | 2023-08-12 |

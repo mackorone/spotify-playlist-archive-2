@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 239615,
+  "num_followers": 239644,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "The Way, The Truth, The Life",
+        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
+      },
+      "artists": [
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "The Way, The Truth, The Life",
+      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Covenant",
         "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 162500,
       "name": "Covenant",
       "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "The Way, The Truth, The Life",
-        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
-      },
-      "artists": [
-        {
-          "name": "AndyG",
-          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "The Way, The Truth, The Life",
-      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "I Met God On The Dancefloor",
-        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
-      },
-      "artists": [
-        {
-          "name": "Rave Jesus",
-          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "I Met God On The Dancefloor",
-      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 142588,
       "name": "Can't Stop Me Now - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "I Met God On The Dancefloor",
+        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "I Met God On The Dancefloor",
+      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Everything (Progressive Remix)",
+        "url": "https://open.spotify.com/album/4YYYMUckau0xrBQ7Jvgkv3"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Everything - Progressive Remix",
+      "url": "https://open.spotify.com/track/0LYt0oGLWLZTU0OFhmF4V5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Take Me Higher (King Topher Club Mix)",
         "url": "https://open.spotify.com/album/6n7PWpccBwPBKYzjJQEb36"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 192283,
       "name": "Take Me Higher - King Topher Club Mix",
       "url": "https://open.spotify.com/track/0HLtuE90EIAjJFRCzY2cRu"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Everything (Progressive Remix)",
-        "url": "https://open.spotify.com/album/4YYYMUckau0xrBQ7Jvgkv3"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Everything - Progressive Remix",
-      "url": "https://open.spotify.com/track/0LYt0oGLWLZTU0OFhmF4V5"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "You Love Me",
         "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
       },
@@ -1479,22 +1463,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
         }
       ],
-      "duration_ms": 232802,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "duration_ms": 232802,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Save Me (Illingworth Remix)",
         "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
@@ -1531,26 +1531,6 @@
       "duration_ms": 220952,
       "name": "Save Me (Illingworth Remix)",
       "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
-      },
-      "artists": [
-        {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1583,18 +1563,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
         }
       ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1611,6 +1595,22 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Better Off (Ok Evan Remix)",
+        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
+      },
+      "artists": [
+        {
+          "name": "Rachel Jane",
+          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
+        },
+        {
+          "name": "Ok Evan",
+          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Better Off (Ok Evan Remix)",
+      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Deliver (Higher)",
         "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 181671,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Better Off (Ok Evan Remix)",
-        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
-      },
-      "artists": [
-        {
-          "name": "Rachel Jane",
-          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
-        },
-        {
-          "name": "Ok Evan",
-          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Better Off (Ok Evan Remix)",
-      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1839,42 +1839,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
-      },
-      "artists": [
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
-      },
-      "artists": [
-        {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
-        }
-      ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise His Holy Name (House Remix)",
         "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
       },
@@ -1891,6 +1855,22 @@
       "duration_ms": 245118,
       "name": "Praise His Holy Name - House Remix",
       "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+      },
+      "artists": [
+        {
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1915,6 +1895,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
+      },
+      "artists": [
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Praise Him",
         "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
+      },
+      "artists": [
+        {
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Sweet Heaven (feat. Stealth)",
         "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 177028,
       "name": "My Sweet Heaven (feat. Stealth)",
       "url": "https://open.spotify.com/track/0i3v7Y3WyIe4v4kRVJ8BGj"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     }
   ],
   "unique_name": "Christian Dance",

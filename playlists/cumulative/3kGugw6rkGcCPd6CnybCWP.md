@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-505 songs - 1 day 5 hr 18 min
+506 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Lot 6](https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY) | [Mavis](https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG) | [Lot 6](https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO) | 6:40 | 2026-01-23 | 2026-03-10 |
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2025-12-19 | 2026-02-07 |
 | [love pt\. 2](https://open.spotify.com/track/4uvzEnlCw8ysLKnXeYDSDI) | [Lazuli Bones](https://open.spotify.com/artist/74gnmdjnTP4OsKX80B6ao9) | [garden girl](https://open.spotify.com/album/326LJXKcD0mbtlDag4ggZs) | 3:42 | 2026-02-08 | 2026-03-29 |
+| [Love Your Country](https://open.spotify.com/track/6p0X6WIUT2hIQ4ElJZgsmc) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Love Your Country](https://open.spotify.com/album/6WSDhO1ccOFKABv08pXHFA) | 2:58 | 2026-09-09 |  |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 | 2026-03-29 |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
 | [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 | 2026-03-26 | 2026-04-21 |

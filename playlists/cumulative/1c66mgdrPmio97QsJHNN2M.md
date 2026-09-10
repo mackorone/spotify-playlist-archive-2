@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,803 songs - 6 day 4 hr 2 min
+2,808 songs - 6 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Can't find it](https://open.spotify.com/track/1ous0BqqItWJWDIJ4ThNqE) | [Ab Emson](https://open.spotify.com/artist/0VEpBBlRYdwLuBXbg6d2Re) | [Can't find it](https://open.spotify.com/album/3DdNL7aEAiVq1tq49H0iyc) | 3:00 | 2026-08-02 | 2026-09-05 |
 | [Can't Forget](https://open.spotify.com/track/6OJzbkPD642oP7uP0IIwgC) | [Bloedwolfe](https://open.spotify.com/artist/6bRADsQJmEIus2opGbF60s) | [Can't Forget](https://open.spotify.com/album/1ARL07C1wEZ2DnicINKeQR) | 4:27 | 2026-02-14 | 2026-03-17 |
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-12-03 | 2026-01-04 |
+| [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 | 2026-09-09 |  |
 | [can't get enough](https://open.spotify.com/track/3aVCDihadbsRZZrfEdLGi9) | [JsSenor](https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9) | [I'm sorry i could let go](https://open.spotify.com/album/7vyptl7gBQnM30gmNrimDb) | 2:33 | 2026-03-20 | 2026-04-22 |
 | [Can't Keep My Eyes Open \- Acoustic Guitar Version](https://open.spotify.com/track/0Bllg5UmklzsDHyR1sOYJH) | [Destiny Now](https://open.spotify.com/artist/2TyusiCeuCiPUac6SZht5q) | [Can't Keep My Eyes Open](https://open.spotify.com/album/1uP6gSztoVcdQu38qHM0CZ) | 2:57 | 2026-01-17 | 2026-02-21 |
 | [Can't Stay The Same](https://open.spotify.com/track/699YB1MVINHgwMyJH7kjfR) | [Collbu](https://open.spotify.com/artist/4hybYMTf3XAQmcZaxK5kGO) | [Head Staples](https://open.spotify.com/album/49Ojh2lxlquxy0g3jJOA37) | 3:30 | 2025-11-16 | 2025-12-19 |
@@ -395,6 +396,7 @@
 | [Can't You See](https://open.spotify.com/track/6qc3wycEQ8YQV5dJYjO8fe) | [Costa Music](https://open.spotify.com/artist/2MizJsi3uuTkCPZQtydDw0), [JILIAAN](https://open.spotify.com/artist/17yyfQ7wzJe81fBROPmErz) | [Can't You See](https://open.spotify.com/album/2PaNcoJtA72K6VTWhMPbLW) | 2:48 | 2026-03-12 | 2026-04-13 |
 | [Cardinal](https://open.spotify.com/track/2FQTh0b2MOFAdsXiNQ4RWF) | [Matty Ram](https://open.spotify.com/artist/7okMGHsN4e4C6EMzepEqHy) | [Cardinal](https://open.spotify.com/album/788x4d1plhsMl6LrGRlTkV) | 3:58 | 2026-06-27 | 2026-07-29 |
 | [Carefree Wonderland](https://open.spotify.com/track/69i0AN8izwkY7lsnFFrQk4) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Carefree Wonderland](https://open.spotify.com/album/2eZ4lyjre4c5vn65CBV4lJ) | 3:28 | 2026-07-10 | 2026-08-11 |
+| [Caroline](https://open.spotify.com/track/5GuhG0eK2T57JvxgBLI5X4) | [Marie Haw](https://open.spotify.com/artist/7x5nVjNQwJgpRooIFRWppe) | [Caroline](https://open.spotify.com/album/3bYFYzUqGEJLVbICGCU58z) | 3:12 | 2026-09-09 |  |
 | [Caroline \(sunset mix\)](https://open.spotify.com/track/46zW6iGU3sst36NmRFj01z) | [Ernst + Graham](https://open.spotify.com/artist/0rt2PXAHbjDsvJ0LQrHTaJ) | [Caroline](https://open.spotify.com/album/68JJWlIKr6Oa32gX23Cw6u) | 2:14 | 2025-12-28 | 2026-02-03 |
 | [Carpe Diem](https://open.spotify.com/track/5FM5ZxKhrEhwp2r8yiIwy3) | [Silver Atom](https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B) | [Neon Heartbeats](https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd) | 3:11 | 2026-07-17 | 2026-08-25 |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-07 | 2026-01-15 |
@@ -1922,6 +1924,7 @@
 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 | 2026-08-17 |  |
 | [Quicksand](https://open.spotify.com/track/3CxT45809GBw4jySWiLaT1) | [Rob Eagle](https://open.spotify.com/artist/0upr30EAkB5LiAXpd8zvci) | [Quicksand](https://open.spotify.com/album/152tI0hRokfBJAnvnPa32U) | 2:57 | 2026-06-16 | 2026-07-17 |
 | [Quiet Gravity](https://open.spotify.com/track/6ObIRXR4rhHpRBexO43aqq) | [Daniel Page](https://open.spotify.com/artist/6GvTDTYAruHYlweHng8W4j) | [Quiet Gravity](https://open.spotify.com/album/1wXxdveZn0GCVBOtrfIGuF) | 2:23 | 2026-04-03 | 2026-05-05 |
+| [Quiet Kind of Lost](https://open.spotify.com/track/7DcR9TJpuH6tySVgDcqE4F) | [Horizon Beyond](https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad) | [Quiet Kind of Lost](https://open.spotify.com/album/64M3gTX1cUlXrpeqebR076) | 3:29 | 2026-09-09 |  |
 | [Quiet Saloon](https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Quiet Saloon](https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB) | 3:06 | 2026-03-27 | 2026-04-28 |
 | [QUIET SCREAMS](https://open.spotify.com/track/5BuyjspqP2pvg5kYhsRuw0) | [PMLX.wav](https://open.spotify.com/artist/4B8ZckuBWubz7uBffNXkVs) | [NO WAY OUT : THE STATIC FADES](https://open.spotify.com/album/5HE2xYodA5f3g6MIye5ugi) | 2:45 | 2026-06-21 | 2026-07-23 |
 | [Quiet Storm](https://open.spotify.com/track/6I2JMiZxZv128So3kw8g8u) | [Milo Sol](https://open.spotify.com/artist/6sIIdbOU8d3sXoeTPHPUd0) | [Quiet Storm](https://open.spotify.com/album/2bjH9VolULhSYJ8YHkxrsb) | 2:42 | 2025-11-26 | 2025-12-28 |
@@ -2169,6 +2172,7 @@
 | [Soleil Couchant](https://open.spotify.com/track/5mmzh2zj74aDp1udbL6k2E) | [Waxstar](https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0) | [Early Frequencies 5](https://open.spotify.com/album/5KzWy7euLdjPf5txSEfBx4) | 3:38 | 2025-12-14 | 2026-01-15 |
 | [Solsticio Verano III](https://open.spotify.com/track/37ccZ0JtdWlreQNvOq3Uz5) | [Morus](https://open.spotify.com/artist/4Cp0bEJANFeVhsFKIlYZf1) | [Solsticio Verano](https://open.spotify.com/album/58HCtEWPF2bizP7rRgNM6a) | 3:46 | 2026-01-04 | 2026-02-05 |
 | [Some Hearts Dont Break](https://open.spotify.com/track/43gPk2sJOauGMn2PsnrzzW) | [Walters fall](https://open.spotify.com/artist/1vSZimclLOOqCmbFyE0RgJ) | [Some Hearts Dont Break](https://open.spotify.com/album/7p2DAitLxNE8BfFvIrPfL8) | 3:22 | 2026-04-12 | 2026-05-14 |
+| [Somebody Help Britney](https://open.spotify.com/track/4RWms6XOnmNqzmUaHBERaS) | [Kari Ann Peniche](https://open.spotify.com/artist/7g4m4uKcZWZjFr5FcOshGT) | [Somebody Help Britney](https://open.spotify.com/album/24nnJOAQwCLOrNMui0rOvj) | 3:36 | 2026-09-09 |  |
 | [Somebody New](https://open.spotify.com/track/4PKn3aHxeB6nOTasidJqp2) | [IRABELLE](https://open.spotify.com/artist/0UJmliJse12UCesStFxaZr) | [Somebody New](https://open.spotify.com/album/1tiOJ517tJQS5MxJ9sH7SQ) | 2:15 | 2025-10-21 | 2025-11-23 |
 | [Somebody's Son](https://open.spotify.com/track/5RxO73DZwdavSpvifQkdqr) | [Tega.wav](https://open.spotify.com/artist/43TH67cXzFf3PoIMnaNP5q) | [Somebody's Son](https://open.spotify.com/album/2XY4zNpqkZCJcFAQU9bRjs) | 2:08 | 2026-07-12 | 2026-08-15 |
 | [Someday](https://open.spotify.com/track/3bvs9TiuRlRHO8WYcbAxGe) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 2:33 | 2026-01-09 | 2026-02-11 |
@@ -2771,6 +2775,7 @@
 | [YOU LOVE ME?](https://open.spotify.com/track/64r4tI2MGDJr9FrFIOmk59) | [Tairey](https://open.spotify.com/artist/5hqTfJgU0YaqfOhRoD1o3A) | [MAXIMUM PLEASURE](https://open.spotify.com/album/5bUbJyBuWx06CxecBFCYED) | 2:43 | 2025-11-14 | 2025-12-15 |
 | [You Made a Way](https://open.spotify.com/track/1XuBlUYZ5KthP1OZmN1yoQ) | [God's Grace, Jesus' Love](https://open.spotify.com/artist/3FTYJz4yWB2KBVkuM8nQV7) | [You Made a Way](https://open.spotify.com/album/1LA4FxX5KkwtbT4RRc2Zd8) | 3:14 | 2026-02-10 | 2026-03-14 |
 | [You Make It Easy](https://open.spotify.com/track/6mauoUvR2Adwe2LtE7Xnh8) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [You Make It Easy](https://open.spotify.com/album/6bKYvHLVhiRYzLyb98tMFQ) | 3:17 | 2026-08-11 |  |
+| [You make me feel](https://open.spotify.com/track/3HrjTkUWsc8JG0izMZVsEy) | [Kristina Romankova](https://open.spotify.com/artist/64glwjiXcb0uB7uBId5MHV) | [You make me feel](https://open.spotify.com/album/5s1jG5hMTMCwXxOz9EE7xR) | 3:18 | 2026-09-09 |  |
 | [You Messed Up](https://open.spotify.com/track/2qxbs5tHWeAQwBDOlcxxRj) | [TJ^2](https://open.spotify.com/artist/6eg6gaL4UIUCRwcBe09Gxh) | [You Messed Up](https://open.spotify.com/album/3KxUKXXtiP1vaAhDYKcYA9) | 3:05 | 2025-10-29 | 2025-11-30 |
 | [You Never Leave](https://open.spotify.com/track/4SuOAFmzm0MZiiWRoxK3CA) | [Raffael Wong](https://open.spotify.com/artist/0eeorAe43RiZxuzLBWgVLO) | [You Never Leave](https://open.spotify.com/album/0qv5zt1oOF63FC4fEgB3O3) | 2:31 | 2026-03-07 | 2026-04-08 |
 | [You Walked In](https://open.spotify.com/track/32W4eaf9gPOra2YugGB3Cg) | [Billy Holley](https://open.spotify.com/artist/4kyZuN4Dowu3l7KKv5T0hO) | [You Walked In](https://open.spotify.com/album/5DGQ8y9ZHa0sAJzmL78sOc) | 3:27 | 2026-03-07 | 2026-04-08 |

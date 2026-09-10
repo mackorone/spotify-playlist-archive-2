@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1485275,
+  "num_followers": 1485331,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 228923,
       "name": "MYSTERY OF RAW",
       "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "POP DAT THANG (David Guetta Mix)",
         "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 172727,
       "name": "POP DAT THANG - David Guetta Mix",
       "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 172500,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr"
-      },
-      "artists": [
-        {
-          "name": "SEBS",
-          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Rave The World EP",
-        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 233192,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 164423,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Rave The World EP",
+        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 233192,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/7IAdqQVE1IOrdiazy46nK9"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 149516,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1615,18 +1631,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+        "name": "Leaving (feat. Tristan Henry)",
+        "url": "https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+      "duration_ms": 198772,
+      "name": "Leaving (feat. Tristan Henry)",
+      "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1667,26 +1687,6 @@
       "duration_ms": 220439,
       "name": "On My Own (Feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "Leaving (feat. Tristan Henry)",
-        "url": "https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
-        }
-      ],
-      "duration_ms": 198772,
-      "name": "Leaving (feat. Tristan Henry)",
-      "url": "https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Big Mad Banger",
         "url": "https://open.spotify.com/album/01j4PfyGgtsEJKJ795Is8u"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 252750,
       "name": "Big Mad Banger",
       "url": "https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-09-04 04:01:16",

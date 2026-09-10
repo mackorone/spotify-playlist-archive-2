@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2569147,
+  "num_followers": 2569093,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
+        "name": "Nobody Can Stop Richard Finger (Levity Remix)",
+        "url": "https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8"
+      },
+      "artists": [
+        {
+          "name": "Richard Finger",
+          "url": "https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Nobody Can Stop Richard Finger - Levity Remix",
+      "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
         "name": "SONG REQUEST",
         "url": "https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 129629,
       "name": "VOLTAGE",
       "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
-        "name": "Nobody Can Stop Richard Finger (Levity Remix)",
-        "url": "https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8"
-      },
-      "artists": [
-        {
-          "name": "Richard Finger",
-          "url": "https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Nobody Can Stop Richard Finger - Levity Remix",
-      "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
     },
     {
       "added_at": "2026-09-04 04:02:04",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w"
       },
@@ -1343,18 +1323,22 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
-        "name": "Make You Move",
-        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Make You Move",
-      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2026-09-04 04:02:04",
@@ -1375,6 +1359,22 @@
       "duration_ms": 178285,
       "name": "ACID",
       "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
     },
     {
       "added_at": "2026-09-04 04:02:04",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
-        "name": "F U",
-        "url": "https://open.spotify.com/album/7tkEt619WLeFAQ7jvzKKF9"
-      },
-      "artists": [
-        {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "F U",
-      "url": "https://open.spotify.com/track/2eYfS1zUGVLZN0MAgeDqRP"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
         "name": "IN THE ALLEY",
         "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 162206,
       "name": "IN THE ALLEY",
       "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
+        "name": "F U",
+        "url": "https://open.spotify.com/album/7tkEt619WLeFAQ7jvzKKF9"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "F U",
+      "url": "https://open.spotify.com/track/2eYfS1zUGVLZN0MAgeDqRP"
     },
     {
       "added_at": "2026-09-04 04:02:04",

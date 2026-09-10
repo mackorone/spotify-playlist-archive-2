@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain]
 
 > The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire\. Now streaming on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,717 likes - 132 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,728 likes - 133 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,13 +132,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain]
 | 122 | [The Egg](https://open.spotify.com/track/43vxU6yuNbWNUzwVAWSEpp) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 2 \(Original Score\)](https://open.spotify.com/album/4AOyNiCYswORQsTLxyGYQ4) | 2:54 |
 | 123 | [The Mudhorn](https://open.spotify.com/track/1wryoL3WWf6xcDkf3YUvR7) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 2 \(Original Score\)](https://open.spotify.com/album/4AOyNiCYswORQsTLxyGYQ4) | 3:00 |
 | 124 | [Celebration](https://open.spotify.com/track/2pNeuTRp5WmJ2RJI1c1ZlS) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 2 \(Original Score\)](https://open.spotify.com/album/4AOyNiCYswORQsTLxyGYQ4) | 3:31 |
-| 125 | [Face to Face](https://open.spotify.com/track/46ZTVbgiChSTxWcZyveJqu) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 5:12 |
-| 126 | [Back for Beskar](https://open.spotify.com/track/49RWR29zw6qV6UpqjoOYmS) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:25 |
-| 127 | [HammerTime](https://open.spotify.com/track/6qjb1B5zd6zotkvqLLGzZm) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:17 |
-| 128 | [Blurg Attack](https://open.spotify.com/track/4WnaEoaeaz0StgHNupxvxW) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 1:25 |
-| 129 | [You Are a Mandalorian](https://open.spotify.com/track/4GTzNMp2rCbJ0uHW9iXCK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:55 |
-| 130 | [Bounty Droid](https://open.spotify.com/track/2SEKRM4EgT7qUKApXI62LS) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:02 |
-| 131 | [The Asset](https://open.spotify.com/track/3j6PyvJXxISbQjyLCQohtb) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 1:35 |
-| 132 | [Hey Mando!](https://open.spotify.com/track/5VYWqoXSXY26NYW68hMWwa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:13 |
+| 125 | [This Is the Slay](https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp), [Roberto Prado](https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c), [Adam Dib](https://open.spotify.com/artist/0ZVeelMvsBkCUI14FgJob6) | [LEGO Star Wars: The Mandalorian \(Original Soundtrack\)](https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq) | 1:14 |
+| 126 | [Face to Face](https://open.spotify.com/track/46ZTVbgiChSTxWcZyveJqu) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 5:12 |
+| 127 | [Back for Beskar](https://open.spotify.com/track/49RWR29zw6qV6UpqjoOYmS) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:25 |
+| 128 | [HammerTime](https://open.spotify.com/track/6qjb1B5zd6zotkvqLLGzZm) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:17 |
+| 129 | [Blurg Attack](https://open.spotify.com/track/4WnaEoaeaz0StgHNupxvxW) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 1:25 |
+| 130 | [You Are a Mandalorian](https://open.spotify.com/track/4GTzNMp2rCbJ0uHW9iXCK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:55 |
+| 131 | [Bounty Droid](https://open.spotify.com/track/2SEKRM4EgT7qUKApXI62LS) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:02 |
+| 132 | [The Asset](https://open.spotify.com/track/3j6PyvJXxISbQjyLCQohtb) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 1:35 |
+| 133 | [Hey Mando!](https://open.spotify.com/track/5VYWqoXSXY26NYW68hMWwa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 2:13 |
 
-Snapshot ID: `AAAAAFOUSzIkCMAA4E4gwSs1EKlpARhf`
+Snapshot ID: `AAAAANyKOzTi2rjoiXrAIin1fTHmIlFR`

@@ -29733,6 +29733,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u305f\u307e\u3054",
+        "url": "https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles"
+    },
+    {
+      "album": {
         "name": "TadaSayonara,InochiMoetsukiruMade",
         "url": "https://open.spotify.com/album/7gngBY9MJCQ2omm0sDhRXC"
       },
@@ -31452,24 +31470,6 @@
       "duration_ms": 180345,
       "name": "Toy Box",
       "url": "https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA"
-    },
-    {
-      "album": {
-        "name": "\u3042\u305f\u307e\u3054",
-        "url": "https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "date_added": "2026-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles"
     },
     {
       "album": {

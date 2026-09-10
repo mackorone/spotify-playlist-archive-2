@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,013 likes - 101 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,022 likes - 101 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain]
 | 69 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 |
 | 70 | [The Eternal Moment \- Acoustic Version](https://open.spotify.com/track/4MrYJK1f4beoDBAH3K3k9o) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Moment Becomes Forever](https://open.spotify.com/album/2Ujvr8rac4c8LPGMsqn0tI) | 4:03 |
 | 71 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 |
-| 72 | [결혼](https://open.spotify.com/track/7olgzHJEJJX071QkCAqyno) | [이태후](https://open.spotify.com/artist/0qNzsXaVQZcpXoln9z5G7n) | [결혼](https://open.spotify.com/album/5ZJM04sy0ueL6fkRJ3kD9J) | 4:17 |
+| 72 | [결혼](https://open.spotify.com/track/7olgzHJEJJX071QkCAqyno) | [Lee Taehoo](https://open.spotify.com/artist/0qNzsXaVQZcpXoln9z5G7n) | [결혼](https://open.spotify.com/album/5ZJM04sy0ueL6fkRJ3kD9J) | 4:17 |
 | 73 | [청혼](https://open.spotify.com/track/7lw00DJUCg0P7HtOb4Ee1W) | [Noel](https://open.spotify.com/artist/7zpkDJ62XdmBpd5ZYM9l5o) | [These Are The Times](https://open.spotify.com/album/10yDCvVFY9b0ztvDZOwDtF) | 4:27 |
 | 74 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
 | 75 | [결혼해줘](https://open.spotify.com/track/1XUzvOqdcGxAYCVDa3XIVk) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [SONG ONE \- YESUNG](https://open.spotify.com/album/2lBIg5YsQMa8WJzcM2lL1P) | 4:48 |

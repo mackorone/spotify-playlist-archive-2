@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,253 songs - 5 day 6 hr 1 min
+2,256 songs - 5 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Angel In Disguise \- Live](https://open.spotify.com/track/2Erq200qCGUhk9yE14VHrM) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:25 | 2025-11-08 | 2026-01-15 |
 | [Angelina](https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn) | [Strange Waves](https://open.spotify.com/artist/1oa5Kzosk1DffIXOU4Hurt) | [Angelina](https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z) | 2:45 | 2026-07-18 | 2026-08-13 |
 | [Angerman River](https://open.spotify.com/track/7ceDhV9bN8szerp64nZw0D) | [Folded Marigold](https://open.spotify.com/artist/3PqMHIJsDX6pYYm7xiWrI1) | [Angerman River](https://open.spotify.com/album/1E6gQKEFdx5kMFlS27TdGZ) | 3:28 | 2026-01-22 | 2026-02-12 |
-| [Anima Mundi](https://open.spotify.com/track/6gSBDseBDva8QQdW0uZ3As) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [Anima Mundi](https://open.spotify.com/album/0rP2OZvtfQDZE8sKYYZfok) | 3:14 | 2026-08-10 |  |
+| [Anima Mundi](https://open.spotify.com/track/6gSBDseBDva8QQdW0uZ3As) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [Anima Mundi](https://open.spotify.com/album/0rP2OZvtfQDZE8sKYYZfok) | 3:14 | 2026-08-10 | 2026-09-10 |
 | [Another Casualty](https://open.spotify.com/track/4nLOUt1bHdSHK2DLJILLc2) | [What Did You Expect?](https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd) | [Another Casualty](https://open.spotify.com/album/0gz8EzEpKY0tRVQ6OQmTeZ) | 2:48 | 2026-09-02 |  |
 | [Another Day](https://open.spotify.com/track/7BreCBggU853Vk2f8H6V3i) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM) | [Another Day](https://open.spotify.com/album/4WumWxIaJFjux1pDq0LhbB) | 3:09 | 2026-07-10 | 2026-08-01 |
 | [Another Friday Night In Hell](https://open.spotify.com/track/3t4zSAGmPGkrjNqUAYyJ5A) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Another Friday Night In Hell](https://open.spotify.com/album/664AJs6SNNX3RYcP917o6q) | 3:00 | 2025-12-22 | 2026-01-15 |
@@ -667,6 +667,7 @@
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 | 2026-09-09 |
 | [Feral Lane](https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd) | [Beyond Brookhaven](https://open.spotify.com/artist/0csy52k7kF3hehUZUd5G5g) | [Feral Lane](https://open.spotify.com/album/2OASBR0A91EgmBK8BnEiNc) | 3:22 | 2026-04-04 | 2026-05-06 |
 | [Fertique yeah](https://open.spotify.com/track/1dQcv90sKSlA7Mde2Sg9Cs) | [Kontradikshn](https://open.spotify.com/artist/20Y7zwi1YKZMxi0N7L2nb2) | [Intro](https://open.spotify.com/album/3aOn04dyPWVFbj1CpNGWat) | 3:47 | 2026-05-14 | 2026-06-15 |
+| [Festa e Tranquillanti](https://open.spotify.com/track/0b82Xc24jYahcMDYXvUNTH) | [FREDIAN](https://open.spotify.com/artist/3rA9bxZBZMbmHe9SNOyM7O) | [LE FAREMO SAPERE](https://open.spotify.com/album/71l3mTktlpZmESHn6zeF4w) | 3:36 | 2026-09-09 |  |
 | [Feverdream](https://open.spotify.com/track/2lWsmxLDLxMj9oeFdpLU6k) | [Designer](https://open.spotify.com/artist/14GILXBOzqgvQEqlPepeZe) | [Feverdream](https://open.spotify.com/album/0263OqmDzQogiWAsEayHeI) | 3:18 | 2026-04-29 | 2026-05-31 |
 | [fffantasy](https://open.spotify.com/track/2jca40jY4kHMyfxq1JVdbb) | [Daniel Brooke](https://open.spotify.com/artist/5CPFsBS5qmG2TqWfVWnguA) | [fffantasy](https://open.spotify.com/album/1JVzSQzj0PdcqXywokTOxz) | 2:51 | 2026-03-02 | 2026-03-21 |
 | [Fight](https://open.spotify.com/track/17XBnERLVrARfWUSLlfs8Q) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [Fight](https://open.spotify.com/album/2G6zaQK9gejdheb5e2ACyO) | 3:25 | 2026-04-22 | 2026-05-24 |
@@ -1610,6 +1611,7 @@
 | [scifi alibi](https://open.spotify.com/track/6T1ZgC455novi75pLjtStq) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [scifi alibi](https://open.spotify.com/album/3jJo3buqpkD6Ss2EUOhBZK) | 3:26 | 2026-05-14 | 2026-06-15 |
 | [Scratch Radio](https://open.spotify.com/track/3Eh1KBLDT2bVvsITyqgWon) | [CherryBoyz](https://open.spotify.com/artist/1Rp1rAvqJjnyye9Fqk4f8o) | [CherryBoyz\(EP2\)](https://open.spotify.com/album/0XYwySh2pQq4vTFoo6lITD) | 3:07 | 2026-08-01 | 2026-08-26 |
 | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/track/5Y8TNTSVJlieoTVpyqen40) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/album/2xval52WhfLtSOJXblynr7) | 4:03 | 2025-11-16 | 2025-12-10 |
+| [Screen](https://open.spotify.com/track/4EhKad8chQTN4Zv4qCtezw) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Screen](https://open.spotify.com/album/1SkEaZVIL9la1xOctdrvsH) | 4:54 | 2026-09-10 |  |
 | [Sculcoates](https://open.spotify.com/track/5DA13F8uBgoX5GsnzoZOJf) | [Strange Pink](https://open.spotify.com/artist/75V926egJMSe19qVvlydyc) | [Sculcoates](https://open.spotify.com/album/0ariceRl8R9DzGHowAFUE8) | 4:53 | 2026-08-25 |  |
 | [Searchlights](https://open.spotify.com/track/053X0nqmnEYzlLgQ4kuHC3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:12 | 2025-08-03 | 2026-08-19 |
 | [Secret Ive Kept](https://open.spotify.com/track/2wEDn3xrlM2sl8AYMomUEn) | [Unders](https://open.spotify.com/artist/3hrtWqTWO3ZRGYgS7CCAm4) | [Secret Ive Kept](https://open.spotify.com/album/7fOQzg0OXncPxI8xE9v6U0) | 5:36 | 2025-11-03 | 2025-12-10 |
@@ -1993,6 +1995,7 @@
 | [This One Is for Free](https://open.spotify.com/track/2eXhn1zYO6WXsBFyiPTWOB) | [Poor Bambi](https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T) | [This One Is for Free](https://open.spotify.com/album/3btpkO8OgHri2VNnSYIayz) | 2:15 | 2026-01-10 | 2026-02-11 |
 | [This Pain](https://open.spotify.com/track/1jHCYraEt2HLmrPTFiIdCl) | [Marie.B](https://open.spotify.com/artist/5nFwxzI5XI3qFry9TBOdn6) | [This Pain](https://open.spotify.com/album/0A4IIgGhPaqd0zIvGvq0gF) | 2:52 | 2026-04-20 | 2026-05-30 |
 | [Thorn Tree City](https://open.spotify.com/track/2n0PzwDjSzcP48z9xX1oR0) | [Sayonara Summer](https://open.spotify.com/artist/6xj7uKQx6LsVTEPh8qTyZa) | [Something to Look Forward To](https://open.spotify.com/album/1aBrl7yq2rwNgYz3fqc9TK) | 5:15 | 2026-09-02 |  |
+| [Thought Police](https://open.spotify.com/track/5KF33egCTqUGM8TunMWz4l) | [Misery Prize](https://open.spotify.com/artist/56fhTZLYULpru21wWoeoBM) | [Thought Police](https://open.spotify.com/album/0BAGmKzJ7MjcYB6jduaWAb) | 3:00 | 2026-09-09 |  |
 | [Three Cheers for War](https://open.spotify.com/track/1IzgYJDOJLUr3WpDosOWIM) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [Three Cheers for War](https://open.spotify.com/album/2sSIKVnorHtyS1OcBFxJmx) | 2:53 | 2026-04-08 | 2026-05-10 |
 | [Through The Fallen Ashes](https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js) | [Approaching Autumn](https://open.spotify.com/artist/54qq77ZcaUyPqyE0nyFdD3) | [Homecoming](https://open.spotify.com/album/1nG4lXC5HsfdN8Jph8p5lg) | 3:17 | 2026-04-24 | 2026-05-26 |
 | [Thrown Away](https://open.spotify.com/track/5lsE3re0AH68vb3x77Nidt) | [Psychoda](https://open.spotify.com/artist/5Cdrkr8RBYQtkmTcBAX9rT) | [Thrown Away](https://open.spotify.com/album/3kC8M38t2Ri4jCDWsYzd8x) | 3:03 | 2026-09-07 |  |

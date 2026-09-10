@@ -4,7 +4,7 @@
 
 > Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-491 songs - 1 day 0 hr 22 min
+492 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Guardanapo](https://open.spotify.com/track/2E5k25zIQN8qfzRyqINXI8) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Guardanapo](https://open.spotify.com/album/16eso9PSGCsxV6CKxVJuxa) | 2:31 | 2021-11-19 | 2022-07-29 |
 | [Hemorragia Interna](https://open.spotify.com/track/7gqW8qNovNWU6FhgC4o2Wb) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Meire D' Origem](https://open.spotify.com/artist/3osVa8ApiX4HGAQx9K8A1E), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Hemorragia Interna](https://open.spotify.com/album/6tKsJWAPbnZbY6uoM442xO) | 2:45 | 2022-05-01 | 2023-07-13 |
 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 | 2023-04-24 | 2024-05-03 |
+| [HISTERIA](https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 2:21 | 2026-09-09 |  |
 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 | 2023-04-24 | 2024-05-03 |
 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 | 2023-07-12 | 2024-05-03 |
 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 | 2022-07-27 | 2024-05-03 |
@@ -497,7 +498,7 @@
 | [Yamaha](https://open.spotify.com/track/3UQwJndjyZtfqKe4HKRSMU) | [Ciana](https://open.spotify.com/artist/2YUZgtzQwtoPYnENthHU8f) | [Yamaha](https://open.spotify.com/album/5vkY5ciGlzxpJhAjGB6Cf3) | 3:07 | 2022-02-14 | 2022-07-29 |
 | [Zero Zero](https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [Relikia](https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm), [LEON PX](https://open.spotify.com/artist/4x6FtbtAEHbc2Tm5P8aDBD) | [Mixtape 2025'S](https://open.spotify.com/album/1Pi2QHOml84wIC7ADjfW4Z) | 3:16 | 2025-04-15 | 2026-05-07 |
 | [ÁREA DE RISCO \(feat\. Tasha & Tracie\)](https://open.spotify.com/track/3LOE3USq9MD6a92KK37Ax1) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:50 | 2021-11-19 | 2022-02-03 |
-| [ÍCONE FASHION \- Remix](https://open.spotify.com/track/47SzUXU4kpNrR8HtftdLVu) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:39 | 2026-08-28 |  |
+| [ÍCONE FASHION \- Remix](https://open.spotify.com/track/47SzUXU4kpNrR8HtftdLVu) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:39 | 2026-08-28 | 2026-09-10 |
 | [Ô Moça](https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Ô Moça](https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6) | 3:00 | 2021-11-19 | 2022-02-15 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

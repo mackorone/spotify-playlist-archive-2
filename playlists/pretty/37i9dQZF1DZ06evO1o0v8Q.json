@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 50921,
+  "num_followers": 50958,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADafMxQOkYyZaHWd1DhSltK",
+  "snapshot_id": "ap9QAAAAAACG/j7g0FhnidNCTLdwLb1h",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 191737,
-      "name": "Out of Rage",
-      "url": "https://open.spotify.com/track/75Llbj5OAnDnSaob3koB0w"
+      "duration_ms": 190394,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 190394,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
+      "duration_ms": 191737,
+      "name": "Out of Rage",
+      "url": "https://open.spotify.com/track/75Llbj5OAnDnSaob3koB0w"
     }
   ],
   "unique_name": "This Is Turnstile",

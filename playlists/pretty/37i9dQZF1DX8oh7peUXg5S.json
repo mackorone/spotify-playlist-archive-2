@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352823,
+  "num_followers": 352833,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 110373,
       "name": "Aquellas Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Lunas Rotas: De casa a las ventas (Standard version)",
         "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 339000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/2ZZvtilGKmGDAdz9IU1EG2"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Rug\u00edo de Sentir",
-        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
+        "name": "Esencial Antonio Flores",
+        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
       },
       "artists": [
         {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
         }
       ],
-      "duration_ms": 203896,
-      "name": "Rug\u00edo de Sentir",
-      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
+      "duration_ms": 214880,
+      "name": "No Dudaria",
+      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Esencial Antonio Flores",
-        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
+        "name": "Rug\u00edo de Sentir",
+        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
       },
       "artists": [
         {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
         }
       ],
-      "duration_ms": 214880,
-      "name": "No Dudaria",
-      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
+      "duration_ms": 203896,
+      "name": "Rug\u00edo de Sentir",
+      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Se Vende",
-        "url": "https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6"
-      },
-      "artists": [
-        {
-          "name": "Tontxu",
-          "url": "https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "El \u00c1rbol y el Bosque",
         "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 196547,
       "name": "A Tu Vida",
       "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Se Vende",
+        "url": "https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6"
+      },
+      "artists": [
+        {
+          "name": "Tontxu",
+          "url": "https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
     }
   ],
   "unique_name": "Cantautores",

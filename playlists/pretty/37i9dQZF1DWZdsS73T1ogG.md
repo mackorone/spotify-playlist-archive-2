@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: GeezyDee, Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,603 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,629 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
+| 1 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 2 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 |
 | 3 | [ALL WHITE REMIX \(feat\. Conep, VEI HABACHE\)](https://open.spotify.com/track/1u8ISwHTmcb1eEr7xWuMtT) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [VEI HABACHE](https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z) | [ALL WHITE REMIX \(feat\. Conep, VEI HABACHE\)](https://open.spotify.com/album/6qYxkhMJ2vzxkRrlXzsP1m) | 5:53 |
 | 4 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |

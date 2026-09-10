@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489770,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
+    },
+    {
+      "album": {
         "name": "Coda",
         "url": "https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ"
       },
@@ -2842,6 +2860,24 @@
       "duration_ms": 415380,
       "name": "This Is How We Say Goodbye",
       "url": "https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU"
+    },
+    {
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/3lAJIdOrpMBJJc9VLNfrMP"
+      },
+      "artists": [
+        {
+          "name": "YAGA",
+          "url": "https://open.spotify.com/artist/0WbfaOeQ4zullSOwUnVsac"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253435,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3jotFtJLdprcErSYOsDCbO"
     },
     {
       "album": {

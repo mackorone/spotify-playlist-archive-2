@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,426 likes - 200 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,381 likes - 200 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 48 | [Yes&No](https://open.spotify.com/track/4kg8yix9vYc7mM5iTr2Jym) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [Yes&No](https://open.spotify.com/album/6P87mtnmwSPohs9JdgAWWN) | 3:08 |
 | 49 | [Shop Girl](https://open.spotify.com/track/6Zp5qV01yNBbpEQKe6wTwl) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shop Girl](https://open.spotify.com/album/3eIhusKqqYj8j2JXtFc3le) | 3:17 |
 | 50 | [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 |
-| 51 | [Leaving The Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
+| 51 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
 | 52 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
 | 53 | [Paranoia](https://open.spotify.com/track/2awPLeyEr18Z3wq7vzFxpM) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Paranoia / James](https://open.spotify.com/album/0Su7mSZHT1poyMsNEGsX2z) | 2:34 |
 | 54 | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "It's the witching hours. Cover: Florence + The Machine",
+  "description": "It's the witching hours. Cover: Phoebe Bridgers",
   "name": "Witchy",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 188677,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/0FjwxIpmAujF3MxmC2nnpA"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264817,
+      "name": "As Above",
+      "url": "https://open.spotify.com/track/1eDwVLcbEje9j6wtBYpXZ4"
     },
     {
       "album": {
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 285076,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
@@ -1954,6 +1972,24 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166882,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/696AN0lEtK19M7S7eX7A8y"
     },
     {
       "album": {
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 258733,
       "name": "Waking The Witch",
       "url": "https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z"

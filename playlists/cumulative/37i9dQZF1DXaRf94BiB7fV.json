@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Keane Cotta",
+  "description": "The best new music by independent artists and labels in India. Cover - Aeymanntara",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 200276,
       "name": "Baanki",
       "url": "https://open.spotify.com/track/0zZMDbpjcrRyoq5vBen567"
@@ -5186,6 +5186,24 @@
       "duration_ms": 239280,
       "name": "Built to Fall Apart",
       "url": "https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0"
+    },
+    {
+      "album": {
+        "name": "Bundiya",
+        "url": "https://open.spotify.com/album/7hE3QNBVom9bK4GtIqByJM"
+      },
+      "artists": [
+        {
+          "name": "Savni Bhatt",
+          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296581,
+      "name": "Bundiya",
+      "url": "https://open.spotify.com/track/5W6Cffr4cIjNDuhbiVp5xq"
     },
     {
       "album": {
@@ -15524,7 +15542,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 236204,
       "name": "Janeja",
       "url": "https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA"
@@ -25843,6 +25861,24 @@
     },
     {
       "album": {
+        "name": "Oceans Apart",
+        "url": "https://open.spotify.com/album/1ICLaiLk7VieRGqhHVwloU"
+      },
+      "artists": [
+        {
+          "name": "Rohit Bhatia",
+          "url": "https://open.spotify.com/artist/4Hpzcft4QSPz7dwFhnLt22"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213934,
+      "name": "Oceans Apart",
+      "url": "https://open.spotify.com/track/7sOdcqQNNykUySlX3q9QrX"
+    },
+    {
+      "album": {
         "name": "Oh Gloria",
         "url": "https://open.spotify.com/album/7e7dR0iONPjbE84EdYjlnw"
       },
@@ -28564,6 +28600,24 @@
       "duration_ms": 235333,
       "name": "Rain On My Shelter",
       "url": "https://open.spotify.com/track/7MKFDqoEBDBcsmfsXLgaR6"
+    },
+    {
+      "album": {
+        "name": "Rain Story",
+        "url": "https://open.spotify.com/album/5rZIaIWmGpkJlu7A7oL4h9"
+      },
+      "artists": [
+        {
+          "name": "Debattama",
+          "url": "https://open.spotify.com/artist/6VFfxgDEayurfp7m98ucqi"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195769,
+      "name": "Rain Story",
+      "url": "https://open.spotify.com/track/5e0zPk8qvHcWtSJbyxsxi3"
     },
     {
       "album": {
@@ -35184,7 +35238,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 186210,
       "name": "Tijori",
       "url": "https://open.spotify.com/track/7lmK3ix2fXGsgZWwcSgfU9"

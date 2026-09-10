@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Deepa Kaler",
+  "description": "Discover the future of Punjabi Pop! Cover: Shilpa Joshi",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 146823,
       "name": "Cali",
       "url": "https://open.spotify.com/track/71HSD36mdiU6P3XpRTODUS"
@@ -4389,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Gap",
+        "url": "https://open.spotify.com/album/3hVt8oOcrwm2ns4bRebPsZ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77400,
+      "name": "Gap",
+      "url": "https://open.spotify.com/track/2TAyMR914sWCaHT4FSeO0Y"
+    },
+    {
+      "album": {
         "name": "Garari",
         "url": "https://open.spotify.com/album/6RQH3a6isO8O0VziXIr1wJ"
       },
@@ -4846,6 +4864,28 @@
       "duration_ms": 151998,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/5GeuIQpzRXx8ZNuQ35FUj4"
+    },
+    {
+      "album": {
+        "name": "Handsome Don",
+        "url": "https://open.spotify.com/album/2ekLQ2NJ0RZKqvagzrOnY3"
+      },
+      "artists": [
+        {
+          "name": "Khadak Singh",
+          "url": "https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc"
+        },
+        {
+          "name": "OG Sandhu",
+          "url": "https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206334,
+      "name": "Handsome Don",
+      "url": "https://open.spotify.com/track/6V5KsJtvv495dTMY4rwD9V"
     },
     {
       "album": {
@@ -6070,7 +6110,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 249000,
       "name": "Jeen Di Vajah",
       "url": "https://open.spotify.com/track/0rZhv5R27nB5JBhI8l5rzY"
@@ -7773,6 +7813,28 @@
     },
     {
       "album": {
+        "name": "Lovestay",
+        "url": "https://open.spotify.com/album/03t8UMDX7C1HGZO58LncJt"
+      },
+      "artists": [
+        {
+          "name": "SP Randhawa",
+          "url": "https://open.spotify.com/artist/74IOpkzhkmxlzQYwCFCwdT"
+        },
+        {
+          "name": "TYH",
+          "url": "https://open.spotify.com/artist/3WEJTLY9OZTVGnvetqCo5D"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "Lovestay",
+      "url": "https://open.spotify.com/track/3X8XI7fJ6U5BVWjDoXtxc5"
+    },
+    {
+      "album": {
         "name": "Lowkey Lover",
         "url": "https://open.spotify.com/album/0chtCbqOVG9jc8mbAsdxj3"
       },
@@ -7802,7 +7864,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 179361,
       "name": "Luminary",
       "url": "https://open.spotify.com/track/4PgsOXRBQYKaIMgJeRoSpn"
@@ -8964,6 +9026,28 @@
       "duration_ms": 190754,
       "name": "Naal Sohniye",
       "url": "https://open.spotify.com/track/2SX3bb1ddCAnsOMpUmbzU0"
+    },
+    {
+      "album": {
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/08AsSgwHajbzE9zxBD5qLc"
+      },
+      "artists": [
+        {
+          "name": "Sembhy K",
+          "url": "https://open.spotify.com/artist/58P1REavgwGHXITn2j4MGo"
+        },
+        {
+          "name": "Pardeep Malak",
+          "url": "https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/6fUHlejDQ3RtuoW3TWJeaA"
     },
     {
       "album": {
@@ -11122,7 +11206,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 191250,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/4QHa7ZUGDIWQjOzmespOZt"
@@ -13257,6 +13341,28 @@
     },
     {
       "album": {
+        "name": "Udeek",
+        "url": "https://open.spotify.com/album/4qgRlhPYHGsxs9HrYZJlWA"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Joshi",
+          "url": "https://open.spotify.com/artist/74NeWcjFVZyQFkAVDCQj3x"
+        },
+        {
+          "name": "Oye Kunaal",
+          "url": "https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Udeek",
+      "url": "https://open.spotify.com/track/4MpuhO02qJeigrUI2Dk7E0"
+    },
+    {
+      "album": {
         "name": "UNSPOKEN",
         "url": "https://open.spotify.com/album/3HJb73cs91JKh30kP1wGPi"
       },
@@ -13890,7 +13996,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 185549,
       "name": "With You",
       "url": "https://open.spotify.com/track/7DjIbKfnT75oCIBySjMKXF"

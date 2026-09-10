@@ -4,7 +4,7 @@
 
 > Mauvais Djo, Miley Cyrus et Oria au top des nouveautés de la semaine !
 
-10,785 songs - 23 day 5 hr 34 min
+10,786 songs - 23 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8646,6 +8646,7 @@
 | [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 | 2026-01-15 | 2026-01-23 |
 | [SMACKDOWN VS RAW2009](https://open.spotify.com/track/21KYxk1yuGV4pQ2hU7xCyR) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [GOTY EDITION](https://open.spotify.com/album/7ydREUi7xk5UjxY7jkKPo2) | 1:51 | 2025-04-24 | 2025-05-02 |
 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 | 2024-10-31 | 2024-11-08 |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-03 |  |
 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 | 2025-03-13 | 2025-03-21 |
 | [Smash](https://open.spotify.com/track/2b3tQEW0ikhW3aZ0TZhpmB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Smash](https://open.spotify.com/album/4XRDTdYBlSa1skS7ZewQ5x) | 3:16 | 2025-11-13 | 2025-11-21 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-10 | 2025-04-18 |

@@ -1,12 +1,12 @@
 {
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
-  "num_followers": 605877,
+  "num_followers": 605916,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5lSEYzm+FYk38eENbw5A5aBBOh",
+  "snapshot_id": "AAAAADL4vAdWfSe1jkpcUDBsZonVNigy",
   "tracks": [
     {
       "added_at": "2026-05-15 13:00:31",
@@ -1451,6 +1451,30 @@
       "duration_ms": 63599,
       "name": "Victory and Death",
       "url": "https://open.spotify.com/track/0028HjBkFVbYKlpopdaIMo"
+    },
+    {
+      "added_at": "2026-09-09 19:13:39",
+      "album": {
+        "name": "LEGO Star Wars: The Mandalorian (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        },
+        {
+          "name": "Roberto Prado",
+          "url": "https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c"
+        },
+        {
+          "name": "Adam Dib",
+          "url": "https://open.spotify.com/artist/0ZVeelMvsBkCUI14FgJob6"
+        }
+      ],
+      "duration_ms": 74066,
+      "name": "This Is the Slay",
+      "url": "https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d"
     },
     {
       "added_at": "2026-05-15 13:00:31",

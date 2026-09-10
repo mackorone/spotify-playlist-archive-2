@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,576 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,588 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 14 | [Romance de Valentia](https://open.spotify.com/track/4Bhx0zSwBb9wYxyiW3l7eR) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Así Fue \- Mis Mejores Canciones](https://open.spotify.com/album/2glTiEiNWZFlq2hqfwahXB) | 4:31 |
 | 15 | [El amor](https://open.spotify.com/track/5LpflH9ncdBJwSlem7ey9a) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Tiempos dificiles](https://open.spotify.com/album/6lfk9pty2XTZPUeJw3Onf9) | 4:42 |
 | 16 | [Corazón Contento](https://open.spotify.com/track/5r5hCjNjWdmQTHtHBZ7ghy) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [De Marisol A Pepa Flores](https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO) | 3:00 |
-| 17 | [Entre mis recuerdos](https://open.spotify.com/track/6Z8Q8zSG6xpIKAyH0Z77wb) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Como la flor prometida](https://open.spotify.com/album/6MtEj11uhuk1uNP1RAOyxz) | 3:37 |
+| 17 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 |
 | 18 | [Si Nos Dejan](https://open.spotify.com/track/47kS6bdpnbJatA62HGxqu2) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Gracias](https://open.spotify.com/album/6gkUAaSvncrilroaQt6Bdg) | 3:35 |
 | 19 | [Que Digan \(Según Sta\. Rocio\)](https://open.spotify.com/track/55ow5rRCIbUX1zzGuq0nek) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Que Digan \(Según Sta\. Rocio\)](https://open.spotify.com/album/2Xiy3E0gR9nRxCMSGP3otv) | 3:38 |
 | 20 | [Como Yo Te Amo \- Remasterizado](https://open.spotify.com/track/3pBmaSZCoLF0drPRuf85O5) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Canciones Entrañables \(Remasterizado\)](https://open.spotify.com/album/5w7W7a6Khy2SK7WHVcnBoV) | 4:40 |
-| 21 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 |
+| 21 | [Entre mis recuerdos](https://open.spotify.com/track/6Z8Q8zSG6xpIKAyH0Z77wb) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Como la flor prometida](https://open.spotify.com/album/6MtEj11uhuk1uNP1RAOyxz) | 3:37 |
 | 22 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 23 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 |
 | 24 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Mjolisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,813 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,923 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 7 | [Ama Baffalo Nama Elephant](https://open.spotify.com/track/0CyUpyCXdfg3j3aeNefnvE) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Number 10](https://open.spotify.com/album/7grvU2KtNU99HxAZOMpanN) | 4:59 |
 | 8 | [Ngabona Amathanga Amhlophe \(feat\. Maphungula IzinganeZoma\)](https://open.spotify.com/track/2HtiCtSUZKbmWV9kwQilhj) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq), [Maphungula IzinganeZoma](https://open.spotify.com/artist/3wKS23XCfo0yYvTy4DVlcu) | [Kuthathe Konke](https://open.spotify.com/album/6fO3fkdNELRirJzXjsaOle) | 4:56 |
 | 9 | [Owabulala uBaba](https://open.spotify.com/track/6ZKNLVaLpgtvADzjw90OpR) | [SIHAYO](https://open.spotify.com/artist/04YRKHV66wdlYt3hQ92HRZ), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Owabulala uBaba](https://open.spotify.com/album/3C7Lq0UxQ3gJx7yeh70yZX) | 4:45 |
-| 10 | [Sondela La](https://open.spotify.com/track/3t6x060787xWEsnQuUI3lr) | [Teaspoon](https://open.spotify.com/artist/7JajQZ73LbTTWjEQFQdq3i), [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Sondela La](https://open.spotify.com/album/5Kdz0UX3vsw9AMYA09Jyn7) | 4:43 |
+| 10 | [Sondela La](https://open.spotify.com/track/3t6x060787xWEsnQuUI3lr) | [Teaspoon](https://open.spotify.com/artist/3UfsUIJIwEoh5Wze1p43PM), [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Sondela La](https://open.spotify.com/album/5Kdz0UX3vsw9AMYA09Jyn7) | 4:43 |
 | 11 | [Ngiphelele](https://open.spotify.com/track/64N5FotBq94fBRNG6GWoTX) | [Maqatha](https://open.spotify.com/artist/7ijapeqUB1Kjh7Ou34Bbtk), [Inkosi Yamagcokama](https://open.spotify.com/artist/6nUOVYcWS0pat3LXuZMe6q) | [AmaKillometre](https://open.spotify.com/album/2zRYEhA2jbOEJkxHxmutpG) | 4:22 |
 | 12 | [uBhanyazile](https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne) | [Njabulo Langa](https://open.spotify.com/artist/4bQehldM97MVpqKISNhZzV), [Mjikelo](https://open.spotify.com/artist/2rD7mKcV2fhMpn4M56sDFA) | [uBhanyazile](https://open.spotify.com/album/6lRouipryqjU61JGR9YKWH) | 5:04 |
 | 13 | [Umaqondana](https://open.spotify.com/track/17rT3jC2Hxz7z1RDHALeKe) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/1xRjTYPc9s1oBwuL25giMR) | 4:31 |

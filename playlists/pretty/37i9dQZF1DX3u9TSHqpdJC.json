@@ -1,13 +1,157 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SEREN Artwork by Paola Saliby",
-  "num_followers": 242712,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SNACKTIME Artwork by Paola Saliby",
+  "num_followers": 242745,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABizthL6GmMpFUPmcR3+Gmc14Pg6",
+  "snapshot_id": "AAAAAJsHSG36zTSmDEsTBgdKCA/Qp0tB",
   "tracks": [
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Can't Imagine Why You'd Stay",
+        "url": "https://open.spotify.com/album/5V6TNqIhrl8Qk19S6yoo06"
+      },
+      "artists": [
+        {
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        }
+      ],
+      "duration_ms": 231678,
+      "name": "Can't Imagine Why You'd Stay",
+      "url": "https://open.spotify.com/track/2WMxQRwfuNviXlX0HgMnh4"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Where the Fairies Lie",
+        "url": "https://open.spotify.com/album/1slvZQBeHdjFA5h344FYOl"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "duration_ms": 166752,
+      "name": "Where the Fairies Lie",
+      "url": "https://open.spotify.com/track/1v5F9Lf9UqhdGUasJF84EQ"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Ghost Train",
+        "url": "https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "duration_ms": 193189,
+      "name": "Ghost Train",
+      "url": "https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "BIBLE TEXTS",
+        "url": "https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "BIBLE TEXTS",
+      "url": "https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Swordfight",
+        "url": "https://open.spotify.com/album/3r6icpdtC4DOEQxfnLrC9x"
+      },
+      "artists": [
+        {
+          "name": "Samsara",
+          "url": "https://open.spotify.com/artist/0t0qF5jEfxbqD6rkeaoXdC"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Swordfight",
+      "url": "https://open.spotify.com/track/2V3nOMj8N5o6FgKYIBuEUy"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "INFINITE SUMMER",
+        "url": "https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "INFINITE SUMMER",
+      "url": "https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Just a Girl",
+        "url": "https://open.spotify.com/album/3hwlPFONmAEM7hLa2SXqwr"
+      },
+      "artists": [
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Just a Girl",
+      "url": "https://open.spotify.com/track/4nOqX7kVZIh2dKi5YGNMiC"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "shortman syndrome",
+        "url": "https://open.spotify.com/album/0upkP5O2rhQjBnmn5lPpYN"
+      },
+      "artists": [
+        {
+          "name": "fliss",
+          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "shortman syndrome",
+      "url": "https://open.spotify.com/track/6RjxywsCw5dR6EPT458NED"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "florence!",
+        "url": "https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "florence!",
+      "url": "https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR"
+    },
     {
       "added_at": "2026-08-26 04:00:39",
       "album": {
@@ -265,22 +409,6 @@
       "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
     },
     {
-      "added_at": "2026-08-19 04:00:32",
-      "album": {
-        "name": "PINK CIGARETTE",
-        "url": "https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 162140,
-      "name": "PINK CIGARETTE",
-      "url": "https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG"
-    },
-    {
       "added_at": "2026-08-12 04:00:21",
       "album": {
         "name": "aries baby",
@@ -487,22 +615,6 @@
       "duration_ms": 137276,
       "name": "Hit & Run",
       "url": "https://open.spotify.com/track/0VoPr66RRMVRD2LLIuqzw2"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "CONCENTR888 (MASH UP)",
-        "url": "https://open.spotify.com/album/5dIYM3eTETtGXn6e9jH0OX"
-      },
-      "artists": [
-        {
-          "name": "Jourdin Pauline",
-          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
-        }
-      ],
-      "duration_ms": 208265,
-      "name": "CONCENTR888 - MASH UP",
-      "url": "https://open.spotify.com/track/1p34wjjCUCAuCXq9ssInnL"
     },
     {
       "added_at": "2026-07-29 04:00:18",
@@ -911,22 +1023,6 @@
     {
       "added_at": "2026-07-22 04:00:22",
       "album": {
-        "name": "NINE-ONE-ONE",
-        "url": "https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6"
-      },
-      "artists": [
-        {
-          "name": "insha",
-          "url": "https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9"
-        }
-      ],
-      "duration_ms": 101172,
-      "name": "NINE-ONE-ONE",
-      "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
         "name": "Taken",
         "url": "https://open.spotify.com/album/59K9Tku4soM5WKE0cH3bsR"
       },
@@ -939,38 +1035,6 @@
       "duration_ms": 142741,
       "name": "Taken",
       "url": "https://open.spotify.com/track/4eKdz79wkQxSlHdah7X13S"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "The Eye",
-        "url": "https://open.spotify.com/album/6LafjcWQmmGVOXWhSD0hh3"
-      },
-      "artists": [
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD"
-        }
-      ],
-      "duration_ms": 179558,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/4Bn6ZWVHsquZIgauEe74cs"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "further from you",
-        "url": "https://open.spotify.com/album/09XfupZsiklci63jsFiYr4"
-      },
-      "artists": [
-        {
-          "name": "frau",
-          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
-        }
-      ],
-      "duration_ms": 243144,
-      "name": "further from you",
-      "url": "https://open.spotify.com/track/6CKWUJEPPWArK8a73FusqF"
     },
     {
       "added_at": "2026-07-22 04:00:22",
@@ -1069,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
     },
     {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "Just My Luck",
-        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
-      },
-      "artists": [
-        {
-          "name": "Maya Engen",
-          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
-        }
-      ],
-      "duration_ms": 215488,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
-    },
-    {
       "added_at": "2026-07-08 04:00:12",
       "album": {
         "name": "Endless Sundays",
@@ -1115,54 +1163,6 @@
       "duration_ms": 173181,
       "name": "somethingsdontsitright",
       "url": "https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ"
-    },
-    {
-      "added_at": "2026-07-01 15:26:55",
-      "album": {
-        "name": "Lovesick Lobotomy",
-        "url": "https://open.spotify.com/album/5fsNOV0dM35dvXaXdGkRAf"
-      },
-      "artists": [
-        {
-          "name": "Earthgirl",
-          "url": "https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Lovesick Lobotomy",
-      "url": "https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "haunted by the outside",
-        "url": "https://open.spotify.com/album/0jnFNtRWz9o2BcakSFaTHa"
-      },
-      "artists": [
-        {
-          "name": "EMiDORA",
-          "url": "https://open.spotify.com/artist/5Mb5GPa24CnwCRYjETldQn"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "i don't really know what i wanted",
-      "url": "https://open.spotify.com/track/49Ct1mPN4evMO3bjmOfv61"
-    },
-    {
-      "added_at": "2026-07-01 15:26:55",
-      "album": {
-        "name": "CR33PS",
-        "url": "https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue"
-      },
-      "artists": [
-        {
-          "name": "herCULES",
-          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "CR33PS",
-      "url": "https://open.spotify.com/track/3CUzLJWBak2SSut9QzGnmT"
     },
     {
       "added_at": "2026-06-17 04:00:29",

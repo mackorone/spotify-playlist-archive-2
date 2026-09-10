@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,639,012 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,638,944 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Phone, Keys, Wallet](https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY) | 2:52 |
 | 50 | [Good Girls & Cowgirls](https://open.spotify.com/track/34teaZ6EaOdPDmfbxfNVtP) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Good Girls & Cowgirls](https://open.spotify.com/album/2b7e7TUNXhvbthypUy5ZNr) | 3:04 |
 
-Snapshot ID: `AAAAAJsrJAjESZJJKbANnO6gu570TS+E`
+Snapshot ID: `AAAAADszJf9GO+1MT4iH9CrW+lNlmIDo`

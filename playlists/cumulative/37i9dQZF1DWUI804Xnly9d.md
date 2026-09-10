@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-659 songs - 1 day 12 hr 49 min
+660 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 | 2023-12-17 |
 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 | 2024-01-05 |
 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 | 2024-01-04 |
-| [Bechare](https://open.spotify.com/track/5Ww0iPWoGzntdelRBgv8VI) | [Tobom Darang](https://open.spotify.com/artist/6QqmpwSfTY9ogEa5aJZUkj) | [Bechare](https://open.spotify.com/album/6xJ6RiiflqICv3XdkkEGzt) | 3:45 | 2026-07-30 |  |
+| [Bechare](https://open.spotify.com/track/5Ww0iPWoGzntdelRBgv8VI) | [Tobom Darang](https://open.spotify.com/artist/6QqmpwSfTY9ogEa5aJZUkj) | [Bechare](https://open.spotify.com/album/6xJ6RiiflqICv3XdkkEGzt) | 3:45 | 2026-07-30 | 2026-09-10 |
 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Gup Shup](https://open.spotify.com/artist/7MaM4ydtuHdPZ9OyowpRzR) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 | 2025-06-06 | 2026-06-24 |
 | [BERUKHI](https://open.spotify.com/track/0gqGFRHkJe7GQiM27WK8Du) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [BERUKHI](https://open.spotify.com/album/3boFPzadTWozEURysiWHID) | 2:46 | 2025-07-02 | 2026-02-25 |
 | [Betabiyaan](https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO) | [Betabiyaan](https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4) | 3:22 | 2024-03-31 | 2024-04-30 |
@@ -218,6 +218,7 @@
 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 | 2024-06-12 |  |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 | 2025-12-17 | 2026-05-30 |
+| [Inaam \- Unplugged](https://open.spotify.com/track/3JLsCJZvPEw5PNEEEzDd94) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ansh Chahal](https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz) | [Inaam \(Unplugged\)](https://open.spotify.com/album/1MHa9GVsoilmDDVySRN7C7) | 2:16 | 2026-09-09 |  |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq](https://open.spotify.com/track/2Ld2KSnixiY3MGXGiwtqTM) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Ishq](https://open.spotify.com/album/2akAd2nqu0cuDs7w9zQcrO) | 2:37 | 2025-03-28 | 2025-04-30 |
 | [Ishq Ho Jaane Do](https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Ishq Ho Jaane Do](https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w) | 3:11 | 2024-11-12 | 2025-02-18 |

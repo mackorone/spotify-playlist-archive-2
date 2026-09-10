@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 90649,
       "name": "FlatHead",
       "url": "https://open.spotify.com/track/4w5lUNhEm1t1y4Ghpr0lxf"
@@ -3696,7 +3696,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 120674,
       "name": "No Pass",
       "url": "https://open.spotify.com/track/1BSDaAAsK8Ea1LbJUPGMnW"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -4713,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "SK",
+        "url": "https://open.spotify.com/album/6JsdGYgZTwBlgxGYKARc2K"
+      },
+      "artists": [
+        {
+          "name": "Crackin3z",
+          "url": "https://open.spotify.com/artist/6hIlwLC9tteN1hQaWjCaAO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151996,
+      "name": "SK",
+      "url": "https://open.spotify.com/track/4fayv4mrhpFrO7Pq35mOWT"
+    },
+    {
+      "album": {
         "name": "Slay3d",
         "url": "https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q"
       },
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -6280,7 +6298,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Davido
 
-228 songs - 11 hr 42 min
+229 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 | 2024-10-21 |  |
 | [Soundgasm](https://open.spotify.com/track/3FNj8xmImiSh0oEMBzSDL7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5cxI5fdlh6VrZjNuNXHn5Y) | 3:24 | 2024-10-21 | 2025-06-10 |
 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 | 2026-05-18 | 2026-08-20 |
+| [Stay a Little Longer](https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Stay a Little Longer](https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34) | 2:54 | 2026-09-09 |  |
 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 | 2026-03-16 | 2026-08-20 |
 | [Suru \(feat\. Stormzy\)](https://open.spotify.com/track/25KjMlA0KAwRKS9JuT1NSq) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:40 | 2024-10-21 | 2024-12-04 |
 | [SWAGGA](https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [SWAGGA](https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80) | 2:36 | 2026-07-16 | 2026-08-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 327096,
+  "num_followers": 327104,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAACT//Hx5ELdM+g4gd5nyxWK",
+  "snapshot_id": "ap9QAAAAAAAFsuE5O6unV3adFZWtiIHk",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 163750,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5W2jUN0gWrwy74w38Vi6wa"
+      "duration_ms": 168750,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 224099,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
+      "duration_ms": 163750,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5W2jUN0gWrwy74w38Vi6wa"
     },
     {
       "added_at": null,
@@ -450,15 +450,11 @@
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Devlin",
-          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
         }
       ],
-      "duration_ms": 195807,
-      "name": "This City (feat. Devlin)",
-      "url": "https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0"
+      "duration_ms": 224099,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
     },
     {
       "added_at": null,
@@ -522,11 +518,15 @@
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Devlin",
+          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
         }
       ],
-      "duration_ms": 168750,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
+      "duration_ms": 195807,
+      "name": "This City (feat. Devlin)",
+      "url": "https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 166386,
-      "name": "Make It Your Home",
-      "url": "https://open.spotify.com/track/0xOQm5v1k21ibsLBq6qhmG"
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/0kImcnXuI3y1Jc5SBjvOvd"
     },
     {
       "added_at": null,

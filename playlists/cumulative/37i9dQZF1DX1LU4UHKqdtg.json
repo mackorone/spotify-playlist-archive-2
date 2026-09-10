@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/1cTjPfeZW47jipZtVLCjvw"
+      },
+      "artists": [
+        {
+          "name": "H//PE Princess",
+          "url": "https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "AWA",
+      "url": "https://open.spotify.com/track/5kPxrjOAo6X1nMUGkz87sF"
+    },
+    {
+      "album": {
         "name": "THE BOYZ 8th MINI ALBUM [BE AWAKE]",
         "url": "https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 194633,
       "name": "BBYBBY",
       "url": "https://open.spotify.com/track/1BcZepagkAv3eBKxx6Uwdt"
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 190653,
       "name": "BREAK IT",
       "url": "https://open.spotify.com/track/3ocRE4rjwPl3sLGrjraVJh"
@@ -18183,6 +18201,24 @@
     },
     {
       "album": {
+        "name": "MISMATCH",
+        "url": "https://open.spotify.com/album/4p5geEZVzAnALRrj44ssGZ"
+      },
+      "artists": [
+        {
+          "name": "LEE JISOO",
+          "url": "https://open.spotify.com/artist/4e8d1kUIBfF1Zen9BB0Rrp"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193638,
+      "name": "MISMATCH",
+      "url": "https://open.spotify.com/track/6Du72Nsm3osfaoKxp0QDQ2"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
       },
@@ -18452,6 +18488,24 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "album": {
+        "name": "Moonride",
+        "url": "https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Moonride",
+      "url": "https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg"
     },
     {
       "album": {
@@ -20190,7 +20244,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 189000,
       "name": "One day",
       "url": "https://open.spotify.com/track/7sq0ojCOSZlWFbSPeAMwCh"
@@ -24919,6 +24973,24 @@
     },
     {
       "album": {
+        "name": "Sky Land, Star Land",
+        "url": "https://open.spotify.com/album/0cmxLSExoAn4A7nEYfhvST"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Sky Land, Star Land",
+      "url": "https://open.spotify.com/track/5Y4NB6wByKcvo6bvyfg6nN"
+    },
+    {
+      "album": {
         "name": "LIKE YOU BETTER (Japanese ver.)",
         "url": "https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA"
       },
@@ -27924,7 +27996,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 143959,
       "name": "TEA",
       "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,825 songs - 10 day 20 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,828 songs - 10 day 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4558,7 +4558,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4548 | [Dil Ye Dhadakta Hi Nahin \- Extended Version](https://open.spotify.com/track/2EICWOdqnZYMmeNhLlD5df) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/5ER11kVPBVRPXgqIDsNwUV) | 3:01 |
 | 4549 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
 | 4550 | [Through Blood or Glory](https://open.spotify.com/track/0MU3pj4seZYuPmB0W6i6HT) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Through Blood or Glory](https://open.spotify.com/album/0oegqz6dQmOMputH42TyYc) | 5:15 |
-| 4551 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 4551 | [Build to Burn \- Demo](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn \(Demo\)](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
 | 4552 | [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 |
 | 4553 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
 | 4554 | [Lost in Time \(heavy mix\)](https://open.spotify.com/track/563JfB4alRkkJ3TpW3qYAE) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time \(heavy mix\)](https://open.spotify.com/album/00gUbwWBvcEwXxISWNoMgR) | 3:44 |
@@ -4703,7 +4703,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4693 | [Solitude](https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Solitude](https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx) | 4:17 |
 | 4694 | [Solitude](https://open.spotify.com/track/7gXg6Sf8me6GHEBiBcoOl5) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Solitude](https://open.spotify.com/album/2RoAIGWZrbvdBMqPC6WGhx) | 4:17 |
 | 4695 | [DON'T LET YOU GO \- Special Version Live](https://open.spotify.com/track/17zT71yHtIr4hEGrLNcdno) | [GIACOMO CAMARDA](https://open.spotify.com/artist/0MhCaSAPRt64ircobpELfi) | [DON'T LET YOU GO \(Special Version Live\)](https://open.spotify.com/album/7kXFFaWb7ukg9VVgFkp08Q) | 2:19 |
-| 4696 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 |
+| 4696 | [Got Your Gun \- Demo](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun \(Demo\)](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 |
 | 4697 | [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 |
 | 4698 | [GANG](https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [GANG](https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU) | 1:53 |
 | 4699 | [Viajero del Tiempo](https://open.spotify.com/track/5fXv91jyW5roZBefIaJoXW) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Viajero del Tiempo](https://open.spotify.com/album/5ueAQ14A9yhL2OgWa1WADX) | 5:30 |
@@ -4833,5 +4833,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4823 | [Casa Roso](https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Casa Roso](https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn) | 3:46 |
 | 4824 | [MAJESTIC](https://open.spotify.com/track/04BNeVlgc24jUaHetyxndP) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [MAJESTIC](https://open.spotify.com/album/0kGz7FtryUYbc9Fcz4ZyZl) | 3:03 |
 | 4825 | [Permission to Share \- Marcel Reps\-Gotsch Techno Remix](https://open.spotify.com/track/3lcmCPgjjC207jAZCYV0Kj) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6), [Marcel Reps\-Gotsch](https://open.spotify.com/artist/2XcSz6LiS3o85dYKEtQQ1Z) | [Permission to Share \(Marcel Reps\-Gotsch Techno Remix\)](https://open.spotify.com/album/2MFpVFNuuUrulvcrC16BCT) | 5:24 |
+| 4826 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
+| 4827 | [Buoyancy](https://open.spotify.com/track/6OUb9JWTXgFuvgH5JqdkQa) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Buoyancy](https://open.spotify.com/album/7hnQQdAFWXQac2M1izmrCN) | 3:19 |
+| 4828 | [Seven Seas](https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Bridging The Gap](https://open.spotify.com/album/5oudgZVxN0EsMqb7WtwItP) | 4:11 |
 
-Snapshot ID: `AAAJ/Z/2v2yems2OSj28OsV6XUy2klcf`
+Snapshot ID: `AAAKAMnRktRWTvjIKkJJh2Iyg+bj7fSL`

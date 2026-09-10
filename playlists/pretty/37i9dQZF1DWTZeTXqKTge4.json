@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
-  "num_followers": 89628,
+  "num_followers": 89624,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
+        "name": "Kesspass",
+        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        },
+        {
+          "name": "d\u00f8nnyr2k\u00e9bb",
+          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
+        }
+      ],
+      "duration_ms": 78406,
+      "name": "Kesspass",
+      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
+    },
+    {
+      "added_at": "2026-09-08 13:05:29",
+      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1103,22 +1123,6 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-09-08 13:05:29",
-      "album": {
         "name": "SOLO SOLO",
         "url": "https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq"
       },
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
-        "name": "Kesspass",
-        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
       },
       "artists": [
         {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        },
-        {
-          "name": "d\u00f8nnyr2k\u00e9bb",
-          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
         }
       ],
-      "duration_ms": 78406,
-      "name": "Kesspass",
-      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     },
     {
       "added_at": "2026-09-08 13:05:29",
@@ -1171,6 +1171,22 @@
       "duration_ms": 168000,
       "name": "Laisse nous",
       "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
+    },
+    {
+      "added_at": "2026-09-08 13:05:29",
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-09-08 13:05:29",
@@ -1199,6 +1215,26 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
+        "name": "Take the time",
+        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
+      },
+      "artists": [
+        {
+          "name": "Muhoza",
+          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+        },
+        {
+          "name": "Carson",
+          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Take the time",
+      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+    },
+    {
+      "added_at": "2026-09-08 13:05:29",
+      "album": {
         "name": "COLLIMATEUR",
         "url": "https://open.spotify.com/album/048FdJYYn7Q6jSq09pRBn4"
       },
@@ -1223,26 +1259,6 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
-        "name": "Take the time",
-        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
-      },
-      "artists": [
-        {
-          "name": "Muhoza",
-          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
-        },
-        {
-          "name": "Carson",
-          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Take the time",
-      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
-    },
-    {
-      "added_at": "2026-09-08 13:05:29",
-      "album": {
         "name": "BASSE COUTURE",
         "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
       },
@@ -1255,26 +1271,6 @@
       "duration_ms": 171106,
       "name": "BASSE COUTURE",
       "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
-    },
-    {
-      "added_at": "2026-09-08 13:05:29",
-      "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
-      },
-      "artists": [
-        {
-          "name": "Ultra Stellaire",
-          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
-        },
-        {
-          "name": "Chil-p",
-          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "AMBITION",
-      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
     },
     {
       "added_at": "2026-09-08 13:05:29",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2026-09-08 13:05:29",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
       },
       "artists": [
         {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "Chil-p",
+          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
         }
       ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+      "duration_ms": 162162,
+      "name": "AMBITION",
+      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
     },
     {
       "added_at": "2026-09-08 13:05:29",
@@ -1343,6 +1343,22 @@
       "duration_ms": 96842,
       "name": "Big Wop",
       "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
+    },
+    {
+      "added_at": "2026-09-08 13:05:29",
+      "album": {
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
     },
     {
       "added_at": "2026-09-08 13:05:29",
@@ -1399,26 +1415,6 @@
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
-    },
-    {
-      "added_at": "2026-09-08 13:05:29",
-      "album": {
-        "name": "D\u00c9TOUR",
-        "url": "https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "St-Prince",
-          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "D\u00c9TOUR",
-      "url": "https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

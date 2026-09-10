@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: oui merci
 
-599 songs - 1 day 9 hr 33 min
+600 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-01-25 |
 | [Lévesque](https://open.spotify.com/track/7CgpMII0Dpx8ySRHQMYExD) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Lévesque](https://open.spotify.com/album/4lRf15vftMhrReEB0tA1Jq) | 3:28 | 2026-03-06 | 2026-05-09 |
 | [M'en revenant de Sainte\-Hélène](https://open.spotify.com/track/7KXsKkbwNcdl1PEN8Y4oQa) | [QW4RTZ](https://open.spotify.com/artist/5mgtNlHS3tZGtJmqDR113E) | [M'en revenant de Sainte\-Hélène](https://open.spotify.com/album/02mpE4QxpnYxKjar4MdcX6) | 2:21 | 2025-09-26 | 2025-12-13 |
-| [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 | 2026-07-24 |  |
+| [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 | 2026-07-24 | 2026-09-10 |
 | [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 | 2026-02-28 |
 | [Ma maison c'est toi](https://open.spotify.com/track/6riR83njVwJkHa24Bh2ZZA) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) | [Ma maison c'est toi](https://open.spotify.com/album/6A3NqKKtSsdOF3xmMHOtO9) | 3:57 | 2025-11-28 | 2026-01-15 |
 | [Ma valise](https://open.spotify.com/track/2GAxjfjH7Xzib3y3I8IUtj) | [Fayo](https://open.spotify.com/artist/1ecWb1DVlOqHny4ogsNLBd) | [Ma valise](https://open.spotify.com/album/31MSAm9Psr25dleLsw0uof) | 4:29 | 2025-10-17 | 2025-11-08 |
@@ -419,6 +419,7 @@
 | [Parfaite](https://open.spotify.com/track/2GP3VhE1kaZR4FupxwbHJo) | [Marie\-France Lantin](https://open.spotify.com/artist/5Yrr2h5czzCl3c2YK7vaj9) | [Parfaite](https://open.spotify.com/album/78n8vnv7ZZa31F6nzlcWCZ) | 3:42 | 2025-11-28 | 2025-12-13 |
 | [Partout](https://open.spotify.com/track/79R6VQlKDZtCJbuFMpWXDe) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Partout](https://open.spotify.com/album/2BQoYUqPF0ZnXjzW6SoY14) | 2:06 | 2026-06-12 | 2026-07-25 |
 | [Pas besoin d'se mentir](https://open.spotify.com/track/3gNYFWLJ1xIXW4ay1dbyNC) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Pas besoin d'se mentir](https://open.spotify.com/album/4PkJ1X7j1QwzCmqar50kuW) | 3:36 | 2026-01-23 | 2026-05-09 |
+| [pas de vagues](https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n) | 3:04 | 2026-09-04 |  |
 | [Passer tout droit](https://open.spotify.com/track/1CWRRkzuWLfBOFC3rLq8oM) | [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Passer tout droit](https://open.spotify.com/album/0M9kDz1uJrsPCeRNQjSXfy) | 3:04 | 2025-10-17 | 2026-02-28 |
 | [Pattern](https://open.spotify.com/track/3sRCcwcIRRCaMwoRem3HrY) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Pattern](https://open.spotify.com/album/6M5rWtwuKQpwia92JNWBur) | 5:23 | 2026-01-23 | 2026-05-09 |
 | [Pensées sans calcul](https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Pensées sans calcul](https://open.spotify.com/album/7hcuk7kBvgFQ0Hsv6v8gvw) | 3:26 | 2026-04-10 | 2026-06-27 |

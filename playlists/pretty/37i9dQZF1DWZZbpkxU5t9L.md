@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: 新しい学校のリーダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,042 likes - 61 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,036 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

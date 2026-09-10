@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: INNDRIVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,769 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,638 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 11 | [Pressure](https://open.spotify.com/track/0RWYzt8kP2N12SxqbyIHPC) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk) | [Pressure](https://open.spotify.com/album/4AMiTH47x7mfHDK9kktZ5G) | 3:25 |
 | 12 | [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 |
 | 13 | [Lose My Mind \- Radio Edit](https://open.spotify.com/track/3Dtx9ZKgLm4VNscg4gzG2p) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Lose My Mind \(Radio Edit\)](https://open.spotify.com/album/6hIubPPddqcyTYvLHlo2xy) | 4:03 |
-| 14 | [Tinder](https://open.spotify.com/track/2aboHAiMyMJmzQqDa3f7bS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Tinder](https://open.spotify.com/album/3GBGbYbim3Ry4wd0Q4d5Ru) | 2:24 |
+| 14 | [Tinder](https://open.spotify.com/track/2aboHAiMyMJmzQqDa3f7bS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Tinder](https://open.spotify.com/album/3GBGbYbim3Ry4wd0Q4d5Ru) | 2:24 |
 | 15 | [LA CAPITAL](https://open.spotify.com/track/6x2xB49Oa6mjZMtdHZNhVv) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Soucream](https://open.spotify.com/artist/52aOUaCckb2h6cjxsIr6LT), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [LA CAPITAL](https://open.spotify.com/album/7iWOWjHf1tuSl0iMauB8PA) | 3:01 |
 | 16 | [Follow The Road](https://open.spotify.com/track/7rjJ2JrXVsqGGNyDlf952w) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Follow The Road](https://open.spotify.com/album/1fmixx2VvowVayf8KEtOQx) | 2:58 |
 | 17 | [Body Language](https://open.spotify.com/track/4RM1TC2bV98qTdQJBNNF62) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Body Language](https://open.spotify.com/album/3vn8sJ45Ux6KHrLpwf2215) | 2:20 |

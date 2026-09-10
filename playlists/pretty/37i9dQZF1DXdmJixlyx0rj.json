@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: CIFIKA)",
-  "num_followers": 38071,
+  "num_followers": 38074,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 169506,
       "name": "Going Dumb (with Stray Kids)",
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
+        "name": "silkysmooth 06",
+        "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 213852,
+      "name": "Tangerine Fade",
+      "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
         "name": "Dirty Work (Remixes)",
         "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 201454,
       "name": "Dirty Work - RayRay Remix",
       "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
-        "name": "silkysmooth 06",
-        "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 213852,
-      "name": "Tangerine Fade",
-      "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
-        "name": "INSA",
-        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        },
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "INSA",
-      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
         "name": "Love Eternally (feat. JUNNY)",
         "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 129677,
       "name": "TOMBOY (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
+        "name": "INSA",
+        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "INSA",
+      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
-        "name": "iScreaM Vol.10 : Next Level Remixes",
-        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Next Level - IMLAY Remix",
-      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
         "name": "K-POP ScreaM 3",
         "url": "https://open.spotify.com/album/5NK2QooMJIctUo0gUX4yfm"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 270400,
       "name": "poppop - Arkins Remix",
       "url": "https://open.spotify.com/track/6W5jkQxPErgbTLNcu6QEJb"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Next Level - IMLAY Remix",
+      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 144262,
       "name": "Ash",
       "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
         "name": "like JENNIE (Peggy Gou Remix)",
         "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
         "name": "My Bad (feat. SHAUN)",
         "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 209656,
       "name": "My Bad (feat. SHAUN)",
       "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": "2026-09-04 01:34:31",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-09-04 01:34:31",
       "album": {
+        "name": "\ubf55",
+        "url": "https://open.spotify.com/album/1mgIh54hHGhlRkyNsrVW5J"
+      },
+      "artists": [
+        {
+          "name": "250",
+          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "\ubc45\ubc84\uc2a4",
+      "url": "https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u"
+    },
+    {
+      "added_at": "2026-09-04 01:34:31",
+      "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 163500,
       "name": "MOONLIGHT - MOTi Remix",
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2026-09-04 01:34:31",
-      "album": {
-        "name": "\ubf55",
-        "url": "https://open.spotify.com/album/1mgIh54hHGhlRkyNsrVW5J"
-      },
-      "artists": [
-        {
-          "name": "250",
-          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "\ubc45\ubc84\uc2a4",
-      "url": "https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u"
     },
     {
       "added_at": "2026-09-04 01:34:31",

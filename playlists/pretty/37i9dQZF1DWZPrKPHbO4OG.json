@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39074,
+  "num_followers": 39086,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Pinnak",
+        "url": "https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "duration_ms": 390321,
+      "name": "Pinnak",
+      "url": "https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Zindagi Virat",
         "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
       },
@@ -847,38 +863,6 @@
       "duration_ms": 96052,
       "name": "Punyachi Maina",
       "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Mi Naadkhula",
-        "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
-      },
-      "artists": [
-        {
-          "name": "Prashant Nakti",
-          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
-        },
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        },
-        {
-          "name": "Sonali Sonawane",
-          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
-        },
-        {
-          "name": "Vishal Phale",
-          "url": "https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo"
-        },
-        {
-          "name": "Pratibha Joshi",
-          "url": "https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx"
-        }
-      ],
-      "duration_ms": 259894,
-      "name": "Mi Naadkhula",
-      "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
     }
   ],
   "unique_name": "Marathi Workout",

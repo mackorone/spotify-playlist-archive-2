@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: CClaire 馬愷伶
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,003 likes - 37 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,010 likes - 37 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

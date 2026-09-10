@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 243926,
+  "num_followers": 243950,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAABZRQvkj31lUg4yxQ0nSG5J",
+  "snapshot_id": "ap9QAAAAAADsEKsIyJexs9Z8mjp/oFVb",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Gran Homenaje A Lupe Tijerina y Sus Corridos",
+        "url": "https://open.spotify.com/album/2IX4l9pJYVaemVGaHmuyjt"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 172746,
-      "name": "Cosas del Ayer",
-      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
+      "duration_ms": 187293,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/4zzZCjX4DbqzMgXG6Y8j39"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gran Homenaje A Lupe Tijerina y Sus Corridos",
-        "url": "https://open.spotify.com/album/2IX4l9pJYVaemVGaHmuyjt"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 187293,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/4zzZCjX4DbqzMgXG6Y8j39"
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
       "added_at": null,

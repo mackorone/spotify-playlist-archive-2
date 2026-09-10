@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 | 13 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 |
 | 14 | [Justin Bieber's 'Changes' Proves the Enduring Allure of Child\-Turned\-Adult Pop Stars](https://open.spotify.com/episode/0hS3hJyORLwDXBygWFFb5U) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 25:12 |
 | 15 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 |
-| 16 | [BLACKPINK Talks "Kill This Love", Coachella & How They Formed](https://open.spotify.com/episode/1ykpXcPeRhmkqUVtc8mer5) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 29:00 |
+| 16 | [BLACKPINK Talks "Kill This Love", Coachella & How They Formed](https://open.spotify.com/episode/1ykpXcPeRhmkqUVtc8mer5) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 29:17 |
 | 17 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 |
-| 18 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 |
+| 18 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:45 |
 | 19 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 |
 | 20 | [Day6 Talks The Book of Us: Gravity, Becoming a Band & Playing Live Instrument](https://open.spotify.com/episode/7mWhbmtOjumyYYyhEEUuVH) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 50:33 |
 

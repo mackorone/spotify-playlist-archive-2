@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Ukulele Disney",
+        "url": "https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318946,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6cC6Ij8tNKIJakvUNEOl4f"
+    },
+    {
+      "album": {
         "name": "Beneath The Waves",
         "url": "https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 141920,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/0VhkfHlEUPXP7comqd943t"

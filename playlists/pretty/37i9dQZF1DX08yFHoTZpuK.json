@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 32542,
+  "num_followers": 32586,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-08-30 05:29:41",
       "album": {
+        "name": "ON-Netoh",
+        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
+      },
+      "artists": [
+        {
+          "name": "DJ Nobu",
+          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
+        }
+      ],
+      "duration_ms": 375875,
+      "name": "Wwww",
+      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
+    },
+    {
+      "added_at": "2026-08-30 05:29:41",
+      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
-    },
-    {
-      "added_at": "2026-08-30 05:29:41",
-      "album": {
-        "name": "ON-Netoh",
-        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
-      },
-      "artists": [
-        {
-          "name": "DJ Nobu",
-          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
-        }
-      ],
-      "duration_ms": 375875,
-      "name": "Wwww",
-      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
     },
     {
       "added_at": "2026-08-30 05:29:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 144 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 144 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 128 | [It's Not My Fault](https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [It's Not My Fault](https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU) | 4:22 |
 | 129 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 |
 | 130 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
-| 131 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
-| 132 | [dear death](https://open.spotify.com/track/7uvLrTprWHVo1uqIMoTCzf) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:52 |
+| 131 | [dear death](https://open.spotify.com/track/7uvLrTprWHVo1uqIMoTCzf) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:52 |
+| 132 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
 | 133 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:30 |
 | 134 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
 | 135 | [Rose Tinted Glass](https://open.spotify.com/track/0jn4mx9HMpXHVIFqrFLDA6) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Violets From Lily](https://open.spotify.com/album/0H3C62RxEl93hRjZVKyODU) | 2:19 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 143 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 144 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcbycgAAAABeamIaqiufiw6PUZ3xp1w3`
+Snapshot ID: `Acb4EgAAAAAuBT7uu8JFV/viUPnyZXbP`

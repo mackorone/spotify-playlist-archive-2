@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122778,
+  "num_followers": 122766,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVuzpSuDgaw3o+7YL58kpAFNLleOvb",
+  "snapshot_id": "AAAVvKXnOfZbMH9DV3f0hvl1lEzzGMTx",
   "tracks": [
+    {
+      "added_at": "2026-09-09 14:51:08",
+      "album": {
+        "name": "Interconnected",
+        "url": "https://open.spotify.com/album/0VViNSTKBZQBzMOeGXJK0x"
+      },
+      "artists": [
+        {
+          "name": "Simulcats",
+          "url": "https://open.spotify.com/artist/4eM1PMvj5NTpvtTfkQWRYr"
+        }
+      ],
+      "duration_ms": 221727,
+      "name": "Interconnected",
+      "url": "https://open.spotify.com/track/4SEvIt5BvRlfSSRUQWvXw7"
+    },
     {
       "added_at": "2026-09-08 16:02:52",
       "album": {

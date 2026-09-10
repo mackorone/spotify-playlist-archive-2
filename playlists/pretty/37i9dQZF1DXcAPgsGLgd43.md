@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,475 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,525 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 79 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
 | 80 | [Ta Sendo](https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Ta Sendo](https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8) | 3:23 |
 | 81 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
-| 82 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
-| 83 | [La Bamba](https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz) | [MESSINA.](https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV), [Rawling](https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J) | [La Bamba](https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U) | 3:17 |
-| 84 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
+| 82 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
+| 83 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
+| 84 | [La Bamba](https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz) | [MESSINA.](https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV), [Rawling](https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J) | [La Bamba](https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U) | 3:17 |
 | 85 | [AY PAPI](https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk) | [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW) | [AY PAPI](https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw) | 2:51 |
 | 86 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
 | 87 | [Vida](https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc) | [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Lina Torres](https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1) | [Vida](https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI) | 2:32 |

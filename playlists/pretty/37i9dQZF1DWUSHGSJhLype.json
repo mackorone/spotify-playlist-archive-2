@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762629,
+  "num_followers": 762676,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEytnP1E83fqx/b885sO4Fo8sO10",
+  "snapshot_id": "AAAAABVu9ua7HBBzMKHbm+1CpGGFYDYs",
   "tracks": [
     {
       "added_at": "2026-08-14 13:34:48",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Sign Of The Times",
+        "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
+      },
+      "artists": [
+        {
+          "name": "\u00cdkaro Mendes",
+          "url": "https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO"
+        }
+      ],
+      "duration_ms": 167737,
+      "name": "Sign Of The Times - Arrocha",
+      "url": "https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Medley Mu\u00eddo de Vaquejada - Desce do Cavalo / Balada do Vaqueiro / Monta Logo Vai / Calma / Senta No Fazendeiro / Deixa Ela Montar Na Minha Garupa / Botad\u00e3o Do GW",
         "url": "https://open.spotify.com/album/05yNuhZYZ4LhKyFJYFo5MY"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 362713,
       "name": "Medley Mu\u00eddo de Vaquejada - Desce do Cavalo / Balada do Vaqueiro / Monta Logo Vai / Calma / Senta No Fazendeiro / Deixa Ela Montar Na Minha Garupa / Botad\u00e3o Do GW",
       "url": "https://open.spotify.com/track/7pzD7EudQxP4EhT5UeQjc7"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Sign Of The Times",
-        "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
-      },
-      "artists": [
-        {
-          "name": "\u00cdkaro Mendes",
-          "url": "https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO"
-        }
-      ],
-      "duration_ms": 167737,
-      "name": "Sign Of The Times - Arrocha",
-      "url": "https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM"
     },
     {
       "added_at": "2026-08-14 13:34:48",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: My Hair is Bad
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,189 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,200 likes - 99 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ダイヤモンド](https://open.spotify.com/track/5rJPYbYFfXfj3lcA9ol8p3) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [cats](https://open.spotify.com/album/143f7cJ4Q5Wq5FzUtFLJW2) | 4:56 |
 | 2 | [GO](https://open.spotify.com/track/1jESDIMfh3MPC2A6SZvWSN) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界が変わる時](https://open.spotify.com/album/0y0zbIj2mPsAeRHzlNQEAe) | 3:49 |
-| 3 | [Track 2](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 0:00 |
+| 3 | [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 |
 | 4 | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/track/72DgxjgUvTmbcUTSihVh34) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Takeuchi](https://open.spotify.com/artist/1zUTozTKMKBXHjwxgvCaDm) | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/album/1JMP99YJUSYq7E0Er8eHan) | 4:08 |
 | 5 | [FOR OKINAWA \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/03PGemRNLrjn9Efmy2y6OY) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [FOR OKINAWA \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/4EcdHV5JYKnpOfuOZXso4j) | 3:54 |
 | 6 | [見知らぬ糸](https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [見知らぬ糸](https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35) | 4:11 |

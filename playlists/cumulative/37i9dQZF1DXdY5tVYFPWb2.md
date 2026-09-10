@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-979 songs - 2 day 16 hr 27 min
+980 songs - 2 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 | 2022-05-24 |  |
 | [September](https://open.spotify.com/track/4fLgIOfUJpw3FN9SIEWhDi) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [September](https://open.spotify.com/album/0QuK4pxgzTWe2Yi6Tk6hKS) | 4:25 | 2023-10-05 | 2023-12-14 |
 | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-22 | 2023-10-06 |
+| [She's Summer Blue](https://open.spotify.com/track/56xaiV7ly0DuzsElu0JCF7) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [She's Summer Blue](https://open.spotify.com/album/2K1esfh01ZDu15rRMsxhCP) | 4:43 | 2026-09-08 |  |
 | [Shinin' World, Ridin' Road](https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [サン・キスド・レディー](https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z) | 3:50 | 2022-07-05 | 2022-10-02 |
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-20 | 2023-07-26 |
 | [SHYNESS BOY](https://open.spotify.com/track/7KYzARBusZhyZ6jygZDmVr) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 3:16 | 2023-07-18 | 2023-09-06 |
@@ -764,7 +765,7 @@
 | [スーパー・ジェネレイション](https://open.spotify.com/track/7yizzYHoFDvCfAMmvqezUk) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [スーパー・ジェネレイション](https://open.spotify.com/album/3OpqupY7TONXTFevfEa4nZ) | 5:18 | 2024-04-02 | 2024-07-31 |
 | [ズラかれ](https://open.spotify.com/track/2ojNegUZsjmLDC4g4TG3tv) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [City Poop](https://open.spotify.com/album/7tOhv2taU7PYphcUWE5kuO) | 3:04 | 2022-05-24 | 2022-07-28 |
 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 | 2022-07-12 | 2022-07-20 |
-| [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 | 2025-08-19 |  |
+| [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 | 2025-08-19 | 2026-09-10 |
 | [タイム・トラベラー](https://open.spotify.com/track/5nDuWO51rojlQQFC8oUwwt) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [イリュージョン](https://open.spotify.com/album/2jCFAfhBQw262nqznoDUkL) | 5:42 | 2024-07-24 | 2024-09-18 |
 | [ターミナル](https://open.spotify.com/track/1FQzvs6ghpgubJjKdpzglH) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [ターミナル](https://open.spotify.com/album/7n4LWrlV65FkAX8rAqfhfn) | 3:59 | 2022-09-27 | 2022-09-29 |
 | [ダロウ](https://open.spotify.com/track/16B2RmB3Zrle55oDMIeAtG) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [CAN](https://open.spotify.com/album/6NCNTq6njeQ9mkk091oSx8) | 3:11 | 2023-06-27 | 2023-07-05 |

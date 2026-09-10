@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-174 songs - 10 hr 59 min
+176 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All of the Secrets](https://open.spotify.com/track/75I2z8EnpgGZE5aNz7ELhf) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [J.D\. Minor](https://open.spotify.com/artist/7vtyibQSoRMsbVnvOcjgiQ) | [All of the Secrets](https://open.spotify.com/album/7DvcV1EG6EegUMmJ2HjzhM) | 4:36 | 2026-08-27 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-10 | 2026-02-07 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-15 | 2026-05-16 |
+| [Alone](https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Alone](https://open.spotify.com/album/1Nwyo3MYDGSBcWNPShf41Y) | 8:09 | 2026-09-09 |  |
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2025-12-17 | 2026-02-07 |
 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 | 2025-10-04 |  |
 | [Amsterdam](https://open.spotify.com/track/2ydaOy71tSGZIgl3cj7ZAY) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Equivalent](https://open.spotify.com/album/2dlU18JmLb0Vnyny648nfY) | 3:31 | 2026-05-20 |  |
@@ -164,6 +165,7 @@
 | [The Way Home](https://open.spotify.com/track/7GBDijcXyrWjPQFCRXIFa4) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [The Way Home](https://open.spotify.com/album/6sRUbrTeWIcthehsanQUkl) | 2:44 | 2025-12-17 | 2026-02-07 |
 | [The Whisper and the Roar](https://open.spotify.com/track/4RbpLpIQcNdmXkVUnvZRT2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [The Whisper and the Roar](https://open.spotify.com/album/2pTxHsktIXrwv30aJ8pCGd) | 6:58 | 2025-11-06 | 2025-12-08 |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-17 | 2026-02-07 |
+| [This World](https://open.spotify.com/track/3jotFtJLdprcErSYOsDCbO) | [YAGA](https://open.spotify.com/artist/0WbfaOeQ4zullSOwUnVsac) | [This World](https://open.spotify.com/album/3lAJIdOrpMBJJc9VLNfrMP) | 4:13 | 2026-09-09 |  |
 | [Time](https://open.spotify.com/track/17x3IQEhf9Xshdh1CEP9B3) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/42WFK8KBG1Vvj25YvuTN93) | 4:13 | 2025-07-31 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-05-18 |  |
 | [TIME, A precious thing](https://open.spotify.com/track/29aBAdsMAxisxLOjDIGfE8) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [TIME, A precious thing](https://open.spotify.com/album/2CfhRG7iIcQGYLYBmTsT2X) | 3:50 | 2025-11-09 | 2025-12-08 |

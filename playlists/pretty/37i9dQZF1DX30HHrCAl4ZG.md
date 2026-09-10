@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,925 likes - 151 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,905 likes - 151 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 10 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 11 | [Sensational](https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Sensational](https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq) | 3:36 |
 | 12 | [Anywhere Girls](https://open.spotify.com/track/3H0l9xfSQ9L6URfh23jpZi) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Anywhere Girls](https://open.spotify.com/album/1vnnJdscQwakuigvaOvXax) | 1:49 |
-| 13 | [Leaving The Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
+| 13 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
 | 14 | [7563](https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [7563](https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL) | 4:03 |
 | 15 | [Rock N Roll Ruined My Life](https://open.spotify.com/track/0MQLLKlwIYl7WVkC2Uo6p2) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Rock N Roll Ruined My Life](https://open.spotify.com/album/0Vy6le45pDIbpialnx3Lr8) | 4:15 |
 | 16 | [Paranoia](https://open.spotify.com/track/2awPLeyEr18Z3wq7vzFxpM) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Paranoia / James](https://open.spotify.com/album/0Su7mSZHT1poyMsNEGsX2z) | 2:34 |

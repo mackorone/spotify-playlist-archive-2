@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Sofi készítette 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,547 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,546 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 54 | [Álomtérkép](https://open.spotify.com/track/2p2Ih3zF34D5SNar4vVieM) | [Anami](https://open.spotify.com/artist/2MlFLIKxPyzmUXFAEo1B5N) | [Álomtérkép](https://open.spotify.com/album/2Roq4ps0ivUiDlRSBlFAiT) | 3:04 |
 | 55 | [Talán szeretni kéne](https://open.spotify.com/track/1E4CrqIhoXZnp61gPxwPfc) | [Szécsi Viktória](https://open.spotify.com/artist/3Vru5puQVaVc3JGrNBqn9x) | [Talán szeretni kéne](https://open.spotify.com/album/6ioJL499iT8EHUZ0pySQg1) | 3:26 |
 
-Snapshot ID: `AAAAAOvpqP0omKREfy4AYfgwm8tTtNBf`
+Snapshot ID: `AAAAAPM6Byluz2GYGvntPWckvd+W1vNn`

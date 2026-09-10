@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 49 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 50 | [Tema Solísimo](https://open.spotify.com/track/4UGWzrBtHDDqyPGi2RjrLL) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 2:06 |
 | 51 | [Viernes, 3 AM](https://open.spotify.com/track/0pudcmeGkwDCCRrnkbIY7W) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa De Las Capitales](https://open.spotify.com/album/1UHipEAE5QRHaIM8giC8hs) | 4:06 |
-| 52 | [Caras en el Parque](https://open.spotify.com/track/2jsQJMnoFOYZiqwlyzYDp7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 3:49 |
+| 52 | [Sucio y Desprolijo](https://open.spotify.com/track/3dHo3940xcnvQaci88jAgg) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 4:33 |
 | 53 | [Libros Sapienciales](https://open.spotify.com/track/1NGNgjm3sgyr6zFxxnrvFK) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna) | 7:34 |
 | 54 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 | 55 | [Mañana campestre](https://open.spotify.com/track/1O15BhPK0r4giiiOSBPaZi) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/0xo8Hz2MCVk56MFnFFWbrV) | 2:50 |

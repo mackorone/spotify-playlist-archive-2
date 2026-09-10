@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-[selected.](https://open.spotify.com/user/selectedbase) - 2,029,084 likes - 142 songs - 7 hr 9 min
+[selected.](https://open.spotify.com/user/selectedbase) - 2,029,995 likes - 142 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 |
-| 2 | [I Choose You \(Night\)](https://open.spotify.com/track/0tolD1pEMxfhqDxizcnkIp) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [I Choose You](https://open.spotify.com/album/5bbf4bhFo54148D9sN6JNR) | 2:04 |
+| 2 | [wildfire](https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [wildfire](https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC) | 3:20 |
 | 3 | [We Run](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [We Run](https://open.spotify.com/album/5U0ILMp243WIMY4dTX9MPO) | 2:42 |
-| 4 | [animal](https://open.spotify.com/track/4BeeT5TUEjM0fIwYgW0BYd) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [moving on](https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ) | 3:07 |
-| 5 | [wildfire](https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [wildfire](https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC) | 3:20 |
+| 4 | [I Choose You \(Night\)](https://open.spotify.com/track/0tolD1pEMxfhqDxizcnkIp) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [I Choose You](https://open.spotify.com/album/5bbf4bhFo54148D9sN6JNR) | 2:04 |
+| 5 | [animal](https://open.spotify.com/track/4BeeT5TUEjM0fIwYgW0BYd) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [moving on](https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ) | 3:07 |
 | 6 | [Elephant](https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Elephant](https://open.spotify.com/album/3ieNe0PtLpl2bJXoJiPcNZ) | 2:11 |
 | 7 | [FIRE FLIES](https://open.spotify.com/track/4HMybIZRiXCIWqcnnPvTyq) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 3:37 |
 | 8 | [Feel It](https://open.spotify.com/track/0V7hWDWX9IOEhShRmQ6LjC) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Feel It](https://open.spotify.com/album/2yw7iZcEmbvTW7nhLPGVui) | 2:45 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 141 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 142 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/1qcxoSRrWRDxvOCHVit2of) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk) | [Far from Here \(The Remix Album\)](https://open.spotify.com/album/0wi2YmWEKfm2g0YuvCMcUH) | 3:17 |
 
-Snapshot ID: `AAARZZFQG+oqD+PN18dod9Eaux1PEV14`
+Snapshot ID: `AAARaDVwy29AHlGQgkmVrBz/cT0X+7Rf`

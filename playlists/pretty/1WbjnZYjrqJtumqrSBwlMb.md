@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,293 songs - 3 day 7 hr 49 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,294 songs - 3 day 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1301,5 +1301,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1291 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
 | 1292 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 |
 | 1293 | [Medieval](https://open.spotify.com/track/3Gxn4tsd5p3VMXXr3uJYlv) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 5:33 |
+| 1294 | ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/track/3q94ZjzdjVZJ038g52pWGh) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [Wildwood Sessions](https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC) | ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/album/5SrZzTkAYvXBYC9qQs2Wch) | 2:57 |
 
-Snapshot ID: `AAAKEXe8pnxD/3NFzWePLA0fFU4qQRyJ`
+Snapshot ID: `AAAKEnPGXtbbelmdcwPdccSXyk46GiZZ`

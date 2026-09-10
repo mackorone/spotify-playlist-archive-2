@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: 2 Chainz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,960 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,968 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 42 | [It Depends](https://open.spotify.com/track/1a83npO0n63NDRIIguMeAM) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [It Depends](https://open.spotify.com/album/7xtXqAAhKOBPZUYXu6wnz5) | 2:10 |
 | 43 | [11:59 in Chicago](https://open.spotify.com/track/6gos0Qv0ICZDIR5qkoqZef) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [He is Me](https://open.spotify.com/album/05VVsVaTV5NJYGviN8QQYD) | 1:57 |
 | 44 | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV) | 2:24 |
-| 45 | [Like It Is \- A COLOR SHOW](https://open.spotify.com/track/7z4OODYKbFZD4tiBnNeXib) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Fuego Base](https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Like It Is \- A COLOR SHOW](https://open.spotify.com/album/7hiWfia9c3SzwVe275MIuK) | 3:03 |
+| 45 | [Like It Is \- A COLORS SHOW](https://open.spotify.com/track/7z4OODYKbFZD4tiBnNeXib) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Fuego Base](https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Like It Is \- A COLORS SHOW](https://open.spotify.com/album/7hiWfia9c3SzwVe275MIuK) | 3:03 |
 | 46 | [Mainstay \(feat\. Luv Von\)](https://open.spotify.com/track/5163wKN9XUMjvuJRIhtfk2) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Luv Von](https://open.spotify.com/artist/3HG4MR1IbZe2UDEWtHuZI7) | [Mainstay \(feat\. Luv Von\)](https://open.spotify.com/album/5n2ZAehPkXFFjLczYt0kXu) | 4:35 |
 | 47 | [Fire on it](https://open.spotify.com/track/3sphM78BT6DVa0s0rQRjtW) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [GNipsey](https://open.spotify.com/artist/0IATaHTu9VwvgSVzMGhLvk) | [Fire on it](https://open.spotify.com/album/1cA434V0VJl5joUZ0zSYpp) | 2:24 |
 | 48 | [I Don't Wanna](https://open.spotify.com/track/6pkGSWjbgcf5xFn0CnlLdx) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [I Don't Wanna](https://open.spotify.com/album/2cOF6zlkbvynOTiELSP7gu) | 2:53 |

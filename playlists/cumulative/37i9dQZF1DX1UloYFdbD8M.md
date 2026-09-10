@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-546 songs - 1 day 9 hr 34 min
+547 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Choodathe Poyi](https://open.spotify.com/track/1U1bSyZqQ5Pm13ByqckeSX) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Choodathe Poyi](https://open.spotify.com/album/4ZB62nv4d18a0UNHfMkWMV) | 5:40 | 2024-02-15 | 2024-03-01 |
 | [Daughter of Nagas \- New Age Bhakti](https://open.spotify.com/track/5lT6j9rmgRSNu9uN3S2xMs) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Daughter of Nagas \(New Age Bhakti\)](https://open.spotify.com/album/2qSYeU3WMWHQkqo7hMINIM) | 2:06 | 2025-11-16 | 2026-02-10 |
 | [Death Roll](https://open.spotify.com/track/274S7RiK2Uism0CkXzFnSy) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Diggi Bumba](https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT) | 3:05 | 2026-01-15 | 2026-06-17 |
-| [Dhooram](https://open.spotify.com/track/4Gmm0gSQZsU9uQwUieQ3cf) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9), [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ) | [Dhooram](https://open.spotify.com/album/4VtPgQAJnyyLxSP2R0o1Ym) | 2:38 | 2025-12-18 |  |
+| [Dhooram](https://open.spotify.com/track/4Gmm0gSQZsU9uQwUieQ3cf) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9), [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ) | [Dhooram](https://open.spotify.com/album/4VtPgQAJnyyLxSP2R0o1Ym) | 2:38 | 2025-12-18 | 2026-09-10 |
 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 | 2025-01-21 |
 | [Dhwani](https://open.spotify.com/track/05qCw3TgWoH6jg4GlzxLp0) | [Midhun Suresh](https://open.spotify.com/artist/24nhDe8XrRTh7NuSjLDJLL), [Megha Salila](https://open.spotify.com/artist/7nTES2cUKX4jdUOXxSs1YZ), [Aadhi](https://open.spotify.com/artist/62LkuWN34h9wWrFQaAvO74) | [Dhwani](https://open.spotify.com/album/6WdSRbZrPptJCQfHmGyX2j) | 3:15 | 2025-10-23 | 2026-04-02 |
 | [Dil Tu Jaan Tu \- Malayalam Version](https://open.spotify.com/track/4ft1TctTGzf8WwMTSjGzJB) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Siju Thuravoor](https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI) | [Dil Tu Jaan Tu \(Malayalam Version\)](https://open.spotify.com/album/14hbKCRfwpOoRh0EtcnMIe) | 3:25 | 2025-02-13 | 2025-05-06 |
@@ -290,6 +290,7 @@
 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 | 2023-07-28 | 2024-07-16 |
 | [Marayathe](https://open.spotify.com/track/56OnxSPpM5Q3JUYlpwvUU6) | [Ashley Milred](https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA), [Jínzz](https://open.spotify.com/artist/1LQWsMPWWZEO8uVB0kSu1W), [Gloria x Arpith](https://open.spotify.com/artist/3Z5uJN079qFqcHWa7nVz74) | [Marayathe](https://open.spotify.com/album/2XZNm5zTJFSvWu2hZSNIPq) | 3:40 | 2025-11-16 | 2026-02-10 |
 | [Mask](https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mask](https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP) | 3:20 | 2024-08-30 | 2025-07-05 |
+| [Math Mutham](https://open.spotify.com/track/1l0w4A1t6ogRyghau5XMbh) | [Najran Kabeer](https://open.spotify.com/artist/0jvCibdhene4gjkWnfdort), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Math Mutham](https://open.spotify.com/album/3R5jgJKjvxfwtaXWf56nAo) | 3:51 | 2026-09-09 |  |
 | [Maut](https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG) | [Amal R Vp](https://open.spotify.com/artist/0MnFFZZSySNrGopyFPWad5), [Musicaholic](https://open.spotify.com/artist/248iJr8broW390N2E72Fyd) | [Maut](https://open.spotify.com/album/1lIxgM4kvISw0QhRhqXuvP) | 4:02 | 2025-06-16 | 2025-08-07 |
 | [Mayathe](https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [Mayathe](https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv) | 2:26 | 2024-07-16 | 2025-02-11 |
 | [Mayathe](https://open.spotify.com/track/61CKoHd3SA0JMm2DMqg72G) | [Shamil Zam](https://open.spotify.com/artist/7vVrMdSlEEdk2boWellWJV), [Adz](https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc), [IRFAN](https://open.spotify.com/artist/1FH0ZYX39KIwvIPgzLBFJP) | [Mayathe](https://open.spotify.com/album/1TG3y4oaT0MCY4TYu5jLSJ) | 3:50 | 2026-06-17 |  |

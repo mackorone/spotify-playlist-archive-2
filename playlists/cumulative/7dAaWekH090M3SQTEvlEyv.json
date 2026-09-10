@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 182857,
       "name": "\u3055\u308c\u3069\u7a7a\u8ee2",
       "url": "https://open.spotify.com/track/1VgOIDYl4gC4pPqESHNOVQ"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 187354,
       "name": "\u30c4\u30a1\u30a4\u30c8\u30ac\u30a4\u30b9\u30c8 (feat. \u661f\u5c18Infinity)",
       "url": "https://open.spotify.com/track/0WiLKnyXaIzolGzeKDi2O4"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 217965,
       "name": "\u30d2\u30c8\u30c0\u30de\u3068\u590f\u306e\u795e\u96a0\u3057 (feat. \u7434\u8449 \u831c\u30fb\u8475, \u53ef\u4e0d & \u6b4c\u611b\u30e6\u30ad)",
       "url": "https://open.spotify.com/track/6v0TuHN5LrHiSuE48hJEGv"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
@@ -2832,6 +2832,28 @@
       "duration_ms": 180000,
       "name": "\u30ef\u30f3\u30c0\u30fc",
       "url": "https://open.spotify.com/track/295kusLjoZwucB6oM2nKcS"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u5468\u56de\u3063\u3066\u671d",
+        "url": "https://open.spotify.com/album/42h7WswYUAyB2t9g37cFp7"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        },
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/34wHoLv6gBNnAJSjAzuLGA"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "\u4e00\u5468\u56de\u3063\u3066\u671d (feat. asa)",
+      "url": "https://open.spotify.com/track/1wqykSAzUzcvPEeDdLASjt"
     },
     {
       "album": {
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "\u5206\u304b\u3063\u3061\u3083\u3044\u306a\u3044\u306d - feat.\u82b1\u9688\u5343\u51ac",
       "url": "https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02"
@@ -3498,6 +3520,24 @@
       "duration_ms": 200408,
       "name": "\u6b4c\u59eb\u5931\u683c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2jTagQJVj27PYCCwuUoCUD"
+    },
+    {
+      "album": {
+        "name": "\u6d17\u8133",
+        "url": "https://open.spotify.com/album/66CtC6WwCqspUDDbir6Mna"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171384,
+      "name": "\u6d17\u8133",
+      "url": "https://open.spotify.com/track/6EoeFqo0doIQQPjerATRdi"
     },
     {
       "album": {

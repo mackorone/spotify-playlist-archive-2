@@ -3495,6 +3495,32 @@
     },
     {
       "album": {
+        "name": "LEGO Star Wars: The Mandalorian (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        },
+        {
+          "name": "Roberto Prado",
+          "url": "https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c"
+        },
+        {
+          "name": "Adam Dib",
+          "url": "https://open.spotify.com/artist/0ZVeelMvsBkCUI14FgJob6"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74066,
+      "name": "This Is the Slay",
+      "url": "https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
       },

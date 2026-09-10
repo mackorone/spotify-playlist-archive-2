@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-530 songs - 1 day 9 hr 7 min
+531 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 | 2020-08-31 | 2024-04-19 |
 | [God I'm Just Grateful](https://open.spotify.com/track/7qWUi8VnNzFJJHRQvrVYan) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Hailey Daleah](https://open.spotify.com/artist/5UuuKbuxva1Q4UsZfs4f00), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Moments 01](https://open.spotify.com/album/5xoRa7UebZt5fUz5IpCGWR) | 1:39 | 2026-07-29 |  |
 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 | 2020-08-31 | 2025-10-11 |
+| [God's Praises](https://open.spotify.com/track/7AE2dd62lYH9AZPk6QuhRJ) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [God's Praises](https://open.spotify.com/album/4upm26Mwfa0DtFmnMOumOX) | 2:37 | 2026-07-29 |  |
 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 | 2025-10-10 |  |
 | [Good Shepherd](https://open.spotify.com/track/5jz8HZcmQB0QlTJCRRY8dR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [The Good Shepherd](https://open.spotify.com/album/6FVV7Kk0Tjq5M0BknaBy7b) | 2:50 | 2026-07-29 |  |
 | [Good Shepherd \- Live](https://open.spotify.com/track/3Z5CGIlLTLf2TIitKp1Nu2) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Laean Angeles](https://open.spotify.com/artist/21XzSHFNLEHzOfdVETVMNU) | [Have You Heard? \(Live\)](https://open.spotify.com/album/2dwzPEmwFT9kqRz5gL5u49) | 5:27 | 2026-07-29 | 2026-09-05 |
@@ -478,7 +479,7 @@
 | [Waiting On The Weekends](https://open.spotify.com/track/1Ar5pOrp2x5LdZ1U0lqPFZ) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS), [THE ONE HE LOVED](https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9) | [Waiting On The Weekends](https://open.spotify.com/album/6fD2t84TN3EHrfhJhlgpos) | 3:19 | 2026-07-29 |  |
 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 | 2026-03-23 |  |
 | [WAKE UP!](https://open.spotify.com/track/3C8xDEZWRvQYTni5pav1pQ) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [WAKE UP!](https://open.spotify.com/album/0vsxn90cgFyTztDnCuhhg7) | 1:49 | 2026-03-23 | 2026-06-07 |
-| [walk into the light](https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude ellipsis](https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl) | 3:02 | 2025-12-12 |  |
+| [walk into the light](https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude ellipsis](https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl) | 3:02 | 2025-12-12 | 2026-09-10 |
 | [walk on the water](https://open.spotify.com/track/4v6tIulXBEZA1or86c7qX1) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [walk on the water](https://open.spotify.com/album/4RjBTui1b6WaAgxJAN4pV3) | 2:54 | 2026-07-29 |  |
 | [Walk With Me](https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Walk With Me](https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz) | 2:55 | 2026-03-23 |  |
 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 | 2026-07-29 |  |

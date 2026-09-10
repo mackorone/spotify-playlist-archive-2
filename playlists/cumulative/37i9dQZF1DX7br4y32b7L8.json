@@ -6347,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "Hallo Allemaal",
+        "url": "https://open.spotify.com/album/5iCU2GNjbN3WGDLICW2qTs"
+      },
+      "artists": [
+        {
+          "name": "Selma",
+          "url": "https://open.spotify.com/artist/2hp01mbCUVGCjVY2RVFAvQ"
+        },
+        {
+          "name": "Abu Hassan",
+          "url": "https://open.spotify.com/artist/2vORpcCcQ9OC2uiAFJuwPA"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105123,
+      "name": "Hallo Allemaal",
+      "url": "https://open.spotify.com/track/48zi45TFshBYVE2ZfKFM20"
+    },
+    {
+      "album": {
         "name": "Hans Kazan",
         "url": "https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV"
       },
@@ -14134,7 +14156,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"

@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-322 songs - 18 hr 34 min
+323 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2022-02-04 | 2022-07-29 |
 | [moneydontfixlonely](https://open.spotify.com/track/35osKSAsV8WsOb80tb3Eex) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR) | [moneydontfixlonely](https://open.spotify.com/album/2kzdkDvawndpP52GKbiLAd) | 3:26 | 2022-03-24 | 2022-04-19 |
 | [Move On](https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Move On](https://open.spotify.com/album/0gI0NIsHae9AQsu6Tmi4M4) | 2:58 | 2022-03-24 | 2022-04-18 |
-| [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 | 2022-03-24 |  |
+| [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 | 2022-03-24 | 2026-09-10 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2022-03-24 | 2024-04-19 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-12-07 |  |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/6awTbDHgM907tGecNQYPaV) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation](https://open.spotify.com/album/05XrdYLJKZgLnYUgWPyQ23) | 3:18 | 2022-03-24 | 2022-04-21 |
@@ -232,6 +232,7 @@
 | [Remind Me to Forget](https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Remind Me to Forget](https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq) | 3:37 | 2022-03-24 | 2026-06-27 |
 | [Respect \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/6pANgXP3h8LSEbYyWi7W7T) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Respect \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/3B73SxANAKIz24HHUbCFMk) | 2:37 | 2022-02-04 | 2022-07-29 |
 | [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 | 2022-03-24 | 2022-04-21 |
+| [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 | 2026-09-10 |  |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2022-03-24 |  |
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2022-03-24 | 2024-04-19 |
 | [Royals](https://open.spotify.com/track/3yvZ1VUso9Xi7EvIyLaj4o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/3Ywlsvgu3H6L3q9NHydNR3) | 3:10 | 2022-03-24 | 2022-04-21 |

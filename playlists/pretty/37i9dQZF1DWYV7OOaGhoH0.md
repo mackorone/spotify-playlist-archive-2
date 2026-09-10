@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from True Mountain Laurel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,095 likes - 130 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,953 likes - 130 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 9 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 10 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 11 | [Luckiest Man Alive](https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Luckiest Man Alive](https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA) | 3:44 |
-| 12 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:20 |
+| 12 | [Second Song](https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Second Song](https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU) | 11:15 |
 | 13 | [Tracking the Tropics](https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Tracking the Tropics](https://open.spotify.com/album/4LlZw9oTyPzf0B9znBLizF) | 4:01 |
 | 14 | [Heavy Tobacco](https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Heavy Tobacco](https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj) | 3:09 |
 | 15 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 |

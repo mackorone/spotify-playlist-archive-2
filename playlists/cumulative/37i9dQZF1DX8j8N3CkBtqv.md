@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Mali, Anurag Vashisht, Last Minute India and other exciting artists.
 
-1,578 songs - 3 day 14 hr 52 min
+1,579 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Baag Bageeche](https://open.spotify.com/track/391yVKTFVBqS1bqYQCrHPv) | [Aishwarya Bhandari](https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68) | [Baag Bageeche](https://open.spotify.com/album/68GIAZ1IV9pv3NKL9Z6uTI) | 2:49 | 2024-04-19 | 2024-05-24 |
 | [Baagh Aayore](https://open.spotify.com/track/0wRxv8Im3QgtlWRAhdNQEn) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Baagh Aayore](https://open.spotify.com/album/7vTgy0D3sbZVB56Im6yv3X) | 4:28 | 2023-12-15 | 2024-01-27 |
 | [Baalam](https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Baalam](https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2) | 4:20 | 2024-11-15 | 2024-12-21 |
+| [Baarish Aati Hai](https://open.spotify.com/track/6fg5sgvPXE7PLISehD5EoC) | [Suman Kashyap](https://open.spotify.com/artist/4owNXME4aABZ2szPPM9cYE), [Hridoy Chandan](https://open.spotify.com/artist/6HNXIb9Jq6wIdo7L4IUiW4) | [Baarish Aati Hai](https://open.spotify.com/album/563CRnck0tiSfYNCXokmH7) | 5:05 | 2026-09-04 |  |
 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 | 2023-06-16 | 2023-07-22 |
 | [Baarish Ki Boondein](https://open.spotify.com/track/4xMaPRbGHuX0pv2TbvAzlS) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Baarish Ki Boondein](https://open.spotify.com/album/6ecpU8eroiOsI8m1u7iDdG) | 4:41 | 2026-07-24 |  |
 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 | 2025-08-01 | 2025-11-14 |
@@ -1227,7 +1228,7 @@
 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 | 2025-08-08 | 2025-11-12 |
 | [Safar Khoobsurat](https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Safar Khoobsurat](https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV) | 2:56 | 2026-04-24 | 2026-07-11 |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-19 | 2023-07-15 |
-| [Sahab Salam](https://open.spotify.com/track/3XrYm1qqA6wi8C9nAob7Gp) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s) | [Sahab Salam](https://open.spotify.com/album/1SupgN2ZzzXW8BJlJrfqU6) | 2:29 | 2026-09-04 |  |
+| [Sahab Salam](https://open.spotify.com/track/3XrYm1qqA6wi8C9nAob7Gp) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s) | [Sahab Salam](https://open.spotify.com/album/1SupgN2ZzzXW8BJlJrfqU6) | 2:29 | 2026-09-04 | 2026-09-10 |
 | [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 | 2023-07-01 |
 | [Sahiba](https://open.spotify.com/track/0tYEiXI2xDfbGlmVkqgjgg) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Savera](https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8) | 3:56 | 2024-06-28 | 2024-08-03 |
 | [Sahiba](https://open.spotify.com/track/3OtCeLB2QjnhckmkdpTuUo) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Sahiba](https://open.spotify.com/album/7pkVDv913F7gePnIuGnY60) | 2:40 | 2026-05-08 | 2026-08-28 |

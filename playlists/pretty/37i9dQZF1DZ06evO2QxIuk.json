@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375946,
+  "num_followers": 375957,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAACzJenuAi+vaoF7KCAzSYLN",
+  "snapshot_id": "ap9QAAAAAACTh2G6nftSfXMiv4ouOTGt",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 288153,
-      "name": "In the Stone",
-      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+      "duration_ms": 208408,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 208408,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8"
+      "duration_ms": 288153,
+      "name": "In the Stone",
+      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations: The Universe of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 141293,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live in Rio",
         "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 129639,
       "name": "Brazilian Rhyme",
       "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constellations: The Universe of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 141293,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 395905,
+      "name": "All About Love (First Impression)",
+      "url": "https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 467733,
       "name": "Show Me the Way (feat. Raphael Saadiq)",
       "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 395905,
-      "name": "All About Love (First Impression)",
-      "url": "https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40176,
+  "num_followers": 40184,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAADtkEBrc+aU3czAsYp1lQJa",
+  "snapshot_id": "ap9QAAAAAACw5BOG8UES9ao0EpnNwHAm",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1"
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 188440,
-      "name": "El Rico Pobre",
-      "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
+      "duration_ms": 142160,
+      "name": "El Taxista Enamorado",
+      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 142160,
-      "name": "El Taxista Enamorado",
-      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
+        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 165880,
+      "duration_ms": 167821,
       "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
+      "url": "https://open.spotify.com/track/1iEb7lTcR3TzRAoYcZoIGT"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Lujo",
-        "url": "https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "La Cuerva De La Petaca",
-      "url": "https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 158760,
       "name": "Los Federales De Caminos",
       "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Lujo",
+        "url": "https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "La Cuerva De La Petaca",
+      "url": "https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Voy De Estas Tierras",
+        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Busca Otro Amor",
         "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 164826,
       "name": "Dos Seres Que Se Aman",
       "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "El Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Voy De Estas Tierras",
-        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 161080,
-      "name": "Dados Cargados",
-      "url": "https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE"
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/24nmbWdBcXeBJRFwTxWI25"
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Las Tres Tumbas",
-      "url": "https://open.spotify.com/track/0Um9nssMiSJAWDVThA8Cut"
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Primeros 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+        "name": "Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/24nmbWdBcXeBJRFwTxWI25"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Tengo a Mi Lupe",
-      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+      "duration_ms": 170333,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/0Um9nssMiSJAWDVThA8Cut"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-1,675 songs - 5 day 10 hr 43 min
+1,676 songs - 5 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Bop Slop](https://open.spotify.com/track/26kDipKsXo8yhMC0nNjTVn) | [The Regions](https://open.spotify.com/artist/5cOWn8fiDpnML0Riqv2gYp) | [Bop Slop](https://open.spotify.com/album/6oNUJe52EERlTMsrnHrDDV) | 3:35 | 2022-01-19 | 2022-03-17 |
 | [Boratka](https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c) | [Reflections of Purple Sun](https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z) | 6:55 | 2024-05-15 | 2024-08-22 |
 | [Bossfight](https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Bossfight](https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG) | 4:24 | 2022-04-20 | 2022-05-19 |
-| [Bosté](https://open.spotify.com/track/5qE37tGLNDz5eip472RywN) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Bosté](https://open.spotify.com/album/4hfod6huUPnat3S6kCxiKh) | 8:03 | 2026-01-14 |  |
+| [Bosté](https://open.spotify.com/track/5qE37tGLNDz5eip472RywN) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Bosté](https://open.spotify.com/album/4hfod6huUPnat3S6kCxiKh) | 8:03 | 2026-01-14 | 2026-09-10 |
 | [BoulderBall](https://open.spotify.com/track/42ssbjBZTl7HX1kPlzdTc9) | [Augustine Yates](https://open.spotify.com/artist/0XASFHdOnWjVkz9KT0qRxE) | [An Open Window](https://open.spotify.com/album/2SCVNXurzVyUafMxpNjwa4) | 4:01 | 2022-01-26 | 2022-03-17 |
 | [Boundaries](https://open.spotify.com/track/4iDRc7gJ4Uvhrn5r0sMHKy) | [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Boundaries](https://open.spotify.com/album/5UQ6npLAKutJFaJfp9CAIV) | 4:37 | 2025-03-26 | 2026-03-05 |
 | [Boundless](https://open.spotify.com/track/4TYvsmMtDslY3XsA8Pmg8X) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Boundless](https://open.spotify.com/album/6EkQYcejSys12xZnEcW4LX) | 4:22 | 2022-03-30 | 2022-04-27 |
@@ -213,6 +213,7 @@
 | [boyfriend](https://open.spotify.com/track/4rRWj00dK0kN9BZqI6wYY9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:54 | 2024-12-04 | 2025-01-16 |
 | [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-04-03 | 2024-06-19 |
 | [Brain Connection](https://open.spotify.com/track/1DOnEoHErSZ4gxbxjuskId) | [Quail Turret](https://open.spotify.com/artist/6JJpSbAbSQiUC2nt3YWef8) | [Quail Turret](https://open.spotify.com/album/5FTyv7OuFrIoWZF54MZwmA) | 6:20 | 2022-06-15 | 2022-07-14 |
+| [Break The Motion](https://open.spotify.com/track/4nOg9QgZeifAO1s3izKZ0f) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Break The Motion](https://open.spotify.com/album/1wyVhNjmIz5s3uWvQ2HhP6) | 2:31 | 2026-09-09 |  |
 | [Breakthrough](https://open.spotify.com/track/0uJu52vDlIrwwoYdD62TkU) | [Kyle Sparkman](https://open.spotify.com/artist/38HHAoD3GTvA78R8KmjMrW), [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8) | [Breakthrough](https://open.spotify.com/album/5jdKSLgezrX09Y0J0e4aBX) | 4:48 | 2022-08-10 | 2023-01-12 |
 | [Breathe Again](https://open.spotify.com/track/5Y8ELHqOFWADfUjJyFo28b) | [Alison Shearer](https://open.spotify.com/artist/6rLjrBdHkCKHAV1oZrZLN5), [Miranda Joan](https://open.spotify.com/artist/7AXlH9niNMWttTOT9WX3Xb), [Kevin Bernstein](https://open.spotify.com/artist/4Dtr1cX9TnXtZodKGkyZiJ), [Marty Kenney](https://open.spotify.com/artist/0KfSgDTQyq09bZC9RtPMyl), [Horace Phillips](https://open.spotify.com/artist/7kpF2EGw9xjaxMbLGAlr5z) | [Breathe Again](https://open.spotify.com/album/0RTPXZA9iLvuQl2XB8jHvB) | 5:13 | 2022-01-26 | 2022-03-10 |
 | [Breathing Wish](https://open.spotify.com/track/2lv5U8pIgC9JlnlzEiXDDZ) | [Outside World](https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Paul Cornish](https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk), [Roy McCurdy](https://open.spotify.com/artist/5jx7iddojZGfrIqTTDzkDO) | [Outside World 3](https://open.spotify.com/album/2oLh1HmqMMqeSX42cffHcS) | 8:16 | 2024-04-10 | 2024-05-09 |

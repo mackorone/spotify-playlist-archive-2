@@ -48925,6 +48925,24 @@
     },
     {
       "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/5rDCtSMDQWKNodyqz8H957"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rose Turner",
+          "url": "https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184631,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/4BFvqk9rN8wA90Jh3IO12w"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },

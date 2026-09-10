@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Luh Nae",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Young 05",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -10154,6 +10154,28 @@
       "duration_ms": 209047,
       "name": "Dead Faces",
       "url": "https://open.spotify.com/track/5Vl2l0khSWWAp3vVogikXj"
+    },
+    {
+      "album": {
+        "name": "MERCLAND",
+        "url": "https://open.spotify.com/album/00RTxF0VoeP1IIbJg5Qjmq"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138624,
+      "name": "DEAD FRIENDS",
+      "url": "https://open.spotify.com/track/69gc1bWsss5VqIISqDZCFI"
     },
     {
       "album": {
@@ -21244,7 +21266,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 167562,
       "name": "Jersey Swap (Bonus)",
       "url": "https://open.spotify.com/track/7bzDkIRFZ8UXkST5WKoPA9"
@@ -21822,7 +21844,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 132902,
       "name": "KARATE",
       "url": "https://open.spotify.com/track/1N1zsoVej5lYmET5yjYvJg"
@@ -22952,6 +22974,28 @@
       "duration_ms": 183952,
       "name": "Legendary Run",
       "url": "https://open.spotify.com/track/6XPKLttBarFY0JfpyILdrv"
+    },
+    {
+      "album": {
+        "name": "Legos",
+        "url": "https://open.spotify.com/album/6aJvfo9Dal8VhDwgjzeuZl"
+      },
+      "artists": [
+        {
+          "name": "Slappersonn",
+          "url": "https://open.spotify.com/artist/5NuzmvRDzxqOFxHTPDNbVB"
+        },
+        {
+          "name": "1600luhe",
+          "url": "https://open.spotify.com/artist/5unmYY1YoJfGcpD3cGQhvm"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108579,
+      "name": "Legos",
+      "url": "https://open.spotify.com/track/4HcU0VPnfCfy23WfTabVUq"
     },
     {
       "album": {
@@ -27096,7 +27140,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 174026,
       "name": "Moon and the Stars",
       "url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
@@ -28180,6 +28224,24 @@
       "duration_ms": 220887,
       "name": "My nigga bought a krib in hyde park!!!!",
       "url": "https://open.spotify.com/track/5vKgPUn9fmrdhrvdPD8Pir"
+    },
+    {
+      "album": {
+        "name": "MY OWN",
+        "url": "https://open.spotify.com/album/6CpEO7S3Q2QAbZlya76seQ"
+      },
+      "artists": [
+        {
+          "name": "Youngz 05",
+          "url": "https://open.spotify.com/artist/1Fmher1nuOYdpn4AdAx0IB"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "MY OWN",
+      "url": "https://open.spotify.com/track/5mZvwserYlJez015aXSw0d"
     },
     {
       "album": {
@@ -33944,7 +34006,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 332098,
       "name": "R2D2",
       "url": "https://open.spotify.com/track/5FeN6YfQu3uGyFdO4khnys"
@@ -36678,6 +36740,24 @@
       "duration_ms": 100094,
       "name": "SEXY FLEX",
       "url": "https://open.spotify.com/track/2IKDbaHnXtw2ZHVZz1a23q"
+    },
+    {
+      "album": {
+        "name": "Sey Mami",
+        "url": "https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr"
+      },
+      "artists": [
+        {
+          "name": "Cinco Suave",
+          "url": "https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108120,
+      "name": "Sey Mami",
+      "url": "https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA"
     },
     {
       "album": {
@@ -40320,7 +40400,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 90604,
       "name": "Talkin Bodiez",
       "url": "https://open.spotify.com/track/2gAB9x3Rudn06D4axBZZki"
@@ -43738,6 +43818,24 @@
       "duration_ms": 141222,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/6vQehAvj6jRrdxNRtJfM3b"
+    },
+    {
+      "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93187,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
     },
     {
       "album": {

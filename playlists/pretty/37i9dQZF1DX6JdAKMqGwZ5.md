@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Dianka, La Bien Querida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,528 likes - 119 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,510 likes - 119 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 115 | [Tongwen](https://open.spotify.com/track/3sUdbwQDeEduGNZN9cTmt9) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [Anto Serrano](https://open.spotify.com/artist/3ncxD3kphUoEc8TvmJHsdX) | [Tongwen](https://open.spotify.com/album/7lDJCdtcEsUNOFxE3350uC) | 3:18 |
 | 116 | [mi mestiza](https://open.spotify.com/track/1U2KhJDr2GfuQZuSR2MgzN) | [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT), [Uvi](https://open.spotify.com/artist/6aUdxr87X4vbUyKJKWY71g), [Maskerade](https://open.spotify.com/artist/7Cl3PkFUN6UWMsytV9yPnz) | [mi mestiza](https://open.spotify.com/album/3GiNljBECI1RDkAaJ9Oe5X) | 2:22 |
 | 117 | [Tengo todo lo que quiero](https://open.spotify.com/track/4fdMsA97sc2nuUvi3aUtRM) | [POLAZ](https://open.spotify.com/artist/6AxBpVEUx13QJrdgd0uGpM), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Tengo todo lo que quiero](https://open.spotify.com/album/2JLNqmD0qyzLQhZxVIB22j) | 1:49 |
-| 118 | [Fuerza Bruta](https://open.spotify.com/track/5AeWR4TU6tcj3Z8opiQ3dK) | [Morreo](https://open.spotify.com/artist/0gCbIqZ13bHLTHj6bGG6QM) | [Fuerza Bruta](https://open.spotify.com/album/6MxuIDqW5vNvqRt1JZef8f) | 4:00 |
+| 118 | [Fuerza Bruta](https://open.spotify.com/track/5AeWR4TU6tcj3Z8opiQ3dK) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [Fuerza Bruta](https://open.spotify.com/album/6MxuIDqW5vNvqRt1JZef8f) | 4:00 |
 | 119 | [Cuando el sol bese a la luna](https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Cuando el sol bese a la luna](https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf) | 2:23 |
 
 Snapshot ID: `AAAAAARNeWatAbDu1I8seG2QLFpTW+q4`

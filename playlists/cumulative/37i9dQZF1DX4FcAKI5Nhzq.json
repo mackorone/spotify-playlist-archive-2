@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "The Second Wave : MOMENTUM",
+        "url": "https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        },
+        {
+          "name": "SUNGCHAN of RIIZE",
+          "url": "https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "ALIVE (Feat. SUNGCHAN of RIIZE)",
+      "url": "https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI"
+    },
+    {
+      "album": {
         "name": "THE BOYZ Special Single [All About You]",
         "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
       },

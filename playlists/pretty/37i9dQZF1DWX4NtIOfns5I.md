@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,983 likes - 129 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,071 likes - 129 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 2 | [Unforgivable Things](https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Unforgivable Things](https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC) | 2:35 |
 | 3 | [True Feeling](https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [True Feeling](https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w) | 4:25 |
 | 4 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
-| 5 | [Leaving The Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
+| 5 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
 | 6 | [Hey Big Dipper](https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Hey Big Dipper](https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe) | 3:06 |
 | 7 | [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 |
 | 8 | [Horses](https://open.spotify.com/track/0caoPC7iysarcDNVfZuGps) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Horses](https://open.spotify.com/album/5zC0fGGh0ICrFRT1t1M0CM) | 4:45 |

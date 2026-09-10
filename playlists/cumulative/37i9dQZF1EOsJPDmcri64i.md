@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 6 hr 34 min
+20 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 | 2020-11-27 |  |
 | [See The Way](https://open.spotify.com/track/6VWz99969QmNc2gWo21ktl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 2:57 | 2020-11-27 |  |
 | [Steve Aoki](https://open.spotify.com/episode/69hN4xvtqXH7NmoQR02yvc) | [On with Mario Interviews](https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz) | [On with Mario Interviews](https://open.spotify.com/album/0yU4kEIGRodx3sgK99xnJz) | 28:17 | 2020-11-27 |  |
-| [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 | 2020-11-27 |  |
+| [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:45 | 2020-11-27 |  |
 | [The Chainsmokers I Full Interview](https://open.spotify.com/episode/47GmZm7FQP7Ej7p3i7a0NB) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 45:21 | 2020-11-27 |  |
 | [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:33 | 2020-11-27 | 2025-11-05 |
 | [The New BTS Album is Finally Here! Map Of The Soul: Persona Outsold](https://open.spotify.com/episode/6l68X8Yh89rardUmtodbCl) | [BTS AF](https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp) | [BTS AF](https://open.spotify.com/album/5qvChm9pa8rv5ne8Zh9Ewp) | 13:59 | 2020-11-27 |  |

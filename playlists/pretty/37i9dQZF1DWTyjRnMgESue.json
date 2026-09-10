@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90045,
+  "num_followers": 90066,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Hold My Love",
         "url": "https://open.spotify.com/album/5nHPiP5rhIa3VJhRKqguBR"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 204426,
       "name": "Hold My Love",
       "url": "https://open.spotify.com/track/6YkUGh3Tl6dNVYRz0rgyLo"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Bleeds",
-        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Unforgivable Things",
         "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 155017,
       "name": "Unforgivable Things",
       "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Back In My Body",
-        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 195265,
-      "name": "Back In My Body",
-      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Never Notice",
         "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Sad Country Songs",
-        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
+        "name": "Back In My Body",
+        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
       },
       "artists": [
         {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 184322,
-      "name": "Sad Country Songs",
-      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
+      "duration_ms": 195265,
+      "name": "Back In My Body",
+      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -867,6 +851,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Sad Country Songs",
+        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 184322,
+      "name": "Sad Country Songs",
+      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "For The First Time, Again",
-        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
+        "name": "Exit Strategy",
+        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
       },
       "artists": [
         {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
         }
       ],
-      "duration_ms": 213902,
-      "name": "For The First Time, Again",
-      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
+      "duration_ms": 261026,
+      "name": "Undo Me",
+      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -951,34 +951,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Exit Strategy",
-        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
       },
       "artists": [
         {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
         }
       ],
-      "duration_ms": 261026,
-      "name": "Undo Me",
-      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -995,6 +979,22 @@
       "duration_ms": 186549,
       "name": "Audrey Hepburn",
       "url": "https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Everyone Around Me Dancing",
-        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "Everyone Around Me Dancing",
-      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "If I Had Never Lost My Mind...",
         "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 190998,
       "name": "If I Had Never Lost My Mind...",
       "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Everyone Around Me Dancing",
+        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "One More Cowboy",
-        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "One More Cowboy",
-      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Beneath The Lilypad",
         "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
       },
       "artists": [
         {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1387,6 +1371,22 @@
       "duration_ms": 246210,
       "name": "Sad and Beautiful World",
       "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Green 2",
-        "url": "https://open.spotify.com/album/4ZRhLV4yNyTka6uNwnBj8B"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 165095,
-      "name": "\u00c1ine Greene",
-      "url": "https://open.spotify.com/track/2W0SL0UPSRkSS9BckSiqgq"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 167808,
       "name": "Somebody Nobody Gets Over",
       "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Green 2",
+        "url": "https://open.spotify.com/album/4ZRhLV4yNyTka6uNwnBj8B"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 165095,
+      "name": "\u00c1ine Greene",
+      "url": "https://open.spotify.com/track/2W0SL0UPSRkSS9BckSiqgq"
     },
     {
       "added_at": "2026-09-04 04:02:01",

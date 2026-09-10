@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Lo que no logr\u00e9 en la ciudad",
+        "url": "https://open.spotify.com/album/3hCo833asRW1t5CrgojkDj"
+      },
+      "artists": [
+        {
+          "name": "Pilar Gough",
+          "url": "https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr"
+        },
+        {
+          "name": "Manu Estrach",
+          "url": "https://open.spotify.com/artist/39DZii3g3RFWu2b64Wyn10"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Copla de los hermanos",
+      "url": "https://open.spotify.com/track/1Kiky8S7B4ZUBiNPy0DEvL"
+    },
+    {
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },

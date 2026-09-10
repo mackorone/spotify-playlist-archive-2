@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: OZworld \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,898 songs - 6 day 1 hr 2 min
+2,899 songs - 6 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2213,6 +2213,7 @@
 | [SVMMER](https://open.spotify.com/track/4tuxEqRenwZH6Nltnjn8R0) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [SVMMER](https://open.spotify.com/album/7iovoaxgWXjU4OVKF33swU) | 2:29 | 2024-07-30 | 2024-08-07 |
 | [SWAGBAE \(feat\. Kianna\)](https://open.spotify.com/track/3ZvygBgI6IWWB6A32xzTjM) | [Ludio](https://open.spotify.com/artist/41vIKiqDMTHk8ZFm442Vls), [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [JAPANESE EXCELLENCE](https://open.spotify.com/album/5EPlwVH6SCiugDS7Acg9Rr) | 2:16 | 2026-03-13 | 2026-04-03 |
 | [Swaggin](https://open.spotify.com/track/6rztW3ekphNulImXD2859o) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Swaggin](https://open.spotify.com/album/7iIVaGFx73hmWM8WTBFS9K) | 2:15 | 2026-05-07 | 2026-06-24 |
+| [Sweet & Mild](https://open.spotify.com/track/0Tu8MFcMZcgIjYlbnTQ89W) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [Pin](https://open.spotify.com/album/34RXaipcM35OuG7g60hHlW) | 2:21 | 2026-09-09 |  |
 | [Sweet Dream](https://open.spotify.com/track/5SO4GRQfqkL3zGAKAwWg3A) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Sweet Dream](https://open.spotify.com/album/7INXwB4jG3o45BhKuzg5dn) | 3:05 | 2024-08-28 | 2024-09-11 |
 | [Sweet Wine](https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Youth of Roots](https://open.spotify.com/artist/6Dvq7MDtnyy0Q2Xx8MH5gR) | [Sweet Wine](https://open.spotify.com/album/7f6xQvKgBsfnmXzixKDnvg) | 3:39 | 2023-09-21 | 2023-10-11 |
 | [Swimmin'](https://open.spotify.com/track/11QprZ2C9MAtMQZAHBCPMV) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Swimmin'](https://open.spotify.com/album/10NBe75ICa106uydOuNPfB) | 2:53 | 2025-01-07 | 2025-01-31 |
@@ -2264,7 +2265,7 @@
 | [The Corner \(feat\. lj\)](https://open.spotify.com/track/7BdDoA61XxqpiqnEvlaGvB) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [The Corner \(feat\. lj\)](https://open.spotify.com/album/3tQbZ5gU7A0MEANRgW0IDE) | 2:12 | 2026-07-08 | 2026-08-19 |
 | [The Enlightenment](https://open.spotify.com/track/3qG8WdoyCuHIBoIx1dflfH) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Enlightenment](https://open.spotify.com/album/2IHH1fN7RNnecN9qHYsS77) | 3:12 | 2026-05-28 | 2026-07-29 |
 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 | 2024-02-14 | 2024-03-21 |
-| [THE GAME](https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [THE GAME](https://open.spotify.com/album/4iq7ZtFodeZPDeumJADHl2) | 2:46 | 2026-06-09 |  |
+| [THE GAME](https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [THE GAME](https://open.spotify.com/album/4iq7ZtFodeZPDeumJADHl2) | 2:46 | 2026-06-09 | 2026-09-10 |
 | [THE GHOST](https://open.spotify.com/track/2RN66v2YcuI6sLmyb0uRRT) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [THE GHOST](https://open.spotify.com/album/2v29GNMmbaW19WPOAOhO9g) | 2:51 | 2026-06-23 | 2026-08-26 |
 | [The Grey Day](https://open.spotify.com/track/4sVY9y1XhILG2EsJZ9lOP8) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [The Grey Day](https://open.spotify.com/album/5jPUg2HF7R6F3AO1Nwtblg) | 3:12 | 2024-08-07 | 2024-08-28 |
 | [The Grower's Club Anthem](https://open.spotify.com/track/53JuXTNeS9Z6d9NWA2IfTG) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [The Grower's Club Anthem](https://open.spotify.com/album/5YCRnaqmGB3yF2ZO33ex50) | 3:23 | 2023-09-28 | 2023-10-25 |

@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Madame in cover
 
-699 songs - 1 day 11 hr 51 min
+700 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bad Boys Don't Cry \(feat\. VillaBanks\)](https://open.spotify.com/track/3W10BBMTwLBm5wgDdjxH6r) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Bad Boys Don't Cry \(feat\. VillaBanks\)](https://open.spotify.com/album/2S1TKzoo1brRiZMZoPLI2W) | 2:51 | 2025-07-17 | 2025-08-29 |
 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 | 2025-06-13 |
 | [Bam Bam](https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw) | [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy) | [Bam Bam](https://open.spotify.com/album/00tWjalfGuKzjfkIj9f1WE) | 3:00 | 2025-09-01 | 2025-10-10 |
-| [Bam Bam Bambina](https://open.spotify.com/track/0il2Hwwf6U8haOn1rMwUak) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Bam Bam Bambina](https://open.spotify.com/album/71Vl3fngzF0TtanIzdUBKz) | 2:54 | 2026-05-21 |  |
+| [Bam Bam Bambina](https://open.spotify.com/track/0il2Hwwf6U8haOn1rMwUak) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Bam Bam Bambina](https://open.spotify.com/album/71Vl3fngzF0TtanIzdUBKz) | 2:54 | 2026-05-21 | 2026-09-10 |
 | [BARRIO LAMBADA](https://open.spotify.com/track/6E9qTjj8kHiLKMu5yrsfFh) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [BARRIO LAMBADA](https://open.spotify.com/album/5iGQ5E9c2gQoleZzgBBIF6) | 2:41 | 2025-05-22 | 2025-10-03 |
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-12 | 2025-05-16 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-07-01 | 2024-11-29 |
@@ -119,6 +119,7 @@
 | [CAPOLAVORO](https://open.spotify.com/track/0UoPFBZ7t9uFCm9Psc3QCR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [CAPOLAVORO](https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM) | 3:18 | 2025-03-06 | 2025-03-21 |
 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 | 2025-01-10 |
 | [Casa In Fiamme](https://open.spotify.com/track/0XQvtQJR0I5fjDUGswzwZU) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Casa In Fiamme](https://open.spotify.com/album/5jgyApMVKqjoCQaOuQDd34) | 3:00 | 2025-12-18 | 2026-02-25 |
+| [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 | 2026-09-09 |  |
 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 | 2025-05-01 | 2025-09-12 |
 | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/track/7DE2ngDnQgLQM43PeKrAoG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/album/4lVmEfiWW67IleqyUBsYyQ) | 3:21 | 2026-05-14 |  |
 | [CCHIÙ BENE 'E ME \(feat\. Irama\)](https://open.spotify.com/track/6NfsDpez9CiGcvSonBdYWc) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 2:33 | 2025-04-24 | 2025-05-23 |

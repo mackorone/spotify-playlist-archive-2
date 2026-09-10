@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 絢香
 
-3,880 songs - 10 day 6 hr 44 min
+3,880 songs - 10 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1902,6 +1902,7 @@
 | [Tabeta Ai](https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 5:16 | 2023-03-30 | 2023-04-05 |
 | [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 | 2023-04-02 |
 | [Taboo](https://open.spotify.com/track/0p94JE2MJEOlhVaafyfIyf) | [HIKKA](https://open.spotify.com/artist/6ey4UYJdPAQGeJbkhm5hsv) | [Taboo](https://open.spotify.com/album/2TMR0E0xUNLMe9LBcvNnaj) | 3:31 | 2025-07-15 | 2025-07-23 |
+| [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 | 2026-09-08 |  |
 | [Tada Yaru Dakesa](https://open.spotify.com/track/6mrQrRAFkJOoKaxjWWohlG) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Tada Yaru Dakesa](https://open.spotify.com/album/3kntGSOYDO9ExlyKV5wkIJ) | 2:56 | 2024-03-26 | 2024-04-10 |
 | [Take me \(feat\. reina\)](https://open.spotify.com/track/5aVojuW8D1JmTCkKw2bDgZ) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Take me \(feat\. reina\)](https://open.spotify.com/album/0aLJtt0juBq8yGknOjkP1j) | 3:26 | 2024-04-09 | 2024-04-17 |
 | [Take My Chance](https://open.spotify.com/track/2GVX6HsiD6iuODag1DwpDy) | [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [tella](https://open.spotify.com/artist/5M5fYuVOhthE9itACmSFT4), [AOBA](https://open.spotify.com/artist/45fMjdlelpJvuhXpExanRO) | [Their story](https://open.spotify.com/album/3FqK17tq9ABeovAl5LmFw8) | 3:40 | 2022-11-29 | 2022-12-07 |
@@ -1998,7 +1999,6 @@
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 |  |
-| [Track 2](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 0:00 | 2026-09-08 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |
@@ -3532,7 +3532,7 @@
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 | 2023-12-01 |
 | [消えるまで](https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo) | 3:25 | 2023-10-10 | 2024-01-26 |
 | [涙くん、今日もおはようっ](https://open.spotify.com/track/3pUwKM67uYbqJY6EwJgTRu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [涙くん、今日もおはようっ](https://open.spotify.com/album/07BYtVaRKiY9twxagUl3lt) | 4:31 | 2023-10-17 | 2023-12-01 |
-| [涙のカラット \-Rumor Girl\- \(feat\. 財津マイ\)](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 3:03 | 2026-08-11 | 2026-08-26 |
+| [涙のカラット \-Rumor Girl\- \(feat\. 財津マイ\)](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 3:03 | 2026-08-11 |  |
 | [涙の国](https://open.spotify.com/track/3pI3svihigv3zIZpNhc5OD) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [涙の国](https://open.spotify.com/album/1hmZIuYyoOFnfUA253cx1N) | 3:54 | 2024-01-30 | 2024-02-01 |
 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 | 2025-05-21 | 2025-05-28 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-29 | 2022-06-01 |
@@ -3693,7 +3693,7 @@
 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 | 2023-01-31 | 2023-07-12 |
 | [腐れ縁](https://open.spotify.com/track/42UuJcWxy1uN18JqTBrHjH) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [\#ROOM19](https://open.spotify.com/album/1Hy6QspC6Mt1ho4h0Vs2yX) | 3:34 | 2026-01-14 | 2026-01-21 |
 | [自分の機嫌は自分でとる \(Remix\) \(feat\. あっこゴリラ & CLR\)](https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [あっこゴリラ](https://open.spotify.com/artist/7dwba4b8gRshz45YIE6wJl), [CLR](https://open.spotify.com/artist/7LSARN9w89Cr0AuIturBpH) | [自分の機嫌は自分でとる \(Remix\) \[feat\. あっこゴリラ & CLR\]](https://open.spotify.com/album/1ZrUtalwES4l16sPXXow0G) | 4:22 | 2023-05-09 | 2023-05-17 |
-| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 |  |
+| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 | 2026-09-10 |
 | [自販機の恋](https://open.spotify.com/track/2uyvkc1JKxKZwjG29sZuy9) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [自販機の恋](https://open.spotify.com/album/2QZ0tYoMz86pEtRIbq3zNB) | 4:31 | 2023-08-08 | 2023-08-10 |
 | [舟](https://open.spotify.com/track/1tlte6ejoIblaWzWUOw7aA) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [舟](https://open.spotify.com/album/2Tk1eZ18JkT3AnSz12RYSJ) | 5:50 | 2022-06-16 | 2022-07-22 |
 | [芒に月](https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H) | 6:18 | 2025-06-24 | 2025-10-01 |

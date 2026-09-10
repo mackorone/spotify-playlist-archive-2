@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,897 likes - 126 songs - 8 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,897 likes - 132 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 124 | [I Don't Seem to Find You](https://open.spotify.com/track/01s614lYV3fVj3koA3xRgO) | [The Graveyard Ensemble](https://open.spotify.com/artist/5vp7fsuWOa2FJGohZcw8Ak) | [I Don't Seem to Find You](https://open.spotify.com/album/7nlC1qotc4MFHDfR9HY5JE) | 3:41 |
 | 125 | [I Don't Seem to Find You](https://open.spotify.com/track/01s614lYV3fVj3koA3xRgO) | [The Graveyard Ensemble](https://open.spotify.com/artist/5vp7fsuWOa2FJGohZcw8Ak) | [I Don't Seem to Find You](https://open.spotify.com/album/7nlC1qotc4MFHDfR9HY5JE) | 3:41 |
 | 126 | [No Ordinary Day](https://open.spotify.com/track/27geQw8zbmU6Pg05iH7gVC) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [No Ordinary Day](https://open.spotify.com/album/5xdC1rdrByViisqOZnte4i) | 3:04 |
+| 127 | [Summer Day](https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL) | [Elephant Ears](https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u), [Rowan Hart](https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU) | [Summer Day](https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT) | 2:50 |
+| 128 | [Will](https://open.spotify.com/track/3Y7ek3umLkIb5hGcJLO9N4) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Will](https://open.spotify.com/album/2Q6BfCI53rsu63f6TRTHQ9) | 3:34 |
+| 129 | [1968 \(Revolution!\)](https://open.spotify.com/track/21Ots6rJlHoUidEw23tsLy) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [1968 \(Revolution!\)](https://open.spotify.com/album/64eYAjoS73rJKask7i9SrC) | 4:16 |
+| 130 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 |
+| 131 | [On My Mind](https://open.spotify.com/track/7I95mM1PLUrBxGfavggQKj) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [On My Mind](https://open.spotify.com/album/4HsKRVxrVL1a3BRpryNzg0) | 3:39 |
+| 132 | [Sweet November](https://open.spotify.com/track/1QglCGq2wHff9b9XyP9FPb) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Shot](https://open.spotify.com/album/554W9rIcQj8O2gkt2FReUi) | 4:58 |
 
-Snapshot ID: `AAAMeeD+BrbLcC+HScuVxIj/xb/Mmv2M`
+Snapshot ID: `AAAMfxWBh+9U9An9Nrb3iyHco1rt6FrO`

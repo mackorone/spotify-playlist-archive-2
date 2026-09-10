@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt?si=9176f0232659484c">ru.</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg?si=5c31513e7d804261">Kahuti</a>\. Artwork: Isu Kim.
 
-1,515 songs - 3 day 3 hr 54 min
+1,517 songs - 3 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Katti](https://open.spotify.com/track/5FQdjNZ6c0RBWiXmX41Xm6) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [MTiggidy](https://open.spotify.com/artist/6JVi1GKghI6HJLpQqPAbCx) | [Katti](https://open.spotify.com/album/7HhPXc9RLGpgPTqDax9pHU) | 3:56 | 2023-03-05 | 2023-03-10 |
 | [Keep It Low](https://open.spotify.com/track/3tzMF5fzYUCcQUy9vE5dpg) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Keep It Low](https://open.spotify.com/album/21XVocmA33vqb1JwoHGUWI) | 2:29 | 2024-11-06 | 2024-12-05 |
 | [keep the peace](https://open.spotify.com/track/20OLYZcXgWxdS1YgJ8NmLr) | [Sandrahhh](https://open.spotify.com/artist/6afcFgPYOGzPw1XLH6Heji) | [keep the peace](https://open.spotify.com/album/53hNXBU157GHjS6r0p3qhD) | 2:07 | 2023-03-29 | 2024-02-07 |
+| [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 | 2026-09-09 |  |
 | [KFC](https://open.spotify.com/track/61M9RoXyidEK9jf7sCusef) | [Amofastunner](https://open.spotify.com/artist/52Uhyu8i7ZQGcitmnpjlTY) | [THEY WILL ASK](https://open.spotify.com/album/3qxD2Ci2P0uUJXYj1Tcaot) | 2:12 | 2024-10-04 | 2024-11-07 |
 | [Khali Defence Force \(KDF\)](https://open.spotify.com/track/5ksPQIerGiCmPkD6YASMKC) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Khali Defence Force \(KDF\)](https://open.spotify.com/album/3lUMG0wogxwb0n7lQnkMtG) | 1:34 | 2023-10-25 | 2023-11-30 |
 | [Kilode \(In Particular\)](https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E), [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Kilode \(In Particular\)](https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ) | 3:29 | 2023-03-29 | 2023-06-06 |
@@ -714,7 +715,7 @@
 | [Last Time](https://open.spotify.com/track/6UFpJ7EbqoIXS44f9oK11A) | [Y4ZI](https://open.spotify.com/artist/52PFt8fBrkL3NwOQMxwfkV), [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [TAKE 4](https://open.spotify.com/album/5pDRmm0QDobtTWk5F1eiwA) | 2:50 | 2024-05-01 | 2024-06-05 |
 | [Latansa](https://open.spotify.com/track/3gwl7yvUPSEMjfsECI4vAx) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Latansa](https://open.spotify.com/album/0yiwF8hPRZ5EWqOJTkzHgB) | 1:53 | 2025-10-06 | 2026-01-15 |
 | [Late Night On Lokko Street](https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Roadman and Folks](https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ) | 4:00 | 2024-02-06 | 2024-03-06 |
-| [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 | 2026-04-01 |  |
+| [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 | 2026-04-01 | 2026-09-10 |
 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 | 2023-10-25 | 2023-11-30 |
 | [Lego](https://open.spotify.com/track/0gW1onAnSs7pf9LHIhlGNp) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Lego](https://open.spotify.com/album/5j4HNbEloTq9YOB4hzuOpg) | 2:14 | 2024-11-06 | 2025-01-24 |
 | [Leo Ni Wewe](https://open.spotify.com/track/38vrGGsODeqxUJzGJEMaKT) | [Watu Fresh](https://open.spotify.com/artist/1FVqRdx4Cw6mShamk4iXh2) | [Leo Ni Wewe](https://open.spotify.com/album/15z81Cur7wvdrdzTe7hHzO) | 2:54 | 2023-01-25 | 2023-02-23 |
@@ -798,7 +799,7 @@
 | [Lé Lé](https://open.spotify.com/track/2oWYiAcV06N9oTqIBZ62HO) | [Okiemute](https://open.spotify.com/artist/7LKcRlD8xBRre9lzAuzKnL) | [Lé Lé](https://open.spotify.com/album/7GCjTHj1ilkmnJfst60N7e) | 2:42 | 2024-11-06 | 2024-12-05 |
 | [Ma jolie](https://open.spotify.com/track/3Vcq4ea5Q2aGEtgMhbCc5x) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY) | [Ma jolie](https://open.spotify.com/album/79p1bCrAr8ONsd2Y1p2kRV) | 2:24 | 2023-09-27 | 2023-10-26 |
 | [MA PAMI](https://open.spotify.com/track/2xAwLxGIT2mBMJgkXiuTGA) | [Dino Zee](https://open.spotify.com/artist/5eb8QAL34XTzlGYrafYKXe) | [MA PAMI](https://open.spotify.com/album/09qugEaXZXmD80P2Uuflg8) | 2:04 | 2023-02-22 | 2023-03-30 |
-| [Mabulala Amakhosi](https://open.spotify.com/track/2701MbRD0Qmto5ZVY08Df8) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 2:48 | 2026-04-01 |  |
+| [Mabulala Amakhosi](https://open.spotify.com/track/2701MbRD0Qmto5ZVY08Df8) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 2:48 | 2026-04-01 | 2026-09-10 |
 | [Magical \(Morimiwu\)](https://open.spotify.com/track/5ncTgoyzNX3L5xKI9h4F0y) | [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Magical / Plenty](https://open.spotify.com/album/75rFtRcXLBeX6RId3ixiFb) | 2:38 | 2023-02-22 | 2023-03-30 |
 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 | 2023-09-27 | 2023-10-26 |
 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 | 2024-11-06 | 2024-12-05 |
@@ -808,6 +809,7 @@
 | [Make Sense](https://open.spotify.com/track/3GxSWEKvqclRzYbbwjOccz) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [Make Sense](https://open.spotify.com/album/3C5J0IIauNn5vJjpvewkWq) | 3:04 | 2025-12-03 | 2026-01-15 |
 | [Makoma](https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Makoma](https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm) | 3:16 | 2023-03-05 | 2023-03-10 |
 | [Mal](https://open.spotify.com/track/0RyNPRr28VHy5GYB19kFEU) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 2:37 | 2024-07-03 | 2024-08-08 |
+| [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 | 2026-09-09 |  |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-09-02 | 2022-10-01 |
 | [Malibu](https://open.spotify.com/track/2FcbCjgVYR26a9Vm7siZaW) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Malibu](https://open.spotify.com/album/2Y2uUeq16FvGvIlijx1nhs) | 2:46 | 2022-09-02 | 2022-10-01 |
 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 | 2025-07-02 | 2026-04-02 |

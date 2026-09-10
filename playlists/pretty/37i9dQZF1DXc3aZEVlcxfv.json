@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21933,
+  "num_followers": 21940,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/4MUFtHDXygq00ub4IoZRYr"
     },
     {
-      "added_at": "2024-09-30 14:25:52",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
-    },
-    {
       "added_at": "2025-12-12 00:01:22",
       "album": {
         "name": "Good God",
@@ -183,6 +167,22 @@
       "duration_ms": 889180,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
+      "added_at": "2024-09-30 14:25:52",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
       "added_at": "2026-08-07 00:01:10",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2025-11-14 00:01:37",
       "album": {
         "name": "Anchor of My Strength",
@@ -363,6 +347,22 @@
       "duration_ms": 190293,
       "name": "Anchor of My Strength",
       "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -965,6 +965,22 @@
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
+    },
+    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "Ina Son Ka",
@@ -981,20 +997,28 @@
       "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
+      "added_at": "2026-08-28 00:01:38",
       "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
       },
       "artists": [
         {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
         }
       ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -1031,30 +1055,6 @@
       "duration_ms": 173676,
       "name": "I Dey Grateful",
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
-    },
-    {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "FAVOUR",
-        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mylez",
-          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "FAVOUR",
-      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1097,24 +1097,20 @@
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
-      "added_at": "2026-02-20 00:01:25",
+      "added_at": "2026-08-28 00:01:38",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
       },
       "artists": [
         {
-          "name": "Yinka Okeleye",
-          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
-        },
-        {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 381970,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1137,20 +1133,24 @@
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
+      "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "how can it be?",
-        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        },
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
         }
       ],
-      "duration_ms": 229120,
-      "name": "how can it be?",
-      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
+      "duration_ms": 381970,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
       "added_at": "2026-08-14 00:01:28",
@@ -1289,6 +1289,42 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
+      "added_at": "2026-03-06 00:01:07",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Serviteur Pierre",
+          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
+      },
+      "artists": [
+        {
+          "name": "Hope Philipz",
+          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
+    },
+    {
       "added_at": "2026-07-24 00:01:56",
       "album": {
         "name": "Blinded By Your Grace",
@@ -1313,94 +1349,6 @@
       "url": "https://open.spotify.com/track/1MkyF53qBdEbueA5Yae1pi"
     },
     {
-      "added_at": "2026-03-06 00:01:07",
-      "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Serviteur Pierre",
-          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
-    },
-    {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "Yeshua (The Summary Of My Life)",
-        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 204036,
-      "name": "Impossibility Shatterer",
-      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
-    },
-    {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/29P8UW5L87YJXyI6rKbtQZ"
-      },
-      "artists": [
-        {
-          "name": "Hope Philipz",
-          "url": "https://open.spotify.com/artist/3qf1dpTwBxGfk43Rp2lhNV"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/7JkJ68w1TOwKOfV5wnlpse"
-    },
-    {
-      "added_at": "2026-04-24 00:01:08",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "AGABA",
-        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
-      },
-      "artists": [
-        {
-          "name": "Blessing Lopez",
-          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
-        }
-      ],
-      "duration_ms": 163215,
-      "name": "AGABA",
-      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
-    },
-    {
       "added_at": "2026-09-04 00:01:03",
       "album": {
         "name": "In Jesus Name",
@@ -1423,6 +1371,58 @@
       "duration_ms": 421333,
       "name": "In Jesus Name",
       "url": "https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr"
+    },
+    {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 204036,
+      "name": "Impossibility Shatterer",
+      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "AGABA",
+        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
+      },
+      "artists": [
+        {
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
+        }
+      ],
+      "duration_ms": 163215,
+      "name": "AGABA",
+      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
+    },
+    {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1529,28 +1529,20 @@
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
+      "added_at": "2026-03-06 00:01:07",
       "album": {
-        "name": "All Over Me",
-        "url": "https://open.spotify.com/album/7jMOJrMAvlIcTSsiSimmTJ"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
       },
       "artists": [
         {
-          "name": "Precious Marc",
-          "url": "https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB"
-        },
-        {
-          "name": "Skerz beatz",
-          "url": "https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a"
-        },
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 176741,
-      "name": "All Over Me",
-      "url": "https://open.spotify.com/track/4iVGBdNJHUBcQZKHkKhMTN"
+      "duration_ms": 248054,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     }
   ],
   "unique_name": "Blessed",

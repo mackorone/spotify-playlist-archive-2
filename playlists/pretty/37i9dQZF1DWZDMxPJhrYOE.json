@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105616,
+  "num_followers": 105624,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 156856,
-      "name": "EMERALD EYES",
-      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "RESCUER",
-        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "RESCUER",
-      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "My Reckless Abandon",
         "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 197032,
       "name": "i deserve better.",
       "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Someday, Somewhere",
-        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 151609,
-      "name": "Someday, Somewhere",
-      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Pay That Toll",
         "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 167553,
       "name": "Pay That Toll",
       "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Someday, Somewhere",
+        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 151609,
+      "name": "Someday, Somewhere",
+      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+      "duration_ms": 181926,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Switchblade",
-        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Switchblade",
-      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 177561,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 177561,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 178695,
       "name": "Hvis v\u00e6ggene kunne tale",
       "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -955,18 +971,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 210400,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -983,26 +1003,6 @@
       "duration_ms": 175562,
       "name": "KBH",
       "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Jordsk\u00e6lv",
-        "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
-      },
-      "artists": [
-        {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "Jordsk\u00e6lv",
-      "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Can\u2019t Take My Eyes Off You",
-        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 150442,
-      "name": "Can\u2019t Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Du er min bror!",
         "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
       },
@@ -1211,6 +1179,38 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
+        "name": "Jordsk\u00e6lv",
+        "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "Jordsk\u00e6lv",
+      "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Can\u2019t Take My Eyes Off You",
+        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 150442,
+      "name": "Can\u2019t Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
         "name": "Siden Sidst (feat. Thor Farlov)",
         "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "V\u00c6RD AT ELSKE",
-        "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 144530,
-      "name": "FARLIGT",
-      "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "S\u00e6t Det Fri",
         "url": "https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 164533,
       "name": "S\u00e6t Det Fri",
       "url": "https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 144530,
+      "name": "FARLIGT",
+      "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Kanten",
-        "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Kanten",
-      "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
         "name": "Circadian Rhythm",
         "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
       },
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Saw You Dancing (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
+        "name": "Kanten",
+        "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
       },
       "artists": [
         {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
         }
       ],
-      "duration_ms": 203549,
-      "name": "Saw You Dancing (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6m22lzMOpPaYDvksxbGyxB"
+      "duration_ms": 152560,
+      "name": "Kanten",
+      "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
     },
     {
       "added_at": "2026-09-03 23:00:25",
@@ -1383,6 +1363,26 @@
       "duration_ms": 201285,
       "name": "Kender du det?",
       "url": "https://open.spotify.com/track/2GKQMFRuoxMbwhTfASwzXa"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Saw You Dancing (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "Saw You Dancing (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/6m22lzMOpPaYDvksxbGyxB"
     },
     {
       "added_at": "2026-09-03 23:00:25",

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Any Man",
+      "url": "https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i"
+    },
+    {
+      "album": {
         "name": "It's Your Bed Babe, It's Your Funeral",
         "url": "https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH"
       },
@@ -1929,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Off Campus: The Mixtape",
+        "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
+      },
+      "artists": [
+        {
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Girl That I Am",
+      "url": "https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE"
+    },
+    {
+      "album": {
         "name": "amy allen",
         "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
       },
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"

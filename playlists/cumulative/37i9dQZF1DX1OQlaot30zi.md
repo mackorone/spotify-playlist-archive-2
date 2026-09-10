@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di DrefGold, Rasty Kilo, Quest, Disme e molti altri.
 
-7,703 songs - 14 day 3 hr 14 min
+7,704 songs - 14 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1361,6 +1361,7 @@
 | [CASH](https://open.spotify.com/track/7MFHZPxsULoQvCH0UqUnG4) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX) | [CASH](https://open.spotify.com/album/5B02d8FwA8OtjshYLK9QRj) | 2:40 | 2022-06-16 | 2022-07-01 |
 | [CASH CASH](https://open.spotify.com/track/21iXOm6YK4IIO7uHKfsmyf) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [CASH CASH](https://open.spotify.com/album/7rrtU4gQmMLHzzlMZzcH6E) | 2:33 | 2023-10-05 | 2023-10-13 |
 | [cashmere](https://open.spotify.com/track/3SkQ7tx7VhXiSihxfjYWi2) | [mape](https://open.spotify.com/artist/6zh16ivBQ6TZyBGjq9Hc93) | [cashmere](https://open.spotify.com/album/6znGiC7zUqc1hdRAP6aHpU) | 2:32 | 2024-03-07 | 2024-03-15 |
+| [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 | 2026-09-09 |  |
 | [Casino](https://open.spotify.com/track/1L8vTvcSJT0DOS0kpwB7mO) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH), [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae), [Kidhakku](https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU) | [Casino](https://open.spotify.com/album/1tp24JzWcW3DU7nO0tKW42) | 2:48 | 2024-06-06 | 2024-06-14 |
 | [Caso Irrisolto](https://open.spotify.com/track/5xV06pcSXQ3oskIs0i5IJe) | [Brattini](https://open.spotify.com/artist/4tEu3hyGERLiY04uipLAm5), [GENTLE T](https://open.spotify.com/artist/2xlpLMpxPwAhjidh03QPw1) | [Centenari](https://open.spotify.com/album/3F84qpLa8DABMVLxhiRhzK) | 1:57 | 2025-05-08 | 2025-05-30 |
 | [Casolari](https://open.spotify.com/track/0APY7pNwm7chbitX9LDY3P) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Casolari](https://open.spotify.com/album/61d8ManDotkLqjy4caAOOM) | 2:37 | 2024-11-28 | 2024-12-13 |

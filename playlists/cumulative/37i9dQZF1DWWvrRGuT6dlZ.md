@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Mona Shirakawa\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: owellciao\. Artwork: Isu Kim.
 
-1,517 songs - 3 day 11 hr 12 min
+1,520 songs - 3 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Only Friends](https://open.spotify.com/track/0N8xr3fFwSSClWuoNifoYn) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Only Friends](https://open.spotify.com/album/3MGxYib9VgMATad2oTXSky) | 4:29 | 2023-05-26 | 2023-11-24 |
 | [Only Lover](https://open.spotify.com/track/12hueiL6lpOWp1HlnZ8tGO) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Only Lover](https://open.spotify.com/album/74t2G0n8dX98XzCY3TuFvc) | 2:58 | 2022-01-27 | 2022-06-17 |
 | [only us \(we can forget\)](https://open.spotify.com/track/1wlJxfj5fISRFgdi2UH5vs) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [only us \(we can forget\)](https://open.spotify.com/album/5bvoXK4BfuiW36EUlSbgbu) | 3:15 | 2023-07-21 | 2024-02-16 |
+| [Only Wanna Be With You](https://open.spotify.com/track/4yd8IQLseDVvaHbkEODxRC) | [RYAN ANDERS](https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478) | [Only Wanna Be With You](https://open.spotify.com/album/4vNlL29IUSp9g4dsr3AIVX) | 4:00 | 2026-09-09 |  |
 | [opposites attract](https://open.spotify.com/track/2dQWLl5O1mZjFQmFTdGOmk) | [IDC TAO](https://open.spotify.com/artist/3UCj4x5kTGhJ2jUxhPwe4E), [Brandon Gregory](https://open.spotify.com/artist/5DO43j7yzsl4Fvk1L1ZVas) | [opposites attract](https://open.spotify.com/album/1E5AQ9d72tUFY7taBIFSuY) | 3:27 | 2025-10-30 | 2026-03-14 |
 | [Ordinary Guy](https://open.spotify.com/track/5nkY579qWS3WxPr1dbu3Hh) | [Tasneem Bolhassan](https://open.spotify.com/artist/19f5yf8YgG07oyEKNjuauc) | [Ordinary Guy](https://open.spotify.com/album/7ti9szwek9LxRCucMU5Qr0) | 3:07 | 2023-08-17 | 2024-02-16 |
 | [Ordinary Human](https://open.spotify.com/track/3FXJY8z4NYj22nWPihIOC7) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Ordinary Human](https://open.spotify.com/album/3NT0XvJoJQz5xd8KkX4J0D) | 5:10 | 2025-02-21 | 2025-05-17 |
@@ -985,6 +986,7 @@
 | [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 | 2022-07-28 | 2022-12-06 |
 | [Puteri](https://open.spotify.com/track/4ERb1Am7SqKvITDFLXPPAB) | [Yunadia](https://open.spotify.com/artist/16W8EJ3641hpt13g7HFZjG) | [Puteri](https://open.spotify.com/album/5I4scUpitznz6skUf3xxTe) | 4:06 | 2025-10-16 | 2025-12-04 |
 | [Putus Asa](https://open.spotify.com/track/0meM92aaDDZjAOtc4Iq9TU) | [BEL](https://open.spotify.com/artist/6ZIgt7yQuYVxpBpTdHxOQn), [Izhar](https://open.spotify.com/artist/13dV4eYt0nWAkDKozJdJWE) | [True Blue](https://open.spotify.com/album/1UNy53eNNShrX0diNKyYbz) | 3:34 | 2025-09-26 | 2025-11-14 |
+| [puzzle piece](https://open.spotify.com/track/020qZ5kynvUuY9kLLVjaMn) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [puzzle piece](https://open.spotify.com/album/7aCb0byYcIO3oy0ijZ9Y4m) | 2:18 | 2026-09-09 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-03-21 | 2024-05-10 |
 | [Rabbit Hole](https://open.spotify.com/track/4vw9GmZcaoJ7aqM8mz9g9d) | [Candida\|\|:X](https://open.spotify.com/artist/3dhw3t8QR0eTShRrB1FDaM) | [Rabbit Hole](https://open.spotify.com/album/1JesFXGxLuzH8jk3pZzDY3) | 3:17 | 2024-02-25 | 2024-11-22 |
 | [RADAR](https://open.spotify.com/track/0hxNOnPCbJzKmohmpDGa2K) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [RADAR](https://open.spotify.com/album/4WhSgbkRVqiOyMH9Qkf1kD) | 2:40 | 2025-03-13 | 2025-04-26 |
@@ -1413,6 +1415,7 @@
 | [won't you](https://open.spotify.com/track/1kXS1Q4nfDEtd7tsMtH3N9) | [Lowkeii](https://open.spotify.com/artist/588Ho9n5DcHnpVdNDvQhah), [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG) | [won't you](https://open.spotify.com/album/2B8ZU8zD2RX6BRLz4t2sVa) | 2:51 | 2022-01-27 | 2022-06-17 |
 | [World\-Class Lover](https://open.spotify.com/track/65U6zb8zfXTTx1DhxJFSTR) | [Jetcetera](https://open.spotify.com/artist/1EmyXZBxXqg4btWNXHP3ea) | [World\-Class Lover](https://open.spotify.com/album/6SuPejMz52tCoJfa3pSAgo) | 3:56 | 2025-11-14 | 2026-05-07 |
 | [Would You Ever](https://open.spotify.com/track/6G5nyQPvqSfojOVzXfNAHf) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Everything Is](https://open.spotify.com/album/0peIMKBxWe8WVIFdUYs0OD) | 4:37 | 2022-05-19 | 2022-07-01 |
+| [wouldn't change for you](https://open.spotify.com/track/74GOphegX9cYK9DKAwzWm5) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [wouldn't change for you](https://open.spotify.com/album/1Ar15vmZe1I2FX7vDvzfJN) | 4:16 | 2026-09-09 |  |
 | [WYTD](https://open.spotify.com/track/7MJkWf3wfWwnIDAUdYEqWy) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [WYTD](https://open.spotify.com/album/1wU5TQTkDQkCuVKuVTy0cd) | 3:39 | 2023-08-10 | 2024-05-10 |
 | [wàng \(忘\)](https://open.spotify.com/track/3zoyu9wuKFqTb9HKqOMv9S) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi) | [wàng \(忘\)](https://open.spotify.com/album/7JnoY1ByZ8nD0u8ngFWUNn) | 3:00 | 2022-09-09 | 2023-06-23 |
 | [X My Heart](https://open.spotify.com/track/6BhijctH4uV1z4fJl4ZBzS) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [X My Heart](https://open.spotify.com/album/5DeD7T0rMmTLnwOjEQ8Bsa) | 3:23 | 2025-06-26 | 2025-08-16 |

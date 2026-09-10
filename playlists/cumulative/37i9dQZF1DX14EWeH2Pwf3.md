@@ -4,7 +4,7 @@
 
 > DALE DALE troppo caldo qui dentro 🔥 Yung Snapp, Frezza, G.Mineiro, R3versal in cover
 
-1,139 songs - 2 day 6 hr 54 min
+1,140 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 | 2023-03-08 |
 | [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 | 2024-02-07 | 2024-04-04 |
 | [CASABLANCA](https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE II](https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO) | 2:37 | 2023-12-14 | 2024-01-05 |
+| [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 | 2026-09-09 |  |
 | [Cassa](https://open.spotify.com/track/5DLuVqlhV3YSmKunTb7sjN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Cassa](https://open.spotify.com/album/4q42s3AA5zgGMPjes17Ucd) | 2:30 | 2025-06-05 | 2025-07-04 |
 | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/track/7DE2ngDnQgLQM43PeKrAoG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Cattive Abitudini 𑿠 \(con Salmo, Colapesce\)](https://open.spotify.com/album/4lVmEfiWW67IleqyUBsYyQ) | 3:21 | 2026-05-14 | 2026-06-12 |
 | [CAZZI MIEI](https://open.spotify.com/track/6uFaYYmb5ngSlqLNxsBMzs) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [CAZZI MIEI](https://open.spotify.com/album/3LoUP5Q49gWKCfiPTLxy1h) | 2:15 | 2025-01-31 | 2025-05-16 |
@@ -1081,7 +1082,7 @@
 | [UNA CAN](https://open.spotify.com/track/7iGJ3ajScp5UusRzy4bNLg) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [UNA CAN](https://open.spotify.com/album/6hkpooX6NXqRigNHzQuKVD) | 2:41 | 2025-07-24 | 2025-09-05 |
 | [UNA COME TE](https://open.spotify.com/track/6prylI8YOrVcvR2CKrM9w7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:24 | 2024-06-06 | 2024-06-14 |
 | [UNA SIGA FA \(feat\. Papa V & Nerissima Serpe\)](https://open.spotify.com/track/57VBA6mBbbbdt7zuMjI5Ll) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:10 | 2025-12-15 | 2026-04-24 |
-| [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 | 2026-06-18 |  |
+| [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 | 2026-06-18 | 2026-09-10 |
 | [Una volta in più](https://open.spotify.com/track/5dqkc7ZnOfMiZezdh8i9ij) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:01 | 2025-10-23 | 2025-11-14 |
 | [Un’Altra Volta](https://open.spotify.com/track/0LibhadIbaCxWStsermQhg) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Un’Altra Volta](https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj) | 2:12 | 2023-12-21 | 2024-01-03 |
 | [UPPDOWNN](https://open.spotify.com/track/6U1mD5A4DFE7knET7XbsHj) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta) | [UPPDOWNN](https://open.spotify.com/album/5JsAD7CyYzjRMsJmUIMl4t) | 2:15 | 2025-11-27 | 2025-12-12 |

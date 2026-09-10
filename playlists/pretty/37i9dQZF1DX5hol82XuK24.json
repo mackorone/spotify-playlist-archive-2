@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 461259,
+  "num_followers": 461287,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "If You Say the Word",
+        "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "If You Say the Word",
+      "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 125893,
       "name": "Le Temple Volant",
       "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "If You Say the Word",
-        "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "If You Say the Word",
-      "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lola Leon",
-          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lola Leon",
+          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+        "name": "Ecstasy Homosexuality",
+        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+      "duration_ms": 240335,
+      "name": "Ecstasy Homosexuality - Radio Edit",
+      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Ecstasy Homosexuality",
-        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
       "artists": [
         {
-          "name": "The Irrepressibles",
-          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 240335,
-      "name": "Ecstasy Homosexuality - Radio Edit",
-      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Alps",
-      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "...and she's still listening",
         "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
       "artists": [
         {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Take Me Down (Nourished by Time Version)",
-        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr"
       },
       "artists": [
         {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "Plastic Mermaids",
+          "url": "https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ"
         }
       ],
-      "duration_ms": 243387,
-      "name": "Take Me Down - Nourished by Time Version",
-      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
+      "duration_ms": 340410,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH"
     }
   ],
   "unique_name": "Spooky",

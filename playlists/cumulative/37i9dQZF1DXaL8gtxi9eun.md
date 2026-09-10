@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: ويجز
 
-535 songs - 1 day 7 hr 35 min
+536 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Nawate Aando](https://open.spotify.com/track/7ImYm9wpHdXILFOwuzlvgv) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Mafesh Mamnoua](https://open.spotify.com/album/5QwUNgzFhyr5FF4VTSUsk1) | 6:20 | 2024-06-26 | 2024-11-19 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-07 | 2023-05-18 |
 | [Nfrah Haana](https://open.spotify.com/track/2zChbZoebPt7EwGqZEYlTn) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k), [Manar Samir](https://open.spotify.com/artist/3ioQa9sE7gHLnbyAQmDLXq) | [Nfrah Haana](https://open.spotify.com/album/638LkCQIAK91vvGoKh9Qco) | 3:05 | 2026-07-22 | 2026-08-07 |
-| [Nogha](https://open.spotify.com/track/0zeEaXkyZTJWEWcDo1wmyb) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Nogha](https://open.spotify.com/album/6QfA7CzzOMVpj5aVMGGLbF) | 2:24 | 2026-08-27 |  |
+| [Nogha](https://open.spotify.com/track/0zeEaXkyZTJWEWcDo1wmyb) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Nogha](https://open.spotify.com/album/6QfA7CzzOMVpj5aVMGGLbF) | 2:24 | 2026-08-27 | 2026-09-10 |
 | [OFF](https://open.spotify.com/track/2xPewsBXjoZMqk63u6fvd3) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [OFF](https://open.spotify.com/album/3d7lUD7dCS3IvUWKnh5E3O) | 2:43 | 2026-07-22 | 2026-08-07 |
 | [Ostoura \- اسطوره](https://open.spotify.com/track/38HyhECslsKSlbXnvy6KLD) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Ostoura \- اسطوره](https://open.spotify.com/album/2V5UJ9Z6JSqWVyphjS2mHD) | 3:13 | 2026-08-27 |  |
 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 | 2022-07-14 | 2023-05-18 |
@@ -296,6 +296,7 @@
 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 | 2026-04-15 | 2026-07-07 |
 | [SEBY NAFSEK KHALES](https://open.spotify.com/track/7dR4nnWzcUDpcW67jnOTfs) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [SEBY NAFSEK KHALES](https://open.spotify.com/album/6JcLDIgrEHF8u6D1K95acY) | 3:11 | 2026-07-06 |  |
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-06-23 | 2023-08-02 |
+| [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 | 2026-09-09 |  |
 | [Seneen](https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Seneen](https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ) | 3:34 | 2026-01-20 | 2026-07-07 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2022-05-04 | 2022-10-25 |
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-09 | 2023-07-12 |

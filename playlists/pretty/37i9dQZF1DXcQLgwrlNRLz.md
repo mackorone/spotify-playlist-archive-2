@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,361 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,385 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 36 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
 | 37 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
 | 38 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
-| 39 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 |
-| 40 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
+| 39 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
+| 40 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 |
 | 41 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
 | 42 | [Kaay Waay](https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [DM](https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe) | 3:03 |
 | 43 | [YOROBO DRILL ACTE 3](https://open.spotify.com/track/1OD1skHTgSSLF8lmWTqbB6) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JEUNE & RICHE \(DELUXE\)](https://open.spotify.com/album/3yNYy5fvug5JKo755SZaEE) | 2:49 |
-| 44 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
-| 45 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 |
+| 44 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 |
+| 45 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 46 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
 | 47 | [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 |
 | 48 | [TAPER CREER \(feat\. Gazo\)](https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:40 |

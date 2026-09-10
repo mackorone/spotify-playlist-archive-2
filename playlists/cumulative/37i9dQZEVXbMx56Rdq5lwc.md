@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,667 songs - 6 day 2 hr 49 min
+2,669 songs - 6 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 | 2024-07-13 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-12 | 2025-03-01 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-08-11 |
+| [I Love You](https://open.spotify.com/track/5XhMgAWzou6EjDmQtoyoZE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/0aVN6rMKthfuAdDXn8RTXf) | 5:05 | 2026-09-09 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-26 | 2022-04-27 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-21 |
@@ -1103,6 +1104,7 @@
 | [Kaip Radai](https://open.spotify.com/track/15SdxthrnmbhdUxBL6ona6) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO! \(Deluxe\)](https://open.spotify.com/album/4eSMe59X7Gj42Pk53iMFaf) | 3:43 | 2022-04-27 | 2022-04-30 |
 | [KAIP SOSA](https://open.spotify.com/track/1NVCzKvnNLeP2TDBIvrxSh) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Lil Skar](https://open.spotify.com/artist/5yuykhFJGZ7Ok2D1p7XAUL), [Totty](https://open.spotify.com/artist/4773eYzYyzguJL4tzJCKcK) | [KITAIP SUDĖTAS](https://open.spotify.com/album/7b1M87Pdqg4xZFLgDYihCh) | 2:34 | 2025-11-27 | 2025-11-30 |
 | [kaip užaugau](https://open.spotify.com/track/3wg32q0Nj0h2bBlakotaPw) | [Monique](https://open.spotify.com/artist/4zbz40hlj1xjpP8npH8A8a) | [ir tik dėl jos](https://open.spotify.com/album/3msSQA6ThgGFlODr9oVpJt) | 4:04 | 2023-10-28 | 2023-11-03 |
+| [KALABASAS](https://open.spotify.com/track/1G0GtwNUVJFegUJoYBElNa) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [NA2](https://open.spotify.com/album/022wOXAk37mE184L7rP5k3) | 2:59 | 2026-09-09 |  |
 | [kalbėsimės/mylėsimės](https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 2:35 | 2023-05-06 | 2023-09-13 |
 | [Kalėdos ištinka](https://open.spotify.com/track/6h6iH3Iv11BA7mdxSZbgl4) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Kalėdos ištinka](https://open.spotify.com/album/0xNHONstgWADedpaC1J5Iv) | 3:33 | 2023-11-18 | 2023-11-20 |
 | [Kalėdų eglutė](https://open.spotify.com/track/4x7QJF8NwUNgrFHIGKFJ2w) | [Kardiofonas](https://open.spotify.com/artist/1nEmLp2eDCiKtbULjoQKNL) | [Šliaužk į kopas](https://open.spotify.com/album/0BRqjCmjae0yhCbjZmy91t) | 4:21 | 2025-12-26 | 2025-12-28 |
@@ -1545,7 +1547,7 @@
 | [Neskaičiuoju](https://open.spotify.com/track/3lMZmO5Pvd3aYkyUx0RQQa) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Soliaris](https://open.spotify.com/artist/7LBzs6cqSEFzNeCXr3Bhhw) | [Neskaičiuoju](https://open.spotify.com/album/3CR5yUhJMTMTgUB8TZDmGD) | 2:48 | 2021-08-07 | 2021-08-24 |
 | [NESUSTABDOMAS](https://open.spotify.com/track/2X31yi2yeE7wQjJKgH3XzL) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:49 | 2022-08-27 | 2022-09-04 |
 | [Nesvarbù](https://open.spotify.com/track/4Am60yuOAPTEaUimYxBDY3) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Nesvarbù](https://open.spotify.com/album/1RCNo5WJvxyGklI7akZQOm) | 4:29 | 2025-04-30 | 2025-05-19 |
-| [Neturėjom Dainos](https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Olos](https://open.spotify.com/album/2MNW7btzSNiDWQq9QsGPBQ) | 5:00 | 2023-06-12 |  |
+| [Neturėjom Dainos](https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Olos](https://open.spotify.com/album/2MNW7btzSNiDWQq9QsGPBQ) | 5:00 | 2023-06-12 | 2026-09-10 |
 | [NETUŠČIOM](https://open.spotify.com/track/4oCKelUkDJka6B0S68Sb8k) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [KITAIP SUDĖTAS](https://open.spotify.com/album/7b1M87Pdqg4xZFLgDYihCh) | 2:10 | 2025-11-27 | 2025-11-30 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-16 | 2023-04-30 |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-04-29 | 2023-05-07 |
@@ -1925,7 +1927,7 @@
 | [Rudenį Rūkai](https://open.spotify.com/track/6VsG5c11xejptkwnVbo2St) | [Elayork](https://open.spotify.com/artist/1VzqAM4QKWvuzVjw6kSCf8), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rudenį Rūkai](https://open.spotify.com/album/4LL9ZbytKG2NSHXjo9ZlGM) | 3:05 | 2026-04-30 |  |
 | [Rudenį Snaigės](https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Liepa](https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL) | 2:49 | 2026-07-04 |  |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2022-12-25 | 2023-12-30 |
-| [Rugpjūtis](https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rugpjūtis](https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO) | 2:42 | 2021-07-11 |  |
+| [Rugpjūtis](https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rugpjūtis](https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO) | 2:42 | 2021-07-11 | 2026-09-10 |
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-10-06 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-23 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-18 |

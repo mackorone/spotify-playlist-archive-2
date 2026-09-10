@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sam Vishal
 
 864 songs - 2 day 0 hr 47 min
 

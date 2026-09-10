@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,097 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,184 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 81 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/5rhlxILuaQlIlOPU2HCifz) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
 | 82 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 |
 | 83 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
-| 84 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 |
-| 85 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
-| 86 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
-| 87 | [Tijuana Taxi](https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:05 |
+| 84 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 |
+| 85 | [Afrikaan Beat](https://open.spotify.com/track/5XaJ4JiP7IzrA58PopxKn1) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Grandes Orquestas / Bert Kaempfert](https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i) | 2:25 |
+| 86 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
+| 87 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
 | 88 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 |
-| 89 | [The Shuffle](https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:21 |
-| 90 | [Morricone: Chi Mai](https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classical Chillout](https://open.spotify.com/album/5gGoL7HQZvclBKLMGPrByW) | 5:08 |
-| 91 | [Concierto para una Sola Voz](https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR) | [Spanish Caribe Band](https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q) | [Fusion Brasil Jazz\. Bossa Nova Música Brasileña](https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29) | 2:20 |
-| 92 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 |
+| 89 | [Tijuana Taxi](https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:05 |
+| 90 | [The Shuffle](https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:21 |
+| 91 | [Morricone: Chi Mai](https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classical Chillout](https://open.spotify.com/album/5gGoL7HQZvclBKLMGPrByW) | 5:08 |
+| 92 | [Concierto para una Sola Voz](https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR) | [Spanish Caribe Band](https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q) | [Fusion Brasil Jazz\. Bossa Nova Música Brasileña](https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29) | 2:20 |
 | 93 | [Before the Rain](https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before The Rain](https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg) | 8:15 |
 | 94 | [Imágenes](https://open.spotify.com/track/5smH256ZtdhGALeYJ13mVc) | [John Days](https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7) | [16 Grandes Éxitos Instrumentales](https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL) | 3:10 |
 | 95 | [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 |

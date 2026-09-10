@@ -1451,6 +1451,32 @@
     },
     {
       "album": {
+        "name": "Asha Forever",
+        "url": "https://open.spotify.com/album/61ToZYnDCszMR9m9JNoDZF"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304756,
+      "name": "Asha Forever",
+      "url": "https://open.spotify.com/track/1ur1Ez1nwu7JOB9H9Dg6qk"
+    },
+    {
+      "album": {
         "name": "atari",
         "url": "https://open.spotify.com/album/5PtDkXw3gSBYk1g7oDJUda"
       },
@@ -2858,7 +2884,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 237176,
       "name": "Bayaan",
       "url": "https://open.spotify.com/track/50og7DzzaaPQHWztFSeOm4"
@@ -3890,7 +3916,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 241593,
       "name": "Chal Anjaane - From \"Batwara 1947\"",
       "url": "https://open.spotify.com/track/6BuhilvEP5X8G3tWFegekE"
@@ -5644,7 +5670,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 252792,
       "name": "Dil Ki Aawaaz",
       "url": "https://open.spotify.com/track/5VwkrvpiS1NlffoQ3PtPo4"
@@ -7267,6 +7293,36 @@
     },
     {
       "album": {
+        "name": "Ghumela",
+        "url": "https://open.spotify.com/album/07McxXJglDnQPt4svK5qWE"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Arun rao",
+          "url": "https://open.spotify.com/artist/04uRq6vq7OOAIrcFYAy1S5"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158584,
+      "name": "Ghumela",
+      "url": "https://open.spotify.com/track/19uPKWgnHUFkceh9fQUn21"
+    },
+    {
+      "album": {
         "name": "Ghumzada",
         "url": "https://open.spotify.com/album/4kgkIgNAObRaCfmMTUNaFz"
       },
@@ -7965,6 +8021,28 @@
     },
     {
       "album": {
+        "name": "Har Roz",
+        "url": "https://open.spotify.com/album/3ctnlnf9LEX8CKCDIXrpSf"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153662,
+      "name": "Har Roz",
+      "url": "https://open.spotify.com/track/399Pd71ccPH7jEVOuZ08sM"
+    },
+    {
+      "album": {
         "name": "Kis Kisko Pyaar Karoon 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zVi5ULfGffoeJCuD2y2u3"
       },
@@ -8564,6 +8642,28 @@
       "duration_ms": 225514,
       "name": "Hum Jaise Jee Rahe Hain (From \"ANDAAZ 2\")",
       "url": "https://open.spotify.com/track/3F8Ie0XGRhU68AFyHjv9QS"
+    },
+    {
+      "album": {
+        "name": "The Revolutionaries",
+        "url": "https://open.spotify.com/album/2aq7z6Dru4WZ0qdvrsngZC"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212076,
+      "name": "Hum Rahein Na Rahein",
+      "url": "https://open.spotify.com/track/716NCXVZcFjZgM5opcmCh2"
     },
     {
       "album": {
@@ -12010,7 +12110,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 127578,
       "name": "Kho Sa Gaya Hoon",
       "url": "https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G"
@@ -13557,6 +13657,32 @@
     },
     {
       "album": {
+        "name": "Main Toh Nahi Haiwaan (From \"Haiwaan\")",
+        "url": "https://open.spotify.com/album/4o5W3ITCmWGaMGQtrtMXtg"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Main Toh Nahi Haiwaan - From \"Haiwaan\"",
+      "url": "https://open.spotify.com/track/25Czl4t08OHCV4uf9LOjZo"
+    },
+    {
+      "album": {
         "name": "Majboori",
         "url": "https://open.spotify.com/album/1HdEOKu6vNhtagRuEOHwUX"
       },
@@ -13964,7 +14090,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 186479,
       "name": "Marz - E - Dawa",
       "url": "https://open.spotify.com/track/1o1kpJl4TuWaPBAsHTqfLa"
@@ -15636,7 +15762,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 217021,
       "name": "Nazar Ki Dori",
       "url": "https://open.spotify.com/track/51SgrOkpHnktDZ0Jclf96C"
@@ -19710,7 +19836,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 130615,
       "name": "Sawaari",
       "url": "https://open.spotify.com/track/0ZxpCrs6Trd3VJGIm22ASV"
@@ -21658,7 +21784,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 150000,
       "name": "Tere Ishq Mein",
       "url": "https://open.spotify.com/track/17hVMVwsCp8FQOTS8K3wkt"
@@ -21710,6 +21836,40 @@
       "duration_ms": 231111,
       "name": "Tere Rang Mein",
       "url": "https://open.spotify.com/track/6gjS7ikstPxcjq8GyEwnAx"
+    },
+    {
+      "album": {
+        "name": "Tere Sang (From \"Don't Be Shy\")",
+        "url": "https://open.spotify.com/album/5e4EcorQKffrpE6jhcTg74"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Yaashasvii Ddasane",
+          "url": "https://open.spotify.com/artist/0jG2bG53On87Jw511KxFNh"
+        },
+        {
+          "name": "Meghna Mishra",
+          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
+        },
+        {
+          "name": "Devansh Vaidya",
+          "url": "https://open.spotify.com/artist/6ceevqtF0Ig1RozxJZarDJ"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209134,
+      "name": "Tere Sang (From \"Don't Be Shy\")",
+      "url": "https://open.spotify.com/track/0KWiRsYNuLR5reLOg3zQsd"
     },
     {
       "album": {
@@ -21968,6 +22128,24 @@
       "duration_ms": 207096,
       "name": "TEYI",
       "url": "https://open.spotify.com/track/5qxep3UEIsMZoxpU578GuO"
+    },
+    {
+      "album": {
+        "name": "Tham Jaa",
+        "url": "https://open.spotify.com/album/7CFGrIL73FppET5Jf9kote"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321664,
+      "name": "Tham Jaa",
+      "url": "https://open.spotify.com/track/6pUuLW4SsEWg6KSFUQdTwC"
     },
     {
       "album": {
@@ -22760,6 +22938,36 @@
       "duration_ms": 304166,
       "name": "Tu Koi Aur Hai",
       "url": "https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe"
+    },
+    {
+      "album": {
+        "name": "Tu Mera Raiyyo (From \"Prem Keetanu\")",
+        "url": "https://open.spotify.com/album/7phDvEhf8iKpNfTjyLLCOK"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Tu Mera Raiyyo - From \"Prem Keetanu\"",
+      "url": "https://open.spotify.com/track/3lxR1nJ4EffJxSNXpKxpSr"
     },
     {
       "album": {

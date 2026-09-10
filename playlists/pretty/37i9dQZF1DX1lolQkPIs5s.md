@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,939 likes - 106 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,944 likes - 106 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 3 | [Carrying Happiness \- Tokyo Disney Resort Version](https://open.spotify.com/track/6aeEYLO194bhR0hN4qCes9) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Carrying Happiness \(Tokyo Disney Resort Version\)](https://open.spotify.com/album/5pPiOnfYNFdyiOv6TdoofX) | 1:29 |
 | 4 | [When She Loved Me \- From "Toy Story 2"/Japanese Version](https://open.spotify.com/track/2mBPsVetELPHdVdh2SPBzo) | [Risa Ohki](https://open.spotify.com/artist/2faoIQFjSfwA2sCzSsgzGK) | [Toy Story 2 \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/2AIj6hlTXUf6omfcFq0UlR) | 3:04 |
 | 5 | [Glitter Glide \- From "Stitch and Angel's Pop Star Party"/Japanese Version](https://open.spotify.com/track/35dupqlMFz5LtrkPfjXq5r) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"/Japanese Version\)](https://open.spotify.com/album/50upgjiv1doJrSi4U5da3Y) | 2:22 |
-| 6 | [How Far I'll Go \- From "Moana"/Japanese Soundtrack Version](https://open.spotify.com/track/3xncn9sZJWHskFtx2MG012) | [TSUZUMI \(ME:I\)](https://open.spotify.com/artist/7zJbY9oWwc3NIivxbVWnlz) | [How Far I'll Go \(From "Moana"/Japanese Soundtrack Version\)](https://open.spotify.com/album/4Q5v8vesyCCXx3PKIstyvW) | 2:51 |
+| 6 | [How Far I'll Go \- From "Moana"/Japanese Soundtrack Version](https://open.spotify.com/track/3xncn9sZJWHskFtx2MG012) | [TSUZUMI](https://open.spotify.com/artist/3np21GD2wGhC0VkYCBict9) | [How Far I'll Go \(From "Moana"/Japanese Soundtrack Version\)](https://open.spotify.com/album/4Q5v8vesyCCXx3PKIstyvW) | 2:51 |
 | 7 | [Come Join the Jubilee \- Tokyo DisneySea 25th "Sparkling Jubilee" Theme Song](https://open.spotify.com/track/7BX4O4o6MBhAxYqDb3a3AX) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [Come Join the Jubilee \(Tokyo DisneySea 25th "Sparkling Jubilee" Theme Song\)](https://open.spotify.com/album/3xbbxWL3wJ7C1MmAb2NEmm) | 3:31 |
-| 8 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/4cHQ0okN97O3vqAqRN9Osu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Toy Story 5 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6G2u8sy0sQvyALLoTTXkzn) | 2:58 |
+| 8 | [I Knew It, I Knew You](https://open.spotify.com/track/4cHQ0okN97O3vqAqRN9Osu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Toy Story 5 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6G2u8sy0sQvyALLoTTXkzn) | 2:58 |
 | 9 | [What We Got ～奇跡はきみと～](https://open.spotify.com/track/6kRoSReUEuhFQCWxTC856f) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [What We Got ～奇跡はきみと～](https://open.spotify.com/album/2CVTjcEig1nc72D3wCeahb) | 3:05 |
 | 10 | [I See the Light \- Japanese Version](https://open.spotify.com/track/4g345xmbPGGHDSv5sMLEsS) | [Hiroshi Hatanaka](https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529), [Mari Okonogi](https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF) | [Tangled \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb) | 3:43 |
 | 11 | [Zoo \- Japanese Single Version](https://open.spotify.com/track/1dsdV2HRqfURn32Du0nTxK) | [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Zoo](https://open.spotify.com/album/1bxGBiMcY6kn503VQiYSZ3) | 3:10 |

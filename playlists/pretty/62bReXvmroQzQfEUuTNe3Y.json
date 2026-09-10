@@ -1,12 +1,12 @@
 {
   "description": "Chill tracks to vibe or relax to in 2026. Updated weekly!",
-  "num_followers": 2029084,
+  "num_followers": 2029995,
   "original_name": "Chill House 2026",
   "owner": {
     "name": "selected.",
     "url": "https://open.spotify.com/user/selectedbase"
   },
-  "snapshot_id": "AAARZZFQG+oqD+PN18dod9Eaux1PEV14",
+  "snapshot_id": "AAARaDVwy29AHlGQgkmVrBz/cT0X+7Rf",
   "tracks": [
     {
       "added_at": "2026-09-04 09:08:23",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-09-04 09:08:23",
       "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/5bbf4bhFo54148D9sN6JNR"
+        "name": "wildfire",
+        "url": "https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC"
       },
       "artists": [
         {
-          "name": "Small Town Kid",
-          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+          "name": "origins",
+          "url": "https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy"
         }
       ],
-      "duration_ms": 124872,
-      "name": "I Choose You (Night)",
-      "url": "https://open.spotify.com/track/0tolD1pEMxfhqDxizcnkIp"
+      "duration_ms": 200312,
+      "name": "wildfire",
+      "url": "https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI"
     },
     {
       "added_at": "2026-09-04 09:08:23",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-09-04 09:08:23",
       "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/5bbf4bhFo54148D9sN6JNR"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "duration_ms": 124872,
+      "name": "I Choose You (Night)",
+      "url": "https://open.spotify.com/track/0tolD1pEMxfhqDxizcnkIp"
+    },
+    {
+      "added_at": "2026-09-04 09:08:23",
+      "album": {
         "name": "moving on",
         "url": "https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 187321,
       "name": "animal",
       "url": "https://open.spotify.com/track/4BeeT5TUEjM0fIwYgW0BYd"
-    },
-    {
-      "added_at": "2026-09-04 09:08:23",
-      "album": {
-        "name": "wildfire",
-        "url": "https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC"
-      },
-      "artists": [
-        {
-          "name": "origins",
-          "url": "https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy"
-        }
-      ],
-      "duration_ms": 200312,
-      "name": "wildfire",
-      "url": "https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI"
     },
     {
       "added_at": "2026-09-04 09:08:23",

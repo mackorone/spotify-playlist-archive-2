@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "'That's Enough for Me' (Music Inspired by LAIKA's Wildwood)",
+        "url": "https://open.spotify.com/album/5SrZzTkAYvXBYC9qQs2Wch"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        },
+        {
+          "name": "Wildwood Sessions",
+          "url": "https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177076,
+      "name": "'That's Enough for Me' (Music Inspired by LAIKA's Wildwood)",
+      "url": "https://open.spotify.com/track/3q94ZjzdjVZJ038g52pWGh"
+    },
+    {
+      "album": {
         "name": "Belladonna of Sadness",
         "url": "https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU"
       },

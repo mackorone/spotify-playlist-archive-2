@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 318918,
+  "num_followers": 318943,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
         "name": "Hello, I'm Johnny Cash",
         "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 180573,
       "name": "If I Were a Carpenter",
       "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2026-02-03 18:46:39",

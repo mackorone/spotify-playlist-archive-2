@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: GeezyDee y Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,584 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,611 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
+| 1 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 2 | [EL FICTICIO](https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL FICTICIO](https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK) | 6:15 |
 | 3 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |
 | 4 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |

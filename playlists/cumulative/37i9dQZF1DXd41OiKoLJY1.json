@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: CJ Navato. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Arron Rebustes. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 236500,
       "name": "'Di Mapigilan",
       "url": "https://open.spotify.com/track/3bDP1usy7ad1jaH4nhct43"
@@ -18087,6 +18087,24 @@
     },
     {
       "album": {
+        "name": "ITSYOBOY BALOY",
+        "url": "https://open.spotify.com/album/0Ne35YRN0hrhNs5oIT5yOi"
+      },
+      "artists": [
+        {
+          "name": "Baloy",
+          "url": "https://open.spotify.com/artist/0D9tgRwGb4kDzuwDC2cElu"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142183,
+      "name": "Don't Do Drugs",
+      "url": "https://open.spotify.com/track/2bZX4WPeJ9aqCnGDUo72sZ"
+    },
+    {
+      "album": {
         "name": "don't get me wrong",
         "url": "https://open.spotify.com/album/5dKEYvqgivqWmaKVNmrm95"
       },
@@ -30130,7 +30148,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 215505,
       "name": "I Kiss You Deeply",
       "url": "https://open.spotify.com/track/35FWhpYscb7zwm2mSBEc3o"
@@ -66776,7 +66794,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 173532,
       "name": "Strip (Don't Wanna Leave)",
       "url": "https://open.spotify.com/track/50EKtmYmibqfzU8WP9ehek"
@@ -69592,6 +69610,24 @@
       "duration_ms": 228444,
       "name": "Tapos Na Tayo",
       "url": "https://open.spotify.com/track/0RsXqwVqOnIkgx3ZiCjr0l"
+    },
+    {
+      "album": {
+        "name": "tara",
+        "url": "https://open.spotify.com/album/63hF4st4hG8Io2zXZ88Avp"
+      },
+      "artists": [
+        {
+          "name": "Arron Rebustes",
+          "url": "https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193291,
+      "name": "tara",
+      "url": "https://open.spotify.com/track/0S59XL7EhSme77zIb7Lpou"
     },
     {
       "album": {
@@ -73382,6 +73418,24 @@
       "duration_ms": 166420,
       "name": "Ulitin Pa Natin",
       "url": "https://open.spotify.com/track/7h3yJKSxtpJGYsv1CVJg3r"
+    },
+    {
+      "album": {
+        "name": "ultramar(e)ne",
+        "url": "https://open.spotify.com/album/1P9mhiTq7yIENgSz5wOyph"
+      },
+      "artists": [
+        {
+          "name": "(e)motion engine",
+          "url": "https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130075,
+      "name": "ultramar(e)ne",
+      "url": "https://open.spotify.com/track/07BN8Wm9l0iTu90j4u6Uge"
     },
     {
       "album": {

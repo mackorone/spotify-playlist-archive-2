@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 708248,
+  "num_followers": 708508,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "I Could Be Happy",
+        "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "\u00c9lodie Fr\u00e9g\u00e9",
+          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "La Pluie Et Le Beau Temps",
+      "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "La fauve",
         "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 140826,
       "name": "Un jour comme un autre",
       "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "I Could Be Happy",
-        "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "\u00c9lodie Fr\u00e9g\u00e9",
-          "url": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "La Pluie Et Le Beau Temps",
-      "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "No. 8",
-        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
-      },
-      "artists": [
-        {
-          "name": "Juliette Gr\u00e9co",
-          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "No. 8",
+        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
+      },
+      "artists": [
+        {
+          "name": "Juliette Gr\u00e9co",
+          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
     },
     {
       "added_at": "2026-06-30 12:26:56",

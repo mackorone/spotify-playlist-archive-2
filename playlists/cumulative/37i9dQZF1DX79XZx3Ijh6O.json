@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-09",
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: <a href=\"spotify:artist:56M3mfXvDAZ8eYzHfM6lu0\">\u0441\u043b\u0456\u043f\u0442\u043e\u043a</a> ",
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: <a href=\"spotify:artist:5pY0asfe2WmG6WXyqpceI3`\">heavy / bloom\n</a> ",
   "name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -7241,6 +7241,28 @@
     },
     {
       "album": {
+        "name": "\u043f\u043e\u0447\u0443\u0442\u0438 \u0441\u0435\u0431\u0435",
+        "url": "https://open.spotify.com/album/2t1tXBFPnyPqsCPzak3U7q"
+      },
+      "artists": [
+        {
+          "name": "tsyba",
+          "url": "https://open.spotify.com/artist/6aYNzHv5PunnrNSUZzAKV9"
+        },
+        {
+          "name": "Dennis Adu",
+          "url": "https://open.spotify.com/artist/6dkEWjkanl77EE6Zs1TEhF"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279375,
+      "name": "\u043f\u043e\u0447\u0443\u0442\u0438 \u0441\u0435\u0431\u0435",
+      "url": "https://open.spotify.com/track/3QrAKGw6tgemfb6MW9NUiI"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u0430\u0449\u0443\u0440\u0438",
         "url": "https://open.spotify.com/album/7kxF02QIJfvKtYsms3SAfH"
       },
@@ -7678,7 +7700,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 182090,
       "name": "\u0420\u0430\u043d\u043e\u043a",
       "url": "https://open.spotify.com/track/0iPbnBBXnXbcqw542maTUn"
@@ -8985,6 +9007,32 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u0431\u0435 \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e",
+        "url": "https://open.spotify.com/album/5GlD8IOjAB3PfpWwbMMlaD"
+      },
+      "artists": [
+        {
+          "name": "heavy / bloom",
+          "url": "https://open.spotify.com/artist/5pY0asfe2WmG6WXyqpceI3"
+        },
+        {
+          "name": "Artur Frolov",
+          "url": "https://open.spotify.com/artist/3ytIrtCGLOdOTF174PBcHc"
+        },
+        {
+          "name": "Arsen Gorbach",
+          "url": "https://open.spotify.com/artist/3BLwCD5NMFc10H8QPnPTk8"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322929,
+      "name": "\u0422\u0435\u0431\u0435 \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e",
+      "url": "https://open.spotify.com/track/2Ynyq1Io9yQ3bPlUvVnRHc"
+    },
+    {
+      "album": {
         "name": "\u0422\u0435\u043f\u043b\u043e \u0432 \u043a\u0430\u0440\u043c\u0430\u043d \u043f\u043e\u043a\u043b\u0430\u0434\u0443",
         "url": "https://open.spotify.com/album/7MexdPh1i7GPUoke27MFoq"
       },
@@ -9090,7 +9138,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 164869,
       "name": "\u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e",
       "url": "https://open.spotify.com/track/4LPs99XhJ7Udumkzbz20rU"
@@ -9898,7 +9946,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 215172,
       "name": "\u0427\u0430\u0441",
       "url": "https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa"
@@ -10548,6 +10596,24 @@
       "duration_ms": 216428,
       "name": "\u042f \u0440\u0430\u0445\u0443\u0432\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1MwquwVPy1EXDlR4ttkrQy"
+    },
+    {
+      "album": {
+        "name": "\u044f \u0442\u0435\u0431\u0435 \u043b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/5J8YeI5lnlSD2CB3svgo2W"
+      },
+      "artists": [
+        {
+          "name": "\u0456\u043d8\u0435\u0440\u0441\u0456\u044f",
+          "url": "https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209517,
+      "name": "\u044f \u0442\u0435\u0431\u0435 \u043b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/75hg4XCPS4DKxJ8JVL92oD"
     },
     {
       "album": {

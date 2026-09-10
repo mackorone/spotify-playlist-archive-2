@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-308 songs - 16 hr 47 min
+309 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 | 2022-07-15 | 2024-04-19 |
 | [Better With A Broken Heart \- Acoustic Live In Studio](https://open.spotify.com/track/5T1HjQ6lefBwhauvA9TozO) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Better With A Broken Heart \(Acoustic Live In Studio\)](https://open.spotify.com/album/0A5ZUUP4O7l9r6CzJKtDXn) | 3:00 | 2022-08-26 | 2023-01-06 |
 | [Between You & Me](https://open.spotify.com/track/4FEGLKYIfTEatQtfGLGxlu) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Between You & Me](https://open.spotify.com/album/6irV36nzdfWQSorcCFpYPl) | 2:49 | 2021-12-17 | 2022-12-17 |
+| [Big Ole Fancy House \- Acoustic](https://open.spotify.com/track/5q6AeXUb3Qq9i2Q6WgPQGH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House \(Acoustic\)](https://open.spotify.com/album/6oNgOpksiHjRzxceMkNCrq) | 5:03 | 2026-09-09 |  |
 | [Bluebird \- Acoustic](https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Acoustic\)](https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB) | 3:40 | 2022-07-08 |  |
 | [Boy Like Me \- Acoustic](https://open.spotify.com/track/1czoG01DZOJ9wTv3pvcKrk) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Boy Like Me \(Acoustic\)](https://open.spotify.com/album/4Lan6PFV9KO6AzwEAGoxez) | 3:08 | 2021-12-17 | 2022-07-10 |
 | [Break My Heart Again \- Live Acoustic](https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again \(Live Acoustic\)](https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby) | 3:20 | 2022-06-17 | 2022-08-26 |
@@ -211,7 +212,7 @@
 | [Religiously \- Religiously\. The Acoustic Sessions.](https://open.spotify.com/track/6N7kZBEu0O7wckERy2XqWM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously \(Religiously\. The Acoustic Sessions.\)](https://open.spotify.com/album/1Oa74VQMAtnNj7HGxXZLyO) | 2:58 | 2023-08-04 |  |
 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 | 2022-07-15 |  |
 | [Rollin' Stone \- Piano Version](https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone \(Piano Version\)](https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl) | 2:44 | 2025-08-22 |  |
-| [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 | 2023-06-16 |  |
+| [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 | 2023-06-16 | 2026-09-10 |
 | [Say Why \- Acoustic](https://open.spotify.com/track/3yaaUSFaRNmYaavD1cOJqT) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top \(Acoustic\)](https://open.spotify.com/album/2LREH0sp8eGkpbqSKzjZ0n) | 2:08 | 2026-01-16 |  |
 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 |  |
 | [See You Next Summer \- Acoustic](https://open.spotify.com/track/3IFhvMzycy0tFNbxEf1IjJ) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer \(Acoustic\)](https://open.spotify.com/album/1MaVV8K1KYUOEDK7uJCszn) | 2:37 | 2023-09-29 | 2023-11-10 |

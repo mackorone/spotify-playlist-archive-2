@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20441,
+  "num_followers": 20439,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Boleros y Masecki",
-        "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
+        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
+        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
       },
       "artists": [
         {
-          "name": "Marcin Masecki",
-          "url": "https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg"
+          "name": "Luxtorpeda",
+          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
         }
       ],
-      "duration_ms": 291186,
-      "name": "Amor sin esperanza",
-      "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
+      "duration_ms": 313226,
+      "name": "KREW Z KRWI",
+      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
-        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
+        "name": "Boleros y Masecki",
+        "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
       },
       "artists": [
         {
-          "name": "Luxtorpeda",
-          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
+          "name": "Marcin Masecki",
+          "url": "https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg"
         }
       ],
-      "duration_ms": 313226,
-      "name": "KREW Z KRWI",
-      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
+      "duration_ms": 291186,
+      "name": "Amor sin esperanza",
+      "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tequila Songs & Desert Winds",
         "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
       "artists": [
         {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
         }
       ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1235,6 +1219,22 @@
       "duration_ms": 421000,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/5pXascPOOGTfedZSAkxQlg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+      },
+      "artists": [
+        {
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1315,34 +1315,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Dominik Wania",
-          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
-        },
-        {
-          "name": "Micha\u0142 Klauza",
-          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
-        },
-        {
-          "name": "Polish Radio Orchestra in Warsaw",
-          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Fallen Angel: IV. Fire",
-      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Agma",
         "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
       },
@@ -1371,6 +1343,34 @@
       "duration_ms": 514000,
       "name": "Reinvented",
       "url": "https://open.spotify.com/track/6bkCoSWdt9XzZ5sJSv7Jvg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Dominik Wania",
+          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
+        },
+        {
+          "name": "Micha\u0142 Klauza",
+          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
+        },
+        {
+          "name": "Polish Radio Orchestra in Warsaw",
+          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Fallen Angel: IV. Fire",
+      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     }
   ],
   "unique_name": "Fryderyk 2026",

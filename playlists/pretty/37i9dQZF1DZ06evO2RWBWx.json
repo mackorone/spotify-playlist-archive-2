@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 26868,
+  "num_followers": 26877,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAAC1W+rQUms9CrfzfuC8HtBM",
+  "snapshot_id": "ap9QAAAAAACAeJi28qeo9gPEImhaomxi",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u50d5\u3089\u3060",
-        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "\u50d5\u3089\u3060",
-      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I say bye",
         "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 180596,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u50d5\u3089\u3060",
+        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "\u50d5\u3089\u3060",
+      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6e26",
-        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 189203,
-      "name": "\u6e26",
-      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
         "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 196000,
       "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6e26",
+        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 189203,
+      "name": "\u6e26",
+      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
     },
     {
       "added_at": null,

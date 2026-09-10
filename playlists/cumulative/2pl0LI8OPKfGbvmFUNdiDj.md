@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-580 songs - 1 day 8 hr 56 min
+582 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 | 2026-05-07 | 2026-05-26 |
 | [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 | 2026-03-08 | 2026-04-14 |
 | [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 | 2026-04-25 | 2026-05-26 |
+| [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2026-09-09 |  |
 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 | 2026-04-13 | 2026-05-26 |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 | 2026-02-21 |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-23 | 2026-08-08 |
@@ -487,6 +488,7 @@
 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 | 2025-12-20 | 2026-01-15 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-06-06 | 2026-08-08 |
+| [The Leap](https://open.spotify.com/track/4XnrMlrVHHcAmITgLRwcoZ) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr\. Sun](https://open.spotify.com/album/2InfXnHrTN8TCFycbq7HqO) | 2:48 | 2026-09-09 |  |
 | [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 | 2026-06-17 | 2026-08-08 |
 | [The Narrative](https://open.spotify.com/track/2C5l4za8s1jMgUVhQnrt7U) | [DroCole](https://open.spotify.com/artist/1ULNRteGwjrrsPZ5SURVlX), [Pokoaya](https://open.spotify.com/artist/0dSM49bxZ52Bu3DbogQUbK) | [The Narrative](https://open.spotify.com/album/4rzoePKxuaie9M3VGCdtuI) | 2:16 | 2025-11-01 | 2025-12-01 |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2025-11-03 | 2025-12-01 |

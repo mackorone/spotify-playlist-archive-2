@@ -4,7 +4,7 @@
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-156 songs - 11 hr 5 min
+157 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cometa](https://open.spotify.com/track/57579JMa428PUzNyRHRtsm) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 4:56 | 2023-08-11 | 2024-04-19 |
 | [Cometa](https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Cometa](https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP) | 4:56 | 2024-03-29 | 2025-07-07 |
 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 | 2023-11-10 | 2026-09-03 |
+| [Copla de los hermanos](https://open.spotify.com/track/1Kiky8S7B4ZUBiNPy0DEvL) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr), [Manu Estrach](https://open.spotify.com/artist/39DZii3g3RFWu2b64Wyn10) | [Lo que no logré en la ciudad](https://open.spotify.com/album/3hCo833asRW1t5CrgojkDj) | 2:26 | 2026-09-09 |  |
 | [Coplita](https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:49 | 2023-08-11 | 2024-04-19 |
 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 | 2024-03-29 | 2026-01-04 |
 | [Corazón Amanecido](https://open.spotify.com/track/5HgZ1BSj5hdaPZwpiCaA02) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:12 | 2023-08-11 | 2024-04-19 |

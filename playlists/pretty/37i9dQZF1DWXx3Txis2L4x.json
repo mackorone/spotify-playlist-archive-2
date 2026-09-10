@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 647843,
+  "num_followers": 647870,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Billy Talent III",
         "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 253306,
       "name": "Rusted From the Rain",
       "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Panic Vertigo - EP",
-        "url": "https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 198668,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Get Lost, Find Yourself",
         "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 209693,
       "name": "The Other Line",
       "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Panic Vertigo - EP",
+        "url": "https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 198668,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 193813,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 250222,
+      "name": "Ohms",
+      "url": "https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 214505,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+      "duration_ms": 201706,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/7LU08tcGTBpD2YNabUiYix"
     },
     {
       "added_at": "2024-10-08 12:05:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,575 songs - 21 day 19 hr 37 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,582 songs - 21 day 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8583,5 +8583,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8573 | [CROWN \[Feat\. Westside Gunn\]](https://open.spotify.com/track/3TXvBWS3c0QmYKVfg650Ch) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 3:04 |
 | 8574 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/1qHqHoENhzVRJVNW3atibD) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:48 |
 | 8575 | [WHITE ALBUM Live at Campus Fes](https://open.spotify.com/track/5ocaRmFuKX28kIuM2MmeyO) | [小木曽雪菜](https://open.spotify.com/artist/6gyAUiEdFgLK58EQln0mDO) | [WHITE ALBUM2 Original Soundtrack ～setsuna～](https://open.spotify.com/album/0yzWIF41Kt3ybmqlgSM7OH) | 4:40 |
+| 8576 | [Dogsong](https://open.spotify.com/track/3QHAbiwH3oUFTF7EK8Whz7) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/38IVLVR7LE9Mgj36SXkm1p) | 0:37 |
+| 8577 | [Main Lobby](https://open.spotify.com/track/7zn9bnyNERwCSL9mSsd38L) | [Sohn Minsoo \(DEVSISTERS\)](https://open.spotify.com/artist/6uq8eAkxkQEGkbY7jRfhGD) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ZgJ1Mt9HX4fGWrzJXmNF3) | 1:28 |
+| 8578 | [DJ Cookie's Party of the Century](https://open.spotify.com/track/4TezXqa8GatmP0dItWakIX) | [Sohn Minsoo \(DEVSISTERS\)](https://open.spotify.com/artist/6uq8eAkxkQEGkbY7jRfhGD) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ZgJ1Mt9HX4fGWrzJXmNF3) | 2:44 |
+| 8579 | [Rest Area](https://open.spotify.com/track/491lPeQ3USrlwOkEZlC56y) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Rest Area](https://open.spotify.com/album/1w4OnaoBQLT858DcPw2fDr) | 2:13 |
+| 8580 | [MII MAKER NINTENDO 3DS](https://open.spotify.com/track/0jdtZneSco3sV9Do08aRJf) | [kunai](https://open.spotify.com/artist/5cgqCgfzxJfHPQk8GMuylm) | [MII MAKER NINTENDO 3DS](https://open.spotify.com/album/6zdyCzAvUuLDmJitaFYQgF) | 2:21 |
+| 8581 | [dancing around in circles until my little feet fall off](https://open.spotify.com/track/1puY4JoopB9hO2AYc9lydC) | [spellcasting](https://open.spotify.com/artist/2AqLY2MtalQAJ29dlkdVck) | [dancing around in circles until my little feet fall off](https://open.spotify.com/album/0xefI6enCNx95cNWLuQ8hJ) | 1:29 |
+| 8582 | [Acid Tunnel of Love](https://open.spotify.com/track/5asZ6mI4gcw3tTG3wAsMve) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapter 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/4rdyH2luYP6J6k13P8aIm9) | 1:30 |
 
-Snapshot ID: `AAAM970ik3mtxz1GCNGMVjJR0DTvIgSr`
+Snapshot ID: `AAAM/ps9z7Ts7vMTf4C3oyfVBxZNJUfn`

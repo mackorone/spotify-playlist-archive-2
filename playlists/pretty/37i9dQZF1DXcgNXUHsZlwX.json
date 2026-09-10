@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143502,
+  "num_followers": 143500,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Uh Oh",
         "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
@@ -423,26 +439,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Bridge Back to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
-      },
-      "artists": [
-        {
-          "name": "Al Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        },
-        {
-          "name": "Benedikt MacIsaac",
-          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Bridge Back to Me - Acoustic",
-      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "People Pleasing",
         "url": "https://open.spotify.com/album/7jMruxsthetOYPz6pNv2Sl"
       },
@@ -459,18 +455,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "freedom",
-        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
+        "name": "Bridge Back to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
       },
       "artists": [
         {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "Benedikt MacIsaac",
+          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
         }
       ],
-      "duration_ms": 218389,
-      "name": "freedom",
-      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
+      "duration_ms": 166506,
+      "name": "Bridge Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "how about you",
-        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
         }
       ],
-      "duration_ms": 168484,
-      "name": "how about you",
-      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+      "duration_ms": 218389,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "the evergreen, the birch",
         "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 179050,
       "name": "the evergreen, the birch",
       "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Loose Ends",
-        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Loose Ends",
-      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
       },
       "artists": [
         {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 132370,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Moi je t'aime",
-        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 177556,
-      "name": "Moi je t'aime",
-      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200466,
       "name": "The Wandering",
       "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Love Protect Us, Everyone (Instrumental)",
-        "url": "https://open.spotify.com/album/5VlXxEQ75BxOpq4mW9ag28"
-      },
-      "artists": [
-        {
-          "name": "Brad Barr",
-          "url": "https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "Love Protect Us, Everyone - Instrumental",
-      "url": "https://open.spotify.com/track/31mJCrundFdUHgwKdRuIi5"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Love Protect Us, Everyone (Instrumental)",
+        "url": "https://open.spotify.com/album/5VlXxEQ75BxOpq4mW9ag28"
+      },
+      "artists": [
+        {
+          "name": "Brad Barr",
+          "url": "https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Love Protect Us, Everyone - Instrumental",
+      "url": "https://open.spotify.com/track/31mJCrundFdUHgwKdRuIi5"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Future Lovers",
         "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1087,6 +1071,22 @@
       "duration_ms": 305185,
       "name": "Bigger Pieces",
       "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Parmi les autres",
-        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
       },
       "artists": [
         {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Parmi les autres",
-      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+      "duration_ms": 205794,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Tempest",
-        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
+        "name": "Parmi les autres",
+        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
       "artists": [
         {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
+      "duration_ms": 219000,
+      "name": "Parmi les autres",
+      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Isabella",
-        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
       },
       "artists": [
         {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
         }
       ],
-      "duration_ms": 248366,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
+      "duration_ms": 129204,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+        "name": "Isabella",
+        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
       },
       "artists": [
         {
-          "name": "Olivia Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
         }
       ],
-      "duration_ms": 129204,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
+      "duration_ms": 248366,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 189945,
-      "name": "Comme un b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 189945,
+      "name": "Comme un b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "sMiLes",
-        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
       "artists": [
         {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
         }
       ],
-      "duration_ms": 174023,
-      "name": "SHouLd I sMiLe?",
-      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1539,18 +1535,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+        "name": "sMiLes",
+        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
       },
       "artists": [
         {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+      "duration_ms": 174023,
+      "name": "SHouLd I sMiLe?",
+      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
     },
     {
       "added_at": "2026-09-04 04:03:17",

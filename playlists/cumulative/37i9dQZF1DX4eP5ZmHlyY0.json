@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "The Second Wave : MOMENTUM",
+        "url": "https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        },
+        {
+          "name": "SUNGCHAN of RIIZE",
+          "url": "https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "ALIVE (Feat. SUNGCHAN of RIIZE)",
+      "url": "https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI"
+    },
+    {
+      "album": {
         "name": "All 4 U",
         "url": "https://open.spotify.com/album/7GosBgij0r8amicLz11kZV"
       },
@@ -5258,6 +5280,28 @@
     {
       "album": {
         "name": "Flame (feat. milet)",
+        "url": "https://open.spotify.com/album/3IN99tLHkNBdqB9fLREzP1"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        },
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Flame (feat. milet)",
+      "url": "https://open.spotify.com/track/167V5iL3BHjy9Fu5EO5hxW"
+    },
+    {
+      "album": {
+        "name": "Flame (feat. milet)",
         "url": "https://open.spotify.com/album/31iNQGSIHwJXUFXUhQ4Iel"
       },
       "artists": [
@@ -5272,7 +5316,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 187000,
       "name": "Flame (feat. milet)",
       "url": "https://open.spotify.com/track/3kc015UcTXwPahxNLJqe4M"
@@ -8408,6 +8452,24 @@
       "duration_ms": 195000,
       "name": "Just Say Yes",
       "url": "https://open.spotify.com/track/5BxqNSdRok2AaGSYVFXdmY"
+    },
+    {
+      "album": {
+        "name": "KAKERA -Unmei no Piece-",
+        "url": "https://open.spotify.com/album/5pJV7V3H5gyYqW3mMTWnmT"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "KAKERA -Unmei no Piece-",
+      "url": "https://open.spotify.com/track/5BzO9ZJn7RIthj3U1qXK0L"
     },
     {
       "album": {

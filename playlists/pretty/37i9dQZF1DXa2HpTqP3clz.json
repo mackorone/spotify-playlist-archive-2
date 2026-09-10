@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168630,
+  "num_followers": 168628,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Powder Day",
         "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 260000,
       "name": "Powder Day",
       "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "What Did the Blackbird Say to the Crow",
-        "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Justin Robinson",
-          "url": "https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw"
-        }
-      ],
-      "duration_ms": 148889,
-      "name": "Rain Crow",
-      "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "In Control (feat. Lindsay Lou)",
         "url": "https://open.spotify.com/album/4haxylHYKTWOlgfV4sb3q8"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 337129,
       "name": "In Control (feat. Lindsay Lou)",
       "url": "https://open.spotify.com/track/46Bl0IGPmuzmIAzCuWcQwg"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "What Did the Blackbird Say to the Crow",
+        "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Justin Robinson",
+          "url": "https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw"
+        }
+      ],
+      "duration_ms": 148889,
+      "name": "Rain Crow",
+      "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Della Jane's Heart",
         "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -1019,26 +1019,6 @@
       "duration_ms": 163149,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Will You Ever Be Mine",
-        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn",
-          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
-        },
-        {
-          "name": "Dudley Connell",
-          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Will You Ever Be Mine",
-      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+        "name": "Will You Ever Be Mine",
+        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
       "artists": [
         {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+          "name": "Bronwyn",
+          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
         }
       ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+      "duration_ms": 158480,
+      "name": "Will You Ever Be Mine",
+      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Hillside",
         "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 190764,
       "name": "Hillside",
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1219,22 +1235,6 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2026-08-14 04:01:26",

@@ -1,13 +1,61 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Keane Cotta",
-  "num_followers": 62935,
+  "description": "The best new music by independent artists and labels in India. Cover - Aeymanntara",
+  "num_followers": 62957,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB25Afl2q0uxyiRjvVYH8V2epSiu",
+  "snapshot_id": "AAAAAMJg8oT4J2dHePD9OFNtHlUBtX6A",
   "tracks": [
+    {
+      "added_at": "2026-09-09 07:30:26",
+      "album": {
+        "name": "Oceans Apart",
+        "url": "https://open.spotify.com/album/1ICLaiLk7VieRGqhHVwloU"
+      },
+      "artists": [
+        {
+          "name": "Rohit Bhatia",
+          "url": "https://open.spotify.com/artist/4Hpzcft4QSPz7dwFhnLt22"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Oceans Apart",
+      "url": "https://open.spotify.com/track/7sOdcqQNNykUySlX3q9QrX"
+    },
+    {
+      "added_at": "2026-09-09 07:30:26",
+      "album": {
+        "name": "Bundiya",
+        "url": "https://open.spotify.com/album/7hE3QNBVom9bK4GtIqByJM"
+      },
+      "artists": [
+        {
+          "name": "Savni Bhatt",
+          "url": "https://open.spotify.com/artist/1YO52y5qNkcHvM2x27N2Tn"
+        }
+      ],
+      "duration_ms": 296581,
+      "name": "Bundiya",
+      "url": "https://open.spotify.com/track/5W6Cffr4cIjNDuhbiVp5xq"
+    },
+    {
+      "added_at": "2026-09-09 07:30:26",
+      "album": {
+        "name": "Rain Story",
+        "url": "https://open.spotify.com/album/5rZIaIWmGpkJlu7A7oL4h9"
+      },
+      "artists": [
+        {
+          "name": "Debattama",
+          "url": "https://open.spotify.com/artist/6VFfxgDEayurfp7m98ucqi"
+        }
+      ],
+      "duration_ms": 195769,
+      "name": "Rain Story",
+      "url": "https://open.spotify.com/track/5e0zPk8qvHcWtSJbyxsxi3"
+    },
     {
       "added_at": "2026-08-26 07:30:02",
       "album": {
@@ -759,22 +807,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Tijori",
-        "url": "https://open.spotify.com/album/1dDCqEcbjUIysTEQgVaV8r"
-      },
-      "artists": [
-        {
-          "name": "Trishita Recs",
-          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
-        }
-      ],
-      "duration_ms": 186210,
-      "name": "Tijori",
-      "url": "https://open.spotify.com/track/7lmK3ix2fXGsgZWwcSgfU9"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Tum Mere Hona",
         "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
       },
@@ -815,42 +847,6 @@
       "duration_ms": 233696,
       "name": "Megh",
       "url": "https://open.spotify.com/track/3Ljb4WAugiB74p46pSBz4O"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Janeja",
-        "url": "https://open.spotify.com/album/2TWqyyizM984MkjUM1y8Pp"
-      },
-      "artists": [
-        {
-          "name": "Pratik Kundu",
-          "url": "https://open.spotify.com/artist/4qoPM6imXNKs7Uj6aAJNJP"
-        }
-      ],
-      "duration_ms": 236204,
-      "name": "Janeja",
-      "url": "https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Baanki",
-        "url": "https://open.spotify.com/album/4pCRkrpzJyooK8paZBpjED"
-      },
-      "artists": [
-        {
-          "name": "abhii",
-          "url": "https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU"
-        },
-        {
-          "name": "Vagish",
-          "url": "https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv"
-        }
-      ],
-      "duration_ms": 200276,
-      "name": "Baanki",
-      "url": "https://open.spotify.com/track/0zZMDbpjcrRyoq5vBen567"
     },
     {
       "added_at": "2026-07-15 08:00:14",

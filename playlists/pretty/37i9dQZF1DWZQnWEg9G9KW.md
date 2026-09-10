@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 
 > Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,196 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,463 likes - 61 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 | 57 | [One Beat Away \(Guitar Version\)](https://open.spotify.com/track/0F2pr1I37fMzyqEwoHapDo) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [One Beat Away \(From "Camp Rock 3"\)](https://open.spotify.com/album/6fAkVdmBqkHFiZ9OYSJ7wC) | 3:49 |
 | 58 | [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 |
 | 59 | [This Is Me](https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:46 |
-| 60 | [Introducing Me](https://open.spotify.com/track/5ZpVxxdGVnxTctwSo7uXlO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:21 |
+| 60 | [Play It My Way \(Guitar Version\)](https://open.spotify.com/track/2FqsCqtnDJZxot0PpUcOtD) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Play It My Way \(From "Camp Rock 3"\)](https://open.spotify.com/album/4cCL4cjPg1D26Q9XM9xRGk) | 4:04 |
+| 61 | [Introducing Me](https://open.spotify.com/track/5ZpVxxdGVnxTctwSo7uXlO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:21 |
 
-Snapshot ID: `AAAAAAyHIDFh8gDAnGzpdpFsYHgA0t6P`
+Snapshot ID: `AAAAAKJdPKOhiD6O7pxgwHNom5U1RTsy`

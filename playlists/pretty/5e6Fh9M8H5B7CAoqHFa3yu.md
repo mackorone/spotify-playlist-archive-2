@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,608 songs - 6 day 9 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,608 songs - 6 day 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2487,7 +2487,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2477 | [Somewhere After Midnight](https://open.spotify.com/track/3MxokWkqpnzTgD7sqoUQBJ) | [Blue Bohemia](https://open.spotify.com/artist/6tPiRSOD4450Ll6p9ifeQC) | [Somewhere After Midnight](https://open.spotify.com/album/2y6L029qNPAopezjHbsRo0) | 3:16 |
 | 2478 | [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 |
 | 2479 | [Twilight Ribbit](https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA) | [Ear Crimes](https://open.spotify.com/artist/5u9VKowwLX8qWNwv3RZ77G) | [Twilight Ribbit](https://open.spotify.com/album/7kfYCwOkhlgGDpXEzvFLJR) | 2:38 |
-| 2480 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 2480 | [Build to Burn \- Demo](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn \(Demo\)](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
 | 2481 | [Loves Music \- Radio Edit](https://open.spotify.com/track/1dNueSdlM99ggeo43R3Stf) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Loves Music](https://open.spotify.com/album/3QdcRzXOQjPpo8lCsZx7tY) | 2:09 |
 | 2482 | [Bubbles of Hope](https://open.spotify.com/track/36XKkpQgoWS1t1PE9o66gY) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Bubbles of Hope](https://open.spotify.com/album/6rGO9uB47Pql03cZcHvZwr) | 2:55 |
 | 2483 | [Une minute de haine](https://open.spotify.com/track/1N8DcZdRINcVEck8yVrkDd) | [GDMZ](https://open.spotify.com/artist/7ytQGgsdG1olqWp81DH3Gf) | [Un minuto \(Cinco idiomas, un mismo mensaje\)](https://open.spotify.com/album/2VS0vmXbEKYZcxvFxK8ZHY) | 2:03 |

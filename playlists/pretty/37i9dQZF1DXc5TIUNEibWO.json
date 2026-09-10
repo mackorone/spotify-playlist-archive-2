@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 10271,
+  "num_followers": 10276,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Yaw Burger",
-        "url": "https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq"
-      },
-      "artists": [
-        {
-          "name": "George Jahraa",
-          "url": "https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Ashikele",
-      "url": "https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "ABC Of Love",
         "url": "https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 337773,
       "name": "ABC",
       "url": "https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Yaw Burger",
+        "url": "https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq"
+      },
+      "artists": [
+        {
+          "name": "George Jahraa",
+          "url": "https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Ashikele",
+      "url": "https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo"
     },
     {
       "added_at": "2026-02-20 08:28:52",

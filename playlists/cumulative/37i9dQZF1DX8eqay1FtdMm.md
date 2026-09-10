@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: JEONG EUN JI \(정은지\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: D.O.\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-668 songs - 1 day 19 hr 33 min
+669 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Goodbye to longing](https://open.spotify.com/track/5AiOu5WPYJ2e9209prcQTA) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [33.3](https://open.spotify.com/album/6PRU6ysVA75xD2OTE9X0SX) | 3:50 | 2023-12-01 | 2024-01-13 |
 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 | 2021-12-20 |  |
 | [Guilt](https://open.spotify.com/track/3TMIl4bxG9D4nlJQjkMJwz) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [Guilt](https://open.spotify.com/album/2DyLO9uBuy8jN4hMeyPRyJ) | 4:30 | 2026-01-15 | 2026-02-24 |
+| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-09 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2023-07-12 |
 | [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 | 2024-07-24 |
 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 | 2023-05-25 |  |
@@ -519,7 +520,7 @@
 | [Thank You](https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 4:38 | 2022-12-14 | 2023-01-25 |
 | [The Destruction Of The Shell](https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [The Return Of N.EX.T Pt\. 1 The Being](https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT) | 9:53 | 2024-05-29 | 2024-06-06 |
 | [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 | 2024-01-12 | 2024-02-09 |
-| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 |  |
+| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 | 2026-09-10 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-27 | 2022-07-22 |
 | [The girl who resembles you \(feat\. Ha Yea Song\)](https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq), [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [The girl who resembles you](https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz) | 3:10 | 2026-04-30 | 2026-09-09 |
 | [The Leopard of Killimanjaro](https://open.spotify.com/track/5PIr3ZJAhdAbWJx0f3Qoc3) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Through The Darkness OST Part.4](https://open.spotify.com/album/4udEUd1K2GcbAgw8VUufEO) | 4:21 | 2022-03-21 | 2022-06-12 |

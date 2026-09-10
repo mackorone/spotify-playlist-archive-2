@@ -1,6 +1,6 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29098,
+  "num_followers": 29101,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Cristal",
         "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 179533,
       "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
       "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "De M\u00ed",
         "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 180073,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "duration_ms": 125396,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Las Cosas Simples",
         "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
-      },
-      "artists": [
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        }
-      ],
-      "duration_ms": 125396,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "No te apartes de m\u00ed",
-        "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "No te apartes de m\u00ed",
-      "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Hasta la Ra\u00edz",
         "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 159285,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "No te apartes de m\u00ed",
+        "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "duration_ms": 198243,
+      "name": "No te apartes de m\u00ed",
+      "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
     },
     {
       "added_at": "2026-08-20 22:49:00",

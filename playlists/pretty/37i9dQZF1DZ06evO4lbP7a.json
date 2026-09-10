@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50301,
+  "num_followers": 50294,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap3+gAAAAACQnFpZuTVNdeQc7LH5N5qS",
+  "snapshot_id": "ap9QAAAAAAD5xfz+anc5xFxsM0Vl0BgO",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 253323,
       "name": "\u98db\u3076\u6642",
       "url": "https://open.spotify.com/track/3oD8xasVquybDGrftRT70E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mountain",
-        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "mountain",
-      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "added_at": null,
@@ -151,6 +135,22 @@
       "duration_ms": 191964,
       "name": "U and I",
       "url": "https://open.spotify.com/track/1ha5fndeJmwVRRIUUBZlkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "mountain",
+      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "C.U.T",
+        "url": "https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 300100,
+      "name": "Hanamushiro",
+      "url": "https://open.spotify.com/track/2MBkWeapnzFZst4fxaaC8m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "doku",
         "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 176833,
       "name": "doku",
       "url": "https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C.U.T",
-        "url": "https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 300100,
-      "name": "Hanamushiro",
-      "url": "https://open.spotify.com/track/2MBkWeapnzFZst4fxaaC8m"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "C.U.T - Studio Live -",
-        "url": "https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 189700,
-      "name": "UPSIDE DOWN - Studio Live -",
-      "url": "https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K"
+      "duration_ms": 208805,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL"
     }
   ],
   "unique_name": "This Is yama",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,739 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,825 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 39 | [Abarajame](https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH) | 4:18 |
 | 40 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 |
 | 41 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
-| 42 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
-| 43 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 42 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 43 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
 | 44 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 | 45 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 46 | [El Idioma De Los Dioses](https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:13 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 90 | [Causa y Efecto](https://open.spotify.com/track/6dYNhN8zOGK2Q67QddT1NN) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [El Camino de la Serpiente](https://open.spotify.com/album/0Dg2f3GApbo99D3aclUNo9) | 4:38 |
 | 91 | [Y Boquete Pa Tu Techo](https://open.spotify.com/track/6VvDIjJSwswOhdbamnbP5z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Y Boquete Pa Tu Techo](https://open.spotify.com/album/5UzpBAZUPKyO0dIe6EFfLN) | 4:37 |
 | 92 | [Super Mc´s](https://open.spotify.com/track/1k6jHt50arPTiVm2MtFMKx) | [La Real Academia De La Rima](https://open.spotify.com/artist/0KhBKiXLnr0TwhP9XV8Mbg) | [Rapza 5](https://open.spotify.com/album/4DJq3btDQH1rTfYan6ziyu) | 4:46 |
-| 93 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
+| 93 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
 | 94 | [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 |
-| 95 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
+| 95 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
 | 96 | [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 |
 | 97 | [La Vida Es](https://open.spotify.com/track/4YymmqRZz37xUB42rLsb1P) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Réquiem](https://open.spotify.com/album/4nyQxMhfZR041xn8R16L1R) | 3:58 |
-| 98 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
-| 99 | [Jaque Mate](https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Jorge](https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR) | 2:59 |
+| 98 | [Jaque Mate](https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Jorge](https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR) | 2:59 |
+| 99 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
 | 100 | [120 Barras: Capítulo 1](https://open.spotify.com/track/1WqSDATCV98n00oBn7CqKf) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [120 Barras: Capítulo 1](https://open.spotify.com/album/6mEw59v4PmmQhtcGbjS4qr) | 3:16 |
 
 Snapshot ID: `AAAAAItVLq9QEDwQvDNJ3k9/+ME6K5DC`

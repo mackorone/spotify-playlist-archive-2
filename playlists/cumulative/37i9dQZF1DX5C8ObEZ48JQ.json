@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt?si=9176f0232659484c\">ru.</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg?si=5c31513e7d804261\">Kahuti</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -13477,6 +13477,24 @@
     },
     {
       "album": {
+        "name": "Kevin Bacon",
+        "url": "https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY"
+      },
+      "artists": [
+        {
+          "name": "Earldridge",
+          "url": "https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150279,
+      "name": "Kevin Bacon",
+      "url": "https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV"
+    },
+    {
+      "album": {
         "name": "THEY WILL ASK",
         "url": "https://open.spotify.com/album/3qxD2Ci2P0uUJXYj1Tcaot"
       },
@@ -14000,7 +14018,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 213306,
       "name": "Lay it On Me",
       "url": "https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD"
@@ -15644,7 +15662,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 168964,
       "name": "Mabulala Amakhosi",
       "url": "https://open.spotify.com/track/2701MbRD0Qmto5ZVY08Df8"
@@ -15822,6 +15840,24 @@
       "duration_ms": 157836,
       "name": "Mal",
       "url": "https://open.spotify.com/track/0RyNPRr28VHy5GYB19kFEU"
+    },
+    {
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds"
+      },
+      "artists": [
+        {
+          "name": "Kahuti",
+          "url": "https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz"
     },
     {
       "album": {

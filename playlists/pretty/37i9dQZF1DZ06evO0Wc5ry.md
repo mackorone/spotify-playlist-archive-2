@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,365 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,367 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 37 | [Ain't No Thang](https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:38 |
 | 38 | [Morris Brown \(feat\. Scar & Sleepy Brown\)](https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:24 |
 | 39 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
-| 40 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
-| 41 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
+| 40 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
+| 41 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
 | 42 | [Idlewild Blue \(Don'tchu Worry 'Bout Me\)](https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 3:24 |
 | 43 | [Funkin' Around](https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:34 |
 | 44 | [Throw Your Hands Up \(feat\. Outkast\)](https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN) | [8Ball](https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda), [MJG](https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [We Are The South \(Greatest Hits\)](https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Neck Uv Da Woods \(feat\. Outkast\)](https://open.spotify.com/track/5rX4diK1dOmikCV8ffQOEl) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 4:03 |
 | 50 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `ap3+gAAAAACvtryrD8MGeShCuY9/eXQ9`
+Snapshot ID: `ap9QAAAAAAACzWuyw+8rhw5pCwKPi4gx`

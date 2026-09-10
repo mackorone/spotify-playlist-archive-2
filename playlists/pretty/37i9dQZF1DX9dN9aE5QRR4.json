@@ -1,15 +1,135 @@
 {
   "description": "La playlist officielle de Nouvelle \u00c9cole. Saison 5 dispo sur Netflix !",
-  "num_followers": 113354,
+  "num_followers": 113670,
   "original_name": "Nouvelle \u00c9cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbOFhviYdfRGyKahpLh2a+/naD8",
+  "snapshot_id": "AAAAAEpMsmNdico3GdIBH+h2q4oaEjAB",
   "tracks": [
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "TERIYAKI - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Nayte | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0g8lAAMUeGMuNbluBJi0u0"
+      },
+      "artists": [
+        {
+          "name": "Nayte",
+          "url": "https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "CASH - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/7E37xniYnkHco2yvnhFYP7"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Mischa | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/7kxWfkMSOGBRh8gQsLDqFa"
+      },
+      "artists": [
+        {
+          "name": "MISCHA",
+          "url": "https://open.spotify.com/artist/4jQJP7r2EqusqHqWaJ7KnA"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "TRAP STAR - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2E89M5Ohrai3CWbAGCtb72"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 168990,
+      "name": "POUSSETTE - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Nayte | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0g8lAAMUeGMuNbluBJi0u0"
+      },
+      "artists": [
+        {
+          "name": "Nayte",
+          "url": "https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 158458,
+      "name": "Dis-moi - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/0Zq4kjz9AWHeFeMw358s2c"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Mischa | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/7kxWfkMSOGBRh8gQsLDqFa"
+      },
+      "artists": [
+        {
+          "name": "MISCHA",
+          "url": "https://open.spotify.com/artist/4jQJP7r2EqusqHqWaJ7KnA"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 166095,
+      "name": "Le Bac - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/5sUBQqJC2M7zuDg47cBx7O"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -33,31 +153,23 @@
       "url": "https://open.spotify.com/track/0dul8Cb2f9dyfRI4HQIAkp"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
-        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
+        "name": "The cat",
+        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
       },
       "artists": [
         {
-          "name": "Typhee",
-          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
-        },
-        {
-          "name": "Kynn",
-          "url": "https://open.spotify.com/artist/5OZiwRkXsFm4IMlCLf5h9G"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
         }
       ],
-      "duration_ms": 151124,
-      "name": "Si ils savaient - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/0kG99R7LnZC3JdrhoamW3U"
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -81,7 +193,7 @@
       "url": "https://open.spotify.com/track/71wjKJBxyH9RhcXcPVCCTk"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -105,7 +217,31 @@
       "url": "https://open.spotify.com/track/4EhFeH8xBBuQ2YODUAP217"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Kynn",
+          "url": "https://open.spotify.com/artist/5OZiwRkXsFm4IMlCLf5h9G"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "Si ils savaient - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/0kG99R7LnZC3JdrhoamW3U"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "N\u00e9s Pour Briller : Book I",
         "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
@@ -121,7 +257,7 @@
       "url": "https://open.spotify.com/track/4liOLSxxEllQ61qaR4pFJL"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -145,7 +281,7 @@
       "url": "https://open.spotify.com/track/1mAgqMmKxsmziUWtpXrHUo"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -165,23 +301,7 @@
       "url": "https://open.spotify.com/track/1YyQgU53d9xCmGpBr0I6u0"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
-      "album": {
-        "name": "The cat",
-        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LOVE YOU",
-      "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
-    },
-    {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -201,27 +321,7 @@
       "url": "https://open.spotify.com/track/0z8UVzncdPfP1q21IfgVXr"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
-      },
-      "artists": [
-        {
-          "name": "Typhee",
-          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Mode De Vie Beton Style - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/6ETqE65023O7lIJBxucnGl"
-    },
-    {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h"
@@ -241,7 +341,7 @@
       "url": "https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -261,7 +361,27 @@
       "url": "https://open.spotify.com/track/7dJ6XBsIq9BkjURSKMN8GT"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Mode De Vie Beton Style - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/6ETqE65023O7lIJBxucnGl"
+    },
+    {
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT"
@@ -281,7 +401,7 @@
       "url": "https://open.spotify.com/track/5H01vPazN8e1FdWLVkZu3a"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE"
@@ -297,7 +417,7 @@
       "url": "https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Premier Virage | Nouvelle \u00c9cole x CUPRA (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/4g4qBTdXzbgkReL8BBriiR"
@@ -317,7 +437,7 @@
       "url": "https://open.spotify.com/track/3c93idX72x0dHondrbVXUy"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Premier Virage | Nouvelle \u00c9cole x CUPRA (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/4g4qBTdXzbgkReL8BBriiR"
@@ -337,7 +457,7 @@
       "url": "https://open.spotify.com/track/6Gwx81GcgBjiTQgtSR0jQD"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -357,7 +477,7 @@
       "url": "https://open.spotify.com/track/1XnP0mDRlR2tjJVIOPiqvN"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Premier Virage | Nouvelle \u00c9cole x CUPRA (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/4g4qBTdXzbgkReL8BBriiR"
@@ -377,7 +497,7 @@
       "url": "https://open.spotify.com/track/0xCH51u9EaF4i8G7PtN8j8"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Premier Virage | Nouvelle \u00c9cole x CUPRA (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/4g4qBTdXzbgkReL8BBriiR"
@@ -397,7 +517,7 @@
       "url": "https://open.spotify.com/track/1Z4xnBvC1rQZA35E9BgjdK"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -417,7 +537,7 @@
       "url": "https://open.spotify.com/track/2YJGf001sT2KLXs4HuYJn5"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -437,7 +557,7 @@
       "url": "https://open.spotify.com/track/5lie7Ic5VbMDhPvIPiLfRl"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -457,7 +577,7 @@
       "url": "https://open.spotify.com/track/2h92vWVwxM12CSOJXtpL0h"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -477,7 +597,7 @@
       "url": "https://open.spotify.com/track/4r0hdhdQYtQ5Lqd5w3wE62"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -497,7 +617,7 @@
       "url": "https://open.spotify.com/track/5KezDA5bTYvM3oLTpvXZh6"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -517,7 +637,7 @@
       "url": "https://open.spotify.com/track/1T3ZjaCjD3X12kPhClK1sX"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -537,7 +657,7 @@
       "url": "https://open.spotify.com/track/1ItxUN5cIJPaeOol3GOig3"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -557,7 +677,7 @@
       "url": "https://open.spotify.com/track/4ROVRlO5XUqFNEbVz5LMLG"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -577,7 +697,7 @@
       "url": "https://open.spotify.com/track/21DQ739qOzCp21y193jRiU"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -597,7 +717,7 @@
       "url": "https://open.spotify.com/track/35dDVhp4d6cMKTzKZ7BvNo"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -617,7 +737,7 @@
       "url": "https://open.spotify.com/track/6gNgjwBZc8AJG6EhdMqLyt"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -637,7 +757,7 @@
       "url": "https://open.spotify.com/track/78DcuO9DGkKkH8sZ1HhPJA"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -657,7 +777,7 @@
       "url": "https://open.spotify.com/track/1RtlGf0CIqQImlPlZ5Kpf6"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -677,7 +797,7 @@
       "url": "https://open.spotify.com/track/29MCr7JzCCO5DUnq70QUZu"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 5 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1WJKm55d0SW69wi3iWQoK2"
@@ -697,7 +817,7 @@
       "url": "https://open.spotify.com/track/2p4k2cy51Gh7cBuvTlGx13"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "DIEU EST GRANDE",
         "url": "https://open.spotify.com/album/75akm23oaHhtzextLCN2zz"
@@ -713,7 +833,7 @@
       "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "HLM2",
         "url": "https://open.spotify.com/album/4X8XCXidVPuKpTZmsLHaTz"
@@ -729,7 +849,7 @@
       "url": "https://open.spotify.com/track/4reODQeIoWhBgXe3nZmehp"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/0Zu1973ka6igA5uYGiJ81S"
@@ -745,7 +865,7 @@
       "url": "https://open.spotify.com/track/0IhTXHtG1XRlM2kFWBiYxu"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "BAD BOY LOVESTORY",
         "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
@@ -765,7 +885,7 @@
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -781,7 +901,7 @@
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/30XbWO5hH3mY4JhP6QZMTx"
@@ -801,7 +921,7 @@
       "url": "https://open.spotify.com/track/5Vc43lNIsvqXrzNdR8Mhoz"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/1dd7BfWq5G4mEJo3P5aEpt"
@@ -821,7 +941,7 @@
       "url": "https://open.spotify.com/track/3ZFT4krqXeh5dugRtjD2fq"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi"
@@ -845,7 +965,7 @@
       "url": "https://open.spotify.com/track/36hFtMro1Re8wzonBm3YEq"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 4 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/6pOGbM29xuLfVfrdeUNEBi"
@@ -865,7 +985,7 @@
       "url": "https://open.spotify.com/track/7jEFvAE6hVnbwxw86bNdDe"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -885,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -905,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
@@ -925,7 +1045,7 @@
       "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -945,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -965,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1hJBRxLHIqOMlMR3D3FNEf"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
@@ -985,7 +1105,7 @@
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
     },
     {
-      "added_at": "2026-09-02 22:00:23",
+      "added_at": "2026-09-09 22:00:24",
       "album": {
         "name": "Chop (Nouvelle \u00c9cole)",
         "url": "https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1"

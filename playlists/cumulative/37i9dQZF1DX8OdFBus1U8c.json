@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "5YL",
+        "url": "https://open.spotify.com/album/3bKbUO5c7svWsHqOOeS2TN"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "AAKEPETT",
+      "url": "https://open.spotify.com/track/6XXm01fROm90Bxi4BdNgSP"
+    },
+    {
+      "album": {
         "name": "Aana",
         "url": "https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ"
       },
@@ -5002,7 +5024,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 211475,
       "name": "Kejah - From Saina Music Indie",
       "url": "https://open.spotify.com/track/0JxsBVBtlxC7e5ZTHmn9XS"
@@ -8496,7 +8518,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-10",
       "duration_ms": 217500,
       "name": "PAALUM PAYOM",
       "url": "https://open.spotify.com/track/4k0kq4fNhSOpNYClEgjRek"
@@ -12780,6 +12802,28 @@
       "duration_ms": 297820,
       "name": "Workil Aanu Karyam",
       "url": "https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm"
+    },
+    {
+      "album": {
+        "name": "5YL",
+        "url": "https://open.spotify.com/album/3bKbUO5c7svWsHqOOeS2TN"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/3fj0T4QIHPgipVn4tAQYMe"
     },
     {
       "album": {

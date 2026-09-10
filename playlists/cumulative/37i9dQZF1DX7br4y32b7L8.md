@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Ilse DeLange
 
-916 songs - 1 day 21 hr 56 min
+917 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 | 2023-03-15 |
 | [Had Ik Maar](https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn) | [Merijn Scholten](https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO) | [Had Ik Maar](https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm) | 2:04 | 2025-10-30 | 2026-02-13 |
 | [HaHUA \(Doei Doei\)](https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU) | [AUXBERGINE](https://open.spotify.com/artist/5ITnDaeBB9eLjQaDQUJwzi) | [HaHUA \(Doei Doei\)](https://open.spotify.com/album/0kMYgc76yYiikvTzgyQQfB) | 1:55 | 2024-03-07 | 2024-03-22 |
+| [Hallo Allemaal](https://open.spotify.com/track/48zi45TFshBYVE2ZfKFM20) | [Selma](https://open.spotify.com/artist/2hp01mbCUVGCjVY2RVFAvQ), [Abu Hassan](https://open.spotify.com/artist/2vORpcCcQ9OC2uiAFJuwPA) | [Hallo Allemaal](https://open.spotify.com/album/5iCU2GNjbN3WGDLICW2qTs) | 1:45 | 2026-09-09 |  |
 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 | 2026-03-12 |  |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-02-14 | 2024-04-09 |
 | [Hardcore Will Never Die](https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Koningsdag 2022](https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl) | 2:11 | 2023-07-18 | 2024-05-07 |
@@ -705,7 +706,7 @@
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-18 | 2023-06-08 |
 | [SEGA](https://open.spotify.com/track/60rOQaDu4ADXKHqg4fT6IX) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Easier Said Than Done](https://open.spotify.com/album/4WdZUPgLkbS6qIeuP9CG9r) | 3:25 | 2024-06-26 | 2024-07-30 |
 | [Seks](https://open.spotify.com/track/2640GpoXtZt6czG9WbZkXL) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:23 | 2024-02-22 | 2024-07-30 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-02 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-02 | 2026-09-10 |
 | [SEMTEX](https://open.spotify.com/track/7gExwsfoDnfVyMOzOg94L1) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [SEMTEX](https://open.spotify.com/album/0aJIAXveZj9P6KqCIYpW8N) | 2:44 | 2024-05-15 | 2024-09-12 |
 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 | 2026-04-09 | 2026-05-05 |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2025-09-09 | 2026-02-13 |

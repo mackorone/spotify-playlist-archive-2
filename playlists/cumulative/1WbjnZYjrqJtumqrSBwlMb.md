@@ -4,13 +4,14 @@
 
 > Objectively good music
 
-1,360 songs - 3 day 11 hr 46 min
+1,361 songs - 3 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/6rm8YMIMndRVUYrErV6wUQ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6pTklYvpzN7feTjqSLT3Xi) | 0:00 | 2024-02-25 | 2025-08-24 |
 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 | 2021-01-17 |  |
 | ['Cause I'm A Man](https://open.spotify.com/track/2O99aywAVBhaPrsiJ6zbSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:01 | 2021-09-12 |  |
+| ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/track/3q94ZjzdjVZJ038g52pWGh) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [Wildwood Sessions](https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC) | ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/album/5SrZzTkAYvXBYC9qQs2Wch) | 2:57 | 2026-09-09 |  |
 | ['Til You're Mine](https://open.spotify.com/track/5M1km9JQz8tDel1k8fA1vc) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 3:32 | 2022-07-23 |  |
 | [\(I'm\) Stung](https://open.spotify.com/track/6oW5zKvWlGEZjW0EX2y9Bv) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [\(I’m\) Stung](https://open.spotify.com/album/5Ef6CPuglBPWKolkQtLa3R) | 3:55 | 2024-04-01 |  |
 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 | 2026-02-01 |  |
