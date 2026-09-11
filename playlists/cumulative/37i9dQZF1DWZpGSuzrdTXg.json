@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Ghostly Mourning Man",
+        "url": "https://open.spotify.com/album/6dFmM8WzoK7HrZ1GiszMIZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Ghostly Mourning Man",
+      "url": "https://open.spotify.com/track/1pRMk3zJ1OGc1WEvNO2CoR"
+    },
+    {
+      "album": {
         "name": "Gordon in the Willows",
         "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 297493,
       "name": "Heaven (Butterflies)",
       "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
@@ -3013,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3"
+    },
+    {
+      "album": {
         "name": "Magnetic Fields",
         "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
       },
@@ -3408,7 +3444,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 198089,
       "name": "Old Fashioned Parade",
       "url": "https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4"
@@ -5146,7 +5182,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 268109,
       "name": "Till the Morning - Symphonic Version",
       "url": "https://open.spotify.com/track/0p2myH6LY0j7vIMq0WW9Eu"
@@ -5464,7 +5500,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194834,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7w4AFW5BxsFBIQQccZdE7a"
@@ -5486,6 +5522,24 @@
       "duration_ms": 199200,
       "name": "When I Feel This Way",
       "url": "https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis"
+    },
+    {
+      "album": {
+        "name": "When My Eyes Were Empty",
+        "url": "https://open.spotify.com/album/4XmQLa1dvlIoJ8S5nXHe53"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210430,
+      "name": "When My Eyes Were Empty",
+      "url": "https://open.spotify.com/track/7ew9hyIYWlF5NrU0bJqXlP"
     },
     {
       "album": {
@@ -5641,6 +5695,24 @@
     },
     {
       "album": {
+        "name": "Wild Mountain Thyme",
+        "url": "https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d"
+      },
+      "artists": [
+        {
+          "name": "Roodnoot",
+          "url": "https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268778,
+      "name": "Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk"
+    },
+    {
+      "album": {
         "name": "Wish You The Best",
         "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
       },
@@ -5692,6 +5764,24 @@
       "duration_ms": 228395,
       "name": "Wishing Stone",
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/04WKoer5gDfI6Xfvla3jVz"
+      },
+      "artists": [
+        {
+          "name": "Cas Heim",
+          "url": "https://open.spotify.com/artist/0yXP3FUiGEKpLAXV1czUIE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Woke Up In Fall",
+      "url": "https://open.spotify.com/track/0gQi3TevRRnAgjhnOTK2yl"
     },
     {
       "album": {

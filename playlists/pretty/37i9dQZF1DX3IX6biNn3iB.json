@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 3219,
+  "num_followers": 3221,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKz1p8eHA/NFXnGyhxZUTNxZoBDt",
+  "snapshot_id": "AAAAAEcHMBAdiDQFjWaSudssSJpjHGbm",
   "tracks": [
     {
       "added_at": "2025-10-10 17:36:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 152343,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "Pienso En Ti",
+        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "EddyJae",
+          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "Pienso En Ti",
-        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
-        {
-          "name": "EddyJae",
-          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Pienso En Ti",
-      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
     },
     {
       "added_at": "2025-10-10 17:36:00",

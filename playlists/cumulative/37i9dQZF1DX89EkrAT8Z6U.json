@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 240940,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/08fJKZPSYONHJ49Sf4ri64"
@@ -4083,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "mr. sunshine",
+        "url": "https://open.spotify.com/album/7rvW3uGdmXRYY14oldA2J9"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/5vGUjhykZds2aqWFvfgnCh"
+    },
+    {
+      "album": {
         "name": "Mukanjyo",
         "url": "https://open.spotify.com/album/2GETS8ihYgK6ONlklnGHM9"
       },
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190125,
       "name": "Shibuya Arc",
       "url": "https://open.spotify.com/track/66AnOQv0avDMhd7NMJpw9Z"
@@ -5422,7 +5440,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161760,
       "name": "SMOKE SZN",
       "url": "https://open.spotify.com/track/0mRkCzt6l4eZV4HXTHB02Y"

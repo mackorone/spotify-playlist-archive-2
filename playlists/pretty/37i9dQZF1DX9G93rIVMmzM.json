@@ -1,12 +1,12 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 412769,
+  "num_followers": 412899,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKQP3xrtRA9W5tgbTLmTuyIDgZ5",
+  "snapshot_id": "AAAAALLGAMVaUNRLdI3IGbcqs1DAaf00",
   "tracks": [
     {
       "added_at": "2026-02-13 21:18:20",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 229500,
       "name": "Blood on the Sheets",
       "url": "https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2026-02-13 21:18:20",

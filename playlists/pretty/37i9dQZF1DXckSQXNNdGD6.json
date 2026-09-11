@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22898,
+  "num_followers": 22899,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPEXZ0TEN8TJx+wio5Li5Qu4Np9E",
+  "snapshot_id": "AAAAAJD91aCePOFTx44z6bxmmtoeGjdN",
   "tracks": [
     {
       "added_at": "2026-09-07 22:00:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -839,6 +839,26 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
+        "name": "El Destello",
+        "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        },
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "duration_ms": 160684,
+      "name": "El Destello",
+      "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
         "name": "V.I.P",
         "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 137872,
       "name": "V.I.P",
       "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
-        "name": "El Destello",
-        "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        },
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
-        }
-      ],
-      "duration_ms": 160684,
-      "name": "El Destello",
-      "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

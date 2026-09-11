@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 14 min
+80 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 3:11 | 2025-10-12 | 2026-03-11 |
 | [Las Uvas](https://open.spotify.com/track/2iss2LKKaEfoolz2PuTUda) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Éxitos de Colección](https://open.spotify.com/album/6UQUW0B830vE7IcZ5M92Rb) | 3:07 | 2024-01-29 | 2024-03-23 |
 | [Las Uvas](https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 3:10 | 2024-03-28 |  |
-| [Los Chismes](https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 2:59 | 2026-04-19 |  |
+| [Los Chismes](https://open.spotify.com/track/28Jag8vpyUlaxrbCy8RW9I) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Juan Valentin](https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [A Dueto: Amores Y Desengaños](https://open.spotify.com/album/2ZBloQpJXNqemDzm4yGxfP) | 2:58 | 2026-09-11 |  |
+| [Los Chismes](https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 2:59 | 2026-04-19 | 2026-09-11 |
 | [Los Chismes](https://open.spotify.com/track/7vafql00S0tEJ8tPpRZFFz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:59 | 2024-01-29 | 2026-04-19 |
 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 | 2026-04-19 |  |
 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 | 2024-01-29 |  |

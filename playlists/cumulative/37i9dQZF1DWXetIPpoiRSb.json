@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "pop's R&D department \u26a1\ufe0f\ud83e\uddea\ud83e\uddec cover: iKeda",
+  "description": "pop's R&D department \u26a1\ufe0f\ud83e\uddea\ud83e\uddec cover: Shygirl",
   "name": "Evolver",
   "tracks": [
     {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 126936,
       "name": "and Boys",
       "url": "https://open.spotify.com/track/0E0eqHlzB1izSlejKoEBvx"
@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "BLOND",
+        "url": "https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE"
+      },
+      "artists": [
+        {
+          "name": "jalda",
+          "url": "https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174727,
+      "name": "ANIME MIG",
+      "url": "https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet"
+    },
+    {
+      "album": {
         "name": "announcements",
         "url": "https://open.spotify.com/album/1iT03F2biHT5gNT9rCw7Fs"
       },
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 184320,
       "name": "Annoying",
       "url": "https://open.spotify.com/track/1gkmHKs2BwN9xLamE1JhVM"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 179250,
       "name": "BLOND",
       "url": "https://open.spotify.com/track/33rnQxZL6yxSgvWFtBe3ci"
@@ -8271,6 +8289,24 @@
     },
     {
       "album": {
+        "name": "Creamy",
+        "url": "https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Creamy",
+      "url": "https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW"
+    },
+    {
+      "album": {
         "name": "Tweaker Poem",
         "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
       },
@@ -8282,7 +8318,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 240000,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
@@ -16499,6 +16535,24 @@
     },
     {
       "album": {
+        "name": "Headbanger",
+        "url": "https://open.spotify.com/album/0q42784ly0ex4zDSI4n3MH"
+      },
+      "artists": [
+        {
+          "name": "Big Softy",
+          "url": "https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165238,
+      "name": "Headbanger",
+      "url": "https://open.spotify.com/track/54iOPh186Y72iTWHM2c0hB"
+    },
+    {
+      "album": {
         "name": "headline",
         "url": "https://open.spotify.com/album/11SdwsbfYW3Q3wifQNJFS3"
       },
@@ -18447,6 +18501,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213537,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
+    },
+    {
+      "album": {
         "name": "I DO ME",
         "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
       },
@@ -19608,7 +19680,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172500,
       "name": "I'll Feel Fine",
       "url": "https://open.spotify.com/track/7bVsJXeBUKIbWXSB8eoD1u"
@@ -20592,6 +20664,24 @@
       "duration_ms": 114285,
       "name": "INNOCENCE",
       "url": "https://open.spotify.com/track/00lj6s89hCf56DCHo0MJOi"
+    },
+    {
+      "album": {
+        "name": "Inside Your Light",
+        "url": "https://open.spotify.com/album/380ZZ2AeiyPiGdyYkNnH9t"
+      },
+      "artists": [
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219820,
+      "name": "Inside Your Light",
+      "url": "https://open.spotify.com/track/4ragvZ6bncbPc34ZqgZFth"
     },
     {
       "album": {
@@ -25067,6 +25157,24 @@
     },
     {
       "album": {
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+    },
+    {
+      "album": {
         "name": "lullaby",
         "url": "https://open.spotify.com/album/2ZiiQyPCdL2dsF3Tdn34I4"
       },
@@ -26020,6 +26128,28 @@
       "duration_ms": 204093,
       "name": "Me forever :(",
       "url": "https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP"
+    },
+    {
+      "album": {
+        "name": "Emotronica",
+        "url": "https://open.spotify.com/album/2XkdkpkPBjj8aLvtptWFmi"
+      },
+      "artists": [
+        {
+          "name": "Darcy Baylis",
+          "url": "https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218873,
+      "name": "Me In Miami",
+      "url": "https://open.spotify.com/track/1TpSXvJ62Ucq7SWmpx7l4I"
     },
     {
       "album": {
@@ -27852,6 +27982,24 @@
       "duration_ms": 167096,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
+    },
+    {
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
     },
     {
       "album": {
@@ -31470,7 +31618,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 133263,
       "name": "POP SHUVIT!",
       "url": "https://open.spotify.com/track/401qoFc0esSgVBS9av7m0C"
@@ -33024,6 +33172,24 @@
       "duration_ms": 167320,
       "name": "ride or die",
       "url": "https://open.spotify.com/track/1rLdDdCgKA1oWhzvm3cDb3"
+    },
+    {
+      "album": {
+        "name": "soliloquy",
+        "url": "https://open.spotify.com/album/6hOiB7F1TAR3gNccw7lX8e"
+      },
+      "artists": [
+        {
+          "name": "Cosette",
+          "url": "https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148431,
+      "name": "right",
+      "url": "https://open.spotify.com/track/2wAvaqPNqREQ8bB7RIOom9"
     },
     {
       "album": {
@@ -42551,6 +42717,24 @@
     },
     {
       "album": {
+        "name": "Age of the Exhibitionist",
+        "url": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192931,
+      "name": "Waschesalon",
+      "url": "https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig"
+    },
+    {
+      "album": {
         "name": "Washed Up",
         "url": "https://open.spotify.com/album/4tXM9qnemrsLaAjmrUMA3o"
       },
@@ -43506,7 +43690,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 159106,
       "name": "Where's My Bikini",
       "url": "https://open.spotify.com/track/37or6sHEsIQ2afxg2A1srK"

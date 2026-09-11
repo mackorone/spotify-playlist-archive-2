@@ -1,12 +1,12 @@
 {
   "description": "Unos buenos riffs de guitarra para acompa\u00f1arte en el camino. ",
-  "num_followers": 214396,
+  "num_followers": 214402,
   "original_name": "Viaje en Carretera: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJr2v+iJqy2CpC3hVW37fOQf7xYy",
+  "snapshot_id": "AAAAADBZ7DLEh3wq/FedACgI4jkivBex",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:11",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-07-03 06:00:11",
       "album": {
-        "name": "The Head On The Door (Remastered)",
-        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
-    },
-    {
-      "added_at": "2026-07-03 06:00:11",
-      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "added_at": "2026-07-03 06:00:11",
+      "album": {
+        "name": "The Head On The Door (Remastered)",
+        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
     },
     {
       "added_at": "2026-07-03 06:00:11",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-07-03 06:00:11",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "duration_ms": 166640,
+      "name": "About A Girl",
+      "url": "https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr"
     }
   ],
   "unique_name": "Viaje en Carretera: Rock",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Kasabian",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: almost monday",
   "name": "Rock The World",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 166013,
       "name": "A Child's Question, August",
       "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
+    },
+    {
+      "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
     },
     {
       "album": {
@@ -2673,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Arsenal",
+        "url": "https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221489,
+      "name": "Arsenal",
+      "url": "https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j"
+    },
+    {
+      "album": {
         "name": "Artefact (feat. Le\u00f3n Larregui)",
         "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
       },
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199200,
       "name": "Bite My Tongue",
       "url": "https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH"
@@ -4822,6 +4858,24 @@
       "duration_ms": 207636,
       "name": "blindspot",
       "url": "https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4"
+    },
+    {
+      "album": {
+        "name": "Blister Sunrise",
+        "url": "https://open.spotify.com/album/0YloSzp3b1YxEdYOxfbA5T"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200608,
+      "name": "Blister Sunrise",
+      "url": "https://open.spotify.com/track/6KmnrYGLTStjxonyQYRPbU"
     },
     {
       "album": {
@@ -5888,7 +5942,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 168693,
       "name": "Bug In The Cake",
       "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
@@ -6422,7 +6476,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170726,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
@@ -8854,7 +8908,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217499,
       "name": "DALALA",
       "url": "https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM"
@@ -9838,6 +9892,24 @@
       "duration_ms": 118618,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG"
+    },
+    {
+      "album": {
+        "name": "Devout",
+        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
+      },
+      "artists": [
+        {
+          "name": "Working Men's Club",
+          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217206,
+      "name": "Devout",
+      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
     },
     {
       "album": {
@@ -11184,7 +11256,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207900,
       "name": "Dye My Hair",
       "url": "https://open.spotify.com/track/62YLxkkdwBWRI0TKeSRcjt"
@@ -11368,6 +11440,24 @@
       "duration_ms": 173800,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/0qjYSBDQVjd7OrqIeUAIZo"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193033,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/3HAMzLy6i98K4nj8ye3r4F"
     },
     {
       "album": {
@@ -11906,7 +11996,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 280082,
       "name": "Everybody Told Me",
       "url": "https://open.spotify.com/track/5X913iypPGaXfBAFDYVwyN"
@@ -13644,6 +13734,24 @@
       "duration_ms": 216535,
       "name": "FREEZE ME UP",
       "url": "https://open.spotify.com/track/5T3uybvFtipCIeCeLT3QcU"
+    },
+    {
+      "album": {
+        "name": "THANK GOD IT'S ALMOST MONDAY",
+        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214461,
+      "name": "french kids",
+      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
     },
     {
       "album": {
@@ -17790,7 +17898,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161730,
       "name": "I Missed You More",
       "url": "https://open.spotify.com/track/5U09Tvgshbkk0zhSGLKmOi"
@@ -18718,6 +18826,24 @@
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+    },
+    {
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
     },
     {
       "album": {
@@ -20474,7 +20600,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181836,
       "name": "Kodoku",
       "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
@@ -20724,6 +20850,28 @@
       "duration_ms": 165186,
       "name": "Ladybug",
       "url": "https://open.spotify.com/track/5dmp3KBV5pqFdQURMpUSb9"
+    },
+    {
+      "album": {
+        "name": "lamb (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "lamb (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
     },
     {
       "album": {
@@ -23348,7 +23496,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 244558,
       "name": "Menquitofla",
       "url": "https://open.spotify.com/track/2zqkP9lyXLF5l5H52KLHK1"
@@ -24186,6 +24334,24 @@
       "duration_ms": 186196,
       "name": "Mountains At Midnight",
       "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+    },
+    {
+      "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256024,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
     },
     {
       "album": {
@@ -25925,6 +26091,24 @@
     },
     {
       "album": {
+        "name": "Anatomy Of A Brief Romance",
+        "url": "https://open.spotify.com/album/2ioMSFKX2C9GslsXAabMgP"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Not Your Problem",
+      "url": "https://open.spotify.com/track/7cknimGRlMu18ZKlSeslHg"
+    },
+    {
+      "album": {
         "name": "NOTHING BETTER THAN THIS",
         "url": "https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP"
       },
@@ -26654,7 +26838,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 213931,
       "name": "OMG! I'm in love",
       "url": "https://open.spotify.com/track/0Sr5UiPU4yn26MJ2fXacTS"
@@ -29642,7 +29826,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 110346,
       "name": "rehearsed",
       "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
@@ -32148,7 +32332,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 188556,
       "name": "SILVER APPLE EYES",
       "url": "https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY"
@@ -35326,7 +35510,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 260192,
       "name": "Tastebud",
       "url": "https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru"
@@ -36190,6 +36374,24 @@
       "duration_ms": 237533,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
+    },
+    {
+      "album": {
+        "name": "The Kid With the Crown",
+        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254961,
+      "name": "The Kid With the Crown",
+      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
     },
     {
       "album": {
@@ -37222,7 +37424,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 116783,
       "name": "time loop at hot slit",
       "url": "https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb"
@@ -37770,6 +37972,28 @@
       "duration_ms": 214381,
       "name": "Tractor Beam",
       "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
+    },
+    {
+      "album": {
+        "name": "Transgressions (feat. Rol3ert)",
+        "url": "https://open.spotify.com/album/7tJLjRb9Y6YyfgF40LwrTA"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        },
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Transgressions - feat. Rol3ert",
+      "url": "https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4"
     },
     {
       "album": {
@@ -39926,7 +40150,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169306,
       "name": "What The Hell",
       "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
@@ -40086,6 +40310,24 @@
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112984,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
     },
     {
       "album": {
@@ -40292,7 +40534,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 143702,
       "name": "Why The Hell Do I Have To Say Everything From One To Ten Each Time Each Time Each Time Each Time",
       "url": "https://open.spotify.com/track/20TzDBXQaSd7kqmovMCMma"
@@ -40864,6 +41106,24 @@
       "duration_ms": 183414,
       "name": "wow!",
       "url": "https://open.spotify.com/track/361sWSauyBs8sGn4h2kOrN"
+    },
+    {
+      "album": {
+        "name": "Wrapped in death",
+        "url": "https://open.spotify.com/album/7qptTKRBPxCmbwAER7UlQ4"
+      },
+      "artists": [
+        {
+          "name": "BASSAIUM",
+          "url": "https://open.spotify.com/artist/6ZtMn38KKn7xEFkQokub1q"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193344,
+      "name": "Wrapped in death",
+      "url": "https://open.spotify.com/track/2Sy09kLS8f5qs3L3NnWBO4"
     },
     {
       "album": {
@@ -42260,7 +42520,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194794,
       "name": "\u6e0b\u8c37\u304b\u3089",
       "url": "https://open.spotify.com/track/57MeCC6LaM8G6tun8HLV3o"

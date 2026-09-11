@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-228 songs - 14 hr 57 min
+229 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ain't No Way](https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:48 | 2026-01-23 | 2026-06-13 |
 | [Ain't No Way \- Studio Session](https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Ain't No Way](https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd) | 2:47 | 2026-06-12 | 2026-07-08 |
 | [Alaba \- Live At Intimidad Con Dios / 2023](https://open.spotify.com/track/2zLgzu8nD1GLLFwuJxirRl) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Alaba \(Live\)](https://open.spotify.com/album/6gXra4SIHn4IZuOURl0b8k) | 5:11 | 2025-01-31 | 2025-09-20 |
+| [All I Need Is You](https://open.spotify.com/track/24Pp8XW7nF1Wo51MFY2jdr) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [All I Need Is You](https://open.spotify.com/album/7L4IRsNyIGOi5ny1u8KL7Q) | 3:20 | 2026-09-10 |  |
 | [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 | 2025-10-03 | 2026-03-17 |
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-16 |  |
 | [Awestruck](https://open.spotify.com/track/3gNXfvAvAaozZlySToX3fU) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/2zoxv5L1T1KR1ojW19bKBW) | 4:52 | 2025-01-31 | 2026-04-09 |

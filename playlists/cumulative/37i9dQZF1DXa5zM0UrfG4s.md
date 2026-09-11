@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-475 songs - 21 hr 46 min
+476 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 | 2025-03-27 | 2026-03-15 |
 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 | 2026-03-12 |  |
 | [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 | 2024-07-18 | 2024-10-18 |
-| [Sunshine \- Cigarettes & Cheap Wine](https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [Sunshine \(Cigarettes & Cheap Wine\)](https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU) | 2:49 | 2026-05-21 |  |
+| [Sunshine \- Cigarettes & Cheap Wine](https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [Sunshine \(Cigarettes & Cheap Wine\)](https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU) | 2:49 | 2026-05-21 | 2026-09-11 |
 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 | 2021-12-16 | 2024-04-22 |
 | [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/track/0WVAxyXM6QKD6eyZiecgwM) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/album/6icNeVKB69STNb6TPBzfcW) | 2:30 | 2024-08-08 | 2024-08-16 |
 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 | 2021-12-16 | 2026-05-01 |
@@ -459,6 +459,7 @@
 | [Varmt](https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Varmt](https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW) | 2:07 | 2026-05-21 |  |
 | [Velkommen til Østfold](https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Velkommen til Østfold](https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt) | 2:23 | 2025-10-23 | 2026-01-01 |
 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-03-21 | 2024-08-16 |
+| [Venninna mi](https://open.spotify.com/track/6ur064JKd9SghnX6EMyUUS) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Venninna mi](https://open.spotify.com/album/5zjG9lLhbFBog1ccnwbi7N) | 3:01 | 2026-09-10 |  |
 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 | 2021-12-16 | 2022-10-16 |
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |

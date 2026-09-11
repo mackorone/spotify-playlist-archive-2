@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Queens of the Stone Age",
+  "description": "The best in new rock. Cover: Spiritbox",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 144533,
       "name": "[REDACTED]",
       "url": "https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS"
+    },
+    {
+      "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
     },
     {
       "album": {
@@ -2121,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Child's Play",
+        "url": "https://open.spotify.com/album/7cVt3reoLHx4qMduqyhUmW"
+      },
+      "artists": [
+        {
+          "name": "Maple's Pet Dinosaur",
+          "url": "https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206496,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/4STb9qQzJLKGzDJq5YVINx"
+    },
+    {
+      "album": {
         "name": "Choo Choo",
         "url": "https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t"
       },
@@ -2482,6 +2518,24 @@
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "album": {
+        "name": "Counting The Days",
+        "url": "https://open.spotify.com/album/0bc7blu6jKABTPGwbHDe41"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163465,
+      "name": "Counting The Days",
+      "url": "https://open.spotify.com/track/0LtfzO8EAU8xvrNl89H9Ci"
     },
     {
       "album": {
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152375,
       "name": "Don't Tell Me It's Over",
       "url": "https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi"
@@ -3254,6 +3308,24 @@
       "duration_ms": 195303,
       "name": "Dull (feat. Softcult)",
       "url": "https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT"
+    },
+    {
+      "album": {
+        "name": "Dying In Reverse",
+        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234276,
+      "name": "Dying In Reverse",
+      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "album": {
@@ -5152,7 +5224,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
@@ -5398,7 +5470,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 311686,
       "name": "I Feel Hope Coming",
       "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
@@ -5874,7 +5946,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 250000,
       "name": "Iron City",
       "url": "https://open.spotify.com/track/7o9gwmscHBXh6sUEYkWQ4e"
@@ -6180,7 +6252,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 174395,
       "name": "Kill You Back",
       "url": "https://open.spotify.com/track/08FMKTqe5CUHAPSmUb9r4q"
@@ -6346,6 +6418,28 @@
       "duration_ms": 151384,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
+    },
+    {
+      "album": {
+        "name": "lamb (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "lamb (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
     },
     {
       "album": {
@@ -7495,6 +7589,24 @@
     },
     {
       "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256024,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
+    },
+    {
+      "album": {
         "name": "Foreign Tongues",
         "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
       },
@@ -7661,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+    },
+    {
+      "album": {
         "name": "N.O.V.A",
         "url": "https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487"
       },
@@ -7816,7 +7946,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 223266,
       "name": "NEW WORLD",
       "url": "https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn"
@@ -9132,7 +9262,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178455,
       "name": "Quiet When You\u2019re Listening",
       "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
@@ -10568,7 +10698,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
@@ -10770,6 +10900,24 @@
       "duration_ms": 192619,
       "name": "Tacklebox",
       "url": "https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA"
+    },
+    {
+      "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/7CgpfXAmpOnatUIqo3QfKY"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140384,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/18sbcV3RQ2wgP3CCz61cMe"
     },
     {
       "album": {
@@ -12570,7 +12718,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 214346,
       "name": "We Might as Well Be Strangers (ft. Wednesday)",
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
@@ -12718,6 +12866,24 @@
       "duration_ms": 235504,
       "name": "Who Will You Follow",
       "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+    },
+    {
+      "album": {
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
     },
     {
       "album": {

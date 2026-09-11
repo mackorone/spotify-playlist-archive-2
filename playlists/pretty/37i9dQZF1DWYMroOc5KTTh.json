@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 765240,
+  "num_followers": 765411,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZWWZfIzV6TUQxU+m+V2UnN0ZnF",
+  "snapshot_id": "AAAAAAMhG1WRlgJpkdXkhkUjl2DU4laK",
   "tracks": [
     {
       "added_at": "2026-08-27 15:27:36",
@@ -347,26 +347,6 @@
     {
       "added_at": "2026-08-27 15:27:36",
       "album": {
-        "name": "Want You In My Soul (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Want You In My Soul - Radio Edit",
-      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
+    },
+    {
+      "added_at": "2026-08-27 15:27:36",
+      "album": {
+        "name": "Want You In My Soul (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Want You In My Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
     },
     {
       "added_at": "2026-08-27 15:27:36",

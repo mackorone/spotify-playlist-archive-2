@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 233874,
+  "num_followers": 233870,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFfjwE1M2pzCrq+4RAXSmG0Vzc0V",
+  "snapshot_id": "AAAAAEAm+kNbBYZXNIMzGKdGWw7Tz4dz",
   "tracks": [
     {
       "added_at": "2025-09-19 22:07:37",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede (20 anos de Hist\u00f3ria, Ao Vivo)",
-        "url": "https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR"
-      },
-      "artists": [
-        {
-          "name": "Gabrielzinho Do Iraj\u00e1",
-          "url": "https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA"
-        },
-        {
-          "name": "Enzo Belmonte",
-          "url": "https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ"
-        }
-      ],
-      "duration_ms": 325812,
-      "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede - 20 anos de Hist\u00f3ria, Ao Vivo",
-      "url": "https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Na Veia",
         "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 188058,
       "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
       "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede (20 anos de Hist\u00f3ria, Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR"
+      },
+      "artists": [
+        {
+          "name": "Gabrielzinho Do Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA"
+        },
+        {
+          "name": "Enzo Belmonte",
+          "url": "https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ"
+        }
+      ],
+      "duration_ms": 325812,
+      "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede - 20 anos de Hist\u00f3ria, Ao Vivo",
+      "url": "https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Tra\u00e7o De Uni\u00e3o",
-        "url": "https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Tra\u00e7o De Uni\u00e3o",
-      "url": "https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Rede Velha",
         "url": "https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192042,
       "name": "Rede Velha",
       "url": "https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Tra\u00e7o De Uni\u00e3o",
+        "url": "https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Tra\u00e7o De Uni\u00e3o",
+      "url": "https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "M\u00fasicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 551933,
-      "name": "Tive Raz\u00e3o - Live",
-      "url": "https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "M\u00fasicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 551933,
+      "name": "Tive Raz\u00e3o - Live",
+      "url": "https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Cidade do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Mulheres - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
     },
     {
       "added_at": "2025-09-19 22:07:37",

@@ -4,7 +4,7 @@
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-88 songs - 5 hr 13 min
+89 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Emma](https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:57 | 2022-10-14 |  |
 | [Ghost](https://open.spotify.com/track/2IWiKNZVc4uoiCl3QT3p3z) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 3:08 | 2022-10-14 | 2024-04-19 |
 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 | 2022-10-14 |  |
+| [Give Me Your Life](https://open.spotify.com/track/6VFW2EVfVRBI5tF2wiewG3) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:13 | 2025-11-13 |  |
 | [I'm Picky](https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:58 | 2024-06-24 |  |
 | [J'accuse](https://open.spotify.com/track/1cnATC0mQNipvfoAbLScfb) | [Saez](https://open.spotify.com/artist/2yQBgACksUJgNKh1JWPWPe) | [J'accuse](https://open.spotify.com/album/30bQKQJdd1ok6rWeIjhNRj) | 4:28 | 2022-10-14 | 2024-04-19 |
 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 | 2022-10-14 |  |
@@ -49,7 +50,7 @@
 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 | 2022-10-14 |  |
 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 | 2022-10-14 |  |
 | [La vie est belle](https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:27 | 2022-10-14 |  |
-| [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 | 2024-06-24 |  |
+| [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 | 2024-06-24 | 2026-09-11 |
 | [Le Graal](https://open.spotify.com/track/4hMsrR2JpxCeybyWN786qk) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [L'équilibre](https://open.spotify.com/album/4CkUoxJjBE1QLFMwJYcDwC) | 3:11 | 2022-10-14 |  |
 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 | 2024-06-24 | 2025-09-10 |
 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 | 2022-10-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: SNACKTIME Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,745 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,796 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [made for love](https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [we're all in love](https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF) | 3:56 |
 | 75 | [ENERGIZE](https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN) | [JEWELS](https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd) | [ENERGIZE](https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4) | 2:48 |
 
-Snapshot ID: `AAAAAJsHSG36zTSmDEsTBgdKCA/Qp0tB`
+Snapshot ID: `AAAAAMc/PZ7ewt2SheHlF96KLtSvhong`

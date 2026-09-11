@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 47531,
+  "num_followers": 47548,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4It9cDYukZ063rKhemnK7u8pDk",
+  "snapshot_id": "AAAAAMQqQV6kpyoNPJ7eButxgngpOSzS",
   "tracks": [
+    {
+      "added_at": "2026-09-10 12:36:24",
+      "album": {
+        "name": "Abdul Majeed Abdullah 2026",
+        "url": "https://open.spotify.com/album/5953e42Lj8BQHyeWqaGAPS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "Al Aman",
+      "url": "https://open.spotify.com/track/1gmjvxmEyPDhclCe5CmpqA"
+    },
+    {
+      "added_at": "2026-09-10 12:36:24",
+      "album": {
+        "name": "\u0636\u064a\u0627 \u0644\u0646\u062f\u0646",
+        "url": "https://open.spotify.com/album/5WMakPTgUtQXUv5NNlKyeh"
+      },
+      "artists": [
+        {
+          "name": "Faisal Al Jasem",
+          "url": "https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT"
+        }
+      ],
+      "duration_ms": 229704,
+      "name": "\u0636\u064a\u0627 \u0644\u0646\u062f\u0646",
+      "url": "https://open.spotify.com/track/4TBffR7N0f8O1zV5ZWAMA5"
+    },
     {
       "added_at": "2026-08-20 11:25:27",
       "album": {

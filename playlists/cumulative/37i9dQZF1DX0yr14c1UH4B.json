@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf37 cover: Liana Flores",
+  "description": "It's all about the song \ud83c\udf37 cover: Dermot Henry",
   "name": "Common Thread",
   "tracks": [
+    {
+      "album": {
+        "name": "(I Wish I Was) Ennio Morricone",
+        "url": "https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175392,
+      "name": "(I Wish I Was) Ennio Morricone",
+      "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
+    },
     {
       "album": {
         "name": "143",
@@ -900,6 +918,24 @@
       "duration_ms": 234080,
       "name": "Anyone's Guess",
       "url": "https://open.spotify.com/track/45zyM4NTpaYTp58OJzmaMI"
+    },
+    {
+      "album": {
+        "name": "Anything But",
+        "url": "https://open.spotify.com/album/0kP0WtVcz9IRNTe30ZAjU9"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205132,
+      "name": "Anything But",
+      "url": "https://open.spotify.com/track/3bWClQapOl0hRXXnDxqNq9"
     },
     {
       "album": {
@@ -1870,6 +1906,24 @@
       "duration_ms": 242000,
       "name": "Bones",
       "url": "https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2Pa8F6YDKvJejClTos28hA"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/5Hvm2x5Lt0cVDlnYEiV4hs"
     },
     {
       "album": {
@@ -6021,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "Good Guess",
+        "url": "https://open.spotify.com/album/63S7znmrBmZRCH3wCMNx8N"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217410,
+      "name": "Good Guess",
+      "url": "https://open.spotify.com/track/5z4z1zam5AEzXo1GtWacjP"
+    },
+    {
+      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -6598,6 +6670,24 @@
       "duration_ms": 181773,
       "name": "Heaven Knows You're Lonely",
       "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
+    },
+    {
+      "album": {
+        "name": "Hers",
+        "url": "https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212570,
+      "name": "Hers",
+      "url": "https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4"
     },
     {
       "album": {
@@ -10243,6 +10333,24 @@
     },
     {
       "album": {
+        "name": "Memories of You",
+        "url": "https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa"
+      },
+      "artists": [
+        {
+          "name": "Oliver John",
+          "url": "https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM"
+    },
+    {
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
@@ -12689,6 +12797,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192668,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
+    },
+    {
+      "album": {
         "name": "Rituals",
         "url": "https://open.spotify.com/album/0H3fYvMsYfLI6z3vy8sP7g"
       },
@@ -13552,6 +13678,24 @@
       "duration_ms": 204632,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/27Lg3Hdhrth1469A4mpRn2"
+      },
+      "artists": [
+        {
+          "name": "Sadhbh Keane",
+          "url": "https://open.spotify.com/artist/2Weu8UI5SKNeahZuxN8fAH"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317005,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/2uvoHjBxWHXFXOrx2wHCKu"
     },
     {
       "album": {
@@ -16593,6 +16737,24 @@
     },
     {
       "album": {
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB"
+      },
+      "artists": [
+        {
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ"
+    },
+    {
+      "album": {
         "name": "Gumshoe",
         "url": "https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo"
       },
@@ -18561,6 +18723,24 @@
     },
     {
       "album": {
+        "name": "You Like Ugly, Don't You Babe?",
+        "url": "https://open.spotify.com/album/6dvrFXaLuQcPTDbTbJDCPm"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150078,
+      "name": "You Like Ugly, Don't You Babe?",
+      "url": "https://open.spotify.com/track/0sP01RbLNfARG17fzouOKT"
+    },
+    {
+      "album": {
         "name": "You Must Be A Miracle",
         "url": "https://open.spotify.com/album/6Hgl1HxWQJVUhizKcVjOCO"
       },
@@ -18572,7 +18752,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 198008,
       "name": "You Must Be A Miracle",
       "url": "https://open.spotify.com/track/7hEF5DkbYDgUtkfKE9PaH7"

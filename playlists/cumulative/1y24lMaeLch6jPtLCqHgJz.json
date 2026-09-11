@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
@@ -4018,6 +4018,24 @@
       "duration_ms": 172000,
       "name": "Good Time (feat. M\u00f8f-Lo & Giin)",
       "url": "https://open.spotify.com/track/3G7flRKWPtHsCiF133HjzV"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/5eu1alU97giffvb8ZBa5mt"
+      },
+      "artists": [
+        {
+          "name": "Magnus Riedel",
+          "url": "https://open.spotify.com/artist/569MQWXrZ3W19PyUEupPJx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/4VGDTR5civVEXw9dCJj4kE"
     },
     {
       "album": {
@@ -7744,7 +7762,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
@@ -7962,7 +7980,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
@@ -9780,6 +9798,28 @@
       "duration_ms": 175298,
       "name": "Time And Time Again",
       "url": "https://open.spotify.com/track/6F3IKlEo3sFSxSJLesbOqF"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/2jGhmCW4c3XGp3KzQmY1Vf"
+      },
+      "artists": [
+        {
+          "name": "H93",
+          "url": "https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw"
+        },
+        {
+          "name": "Vandal Rock",
+          "url": "https://open.spotify.com/artist/7zOagGIoif2OxYQZogohdx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1dYQHtnAF8iBf6SYbKOcvp"
     },
     {
       "album": {

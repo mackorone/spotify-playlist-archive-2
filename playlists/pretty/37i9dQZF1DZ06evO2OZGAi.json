@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7260,
+  "num_followers": 7259,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADqkB9nXQSUfMV88luMVYWC",
+  "snapshot_id": "aqChgAAAAABH9nGiWSe2FZP5SF6unsYG",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
+      "duration_ms": 130500,
+      "name": "El Tunel del Amor",
+      "url": "https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Cambia Esa Cara",
-      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infectado",
         "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Cambia Esa Cara",
+      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 130500,
-      "name": "El Tunel del Amor",
-      "url": "https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F"
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
     },
     {
       "added_at": null,

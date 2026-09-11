@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvc+HOd0V50OjY916eWn9OXeIT5",
+  "snapshot_id": "AAAAAE+HwGPG/D35b/hZqX6i3f0xCoRn",
   "tracks": [
     {
       "added_at": "2026-09-04 04:03:17",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "ulysse",
-        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 195980,
-      "name": "ulysse",
-      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "how about you",
-        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
         }
       ],
-      "duration_ms": 168484,
-      "name": "how about you",
-      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Future Lovers",
         "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 189386,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1075,8 +1075,8 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Tout ce qui compte",
         "url": "https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 146597,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Dear Friend, Queer Friend",
-        "url": "https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        },
-        {
-          "name": "Beverly Glenn-Copeland",
-          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
-        }
-      ],
-      "duration_ms": 316826,
-      "name": "Dear Friend, Queer Friend",
-      "url": "https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Belladonna Nocturne",
         "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Dear Friend, Queer Friend",
+        "url": "https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        },
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        }
+      ],
+      "duration_ms": 316826,
+      "name": "Dear Friend, Queer Friend",
+      "url": "https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Dans une autre cour",
-        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
-      },
-      "artists": [
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "Dans une autre cour",
-      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Win of the Century",
         "url": "https://open.spotify.com/album/791e4R93yIduaysv9IRthG"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 172500,
       "name": "Win of the Century",
       "url": "https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Dans une autre cour",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "duration_ms": 144173,
+      "name": "Dans une autre cour",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-09-04 04:03:17",

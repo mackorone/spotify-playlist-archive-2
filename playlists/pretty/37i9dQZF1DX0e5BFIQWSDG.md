@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Katerina Lioliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,736 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,703 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Summertime Sadness](https://open.spotify.com/track/7uYg8TyEDnxh0LhLjhVt52) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Summertime Sadness](https://open.spotify.com/album/7IpoGPcmh0dIBbZZxs4aDc) | 2:40 |
 | 50 | [BALENCIAGA](https://open.spotify.com/track/7nLcfPSEefHwdXyn75oe5O) | [LOSHA](https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Ank Beats](https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W) | [BALENCIAGA](https://open.spotify.com/album/1JxrSg4pIUo2vIbDb5PQH6) | 2:39 |
 
-Snapshot ID: `AAAAAErHP3+21VBEyzE2brXNvH6Fj5Xv`
+Snapshot ID: `AAAAAPrddBCWnFEcIri7Vctw9nkVzkyS`

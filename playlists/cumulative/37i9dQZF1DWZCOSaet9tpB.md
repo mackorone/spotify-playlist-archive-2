@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: Seyi Vibez
 
-664 songs - 1 day 8 hr 0 min
+665 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2023-02-03 | 2023-05-16 |
 | [Gang](https://open.spotify.com/track/0SmcKaXjPCCK7nq0coN6B2) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:12 | 2025-07-04 | 2025-07-18 |
 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 | 2023-09-26 | 2023-11-17 |
-| [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 | 2026-07-14 |  |
+| [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 | 2026-07-14 | 2026-09-11 |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-28 | 2025-11-06 |
 | [Get Better](https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:15 | 2025-12-11 | 2026-04-17 |
 | [Get it Right \(feat\. Asake\)](https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:19 | 2024-08-30 | 2025-02-27 |
@@ -416,6 +416,7 @@
 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-07 | 2025-07-05 |
 | [MOTION SICKNESS \(feat\. Zlatan\)](https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [MOTION SICKNESS](https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM) | 2:47 | 2026-05-25 |  |
 | [MOTO](https://open.spotify.com/track/0P2ytSdEAFp0FICrJwnu4Y) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:58 | 2023-03-17 | 2023-09-27 |
+| [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 | 2026-09-11 |  |
 | [MOVIE](https://open.spotify.com/track/2QE9svM9OYAYVgBihuUWyF) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:49 | 2025-05-12 | 2025-05-23 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-29 | 2025-02-27 |
 | [Mulla](https://open.spotify.com/track/7x9Jg12Lu8hxhGZlLkj6eD) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Mulla](https://open.spotify.com/album/2ygIsRaS6dDmGRQdNHFCSZ) | 2:45 | 2025-04-04 | 2025-04-08 |

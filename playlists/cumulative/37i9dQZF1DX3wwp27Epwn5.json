@@ -191,6 +191,32 @@
     },
     {
       "album": {
+        "name": "Aisi Meri Vibe (From \"Vibe\")",
+        "url": "https://open.spotify.com/album/47IGZKKNfWRNKJQHTYOu5V"
+      },
+      "artists": [
+        {
+          "name": "Kanfuzion",
+          "url": "https://open.spotify.com/artist/6180gHTzNY9WFnBXPtIK7N"
+        },
+        {
+          "name": "Irfana",
+          "url": "https://open.spotify.com/artist/2yjjNifzaKhrRnHlOx2YH1"
+        },
+        {
+          "name": "KHILLARI",
+          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Aisi Meri Vibe (From \"Vibe\")",
+      "url": "https://open.spotify.com/track/0n1mgzR7ARULz0mfvJhxQQ"
+    },
+    {
+      "album": {
         "name": "Arjan Vailly (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
       },
@@ -2094,7 +2120,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 248034,
       "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu"

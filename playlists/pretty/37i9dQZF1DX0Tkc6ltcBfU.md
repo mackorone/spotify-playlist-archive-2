@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,767 likes - 101 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,735 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 18 | [Africa](https://open.spotify.com/track/63Z5XjhYhs4qJ7RVhSHtn8) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [Africa](https://open.spotify.com/album/7ne5pqe1F2AzZBVKJjnXCX) | 2:28 |
 | 19 | [Neighborhood Starz \(feat\. Lil Baby & Kevin Gates\)](https://open.spotify.com/track/4luf83uxcWMZPK6r9nSszp) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [S.K.A.T.E.](https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl) | 4:15 |
 | 20 | [C'Mere\(Ride\)](https://open.spotify.com/track/22P4ISHz8oK4BeUOgsoJpv) | [MoeIsBetter](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [C'Mere\(Ride\)](https://open.spotify.com/album/2mHVfxkKed3TscTRQw28dQ) | 2:58 |
-| 21 | [YK Where It's Goin](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
+| 21 | [YK Where It's Goin \(feat\. Gunna\)](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
 | 22 | [Strange](https://open.spotify.com/track/1i3llF9c7xUAkztYDyTude) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU) | [Strange](https://open.spotify.com/album/3OZc0toLuVqlZRJXcvjKgp) | 2:02 |
 | 23 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0V9uN2EqxHXVFoDnpRiups) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy](https://open.spotify.com/album/6TEo60to35PCEUfUsrwIVI) | 3:58 |
 | 24 | [Bruce Wayne](https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:56 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 36 | [Reap What You Sow](https://open.spotify.com/track/02FWtiqTvM6eYZPd9NEmsM) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [All Eyes on Shiest](https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI) | 3:37 |
 | 37 | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV) | 2:24 |
 | 38 | [B.L.F.S](https://open.spotify.com/track/0AKYgSGaR0eiZ0zwjz2ccZ) | [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [B.L.F.S](https://open.spotify.com/album/0zOHJyS2DJ64ZWEht88Liq) | 3:15 |
-| 39 | [Run The World](https://open.spotify.com/track/6m7j245LMNVncGSAqCKxg2) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 3:01 |
+| 39 | [Run The World \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/6m7j245LMNVncGSAqCKxg2) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 3:01 |
 | 40 | [Lost It All](https://open.spotify.com/track/5lxJQfIXZpwtgWxFjeCGWy) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Lost It All](https://open.spotify.com/album/0s80ZpM4YLvh1Mwrspg8yb) | 1:27 |
 | 41 | [ALL STARS \(feat\. Pz', Southsidesilhouette\)](https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC), [Pz'](https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT), [Southsidesilhouette](https://open.spotify.com/artist/5iG88HGCEzqIIi60Aat9k7) | [BLING BØI EP 2: HØSTED BY DJ HØLIDAY](https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79) | 2:47 |
 | 42 | [Rollacoasta](https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL) | [prettifun](https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65) | [Pretti Loves U 2](https://open.spotify.com/album/4RdeL0WvDjePInGjCv5NUj) | 2:38 |

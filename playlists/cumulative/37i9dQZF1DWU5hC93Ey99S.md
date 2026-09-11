@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,087 songs - 2 day 9 hr 54 min
+1,089 songs - 2 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [I Like You Like](https://open.spotify.com/track/4Xeeje8zEgBj8bbyPXIWp3) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [I Like You Like](https://open.spotify.com/album/3BKphFeH5q7fmM8m90nNeO) | 1:53 | 2025-02-13 | 2025-08-13 |
 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 | 2026-07-09 |  |
 | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Ellie Maxwell](https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4) | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS) | 2:56 | 2026-05-28 |  |
+| [I Need Your Lovin'](https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [I Need Your Lovin'](https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI) | 2:48 | 2026-09-10 |  |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-22 | 2026-01-27 |
 | [I Only Smoke When I Drink \- Felix Cartal Remix](https://open.spotify.com/track/28pxv5p0mr832PItAfWYe4) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 4:15 | 2024-12-05 | 2025-08-13 |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 | 2024-01-06 |
@@ -955,6 +956,7 @@
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
 | [Toy](https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K) | [ilysm](https://open.spotify.com/artist/0pRVWdcqtwZ1QI1Tlw3Ehq) | [Toy](https://open.spotify.com/album/4RWuhq0MXjCZeJvJVnFfno) | 1:55 | 2026-04-30 |  |
+| [Track 1](https://open.spotify.com/track/4UjxY6tCUTkgidvgNlNCOV) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [QUIET HOURS](https://open.spotify.com/album/31uKmMXQhrMdRkz6mMNxGv) | 0:00 | 2026-09-10 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 | 2026-08-28 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |

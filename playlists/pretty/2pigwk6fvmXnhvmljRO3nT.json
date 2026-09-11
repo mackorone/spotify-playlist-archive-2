@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAM/ps9z7Ts7vMTf4C3oyfVBxZNJUfn",
+  "snapshot_id": "AAANAu8vU4VgN51oT8KUzlfiPMAhbmWe",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -27751,30 +27751,6 @@
       "duration_ms": 113186,
       "name": "Vin Skully",
       "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
-    },
-    {
-      "added_at": "2025-01-03 01:14:28",
-      "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Sentry (feat. MIKE)",
-      "url": "https://open.spotify.com/track/48gtujiZ77wSZ29aWZe84V"
     },
     {
       "added_at": "2025-01-03 01:14:31",
@@ -59623,22 +59599,6 @@
       "duration_ms": 236000,
       "name": "Top",
       "url": "https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW"
-    },
-    {
-      "added_at": "2025-01-03 01:26:05",
-      "album": {
-        "name": "Luv Is Rage",
-        "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "All My Chains",
-      "url": "https://open.spotify.com/track/2DynJ2cNsW35sTJCaRcb70"
     },
     {
       "added_at": "2025-01-03 01:26:05",
@@ -152431,6 +152391,38 @@
       "duration_ms": 90461,
       "name": "Acid Tunnel of Love",
       "url": "https://open.spotify.com/track/5asZ6mI4gcw3tTG3wAsMve"
+    },
+    {
+      "added_at": "2026-09-10 21:25:18",
+      "album": {
+        "name": "Cookie Run: Kingdom OST 1st Anniversary",
+        "url": "https://open.spotify.com/album/6SavYu4OxD4MuJDKHCLfYA"
+      },
+      "artists": [
+        {
+          "name": "Kwak Kilmun (DEVSISTERS)",
+          "url": "https://open.spotify.com/artist/6d9T9XIlx1Gnjs8iRiJlZs"
+        }
+      ],
+      "duration_ms": 72906,
+      "name": "The Magic Never Ends",
+      "url": "https://open.spotify.com/track/4rJlvRQgSFku3r1joXyJKg"
+    },
+    {
+      "added_at": "2026-09-10 21:25:29",
+      "album": {
+        "name": "Cookie Run: Kingdom OST 1st Anniversary",
+        "url": "https://open.spotify.com/album/6SavYu4OxD4MuJDKHCLfYA"
+      },
+      "artists": [
+        {
+          "name": "Sohn Minsoo (DEVSISTERS)",
+          "url": "https://open.spotify.com/artist/6uq8eAkxkQEGkbY7jRfhGD"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Strolling Through the Kingdom",
+      "url": "https://open.spotify.com/track/5yQEQknHmGZsSixxfa1WMo"
     }
   ],
   "unique_name": "Purge",

@@ -1,31 +1,47 @@
 {
-  "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61834,
-  "original_name": "Familienzeit: Sommer",
+  "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
+  "num_followers": 61847,
+  "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKNJA6AyvINT6NJ8wukrKD8SUzO",
+  "snapshot_id": "AAAAAJCZNVca2BzW8kVFqXibdf5arBOZ",
   "tracks": [
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+        "name": "Laternen- und Herbstlieder",
+        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/1iGU9C4NYoIzrtMVrOvPeA"
+      "duration_ms": 109940,
+      "name": "Der Herbst ist da",
+      "url": "https://open.spotify.com/track/7xJPa1jms8mgBnxuxKmVuw"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "Heute Bin Ich Faul",
+      "url": "https://open.spotify.com/track/7CWbnTlzCvmnt7SDUvw7sy"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
@@ -45,26 +61,58 @@
       "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+        "name": "Laternen- und Herbstlieder",
+        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
       },
       "artists": [
         {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 249506,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
+      "duration_ms": 93785,
+      "name": "Hui Hui Hui - Ich bin der Wind",
+      "url": "https://open.spotify.com/track/3Wal8NEzMPBFpGjScxlGT7"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Bibi und Tina (Der Original-Soundtrack zum Kinofilm)",
-        "url": "https://open.spotify.com/album/6QmuVg6QPfIvjKGvXYwt21"
+        "name": "Video Mixe",
+        "url": "https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 176229,
+      "name": "Guck mal diese Biene da Summ Summ",
+      "url": "https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 166816,
+      "name": "Das kleine Kaninchen",
+      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
       },
       "artists": [
         {
@@ -84,44 +132,12 @@
           "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
         }
       ],
-      "duration_ms": 158339,
-      "name": "Up, up, up (Nobody\u2019s perfect) [feat. Lina Larissa Strahl]",
-      "url": "https://open.spotify.com/track/3bDUHKloYp3LlAUXJTI4O4"
+      "duration_ms": 179780,
+      "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
+      "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 166816,
-      "name": "Das kleine Kaninchen",
-      "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Video Mixe",
-        "url": "https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 176229,
-      "name": "Guck mal diese Biene da Summ Summ",
-      "url": "https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Oh Yeah!",
         "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
@@ -137,7 +153,27 @@
       "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Giraffenaffen 6",
+        "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
+      },
+      "artists": [
+        {
+          "name": "Phil Siemers",
+          "url": "https://open.spotify.com/artist/0tPhB66fGZ0X4G09f72Z8C"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Bunt sind schon die W\u00e4lder",
+      "url": "https://open.spotify.com/track/6sKFUtAA0zvyCaK0TLT5xM"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Giraffenaffen 2",
         "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
@@ -157,35 +193,7 @@
       "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Bibi und Tina: M\u00e4dchen gegen Jungs (Der Original-Soundtrack zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5clF0uaquF9YZuu2oAosvd"
-      },
-      "artists": [
-        {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
-        },
-        {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Lina Larissa Strahl",
-          "url": "https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Bester Sommer (feat. Lina Larissa Strahl)",
-      "url": "https://open.spotify.com/track/6FyQCCy0h8151jKNgNjbs0"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Die Biene Maja - Meine Lieder",
         "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
@@ -201,7 +209,7 @@
       "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Rolfs Liederkalender / Die Jahresuhr",
         "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
@@ -217,7 +225,7 @@
       "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Encanto (Deutscher Original Film-Soundtrack)",
         "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
@@ -233,23 +241,7 @@
       "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Das Album - Rock'n'Rarrr Music",
-        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
-      },
-      "artists": [
-        {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Kaugummi ist mega!",
-      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Giraffenaffen 3",
         "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
@@ -269,7 +261,31 @@
       "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 92200,
+      "name": "Der Herbst ist da",
+      "url": "https://open.spotify.com/track/3Opv4kjKgziQ8nePVtdpnf"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
@@ -329,119 +345,7 @@
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Rolfs Vogelhochzeit (Das Original in der Urfassung)",
-        "url": "https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Ein Vogel wollte Hochzeit machen - 1",
-      "url": "https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die Kinder spielen verr\u00fcckt",
-        "url": "https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh"
-      },
-      "artists": [
-        {
-          "name": "Donots",
-          "url": "https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg"
-        },
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 174691,
-      "name": "Die Kinder spielen verr\u00fcckt",
-      "url": "https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Sommer-Hits zum Tanzen",
-        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 174403,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Radio Bikini Bottom",
-        "url": "https://open.spotify.com/album/4NuiuZxmMrPItU9ZeEZkal"
-      },
-      "artists": [
-        {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
-        },
-        {
-          "name": "Sandy Cheeks",
-          "url": "https://open.spotify.com/artist/5ojB40V0H7NlfEC9iBIRFO"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Ferien!",
-      "url": "https://open.spotify.com/track/3Yi0KHkf6ngSK78cCLDX9T"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Eis Eis Baby",
-        "url": "https://open.spotify.com/album/6lFzc7pyyvDPGOYPWV2PL1"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Santi",
-          "url": "https://open.spotify.com/artist/2XhQfTSgGspFiJD4ye45fx"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Eis Eis Baby",
-      "url": "https://open.spotify.com/track/2mWUXqkl0VdrMuDgHYM8Jc"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
-      },
-      "artists": [
-        {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        }
-      ],
-      "duration_ms": 118532,
-      "name": "No Problama",
-      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
@@ -461,10 +365,10 @@
       "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
       },
       "artists": [
         {
@@ -472,32 +376,44 @@
           "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Idas Sommerlied",
-        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
+        "name": "Die 44 beliebtesten Kinderlieder",
+        "url": "https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO"
       },
       "artists": [
         {
-          "name": "Astrid Lindgren Deutsch",
-          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
-        },
-        {
-          "name": "Michel aus L\u00f6nneberga",
-          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
+          "name": "Frank und seine Freunde",
+          "url": "https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y"
         }
       ],
-      "duration_ms": 119215,
-      "name": "Idas Sommerlied",
-      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
+      "duration_ms": 74640,
+      "name": "Es regnet, es regnet",
+      "url": "https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 108293,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
@@ -517,10 +433,10 @@
       "url": "https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
       },
       "artists": [
         {
@@ -536,247 +452,15 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
+      "duration_ms": 239924,
+      "name": "Mein kleiner K\u00fcrbis",
+      "url": "https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "Yammi Yammi",
-      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Das Gelbe vom Schwamm",
-        "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
-      },
-      "artists": [
-        {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "In den Urlaub",
-      "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Mango, Kiwi, Banana",
-        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        },
-        {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mango, Kiwi, Banana",
-      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 171350,
-      "name": "Der Gorilla mit der Sonnenbrille",
-      "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Schmetterlingskacke",
-        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
-      },
-      "artists": [
-        {
-          "name": "Sukini",
-          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
-        },
-        {
-          "name": "Saskia Lavaux",
-          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Glitzer",
-      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Ferien / Vacanza",
-        "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Vanessa Civiello",
-          "url": "https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu"
-        },
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Ferien / Vacanza",
-      "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
-        "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
-      },
-      "artists": [
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Senta",
-          "url": "https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU"
-        }
-      ],
-      "duration_ms": 119341,
-      "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
-      "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sommerkinder",
-      "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+        "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
+        "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
       },
       "artists": [
         {
@@ -784,104 +468,12 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+      "duration_ms": 166088,
+      "name": "Klopf, klopf, klopf, der Herbst ist da",
+      "url": "https://open.spotify.com/track/228ki3ONiQBpa9ETJJI5Nd"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Sommerzeit",
-      "url": "https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 186059,
-      "name": "Wenn der Sommer kommt",
-      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
         "name": "Giraffenaffen",
         "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
@@ -901,10 +493,10 @@
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
       },
       "artists": [
         {
@@ -920,79 +512,455 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 130180,
-      "name": "Dickie, der dicke Delfin",
-      "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
+      "duration_ms": 146477,
+      "name": "Der Herbst hat bunte Bl\u00e4tter",
+      "url": "https://open.spotify.com/track/4mwmmoYfQX3zeV0Rvsm4kY"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Unter meinem Bett. Best Of",
-        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
+        "name": "Kinderlieder - Herbst (2022)",
+        "url": "https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9"
       },
       "artists": [
         {
-          "name": "Laing",
-          "url": "https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC"
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Regentropfen h\u00fcpfen",
+      "url": "https://open.spotify.com/track/7MF1PctTNipjb4vjnItEMZ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Regenpf\u00fctzen Mambo",
+        "url": "https://open.spotify.com/album/3a6oFu9vqIrjI363x7lUAF"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        }
+      ],
+      "duration_ms": 165755,
+      "name": "Regenpf\u00fctzen Mambo",
+      "url": "https://open.spotify.com/track/4UJfGwVdyNMgDAHWn4ycsm"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 122506,
+      "name": "F\u00fchl Mich So Gut",
+      "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Benjamin Bl\u00fcmchen Liederzoo: Wi-Wa-Wetterlieder",
+        "url": "https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Pitsch-Patsch, Pf\u00fctzenmatsch",
+      "url": "https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Kommt, wir wolln Laterne laufen",
+        "url": "https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 156253,
+      "name": "Danke",
+      "url": "https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Ich lass mich nicht \u00e4rgern",
+        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        },
+        {
+          "name": "Berlin Radio Children's Choir",
+          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Ich lass mich nicht \u00e4rgern",
+      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Eddi & D\u00e4n singen noch mehr Kinderlieder a cappella, Vol. 3",
+        "url": "https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD"
+      },
+      "artists": [
+        {
+          "name": "Eddi & D\u00e4n",
+          "url": "https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D"
+        }
+      ],
+      "duration_ms": 98266,
+      "name": "Langsam zieht der Herbst in's Land",
+      "url": "https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Kinderlieder f\u00fcr die Kleinen - Zwergensprache (Vol. 2)",
+        "url": "https://open.spotify.com/album/0DGNWlTCnJ4HdeeBrKqxFx"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 109773,
+      "name": "Laterne, Laterne",
+      "url": "https://open.spotify.com/track/5nb0zkKJSPLG8uXbJwVttC"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
+        "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Die K\u00fcrbisfamilie",
+      "url": "https://open.spotify.com/track/4U1hPQsPnTePxMcgc0jSP4"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 220045,
+      "name": "Kommt, wir wollen Laterne laufen",
+      "url": "https://open.spotify.com/track/0KrkBKVLjtqfDaL1uD10W0"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Giraffenaffen 6",
+        "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
+      },
+      "artists": [
+        {
+          "name": "Max Richard Le\u00dfmann",
+          "url": "https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 142346,
+      "name": "Bratkartoffellied",
+      "url": "https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Bei uns in der Kita - 22 Lieder im Herbst + Winter",
+        "url": "https://open.spotify.com/album/0Av6IM3nN41CuQ6E3VWRsI"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Was zieh' ich an?",
+      "url": "https://open.spotify.com/track/7wjAQJBv8H2xM4FR1hxiJm"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Wir lassen Drachen steigen - In den Herbst mit Kalle Klang",
+        "url": "https://open.spotify.com/album/76wd7S1ucbQqC307kEWFIr"
+      },
+      "artists": [
+        {
+          "name": "Kalle Klang",
+          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
+        },
+        {
+          "name": "Die Floht\u00f6ne",
+          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
+        }
+      ],
+      "duration_ms": 163663,
+      "name": "Wir lassen Drachen steigen",
+      "url": "https://open.spotify.com/track/0QyVx9G9Q9QoUmCyFTPUK6"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Kinderlieder f\u00fcr den Herbst - EP",
+        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 109514,
+      "name": "Der Herbst ist da",
+      "url": "https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Unter meinem Bett 7",
+        "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
+      },
+      "artists": [
+        {
+          "name": "Berend Intelmann",
+          "url": "https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v"
         },
         {
           "name": "Unter meinem Bett",
           "url": "https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7"
         }
       ],
-      "duration_ms": 191400,
-      "name": "M\u00fccken nerven Leute",
-      "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
+      "duration_ms": 220173,
+      "name": "Drachenwind",
+      "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
-        "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
+        "name": "Herbst",
+        "url": "https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s"
       },
       "artists": [
         {
-          "name": "Die Lollipops",
-          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
         }
       ],
-      "duration_ms": 213413,
-      "name": "Urlaub unter Freunden",
-      "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
+      "duration_ms": 163733,
+      "name": "Hallo Herbst",
+      "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
+        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Cattu der Traumf\u00e4nger",
+          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
         }
       ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+      "duration_ms": 156554,
+      "name": "Hu Ha Halloween",
+      "url": "https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9"
     },
     {
-      "added_at": "2026-08-06 22:01:06",
+      "added_at": "2026-09-10 22:01:34",
       "album": {
-        "name": "Disco Kinder",
-        "url": "https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs"
+        "name": "Die Herbstzeit ist da: 20 sch\u00f6nste Kinderlieder im Herbst",
+        "url": "https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi"
       },
       "artists": [
         {
-          "name": "Isa Gl\u00fccklich",
-          "url": "https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh"
+          "name": "Stephen Janetzko",
+          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Disco Kinder (Minis Maxis)",
-      "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
+      "duration_ms": 105720,
+      "name": "Bunte Bl\u00e4tter (Herbstlied)",
+      "url": "https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
+        "url": "https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd"
+      },
+      "artists": [
+        {
+          "name": "Liederkoffer",
+          "url": "https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
+      "url": "https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Ab auf die Reise",
+        "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
+      },
+      "artists": [
+        {
+          "name": "Fidibus",
+          "url": "https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Herbstwind",
+      "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Kinderlieder f\u00fcr den Herbst - EP",
+        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Herbst",
+      "url": "https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Itzibitz die Liedermaus",
+        "url": "https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 126413,
+      "name": "Der Sommer muss gehen",
+      "url": "https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Unfug f\u00fcr alle",
+        "url": "https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY"
+      },
+      "artists": [
+        {
+          "name": "Fug und Janina",
+          "url": "https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR"
+        }
+      ],
+      "duration_ms": 130723,
+      "name": "Matschepf\u00fctze",
+      "url": "https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Kinder dieser Welt",
+        "url": "https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Rohrer",
+          "url": "https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF"
+        }
+      ],
+      "duration_ms": 133578,
+      "name": "Wenn der Herbst f\u00fcr dich singt",
+      "url": "https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW"
+    },
+    {
+      "added_at": "2026-09-10 22:01:34",
+      "album": {
+        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 122678,
+      "name": "Ei, Ei, Ei, Ei, Eichh\u00f6rnchen",
+      "url": "https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS"
     }
   ],
-  "unique_name": "Familienzeit: Sommer",
+  "unique_name": "Familienzeit: Herbst",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7lk7hiGiH2z"
 }

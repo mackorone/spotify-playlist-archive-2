@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "finally out",
+        "url": "https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY"
+      },
+      "artists": [
+        {
+          "name": "NO TIME FOR SILENCE",
+          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "finally out",
+      "url": "https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM"
+    },
+    {
+      "album": {
         "name": "HAVEN",
         "url": "https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC"
       },
@@ -4799,7 +4817,7 @@
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217613,
+      "duration_ms": 217835,
       "name": "Running Lights",
       "url": "https://open.spotify.com/track/0pe3m2bZeD542VyzOCzCAC"
     },
@@ -6241,7 +6259,7 @@
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194940,
+      "duration_ms": 194681,
       "name": "\u5c08\u5c6c\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/0ZpPrBnYV401be2ZyHS5eR"
     },
@@ -6259,7 +6277,7 @@
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243402,
+      "duration_ms": 243379,
       "name": "\u6211\u5011\u90fd\u4e0d\u5c6c\u65bc\u9019\u500b\u6642\u4ee3",
       "url": "https://open.spotify.com/track/2j2EnUvN3tGTRAcxJJe7uP"
     },

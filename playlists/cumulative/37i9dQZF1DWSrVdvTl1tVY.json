@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Josh Baker",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Max Dean, Luke Dean, Nafe Smallz",
   "name": "UK House Music",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156969,
       "name": "All The Ladies",
       "url": "https://open.spotify.com/track/2gKKPuIyQpNmcjwzXPgfDf"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 246511,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/1u29Mfab4Q4PJxoX9E1sf4"
@@ -3468,6 +3468,24 @@
       "duration_ms": 151906,
       "name": "Bristol to Brighton (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/4AyFb62UcWUgS9R8XxOYIe"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6tcN6c8uhrzzlqdLeyn5nt"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186301,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
     },
     {
       "album": {
@@ -6485,6 +6503,28 @@
     },
     {
       "album": {
+        "name": "Dig This",
+        "url": "https://open.spotify.com/album/6suhKfE9WxFHsR8u8eR8PL"
+      },
+      "artists": [
+        {
+          "name": "Jake Jeffery",
+          "url": "https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh"
+        },
+        {
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Dig This",
+      "url": "https://open.spotify.com/track/0deJP8oJJYET7SBOrDrTG7"
+    },
+    {
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
       },
@@ -6790,6 +6830,32 @@
       "duration_ms": 223631,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
+    },
+    {
+      "album": {
+        "name": "Doing The Most",
+        "url": "https://open.spotify.com/album/3ZkXR0rn0xBTD6emIzkSHq"
+      },
+      "artists": [
+        {
+          "name": "Elliot Schooling",
+          "url": "https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu"
+        },
+        {
+          "name": "Liam Palmer",
+          "url": "https://open.spotify.com/artist/0X08iR3Fp37Hoa9b1pjHnR"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205190,
+      "name": "Doing The Most - Club Mix",
+      "url": "https://open.spotify.com/track/53o0waVfqpPKCfnDzdWFPb"
     },
     {
       "album": {
@@ -7442,6 +7508,28 @@
       "duration_ms": 194198,
       "name": "Dream or Fantasy",
       "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
+    },
+    {
+      "album": {
+        "name": "Dreamliner",
+        "url": "https://open.spotify.com/album/4l8jVKBn6h1bH7Z988DbUP"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Roel",
+          "url": "https://open.spotify.com/artist/0EfrGgT7wHNdI1QmUhgxU3"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Dreamliner",
+      "url": "https://open.spotify.com/track/7aMGiwy3Ujvtf3Vbkv3CDV"
     },
     {
       "album": {
@@ -8498,7 +8586,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 224396,
       "name": "False Reality",
       "url": "https://open.spotify.com/track/0O5faR8NUPdk4idGs2Odww"
@@ -8900,6 +8988,28 @@
       "duration_ms": 206412,
       "name": "Feel The Funk",
       "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
+    },
+    {
+      "album": {
+        "name": "Feel This Grip (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Feel This Grip (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "album": {
@@ -9584,7 +9694,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 168281,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3usPfapBweLmb9XbdNB4Y6"
@@ -10320,6 +10430,24 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "album": {
+        "name": "Get Up And Dance",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155081,
+      "name": "Get Up And Dance",
+      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
       "album": {
@@ -14911,6 +15039,24 @@
     },
     {
       "album": {
+        "name": "Landlords Nightmare",
+        "url": "https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295487,
+      "name": "Landlords Nightmare",
+      "url": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+    },
+    {
+      "album": {
         "name": "Last All Night",
         "url": "https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE"
       },
@@ -15150,7 +15296,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 223660,
       "name": "Lemme Dance",
       "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
@@ -17717,6 +17863,24 @@
     },
     {
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "album": {
         "name": "Misleading",
         "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
@@ -18110,7 +18274,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169964,
       "name": "Move Fast",
       "url": "https://open.spotify.com/track/1tqWpGRSQBFoG3z7e9mzAz"
@@ -19365,6 +19529,32 @@
     },
     {
       "album": {
+        "name": "Not A Problem",
+        "url": "https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Not A Problem",
+      "url": "https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw"
+    },
+    {
+      "album": {
         "name": "Not Gonna Be Your Boo (feat. Robin S)",
         "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
       },
@@ -19726,7 +19916,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158848,
       "name": "On 2nite",
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
@@ -21969,6 +22159,28 @@
     },
     {
       "album": {
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/6pXQWdDC3HPpJKJDNGU1hw"
+      },
+      "artists": [
+        {
+          "name": "Denis Sulta",
+          "url": "https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178172,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/57LMnOWONP6EpFPAGThXgM"
+    },
+    {
+      "album": {
         "name": "Push Up On Me",
         "url": "https://open.spotify.com/album/6pVLhELk2He14C0cq1zHHB"
       },
@@ -22766,7 +22978,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 229845,
       "name": "Ride On Me",
       "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
@@ -25660,7 +25872,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
@@ -26496,6 +26708,28 @@
       "duration_ms": 152640,
       "name": "Tearing Up My Heart (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7"
+    },
+    {
+      "album": {
+        "name": "Tears from Heaven",
+        "url": "https://open.spotify.com/album/7yEAQXN4HnmdwKulsMGElL"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Tears From Heaven (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3xEZUwiQQPV1jAxEx65dIp"
     },
     {
       "album": {
@@ -27500,7 +27734,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 150476,
       "name": "The Pipe",
       "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
@@ -30860,7 +31094,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190298,
       "name": "Work Dub",
       "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"

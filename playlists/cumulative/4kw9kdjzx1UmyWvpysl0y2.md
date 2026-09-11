@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,299 songs - 3 day 0 hr 0 min
+1,300 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Move Yo Feet](https://open.spotify.com/track/1QGl7VLbqHDdBK81ccUflR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L) | [Move Yo Feet](https://open.spotify.com/album/0VSlnw9OR0rAYLGJTEhyl8) | 2:33 | 2025-09-03 | 2025-11-28 |
 | [Move Your Body](https://open.spotify.com/track/1DsPPeID1anFjzeuvIKaLK) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Move Your Body](https://open.spotify.com/album/3c26X4k1tb3nui2V1aDC95) | 2:48 | 2026-03-25 | 2026-06-30 |
 | [Movements](https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Laminar](https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Movements](https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab) | 4:15 | 2024-08-12 | 2024-11-05 |
+| [movements](https://open.spotify.com/track/2INjIOP5rGiEe7ettLMGQX) | [null/fx](https://open.spotify.com/artist/4GYl7fkPn9FUNG2H1m1GN7), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [movements / trouble sound](https://open.spotify.com/album/5orRWMZlCnTt6VEKLR76Yz) | 3:06 | 2026-09-10 |  |
 | [Much Is Taken, Much Abides](https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Much Is Taken, Much Abides](https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ) | 3:26 | 2024-07-16 | 2024-10-08 |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |

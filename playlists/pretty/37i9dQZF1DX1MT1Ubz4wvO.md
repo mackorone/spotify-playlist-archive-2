@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 José Madero
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,122 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,101 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/track/6XPE82mu1x3NWCgrspIpZy) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Tolidos](https://open.spotify.com/artist/0Pz3Ti0IwegALv24lPjUI0) | [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/album/2q1RVFJpZj0w8W9PeWcQMT) | 3:52 |
 | 50 | [Estírate](https://open.spotify.com/track/2Utdhgwpw74c5pTFLxUP4Z) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Bastardo](https://open.spotify.com/album/2nqk8rdxZ6286HdAjGapI3) | 3:33 |
 
-Snapshot ID: `AAAAAKPn+DL5s/WDX6ehAGSdWN9qxnja`
+Snapshot ID: `AAAAAJgLrz1hzG8hjl4xIdEmNutbZHV9`

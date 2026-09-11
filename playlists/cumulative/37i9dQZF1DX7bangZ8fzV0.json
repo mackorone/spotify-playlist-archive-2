@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Snotkop en Ricus Nel",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 228888,
       "name": "Hart soos 'n Hilux",
       "url": "https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R"
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 177984,
       "name": "Iemand Soos Jy",
       "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
@@ -5351,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Ou Dae",
+        "url": "https://open.spotify.com/album/5n6leyU2fN4RUrSASZ3YMV"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220169,
+      "name": "Ou Dae",
+      "url": "https://open.spotify.com/track/2JkJC4K0YvUukeW41p1hXK"
+    },
+    {
+      "album": {
         "name": "Ouens Soos Ek",
         "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
       },
@@ -6832,7 +6850,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"

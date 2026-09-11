@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-186 songs - 11 hr 12 min
+187 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Holland, 1945](https://open.spotify.com/track/48WuGsko0WxKO9KUqZlqys) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 3:12 | 2026-05-26 |  |
 | [Hustle Bones](https://open.spotify.com/track/5PXyH5bb5fbVfO8LjByhBb) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:12 | 2025-03-10 | 2025-09-27 |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2025-03-22 |  |
+| [I DON'T LOVE YOU ANYMORE](https://open.spotify.com/track/5A0M6B0RBSXSNWv0wcppZ9) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:41 | 2026-09-11 |  |
 | [I Thought About Killing You](https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:34 | 2025-06-19 |  |
 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 | 2025-02-28 |  |
 | [I'll Be Right There](https://open.spotify.com/track/5Z6hdVHH39nARjTBfMUVl6) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:48 | 2025-03-22 | 2025-09-27 |

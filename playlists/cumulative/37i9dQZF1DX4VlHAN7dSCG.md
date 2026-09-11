@@ -2,9 +2,9 @@
 
 ### [組團飆歌](https://open.spotify.com/playlist/37i9dQZF1DX4VlHAN7dSCG)
 
-> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 椅子樂團 The Chairs
+> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Soul Sorry
 
-995 songs - 2 day 16 hr 49 min
+998 songs - 2 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DASH！ \(2024 V\-TEX 代言主題曲\)](https://open.spotify.com/track/1gshLl2xwHVrFelFR2jF23) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [還記得那天 怪星週年誌\#01](https://open.spotify.com/album/4y4Ab23YmTX0tpUvN5CXUl) | 3:17 | 2024-09-12 | 2024-10-04 |
 | [Day n Nite](https://open.spotify.com/track/74ePDBjr0YfCAq03layase) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [Day n Nite](https://open.spotify.com/album/4P3CO0fhDGlyAzO0VCGycB) | 2:39 | 2025-09-25 | 2025-10-03 |
 | [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [參](https://open.spotify.com/album/1Yd6Fh0NTKDx5jiqdAeUoO) | 2:43 | 2025-12-18 | 2026-01-15 |
+| [Dear You](https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Dear You](https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp) | 4:02 | 2026-09-10 |  |
 | [Deep Dive](https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N) | [One&Two](https://open.spotify.com/artist/4UhmM1Hu2pmOrdXzQqvYLQ), [Lona](https://open.spotify.com/artist/66tKRmy3IXz9wFXkF6xBn5), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Deep Dive](https://open.spotify.com/album/2ptiQ2EXrgpGBUZXLxtiRo) | 2:31 | 2024-08-15 | 2024-09-20 |
 | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/track/6lEgJnYGEGu5l0ihRU8pq1) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/album/1WG1hu3F4szsq90ceZPSpI) | 3:27 | 2024-06-28 | 2024-07-05 |
 | [Disco Night｜R.Y.G.](https://open.spotify.com/track/54f74X7VwY9jVRuXCLNne5) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [Disco Night｜R.Y.G.](https://open.spotify.com/album/2m8CnJPhLmZtKVLXaudYpO) | 2:42 | 2024-11-14 | 2024-12-06 |
@@ -708,6 +709,7 @@
 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 | 2025-04-10 | 2025-11-07 |
 | [来都来了 \(搖滾版\) \- 电影 《寄生下流》 插曲](https://open.spotify.com/track/6dptiSYwLU7Dwj8qgfgIIx) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe), [Dissy](https://open.spotify.com/artist/1WXkNMydrLPJg4scxL6MWh) | [来都来了 \(搖滾版\) \[电影 《寄生下流》 插曲\]](https://open.spotify.com/album/4Ep8QIXZgLKa1GwJ5hxU0j) | 2:35 | 2026-02-19 | 2026-07-24 |
 | [某某](https://open.spotify.com/track/33XIrUtplNa4YZCKJ7tq37) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [聆聽˙某某](https://open.spotify.com/album/7HoXsKHZgb7JO11swrWXOz) | 3:54 | 2024-08-22 | 2024-09-13 |
+| [某種](https://open.spotify.com/track/13XC1o90B5u3PowvfKy6KK) | [Soul Sorry](https://open.spotify.com/artist/4J4vDlFOsvcXaNpZJQmDsv) | [某種](https://open.spotify.com/album/7sXBDciuQjS2Tv3gVjHBI8) | 3:56 | 2026-09-10 |  |
 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 | 2025-10-30 | 2025-12-19 |
 | [極樂世界](https://open.spotify.com/track/5FshdcJMvxXnxT1Ja3lgXJ) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [極樂世界](https://open.spotify.com/album/6YCK78QCAxMqK0lotLD5zq) | 3:22 | 2024-08-01 | 2024-08-23 |
 | [槿花](https://open.spotify.com/track/6inRVUQXUVSdJf7Lpxfi5R) | [庵心自在所](https://open.spotify.com/artist/2seNyxWz5SOuYTmhxetJjJ) | [槿花](https://open.spotify.com/album/2AR2YIZCHxkHCopp4ONDGD) | 3:31 | 2025-10-09 | 2025-10-24 |
@@ -805,6 +807,7 @@
 | [真空狀態](https://open.spotify.com/track/6SANzrbHxioTz7FrMjLBe3) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [Waste Land](https://open.spotify.com/album/6hQzQx5ejvMTawsm3wfyk1) | 5:06 | 2025-11-20 | 2025-12-12 |
 | [瞳孔](https://open.spotify.com/track/05PEWABgseM6vVQu6w08QW) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [瞳孔](https://open.spotify.com/album/1LPeqAVDWXrMihLLFJ9rM6) | 5:50 | 2025-06-05 | 2025-06-27 |
 | [知己 feat\. 九澤CP](https://open.spotify.com/track/6kmvbtrjLRmeJeZBTcyNge) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [結伴\(豪華版\)](https://open.spotify.com/album/11eHWo34XKwBnBCMMCKM0c) | 4:51 | 2024-08-22 | 2026-07-24 |
+| [矯](https://open.spotify.com/track/4rgRvNGqSDfF0jrjp7Kwjr) | [紙鳶](https://open.spotify.com/artist/05delKph4l4CQoZ5seRwW9) | [矯](https://open.spotify.com/album/4pQXphZZ2vxl45rvICXZpR) | 3:29 | 2026-09-10 |  |
 | [破碎的薔薇 \(stripped\)](https://open.spotify.com/track/7LfL8cClPAs3b1YJl44EJZ) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [破碎的薔薇 \(stripped\)](https://open.spotify.com/album/7Lus2ek3CgLxxM0lob9Lhg) | 3:59 | 2025-11-06 | 2025-11-21 |
 | [碎片 \- Live](https://open.spotify.com/track/6617AJworONJhIFUovLDK6) | [康姆士\(COM’Z\)](https://open.spotify.com/artist/4O9yXuMzkIoRezqlpgkdjK) | [碎片 \(Live\)](https://open.spotify.com/album/4T3Ba0LxGdpiFxDuKDRdQC) | 5:40 | 2026-02-12 | 2026-07-24 |
 | [祝你生日快樂](https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [祝你生日快樂](https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC) | 4:06 | 2025-10-16 | 2025-11-07 |

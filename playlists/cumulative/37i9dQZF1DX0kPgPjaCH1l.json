@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  FirstKlaz",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Abefe",
   "name": "afro adura ",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 210000,
       "name": "7AM in Lekki",
       "url": "https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ"
+    },
+    {
+      "album": {
+        "name": "A LOT A LOT",
+        "url": "https://open.spotify.com/album/3hGg2tQ8Z0zKkmaR4hlIVk"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184854,
+      "name": "A LOT A LOT",
+      "url": "https://open.spotify.com/track/13qqNFF4btUAEj352hwIKu"
     },
     {
       "album": {
@@ -758,7 +776,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
@@ -1699,6 +1717,32 @@
     },
     {
       "album": {
+        "name": "it's over",
+        "url": "https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190972,
+      "name": "it's over",
+      "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
+    },
+    {
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -2494,7 +2538,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148536,
       "name": "Orin Halleluyah",
       "url": "https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox"
@@ -2720,7 +2764,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166687,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei"

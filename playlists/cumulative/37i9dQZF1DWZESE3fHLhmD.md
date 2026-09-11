@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZESE3fHLhmD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZESE3fHLhmD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZESE3fHLhmD)
 
-### [Sommergefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
+### [Herbstgefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
 
-> sonnige songs weil sommer und so 🤝 🙂‍↔️
+> songs so golden wie der herbst
 
-457 songs - 1 day 0 hr 15 min
+460 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-03-05 | 2024-05-05 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-15 | 2024-04-19 |
 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 | 2024-11-09 | 2025-03-15 |
+| [Better Than Before](https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X) | [Pamela.](https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE) | [Better Than Before](https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1) | 2:42 | 2026-09-10 |  |
 | [Bike in L.A\. \- Roosevelt Remix](https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bike in L.A\. \(Remix\)](https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv) | 3:23 | 2025-06-17 | 2025-06-28 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-22 |  |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-24 |  |
@@ -67,9 +68,10 @@
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-09-15 | 2024-07-02 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2025-09-08 | 2026-03-27 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-09-26 | 2026-07-24 |
+| [Caught Myself Believing](https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Practical Magic 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni) | 3:00 | 2026-09-10 |  |
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2025-11-17 | 2025-12-06 |
 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 | 2024-07-01 | 2026-03-06 |
-| [Changes](https://open.spotify.com/track/4sBDf6o4mYWjmZjPn4TH9I) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Changes](https://open.spotify.com/album/4nUBAtr9iFH2HhoLR9Cqjo) | 2:44 | 2026-08-27 |  |
+| [Changes](https://open.spotify.com/track/4sBDf6o4mYWjmZjPn4TH9I) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Changes](https://open.spotify.com/album/4nUBAtr9iFH2HhoLR9Cqjo) | 2:44 | 2026-08-27 | 2026-09-11 |
 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 | 2026-05-07 | 2026-05-29 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-07-26 | 2024-07-02 |
 | [Cicada](https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB) | 2:46 | 2026-04-16 | 2026-05-15 |
@@ -100,7 +102,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2024-04-19 | 2024-07-02 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 | 2025-03-29 |
 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 | 2024-03-01 | 2024-07-02 |
-| [Don't Ruin It](https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258) | [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Don't Ruin It](https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe) | 2:51 | 2026-08-27 |  |
+| [Don't Ruin It](https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258) | [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Don't Ruin It](https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe) | 2:51 | 2026-08-27 | 2026-09-11 |
 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-28 |  |
 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 | 2023-12-19 | 2024-03-16 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-09 |  |
@@ -114,6 +116,7 @@
 | [Ein Traum](https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Ein Traum](https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo) | 2:49 | 2023-11-10 | 2024-09-07 |
 | [En nuit](https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:41 | 2025-06-17 | 2025-09-26 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-01 |  |
+| [Ende der Welt](https://open.spotify.com/track/4rDp0owP2tmSUrLBIs91cB) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Ende der Welt](https://open.spotify.com/album/1Q31OdUSqoOLZcKLMQSyuX) | 2:09 | 2026-09-10 |  |
 | [Epa](https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Indie Rave](https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o) | 3:50 | 2026-08-06 | 2026-08-28 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-09 | 2024-10-12 |
 | [Estate torna presto](https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Oscillare](https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08) | 5:11 | 2026-05-21 | 2026-05-29 |
@@ -338,7 +341,7 @@
 | [sandmann](https://open.spotify.com/track/0VjaALHWHv43TFwqwf2tKB) | [RGB](https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6), [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [sandmann](https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11) | 2:34 | 2023-12-19 | 2024-01-20 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-07-26 | 2024-07-02 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 | 2026-06-05 |
-| [Scaring Everyone](https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Scaring Everyone](https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT) | 3:24 | 2026-08-27 |  |
+| [Scaring Everyone](https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Scaring Everyone](https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT) | 3:24 | 2026-08-27 | 2026-09-11 |
 | [Schön](https://open.spotify.com/track/0qcVNd4VcOqxfRisjPa6fu) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Schön](https://open.spotify.com/album/3p3CI9WVGwLGgEJUkzODow) | 2:20 | 2026-06-11 | 2026-06-26 |
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-10-09 | 2026-05-09 |
 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 | 2024-10-18 |  |

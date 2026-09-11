@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: PISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,896 likes - 153 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,897 likes - 153 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pulse](https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:21 |
 | 2 | [Chewing Gum \- Live from El Coyote](https://open.spotify.com/track/5wn9lYbD54JqAnly1aa88H) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Truth or Consequence \(Live from El Coyote\)](https://open.spotify.com/album/5kSISO8iA676CFlKo2fU0R) | 3:51 |
 | 3 | [time loop at hot slit](https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [time loop at hot slit](https://open.spotify.com/album/6pTyAyVoNqlOIEmDRPcgsZ) | 1:56 |
-| 4 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 4 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 5 | [Good American](https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Good American](https://open.spotify.com/album/5M9R4gC7uh7LB5VZUNRQcx) | 3:52 |
 | 6 | [That’s Not Fair](https://open.spotify.com/track/3pap8PquQ7L1mW6xlL1tjF) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [That’s Not Fair](https://open.spotify.com/album/52ZpqSUggHtToG8r4FnbmC) | 2:53 |
 | 7 | [Fed By Fear](https://open.spotify.com/track/6awnRGoJaDLgmgS9apiVWe) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Fed By Fear](https://open.spotify.com/album/1S0vKJSsn9dsxMeTCJw2rP) | 3:18 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 152 | [If You Don't Know](https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [If You Don't Know](https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15) | 3:14 |
 | 153 | [Unforgiven](https://open.spotify.com/track/12BoCZELfYcQmqGVyMuR42) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Unforgiven](https://open.spotify.com/album/4T645Im7q24AE4AkWXz5eN) | 2:41 |
 
-Snapshot ID: `AAAAAIXZWkOD06v4bXExLoj7rF+Z3WRU`
+Snapshot ID: `AAAAAFgZ+AVUm5RYgxDWm8oDLtqnAuk3`

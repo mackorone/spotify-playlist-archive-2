@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> شجّع المنتَج المحلي\. الغلاف: مازن
+> شجّع المنتَج المحلي\. الغلاف: يوليو
 
-1,804 songs - 4 day 3 hr 58 min
+1,805 songs - 4 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1386,6 +1386,7 @@
 | [حبينا](https://open.spotify.com/track/1S3appxEsM5sN3qEURkPt2) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:18 | 2023-01-12 | 2023-02-24 |
 | [حد سكه](https://open.spotify.com/track/1afyeHQ5FB9rQ6h0Z9CLv1) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [حد سكه](https://open.spotify.com/album/5hZzaNQJgtwpryHjsHwb9i) | 4:03 | 2024-06-27 | 2024-08-01 |
 | [حزن آلي عالي](https://open.spotify.com/track/1FKEzdzSO9tLgzjJHthKDa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [الحقي يا ماما انا عملت البوم](https://open.spotify.com/album/000hIb2tyocg4DRtbPDj4P) | 2:27 | 2023-09-14 | 2023-12-30 |
+| [حسدوا الحال](https://open.spotify.com/track/6UHeuSGmt5Be6aOMynuy7N) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9) | [حسدوا الحال](https://open.spotify.com/album/3Bqu467H9C3gGbeUJCOzVk) | 2:08 | 2026-09-10 |  |
 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 | 2025-03-04 | 2025-05-23 |
 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 | 2023-10-06 | 2024-01-17 |
 | [حطيني ف ستوري](https://open.spotify.com/track/0hG9KsyYwd8yNLNPQyPbna) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [حطيني ف ستوري](https://open.spotify.com/album/4UuFOIJTtS2wmRkBPZIWeg) | 3:05 | 2026-07-09 |  |

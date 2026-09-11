@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 135600,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1RVDBgkhBgn3GxVTt8FNMV"
@@ -3046,6 +3046,24 @@
       "duration_ms": 135757,
       "name": "BADDIES",
       "url": "https://open.spotify.com/track/6vMetgwaOpsO45Aghc3Kv8"
+    },
+    {
+      "album": {
+        "name": "Baddies Club",
+        "url": "https://open.spotify.com/album/7gzD8uQEkDLWRPzsNh4iPo"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Baddies Club",
+      "url": "https://open.spotify.com/track/3QboaWCTwe8CF1Do1NtrPe"
     },
     {
       "album": {
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190434,
       "name": "Beschadigd",
       "url": "https://open.spotify.com/track/5GJdPWYBzPnMmau8Bl2no7"
@@ -6158,7 +6176,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 117600,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/1ThBXOQdTyzB0xcu89X3j7"
@@ -6922,7 +6940,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 201600,
       "name": "BuzzBall",
       "url": "https://open.spotify.com/track/4SVYQKTujSh08QUFKf742P"
@@ -10320,7 +10338,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 108821,
       "name": "Dima - \u062f\u064a\u0645\u0627",
       "url": "https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI"
@@ -15601,6 +15619,40 @@
     },
     {
       "album": {
+        "name": "HASJ WIET LEAN (feat. lostboyshawty & DIM)",
+        "url": "https://open.spotify.com/album/0mdBdO3rGMzRhg5FYuFu0D"
+      },
+      "artists": [
+        {
+          "name": "prodbyflix",
+          "url": "https://open.spotify.com/artist/65b2zfixVLfMzxZfp2ol3m"
+        },
+        {
+          "name": "Benaja",
+          "url": "https://open.spotify.com/artist/04hhcLaopGwW5RJB9pwEgU"
+        },
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/0fPpQ1hXjPTn9syEhUDo09"
+        },
+        {
+          "name": "lostboyshawty",
+          "url": "https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ"
+        },
+        {
+          "name": "DIM",
+          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "HASJ WIET LEAN (feat. lostboyshawty & DIM)",
+      "url": "https://open.spotify.com/track/5rdK6hXaRqbkAB7xT135Se"
+    },
+    {
+      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/6N5hxh9kJdRtKllzb14BID"
       },
@@ -18740,7 +18792,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -18946,6 +18998,28 @@
       "duration_ms": 146015,
       "name": "Khalini",
       "url": "https://open.spotify.com/track/2IAQIpYXy7Z4zdE1HViCox"
+    },
+    {
+      "album": {
+        "name": "Kiba Hasi Kumi",
+        "url": "https://open.spotify.com/album/182O5HKU6Qqyf1CjdXMxvc"
+      },
+      "artists": [
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118080,
+      "name": "Kiba Hasi Kumi",
+      "url": "https://open.spotify.com/track/4DNWHSNBl850XwGoaRDTqU"
     },
     {
       "album": {
@@ -25385,6 +25459,28 @@
     },
     {
       "album": {
+        "name": "Nala Flow",
+        "url": "https://open.spotify.com/album/69M1KAj9kJWSnuInufgFUY"
+      },
+      "artists": [
+        {
+          "name": "I am Aisha",
+          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Nala Flow",
+      "url": "https://open.spotify.com/track/0pMjcIJm6NMsIIG2RBdnPj"
+    },
+    {
+      "album": {
         "name": "Namek",
         "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
       },
@@ -27237,6 +27333,24 @@
     },
     {
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+    },
+    {
+      "album": {
         "name": "OHMA TOKITA",
         "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
       },
@@ -27948,6 +28062,36 @@
       "duration_ms": 160629,
       "name": "OutSide",
       "url": "https://open.spotify.com/track/6IG0iq4FFvfJfMKQwdD3Fx"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0v7u9mo0TGR8I4O8aGjTB0"
+      },
+      "artists": [
+        {
+          "name": "Roxy Rosa",
+          "url": "https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg"
+        },
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Gorrsowtu",
+          "url": "https://open.spotify.com/artist/5VF7ryU1UplU9ixHIE5qAP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124874,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6yDO4pqOSpr1akgjjTGdDe"
     },
     {
       "album": {
@@ -32369,6 +32513,28 @@
     },
     {
       "album": {
+        "name": "Shawty Come On",
+        "url": "https://open.spotify.com/album/5gJRKQtRof0zpUjrlCPec9"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Shawty Come On",
+      "url": "https://open.spotify.com/track/2zDhPEIPW4l0e7gTzWsPt5"
+    },
+    {
+      "album": {
         "name": "Lap 5",
         "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
       },
@@ -32406,7 +32572,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197845,
       "name": "Shigege",
       "url": "https://open.spotify.com/track/2FvDvFYwoVWe02oqTMgmgc"
@@ -38467,6 +38633,28 @@
     },
     {
       "album": {
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/3ecBewVWWL3H9lmqD2Jh5I"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120920,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
+    },
+    {
+      "album": {
         "name": "Voor Ons",
         "url": "https://open.spotify.com/album/3MY8fZjnPk1OYvnBh7PUNV"
       },
@@ -38680,7 +38868,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Kuba i Kuba",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Julia Wieniawa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -86,6 +86,24 @@
       "duration_ms": 197333,
       "name": "12 zmys\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3SSFzI5YpojR8fzirESKBj"
+    },
+    {
+      "album": {
+        "name": "27 (Do gwiazd!)",
+        "url": "https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "27 (Do gwiazd!)",
+      "url": "https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy"
     },
     {
       "album": {
@@ -714,7 +732,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 134563,
       "name": "a\u017c nie chce si\u0119 wraca\u0107",
       "url": "https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm"
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Bli\u017cej podejd\u017a tak",
+        "url": "https://open.spotify.com/album/7A3qmuwldYeczNbLL2auS7"
+      },
+      "artists": [
+        {
+          "name": "MOTYLE",
+          "url": "https://open.spotify.com/artist/0weHeWRN5iJzURaQu3s5WZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Bli\u017cej podejd\u017a tak",
+      "url": "https://open.spotify.com/track/5JyK2dSZ4Fkx8jbkiaPrwF"
+    },
+    {
+      "album": {
         "name": "Blue Monday",
         "url": "https://open.spotify.com/album/1ku1kT9D2zCWfrh6wLRPY6"
       },
@@ -1790,6 +1826,28 @@
       "duration_ms": 161221,
       "name": "B\u0105d\u017a tu ze mn\u0105",
       "url": "https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2"
+    },
+    {
+      "album": {
+        "name": "B\u0119dzie By\u0142o",
+        "url": "https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Wi\u015bniewski",
+          "url": "https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg"
+        },
+        {
+          "name": "Mandaryna",
+          "url": "https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148351,
+      "name": "B\u0119dzie By\u0142o",
+      "url": "https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK"
     },
     {
       "album": {
@@ -2478,6 +2536,24 @@
       "duration_ms": 151546,
       "name": "CO JA WIEM",
       "url": "https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg"
+    },
+    {
+      "album": {
+        "name": "Co je\u015bli",
+        "url": "https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "Co je\u015bli",
+      "url": "https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh"
     },
     {
       "album": {
@@ -5082,7 +5158,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157241,
       "name": "GirlZ",
       "url": "https://open.spotify.com/track/5SYWhF4CbPIYDRxh4S6Aor"
@@ -6495,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "just a girl",
+        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166161,
+      "name": "just a girl",
+      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
+    },
+    {
+      "album": {
         "name": "Kalejdoskop",
         "url": "https://open.spotify.com/album/55ZJO1R3deCKe2aDItl9e3"
       },
@@ -7146,7 +7240,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194887,
       "name": "Korzenie",
       "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
@@ -9663,6 +9757,24 @@
     },
     {
       "album": {
+        "name": "na moje nieszcz\u0119\u015bcie",
+        "url": "https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG"
+      },
+      "artists": [
+        {
+          "name": "Kaeyra",
+          "url": "https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185113,
+      "name": "na moje nieszcz\u0119\u015bcie",
+      "url": "https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13"
+    },
+    {
+      "album": {
         "name": "na nowo",
         "url": "https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a"
       },
@@ -10948,7 +11060,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190506,
       "name": "Nie za\u015bpiewam Twojej mamie",
       "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
@@ -11084,7 +11196,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 238093,
       "name": "Niech \u017cyje bal",
       "url": "https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby"
@@ -12550,7 +12662,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165096,
       "name": "Par\u0119 Wspomnie\u0144",
       "url": "https://open.spotify.com/track/780uKOQ7toRQnprUUM4ynW"
@@ -15432,7 +15544,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 206769,
       "name": "SYREN",
       "url": "https://open.spotify.com/track/6EHCRmMbDquS2PRDkTGUed"
@@ -15454,7 +15566,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176554,
       "name": "SYRENY",
       "url": "https://open.spotify.com/track/2moIgh6lTs6D6kICWX8370"
@@ -15690,6 +15802,28 @@
       "duration_ms": 206843,
       "name": "Sztorm",
       "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
+    },
+    {
+      "album": {
+        "name": "Sztos",
+        "url": "https://open.spotify.com/album/2vQ07EMCA36O2CVbMG2vTY"
+      },
+      "artists": [
+        {
+          "name": "Red Lips",
+          "url": "https://open.spotify.com/artist/3k7VvYK030ZB8XkLrbFX7M"
+        },
+        {
+          "name": "Bard Kowalski",
+          "url": "https://open.spotify.com/artist/2HZPSTdKVp6CdzRrDkaQsv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Sztos",
+      "url": "https://open.spotify.com/track/5sjeU0jbxxOVcPItPtzwMr"
     },
     {
       "album": {
@@ -17070,6 +17204,24 @@
       "duration_ms": 135000,
       "name": "Tyle mog\u0142em Ci da\u0107",
       "url": "https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj"
+    },
+    {
+      "album": {
+        "name": "Tylko Ciebie",
+        "url": "https://open.spotify.com/album/2FbmoPcrIKmdIRKt58lG2n"
+      },
+      "artists": [
+        {
+          "name": "Robert Wiewi\u00f3ra",
+          "url": "https://open.spotify.com/artist/2maqo0I7n0YWoX1332xVCN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Tylko Ciebie",
+      "url": "https://open.spotify.com/track/5yDMsh16FLToOcFJYZeC2J"
     },
     {
       "album": {

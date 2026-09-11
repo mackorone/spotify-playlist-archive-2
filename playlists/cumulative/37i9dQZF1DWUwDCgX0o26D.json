@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b4c\u55ae\u5c31\u8a72\u74b0\u904a\u4e16\u754c\uff0c\u4eab\u53d7\u6642\u5dee\u5728\u8033\u4e2d\u4f5c\u795f\u3002Cover: The Kid LAROI",
+  "description": "\u6b4c\u55ae\u5c31\u8a72\u74b0\u904a\u4e16\u754c\uff0c\u4eab\u53d7\u6642\u5dee\u5728\u8033\u4e2d\u4f5c\u795f\u3002Cover: MIley Cyrus",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175866,
       "name": "AH HA",
       "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
@@ -2254,6 +2254,24 @@
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
       "album": {
@@ -4558,7 +4576,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
@@ -4598,6 +4616,28 @@
       "duration_ms": 215312,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/0iTlvyoG8wxt7AYdaxCPGy"
+    },
+    {
+      "album": {
+        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216247,
+      "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
     },
     {
       "album": {
@@ -9105,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "I Know Too Much",
+        "url": "https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233944,
+      "name": "For Your Entertainment",
+      "url": "https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um"
+    },
+    {
+      "album": {
         "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
       },
@@ -11964,7 +12022,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 135460,
       "name": "honk!",
       "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
@@ -15367,6 +15425,28 @@
     },
     {
       "album": {
+        "name": "Pour My Heart Out",
+        "url": "https://open.spotify.com/album/1iEQOQrdww6JCTpb9D6zSn"
+      },
+      "artists": [
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Lipgloss",
+      "url": "https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI"
+    },
+    {
+      "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
       },
@@ -17470,7 +17550,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
@@ -17566,6 +17646,28 @@
       "duration_ms": 180661,
       "name": "Movie Scene",
       "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
+    },
+    {
+      "album": {
+        "name": "MP3 SUMMER",
+        "url": "https://open.spotify.com/album/0HUuiYwm9vKlf9sGF7fPL5"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "MP3 SUMMER",
+      "url": "https://open.spotify.com/track/5lbMJDXuaOxZZRlzwrTjrA"
     },
     {
       "album": {
@@ -17674,6 +17776,24 @@
       "duration_ms": 172263,
       "name": "mR.mELoDramAtiC",
       "url": "https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb"
+    },
+    {
+      "album": {
+        "name": "Ms Conceited",
+        "url": "https://open.spotify.com/album/4drod6IcoXpeZdm22HGdlE"
+      },
+      "artists": [
+        {
+          "name": "DAINASAURS",
+          "url": "https://open.spotify.com/artist/0zahECcaw4ZSw8flJ0CTmk"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ms Conceited",
+      "url": "https://open.spotify.com/track/1pqGcpCJvbMvLOvWJtHgGN"
     },
     {
       "album": {
@@ -18424,6 +18544,24 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -20064,7 +20202,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 187124,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"
@@ -21098,7 +21236,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/3tu3WIgcHYck8A7csEKyUM"
@@ -21254,6 +21392,24 @@
       "duration_ms": 169189,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv"
+    },
+    {
+      "album": {
+        "name": "ARE YOU EVER COMING BACK?",
+        "url": "https://open.spotify.com/album/0qi1ztU4S08zA1FsP1DUaY"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177474,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/03HDgf6dcLdjVwJqouJHWq"
     },
     {
       "album": {
@@ -25292,7 +25448,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
@@ -25332,7 +25488,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161000,
       "name": "talks don't lie",
       "url": "https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0"
@@ -26480,6 +26636,28 @@
       "duration_ms": 282200,
       "name": "Thinking What I'm Thinking",
       "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
+    },
+    {
+      "album": {
+        "name": "This Is the Last Song About You",
+        "url": "https://open.spotify.com/album/4QVwataDdz8ZuUNa2dKiAJ"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126510,
+      "name": "This Is the Last Song About You",
+      "url": "https://open.spotify.com/track/56mCbeIok8fW5fG3oe0wmn"
     },
     {
       "album": {
@@ -28104,7 +28282,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/1CDzAsGH7q4N2eCBfuAKID"

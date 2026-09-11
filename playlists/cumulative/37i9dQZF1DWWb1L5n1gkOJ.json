@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 195692,
       "name": "A Winter\u2019s Story",
       "url": "https://open.spotify.com/track/7HHLE9DV2cEMwzVPN5tf8w"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Almost Nothing",
+        "url": "https://open.spotify.com/album/4UcB4RTrf104tPAKiKOcsW"
+      },
+      "artists": [
+        {
+          "name": "Nimara",
+          "url": "https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Almost Nothing",
+      "url": "https://open.spotify.com/track/5FKRGSIaydt5P8tQs9vuiG"
+    },
+    {
+      "album": {
         "name": "Already Missing Summer",
         "url": "https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 135374,
       "name": "Amber Sun",
       "url": "https://open.spotify.com/track/78gZJ45rQzIuu4JSCSvVpz"
+    },
+    {
+      "album": {
+        "name": "Ammeter",
+        "url": "https://open.spotify.com/album/5E38tWXSfLHRU675ow4zGr"
+      },
+      "artists": [
+        {
+          "name": "Night Resonant",
+          "url": "https://open.spotify.com/artist/25tJutV7nhxsg59v0X4bax"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "Ammeter",
+      "url": "https://open.spotify.com/track/77E95JrA1vI1VoQ4XgV4hD"
     },
     {
       "album": {
@@ -322,7 +358,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 219010,
       "name": "Apartmento",
       "url": "https://open.spotify.com/track/2wANsI6fVcxBsQjIc3YvUG"
@@ -452,6 +488,24 @@
       "duration_ms": 198726,
       "name": "Astral Grove",
       "url": "https://open.spotify.com/track/2u6ekfh4BCNBuyHUUgTtBp"
+    },
+    {
+      "album": {
+        "name": "Astrale",
+        "url": "https://open.spotify.com/album/6Tpk9bKc7KhtASp3oYEzf0"
+      },
+      "artists": [
+        {
+          "name": "Celestine Wake",
+          "url": "https://open.spotify.com/artist/02eBA32yEVKnpFU995YA9d"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144250,
+      "name": "Astrale",
+      "url": "https://open.spotify.com/track/5QR4QqRJj3icfqfHfnFvL7"
     },
     {
       "album": {
@@ -870,7 +924,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 179500,
       "name": "Calm Shore",
       "url": "https://open.spotify.com/track/13qnqIH7bzuc0gCYDhCitj"
@@ -946,6 +1000,24 @@
       "duration_ms": 194999,
       "name": "Celestial Silence",
       "url": "https://open.spotify.com/track/2OWiBK2O9955a9eVM2SeZJ"
+    },
+    {
+      "album": {
+        "name": "Centering",
+        "url": "https://open.spotify.com/album/2Bj6S3LJLK810uVdcvIK82"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Centering",
+      "url": "https://open.spotify.com/track/7k01Gr52EjUSn2Bx4kxw5W"
     },
     {
       "album": {
@@ -1489,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Dust of Evening",
+        "url": "https://open.spotify.com/album/2Qyqyt3PClwmasPgHLSFfd"
+      },
+      "artists": [
+        {
+          "name": "Sayulita",
+          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136129,
+      "name": "Dust of Evening",
+      "url": "https://open.spotify.com/track/3gALQcPyrwsQPDqDglItxp"
+    },
+    {
+      "album": {
         "name": "Dvala",
         "url": "https://open.spotify.com/album/5kXNhoyYq7WvLmCVhm7gJR"
       },
@@ -1774,6 +1864,42 @@
       "duration_ms": 135751,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
+    },
+    {
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/4jrORe7b2bOuCAOobDz86F"
+      },
+      "artists": [
+        {
+          "name": "Orchestrate the Universe",
+          "url": "https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/1hGKYDfFHkQOiywwzTEAHn"
+    },
+    {
+      "album": {
+        "name": "Evolution of Consciousness",
+        "url": "https://open.spotify.com/album/2tQwlg152lMqNaldBmI7v5"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Evolution of Consciousness",
+      "url": "https://open.spotify.com/track/4DNpdp4W0accYu6gStgJWb"
     },
     {
       "album": {
@@ -2184,7 +2310,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176302,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/3v3n8wh9qrjNZN9ZvErNhx"
@@ -2328,7 +2454,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178068,
       "name": "Heiwa",
       "url": "https://open.spotify.com/track/7w6AeU43e5wSvFpB3BXIYO"
@@ -2389,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Honeyed",
+        "url": "https://open.spotify.com/album/4ep0KSgvAOtfU1xzzzGZ33"
+      },
+      "artists": [
+        {
+          "name": "Ambient X",
+          "url": "https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Honeyed",
+      "url": "https://open.spotify.com/track/2X0RQzNCFduEMtLjCpRp2h"
+    },
+    {
+      "album": {
         "name": "H\u00e6den",
         "url": "https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy"
       },
@@ -2440,6 +2584,24 @@
       "duration_ms": 158230,
       "name": "Infinity Flow",
       "url": "https://open.spotify.com/track/6OnpqVk4I7IzxzIUQkES7S"
+    },
+    {
+      "album": {
+        "name": "Initiative",
+        "url": "https://open.spotify.com/album/3wLzgR6RtLW7J8tdas80zw"
+      },
+      "artists": [
+        {
+          "name": "Efrim",
+          "url": "https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "Initiative",
+      "url": "https://open.spotify.com/track/2gwXDtI54WRowqblibtPes"
     },
     {
       "album": {
@@ -2731,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Light, Settling In",
+        "url": "https://open.spotify.com/album/2C13o7tm6adWBmtTxuY7Uc"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Light, Settling In",
+      "url": "https://open.spotify.com/track/1g068A8swrvzla2jftIyOT"
+    },
+    {
+      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv"
       },
@@ -2746,6 +2926,24 @@
       "duration_ms": 190000,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk"
+    },
+    {
+      "album": {
+        "name": "Lingerer",
+        "url": "https://open.spotify.com/album/05Q7ZIAqEqdNztiPeO2Ftu"
+      },
+      "artists": [
+        {
+          "name": "Solitudine Sono",
+          "url": "https://open.spotify.com/artist/6QYh2EMjHTxtBCOxhBIRnZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Lingerer",
+      "url": "https://open.spotify.com/track/1D7lDrObnXPwNm1FcupysW"
     },
     {
       "album": {
@@ -2782,6 +2980,24 @@
       "duration_ms": 115185,
       "name": "Lost In Thought",
       "url": "https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS"
+    },
+    {
+      "album": {
+        "name": "Low Power",
+        "url": "https://open.spotify.com/album/5XQ4C8WkZWt8XhYFlw4SYG"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Low Power",
+      "url": "https://open.spotify.com/track/7nGZhtjR5IYulGlsew8r1s"
     },
     {
       "album": {
@@ -2983,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "Meadow Dreams",
+        "url": "https://open.spotify.com/album/6csrZX05UZrWKoX5e6Fv1e"
+      },
+      "artists": [
+        {
+          "name": "Blundstoft",
+          "url": "https://open.spotify.com/artist/2VvQi6CusXMIBImj5uNaTq"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Meadow Dreams",
+      "url": "https://open.spotify.com/track/7rKFCfBGJaP2APTYB0eaXw"
+    },
+    {
+      "album": {
         "name": "Meditations Pt 4",
         "url": "https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY"
       },
@@ -3160,6 +3394,24 @@
       "duration_ms": 126331,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An"
+    },
+    {
+      "album": {
+        "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/09KckEMotdvUTIx1t1ZbO9"
+      },
+      "artists": [
+        {
+          "name": "August Cole",
+          "url": "https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/6lFTI52bgQ1Y8aABzzvSis"
     },
     {
       "album": {
@@ -3358,6 +3610,42 @@
       "duration_ms": 141995,
       "name": "Noche Brilliante",
       "url": "https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Echoes",
+        "url": "https://open.spotify.com/album/6JP44eUE7h6nTvVEpYbQjG"
+      },
+      "artists": [
+        {
+          "name": "S Dedalus",
+          "url": "https://open.spotify.com/artist/2EjRftYBsQZCo0xGRzZSbj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Nocturnal Echoes",
+      "url": "https://open.spotify.com/track/3eaEjrlNAxxNtf3R5tCdTR"
+    },
+    {
+      "album": {
+        "name": "North of Sleep",
+        "url": "https://open.spotify.com/album/7zQrkHjIjXmCoGTVuIXC1w"
+      },
+      "artists": [
+        {
+          "name": "Ekoha",
+          "url": "https://open.spotify.com/artist/6g6mFGyvQcunLY0Bfef1B4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "North of Sleep",
+      "url": "https://open.spotify.com/track/0SLvBuoANtQnc7QqMr6zej"
     },
     {
       "album": {
@@ -3588,7 +3876,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152000,
       "name": "paradis",
       "url": "https://open.spotify.com/track/51yXlAu1hbPl8ma3biuTdE"
@@ -3606,7 +3894,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148500,
       "name": "Parity",
       "url": "https://open.spotify.com/track/298Un7bK9KvpK023wvujo4"
@@ -3804,7 +4092,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170329,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/4K2JHNLxDHSiHLDMhM565m"
@@ -3988,6 +4276,24 @@
       "duration_ms": 143660,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/2GJBxeFfnDyILm4XHC2ZkA"
+    },
+    {
+      "album": {
+        "name": "Reticence",
+        "url": "https://open.spotify.com/album/6fUx7Up6bBf9IeNBugPlxB"
+      },
+      "artists": [
+        {
+          "name": "Echo Ark",
+          "url": "https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144904,
+      "name": "Reticence",
+      "url": "https://open.spotify.com/track/1R7mpk8nDQutBZb4dRjt47"
     },
     {
       "album": {
@@ -4279,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Slow Glow",
+        "url": "https://open.spotify.com/album/0gN1miOUF2h6H7Eqa13mGw"
+      },
+      "artists": [
+        {
+          "name": "Stella Solstice",
+          "url": "https://open.spotify.com/artist/7FSm6WuCSQ8l2Gq6hUphpM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Slow Glow",
+      "url": "https://open.spotify.com/track/6kgRfqKWTEbEtVvLhQJjTy"
+    },
+    {
+      "album": {
         "name": "Slowly Drifting",
         "url": "https://open.spotify.com/album/6T4MYaCgYBSROijsRhdmJx"
       },
@@ -4290,7 +4614,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 202959,
       "name": "Slowly Drifting",
       "url": "https://open.spotify.com/track/6EkyAXzTLthE9rAmQsmzFT"
@@ -4384,6 +4708,24 @@
       "duration_ms": 165500,
       "name": "Soft Collapse",
       "url": "https://open.spotify.com/track/6k3KhBaaLKcqK8qBq3EnZB"
+    },
+    {
+      "album": {
+        "name": "Soft Sky",
+        "url": "https://open.spotify.com/album/6uK20Ot6zllADVfMruvFbk"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Soft Sky",
+      "url": "https://open.spotify.com/track/4fQVzBgjBG5EgGOpW7IDLe"
     },
     {
       "album": {
@@ -4567,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Sound of Leaving",
+        "url": "https://open.spotify.com/album/5RPVIdGTZcTXqrXzXLUTHp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Stone",
+          "url": "https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166928,
+      "name": "Sound of Leaving",
+      "url": "https://open.spotify.com/track/7fQvjqD9K2lnaA3e8esLSk"
+    },
+    {
+      "album": {
         "name": "Special Place",
         "url": "https://open.spotify.com/album/6523RQGUzKPc6XAQoJrYHj"
       },
@@ -4693,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Sun Silence",
+        "url": "https://open.spotify.com/album/2RRNgalWhTlgFZlHWttvy0"
+      },
+      "artists": [
+        {
+          "name": "Stella Solstice",
+          "url": "https://open.spotify.com/artist/7FSm6WuCSQ8l2Gq6hUphpM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Sun Silence",
+      "url": "https://open.spotify.com/track/2YGgUHsJSH9fv3yMWiazQJ"
+    },
+    {
+      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/0puCSGCejPhTxjAgJ467hz"
       },
@@ -4762,6 +5140,24 @@
       "duration_ms": 182871,
       "name": "Sweeping",
       "url": "https://open.spotify.com/track/666xsJh73mR3zJqUHp1mxq"
+    },
+    {
+      "album": {
+        "name": "Sylvan",
+        "url": "https://open.spotify.com/album/1GqqQifBiQBNfbyNmCNeW7"
+      },
+      "artists": [
+        {
+          "name": "Joel Holm",
+          "url": "https://open.spotify.com/artist/6PCsXNlCd3Nvo6zzGr5aEm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Sylvan",
+      "url": "https://open.spotify.com/track/24RpwvT2rVtoCpUJ9BNvSa"
     },
     {
       "album": {
@@ -4884,7 +5280,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194000,
       "name": "The New World",
       "url": "https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG"
@@ -4927,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Theta Bloom",
+        "url": "https://open.spotify.com/album/4hyEg8HQdZ1u6LHZ5nLXhD"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Theta Bloom",
+      "url": "https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x"
+    },
+    {
+      "album": {
         "name": "Thin Air",
         "url": "https://open.spotify.com/album/07kXGSf52B7VkxYDOT0Ja8"
       },
@@ -4963,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Time Reimagined",
+        "url": "https://open.spotify.com/album/7DW3HUZvUr692dQGUepEni"
+      },
+      "artists": [
+        {
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Time Reimagined",
+      "url": "https://open.spotify.com/track/35GOq4mXR5Q9VABfTiRqWE"
+    },
+    {
+      "album": {
         "name": "Travel Within",
         "url": "https://open.spotify.com/album/2iyTAlD7fHXYXgAWhE5QrB"
       },
@@ -4996,6 +5428,24 @@
       "duration_ms": 178374,
       "name": "Triangulus",
       "url": "https://open.spotify.com/track/11ILGvsO3n1A33rW1OhzTL"
+    },
+    {
+      "album": {
+        "name": "True Awareness",
+        "url": "https://open.spotify.com/album/790KeKNXdTeqKK0TpxBV5f"
+      },
+      "artists": [
+        {
+          "name": "Tenzing Mind",
+          "url": "https://open.spotify.com/artist/4BQEmuLxo6oX3gZUgH3i6D"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164273,
+      "name": "True Awareness",
+      "url": "https://open.spotify.com/track/5N0LyWCLmjNbgCOY9ERanN"
     },
     {
       "album": {
@@ -5046,7 +5496,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169078,
       "name": "Turning Skies",
       "url": "https://open.spotify.com/track/3IqDEu0H19nhfK7gnmgopV"
@@ -5143,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Vernal",
+        "url": "https://open.spotify.com/album/0xN7VLbL10RZCV4jBdaTtv"
+      },
+      "artists": [
+        {
+          "name": "Fhye",
+          "url": "https://open.spotify.com/artist/4OkwpFJVN2Zp05JhlkDnGb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Vernal",
+      "url": "https://open.spotify.com/track/3ZIKJyWSsS6yYdU3CMUieO"
+    },
+    {
+      "album": {
         "name": "Vettvangur",
         "url": "https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF"
       },
@@ -5226,7 +5694,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141818,
       "name": "Wanderlight",
       "url": "https://open.spotify.com/track/2INrIJo8OPZqhYYvg9hBz0"
@@ -5280,7 +5748,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123396,
       "name": "Warm Dunes",
       "url": "https://open.spotify.com/track/0mTARRUTywWGTIFYBZNFYV"
@@ -5316,7 +5784,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 144000,
       "name": "Waves of Stillness",
       "url": "https://open.spotify.com/track/7aZp2rED6cfJak87N4QAsM"
@@ -5338,6 +5806,24 @@
       "duration_ms": 163291,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7"
+    },
+    {
+      "album": {
+        "name": "Weightless Light",
+        "url": "https://open.spotify.com/album/01UbUydjguo8BrOw0cDGuj"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Weightless Light",
+      "url": "https://open.spotify.com/track/1QNt0WNMyTThXRbUWaYrH2"
     },
     {
       "album": {
@@ -5446,6 +5932,24 @@
       "duration_ms": 138152,
       "name": "Without U",
       "url": "https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/1w7zYKrTk3VGhLv9f2DO8k"
+      },
+      "artists": [
+        {
+          "name": "Dream Agent",
+          "url": "https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132726,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/3n6R0ewtk4gbbg0OYTgovl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWb1L5n1gkOJ"

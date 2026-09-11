@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Sammi Heaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,693 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,829 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Dove or the Devil](https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Enchanted Sea](https://open.spotify.com/album/7vvNyJtGEh4GStEjvZYXXf) | 3:36 |
 | 75 | [No One Else’s Pen](https://open.spotify.com/track/2C3x6mHNcxhwhDa0LzxmYY) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [No One Else's Pen](https://open.spotify.com/album/1rdf5vEXtAnKz3l9gCoaS3) | 3:05 |
 
-Snapshot ID: `AAAAADfCT6AqrzRCLC2BmFytmPoP8KMT`
+Snapshot ID: `AAAAAPS03xrtF3NLM/62y0DKBeLn4p+v`

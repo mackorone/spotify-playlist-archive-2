@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 88 songs - 5 hr 30 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 91 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,8 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 86 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 |
 | 87 | [L'astronave](https://open.spotify.com/track/3cgNF8Pa9VU6MYpPsiWcvf) | [Andrea](https://open.spotify.com/artist/61cpjR2zsMHAIxsIUZ72a2) | [L'astronave](https://open.spotify.com/album/6PTSGjpGigMVTxaZRW5PJ9) | 2:49 |
 | 88 | [This World](https://open.spotify.com/track/3jotFtJLdprcErSYOsDCbO) | [YAGA](https://open.spotify.com/artist/0WbfaOeQ4zullSOwUnVsac) | [This World](https://open.spotify.com/album/3lAJIdOrpMBJJc9VLNfrMP) | 4:13 |
+| 89 | [No Man's Land](https://open.spotify.com/track/17XkGGWCxIP7xgY1IjeveF) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [No Man's Land](https://open.spotify.com/album/3jTvRpe6hQw7bE4l8YTwDj) | 2:51 |
+| 90 | [Spin and Spin](https://open.spotify.com/track/0ykwRt8OyYIzTrrswtqVWU) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Spin and Spin](https://open.spotify.com/album/5TrKsIVlvlhkgKSse77SGn) | 2:47 |
+| 91 | [Kicking Waves](https://open.spotify.com/track/0jEcfbvb0HL0uRkpPZGshr) | [The Florida Shipwreckers](https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4) | [Untie Mai Tai](https://open.spotify.com/album/1WkiqEf0OWw4CGuzwk8Wi5) | 3:45 |
 
-Snapshot ID: `AAAPBS97BqxTgH3Syt7WWIVqR0DmfQ7C`
+Snapshot ID: `AAAPCFRM5PT7hLcOxO5AFWxiL7ZYQ3cZ`

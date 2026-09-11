@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Angela Torres
 
-538 songs - 1 day 2 hr 31 min
+539 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BOTONES](https://open.spotify.com/track/2TNDvOI9WY8zPfmywjMZIL) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [BOTONES](https://open.spotify.com/album/75Bf6XmrUL1jQcANDoD7Vs) | 2:45 | 2026-04-10 | 2026-08-28 |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-11-10 | 2024-09-07 |
 | [Buen Provecho](https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Modales](https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS) | 2:16 | 2024-07-12 | 2024-10-12 |
+| [Buenos Aires](https://open.spotify.com/track/2sG3PzIWMkmYznLNVPeqVU) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Buenos Aires](https://open.spotify.com/album/1ov3H443ytDLgQyjBL13j4) | 2:56 | 2026-09-11 |  |
 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 | 2024-05-10 | 2024-08-24 |
 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-02-21 |  |
 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 | 2024-04-27 |
@@ -401,7 +402,7 @@
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-11-24 | 2026-03-21 |
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-09 | 2024-03-30 |
 | [Poco A Poquito](https://open.spotify.com/track/0BAiCTaUyOvb0qKJCYYVap) | [Morena](https://open.spotify.com/artist/5aLdbUjX00uHsIQrciD85d) | [Poco A Poquito](https://open.spotify.com/album/0r1mCoj2bDgqIsorLgCaOe) | 2:47 | 2024-06-14 | 2024-08-17 |
-| [POLVO QUE REPITO SIEMPRE](https://open.spotify.com/track/5V0xGw2oOKThIcVMqjneoi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [AleAlejandro](https://open.spotify.com/artist/0QpLpYbLTJRJalFrRgxeuw), [LIPPO](https://open.spotify.com/artist/05WAlySKy8nMehwa5t9Bb1) | [POLVO QUE REPITO SIEMPRE](https://open.spotify.com/album/0T3doz36WGG83v2mWs312D) | 2:06 | 2026-07-31 |  |
+| [POLVO QUE REPITO SIEMPRE](https://open.spotify.com/track/5V0xGw2oOKThIcVMqjneoi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [AleAlejandro](https://open.spotify.com/artist/0QpLpYbLTJRJalFrRgxeuw), [LIPPO](https://open.spotify.com/artist/05WAlySKy8nMehwa5t9Bb1) | [POLVO QUE REPITO SIEMPRE](https://open.spotify.com/album/0T3doz36WGG83v2mWs312D) | 2:06 | 2026-07-31 | 2026-09-11 |
 | [Por Ese Hombre](https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Por Ese Hombre](https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI) | 4:19 | 2025-01-17 |  |
 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 | 2024-05-31 | 2024-10-19 |
 | [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 | 2024-04-05 | 2024-09-14 |

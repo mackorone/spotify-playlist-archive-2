@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4kAtI8nOnT0KL/SqRZA3kto8WV",
+  "snapshot_id": "AAAAAOtiuMYfy0BPvp/gr/8NwVfePuDN",
   "tracks": [
     {
       "added_at": "2026-09-04 04:00:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 260695,
+      "name": "40 Nights",
+      "url": "https://open.spotify.com/track/2CTwK5KZryhCTxLwv0TAJg"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -163,26 +183,6 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "The Documentary III",
-        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 260695,
-      "name": "40 Nights",
-      "url": "https://open.spotify.com/track/2CTwK5KZryhCTxLwv0TAJg"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
         "name": "Eight Legs of Thunder",
         "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
       },
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "If It Makes You Happy",
-        "url": "https://open.spotify.com/album/6407VIS3LMmnoEKrMjs7E1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 255517,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/6Aso6pa4PPbt3ec409TFRh"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
         "name": "Anghellic: The Resurrection (25th Anniversary) [Remastered 2026]",
         "url": "https://open.spotify.com/album/6Fp8uObTk5y0JyJ9rE4qei"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 237506,
       "name": "Einstein - 25th Anniversary (Remastered 2026)",
       "url": "https://open.spotify.com/track/4N86fkLena3xnQqSo2Zlm5"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
+        "name": "If It Makes You Happy",
+        "url": "https://open.spotify.com/album/6407VIS3LMmnoEKrMjs7E1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 255517,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/6Aso6pa4PPbt3ec409TFRh"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -275,34 +275,22 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/0hlmZj3K8Ruim6lmXMtQ9q"
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        },
-        {
-          "name": "The Apostle Voices",
-          "url": "https://open.spotify.com/artist/2lBkdMa6KzDyQFMbMG4hbU"
-        },
-        {
-          "name": "The Brent Fischer Orchestra",
-          "url": "https://open.spotify.com/artist/6Ee8FU4OF3VhlelcBUBt0F"
-        },
-        {
-          "name": "The Fellowship Collective",
-          "url": "https://open.spotify.com/artist/7EiEomkw1fNIug0T38rcbe"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         }
       ],
-      "duration_ms": 260230,
-      "name": "Something Happens",
-      "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -323,22 +311,18 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+        "name": "T\u00e4fte\u00e5 Ik",
+        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
+      "duration_ms": 153461,
+      "name": "T\u00e4fte\u00e5 Ik",
+      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -363,22 +347,6 @@
       "duration_ms": 158518,
       "name": "You Won't Knock Me Down",
       "url": "https://open.spotify.com/track/4oZsYysd3GfzJYFU29P6jz"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
-        "name": "T\u00e4fte\u00e5 Ik",
-        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
-      },
-      "artists": [
-        {
-          "name": "Tommy J",
-          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "T\u00e4fte\u00e5 Ik",
-      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -431,6 +399,58 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/0hlmZj3K8Ruim6lmXMtQ9q"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "The Apostle Voices",
+          "url": "https://open.spotify.com/artist/2lBkdMa6KzDyQFMbMG4hbU"
+        },
+        {
+          "name": "The Brent Fischer Orchestra",
+          "url": "https://open.spotify.com/artist/6Ee8FU4OF3VhlelcBUBt0F"
+        },
+        {
+          "name": "The Fellowship Collective",
+          "url": "https://open.spotify.com/artist/7EiEomkw1fNIug0T38rcbe"
+        }
+      ],
+      "duration_ms": 260230,
+      "name": "Something Happens",
+      "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7eWXspfV18aZfvVRHRA1XN"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Tightrope (with Wax)",
+      "url": "https://open.spotify.com/track/18GgkLkahh1NquRxdnt0St"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
         "name": "Leap Life",
         "url": "https://open.spotify.com/album/0P0KIq1skyp9fTuNXSZAoO"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 149875,
       "name": "Vengeful Spirit",
       "url": "https://open.spotify.com/track/6vDO41uhLLIUivO0i7e47Q"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/7eWXspfV18aZfvVRHRA1XN"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Tightrope (with Wax)",
-      "url": "https://open.spotify.com/track/18GgkLkahh1NquRxdnt0St"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
+        "name": "Not Free Money",
+        "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Oxygen 2.0",
+      "url": "https://open.spotify.com/track/2mhyUXj8rMxM84HfQ8pONN"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
         "name": "Beethoven for Three: Symphony No. 3 \"Eroica\" and Leonore Overture No. 3",
         "url": "https://open.spotify.com/album/3Hw8f8DBaeohURaMuWo2Bb"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 812000,
       "name": "Leonore Overture No. 3 in C Major, Op. 72b",
       "url": "https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
-        "name": "Not Free Money",
-        "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Oxygen 2.0",
-      "url": "https://open.spotify.com/track/2mhyUXj8rMxM84HfQ8pONN"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

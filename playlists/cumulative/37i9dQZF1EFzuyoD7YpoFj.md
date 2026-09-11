@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-817 songs - 1 day 19 hr 58 min
+818 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,8 +341,9 @@
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2024-07-24 |  |
 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 | 2024-07-24 |  |
 | [Ich bin bald wieder hier](https://open.spotify.com/track/48ZaWlT912aoCxw1rPACPh) | [Freddy Quinn](https://open.spotify.com/artist/18mGtkaRoIjbOaGT1rykKP) | [Cigarettes And Whisky](https://open.spotify.com/album/1elI2IfvGYXwQ8Ew5lyM05) | 2:40 | 2026-08-07 |  |
+| [If I Love Truly](https://open.spotify.com/track/0fxcnX0y5DAoMFgg6tbMxw) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/1J1m6PJbtbA8xa4U8OD5KC) | 2:27 | 2026-09-10 |  |
 | [If I Love Truly](https://open.spotify.com/track/5Mb2It5DIYn31rudSJPPWj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:27 | 2024-07-24 | 2025-04-15 |
-| [If I Love Truly](https://open.spotify.com/track/7a34QzYpcfRk1YQfYXPSXp) | [Cole Porter](https://open.spotify.com/artist/6iVAZjyKHAwePt44QliZuA) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:27 | 2025-04-14 |  |
+| [If I Love Truly](https://open.spotify.com/track/7a34QzYpcfRk1YQfYXPSXp) | [Cole Porter](https://open.spotify.com/artist/6iVAZjyKHAwePt44QliZuA) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:27 | 2025-04-14 | 2026-09-11 |
 | [IF I LOVED YOU TRULY](https://open.spotify.com/track/67EtAPxT1gtSdfdmIxBz0M) | [The Starlite Orchestra & Singers](https://open.spotify.com/artist/2cAOIxdet17VPqKd8PODGs) | [THE MUSICAL \- CAN\-CAN](https://open.spotify.com/album/4U62OD0a6q36Yw0q6aHnOs) | 2:20 | 2026-02-18 | 2026-08-08 |
 | [If You Could Love Me](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 | 2024-07-24 |  |
 | [If You Loved Me Truly](https://open.spotify.com/track/6TjPgVif9v7BGm6ILd0Clj) | [The London Theatre Orchestra](https://open.spotify.com/artist/2CMP2czDER8nvmcGhKeHPC) | [The Great Songwriters](https://open.spotify.com/album/2po2VXnacD5fCrFk5kXMhJ) | 2:24 | 2025-10-10 | 2026-02-19 |

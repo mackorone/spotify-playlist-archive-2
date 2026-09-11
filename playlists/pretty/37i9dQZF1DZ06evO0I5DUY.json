@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 243950,
+  "num_followers": 243977,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADsEKsIyJexs9Z8mjp/oFVb",
+  "snapshot_id": "aqChgAAAAAB9tMOCooVaWGBJkWpTUfNT",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rog\u00f3n",
-        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 167093,
-      "name": "El Rog\u00f3n",
-      "url": "https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV"
+      "duration_ms": 201880,
+      "name": "El Regio Traficante",
+      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 201880,
-      "name": "El Regio Traficante",
-      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
+      "duration_ms": 167093,
+      "name": "El Rog\u00f3n",
+      "url": "https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV"
     },
     {
       "added_at": null,

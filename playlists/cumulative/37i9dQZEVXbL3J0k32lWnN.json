@@ -22239,6 +22239,24 @@
     },
     {
       "album": {
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
+    },
+    {
+      "album": {
         "name": "Hvor Du Er (feat. URO & Albert Heath)",
         "url": "https://open.spotify.com/album/0aV8pw9j8zgF8AgX3KcuMQ"
       },
@@ -22726,7 +22744,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 214976,
       "name": "H\u00f8rt Det F\u00f8r (feat. Pil, Annika, Mille & Medina)",
       "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
@@ -25440,7 +25458,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
@@ -33690,7 +33708,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 163430,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/5l0J0cKWIo0lBSGqXvyucp"
@@ -47240,7 +47258,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 203500,
       "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
       "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
@@ -47578,7 +47596,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 266040,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,016 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,082 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 27 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 28 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
 | 29 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 30 | [Ay! Papacito](https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Soy Así](https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3) | 3:47 |
-| 31 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:46 |
+| 30 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:46 |
+| 31 | [Ay! Papacito](https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Soy Así](https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3) | 3:47 |
 | 32 | [Confieso](https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD) | 2:58 |
 | 33 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 |
 | 34 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 46 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 47 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
 | 48 | [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 |
-| 49 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
-| 50 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
+| 49 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
+| 50 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
 | 51 | [La Burbuja](https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [La Burbuja](https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y) | 3:18 |
 | 52 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 |
 | 53 | [Muévelo](https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq) | [Cruz Martinez presenta Los Super Reyes](https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId) | [El regreso de los reyes](https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q) | 3:54 |
@@ -98,20 +98,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 88 | [Boom Boom](https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 4:16 |
 | 89 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
 | 90 | [La Vieja Banca](https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:38 |
-| 91 | [Soñador](https://open.spotify.com/track/5RzWVF7MJ0qQE0de4nMdjg) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Aqui Esta](https://open.spotify.com/album/6jfyXseqlu9UypEkn7M4RM) | 4:13 |
-| 92 | [Vuelve A Encender Mi Fuego](https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Rigo Tovar '81](https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd) | 3:38 |
+| 91 | [Vuelve A Encender Mi Fuego](https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Rigo Tovar '81](https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd) | 3:38 |
+| 92 | [Soñador](https://open.spotify.com/track/5RzWVF7MJ0qQE0de4nMdjg) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Aqui Esta](https://open.spotify.com/album/6jfyXseqlu9UypEkn7M4RM) | 4:13 |
 | 93 | [Cómo le hago](https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Mil Historias](https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65) | 3:36 |
 | 94 | [Arrastrando La Cobija](https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 3:06 |
 | 95 | [En Eso No Quedamos](https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:57 |
-| 96 | [Cumbia Lunera](https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:21 |
-| 97 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 |
+| 96 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 |
+| 97 | [Cumbia Lunera](https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:21 |
 | 98 | [Ven a Buscarme](https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:20 |
-| 99 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
-| 100 | [Fotografía](https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 4:29 |
+| 99 | [Fotografía](https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 4:29 |
+| 100 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
 | 101 | [Coqueteando](https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc) | [Los Reyes Locos](https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG) | [15 Grandes Exitos](https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y) | 2:48 |
-| 102 | [El Músico Chiflado](https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [El Músico Chiflado](https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v) | 3:13 |
-| 103 | [Mi Chica Fea](https://open.spotify.com/track/6CgrdLEEXwjHDaDIdHKfiQ) | [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630) | [Un Poco De Tiempo](https://open.spotify.com/album/3FXtE0YmR088BH0XsjCDiH) | 2:54 |
-| 104 | [Tres Vueltas](https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Llegando a ti](https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi) | 2:44 |
+| 102 | [Tres Vueltas](https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Llegando a ti](https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi) | 2:44 |
+| 103 | [El Músico Chiflado](https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [El Músico Chiflado](https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v) | 3:13 |
+| 104 | [Mi Chica Fea](https://open.spotify.com/track/6CgrdLEEXwjHDaDIdHKfiQ) | [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630) | [Un Poco De Tiempo](https://open.spotify.com/album/3FXtE0YmR088BH0XsjCDiH) | 2:54 |
 | 105 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 106 | [La Flaca](https://open.spotify.com/track/0NyzwUrGvbJAXN4772B0de) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Sopa De Frijoles](https://open.spotify.com/album/0qH3KbWwf3LZHcBLr3xvo9) | 3:37 |
 | 107 | [Tres Minutos](https://open.spotify.com/track/3LQHGMg3gqsj8lmTB0BfTY) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Con Sentimiento](https://open.spotify.com/album/38FYK480qNEhsL3hY71Qqu) | 4:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 124 | [Mi Tesoro](https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [La Trayectoria 30 Exitos](https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH) | 3:01 |
 | 125 | [Te Aprovechas](https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [20 Kilates 20 Éxitos](https://open.spotify.com/album/3slelG6vLz4PIyjlO4Q8su) | 3:06 |
 
-Snapshot ID: `AAAAABu2mKDwLA4FqBBJoIecoox3OqzD`
+Snapshot ID: `AAAAALbNTJs92QlvSNDLGQpd/YnSgEh2`

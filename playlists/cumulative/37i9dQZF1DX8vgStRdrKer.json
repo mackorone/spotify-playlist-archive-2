@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 130190,
       "name": "Garden",
       "url": "https://open.spotify.com/track/26fP6qORAEPTbeKxLKGORh"
@@ -9630,7 +9630,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 244986,
       "name": "Maberumo (This Is Morning)",
       "url": "https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa"
@@ -10944,7 +10944,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 370466,
       "name": "Na Only Me Know",
       "url": "https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH"
@@ -14271,6 +14271,24 @@
     },
     {
       "album": {
+        "name": "Sweet Holy Spirit",
+        "url": "https://open.spotify.com/album/2p2nLWqUzXUqEGvKXtzGzT"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sweet Holy Spirit",
+      "url": "https://open.spotify.com/track/3GdqNzCnedBmGDRX5IIqMz"
+    },
+    {
+      "album": {
         "name": "Sweet Holyspirit",
         "url": "https://open.spotify.com/album/5MmBtXneHAryzZDlmuz4Lc"
       },
@@ -14380,7 +14398,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 319164,
       "name": "Tasted",
       "url": "https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M"
@@ -17062,7 +17080,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 323750,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/0nlo6pL1ZqwDmQ9rXctMl9"

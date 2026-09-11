@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: young friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,242 likes - 151 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,237 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 150 | [winner](https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [winner](https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q) | 2:48 |
 | 151 | [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 |
 
-Snapshot ID: `AAAAAB/HMlhZ90x6Bu1OC855JYmSlm1l`
+Snapshot ID: `AAAAAI3GIcIegT8n0peVfGF2+jTuFdcA`

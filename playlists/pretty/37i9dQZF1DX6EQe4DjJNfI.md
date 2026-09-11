@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,674 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,689 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 43 | [Ouvir Você \(Remix\)](https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Ouvir Você \(Remix\)](https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0) | 4:33 |
 | 44 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
 | 45 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
-| 46 | [SEM AR](https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [SEM AR//CAOS](https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl) | 2:40 |
-| 47 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
+| 46 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
+| 47 | [SEM AR](https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [SEM AR//CAOS](https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl) | 2:40 |
 | 48 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 49 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
 | 50 | [Anjo](https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 75 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 
-Snapshot ID: `AAAAAF96xLsPGJKqXs3H/FSHfAN2YawK`
+Snapshot ID: `AAAAAC3sqL6szIzQlPxxIEIVytn+E0PP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: CHARLOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,840 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,829 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 |
 | 100 | [WISH YOU WOULD](https://open.spotify.com/track/7KxIlGSa3o4n41CdeCSfpI) | [stardog](https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp) | [WISH YOU WOULD](https://open.spotify.com/album/2N05pWpGzHqcTztWV8YbTb) | 3:28 |
 
-Snapshot ID: `AAAAAKvRU0yy/8nJgMbWYMGbIBw/QVDN`
+Snapshot ID: `AAAAAOBiEEoDhzrSoGaS9MVnzhixkzxk`

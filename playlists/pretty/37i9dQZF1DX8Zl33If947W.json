@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 211116,
+  "num_followers": 211160,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Herzensmensch",
         "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
       },
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Gr\u00f6\u00dfer als Liebe",
         "url": "https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 168306,
       "name": "Kleiner Finger Schwur",
       "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Herz",
-        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Liebe ist alles",
-      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Juli",
         "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -947,18 +947,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "KIOX",
-        "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
+        "name": "2012",
+        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
       "artists": [
         {
-          "name": "KUMMER",
-          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 222642,
-      "name": "Bei Dir",
-      "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+      "duration_ms": 170200,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -983,22 +987,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 170200,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     }
   ],
   "unique_name": "Liebeslieder",

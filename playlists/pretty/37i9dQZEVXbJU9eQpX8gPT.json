@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 99843,
+  "num_followers": 99887,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjTQUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MjYh0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "PILLAVE",
         "url": "https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "WA3RA",
         "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
@@ -57,27 +57,7 @@
       "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "SATA 9TTALA",
-      "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "FALLEN ANGEL",
         "url": "https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4"
@@ -97,7 +77,27 @@
       "url": "https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "SATA 9TTALA",
+      "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3zosYc9OVj4kZWrbdarnTL"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/09CMjY5ObC4G9NNyGH7Upc"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "AGOGO",
-        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 187969,
-      "name": "AGOGO",
-      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/088zj85nwV8AC7sDpPDhu9"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "AGOGO",
+        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 187969,
+      "name": "AGOGO",
+      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/6KNxyHgZmJ1NYgjlde7RqL"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -197,23 +197,7 @@
       "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
-      },
-      "artists": [
-        {
-          "name": "LAZARO",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "AFLAM",
         "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
@@ -233,83 +217,7 @@
       "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "BL\u00c9DARD",
-        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "AKHI",
-      "url": "https://open.spotify.com/track/6Ylgcr82E1I8Ypn6yMfN16"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "TAF TAF",
-        "url": "https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE"
-      },
-      "artists": [
-        {
-          "name": "OldyGotTheSound",
-          "url": "https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn"
-        },
-        {
-          "name": "Anys",
-          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
-        },
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "TAF TAF",
-      "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "Bali maak",
-        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
-      },
-      "artists": [
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Bali maak",
-      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 133664,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/3JlKA8Dkov8BLFngYBmTPH"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "NGHAMER",
         "url": "https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX"
@@ -333,63 +241,99 @@
       "url": "https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "Zone De Confort",
-        "url": "https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us"
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
       },
       "artists": [
         {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
         }
       ],
-      "duration_ms": 184512,
-      "name": "Zone De Confort",
-      "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
+      "duration_ms": 178800,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "Si tu savais",
-        "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
       },
       "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "AKHI",
+      "url": "https://open.spotify.com/track/6Ylgcr82E1I8Ypn6yMfN16"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "TAF TAF",
+        "url": "https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE"
+      },
+      "artists": [
+        {
+          "name": "OldyGotTheSound",
+          "url": "https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn"
+        },
         {
           "name": "Anys",
           "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "TAF TAF",
+      "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "Bali maak",
+        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
+      },
+      "artists": [
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
         },
         {
           "name": "Stormy",
           "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 192340,
-      "name": "Si tu savais",
-      "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
+      "duration_ms": 159310,
+      "name": "Bali maak",
+      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "AFLAM",
-        "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
       },
       "artists": [
         {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        },
-        {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 191326,
-      "name": "LALLAMOULATI",
-      "url": "https://open.spotify.com/track/45aERKkz1oyfAVGN9YBXuh"
+      "duration_ms": 133664,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/3JlKA8Dkov8BLFngYBmTPH"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -405,175 +349,7 @@
       "url": "https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "SALGOAT (Vol. 2)",
-        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "SAMEDI (feat. Shaw)",
-      "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "KATANA",
-        "url": "https://open.spotify.com/album/0TjRQnHWYyfsxfuvonGklu"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 157985,
-      "name": "KATANA",
-      "url": "https://open.spotify.com/track/7bSkLKBf3pLkZrRG9FMSoQ"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "CANDYSHOP",
-      "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "TITIZ A KHAY",
-        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
-      },
-      "artists": [
-        {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
-        },
-        {
-          "name": "LAZARO",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "TITIZ A KHAY",
-      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "MANZAKINE x FID\u00c8LE",
-        "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        },
-        {
-          "name": "Hajib",
-          "url": "https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W"
-        }
-      ],
-      "duration_ms": 177498,
-      "name": "Manzakine",
-      "url": "https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "RIRI&ROCKY",
-        "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 163995,
-      "name": "RIRI&ROCKY",
-      "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "BL\u00c9DARD (Deluxe)",
-        "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 152951,
-      "name": "WALLAHI",
-      "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "BL\u00c9DARD",
-        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "DAZOU LYAM",
-      "url": "https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 179782,
-      "name": "WARDA",
-      "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -593,23 +369,123 @@
       "url": "https://open.spotify.com/track/2GhQn93HtnDhHnQOkH2rhG"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "Tach",
-        "url": "https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl"
+        "name": "Zone De Confort",
+        "url": "https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
         }
       ],
-      "duration_ms": 205013,
-      "name": "Tach",
-      "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
+      "duration_ms": 184512,
+      "name": "Zone De Confort",
+      "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "KATANA",
+        "url": "https://open.spotify.com/album/0TjRQnHWYyfsxfuvonGklu"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 157985,
+      "name": "KATANA",
+      "url": "https://open.spotify.com/track/7bSkLKBf3pLkZrRG9FMSoQ"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 196510,
+      "name": "SAMEDI (feat. Shaw)",
+      "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 179782,
+      "name": "WARDA",
+      "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "RIRI&ROCKY",
+        "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 163995,
+      "name": "RIRI&ROCKY",
+      "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
+      },
+      "artists": [
+        {
+          "name": "Anys",
+          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
@@ -625,39 +501,63 @@
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "L'undertaker, Pt.1",
-        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+        "name": "AFLAM",
+        "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
         }
       ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
+      "duration_ms": 191326,
+      "name": "LALLAMOULATI",
+      "url": "https://open.spotify.com/track/45aERKkz1oyfAVGN9YBXuh"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+        "name": "BL\u00c9DARD (Deluxe)",
+        "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
         }
       ],
-      "duration_ms": 187826,
-      "name": "BLUE LOVE",
-      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+      "duration_ms": 152951,
+      "name": "WALLAHI",
+      "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "MANZAKINE x FID\u00c8LE",
+        "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Hajib",
+          "url": "https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W"
+        }
+      ],
+      "duration_ms": 177498,
+      "name": "Manzakine",
+      "url": "https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "Dorororo",
         "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
@@ -673,7 +573,107 @@
       "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "CANDYSHOP",
+      "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "DAZOU LYAM",
+      "url": "https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "KALIMAT",
+        "url": "https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 192415,
+      "name": "KALIMAT",
+      "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "FOTO",
         "url": "https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me"
@@ -697,63 +697,79 @@
       "url": "https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "101",
-        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
+        "name": "DEMMI MARROKI",
+        "url": "https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp"
       },
       "artists": [
         {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+          "name": "Bayadis",
+          "url": "https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU"
         },
         {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 194510,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "Mizane",
-        "url": "https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
         },
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Mizane",
-      "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
+      "duration_ms": 211200,
+      "name": "DEMMI MARROKI",
+      "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "KALIMAT",
-        "url": "https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br"
+        "name": "Tsswirtek",
+        "url": "https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO"
       },
       "artists": [
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
-      "duration_ms": 192415,
-      "name": "KALIMAT",
-      "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
+      "duration_ms": 147761,
+      "name": "Tsswirtek",
+      "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "Tach",
+        "url": "https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "Tach",
+      "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "Ghammadt Einy",
+        "url": "https://open.spotify.com/album/1K7OvOjEAYfg0zoWXXImVO"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 250320,
+      "name": "Kelma",
+      "url": "https://open.spotify.com/track/7pJ1Dgg2PS2LChBgGFJv7Z"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "SALGOAT (Vol. 2 - Extension)",
         "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
@@ -773,23 +789,27 @@
       "url": "https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
+        "name": "101",
+        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
         }
       ],
-      "duration_ms": 183043,
-      "name": "DFN",
-      "url": "https://open.spotify.com/track/2wS7w717hzJ31zgPtCVwXm"
+      "duration_ms": 194510,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "SALGOAT (Vol. 1)",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -805,55 +825,79 @@
       "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+      "duration_ms": 205000,
+      "name": "RBI M3ANA",
+      "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "Tsswirtek",
-        "url": "https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO"
+        "name": "Taulier",
+        "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 147761,
-      "name": "Tsswirtek",
-      "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
+      "duration_ms": 192440,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
       "album": {
-        "name": "Ghammadt Einy",
-        "url": "https://open.spotify.com/album/1K7OvOjEAYfg0zoWXXImVO"
+        "name": "Mizane",
+        "url": "https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc"
       },
       "artists": [
         {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 250320,
-      "name": "Kelma",
-      "url": "https://open.spotify.com/track/7pJ1Dgg2PS2LChBgGFJv7Z"
+      "duration_ms": 177049,
+      "name": "Mizane",
+      "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
     },
     {
-      "added_at": "2026-09-09 16:02:26",
+      "added_at": "2026-09-10 13:12:35",
+      "album": {
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 214364,
+      "name": "Mghayer",
+      "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
+    },
+    {
+      "added_at": "2026-09-10 13:12:35",
       "album": {
         "name": "Maladie",
         "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
@@ -867,38 +911,6 @@
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "Africain",
-        "url": "https://open.spotify.com/album/4xZDUgshDoJP0Zprw4HuSW"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Africain",
-      "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
-    },
-    {
-      "added_at": "2026-09-09 16:02:26",
-      "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "La Fin",
-      "url": "https://open.spotify.com/track/69DMEO4aEvJA0nnT9FNuLV"
     }
   ],
   "unique_name": "Top 50 - Morocco",

@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Binhi",
       "url": "https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 270233,
       "name": "Bulong",
       "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 209480,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 188976,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu"
@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -10307,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "kung tayo\u2019y nasa isang horror na pelikula, tiyak ako ang una mong papatayin",
+        "url": "https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Kalapastangan",
+      "url": "https://open.spotify.com/track/1jrTQNEEO8IUy0lu5PSUIt"
+    },
+    {
+      "album": {
         "name": "Kalapastangan",
         "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
       },
@@ -10318,7 +10336,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 276000,
       "name": "Kalapastangan",
       "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
@@ -13802,7 +13820,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 284165,
       "name": "MYSB (Miss You so Bad)",
       "url": "https://open.spotify.com/track/6LIKnHYUP1ItLpKFhFL8R8"
@@ -13874,7 +13892,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 247071,
       "name": "Naiilang",
       "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
@@ -14000,7 +14018,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 367889,
       "name": "Nang Iwan",
       "url": "https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb"
@@ -15117,6 +15135,24 @@
     },
     {
       "album": {
+        "name": "kung tayo\u2019y nasa isang horror na pelikula, tiyak ako ang una mong papatayin",
+        "url": "https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207314,
+      "name": "Pag-Ibig ay Kanibalismo II",
+      "url": "https://open.spotify.com/track/1I44TjvgnOjZTxaGs0E44W"
+    },
+    {
+      "album": {
         "name": "Pag-Ibig ay Kanibalismo II",
         "url": "https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI"
       },
@@ -15128,7 +15164,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207314,
       "name": "Pag-Ibig ay Kanibalismo II",
       "url": "https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24"
@@ -16822,7 +16858,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 250058,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
@@ -17147,6 +17183,24 @@
     },
     {
       "album": {
+        "name": "My Girl (Original Teleserye Soundtrack)",
+        "url": "https://open.spotify.com/album/7wjBifizFplhnGmumNeDxI"
+      },
+      "artists": [
+        {
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271598,
+      "name": "Sabihin Mo Na",
+      "url": "https://open.spotify.com/track/6ioRNk83ModnO5UFUPWUSi"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
       },
@@ -17266,7 +17320,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 259058,
       "name": "Saksi Ang Langit",
       "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
@@ -18026,7 +18080,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -20860,7 +20914,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
@@ -20878,7 +20932,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
@@ -21238,6 +21292,24 @@
     {
       "album": {
         "name": "Totoong tayo",
+        "url": "https://open.spotify.com/album/0BTA3HYXehi1FyVHPbVAVH"
+      },
+      "artists": [
+        {
+          "name": "Jin DC",
+          "url": "https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227762,
+      "name": "Totoong tayo",
+      "url": "https://open.spotify.com/track/1yMNVkAb74RJSpGrdJj1sU"
+    },
+    {
+      "album": {
+        "name": "Totoong tayo",
         "url": "https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR"
       },
       "artists": [
@@ -21248,7 +21320,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 227764,
       "name": "Totoong tayo",
       "url": "https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS"
@@ -21518,7 +21590,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 335624,
       "name": "Umaasa",
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
@@ -22802,7 +22874,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"

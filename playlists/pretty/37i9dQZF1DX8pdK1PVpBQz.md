@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: takytheartist
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,240 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,233 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [State Line](https://open.spotify.com/track/5Nmcqs6F2oItBsCnrbZ8Mb) | [Grace de Vos](https://open.spotify.com/artist/79pwEjVrNvLSElOBlFYXaz) | [State Line](https://open.spotify.com/album/5eRmlfV4OwZong7QS2YY2a) | 3:35 |
 | 100 | [It's All In My Head](https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU) | [Noah Hill](https://open.spotify.com/artist/5InLQMvQHRNks5rVkl56M8) | [It's All In My Head](https://open.spotify.com/album/5YxfEVBhAcrNVkPdpxrASb) | 3:39 |
 
-Snapshot ID: `AAAAABqZBbv0f/hEWBP5CdclQ5FIqeil`
+Snapshot ID: `AAAAAIGjQOJrATAzuuG4wEA4Z9LtjSxA`

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178487,
+  "num_followers": 178485,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAB21sh5aCGf63ta+sDoJJLF",
+  "snapshot_id": "aqChgAAAAADgyDo1etzb5PYmD9naFKT0",
   "tracks": [
     {
       "added_at": null,
@@ -167,18 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": null,
@@ -199,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 223994,
-      "name": "Some Kind of Disaster",
-      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 194959,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 223994,
+      "name": "Some Kind of Disaster",
+      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Dark Side of Your Room",
+      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 193948,
       "name": "Favorite Place (feat. The Band CAMINO)",
       "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Dark Side of Your Room",
-      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 224946,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199405,
-      "name": "If These Sheets Were States",
-      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 214093,
       "name": "Last Young Renegade",
       "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199491,
-      "name": "The Reckless And The Brave",
-      "url": "https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 217680,
       "name": "Drugs & Candy",
       "url": "https://open.spotify.com/track/1isQMKYmpvJ4tOP8R2qkWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199491,
+      "name": "The Reckless And The Brave",
+      "url": "https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6"
     }
   ],
   "unique_name": "This Is All Time Low",

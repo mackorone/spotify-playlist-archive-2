@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-266 songs - 1 day 5 hr 11 min
+267 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 | 2025-08-08 |
 | [Heal Our Land](https://open.spotify.com/track/4gLEl1YAPSvbZuiWPCIpep) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3), [Neri Chawane](https://open.spotify.com/artist/1dESwwsMir0Ouz3J1zIdGo) | [Moya Movement](https://open.spotify.com/album/1k7Juh1VvEk0tkqMjEQWTb) | 3:59 | 2025-08-01 | 2025-08-06 |
 | [HOLD ON](https://open.spotify.com/track/1THM0TKba1CraCZVHCvpvF) | [DENGA.](https://open.spotify.com/artist/4u0pYkWzdp9ez45JF51x00), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [HOLD ON](https://open.spotify.com/album/4ea005A4r8WqKflyDr5liE) | 4:30 | 2024-10-25 | 2024-11-15 |
+| [Holy Ground \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 | 2026-09-11 |  |
 | [I Beat \- Live](https://open.spotify.com/track/4clVVI4aSX59wlc3JfRTkh) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:10 | 2024-10-11 | 2025-12-19 |
 | [Icebo Lakhe](https://open.spotify.com/track/0tpaaOdbbrB9ifqQo8ce0w) | [Tsholofelo Nonkonyana](https://open.spotify.com/artist/085BjpMJpstVo3ee7uwoNy) | [Icebo Lakhe](https://open.spotify.com/album/27mMuugLcKYLLvQQK9a2q3) | 5:09 | 2025-08-08 | 2025-09-05 |
 | [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 | 2025-04-11 | 2025-06-13 |
@@ -272,7 +273,7 @@
 | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 | 2026-05-15 |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2025-08-01 | 2025-08-06 |
 | [Ziphozenkosi](https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti) | 4:52 | 2024-10-11 | 2026-09-04 |
-| [Zundikhaphe \(Reprise\) \- Live](https://open.spotify.com/track/630wpqEFhX2z0UIHpYX1KN) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 6:30 | 2024-10-04 |  |
+| [Zundikhaphe \(Reprise\) \- Live](https://open.spotify.com/track/630wpqEFhX2z0UIHpYX1KN) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 6:30 | 2024-10-04 | 2026-09-11 |
 | [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:15 | 2024-11-08 | 2025-04-11 |
 
 \*This playlist was first scraped on 2024-10-11. Prior content cannot be recovered.

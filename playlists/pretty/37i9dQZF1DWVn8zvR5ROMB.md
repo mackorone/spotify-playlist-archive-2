@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kane Brown with Shania Twain, Kameron Marlowe, and Waylon Wyatt with Carter Faith.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,865 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,999 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [Hard Habits](https://open.spotify.com/track/6XWdkutw4M3KMseTt3fkBi) | [Davis Corley](https://open.spotify.com/artist/5iiwq0atOoHOY67cS2Za9x) | [Hard Habits](https://open.spotify.com/album/0m3kuexRhRKMvEsFLLfeUc) | 3:38 |
 | 59 | [Drink Drink Drink](https://open.spotify.com/track/0gJDjjCcbJovwyeB3W9qxO) | [Will Moseley](https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX) | [Drink Drink Drink](https://open.spotify.com/album/4Da98Hysz2nXZmjDLDVab9) | 3:01 |
 
-Snapshot ID: `AAAAAK3WYm/3DP9P14fjK/ZbaIaB2/xm`
+Snapshot ID: `AAAAALxfn++K2jpvTDJT7iuTAoo1SZRS`

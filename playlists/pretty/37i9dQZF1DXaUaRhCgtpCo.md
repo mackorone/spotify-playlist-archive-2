@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,916 likes - 89 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,953 likes - 89 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 79 | [Onto Our Next Mission](https://open.spotify.com/track/19uwN9LHwOprmwh5Npnbj2) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars: Zero Company \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3LrCCpV1frzloOAGuw0nL6) | 5:26 |
 | 80 | [The Ninth Jedi Main Theme](https://open.spotify.com/track/4oUWmJ0VAh7GNNp8phxCtY) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions Presents \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/30D74GKJMhxjYPcxWoJ5kW) | 2:42 |
 | 81 | [Victory and Death](https://open.spotify.com/track/0028HjBkFVbYKlpopdaIMo) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 9\-12\) \[Original Soundtrack\]](https://open.spotify.com/album/6LqpJg7gedj71TlxZETgMj) | 1:03 |
-| 82 | [This Is the Slay](https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp), [Roberto Prado](https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c), [Adam Dib](https://open.spotify.com/artist/0ZVeelMvsBkCUI14FgJob6) | [LEGO Star Wars: The Mandalorian \(Original Soundtrack\)](https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq) | 1:14 |
+| 82 | [This Is the Slay](https://open.spotify.com/track/4ipOFWZFtbiMdB3OxpFH7d) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp), [Roberto Prado](https://open.spotify.com/artist/0fUJqJY9HEPgMdCVSYVJ5c), [Adam Dib](https://open.spotify.com/artist/2pi7dysjwiO5uw7gagBrQx) | [LEGO Star Wars: The Mandalorian \(Original Soundtrack\)](https://open.spotify.com/album/4mhUfyF1R7G2WR3oaD4wdq) | 1:14 |
 | 83 | [The Spark](https://open.spotify.com/track/1gaPmqLrbaOAFNnuNGc4sQ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:35 |
 | 84 | [Peace and Purpose](https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:06 |
 | 85 | [Hyperspace](https://open.spotify.com/track/4ERdD8UDCFMoF35uQVh9Mc) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 4:03 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 88 | [Jabba Flow \- From "Star Wars: The Force Awakens"](https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf) | [Shag Kava](https://open.spotify.com/artist/6FaemkK7TGHziDP6UGijh3) | [Jabba Flow \(From "Star Wars: The Force Awakens"\)](https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna) | 1:38 |
 | 89 | [Star Wars Main Title and the Arrival at Naboo](https://open.spotify.com/track/3UqSTlEwO5spY8YL3GfQGv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 2:55 |
 
-Snapshot ID: `AAAAADL4vAdWfSe1jkpcUDBsZonVNigy`
+Snapshot ID: `AAAAAAq81bowcj3sJVsX19qPaV5GxU5v`

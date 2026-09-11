@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
-  "num_followers": 504020,
+  "num_followers": 504011,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaYCbUwSp2bpGF0dn4zLQgf9X+S",
+  "snapshot_id": "AAAAAIfdTSkqj9O1auW47BP1VjmlHR3S",
   "tracks": [
     {
       "added_at": "2026-08-07 09:42:57",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "una noche con hugel",
         "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
-      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 205881,
       "name": "LIAR?",
       "url": "https://open.spotify.com/track/6AOQxwQWLrsG6wBZuRF4K4"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
+      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/40Tfi2xTxSH3zZwc5rhmNO"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 286243,
-      "name": "Read My Lips",
-      "url": "https://open.spotify.com/track/7AVgW1nx2D96joVhDxXIvG"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "Cuentale",
         "url": "https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 159662,
       "name": "Cuentale",
       "url": "https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/40Tfi2xTxSH3zZwc5rhmNO"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 286243,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/7AVgW1nx2D96joVhDxXIvG"
     },
     {
       "added_at": "2026-08-07 09:42:57",

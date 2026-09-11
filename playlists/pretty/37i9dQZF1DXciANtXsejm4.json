@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 351853,
+  "num_followers": 351969,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Diana Rios",
+          "url": "https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi"
+        },
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
         }
       ],
-      "duration_ms": 196414,
-      "name": "Voy a Olvidarme de M\u00ed",
-      "url": "https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh"
+      "duration_ms": 189738,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1372,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     }
   ],
   "unique_name": "Cumbia Santafesina",

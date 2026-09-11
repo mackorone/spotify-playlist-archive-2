@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,119 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,071 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 6 | [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 |
 | 7 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
 | 8 | [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 |
-| 9 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:26 |
+| 9 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:25 |
 | 10 | [Dream Crusher](https://open.spotify.com/track/6WOoArvGAUJlYWR4qg9oos) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dream Crusher](https://open.spotify.com/album/4j46N6lkPvW9secveo1y6u) | 3:55 |
 | 11 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
 | 12 | [My Boy](https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [My Boy](https://open.spotify.com/album/4bLThdUFHWgOgT0mjzp4Bz) | 2:29 |

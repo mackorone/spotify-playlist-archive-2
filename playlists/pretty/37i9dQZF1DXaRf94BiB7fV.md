@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Aeymanntara
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,957 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,980 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Daag.](https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [Arvasu](https://open.spotify.com/artist/3LX5BPt6NlNqtlYKtgELpm) | [Daag.](https://open.spotify.com/album/5xw4ODck9IkU2dyU61c1oh) | 3:46 |
 | 50 | [I'm In Love](https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [I'm In Love](https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i) | 3:19 |
 
-Snapshot ID: `AAAAAMJg8oT4J2dHePD9OFNtHlUBtX6A`
+Snapshot ID: `AAAAANG0Ss8t6RZazkm0VElKWZjnIw2x`

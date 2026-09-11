@@ -1,12 +1,12 @@
 {
   "description": "now all I know is the ending",
-  "num_followers": 149071,
+  "num_followers": 149127,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjsCRWmgb0inJByB5y1TlS2EXsl",
+  "snapshot_id": "AAAAADexjId0Ybx4kcNznRNqLdrhR/zI",
   "tracks": [
     {
       "added_at": "2026-09-04 04:01:35",
@@ -29,22 +29,6 @@
       "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
-      "added_at": "2026-08-28 04:01:49",
-      "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
-    },
-    {
       "added_at": "2026-09-04 04:01:35",
       "album": {
         "name": "True Feeling",
@@ -63,22 +47,6 @@
     {
       "added_at": "2026-08-28 04:01:49",
       "album": {
-        "name": "Angel So Bad",
-        "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
-      },
-      "artists": [
-        {
-          "name": "True Mountain Laurel",
-          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "East of Anything",
-      "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
-    },
-    {
-      "added_at": "2026-08-28 04:01:49",
-      "album": {
         "name": "Leaving The Zoo",
         "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
       },
@@ -91,6 +59,38 @@
       "duration_ms": 323341,
       "name": "Leaving the Zoo",
       "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "added_at": "2026-08-28 04:01:49",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-08-28 04:01:49",
+      "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "East of Anything",
+      "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -107,22 +107,6 @@
       "duration_ms": 186806,
       "name": "Hey Big Dipper",
       "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:50",
-      "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-02 17:36:50",
@@ -159,6 +143,22 @@
       "duration_ms": 201933,
       "name": "I CARE: FAYE WEBSTER VERSION",
       "url": "https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-08-14 04:01:50",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
-      "added_at": "2026-08-12 13:17:51",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
       "added_at": "2026-08-14 04:01:50",
       "album": {
         "name": "Three Reds",
@@ -415,26 +399,6 @@
       "duration_ms": 267560,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
-    },
-    {
-      "added_at": "2026-07-10 13:42:43",
-      "album": {
-        "name": "Rocksteady/HeavyMetal (feat. Eden Joel)",
-        "url": "https://open.spotify.com/album/6dAOUSqJAiLaLGRtPGSeut"
-      },
-      "artists": [
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        },
-        {
-          "name": "Eden Joel",
-          "url": "https://open.spotify.com/artist/4eQuxyBHoTcEqHlzQURrXz"
-        }
-      ],
-      "duration_ms": 217083,
-      "name": "Rocksteady/HeavyMetal (feat. Eden Joel)",
-      "url": "https://open.spotify.com/track/0FiuyFdD0Pi4fDEL94ugPD"
     },
     {
       "added_at": "2026-08-12 13:17:51",
@@ -485,6 +449,22 @@
       "url": "https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2"
     },
     {
+      "added_at": "2026-08-12 13:17:51",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
       "added_at": "2026-08-14 04:01:50",
       "album": {
         "name": "Brace for Impact",
@@ -515,6 +495,26 @@
       "duration_ms": 175752,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2BwHHutoVzEoyTmsK5n6xa"
+    },
+    {
+      "added_at": "2026-07-10 13:42:43",
+      "album": {
+        "name": "Rocksteady/HeavyMetal (feat. Eden Joel)",
+        "url": "https://open.spotify.com/album/6dAOUSqJAiLaLGRtPGSeut"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        },
+        {
+          "name": "Eden Joel",
+          "url": "https://open.spotify.com/artist/4eQuxyBHoTcEqHlzQURrXz"
+        }
+      ],
+      "duration_ms": 217083,
+      "name": "Rocksteady/HeavyMetal (feat. Eden Joel)",
+      "url": "https://open.spotify.com/track/0FiuyFdD0Pi4fDEL94ugPD"
     },
     {
       "added_at": "2026-08-14 04:01:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "bonnie",
-        "url": "https://open.spotify.com/album/23WIQnjGmOcDrK3xJ1SYw3"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "bonnie",
-      "url": "https://open.spotify.com/track/3hXOSZvFqjUTb3kuxokcfp"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "for love's sake",
         "url": "https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG"
       },
@@ -1491,22 +1475,6 @@
       "duration_ms": 240425,
       "name": "Believing",
       "url": "https://open.spotify.com/track/7xaa764VHfmidbR2nKxQFE"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Just My Friend",
-        "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patterson",
-          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Just My Friend",
-      "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -1719,6 +1687,22 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
         "name": "i think i had something once",
         "url": "https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Malvern Star",
-        "url": "https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf"
+        "name": "exposure therapy",
+        "url": "https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3"
       },
       "artists": [
         {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Malvern Star",
-      "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
+      "duration_ms": 161593,
+      "name": "tennis practice",
+      "url": "https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -1875,38 +1859,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 248148,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "exposure therapy",
-        "url": "https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        }
-      ],
-      "duration_ms": 161593,
-      "name": "tennis practice",
-      "url": "https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "When You Turn Around",
         "url": "https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8"
       },
@@ -1943,22 +1895,6 @@
       "duration_ms": 176946,
       "name": "Wheels - with Babehoven & Billie Marten",
       "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Wendy Eisenberg",
-        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
-      },
-      "artists": [
-        {
-          "name": "Wendy Eisenberg",
-          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
-        }
-      ],
-      "duration_ms": 223155,
-      "name": "Will You Dare",
-      "url": "https://open.spotify.com/track/0qI9b53TUwd5tnT0eoIeqm"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -2011,38 +1947,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "S'mores",
         "url": "https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n"
       },
@@ -2091,18 +1995,34 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+        "name": "Wendy Eisenberg",
+        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
       },
       "artists": [
         {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
         }
       ],
-      "duration_ms": 261533,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
+      "duration_ms": 223155,
+      "name": "Will You Dare",
+      "url": "https://open.spotify.com/track/0qI9b53TUwd5tnT0eoIeqm"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -2119,6 +2039,38 @@
       "duration_ms": 296926,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
     }
   ],
   "unique_name": "juniper",

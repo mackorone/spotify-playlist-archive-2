@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158154,
+  "num_followers": 158152,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANnb8iBarbJzfG2X07LOp5skEu1m",
+  "snapshot_id": "AAAAAIn8c9MSdlic4EI9tpMAm8ybNJOu",
   "tracks": [
     {
       "added_at": "2026-08-14 17:39:50",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Tanta Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
+        "name": "MARQUINHA",
+        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
       },
       "artists": [
         {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 195295,
-      "name": "Tanta Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
+      "duration_ms": 146651,
+      "name": "MARQUINHA",
+      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -763,18 +759,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "MARQUINHA",
-        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
+        "name": "Tanta Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         }
       ],
-      "duration_ms": 146651,
-      "name": "MARQUINHA",
-      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
+      "duration_ms": 195295,
+      "name": "Tanta Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "AIRBNB",
         "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
       },
@@ -979,6 +963,42 @@
       "duration_ms": 146000,
       "name": "AIRBNB",
       "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1003,26 +1023,6 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1339,22 +1339,30 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
+        "name": "Bate A Onda",
+        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
       "artists": [
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
         },
         {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
         }
       ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+      "duration_ms": 281142,
+      "name": "Bate A Onda",
+      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
     }
   ],
   "unique_name": "Resenha na Praia",

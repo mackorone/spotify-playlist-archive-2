@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > La Lalisa, la diva!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,084,080 likes - 87 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,937 likes - 87 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

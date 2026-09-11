@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356710,
+  "num_followers": 356666,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7rEKpiWfUGuO2Rq59XBJMmLL7t",
+  "snapshot_id": "AAAAAAVAF2tYMSZ3BbYPfeQstq78D3Wq",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:31",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "CARAMELO SALGADO",
         "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 130367,
       "name": "olympia",
       "url": "https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -443,22 +443,18 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "COVARDIA",
-        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
       },
       "artists": [
         {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 161088,
-      "name": "COVARDIA",
-      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
+      "duration_ms": 169806,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -479,18 +475,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+        "name": "COVARDIA",
+        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
         }
       ],
-      "duration_ms": 169806,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
+      "duration_ms": 161088,
+      "name": "COVARDIA",
+      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Vida de Rei, Vida de C\u00e3o",
-        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 164833,
-      "name": "Vida de Rei, Vida de C\u00e3o",
-      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Seda de Casulo",
         "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Vida de Rei, Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 164833,
+      "name": "Vida de Rei, Vida de C\u00e3o",
+      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -703,8 +703,8 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "acho que sou rom\u00e2ntica",
-        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 152042,
-      "name": "eu me entendo mal",
-      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -799,8 +799,8 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+        "name": "acho que sou rom\u00e2ntica",
+        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+      "duration_ms": 152042,
+      "name": "eu me entendo mal",
+      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
-      },
-      "artists": [
-        {
-          "name": "Lorenza Pozza",
-          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Emocionalmente Indispon\u00edvel",
         "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 191304,
       "name": "Emocionalmente Indispon\u00edvel",
       "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
+      },
+      "artists": [
+        {
+          "name": "Lorenza Pozza",
+          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "vou dar",
+        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 143018,
+      "name": "vou dar",
+      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "carne fraca",
         "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "vou dar",
-        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 143018,
-      "name": "vou dar",
-      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
+      "duration_ms": 136089,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Dias de Mar",
         "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Liberdade?",
-        "url": "https://open.spotify.com/album/2WIe2zcaxbqiwltJhyg604"
+        "name": "TRANSBORDAR",
+        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
       },
       "artists": [
         {
-          "name": "Revna",
-          "url": "https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0"
+          "name": "Mafe Peccin",
+          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Liberdade?",
-      "url": "https://open.spotify.com/track/05OSoY5o8YImbjWhU2QRZ8"
+      "duration_ms": 165768,
+      "name": "afinal o que \u00e9 um amor tranquilo?",
+      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
     }
   ],
   "unique_name": "Palco POP",

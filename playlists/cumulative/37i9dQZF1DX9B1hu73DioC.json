@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Ladybird",
+        "url": "https://open.spotify.com/album/2aP8CgRojHKMD5e4AaCC2H"
+      },
+      "artists": [
+        {
+          "name": "Orca",
+          "url": "https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Certain Feelings",
+      "url": "https://open.spotify.com/track/51GUTnVaRIWt2TSsEVach7"
+    },
+    {
+      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"

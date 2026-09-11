@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Phantogram, Cults and more
+> With Pastel Ghost, Phantogram, Mareux and more
 
 1,857 songs - 4 day 18 hr 20 min
 
@@ -478,7 +478,7 @@
 | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/track/1MgWwiWSF8UeoNfkxOOiGH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:12 | 2022-03-10 | 2022-07-23 |
 | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/track/2X2Qqr7oRqkRwNZfwFbcRL) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/album/0FBahmQKdy0LAUodpsl0hh) | 3:12 | 2021-10-20 | 2022-02-09 |
 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 | 2024-12-13 | 2026-02-18 |
-| [Don't Move](https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG) | 4:18 | 2023-05-14 | 2026-08-03 |
+| [Don't Move](https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG) | 4:18 | 2023-05-14 |  |
 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 | 2020-10-21 | 2022-10-29 |
 | [Don't Panic \(Interlude\)](https://open.spotify.com/track/4c0ThZtBfntAOfsRmUWg5g) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 2:32 | 2022-08-23 | 2022-10-09 |
 | [Don't Wait For Me](https://open.spotify.com/track/6Hde0WqkDJ9oxwr54jBGCs) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [Don't Wait For Me](https://open.spotify.com/album/3zrTHvUncG779R24HeZyMq) | 3:17 | 2022-05-06 | 2022-05-07 |
@@ -1411,7 +1411,7 @@
 | [Serial Killer](https://open.spotify.com/track/5WymYiS89VAeXdzMmHwcLa) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:52 | 2023-06-29 | 2023-08-31 |
 | [Serial Killer](https://open.spotify.com/track/5u9rE1tUbut2sZqdwBTmp8) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 3:57 | 2022-06-17 | 2022-10-12 |
 | [Seventeen](https://open.spotify.com/track/106R0orU4XC4tFbugFfRzT) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic](https://open.spotify.com/album/0QDlF2KvGRoCUPRE1jFJ1C) | 4:37 | 2021-09-06 | 2021-10-25 |
-| [Seventeen](https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic](https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO) | 4:37 | 2022-10-28 |  |
+| [Seventeen](https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic](https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO) | 4:37 | 2022-10-28 | 2026-09-11 |
 | [sever](https://open.spotify.com/track/0u9vMnJ1897Dd5qNxjYnrz) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 3:58 | 2022-10-16 | 2022-10-17 |
 | [sever](https://open.spotify.com/track/0uxlnRGulRxknJLS9Wwocf) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/22GqBntPW6pTyOTb3RjMFF) | 3:58 | 2022-03-30 | 2022-06-01 |
 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 | 2023-12-14 | 2024-02-19 |

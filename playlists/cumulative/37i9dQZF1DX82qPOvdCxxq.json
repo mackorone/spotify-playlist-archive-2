@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Issac Mansfield",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ryce",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 176672,
       "name": "444",
       "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
+    },
+    {
+      "album": {
+        "name": "Nueva Era (Deluxe)",
+        "url": "https://open.spotify.com/album/0meet6eaTAEV5D0xTcoG7B"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "7 VECES",
+      "url": "https://open.spotify.com/track/1Cfq7qyaVILV3NJcv4weal"
     },
     {
       "album": {
@@ -436,7 +454,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 210909,
       "name": "AFTERTHOUGHT",
       "url": "https://open.spotify.com/track/609hWqlx2oY44Iy2F9uoXy"
@@ -806,6 +824,24 @@
       "duration_ms": 155196,
       "name": "All Night!",
       "url": "https://open.spotify.com/track/1ZxPgRT70IBQr3lw807Uk2"
+    },
+    {
+      "album": {
+        "name": "ALL OF IT",
+        "url": "https://open.spotify.com/album/1KoIqzGhWplOtxgwYpkcK2"
+      },
+      "artists": [
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199471,
+      "name": "ALL OF IT",
+      "url": "https://open.spotify.com/track/7G7rtpL2WIoNj7RcJnICE5"
     },
     {
       "album": {
@@ -1444,6 +1480,24 @@
       "duration_ms": 271081,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0zHAcwJU7C1ewCByIhdmP0"
+    },
+    {
+      "album": {
+        "name": "Ask Him",
+        "url": "https://open.spotify.com/album/3GOLDZU3kDMg8IKgW2to0f"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232473,
+      "name": "Ask Him",
+      "url": "https://open.spotify.com/track/4WbzEICFa7ZwzBMZNudETV"
     },
     {
       "album": {
@@ -3030,7 +3084,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123676,
       "name": "Calma",
       "url": "https://open.spotify.com/track/47vkBfWIEAahlxsl4beOg5"
@@ -3766,6 +3820,24 @@
       "duration_ms": 159804,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4"
+    },
+    {
+      "album": {
+        "name": "Come Meet The Man",
+        "url": "https://open.spotify.com/album/0KfK2ngDxmWtEeJ4MZNKbF"
+      },
+      "artists": [
+        {
+          "name": "Lily Hooten",
+          "url": "https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260985,
+      "name": "Come Meet The Man",
+      "url": "https://open.spotify.com/track/0kJa4Un5ssXckfhNew1mNK"
     },
     {
       "album": {
@@ -5104,7 +5176,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 151578,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/6JF1iZOVOqo09Op0rcPrPf"
@@ -6028,7 +6100,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192500,
       "name": "Fan the Flame",
       "url": "https://open.spotify.com/track/1H5NmWi4H8wHXfEEeEfwTL"
@@ -6509,6 +6581,24 @@
     },
     {
       "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/27jxIK3fcIMIhugaMaHMbq"
+      },
+      "artists": [
+        {
+          "name": "Taylented",
+          "url": "https://open.spotify.com/artist/3IOqaQSOAsNh3zsTVOAchE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/7KDZAiD9Muuov5B7hrbxjy"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
       },
@@ -6654,6 +6744,24 @@
       "duration_ms": 215352,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7v09XY6tJHdv0LQqAiBclI"
+    },
+    {
+      "album": {
+        "name": "Forever & Ever",
+        "url": "https://open.spotify.com/album/1brmXrElmre0uBMLz44Fcy"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219565,
+      "name": "Forever & Ever",
+      "url": "https://open.spotify.com/track/4NrQORdtSQFup9vMr2JlGV"
     },
     {
       "album": {
@@ -8271,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "HALOS",
+        "url": "https://open.spotify.com/album/1DWsXo5Mlryv7DyQOTgArD"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182477,
+      "name": "HALOS",
+      "url": "https://open.spotify.com/track/31eqtQb0WNIJwWG8C1Ly84"
+    },
+    {
+      "album": {
         "name": "HANDSOME",
         "url": "https://open.spotify.com/album/5RjvQ5jnWPU6vfKlmOOV18"
       },
@@ -8752,6 +8878,24 @@
       "duration_ms": 180606,
       "name": "Hello",
       "url": "https://open.spotify.com/track/24DWJW3mIzlgSIvaEC3BdF"
+    },
+    {
+      "album": {
+        "name": "Help Me Breathe",
+        "url": "https://open.spotify.com/album/18tVLDx1acrcJHbHCWTZAi"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Help Me Breathe",
+      "url": "https://open.spotify.com/track/5kM2MqKF3qypSy4baFt7WC"
     },
     {
       "album": {
@@ -9780,6 +9924,24 @@
       "duration_ms": 199587,
       "name": "I Got Jesus",
       "url": "https://open.spotify.com/track/5cvJ2YaP4j5IOHQaaLTOAR"
+    },
+    {
+      "album": {
+        "name": "i know a man",
+        "url": "https://open.spotify.com/album/3leZbOl69ANVAIjiv8SK1f"
+      },
+      "artists": [
+        {
+          "name": "ash wiseman",
+          "url": "https://open.spotify.com/artist/1ajtUdfdUZ7ZDTKRpWEOVm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235879,
+      "name": "i know a man",
+      "url": "https://open.spotify.com/track/3OgkAGMJMwEZfnhg26dDKT"
     },
     {
       "album": {
@@ -11738,7 +11900,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 130909,
       "name": "lean on Me",
       "url": "https://open.spotify.com/track/1xjBxqHrcELL3flSuuV2Dt"
@@ -11872,6 +12034,24 @@
       "duration_ms": 199601,
       "name": "Life I Chose",
       "url": "https://open.spotify.com/track/3aCdjKOq68MscD3xJJOtZT"
+    },
+    {
+      "album": {
+        "name": "Life In Color",
+        "url": "https://open.spotify.com/album/519JaKvo55QCXI0ei3WmVI"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/6RjfGS17GuzkVfMJoxEtlf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193388,
+      "name": "Life In Color",
+      "url": "https://open.spotify.com/track/79AgZyL5ysoyw0vxUJMxWT"
     },
     {
       "album": {
@@ -12390,7 +12570,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 107076,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/7pEIuEVEV1Hx9qZipz1dxg"
@@ -12742,7 +12922,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141904,
       "name": "LOVE WILL LAST",
       "url": "https://open.spotify.com/track/4r5qjaxyuMR5xE2bgJh9Fw"
@@ -13142,7 +13322,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204714,
       "name": "Making Ways",
       "url": "https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF"
@@ -14052,7 +14232,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 196621,
       "name": "my love",
       "url": "https://open.spotify.com/track/19aX2kum5XVr26sv4lGrPm"
@@ -15858,7 +16038,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170375,
       "name": "Peleando En Mi Mente",
       "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
@@ -16989,6 +17169,24 @@
     },
     {
       "album": {
+        "name": "Red Light Therapy",
+        "url": "https://open.spotify.com/album/5xhKTHEbthvD2th55iod6Q"
+      },
+      "artists": [
+        {
+          "name": "Olivia Buckles",
+          "url": "https://open.spotify.com/artist/2MeIzt4bLWfc2idzh7O6pB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176142,
+      "name": "Red Light Therapy",
+      "url": "https://open.spotify.com/track/5lfsdxJekjcVxwLmzOvjSU"
+    },
+    {
+      "album": {
         "name": "redeemed",
         "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
       },
@@ -17835,6 +18033,24 @@
     },
     {
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2UoLasRfV9awshTDVOhRJi"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1VFghOqMugTqdRaBxPEAhI"
+    },
+    {
+      "album": {
         "name": "Psalms In Da Hood",
         "url": "https://open.spotify.com/album/24rEz8uVRJ1oDhg8XbZwhI"
       },
@@ -18114,7 +18330,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160858,
       "name": "Shed A Little Light",
       "url": "https://open.spotify.com/track/0buYt4WUS7LbKHycFU16SO"
@@ -18749,6 +18965,28 @@
     },
     {
       "album": {
+        "name": "nonmusician",
+        "url": "https://open.spotify.com/album/10xwhxQ1LM7u4F0hHIviH6"
+      },
+      "artists": [
+        {
+          "name": "Hunter J Baker",
+          "url": "https://open.spotify.com/artist/2fHKqZjSq4m3NI1pwmSOSh"
+        },
+        {
+          "name": "Summer Davis",
+          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200151,
+      "name": "somethingthatGod",
+      "url": "https://open.spotify.com/track/4VmV3mDmSMZG3RrGw7vgBS"
+    },
+    {
+      "album": {
         "name": "SOMETIME",
         "url": "https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0"
       },
@@ -18796,7 +19034,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 321000,
       "name": "song of healing",
       "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
@@ -21375,6 +21613,24 @@
     },
     {
       "album": {
+        "name": "Trust In Him",
+        "url": "https://open.spotify.com/album/586TceGnQGgeD07X57dwVi"
+      },
+      "artists": [
+        {
+          "name": "John Long",
+          "url": "https://open.spotify.com/artist/3MvG2GuTUyc26loK7bjclg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190113,
+      "name": "Trust In Him",
+      "url": "https://open.spotify.com/track/2stwyv3zp5vkw9lK6jja9I"
+    },
+    {
+      "album": {
         "name": "TRUTH",
         "url": "https://open.spotify.com/album/4vgdqP1l0opToQ5iilU1Gg"
       },
@@ -21966,7 +22222,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158124,
       "name": "Wait",
       "url": "https://open.spotify.com/track/4uoEm9ukfqrTRouykfI5Ve"
@@ -22618,7 +22874,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190699,
       "name": "What God Can Do",
       "url": "https://open.spotify.com/track/4fVZ0WSgBvxf5lWKzxUTwG"

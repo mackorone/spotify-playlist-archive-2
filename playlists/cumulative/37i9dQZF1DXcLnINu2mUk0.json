@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Myles 6ix",
   "name": "Seda",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
@@ -2877,6 +2877,28 @@
     },
     {
       "album": {
+        "name": "Carol ou Xavi",
+        "url": "https://open.spotify.com/album/4avSHiobSTAfl4QplfHESf"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Dimon",
+          "url": "https://open.spotify.com/artist/7qWWkEWQ78SzepBgVOhDXN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Carol ou Xavi",
+      "url": "https://open.spotify.com/track/1tO880MhhB3xg38v8GmFIN"
+    },
+    {
+      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -3470,6 +3492,24 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica de Elevador",
+        "url": "https://open.spotify.com/album/1tmJ5IxCHmuqCokvFJ9AnO"
+      },
+      "artists": [
+        {
+          "name": "Margarida Campelo",
+          "url": "https://open.spotify.com/artist/3bbmsol5aDwGqorVdy2s50"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Cluedo",
+      "url": "https://open.spotify.com/track/39ynx4NKlnCgzeJJizgJYN"
     },
     {
       "album": {
@@ -11226,7 +11266,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175350,
       "name": "ningu\u00e9m mais",
       "url": "https://open.spotify.com/track/7rtctz3cgct4toxF1PeNDd"
@@ -13076,7 +13116,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z"
@@ -15444,7 +15484,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193987,
       "name": "show my shine",
       "url": "https://open.spotify.com/track/6O8EiOfOS1eYM4b6Wroxq0"
@@ -18568,7 +18608,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 152470,
       "name": "\u00c0 Procura",
       "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"

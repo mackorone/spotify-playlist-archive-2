@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,565 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 6 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
 | 7 | [Kicked Out Of Bars](https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Kicked Out Of Bars](https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP) | 2:44 |
 | 8 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
-| 9 | [SICK & TIRED](https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [SICK & TIRED](https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7) | 1:46 |
-| 10 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
+| 9 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
+| 10 | [SICK & TIRED](https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [SICK & TIRED](https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7) | 1:46 |
 | 11 | [Unforgivable Things](https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Unforgivable Things](https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC) | 2:35 |
 | 12 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 | 13 | [INFINITE LOVE](https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [INFINITE LOVE](https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH) | 4:04 |
-| 14 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 |
-| 15 | [Devoted](https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Devoted](https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6) | 2:20 |
+| 14 | [Devoted](https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Devoted](https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6) | 2:20 |
+| 15 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 |
 | 16 | [Serial Kisser](https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Serial Kisser](https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6) | 2:46 |
 | 17 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
 | 18 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 21 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
 | 22 | [losing](https://open.spotify.com/track/035L1su4sn0wZmoD5rdtos) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [losing](https://open.spotify.com/album/7sw3EMPHHFXLSR6gPzkDTx) | 2:51 |
 | 23 | [Devotion](https://open.spotify.com/track/6fCBYfnfa2e2SllY8mJSGe) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Across the Pond](https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz) | 3:16 |
-| 24 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
-| 25 | [You Found Her](https://open.spotify.com/track/5JSyd3ormliZCoveePc63H) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Under the Same Sky](https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS) | 2:41 |
+| 24 | [You Found Her](https://open.spotify.com/track/5JSyd3ormliZCoveePc63H) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Under the Same Sky](https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS) | 2:41 |
+| 25 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
 | 26 | [Why Does the Moon](https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Why Does the Moon](https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC) | 3:12 |
 | 27 | [aries baby](https://open.spotify.com/track/2nHotWvTAWEpSYzv7s0Bk9) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [aries baby](https://open.spotify.com/album/4vS61q0dNLJXi72MhlgU54) | 2:32 |
 | 28 | [Let It Die](https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Let It Die](https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t) | 3:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 44 | [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 |
 | 45 | [Yesterday](https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Yesterday](https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J) | 3:21 |
 | 46 | [One Step](https://open.spotify.com/track/5w0nQUeBCgWK1LS4tHdUP4) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [One Step](https://open.spotify.com/album/3nnEX2YyDsbzI9gCtsylma) | 2:04 |
-| 47 | [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 |
-| 48 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |
+| 47 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |
+| 48 | [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 |
 | 49 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 50 | [100 raccourcis](https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn) | [Kanda Gang](https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5), [ANAÏS.](https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej), [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [100 raccourcis](https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q) | 3:34 |
 
-Snapshot ID: `AAAAAI0Aqt1pSdEsLacftGIt2Q4GQMrJ`
+Snapshot ID: `AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff`

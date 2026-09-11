@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 171871,
       "name": "Carnaval Do Brasil",
       "url": "https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 114206,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6iDqDiZWlCI3tBsasMf1DK"
@@ -1570,6 +1570,24 @@
       "duration_ms": 150604,
       "name": "Girlz Wanna Have Fun",
       "url": "https://open.spotify.com/track/1jrMuGmKdmS3lRIjhAcFrq"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/17gYEKls4RDwSItukXhCt3"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/3RYElEw7Qk3EQzU28x5KMS"
     },
     {
       "album": {
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165298,
       "name": "She's So High",
       "url": "https://open.spotify.com/track/4WMKgeG9P3P0Rw9VMP8Ozr"
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 111230,
       "name": "Who's That Girl",
       "url": "https://open.spotify.com/track/4PzcHTKG5Yfhktig9OYkTU"
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175327,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194337,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 848 likes - 68 songs - 3 hr 50 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 852 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 66 | [Take the Leap](https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2) | [Belshire](https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC) | [Belshire](https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S) | 2:56 |
 | 67 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 |
 | 68 | [No Friends Left](https://open.spotify.com/track/6L1yZEApeMG2EMWfz7u8U4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [No Friends Left](https://open.spotify.com/album/05nP9zQOxxEakXpzXALcWf) | 4:08 |
+| 69 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
 
-Snapshot ID: `AAAD7gYFU+t+MEEB3mBVGvrrdzezLr2i`
+Snapshot ID: `AAAD7yR5R4n8dqGYvXH4j01ypRTv0ric`

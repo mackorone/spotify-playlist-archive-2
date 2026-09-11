@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3007817,
+  "num_followers": 3007766,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNOApksl70q8Vp4PjSMo7C0uk3P",
+  "snapshot_id": "AAAAAJyexfdu2pBTm2aKYq2IkBUKvM9H",
   "tracks": [
     {
       "added_at": "2026-07-28 20:14:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
       },
@@ -295,6 +279,26 @@
       "duration_ms": 210546,
       "name": "Otro Ocupa Mi Lugar",
       "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Si la Ves (feat. Sin Bandera)",
+      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -331,6 +335,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -347,38 +367,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
       },
       "artists": [
         {
           "name": "Franco De Vita",
           "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Si la Ves (feat. Sin Bandera)",
-      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 2",
         "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 417533,
       "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
       "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Si Yo Fuera El...",
+        "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "El primer beso",
+      "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Si Yo Fuera El...",
-        "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "El primer beso",
-      "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 226333,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 162040,
       "name": "Digan lo que digan",
       "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Cachetada",
+      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 233120,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/2wy8ziIphoK4LvIiLEMLf1"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Cachetada",
-      "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Mi tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
-      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 185560,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/2KIUDhvmBGVNJW76YtjJ6C"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Mi tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
+      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Coleccion Original: Rocio Jurado",
-        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 256093,
-      "name": "Como una Ola",
-      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/1X9PPhhcScin4MlR8DrmRv"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 231666,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Coleccion Original: Rocio Jurado",
+        "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 256093,
+      "name": "Como una Ola",
+      "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35"
       },
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
       },
       "artists": [
         {
-          "name": "Sab\u00fa",
-          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Vuelvo A vivir, Vuelvo A Cantar",
-      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
+      "duration_ms": 239506,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2287,6 +2271,22 @@
       "duration_ms": 276533,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
+      },
+      "artists": [
+        {
+          "name": "Sab\u00fa",
+          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Vuelvo A vivir, Vuelvo A Cantar",
+      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Amor de Hombre (De \"La Leyenda del Beso\")",
-      "url": "https://open.spotify.com/track/2XOuNjvWYgPmdtTwjQTd23"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/7tpRFmImdA2lXhq86OLz25"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 276933,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/2tD5O7XOMyF9dsnChcN4n2"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Amor de Hombre (De \"La Leyenda del Beso\")",
+      "url": "https://open.spotify.com/track/2XOuNjvWYgPmdtTwjQTd23"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Serrat En Directo",
-        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+        "name": "Las #1 De Ricardo Montaner",
+        "url": "https://open.spotify.com/album/6kTJuY3ncsTIMPcgl4bWzP"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 204449,
-      "name": "Cantares - En Directo",
-      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
+      "duration_ms": 312333,
+      "name": "Dejame Llorar",
+      "url": "https://open.spotify.com/track/3Bknh2l0uHRTpgTh4iRP96"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

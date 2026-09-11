@@ -3419,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Dipos di Primavera",
+        "url": "https://open.spotify.com/album/5uygg5s3MGGKMox0euVFHZ"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204947,
+      "name": "Dipos di Primavera",
+      "url": "https://open.spotify.com/track/2zOReMnHmNM4EnjdoXyrYF"
+    },
+    {
+      "album": {
         "name": "Dis-Le Moi",
         "url": "https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp"
       },
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167465,
       "name": "Essa Tua Boca",
       "url": "https://open.spotify.com/track/5PiNNm6D5Hz665DclsD79L"
@@ -6642,7 +6660,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192565,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/3H1m0lTIeVsHeyPvUzRX65"
@@ -7755,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "Mulher n\u00e3o \u00e9 pra entender",
+        "url": "https://open.spotify.com/album/6f6y3UUXWWSqw1h18Gt71H"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202194,
+      "name": "Mulher n\u00e3o \u00e9 pra entender",
+      "url": "https://open.spotify.com/track/0phuj9KHJ4CQhxA8zFGKER"
+    },
+    {
+      "album": {
         "name": "Novelas",
         "url": "https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ"
       },
@@ -8270,7 +8306,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 163501,
       "name": "Noite de Festa",
       "url": "https://open.spotify.com/track/6LfqsfkXc2Ug8DbSa8mYvw"
@@ -9000,6 +9036,24 @@
       "duration_ms": 306822,
       "name": "O Pai",
       "url": "https://open.spotify.com/track/0wnpc283RUxKyh0Qo0q4JG"
+    },
+    {
+      "album": {
+        "name": "O Plano Dela",
+        "url": "https://open.spotify.com/album/66PW2HQtsJ4z3Q5NeZcD7m"
+      },
+      "artists": [
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "O Plano Dela",
+      "url": "https://open.spotify.com/track/3PcRy6tTYur7uqryvuHYQ9"
     },
     {
       "album": {
@@ -11528,7 +11582,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 185261,
       "name": "SOMSOM",
       "url": "https://open.spotify.com/track/2oCpOt8gmQAFcWPxoKDjYn"
@@ -12122,7 +12176,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Te Avisei",
       "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"

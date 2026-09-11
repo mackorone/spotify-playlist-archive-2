@@ -2,9 +2,9 @@
 
 ### [All New K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: JISOO\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: IU\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,828 songs - 39 day 21 hr 22 min
+16,832 songs - 39 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,7 @@
 | [Alive](https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 | 2023-08-16 | 2023-09-06 |
 | [alive](https://open.spotify.com/track/22fmrs9ryrH771Exi5x7nC) | [TA\-Copy](https://open.spotify.com/artist/6OxjdkqXIEIvK36dIMWNx3) | [alive](https://open.spotify.com/album/4RozZQXp1vXJAca40Ty8ND) | 3:20 | 2023-09-19 | 2023-11-11 |
 | [Alive](https://open.spotify.com/track/6ssI8kBFYhiMKCUB4WuTch) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Alive](https://open.spotify.com/album/2FZhIkExXvCsDkvl72Zrxb) | 2:35 | 2023-06-19 | 2023-08-10 |
-| [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 | 2026-09-09 |  |
+| [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 | 2026-09-09 |  |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2022-09-01 |
 | [ALL ABOUT FAREWELL \(with JAMIE\)](https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Winter Songs](https://open.spotify.com/album/0aTPUVSa8UApotqgfkrKaB) | 3:52 | 2022-12-07 | 2022-12-22 |
 | [All About You](https://open.spotify.com/track/4BPHgRFpbYJZhYLp5161Qi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [ADAMAS, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1MkWm3teh6zqfBVkpPUaji) | 4:17 | 2022-09-02 | 2022-09-09 |
@@ -5844,6 +5844,7 @@
 | [Hool Hool](https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [HOOL HOOL](https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4) | 3:30 | 2025-01-22 | 2026-01-06 |
 | [Hoopee \(Feat\. Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES) | [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [podo](https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2) | 2:45 | 2023-12-14 | 2023-12-22 |
 | [Hoot Du Du \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0CumwnehGb0ub6EFJArEU4) | [JAESSBEE](https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq) | [Would You Marry Me?, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1LXs9FSpbortmVuwqrAQcM) | 2:57 | 2025-10-27 | 2025-11-03 |
+| [HOP](https://open.spotify.com/track/6yHGLTae4jg3459vPQwSEp) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [HOP](https://open.spotify.com/album/0QGdRswv4CDMBFRWmmEwHF) | 2:29 | 2026-09-10 |  |
 | [HOP ON](https://open.spotify.com/track/2rACGyzDrcVyF9FXDMDMdc) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Jaerim](https://open.spotify.com/artist/5pa9RME9FlgXWKL20LfNmo) | [HOP ON](https://open.spotify.com/album/2bxU0e1jaoSBpFXF1vRxE9) | 2:36 | 2024-09-03 | 2024-09-20 |
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 | 2023-02-15 |
 | [Hope](https://open.spotify.com/track/4902Qaztzbcnc0Vgr0rURT) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Elsword : Hope \(Original Game Soundtrack\)](https://open.spotify.com/album/2Azoa92pcAeE7ecY9EoL2T) | 3:11 | 2023-01-09 | 2023-02-01 |
@@ -9295,6 +9296,7 @@
 | [My Flavor](https://open.spotify.com/track/5u23M7UMofh0hHUwWMLCTX) | [MigakBoys](https://open.spotify.com/artist/1mjgSOWQLVHd1Ah8rHOxNN) | [The Legend of Kitchen Soldier, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1CWEmpSXsldAATekfsZP0q) | 3:04 | 2026-05-27 | 2026-06-09 |
 | [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-08-31 | 2022-09-09 |
 | [My Fourth Spring](https://open.spotify.com/track/75m6IDVJcO0eZs16SaDQZb) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [My Fourth Spring](https://open.spotify.com/album/27wVUG13r8tBNO9qXaWK5L) | 3:24 | 2025-03-26 | 2025-04-10 |
+| [My Friend](https://open.spotify.com/track/1GiP26gz7ODqQ8dxweTPo7) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [My Friend](https://open.spotify.com/album/1vTNkJ8EUpq7Ju50nwKFBQ) | 2:54 | 2026-09-10 |  |
 | [My Girl](https://open.spotify.com/track/6B4giMto5XBv3mHMBr8F4f) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [My Girl : “My Choice”](https://open.spotify.com/album/3MJX54XKZt42AF509srJ8z) | 3:38 | 2024-02-22 | 2024-03-09 |
 | [My Girl](https://open.spotify.com/track/4u8tjYQmrvMRzv70oZiUSa) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [My Girl](https://open.spotify.com/album/3qTZv6tNZRR4NwCzLx5sQw) | 2:54 | 2024-10-14 | 2024-11-05 |
 | [My Girl](https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv) | [nautilus](https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ) | [My Girl](https://open.spotify.com/album/6j6oWzD2FDaatkJWaGcggf) | 4:18 | 2022-11-06 | 2022-12-22 |
@@ -14229,6 +14231,7 @@
 | [Tornado](https://open.spotify.com/track/406BV5eDE1EUsMbZPZFyT6) | [Kian84](https://open.spotify.com/artist/6k7QlVYJwMX0zFpjV467B0) | [Music Adventure by Accident](https://open.spotify.com/album/5TrIdko7MdxmeZWIZQA5jc) | 2:27 | 2024-10-07 | 2024-11-05 |
 | [TORO \(feat\. Crush\)](https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [LOVESICK](https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr) | 3:59 | 2026-03-27 | 2026-04-09 |
 | [Totally On Fire](https://open.spotify.com/track/0PLnzBfbz9y1Oy6aleNAI1) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [90s\-00s Highway medley](https://open.spotify.com/album/3dbBWTrB2LI0ZqYmluna66) | 2:10 | 2025-07-16 | 2025-07-29 |
+| [ToTo](https://open.spotify.com/track/0sRcVXli6eqbPASpVXTWB2) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 10](https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D) | 3:08 | 2026-09-10 |  |
 | [Touch](https://open.spotify.com/track/0QUDmGJaoWf97QIMTG8Lnn) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 8th Mini Album 'DRIFT'](https://open.spotify.com/album/20n7NJgj2ZOi1YJ85KEkhq) | 3:06 | 2025-07-02 | 2025-07-12 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-26 | 2024-09-20 |
 | [Touch](https://open.spotify.com/track/2xSMlL2I4yhoH31tl3xCY4) | [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [TOUCH](https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS) | 3:23 | 2022-08-02 | 2022-08-15 |
@@ -14524,6 +14527,7 @@
 | [Unknown](https://open.spotify.com/track/5pYkPbFciyV90yqywRlK7p) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [Unknown](https://open.spotify.com/album/16kjMxDylfpu8QINIlAh07) | 3:37 | 2022-11-07 | 2022-12-22 |
 | [Unknown Number](https://open.spotify.com/track/6yeRyIrZ6KW5Z4DJY6CABr) | [Aiboy](https://open.spotify.com/artist/5xB1QNglj15uGJolScKHA6) | [Hype boy](https://open.spotify.com/album/2660sLnodGaPqh5gTAbTYt) | 2:34 | 2023-03-15 | 2023-04-02 |
 | [Unknown Number](https://open.spotify.com/track/6ELBv0LKWuq77hK5mUS1n0) | [백예슬](https://open.spotify.com/artist/11DtsbOcADmapr0tpUNgqN) | [Unknown Number](https://open.spotify.com/album/3ishR5DHHZkbwgqm0JGnp0) | 3:53 | 2024-05-10 | 2024-06-20 |
+| [Unknown Planet](https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 3:45 | 2026-09-10 |  |
 | [Unknown World \(Prod\. by Nam Hye Seung\)](https://open.spotify.com/track/6EQpKimgfteh1hQwMfzJKC) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/41gG0EPC1j5qBhA1OeNbCT) | 2:08 | 2022-07-06 | 2022-07-12 |
 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 | 2022-04-22 | 2022-05-03 |
 | [UNO](https://open.spotify.com/track/4gB2g4D9WB1L60901tJX2f) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [RISE](https://open.spotify.com/album/3bVqyc7dO0azXgAuxpAWR1) | 2:52 | 2024-09-03 | 2024-09-20 |

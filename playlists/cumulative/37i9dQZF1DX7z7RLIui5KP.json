@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Willy Paul",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Onyach Pala",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -724,6 +724,24 @@
       "duration_ms": 182068,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/48FW62a8isVS443e7EaIUE"
+    },
+    {
+      "album": {
+        "name": "Bi Lima",
+        "url": "https://open.spotify.com/album/4okIDhFwpVoyo5dTyyPTTe"
+      },
+      "artists": [
+        {
+          "name": "KODONGKLAN",
+          "url": "https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235247,
+      "name": "Bi Lima",
+      "url": "https://open.spotify.com/track/3FPNnbI7Ymkc4nFXex11ZO"
     },
     {
       "album": {
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 245551,
       "name": "Hallelujah (Washwash)",
       "url": "https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj"
@@ -2320,6 +2338,28 @@
       "duration_ms": 174315,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/1TidyHnfWZJ2GcDMESuYUt"
+    },
+    {
+      "album": {
+        "name": "We Fly",
+        "url": "https://open.spotify.com/album/4rKoNFEBQRQ76uOFOIKL4N"
+      },
+      "artists": [
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        },
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7gntLuZeFsCOk7eJEL2L5l"
     },
     {
       "album": {
@@ -3669,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "Mpende Na Pesa",
+        "url": "https://open.spotify.com/album/6TAl9rwvV2VpLPnbVeRwp7"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mpende Na Pesa",
+      "url": "https://open.spotify.com/track/7JqKoZtcS1FBpyTrbHNRnh"
+    },
+    {
+      "album": {
         "name": "Mr & Mrs",
         "url": "https://open.spotify.com/album/4HMcsqg3eXHOxyzSBcSE9x"
       },
@@ -3801,7 +3859,7 @@
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169482,
+      "duration_ms": 169411,
       "name": "Mwecheche",
       "url": "https://open.spotify.com/track/54Xa5HImqHMUh1Bm46CkMx"
     },
@@ -4148,7 +4206,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 209563,
       "name": "Ngozi Kama Jua",
       "url": "https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq"
@@ -4304,6 +4362,24 @@
       "duration_ms": 172173,
       "name": "Niwache",
       "url": "https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP"
+    },
+    {
+      "album": {
+        "name": "Njeve",
+        "url": "https://open.spotify.com/album/0E0crvIU728RRRK5b3821K"
+      },
+      "artists": [
+        {
+          "name": "Onyach Pala",
+          "url": "https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Njeve",
+      "url": "https://open.spotify.com/track/2Wsj8IF7dEBoKKqx0sGqRZ"
     },
     {
       "album": {
@@ -4512,7 +4588,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152727,
       "name": "On Me",
       "url": "https://open.spotify.com/track/0i2tFVfo5ft4ZQSBMuCpON"
@@ -5504,10 +5580,32 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197333,
       "name": "Sio Leo",
       "url": "https://open.spotify.com/track/3Zuwy3nNfm55jHyKXrbuSK"
+    },
+    {
+      "album": {
+        "name": "Sitoki",
+        "url": "https://open.spotify.com/album/029aryi1fOXR3nBhcPyh5L"
+      },
+      "artists": [
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        },
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Sitoki",
+      "url": "https://open.spotify.com/track/6SPjg2pisSLtkSBPbdLyqj"
     },
     {
       "album": {
@@ -5654,6 +5752,24 @@
       "duration_ms": 265835,
       "name": "Still the one",
       "url": "https://open.spotify.com/track/15ChgJwMrGNN2ZSrLJGXqY"
+    },
+    {
+      "album": {
+        "name": "Strict Program",
+        "url": "https://open.spotify.com/album/3i8TeluuRZEUhRG6N9kLw0"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Strict Program",
+      "url": "https://open.spotify.com/track/3GYQGZGbTy6hRInViq5Dwl"
     },
     {
       "album": {
@@ -6368,7 +6484,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197052,
       "name": "Utaambia Nini Watu?",
       "url": "https://open.spotify.com/track/1wzAlsS1kuKcXT6qJwh0Vh"
@@ -6590,7 +6706,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 135784,
       "name": "WAWILI",
       "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,620 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,733 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Shapes & Forms](https://open.spotify.com/track/6MY9QEbJR60Ol0JuFlb3LN) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Shapes & Forms](https://open.spotify.com/album/4XcnfbY3SfKYGY8bWuNzD6) | 2:25 |
 | 60 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
 
-Snapshot ID: `AAAAABV6E2CeK+Uh6UBpug9L9DpuHOyv`
+Snapshot ID: `AAAAAHT3pZ8wkTtzWQ5MHctTuTOaQnsB`

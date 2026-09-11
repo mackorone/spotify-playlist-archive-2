@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Arda Umurhan Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,135 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,192 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [HAZ](https://open.spotify.com/track/2cnC2ahWYQqbYPnyZrftW5) | [Porte](https://open.spotify.com/artist/1uTuMCVfVotAoxGOwgpD5v) | [HAZ](https://open.spotify.com/album/0ivL57SRkojlVAbZP2S02F) | 2:41 |
 | 50 | [Yarım Kalan Hikayeler](https://open.spotify.com/track/6nsABIgASXzm24mGvNcT7y) | [Can Köymen](https://open.spotify.com/artist/29ta5Necgm0pZUqs2lDEP6) | [Yarım Kalan Hikayeler](https://open.spotify.com/album/4EaNWchxah3RbME4Yb0ngi) | 3:21 |
 
-Snapshot ID: `AAAAANmUXluSLxPHQwxo9xKGavpn3Xg4`
+Snapshot ID: `AAAAAGsJyfeQcOAq+83W5FcdNxBHUJnA`

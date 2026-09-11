@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Mike El Nite",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Ant\u00f3nio Zambujo",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 189120,
       "name": "99",
       "url": "https://open.spotify.com/track/1DdJbjGawTezrc3B2sOyYD"
+    },
+    {
+      "album": {
+        "name": "A Cada Passo Que Dou",
+        "url": "https://open.spotify.com/album/6hybWHAJd5VE69gY9lQxwQ"
+      },
+      "artists": [
+        {
+          "name": "Xico Gaiato",
+          "url": "https://open.spotify.com/artist/6aAB6u4yMhkK5YvtDJW1dK"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156218,
+      "name": "A Cada Passo Que Dou",
+      "url": "https://open.spotify.com/track/4lAMCFyVfuswxDCsU7lOza"
     },
     {
       "album": {
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 227397,
       "name": "Celestial Bodies",
       "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
@@ -6489,6 +6507,28 @@
     },
     {
       "album": {
+        "name": "O Pack Inteiro",
+        "url": "https://open.spotify.com/album/6A81qhsxy9gzEBP9nzkFi7"
+      },
+      "artists": [
+        {
+          "name": "PZ",
+          "url": "https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200629,
+      "name": "O Pack Inteiro",
+      "url": "https://open.spotify.com/track/3fLT6NRziCLgg2jQY6fxsT"
+    },
+    {
+      "album": {
         "name": "O Que Esta Gente Quer",
         "url": "https://open.spotify.com/album/5qQTnm5af4Tkwd6KYDqKYS"
       },
@@ -8219,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "Sou Gente Outra Vez",
+        "url": "https://open.spotify.com/album/7qfjxVM3xHJ4KQJU0C3MA1"
+      },
+      "artists": [
+        {
+          "name": "Cassete Pirata",
+          "url": "https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205354,
+      "name": "Sou Gente Outra Vez",
+      "url": "https://open.spotify.com/track/0j05nCNwPM2xZY9K9Icxlb"
+    },
+    {
+      "album": {
         "name": "sozinha",
         "url": "https://open.spotify.com/album/0dEbBZFRMTSjUNNhCBXdTw"
       },
@@ -8302,7 +8360,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -9278,7 +9336,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 213540,
       "name": "Tigre III",
       "url": "https://open.spotify.com/track/50ypYBFX2zduc4c8yDqN0Q"

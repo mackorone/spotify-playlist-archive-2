@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,390 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,388 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 22 | [OI KAIROI ALLAZOUNE](https://open.spotify.com/track/16mFMQBhGTOhcvP8ObXWuX) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [I TRIED](https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH) | 2:37 |
 | 23 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 24 | [Kalokairi](https://open.spotify.com/track/2VmtUsynPzLtI02zWv0fh6) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Kalokairi](https://open.spotify.com/album/1jF9gjrRaKyvn8jOp8YwvI) | 2:14 |
-| 25 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
+| 25 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Ellinikos 93.2](https://open.spotify.com/artist/5Rfc2HCfClBnHGTkNjVWkd), [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
 | 26 | [Kaigomai](https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:04 |
 | 27 | [Anadromika](https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Alexandra](https://open.spotify.com/artist/5chFd3WPxdTlKsUhEPmArx) | [Stin Akri Tou Kosmou](https://open.spotify.com/album/1TYv5ogFcaouNtk0nlPmrY) | 3:17 |
 | 28 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |

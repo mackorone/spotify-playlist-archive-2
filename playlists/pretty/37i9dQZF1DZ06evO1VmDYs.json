@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205893,
+  "num_followers": 205912,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADfPY5L8Az1/pDmzEeswC+f",
+  "snapshot_id": "aqChgAAAAAD9DX+7Pi9XryZBWyG9L+qL",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 191826,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
     },
     {
       "added_at": null,

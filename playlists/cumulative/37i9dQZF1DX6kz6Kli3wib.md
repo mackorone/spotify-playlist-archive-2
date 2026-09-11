@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-573 songs - 1 day 1 hr 58 min
+577 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-11 | 2022-02-11 |
 | [Ambergris](https://open.spotify.com/track/7L3SUCFOjhY2ftVl34QxW1) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Ambergris](https://open.spotify.com/album/78VkBkMwDPOELXNiwXxlSH) | 2:49 | 2024-05-11 | 2026-06-05 |
 | [Ambrosia](https://open.spotify.com/track/7ibIRUtuqPL0PkWlaQgdgC) | [Sombra Azul](https://open.spotify.com/artist/4EYXyORAJ8gvI1cZVeSEoc) | [Ambrosia](https://open.spotify.com/album/7no7G8lC0uwgYkb3AeoEAK) | 2:16 | 2025-11-17 |  |
+| [Another One](https://open.spotify.com/track/6swKtb86bGxaGINgSz9l1S) | [MAC MAY](https://open.spotify.com/artist/3UrJQ0mp4sFhOzqC1GKjti) | [Another One](https://open.spotify.com/album/0DQ896k1UFMI7l7iOVNnM6) | 2:12 | 2026-09-10 |  |
 | [Another Shot](https://open.spotify.com/track/1Uc5EFttqhNXqiJsH2vfIs) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Another Shot](https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5) | 3:17 | 2022-08-16 | 2025-04-26 |
 | [Antibes](https://open.spotify.com/track/75Z2NEmmcCqLOSBxUkRZYx) | [nacirema](https://open.spotify.com/artist/7KH8NPzyR1dT2w4cnSCJcZ) | [Antibes](https://open.spotify.com/album/1fo2B8mu7ypFH4fD55JiVF) | 2:07 | 2024-03-04 | 2026-06-05 |
 | [archipelago](https://open.spotify.com/track/7CI3cQuz7qcITMf6uffrre) | [le soir](https://open.spotify.com/artist/0zMyZZhdu5m2Rr7yOHlRE2) | [archipelago](https://open.spotify.com/album/59KZ5jyjcWCst6MhCW5q40) | 2:04 | 2026-08-28 |  |
@@ -92,8 +93,8 @@
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 | 2024-09-07 |
 | [Catwalk](https://open.spotify.com/track/2IS0y1hW0E776RI6IkJtUI) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [Catwalk](https://open.spotify.com/album/1vr4Oty2K6h42zXaoeqOfC) | 2:46 | 2024-09-06 | 2026-05-06 |
 | [Celestial](https://open.spotify.com/track/1xgoxlQIQ4F3dFCEiCgXTN) | [UY Scuti](https://open.spotify.com/artist/0QwgThmICNJVENaqBpDqPC) | [Celestial](https://open.spotify.com/album/29fC6qBmPstoZxj5ipmkoS) | 2:04 | 2026-08-28 |  |
-| [Cessna 172](https://open.spotify.com/track/12EoeaExc41yiuzodHjzDo) | [taow](https://open.spotify.com/artist/0zsZungCzCXvJ72jpsjUhD) | [Cessna 172](https://open.spotify.com/album/0ix24JqJ9uA38ZkPCwbsJ9) | 2:02 | 2024-01-23 |  |
-| [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 | 2023-09-08 |  |
+| [Cessna 172](https://open.spotify.com/track/12EoeaExc41yiuzodHjzDo) | [taow](https://open.spotify.com/artist/0zsZungCzCXvJ72jpsjUhD) | [Cessna 172](https://open.spotify.com/album/0ix24JqJ9uA38ZkPCwbsJ9) | 2:02 | 2024-01-23 | 2026-09-11 |
+| [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 | 2023-09-08 | 2026-09-11 |
 | [Change of Pace](https://open.spotify.com/track/3PdpLtPLmGCJTCnwdzrcLQ) | [Gaël Isolée](https://open.spotify.com/artist/7BiXGun6Yv7YNJZKflQtOh) | [Change of Pace](https://open.spotify.com/album/4x8Fql13IgdoJPglqXzEVz) | 2:21 | 2025-02-28 | 2026-05-06 |
 | [Changing Seasons](https://open.spotify.com/track/3wcTajkT6ps7nxRTwd3opj) | [Hello Carmelo](https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC) | [Changing Seasons](https://open.spotify.com/album/6PP8sVuY60He4UpIzZ944x) | 2:32 | 2025-11-17 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2021-11-11 | 2022-05-11 |
@@ -284,6 +285,7 @@
 | [Lovers](https://open.spotify.com/track/54z9WnBPJSfWtgFNNHsTB4) | [Bliques](https://open.spotify.com/artist/5HGkz2qKMEMXyL34ngcrGq) | [Lovers](https://open.spotify.com/album/212DIANsjr72ca0cctb8kR) | 2:19 | 2026-08-28 |  |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2021-11-11 | 2025-03-01 |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2021-11-11 | 2023-05-27 |
+| [Lumiere](https://open.spotify.com/track/6jnNNCyxrACsihUiOfDEqe) | [Mont Bleu](https://open.spotify.com/artist/3degLYRjAtBsjVJ5wqipSS) | [Lumiere](https://open.spotify.com/album/5WyJGZIEoZYtALc2rWOKqe) | 2:29 | 2026-09-10 |  |
 | [Lumina Mov](https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC) | [Undeva Ploua](https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga) | [Lucid Moments](https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV) | 1:51 | 2022-02-10 | 2023-07-29 |
 | [Luna](https://open.spotify.com/track/3K24SOeQymC34pXPJq2ian) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Luna](https://open.spotify.com/album/6HMxIJa3vbn5re4tapLD34) | 3:01 | 2021-11-11 | 2022-04-15 |
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2021-11-11 | 2022-01-22 |
@@ -334,6 +336,7 @@
 | [Night At A Cafe](https://open.spotify.com/track/4zHe6IYMmpRDgsrJbN7EyM) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Night At A Cafe](https://open.spotify.com/album/0Cbsb88bAMToYq9s92ByzM) | 2:22 | 2026-05-05 | 2026-06-05 |
 | [Night in Manhattan](https://open.spotify.com/track/5pUbSE7eZkHBYcETMHilb9) | [Chrome Hours](https://open.spotify.com/artist/78YpGUYzh28JlB6RGSDvru) | [Night in Manhattan](https://open.spotify.com/album/5Di55ac17lK7ne5o8V3mbq) | 2:27 | 2025-11-17 |  |
 | [Nightcalls](https://open.spotify.com/track/0HslrDzet8HAO3QQfb4kW7) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [Nightcalls](https://open.spotify.com/album/5VNxQ0WmTBegymVjTYUVC4) | 2:19 | 2026-08-28 |  |
+| [Nightfall Mood](https://open.spotify.com/track/1ZWmuGGA5UZPf9mTDVgfcP) | [Soft Haze Union](https://open.spotify.com/artist/5dsZV0zM0Hie57m1l31ERn) | [Nightfall Mood](https://open.spotify.com/album/7kAXU2EZXwgvMh1yZRWe6S) | 2:41 | 2026-09-10 |  |
 | [nighttime](https://open.spotify.com/track/2YOaFvCZfrHtJ89k6dkgv2) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [nighttime](https://open.spotify.com/album/0x9BSrjC7vcEyJ7B4srQp9) | 3:09 | 2024-12-20 |  |
 | [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 | 2023-03-10 | 2025-12-20 |
 | [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 | 2022-09-02 |
@@ -373,7 +376,7 @@
 | [Peaches & Cream](https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Peaches & Cream](https://open.spotify.com/album/7jjZhJW3zP3kZ6mEQHHu74) | 3:36 | 2021-11-11 | 2025-04-26 |
 | [Phenomena](https://open.spotify.com/track/5OLjlHSGRLwqY2Dkkry3Ab) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Phenomena](https://open.spotify.com/album/1IiNa9W4KiIhAZjZiZA2vK) | 2:14 | 2026-08-28 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 | 2023-08-12 |
-| [Picanted Please](https://open.spotify.com/track/7pjJMysgEL8gwyIaaPokSq) | [Muun Drift](https://open.spotify.com/artist/0j8VxJiuUxKAf66J8ngkk5) | [Picanted Please](https://open.spotify.com/album/3d7rEI9uUas5zFhgO69eov) | 2:15 | 2025-09-12 |  |
+| [Picanted Please](https://open.spotify.com/track/7pjJMysgEL8gwyIaaPokSq) | [Muun Drift](https://open.spotify.com/artist/0j8VxJiuUxKAf66J8ngkk5) | [Picanted Please](https://open.spotify.com/album/3d7rEI9uUas5zFhgO69eov) | 2:15 | 2025-09-12 | 2026-09-11 |
 | [Picking Up](https://open.spotify.com/track/4pqm5iHPtHAHSwyAWnmIi1) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Picking Up](https://open.spotify.com/album/1PikbvLSFTc0eXbwSlOWNb) | 2:38 | 2023-04-28 | 2025-12-31 |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 | 2025-11-18 |
 | [Pinch Punch](https://open.spotify.com/track/1gmfpLdj099PQIZ8S9tz94) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Pinch Punch](https://open.spotify.com/album/6rO4FmexBBwdyqXMRwYUAT) | 2:55 | 2022-07-29 | 2023-07-22 |
@@ -423,7 +426,7 @@
 | [Santorini](https://open.spotify.com/track/6VGUeTXGsyKU44hkPtAqHY) | [Beau Vallon](https://open.spotify.com/artist/5K0wrtw39gjYV1Gf63auL4) | [Santorini](https://open.spotify.com/album/19kbmsNTquJGW3l5f0y0Vn) | 2:50 | 2025-02-07 |  |
 | [Savannah](https://open.spotify.com/track/3TT6GWoGI0jNfUY6d8vfMV) | [Luminez](https://open.spotify.com/artist/2F4pWWLPG7lbACO3RUBjoQ) | [Savannah](https://open.spotify.com/album/3FFa5Tq4g8P7Dl4L2c0cPC) | 2:16 | 2025-11-17 |  |
 | [Savant](https://open.spotify.com/track/3sbDyYhE990JYdeWP8632f) | [Sun Fighters](https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S) | [Savant](https://open.spotify.com/album/4Qx1yn4SlalgKKLFkVQsFp) | 2:00 | 2026-05-05 |  |
-| [Schoolyard](https://open.spotify.com/track/1hc24rXcFhG5cZZvA96vDC) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Schoolyard](https://open.spotify.com/album/3eogy3j6WQcXWDFWsLmnQV) | 2:26 | 2025-12-19 |  |
+| [Schoolyard](https://open.spotify.com/track/1hc24rXcFhG5cZZvA96vDC) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Schoolyard](https://open.spotify.com/album/3eogy3j6WQcXWDFWsLmnQV) | 2:26 | 2025-12-19 | 2026-09-11 |
 | [Screen Time](https://open.spotify.com/track/0lJkobiOBH14Vw9Jznljz2) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Screen Time](https://open.spotify.com/album/7sL0OyfCoi60bpIDVKMRij) | 2:33 | 2021-11-11 | 2022-05-11 |
 | [Sea Me](https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9) | [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Sea Me](https://open.spotify.com/album/2wxPyv4sSWaC0DxI6XILkq) | 2:36 | 2022-10-07 | 2024-11-09 |
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2021-11-11 | 2023-03-18 |
@@ -447,6 +450,7 @@
 | [skates on](https://open.spotify.com/track/4hk78Wkxqc4Jxckn4hzNSq) | [Calvian](https://open.spotify.com/artist/1YvCNyjRG7ZhIZXdSgDSXc) | [skates on](https://open.spotify.com/album/0s6FZOXNb8ufSZe4mF4LFD) | 2:37 | 2025-09-12 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-11-11 | 2022-04-15 |
 | [Slow Day](https://open.spotify.com/track/0bPMdY9pBJROlgE2x3HI61) | [Cafe Juno](https://open.spotify.com/artist/4YNKtLMm2rIchOD9vhevJc) | [Slow Day](https://open.spotify.com/album/15cs8NtXc4TZRJOMzXASz9) | 2:36 | 2026-05-05 |  |
+| [So it Goes](https://open.spotify.com/track/2fwXWu7GW6k2BZCGuGvqpe) | [Phil Axes](https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu) | [So it Goes](https://open.spotify.com/album/4bQIeWsHgKddNuRpoOa8ga) | 2:13 | 2026-09-10 |  |
 | [soft bay](https://open.spotify.com/track/04efmW6Lew9Gtx5Ob1kiwL) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [soft bay](https://open.spotify.com/album/5O3Ki1xAAGOh3mTaXhJFxr) | 2:54 | 2022-09-16 | 2025-04-26 |
 | [Soft Focus](https://open.spotify.com/track/0SnJLTg6IdLh5FunIbH7cY) | [Bare Resonance](https://open.spotify.com/artist/1fKCu7sONna4yjdFZA4xww) | [Soft Focus](https://open.spotify.com/album/1RoZ9VClm6AVYXXA5fH6Jt) | 2:17 | 2026-08-28 |  |
 | [SolarPulse](https://open.spotify.com/track/4wnoadP7CtZHKqdDeIzOCM) | [Midnight Nexus](https://open.spotify.com/artist/538n6ozXBD9CmWLTo3pLDF) | [SolarPulse](https://open.spotify.com/album/1xMUhj8cxscFJ83g8oTr5K) | 2:08 | 2025-04-25 |  |

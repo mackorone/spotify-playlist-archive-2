@@ -1,12 +1,12 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: manifest x Ajda Pekkan",
-  "num_followers": 292728,
+  "num_followers": 292780,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOofusIZtXoRpu5nA5rM9VhGiQQE",
+  "snapshot_id": "AAAAAACX3HgNIssrMZo6IHpt8kNVPBRY",
   "tracks": [
     {
       "added_at": "2026-09-09 11:06:16",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-09-09 11:06:16",
       "album": {
-        "name": "5 YILDIZ",
-        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        }
-      ],
-      "duration_ms": 90451,
-      "name": "5 YILDIZ",
-      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
-    },
-    {
-      "added_at": "2026-09-09 11:06:16",
-      "album": {
         "name": "Ba\u015fa Bela",
         "url": "https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8"
       },
@@ -339,6 +319,22 @@
       "duration_ms": 154081,
       "name": "Ba\u015fa Bela",
       "url": "https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj"
+    },
+    {
+      "added_at": "2026-09-09 11:06:16",
+      "album": {
+        "name": "Ha Leylim",
+        "url": "https://open.spotify.com/album/1ymhtkA6s0diNC71vDoZFL"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "duration_ms": 216397,
+      "name": "Ha Leylim",
+      "url": "https://open.spotify.com/track/75WVsYxlIGjuTiCl2roWlQ"
     },
     {
       "added_at": "2026-09-09 11:06:16",
@@ -367,18 +363,22 @@
     {
       "added_at": "2026-09-09 11:06:16",
       "album": {
-        "name": "Ha Leylim",
-        "url": "https://open.spotify.com/album/1ymhtkA6s0diNC71vDoZFL"
+        "name": "5 YILDIZ",
+        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
       },
       "artists": [
         {
-          "name": "Mabel Matiz",
-          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         }
       ],
-      "duration_ms": 216397,
-      "name": "Ha Leylim",
-      "url": "https://open.spotify.com/track/75WVsYxlIGjuTiCl2roWlQ"
+      "duration_ms": 90451,
+      "name": "5 YILDIZ",
+      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
     },
     {
       "added_at": "2026-09-09 11:06:16",

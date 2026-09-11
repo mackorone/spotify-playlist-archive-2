@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Adfbigga, Yenko Forever, Sinco en meer\u2026",
+  "description": "LV, VL Disappear, YV, Riffi, Krulle en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 118188,
       "name": "$EXY",
       "url": "https://open.spotify.com/track/6WAr4kqaqZXpiSUbvDOkeW"
+    },
+    {
+      "album": {
+        "name": "'T Moest Echt Zo Zijn",
+        "url": "https://open.spotify.com/album/4mX4nvMn4GAiKviF2J5h39"
+      },
+      "artists": [
+        {
+          "name": "SHEP",
+          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "'T Moest Echt Zo Zijn",
+      "url": "https://open.spotify.com/track/7jEj8ZgKCfLT7pg8oQjpcT"
     },
     {
       "album": {
@@ -74,7 +92,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 136538,
       "name": "10/10",
       "url": "https://open.spotify.com/track/61FE4JNjBbyh2z0y6oVCJO"
@@ -194,6 +212,24 @@
       "duration_ms": 152727,
       "name": "101",
       "url": "https://open.spotify.com/track/5iagAmyHevYQhpBRFRiJ0F"
+    },
+    {
+      "album": {
+        "name": "101 Punchlines",
+        "url": "https://open.spotify.com/album/5JxC4T5U7JqozwG3udsWhN"
+      },
+      "artists": [
+        {
+          "name": "Yannish",
+          "url": "https://open.spotify.com/artist/19nsK6rkGX7Qu6u9Uc3LgQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85233,
+      "name": "101 Punchlines",
+      "url": "https://open.spotify.com/track/4e772zoq1q2GohZ3hex8jP"
     },
     {
       "album": {
@@ -1533,6 +1569,36 @@
     },
     {
       "album": {
+        "name": "Baddie\u2019s Hier",
+        "url": "https://open.spotify.com/album/31udnukFxYubpQltKWkZ6A"
+      },
+      "artists": [
+        {
+          "name": "YV",
+          "url": "https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd"
+        },
+        {
+          "name": "Gettalot",
+          "url": "https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133326,
+      "name": "Baddie\u2019s Hier",
+      "url": "https://open.spotify.com/track/5Fr0m8RZP4bueLTiD86MN3"
+    },
+    {
+      "album": {
         "name": "BAKAYOKO (feat. Freezz, BFLClyde & Highguest)",
         "url": "https://open.spotify.com/album/1WnZiZgp1TjZAODW5NwaLw"
       },
@@ -1856,6 +1922,28 @@
       "duration_ms": 125000,
       "name": "Beter Zo",
       "url": "https://open.spotify.com/track/2ypLSnSq5by0JvEXvadgX2"
+    },
+    {
+      "album": {
+        "name": "Bezig",
+        "url": "https://open.spotify.com/album/0MmSCrcGOyvAq3dNOgsHzg"
+      },
+      "artists": [
+        {
+          "name": "FOCUS",
+          "url": "https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Bezig",
+      "url": "https://open.spotify.com/track/1ftKIzEbUiGUO7UN4Pjpom"
     },
     {
       "album": {
@@ -2690,7 +2778,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167213,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/6vf95Kg34gBYJzc4DBKweD"
@@ -2782,6 +2870,28 @@
       "duration_ms": 124221,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/56DizN16m8zIxLqBwHJDED"
+    },
+    {
+      "album": {
+        "name": "Clock it",
+        "url": "https://open.spotify.com/album/6E0VmUqC0izxyLYiu558Hi"
+      },
+      "artists": [
+        {
+          "name": "PJ Scoolio",
+          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
+        },
+        {
+          "name": "D-opss",
+          "url": "https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126687,
+      "name": "Clock it",
+      "url": "https://open.spotify.com/track/6ePR6FK83GfCMgFCqVWHwN"
     },
     {
       "album": {
@@ -3052,6 +3162,24 @@
       "duration_ms": 125454,
       "name": "D.I.M",
       "url": "https://open.spotify.com/track/5hx7VG8TAvy3sW9DuYKQxA"
+    },
+    {
+      "album": {
+        "name": "D2F",
+        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123273,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
     },
     {
       "album": {
@@ -3630,6 +3758,24 @@
       "duration_ms": 203265,
       "name": "Discussies en Gezeik",
       "url": "https://open.spotify.com/track/7zSmRAYfMpmXBvhWhCtOVd"
+    },
+    {
+      "album": {
+        "name": "DIXI",
+        "url": "https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS"
+      },
+      "artists": [
+        {
+          "name": "TOBI",
+          "url": "https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139370,
+      "name": "DIXI",
+      "url": "https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD"
     },
     {
       "album": {
@@ -4390,7 +4536,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141436,
       "name": "FCK IT UP",
       "url": "https://open.spotify.com/track/0ySyl6wtLliJXqr5jBn2eU"
@@ -5094,7 +5240,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 162222,
       "name": "Ghetto Youth",
       "url": "https://open.spotify.com/track/3Le72fHDL2jUAkiTl84vEi"
@@ -5461,6 +5607,28 @@
     },
     {
       "album": {
+        "name": "Haast",
+        "url": "https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
+        },
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Haast",
+      "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
+    },
+    {
+      "album": {
         "name": "HAKIMI",
         "url": "https://open.spotify.com/album/532Xd7ZKo2gXyBYxU2y7U2"
       },
@@ -5559,6 +5727,40 @@
     },
     {
       "album": {
+        "name": "HASJ WIET LEAN (feat. lostboyshawty & DIM)",
+        "url": "https://open.spotify.com/album/0mdBdO3rGMzRhg5FYuFu0D"
+      },
+      "artists": [
+        {
+          "name": "prodbyflix",
+          "url": "https://open.spotify.com/artist/65b2zfixVLfMzxZfp2ol3m"
+        },
+        {
+          "name": "Benaja",
+          "url": "https://open.spotify.com/artist/04hhcLaopGwW5RJB9pwEgU"
+        },
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/0fPpQ1hXjPTn9syEhUDo09"
+        },
+        {
+          "name": "lostboyshawty",
+          "url": "https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ"
+        },
+        {
+          "name": "DIM",
+          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "HASJ WIET LEAN (feat. lostboyshawty & DIM)",
+      "url": "https://open.spotify.com/track/5rdK6hXaRqbkAB7xT135Se"
+    },
+    {
+      "album": {
         "name": "Haten",
         "url": "https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I"
       },
@@ -5628,7 +5830,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160406,
       "name": "Hchouma",
       "url": "https://open.spotify.com/track/1lY4ev4ihSy5MqbYkqnn8U"
@@ -5994,7 +6196,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 124081,
       "name": "HOKAY",
       "url": "https://open.spotify.com/track/7oKeRvrMa3gMY0o9Bbm8Tm"
@@ -6404,7 +6606,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158709,
       "name": "IN LOVE MET JOU",
       "url": "https://open.spotify.com/track/6Uc1o0nF1ekayNoN3fD9U7"
@@ -6864,7 +7066,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 183225,
       "name": "KESBEKE",
       "url": "https://open.spotify.com/track/7mYuhYqjjSbxm3zISu79bp"
@@ -7390,7 +7592,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 155076,
       "name": "LAAT ME ZIEN",
       "url": "https://open.spotify.com/track/3kTXxHyl77r79KLGzO6Qdr"
@@ -8344,7 +8546,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 126116,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/1t5RI1pimuELwBJUdLZea3"
@@ -8520,6 +8722,36 @@
       "duration_ms": 142523,
       "name": "Matcha & Labubu",
       "url": "https://open.spotify.com/track/2r71IEmb9lnTSIRCJ81Xjh"
+    },
+    {
+      "album": {
+        "name": "Matcha & Labubu (Remix)",
+        "url": "https://open.spotify.com/album/3yTwfssWK6UPvm4DVzoRHH"
+      },
+      "artists": [
+        {
+          "name": "Chrisjeboy",
+          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
+        },
+        {
+          "name": "Loopey",
+          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
+        },
+        {
+          "name": "$KEER&BOO$",
+          "url": "https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B"
+        },
+        {
+          "name": "YGN KAMII",
+          "url": "https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198994,
+      "name": "Matcha & Labubu - Remix",
+      "url": "https://open.spotify.com/track/1vroYCgoKNVQ7syMBdS7JN"
     },
     {
       "album": {
@@ -8808,7 +9040,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 140485,
       "name": "MiddeLVinGaZ",
       "url": "https://open.spotify.com/track/0j7DgCG8Pqq1Y9Cl7mLzfZ"
@@ -9485,6 +9717,24 @@
     },
     {
       "album": {
+        "name": "Narcist",
+        "url": "https://open.spotify.com/album/6zG0EOzUel83kH3h7RvTzb"
+      },
+      "artists": [
+        {
+          "name": "Amani Whittie",
+          "url": "https://open.spotify.com/artist/3dMqDjk4wP3C8yC0s8eru5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121752,
+      "name": "Narcist",
+      "url": "https://open.spotify.com/track/4wSwdlW8tbJJxSihYxDXdt"
+    },
+    {
+      "album": {
         "name": "Nasty Valentine",
         "url": "https://open.spotify.com/album/2LtOnkde4KSlgQG2AAVzTv"
       },
@@ -9518,7 +9768,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 187055,
       "name": "Neppe Liefde",
       "url": "https://open.spotify.com/track/3ctRq9dS0WLC0VcYngheph"
@@ -10017,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/6YlREZf2fV3P4BplAysyCX"
+      },
+      "artists": [
+        {
+          "name": "A3",
+          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/5u0CBegNBOFwjBwtqoMJgU"
+    },
+    {
+      "album": {
         "name": "Nog Steeds Aan",
         "url": "https://open.spotify.com/album/59xRoRVuIhiN44PvBN0bsE"
       },
@@ -10032,7 +10300,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 135211,
       "name": "Nog Steeds Aan",
       "url": "https://open.spotify.com/track/4SmhQ1IqL3xpIEMtc3sRU8"
@@ -11032,7 +11300,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 149243,
       "name": "Plenty Bottles",
       "url": "https://open.spotify.com/track/4ld97cTGR2XMPBoTUszChr"
@@ -11610,7 +11878,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148514,
       "name": "Richting BE",
       "url": "https://open.spotify.com/track/0eJXUFHGlWd8vOcmfBTKY5"
@@ -11994,7 +12262,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156000,
       "name": "SIDE HUSTLE",
       "url": "https://open.spotify.com/track/0PzUpGxpmrYIkxZwlyno4h"
@@ -13216,6 +13484,24 @@
       "duration_ms": 136363,
       "name": "Traangas",
       "url": "https://open.spotify.com/track/5qSMTV0h230E9fMdQSw5xn"
+    },
+    {
+      "album": {
+        "name": "QUARTERBACK",
+        "url": "https://open.spotify.com/album/0mz1WZQyuEsbc1oTh6NvY5"
+      },
+      "artists": [
+        {
+          "name": "Riffi",
+          "url": "https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/5SRoSeQTeEVL9krVBTF2em"
     },
     {
       "album": {
@@ -14972,7 +15258,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 146165,
       "name": "Yellow Stone",
       "url": "https://open.spotify.com/track/3Ccg18pGMSRh8W9hIVJ5aC"
@@ -15100,7 +15386,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 127397,
       "name": "ZEGGEN MIJ NIETS",
       "url": "https://open.spotify.com/track/6XtnWVIlwabS2a8qXSMm5U"
@@ -15144,7 +15430,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175788,
       "name": "Ziek",
       "url": "https://open.spotify.com/track/0BllBZc5gGIZ7K7sK9EFQZ"

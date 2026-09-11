@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss",
-  "num_followers": 156868,
+  "num_followers": 156878,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWsCBRzW62QxC4up77dXl1U1u60",
+  "snapshot_id": "AAAAAEZKrJTWj+K682NJwKpVgg4xBPir",
   "tracks": [
     {
       "added_at": "2026-09-04 03:03:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
-      },
-      "artists": [
-        {
-          "name": "Dnaipes",
-          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
-        }
-      ],
-      "duration_ms": 226624,
-      "name": "Alquimia",
-      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
         "name": "Tudo Agora",
         "url": "https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 249023,
       "name": "Tudo Agora",
       "url": "https://open.spotify.com/track/0l8pT5SeKajbPoWsIHPpAF"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
+      },
+      "artists": [
+        {
+          "name": "Dnaipes",
+          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
+        }
+      ],
+      "duration_ms": 226624,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
     },
     {
       "added_at": "2026-09-04 03:03:14",

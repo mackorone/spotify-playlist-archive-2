@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡\. Cover: Justen de Wildt
 
-158 songs - 7 hr 26 min
+159 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 | 2025-07-01 | 2025-12-07 |
 | [Blijven Slapen](https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijven Slapen](https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL) | 2:50 | 2025-07-01 | 2026-08-14 |
 | [Blikkendag](https://open.spotify.com/track/58UAQKAuiIYgixJ01BVBZc) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/1BBeHxKMTWkSOb8Qc6FTuY) | 3:29 | 2026-08-17 |  |
+| [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 | 2026-09-10 |  |
 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 | 2025-07-01 | 2026-03-13 |
 | [Bootje](https://open.spotify.com/track/5d2IGh09FDfvqixHtIXjv8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Engel](https://open.spotify.com/album/6Lx749ebGXdmDxQ0jXUffV) | 2:05 | 2026-04-07 | 2026-07-02 |
 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 | 2026-07-07 | 2026-08-18 |
@@ -130,7 +131,7 @@
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2026-02-03 |  |
 | [Treur Niet \(Ode Aan Het Leven\)](https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Golven](https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO) | 3:44 | 2025-07-01 | 2026-05-27 |
 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 | 2025-07-01 | 2026-07-08 |
-| [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-04-07 |  |
+| [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-04-07 | 2026-09-11 |
 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 | 2025-07-01 | 2026-04-08 |
 | [Van Mij Alleen](https://open.spotify.com/track/4B3fPWhwWmAdRwNtwEaCLq) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Van Mij Alleen](https://open.spotify.com/album/2oesc3AsrVMh8NuqbgUIE4) | 2:17 | 2026-04-07 |  |
 | [Van Mij Is Van Mij](https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Van Mij Is Van Mij](https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4) | 2:58 | 2026-07-01 |  |

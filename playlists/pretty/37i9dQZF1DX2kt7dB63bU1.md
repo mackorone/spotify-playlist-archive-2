@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,733 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,776 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Reste un peu \- Radio Edit](https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG) | [Caloé](https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL) | [Reste un peu \(Radio Edit\)](https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ) | 3:05 |
 | 100 | [How About You](https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl), [Nikki Giovanni](https://open.spotify.com/artist/06rw1GLIJu1xfIgO6iI7RG) | [Javon & Nikki Go To The Movies](https://open.spotify.com/album/01YTAunRobOOZLaOpuNGrF) | 3:38 |
 
-Snapshot ID: `AAAAAH8j4n9UoDHX78olw4kIo77HCWd0`
+Snapshot ID: `AAAAAKm9xQ55lBFib1Whd6p0I50pmp74`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,168,155 likes - 82 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,167,639 likes - 82 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 35 | [Do What's Right \(Happy\)](https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 3:11 |
 | 36 | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs) | 2:58 |
 | 37 | [Work It Out](https://open.spotify.com/track/6NWQ1Nsp49L6e9eBvcIf5Y) | [Modern Cult](https://open.spotify.com/artist/50pL5o4gSp21B1hbAmwyRY) | [Work It Out](https://open.spotify.com/album/0LmmKqEVbEuy7VVPOwyQhX) | 3:09 |
-| 38 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 38 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 39 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |
 | 40 | [...hospice](https://open.spotify.com/track/5XuFwlfREzx9PQ5qNnSYDQ) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Injury Episode](https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2) | 4:13 |
 | 41 | [green room](https://open.spotify.com/track/2GRcqBIDI1idZSglUppNx1) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [green room](https://open.spotify.com/album/5kdjaCkHduk69kvZvluWtQ) | 3:19 |

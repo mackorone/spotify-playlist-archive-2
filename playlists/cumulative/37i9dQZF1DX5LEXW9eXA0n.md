@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,793 songs - 4 day 20 hr 27 min
+1,794 songs - 4 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 | 2023-12-14 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
 | [Back then we \(Vocal\. 이윤희\)](https://open.spotify.com/track/2X0z5Bmo3QcO8kiBzruyXS) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [Back then we](https://open.spotify.com/album/1EoNIpR1tiHPNIIyW2UOx4) | 3:32 | 2023-02-27 | 2023-06-23 |
+| [Back to Me](https://open.spotify.com/track/5vZ4dZBMaqsmFlAlmIGszB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Back to Me](https://open.spotify.com/album/0ds9xCvb2OGnbPwbnpMoPt) | 2:59 | 2026-09-11 |  |
 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 | 2022-10-14 | 2023-01-21 |
 | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 | 2022-09-29 |  |
 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 | 2022-10-27 |  |
@@ -1448,7 +1449,7 @@
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-23 | 2022-07-08 |
 | [The Sound Of Rain](https://open.spotify.com/track/3FQzdACTmhY6q0W1eXtj9i) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Singing Yoon Do Hyun](https://open.spotify.com/album/55moFj46U2geTKCj35tZXE) | 4:27 | 2024-03-15 | 2024-07-12 |
 | [The star](https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Petra](https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw) | [The star](https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg) | 4:03 | 2022-12-26 | 2023-02-09 |
-| [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/track/3CBO1W2vQc7Kc4d88hjiSF) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/album/39pJ4twhqkZ4brlsIAaLdl) | 3:55 | 2026-03-18 |  |
+| [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/track/3CBO1W2vQc7Kc4d88hjiSF) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/album/39pJ4twhqkZ4brlsIAaLdl) | 3:55 | 2026-03-18 | 2026-09-11 |
 | [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 | 2022-10-06 | 2023-01-21 |
 | [The Truth Untold](https://open.spotify.com/track/48XfojJC87VKLlUotYV0Gm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-12-20 | 2022-03-01 |
 | [The unbearable lightness of being](https://open.spotify.com/track/381Qd2YpkNvAbKIlkjyGKb) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [The unbearable lightness of being](https://open.spotify.com/album/4X5nMNxYiCVroaXzEsUfTh) | 4:18 | 2022-07-07 | 2022-08-13 |

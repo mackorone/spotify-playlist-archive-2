@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACsdT38g3zZA+0mCUoFx6zn",
+  "snapshot_id": "aqChgAAAAACBrX9mFoAV4jc/cWepofxl",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambition",
-        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
       "artists": [
         {
@@ -348,17 +348,13 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 302546,
-      "name": "Ambition (feat. Meek Mill & Rick Ross)",
-      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
+      "duration_ms": 395950,
+      "name": "The Matrimony (feat. Usher)",
+      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
     },
     {
       "added_at": null,
@@ -383,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
       "artists": [
         {
@@ -392,13 +388,17 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 395950,
-      "name": "The Matrimony (feat. Usher)",
-      "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
+      "duration_ms": 302546,
+      "name": "Ambition (feat. Meek Mill & Rick Ross)",
+      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
     },
     {
       "added_at": null,
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.W.A",
-        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 230413,
-      "name": "N.W.A",
-      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+      "duration_ms": 232661,
+      "name": "The Body (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+        "name": "N.W.A",
+        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 232661,
-      "name": "The Body (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
+      "duration_ms": 230413,
+      "name": "N.W.A",
+      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drew Barrymore (feat. Wale)",
-        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216246,
-      "name": "Drew Barrymore (feat. Wale)",
-      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 236000,
       "name": "Feel the Love (feat. Wale)",
       "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drew Barrymore (feat. Wale)",
+        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216246,
+      "name": "Drew Barrymore (feat. Wale)",
+      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     },
     {
       "added_at": null,
@@ -995,30 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Over The Rainbow",
-        "url": "https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04"
-      },
-      "artists": [
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "J'TA",
-          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Peace Of Mind (feat. Wale & J'TA)",
-      "url": "https://open.spotify.com/track/7IoN6gu0AcOGGcijdp8XiY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -1043,22 +1019,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04"
       },
       "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "J'TA",
+          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
         }
       ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
+      "duration_ms": 217731,
+      "name": "Peace Of Mind (feat. Wale & J'TA)",
+      "url": "https://open.spotify.com/track/7IoN6gu0AcOGGcijdp8XiY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     }
   ],
   "unique_name": "This Is Wale",

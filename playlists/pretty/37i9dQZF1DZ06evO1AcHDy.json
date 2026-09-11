@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37312,
+  "num_followers": 37309,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAAWMcFyQpPBZSVIwgfMQB4N",
+  "snapshot_id": "aqChgAAAAAD/YAEIlzz+R2hKJPebmMOB",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 60321,
-      "name": "Time Out - Interlude",
-      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
+      "duration_ms": 205224,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
       "duration_ms": 236078,
       "name": "This Hell",
       "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 195472,
+      "name": "10-20-40",
+      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
     },
     {
       "added_at": null,
@@ -175,22 +191,6 @@
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 195472,
-      "name": "10-20-40",
-      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Leon Majcen
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,242 likes - 102 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,313 likes - 102 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 101 | [Youth and Dreams](https://open.spotify.com/track/313fLJRcDdlY6ROUklUo5k) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:42 |
 | 102 | [Alternate Ending](https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Alternate Ending](https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ) | 3:10 |
 
-Snapshot ID: `AAAAAFAKHPi2v3qJkZm4+SK98K2W3cLf`
+Snapshot ID: `AAAAAG5pJoZyt1x4kX+SUrRefshXG18w`

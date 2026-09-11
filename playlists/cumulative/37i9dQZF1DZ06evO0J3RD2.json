@@ -268,10 +268,28 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 260840,
       "name": "Everyone I've Ever Been",
       "url": "https://open.spotify.com/track/6WJzH3L0fS6a14wa8xC84c"
+    },
+    {
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207324,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/0y7psOQPFGBxLSkABDtmVx"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207324,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg"

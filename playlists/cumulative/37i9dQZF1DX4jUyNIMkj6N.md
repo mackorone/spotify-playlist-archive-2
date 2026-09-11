@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-431 songs - 1 day 1 hr 51 min
+432 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 | 2022-07-14 | 2023-11-24 |
 | [Away](https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic) | 2:58 | 2021-12-02 | 2022-07-29 |
 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 | 2024-03-14 | 2024-11-08 |
-| [Backside](https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Backside](https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04) | 2:27 | 2026-07-30 |  |
+| [Backside](https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Backside](https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04) | 2:27 | 2026-07-30 | 2026-09-11 |
 | [Bad Omen](https://open.spotify.com/track/00cUN2prFK7nR8UZEyRc0r) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Bad Omen](https://open.spotify.com/album/0LTHF3pPSEJN7Rp4TJ0b1R) | 3:22 | 2026-03-26 | 2026-08-21 |
 | [Baltic Sea](https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ) | [Firstnighter](https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q) | [100 words for fear](https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D) | 3:00 | 2021-12-02 | 2022-07-26 |
 | [Beautiful Woman](https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R) | 3:33 | 2024-08-01 | 2026-04-03 |
@@ -282,6 +282,7 @@
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 | 2025-04-04 |
 | [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 | 2024-06-05 |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
+| [Overboda](https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Overboda](https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd) | 3:11 | 2026-09-10 |  |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 | 2024-10-17 | 2025-12-05 |
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 | 2024-10-13 |

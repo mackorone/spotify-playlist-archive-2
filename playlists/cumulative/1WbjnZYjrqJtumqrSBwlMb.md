@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,361 songs - 3 day 11 hr 49 min
+1,362 songs - 3 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Medieval](https://open.spotify.com/track/3Gxn4tsd5p3VMXXr3uJYlv) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 5:33 | 2026-09-04 |  |
 | [MELISA](https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 3:36 | 2026-02-03 |  |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 |  |
+| [Meta Cognition](https://open.spotify.com/track/2dqcka9YqNjHZ6humCpUXG) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Meta Cognition](https://open.spotify.com/album/5TFGmn8KOjznFiXS3Pl5YH) | 3:14 | 2026-09-11 |  |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-15 |  |
 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 | 2024-05-23 |  |
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2019-12-30 |  |

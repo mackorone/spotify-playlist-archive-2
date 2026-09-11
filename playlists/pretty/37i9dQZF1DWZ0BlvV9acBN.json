@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148804,
+  "num_followers": 148805,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "KINTSUGI (DELUXE)",
+        "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "No Princ\u00edpio",
+      "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 250600,
       "name": "Palavra Antiga - Ao Vivo",
       "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Band",
-          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "KINTSUGI (DELUXE)",
-        "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+          "name": "Stone Band",
+          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
         }
       ],
-      "duration_ms": 166812,
-      "name": "No Princ\u00edpio",
-      "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2026-08-03 21:13:53",

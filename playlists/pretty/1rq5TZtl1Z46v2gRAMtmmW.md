@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,992 likes - 93 songs - 5 hr 19 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,989 likes - 94 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 91 | [One More Dance](https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [One More Dance](https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz) | 3:50 |
 | 92 | [Never Get Enough](https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Get Enough](https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM) | 3:55 |
 | 93 | [1234](https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1234](https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP) | 3:09 |
+| 94 | [BPM](https://open.spotify.com/track/3DigB53Tj50WT4RmrS6jW5) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Makala](https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd) | [BPM](https://open.spotify.com/album/1AIjvuzzvreU8AtbJb5Lyh) | 3:18 |
 
-Snapshot ID: `AAASCHkr09WUTorcVESxKEqrTGAU5XdS`
+Snapshot ID: `AAASCTtqLXI1z5aiaz69/5KdF9RVF934`

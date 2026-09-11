@@ -10233,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "I am not the one",
+        "url": "https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk"
+      },
+      "artists": [
+        {
+          "name": "ilhan akkaya",
+          "url": "https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185814,
+      "name": "Cactus heart",
+      "url": "https://open.spotify.com/track/7ijiYwcAp54xjFp6IUnFFO"
+    },
+    {
+      "album": {
         "name": "Cadillac",
         "url": "https://open.spotify.com/album/1rqRib7znfrGefXUJKXf2m"
       },
@@ -63512,6 +63530,24 @@
       "duration_ms": 154871,
       "name": "Scenic Route",
       "url": "https://open.spotify.com/track/1rSfECAMmGeczMFLHq7Ee7"
+    },
+    {
+      "album": {
+        "name": "School",
+        "url": "https://open.spotify.com/album/7tNNzwNjVpM1RG8ePFYbTS"
+      },
+      "artists": [
+        {
+          "name": "The Ineffectuals",
+          "url": "https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850179,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6en8QbNHIj86NMTnbcprqD"
     },
     {
       "album": {

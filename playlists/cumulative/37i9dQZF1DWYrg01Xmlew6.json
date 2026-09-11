@@ -4321,6 +4321,28 @@
     },
     {
       "album": {
+        "name": "G CLASS",
+        "url": "https://open.spotify.com/album/5512xKkjaM75h0sU2FGr3l"
+      },
+      "artists": [
+        {
+          "name": "LM219",
+          "url": "https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ"
+        },
+        {
+          "name": "BoB",
+          "url": "https://open.spotify.com/artist/2C6FBbj6sv8YCtgutAEAzb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137235,
+      "name": "G CLASS",
+      "url": "https://open.spotify.com/track/18VNQBxEiN8XKB3YgyKWPM"
+    },
+    {
+      "album": {
         "name": "GALER & CIMITER",
         "url": "https://open.spotify.com/album/3y1EiSxjHTfYlxpSKGwKS9"
       },
@@ -4786,6 +4808,36 @@
       "duration_ms": 169000,
       "name": "GUAJ (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/3AuxMngBpEvLcnQgkDanyI"
+    },
+    {
+      "album": {
+        "name": "Guapparia (feat. Frezza & Pepp 'O Red)",
+        "url": "https://open.spotify.com/album/7DnxDz3BkGLfaIGYcdz4bA"
+      },
+      "artists": [
+        {
+          "name": "Kepa",
+          "url": "https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg"
+        },
+        {
+          "name": "Manuel Erry",
+          "url": "https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "Pepp 'O Red",
+          "url": "https://open.spotify.com/artist/0wF47dWCTiDlqm5FkNkr1B"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165164,
+      "name": "Guapparia (feat. Frezza & Pepp 'O Red)",
+      "url": "https://open.spotify.com/track/71MY60HAgdEWVt6i6ssl4d"
     },
     {
       "album": {
@@ -5596,7 +5648,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141526,
       "name": "KO",
       "url": "https://open.spotify.com/track/2wsHmUFaim1wAE8HqmwvOn"
@@ -9052,7 +9104,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 168247,
       "name": "Panama (feat. La traviesa malcr\u00eda)",
       "url": "https://open.spotify.com/track/3DdFELMtRQhEb4lXK3fBX6"

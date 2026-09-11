@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172500,
       "name": "Black & Blue - BLK RSE Remix",
       "url": "https://open.spotify.com/track/0kC1G3OmKcJ20D5F9H508Z"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216048,
       "name": "Drown In You",
       "url": "https://open.spotify.com/track/0a067edtuAk4JVKYJqia6a"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/5eu1alU97giffvb8ZBa5mt"
+      },
+      "artists": [
+        {
+          "name": "Magnus Riedel",
+          "url": "https://open.spotify.com/artist/569MQWXrZ3W19PyUEupPJx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/4VGDTR5civVEXw9dCJj4kE"
+    },
+    {
+      "album": {
         "name": "Greenlight",
         "url": "https://open.spotify.com/album/64xjMvMB0ysQiX9gjeMUug"
       },
@@ -2556,6 +2574,36 @@
       "duration_ms": 154218,
       "name": "I Feel Whole",
       "url": "https://open.spotify.com/track/3JYeqQ9Gmruj26KRfp5PhH"
+    },
+    {
+      "album": {
+        "name": "I Like The Bass",
+        "url": "https://open.spotify.com/album/5kC1GnG3FYpOywfDQgYXtm"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Beat & Encore",
+          "url": "https://open.spotify.com/artist/1adDecXRruKUZLVGQvnyyD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174277,
+      "name": "I Like The Bass",
+      "url": "https://open.spotify.com/track/490JFXd511vNs14tNgira4"
     },
     {
       "album": {

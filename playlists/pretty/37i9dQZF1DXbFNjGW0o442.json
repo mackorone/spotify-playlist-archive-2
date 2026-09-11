@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 44066,
+  "num_followers": 44064,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 319743,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Una Temporada en el Invierno",
-        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
-      },
-      "artists": [
-        {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
-        }
-      ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Arder",
         "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 220249,
       "name": "Tu Caminar",
       "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Marea Negra",
         "url": "https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Dime Si (remix)",
-        "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
+        "name": "Mil Gritos Tiene la Noche, Vol. 1",
+        "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
       },
       "artists": [
         {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm"
         }
       ],
-      "duration_ms": 254653,
-      "name": "Dime Si - remix",
-      "url": "https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84"
+      "duration_ms": 269305,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1479,34 +1479,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mil Gritos Tiene la Noche, Vol. 1",
-        "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
+        "name": "Dime Si (remix)",
+        "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
       },
       "artists": [
         {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm"
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
         }
       ],
-      "duration_ms": 269305,
-      "name": "Infierno",
-      "url": "https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Stallone",
-        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
-      },
-      "artists": [
-        {
-          "name": "Stallone",
-          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
-        }
-      ],
-      "duration_ms": 340856,
-      "name": "Drowned",
-      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+      "duration_ms": 254653,
+      "name": "Dime Si - remix",
+      "url": "https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Stallone",
+        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
+      },
+      "artists": [
+        {
+          "name": "Stallone",
+          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
+        }
+      ],
+      "duration_ms": 340856,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Mama, Deja Que Entren por la Ventana los Siete Mares (Remasterizado)",
         "url": "https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El arte de lo eterno",
-        "url": "https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU"
-      },
-      "artists": [
-        {
-          "name": "Nana Arguen",
-          "url": "https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt"
-        }
-      ],
-      "duration_ms": 286675,
-      "name": "Un suspiro",
-      "url": "https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "La Piel Dura",
         "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 123320,
       "name": "No Importa",
       "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "El arte de lo eterno",
+        "url": "https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU"
+      },
+      "artists": [
+        {
+          "name": "Nana Arguen",
+          "url": "https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt"
+        }
+      ],
+      "duration_ms": 286675,
+      "name": "Un suspiro",
+      "url": "https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "El Cerebro",
         "url": "https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 180240,
       "name": "Quiz\u00e1s Hoy",
       "url": "https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     }
   ],
   "unique_name": "Rockeras",

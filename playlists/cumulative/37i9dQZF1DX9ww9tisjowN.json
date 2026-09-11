@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: 9Lana",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Hoshimachi Suisei",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217539,
       "name": "Brand New Drive",
       "url": "https://open.spotify.com/track/2mGu7s8aM1z0YiGMbAIiBs"
@@ -1714,6 +1714,24 @@
       "duration_ms": 199880,
       "name": "Candy Kiss",
       "url": "https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1"
+    },
+    {
+      "album": {
+        "name": "Cantare",
+        "url": "https://open.spotify.com/album/4Fq6qfiK4bBrGPLlESTuUq"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/6DCQHIS4sRR1aBoSiQegyL"
     },
     {
       "album": {
@@ -5357,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx"
+    },
+    {
+      "album": {
         "name": "Starpeggio",
         "url": "https://open.spotify.com/album/4P0fK06vdodkHhWHdmY7ar"
       },
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 353274,
       "name": "LIVING DEAD DINER GIRLS -HALLOWEEN-",
       "url": "https://open.spotify.com/track/08Hty7Sm9hIExaAXcQRtdl"
@@ -7582,7 +7618,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 130770,
       "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
       "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
@@ -8802,7 +8838,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 139200,
       "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY (Vocaloid ver.)",
       "url": "https://open.spotify.com/track/3yCKJlbaX60oX6K4mgurgz"
@@ -9004,6 +9040,36 @@
       "duration_ms": 170595,
       "name": "PARA PARA",
       "url": "https://open.spotify.com/track/2gEoLrQPZowcrjZoETZ3J2"
+    },
+    {
+      "album": {
+        "name": "Party Monster (with Hatsune Miku, Odetari, & \u3055\u305f\u3071\u3093P)",
+        "url": "https://open.spotify.com/album/1yFgFwfDnxQB9iVJt9ql4R"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "\u3055\u305f\u3071\u3093P",
+          "url": "https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Party Monster (with Hatsune Miku, Odetari, & \u3055\u305f\u3071\u3093P)",
+      "url": "https://open.spotify.com/track/6rmpvLs8EEOIA7A2MTT2o3"
     },
     {
       "album": {
@@ -14571,6 +14637,28 @@
     },
     {
       "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af7",
+        "url": "https://open.spotify.com/album/6SBHOST42KWt5IiDsOkx94"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39956,
+      "name": "\u3075\u305f\u3064\u306e\u6728\u99ac (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4qwTW7FLLaXPf7rF7eZt7G"
+    },
+    {
+      "album": {
         "name": "\u3075\u3081\u3064\u306e\u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/5DmARS0mkQCU0zgMy4klEq"
       },
@@ -19715,6 +19803,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u304d\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/4hoLpBzQMsqeju6vB4uuEl"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245262,
+      "name": "\u597d\u304d\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/1R5910Ugt25ZWIJxkDdfIa"
+    },
+    {
+      "album": {
         "name": "\u5984\u60f3\u304d\u3085\u304d\u3085\u3093",
         "url": "https://open.spotify.com/album/3G5h0cnls6Q3vDZvakPXlJ"
       },
@@ -20622,7 +20728,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 289000,
       "name": "\u6674\u3005",
       "url": "https://open.spotify.com/track/0rlxx7HySKpl2LwyOfg2zR"

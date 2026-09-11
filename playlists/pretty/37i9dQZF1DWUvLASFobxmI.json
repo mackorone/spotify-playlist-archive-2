@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios en portada.",
-  "num_followers": 531845,
+  "num_followers": 531840,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJP4EO0tzgP1fg++oVQddAZlESA",
+  "snapshot_id": "AAAAAKxLFWNtfYEHk2KmIkdgR3w1U2XW",
   "tracks": [
     {
       "added_at": "2026-09-04 14:48:12",
@@ -95,22 +95,18 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Noche Perfecta",
-        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -183,18 +179,22 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Fotograf\u00eda",
-        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+        "name": "Noche Perfecta",
+        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 212532,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+      "duration_ms": 204321,
+      "name": "Noche Perfecta",
+      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 166581,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "A La Luz De La luna",
         "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 165212,
       "name": "A La Luz De La luna",
       "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 166581,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
+        "name": "Pata De Perro",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Pata De Perro",
+      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
         "name": "Tu Culpa",
         "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 174641,
       "name": "Tu Culpa",
       "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
-        "name": "Pata De Perro",
-        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Pata De Perro",
-      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "M\u00e9xico Sigue De Pie",
-        "url": "https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 187474,
-      "name": "M\u00e9xico Sigue De Pie",
-      "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Cartera Llena",
         "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
       },
@@ -703,22 +687,6 @@
       "duration_ms": 170573,
       "name": "Cartera Llena",
       "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -739,6 +707,38 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
+        "name": "M\u00e9xico Sigue De Pie",
+        "url": "https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 187474,
+      "name": "M\u00e9xico Sigue De Pie",
+      "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
         "name": "La Madrugada",
         "url": "https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 291801,
       "name": "La Madrugada",
       "url": "https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
-        "name": "Cuando No Estoy",
-        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Cuando No Estoy",
-      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -787,6 +771,22 @@
       "duration_ms": 207777,
       "name": "As\u00ed Es El Amor",
       "url": "https://open.spotify.com/track/6Xgy5U0hBUJsvhFaDodvJN"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Cuando No Estoy",
+        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Cuando No Estoy",
+      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Se Pudo",
         "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 170323,
       "name": "Se Pudo",
       "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Pluma Fina",
-        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 172705,
-      "name": "Pluma Fina",
-      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Dos Pa\u2019 Llevar",
         "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 191333,
       "name": "Dos Pa\u2019 Llevar",
       "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Vida y Libertad",
-        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
-      },
-      "artists": [
-        {
-          "name": "Omar Cardenas",
-          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Lo Que He Vivido",
         "url": "https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 176120,
       "name": "Lo Que He Vivido",
       "url": "https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Vida y Libertad",
+        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
+      },
+      "artists": [
+        {
+          "name": "Omar Cardenas",
+          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "El Preso De Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/4UTq6ASC4p2VWQdkOTc6UG"
-      },
-      "artists": [
-        {
-          "name": "Efrain Toledo y Sus Calentanos",
-          "url": "https://open.spotify.com/artist/7oo9csjE3Ugx8MbUTrBL4N"
-        }
-      ],
-      "duration_ms": 239852,
-      "name": "El Preso De Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/6aVWcjxgUVABqVQRX6HioV"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Quiero Todo Contigo",
         "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 175210,
       "name": "Con Que Me Pagas (En Vivo)",
       "url": "https://open.spotify.com/track/167Gsc6yomj3IwvYOhD7BN"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "El Preso De Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/4UTq6ASC4p2VWQdkOTc6UG"
+      },
+      "artists": [
+        {
+          "name": "Efrain Toledo y Sus Calentanos",
+          "url": "https://open.spotify.com/artist/7oo9csjE3Ugx8MbUTrBL4N"
+        }
+      ],
+      "duration_ms": 239852,
+      "name": "El Preso De Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/6aVWcjxgUVABqVQRX6HioV"
     },
     {
       "added_at": "2026-09-04 14:48:12",

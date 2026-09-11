@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-1,042 songs - 2 day 13 hr 53 min
+1,043 songs - 2 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Carry Me Home](https://open.spotify.com/track/4FYs8HgCNTKCJij634GIOM) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/0GBbljttsF1GRUlSAlbKfM) | 5:27 | 2020-12-31 | 2022-04-06 |
 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 | 2020-10-05\* | 2020-10-06 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-10 | 2024-11-16 |
+| [Certain Feelings](https://open.spotify.com/track/51GUTnVaRIWt2TSsEVach7) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [Ladybird](https://open.spotify.com/album/2aP8CgRojHKMD5e4AaCC2H) | 3:26 | 2026-09-10 |  |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-01-12 |  |
 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 | 2020-10-16 | 2022-10-15 |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-29 | 2025-08-30 |
@@ -260,7 +261,7 @@
 | [DEEP IN YOUR SOUL](https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [DEEP IN YOUR SOUL](https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW) | 3:11 | 2025-04-07 |  |
 | [Delete Forever](https://open.spotify.com/track/6pBaH4u4WIFDxzwDaazekR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 3:57 | 2020-10-16 | 2022-04-21 |
 | [Deliverance](https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN) | [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Deliverance](https://open.spotify.com/album/4n31uRezdDxre4a1WN9Mp0) | 2:44 | 2021-04-15 | 2022-07-28 |
-| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-08-29 |  |
+| [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-08-29 | 2026-09-11 |
 | [Deserve You](https://open.spotify.com/track/0SYvQ4QBVJhsAEUPonXh63) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Deserve You](https://open.spotify.com/album/4GJLgga05CwlkBSHrR4eIp) | 2:31 | 2021-05-04 | 2022-04-20 |
 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 | 2024-11-22 | 2026-02-13 |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2020-10-16 | 2022-04-10 |

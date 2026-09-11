@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-484 songs - 1 day 6 hr 38 min
+486 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 | 2025-03-28 | 2025-07-15 |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-07-06 | 2022-07-15 |
 | [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-06-18 | 2024-07-19 |
+| [Fiebre](https://open.spotify.com/track/3LHcNsuzDNUBHHTxDngLOD) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [América del Futuro](https://open.spotify.com/album/4VKU5JzP4I86XqKak6abir) | 3:21 | 2026-09-11 |  |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-06-29 |  |
 | [FLASH/TRASH](https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [FLASH/TRASH](https://open.spotify.com/album/5VcMoARL6Cb8OW6fX2cjUI) | 7:43 | 2023-08-11 | 2023-08-26 |
 | [Flor de Loto](https://open.spotify.com/track/16aUcdbCsgXrEJH0wvVYor) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Flor de Loto](https://open.spotify.com/album/65dRRUwPO4fahTzDWixZHR) | 3:33 | 2026-08-21 |  |
@@ -308,7 +309,7 @@
 | [Mutantes](https://open.spotify.com/track/76JS66fQKVW2TEknyPNOoj) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Mutantes](https://open.spotify.com/album/0lt6oS9QStYcgPwR6gZQVf) | 2:28 | 2022-07-06 | 2022-07-21 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-07-19 | 2022-07-23 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-19 | 2023-01-28 |
-| [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 | 2022-06-29 |  |
+| [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 | 2022-06-29 | 2026-09-11 |
 | [Nada Nace](https://open.spotify.com/track/1EvXBtdPJF4QY2PK9XDDwF) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Esencia](https://open.spotify.com/album/5fPro8uymLfadWDm7FzM8B) | 3:33 | 2025-03-14 | 2026-02-28 |
 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 | 2025-12-19 | 2026-04-05 |
 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 | 2023-06-16 | 2023-08-26 |
@@ -351,7 +352,7 @@
 | [piso 20](https://open.spotify.com/track/41IgY1X91cTDj1qwlvKiqS) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [piso 20](https://open.spotify.com/album/2NGY5QHTcAjg68I9XkiBJ1) | 2:21 | 2025-07-25 | 2025-08-01 |
 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 | 2022-06-29 |  |
 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-06-29 | 2024-10-21 |
-| [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2024-04-05 |  |
+| [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2024-04-05 | 2026-09-11 |
 | [PRESENTE CONTINUO](https://open.spotify.com/track/2WLiHdPnEJ1MCeJvdzZxS6) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [PRESENTE CONTINUO](https://open.spotify.com/album/3ZyJCtgxEGq0TNnAnRjYNS) | 3:27 | 2025-07-11 | 2025-07-18 |
 | [Preso en un Compás](https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc) | [REOT](https://open.spotify.com/artist/4g6UBfhSci5JLutunDJUl4) | [Preso en un Compás](https://open.spotify.com/album/68Bfxww4zT5h3cwPSmuxKr) | 3:09 | 2023-07-28 | 2023-08-26 |
 | [Pretensión](https://open.spotify.com/track/4Scgil3syVN084WClpTBhO) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ), [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt) | [Pretensión](https://open.spotify.com/album/5bQwMXvaPokI7ZJqEnDLKF) | 3:32 | 2026-02-20 | 2026-03-21 |
@@ -429,6 +430,7 @@
 | [TIRADO](https://open.spotify.com/track/3SK339ljWnJyVvydZerdzl) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [TIRADO](https://open.spotify.com/album/5vMjUZDFcrieM25WgZWZrh) | 4:21 | 2026-08-21 |  |
 | [Todavía No Puedo Olvidarte \- En Vivo](https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Todavia No Puedo Olvidarte \(En Vivo\)](https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh) | 4:06 | 2022-07-01 | 2022-07-26 |
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-07-01 | 2022-07-28 |
+| [Todo Lo Que Vivimos](https://open.spotify.com/track/6biNr2utpGhugZsSApcldB) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin La Piel](https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP) | 3:31 | 2026-09-11 |  |
 | [Todo Puede Ser](https://open.spotify.com/track/4eRD6AhcROYqyFEiBXcoju) | [Zikiel Levinton](https://open.spotify.com/artist/6yhmyDBhxGDlbbioBDtBa7) | [Todo Puede Ser](https://open.spotify.com/album/50WBz5mO6Xjz01p6K3yhNJ) | 4:33 | 2022-08-03 | 2022-11-08 |
 | [Todo Sigue Igual](https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 3:34 | 2024-04-05 |  |
 | [Tomás](https://open.spotify.com/track/1ZiuyoMWd7BS1Xp8nm6gGs) | [Lucía Bossa](https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl) | [Tomás](https://open.spotify.com/album/5WAo4Y0yMlJxiJMeUj0rvk) | 2:39 | 2025-02-21 | 2025-04-04 |

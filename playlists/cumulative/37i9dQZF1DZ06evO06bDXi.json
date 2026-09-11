@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 437000,
       "name": "Beethoven: Romance for Violin and Orchestra No. 1 in G Major, Op. 40",
       "url": "https://open.spotify.com/track/4XyUG07AcTunSHZOoeUHyc"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 316426,
       "name": "Remembrances",
       "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 478426,
       "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/7ypzwDDunvlix4Q7N7Gksu"
@@ -2102,6 +2102,28 @@
       "duration_ms": 179000,
       "name": "Theme From Schindler's List (Reprise)",
       "url": "https://open.spotify.com/track/2Xa0M5kcQHdZHde9ktiXg2"
+    },
+    {
+      "album": {
+        "name": "Violin Concerto (Live On The Ed Sullivan Show, September 13, 1959)",
+        "url": "https://open.spotify.com/album/0b80kfzv3Dx1oBWTYrB4h0"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147680,
+      "name": "Violin Concerto - Live On The Ed Sullivan Show, September 13, 1959",
+      "url": "https://open.spotify.com/track/4uMQY0aZ23T1P2pmVPzDzr"
     },
     {
       "album": {

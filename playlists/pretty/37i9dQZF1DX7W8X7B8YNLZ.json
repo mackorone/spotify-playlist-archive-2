@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 629256,
+  "num_followers": 629250,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEC240lRQddMbN9pGnsbdeaU7OUT",
+  "snapshot_id": "AAAAAApsXzQPU+8pH9rA5i5BAa8psU2H",
   "tracks": [
     {
       "added_at": "2025-12-28 17:29:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Les 50 plus belles chansons",
         "url": "https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 190746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2025-12-28 17:29:00",

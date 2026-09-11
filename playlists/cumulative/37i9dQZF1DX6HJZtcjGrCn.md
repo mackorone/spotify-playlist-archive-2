@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Mike El Nite
+> Música independente\. A tua alternativa ao mainstream\. Foto: PZ, António Zambujo
 
-552 songs - 1 day 8 hr 38 min
+555 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [7 dias](https://open.spotify.com/track/3todR6e3uhzaqY2Guq4Qjo) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [7 dias](https://open.spotify.com/album/05LW24oVoRGt8w8KpO5LWV) | 3:30 | 2025-07-18 | 2025-08-01 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 | 2025-04-25 |
 | [99](https://open.spotify.com/track/1DdJbjGawTezrc3B2sOyYD) | [EU.CLIDES](https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY) | [DECLIVE](https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT) | 3:09 | 2026-02-13 | 2026-02-20 |
+| [A Cada Passo Que Dou](https://open.spotify.com/track/4lAMCFyVfuswxDCsU7lOza) | [Xico Gaiato](https://open.spotify.com/artist/6aAB6u4yMhkK5YvtDJW1dK) | [A Cada Passo Que Dou](https://open.spotify.com/album/6hybWHAJd5VE69gY9lQxwQ) | 2:36 | 2026-09-10 |  |
 | [A Cantiga É](https://open.spotify.com/track/11dMkIHbpNiBHp6aZZSvcF) | [Linda Martini](https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t) | [Tudo E O Seu Contrário](https://open.spotify.com/album/6qi8DPvnici0jD17JXXlb7) | 4:32 | 2024-09-27 | 2024-10-18 |
 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 | 2025-04-10 | 2025-06-06 |
 | [A melhor noite da minha vida](https://open.spotify.com/track/1mCAyajh7DZEsQvtETiWAv) | [Stereossauro](https://open.spotify.com/artist/5HunmMrkNBMTP3L2e5qQE0), [Ana Magalhães](https://open.spotify.com/artist/7GnmoZO3BdKNCrms5SvdZ5) | [Tristana II](https://open.spotify.com/album/1RDgbnACke01gMmoJBZf8z) | 3:48 | 2026-01-30 | 2026-02-13 |
@@ -92,7 +93,7 @@
 | [Cartas](https://open.spotify.com/track/1FI2DJdGaw1xDAEQHBdiga) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [Cartas](https://open.spotify.com/album/5CB93jpjrgGVOn5LVt1Py4) | 2:03 | 2026-03-20 | 2026-04-03 |
 | [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 | 2025-09-19 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-06-20 |  |
-| [Celestial Bodies](https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Celestial Bodies](https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt) | 3:47 | 2026-07-30 |  |
+| [Celestial Bodies](https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Celestial Bodies](https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt) | 3:47 | 2026-07-30 | 2026-09-11 |
 | [Chamadas Que Ignoras](https://open.spotify.com/track/4GKcqRGGwQpLMBISTMFSXK) | [PZ](https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Chamadas Que Ignoras](https://open.spotify.com/album/3FWEyEKGDbSZDnSuidPdpf) | 3:07 | 2026-08-13 | 2026-09-04 |
 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-12-20 | 2025-01-17 |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-06-20 | 2025-09-12 |
@@ -354,6 +355,7 @@
 | [não mereço ✧](https://open.spotify.com/track/2wGhoRL3kTFlaI4UdARiWc) | [Rita Onofre](https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z) | [não mereço ✧](https://open.spotify.com/album/4iKa1lewB9APc3LmOZlgVQ) | 2:49 | 2024-06-20 | 2024-07-05 |
 | [Não Posso Afinal](https://open.spotify.com/track/0C7gp95lUxyDB1qchmNYXU) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Não Posso Afinal](https://open.spotify.com/album/2UyjC7jhWZSjnq7o283fBh) | 3:03 | 2025-10-09 | 2025-10-24 |
 | [O Assunto](https://open.spotify.com/track/3lxoADUhrYN6T2Ah7MdFtZ) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [O Assunto](https://open.spotify.com/album/5AdcDTBYy991LIdD7XurYh) | 6:20 | 2025-03-14 | 2025-03-28 |
+| [O Pack Inteiro](https://open.spotify.com/track/3fLT6NRziCLgg2jQY6fxsT) | [PZ](https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [O Pack Inteiro](https://open.spotify.com/album/6A81qhsxy9gzEBP9nzkFi7) | 3:20 | 2026-09-10 |  |
 | [O Que Esta Gente Quer](https://open.spotify.com/track/77tjQEZESDFz33XQEpPja6) | [Cara de Espelho](https://open.spotify.com/artist/7LsBb6YXqYf3UJvsjpRHxF) | [O Que Esta Gente Quer](https://open.spotify.com/album/5qQTnm5af4Tkwd6KYDqKYS) | 3:16 | 2025-06-05 | 2025-07-11 |
 | [O Que Fomos E O Que Somos](https://open.spotify.com/track/0WwAnnPTfDirVcruM2rC3n) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [Tropical Glaciar](https://open.spotify.com/album/5SjodpvMjqFJwll3W5JrAt) | 4:28 | 2026-02-13 | 2026-02-20 |
 | [O Vencedor](https://open.spotify.com/track/1hrcAFYNTC26aohEIfRc6H) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt) | [O Vencedor / Lenço Enxuto](https://open.spotify.com/album/0UXbU421haff2rxik4amal) | 3:40 | 2025-10-24 | 2025-11-07 |
@@ -445,11 +447,12 @@
 | [Sonho](https://open.spotify.com/track/0ldXN2KqO2C0JfGwsYuGVf) | [Luís Sequeira](https://open.spotify.com/artist/6i3ur5iI4BWjY17S3cCund) | [Quer Sequeira quer não](https://open.spotify.com/album/643SfN3GRj0ag78h1BuLCI) | 5:14 | 2026-05-21 | 2026-06-12 |
 | [sonhos cor\-de\-rosa](https://open.spotify.com/track/6dGlTgRsYZylz0xwb6ufef) | [PIPA DE MA$$A](https://open.spotify.com/artist/5sCKZggbMGwCxzQoc6juPf) | [sonhos cor\-de\-rosa](https://open.spotify.com/album/0KFf84WCaDlUnnfJrYuyCp) | 3:15 | 2026-07-09 | 2026-07-24 |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-11-28 |
+| [Sou Gente Outra Vez](https://open.spotify.com/track/0j05nCNwPM2xZY9K9Icxlb) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [Sou Gente Outra Vez](https://open.spotify.com/album/7qfjxVM3xHJ4KQJU0C3MA1) | 3:25 | 2026-09-10 |  |
 | [sozinha](https://open.spotify.com/track/4olXPUq4WZnaqqvQApScvO) | [Capital da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [sozinha](https://open.spotify.com/album/0dEbBZFRMTSjUNNhCBXdTw) | 2:58 | 2025-11-28 | 2025-12-12 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-04 | 2025-12-12 |
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-06-20 | 2024-07-22 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-20 | 2025-01-10 |
-| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
+| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 | 2026-09-11 |
 | [Steel \(feat\. Dora Jar\)](https://open.spotify.com/track/4QtzCm1dFD3p14kPJpkb9U) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 2:43 | 2026-02-13 | 2026-02-20 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-20 |  |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-05-23 |
@@ -501,7 +504,7 @@
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-17 | 2025-11-14 |
 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 | 2024-07-04 | 2024-08-03 |
 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-09 | 2025-11-18 |
-| [Tigre III](https://open.spotify.com/track/50ypYBFX2zduc4c8yDqN0Q) | [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [O Testamento do Tigre](https://open.spotify.com/album/5tMnc3zxdh5TonYnsS405N) | 3:33 | 2026-08-20 |  |
+| [Tigre III](https://open.spotify.com/track/50ypYBFX2zduc4c8yDqN0Q) | [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [O Testamento do Tigre](https://open.spotify.com/album/5tMnc3zxdh5TonYnsS405N) | 3:33 | 2026-08-20 | 2026-09-11 |
 | [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-25 | 2024-10-25 |
 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 | 2025-11-07 |  |
 | [Tokyo](https://open.spotify.com/track/5Jl9wgWYzZXZHxmiIJwPFr) | [Carl Karlsson](https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ) | [Tokyo](https://open.spotify.com/album/3GS5aZSUe7yTIORIdlkKmt) | 4:45 | 2026-07-02 | 2026-07-17 |

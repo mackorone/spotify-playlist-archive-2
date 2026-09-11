@@ -1,12 +1,12 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
-  "num_followers": 645089,
+  "num_followers": 645086,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENfbMA2Qcbadg3jAqfjtQjcHBFr",
+  "snapshot_id": "AAAAACjgewiWmKpRh4GHd8AZrg6OWVMl",
   "tracks": [
     {
       "added_at": "2026-07-02 23:00:30",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "Toni-Ann Singh (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Feelings (Remix)",
         "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "Toni-Ann Singh (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 166664,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 166664,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Soft Girl Era",
-        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
-      },
-      "artists": [
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 145707,
-      "name": "Soft Girl Era",
-      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Likkle Miss",
         "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 153040,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Soft Girl Era",
+        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 145707,
+      "name": "Soft Girl Era",
+      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Is This Love",
-        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Talibhan",
         "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 183673,
       "name": "Talibhan",
       "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "London",
+      "url": "https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
-        "name": "London",
-        "url": "https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "London",
-      "url": "https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Currency Called Time",
-        "url": "https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s"
-      },
-      "artists": [
-        {
-          "name": "Jah Lil",
-          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
-        }
-      ],
-      "duration_ms": 221123,
-      "name": "Currency Called Time",
-      "url": "https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Bwoii Affi\" Watch Eh Style",
         "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Currency Called Time",
+        "url": "https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "duration_ms": 221123,
+      "name": "Currency Called Time",
+      "url": "https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL"
     }
   ],
   "unique_name": "Island Pop",

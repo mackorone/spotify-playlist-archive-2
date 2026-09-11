@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 225338,
       "name": "d1g_it.core",
       "url": "https://open.spotify.com/track/7FbFFpUxsepTcogshbsNjD"
@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/3UAd4S5WE0TTAXX7OoYwxj"
+    },
+    {
+      "album": {
         "name": "Dehumanized",
         "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
       },
@@ -606,7 +624,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 268181,
       "name": "Dehumanized",
       "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160627,
       "name": "Dragon Slaying - 2026 Repented",
       "url": "https://open.spotify.com/track/1h9wiXPEX1ZR2Jb60nFrqM"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 182764,
       "name": "king_sl@yer.fmk",
       "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 198246,
       "name": "koolaid.xxo",
       "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 122329,
       "name": "Throne.GOD",
       "url": "https://open.spotify.com/track/61Y6tZT9hnupcSktOnDVqN"

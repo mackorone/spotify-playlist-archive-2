@@ -1,12 +1,12 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 54460,
+  "num_followers": 54456,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGeqnjRCCWgPTFJsSeuJLAymFNq",
+  "snapshot_id": "AAAAAPzT2Zz2U2E5BaQYij08MgQJJ3Zx",
   "tracks": [
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Year of Summer",
-        "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Year Of Summer",
-      "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Tears (feat. Louisa Johnson)",
         "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 225914,
       "name": "Tears (feat. Louisa Johnson)",
       "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Year of Summer",
+        "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Year Of Summer",
+      "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "The Lumineers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 262000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "In A Perfect World (Deluxe)",
         "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "September Song",
-        "url": "https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 220290,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
+      "duration_ms": 199413,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1599,6 +1583,22 @@
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "September Song",
+        "url": "https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
     },
     {
       "added_at": "2021-02-22 12:39:10",

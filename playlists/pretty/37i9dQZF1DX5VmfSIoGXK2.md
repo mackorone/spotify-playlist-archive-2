@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the wonderful sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,808 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,850 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [rest](https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [rest](https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy) | 4:40 |
 | 100 | [Love Language](https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 4:38 |
 
-Snapshot ID: `AAAAANaL0WlqBidH8lFQ199h/8HkLkx+`
+Snapshot ID: `AAAAANvGnJ5ttU4pnjkhuEOkGtISUUMB`

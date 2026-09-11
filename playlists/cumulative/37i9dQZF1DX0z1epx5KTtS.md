@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
 
-316 songs - 16 hr 58 min
+317 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 | 2023-11-30 | 2024-04-05 |
 | [La démarche](https://open.spotify.com/track/25SKpttgqUjWfw8MJDV66z) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [La démarche](https://open.spotify.com/album/5pmUbV0mjV7fB2mHNpjwRe) | 3:05 | 2023-11-30 | 2024-04-19 |
+| [LA MADRE](https://open.spotify.com/track/0lE6JyAQg2Ydfv8XxUGcAY) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [VISION 360](https://open.spotify.com/album/74mTVUcNRjWV2DMi7ZwQmC) | 3:09 | 2026-09-10 |  |
 | [La Pression](https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [La Pression](https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot) | 3:00 | 2023-09-14 | 2025-04-11 |
 | [LA PUISSANCE](https://open.spotify.com/track/0fOPSfQBIxDwJabh6NmfhB) | [GUEDRIJO H24](https://open.spotify.com/artist/449DXoiACmoNomUkW4MFEH), [Mr Alex](https://open.spotify.com/artist/75Vq95baZ1lUaHDUMPC8dI) | [LA PUISSANCE](https://open.spotify.com/album/0wkj4rtoTmnNbUe61A1Yyr) | 2:42 | 2026-04-23 | 2026-06-12 |
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |

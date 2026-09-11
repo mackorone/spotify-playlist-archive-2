@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-482 songs - 1 day 9 hr 0 min
+484 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Akher Ensanah](https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Akher Ensanah](https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V) | 2:58 | 2024-08-01 | 2025-06-10 |
 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 | 2022-07-27 | 2022-09-15 |
 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 | 2024-06-20 | 2025-04-11 |
+| [Al Aman](https://open.spotify.com/track/1gmjvxmEyPDhclCe5CmpqA) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2026](https://open.spotify.com/album/5953e42Lj8BQHyeWqaGAPS) | 3:24 | 2026-09-10 |  |
 | [Al Badeel](https://open.spotify.com/track/2wRlaec2tf6wI7RwNeVN6d) | [Ahmad Alawi](https://open.spotify.com/artist/5hw12Kz62uesk0wdKSJpBv) | [Al Badeel](https://open.spotify.com/album/4E4FPhYU6jM5sPGeBMzzIp) | 3:29 | 2021-12-23 | 2022-06-04 |
 | [Al Ghayeb](https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Ghayeb](https://open.spotify.com/album/6dgUsT5lqbH4bYc8mSThvd) | 3:32 | 2023-11-16 | 2024-05-24 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2021-12-23 | 2022-01-21 |
@@ -431,6 +432,7 @@
 | [صديت متعمد](https://open.spotify.com/track/7iPJRYfIweht1DarqVXjMc) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [صديت متعمد](https://open.spotify.com/album/28HpliU9DG4RUjaZN5XBTg) | 3:35 | 2026-05-13 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-09 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-18 | 2025-07-01 |
+| [ضيا لندن](https://open.spotify.com/track/4TBffR7N0f8O1zV5ZWAMA5) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [ضيا لندن](https://open.spotify.com/album/5WMakPTgUtQXUv5NNlKyeh) | 3:49 | 2026-09-10 |  |
 | [عادني والله احبك](https://open.spotify.com/track/3P6fHxTOucUOzrzToXtVkB) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [عادني والله احبك](https://open.spotify.com/album/2MDiGFTxnIkldDK8e64FNO) | 3:59 | 2026-05-07 |  |
 | [عرش بلقيس](https://open.spotify.com/track/1sA87h1EcFMsQ3tOA5fYSF) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [عرش بلقيس](https://open.spotify.com/album/3XgQHeHZYmSEFi0QrOpnxq) | 3:50 | 2026-08-13 |  |
 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 | 2023-05-02 | 2023-11-24 |

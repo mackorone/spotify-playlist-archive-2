@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > MC Iguinho CT, DJ Aladin GDB, DU'L, MC LUUCKY, MC Willian, MC GP  o e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,758,050 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,757,473 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [MIXTAPE \- BIG G](https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3) | 2:57 |
 | 50 | [Saudade De Quem Eu Sou \- Ao Vivo](https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo\)](https://open.spotify.com/album/6xWtWF4IELcn31NEU5eMcq) | 2:33 |
 
-Snapshot ID: `AAAAAJt7WZb/FyHlqjgCuq06qChIh2vH`
+Snapshot ID: `AAAAALA6LIsXaoPqoCuLflyhu2pNz/yP`

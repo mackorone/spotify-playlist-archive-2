@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/0DQ896k1UFMI7l7iOVNnM6"
+      },
+      "artists": [
+        {
+          "name": "MAC MAY",
+          "url": "https://open.spotify.com/artist/3UrJQ0mp4sFhOzqC1GKjti"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132222,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/6swKtb86bGxaGINgSz9l1S"
+    },
+    {
+      "album": {
         "name": "Another Shot",
         "url": "https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 122068,
       "name": "Cessna 172",
       "url": "https://open.spotify.com/track/12EoeaExc41yiuzodHjzDo"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138782,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli"
@@ -4973,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/5WyJGZIEoZYtALc2rWOKqe"
+      },
+      "artists": [
+        {
+          "name": "Mont Bleu",
+          "url": "https://open.spotify.com/artist/3degLYRjAtBsjVJ5wqipSS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/6jnNNCyxrACsihUiOfDEqe"
+    },
+    {
+      "album": {
         "name": "Lucid Moments",
         "url": "https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV"
       },
@@ -5873,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "Nightfall Mood",
+        "url": "https://open.spotify.com/album/7kAXU2EZXwgvMh1yZRWe6S"
+      },
+      "artists": [
+        {
+          "name": "Soft Haze Union",
+          "url": "https://open.spotify.com/artist/5dsZV0zM0Hie57m1l31ERn"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "Nightfall Mood",
+      "url": "https://open.spotify.com/track/1ZWmuGGA5UZPf9mTDVgfcP"
+    },
+    {
+      "album": {
         "name": "nighttime",
         "url": "https://open.spotify.com/album/0x9BSrjC7vcEyJ7B4srQp9"
       },
@@ -6586,7 +6640,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 135000,
       "name": "Picanted Please",
       "url": "https://open.spotify.com/track/7pjJMysgEL8gwyIaaPokSq"
@@ -7486,7 +7540,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 146318,
       "name": "Schoolyard",
       "url": "https://open.spotify.com/track/1hc24rXcFhG5cZZvA96vDC"
@@ -7904,6 +7958,24 @@
       "duration_ms": 156388,
       "name": "Slow Day",
       "url": "https://open.spotify.com/track/0bPMdY9pBJROlgE2x3HI61"
+    },
+    {
+      "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/4bQIeWsHgKddNuRpoOa8ga"
+      },
+      "artists": [
+        {
+          "name": "Phil Axes",
+          "url": "https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133018,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2fwXWu7GW6k2BZCGuGvqpe"
     },
     {
       "album": {

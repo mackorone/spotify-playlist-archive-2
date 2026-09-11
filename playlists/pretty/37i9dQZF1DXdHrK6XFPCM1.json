@@ -1,6 +1,6 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 346727,
+  "num_followers": 346705,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,18 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "Nalar",
-        "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        },
-        {
-          "name": "Charita Utami",
-          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 261048,
-      "name": "Mangu",
-      "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2025-12-09 07:32:17",
@@ -807,18 +803,22 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Nalar",
+        "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+      "duration_ms": 261048,
+      "name": "Mangu",
+      "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
     }
   ],
   "unique_name": "Mager Parah",

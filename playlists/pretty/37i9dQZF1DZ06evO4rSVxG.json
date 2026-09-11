@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15809,
+  "num_followers": 15810,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADAWqySvsZDT84DGzklSBFz",
+  "snapshot_id": "aqChgAAAAADJ3ebKoSlW140NHZJEsZfd",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 253133,
-      "name": "The Blues",
-      "url": "https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf"
+      "duration_ms": 356760,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 356760,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
+      "duration_ms": 253133,
+      "name": "The Blues",
+      "url": "https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf"
     },
     {
       "added_at": null,

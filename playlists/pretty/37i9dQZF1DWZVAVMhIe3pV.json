@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 414683,
+  "num_followers": 414738,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADn+nlKnJfCj3m3KD6a3qK9rCSDQ",
+  "snapshot_id": "AAAAAA2nP3A8/6vorGncd6tLQws4WkJi",
   "tracks": [
     {
       "added_at": "2024-11-14 18:42:17",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Spiralling Out",
         "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe"
-      },
-      "artists": [
-        {
-          "name": "Fuel 238",
-          "url": "https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 243733,
       "name": "You\u2019re One Of Us Now",
       "url": "https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe"
+      },
+      "artists": [
+        {
+          "name": "Fuel 238",
+          "url": "https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Courage",
-      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Automatic (Deluxe)",
         "url": "https://open.spotify.com/album/7i5dJSQHwoowIjRFxu1gnN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 177800,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/2PhQfN7qTx5JxIAlIGMscf"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Fables From a Mayfly: What I Tell You Three Times is True",
-        "url": "https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC"
-      },
-      "artists": [
-        {
-          "name": "Fair To Midland",
-          "url": "https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Dance Of The Manatee",
-      "url": "https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Flacco",
         "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 250110,
       "name": "Flacco",
       "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Fables From a Mayfly: What I Tell You Three Times is True",
+        "url": "https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC"
+      },
+      "artists": [
+        {
+          "name": "Fair To Midland",
+          "url": "https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Dance Of The Manatee",
+      "url": "https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Play My Favourite Song",
-        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 211146,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
       "added_at": "2024-11-14 18:42:17",

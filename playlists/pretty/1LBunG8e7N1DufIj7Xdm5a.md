@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,828 songs - 10 day 20 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,830 songs - 10 day 21 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4836,5 +4836,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4826 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
 | 4827 | [Buoyancy](https://open.spotify.com/track/6OUb9JWTXgFuvgH5JqdkQa) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Buoyancy](https://open.spotify.com/album/7hnQQdAFWXQac2M1izmrCN) | 3:19 |
 | 4828 | [Seven Seas](https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Bridging The Gap](https://open.spotify.com/album/5oudgZVxN0EsMqb7WtwItP) | 4:11 |
+| 4829 | [Cactus heart](https://open.spotify.com/track/7ijiYwcAp54xjFp6IUnFFO) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 3:05 |
+| 4830 | [School](https://open.spotify.com/track/6en8QbNHIj86NMTnbcprqD) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [School](https://open.spotify.com/album/7tNNzwNjVpM1RG8ePFYbTS) | 14:10 |
 
-Snapshot ID: `AAAKAMnRktRWTvjIKkJJh2Iyg+bj7fSL`
+Snapshot ID: `AAAKAtiBqOuwVFU0jDpb/aHZ4Y7peBL4`

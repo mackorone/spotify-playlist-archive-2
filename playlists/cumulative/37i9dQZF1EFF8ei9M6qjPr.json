@@ -3385,6 +3385,28 @@
     },
     {
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/4rZXNKlNmP7tdTRJXt4PSe"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186639,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6B0SRCqeUHWQW9iqoglcpR"
+    },
+    {
+      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 114 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 115 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,9 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 108 | [Survive Myself](https://open.spotify.com/track/00a8GwYo65nEaJ4kiJBlrb) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Survive Myself](https://open.spotify.com/album/0Q5waDpLbmoKH20bRup6xv) | 3:20 |
 | 109 | [Make My Bed](https://open.spotify.com/track/3PRW28gQllBqdsF6lyDrqu) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/3GfAVqWHtGROgcjyCs1EV5) | 2:56 |
 | 110 | [Anxiety](https://open.spotify.com/track/2shf8g7HxaCQmjDRrCpxuc) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Anxiety](https://open.spotify.com/album/65Pcs1fJfZOGYyzSggylMc) | 5:15 |
-| 111 | [Noisemaker](https://open.spotify.com/track/3d5HDupfBJGeouKyCZoTOC) | [Daisy Dash](https://open.spotify.com/artist/23S6D2jw3bHpWdNYuXptHl) | [Noisemaker](https://open.spotify.com/album/4zpo6ZPZ1pplC3quxVNu7K) | 3:09 |
-| 112 | [No Grave](https://open.spotify.com/track/4eirknkEeaxiiA3GeCGzVX) | [The Hot Damns](https://open.spotify.com/artist/3fCcyHknrTOcEsWrEQJXY3) | [No Grave](https://open.spotify.com/album/5eiiZJEm7CegCgmD83IwHz) | 2:33 |
-| 113 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
-| 114 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
+| 111 | [Overrated](https://open.spotify.com/track/6B0SRCqeUHWQW9iqoglcpR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Overrated](https://open.spotify.com/album/4rZXNKlNmP7tdTRJXt4PSe) | 3:06 |
+| 112 | [Noisemaker](https://open.spotify.com/track/3d5HDupfBJGeouKyCZoTOC) | [Daisy Dash](https://open.spotify.com/artist/23S6D2jw3bHpWdNYuXptHl) | [Noisemaker](https://open.spotify.com/album/4zpo6ZPZ1pplC3quxVNu7K) | 3:09 |
+| 113 | [No Grave](https://open.spotify.com/track/4eirknkEeaxiiA3GeCGzVX) | [The Hot Damns](https://open.spotify.com/artist/3fCcyHknrTOcEsWrEQJXY3) | [No Grave](https://open.spotify.com/album/5eiiZJEm7CegCgmD83IwHz) | 2:33 |
+| 114 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
+| 115 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Acb4EgAAAABuIjtFsGutLntGJh6tcB/E`
+Snapshot ID: `Acb9sgAAAAAq3OLqR6OGgxJ9g9gl/v0S`

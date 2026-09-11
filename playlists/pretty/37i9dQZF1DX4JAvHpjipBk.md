@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Miley, Beyoncé, ADÉLA, Mau P and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,624,710 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,624,567 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 79 | [Good American](https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Good American](https://open.spotify.com/album/5M9R4gC7uh7LB5VZUNRQcx) | 3:52 |
 | 80 | [MONDAY TO SUNDAY](https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [MONDAY TO SUNDAY](https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu) | 3:07 |
 | 81 | [As The World Burns](https://open.spotify.com/track/1lI6tCdsq7UxIXr8cU0i3m) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [As The World Burns...](https://open.spotify.com/album/44OY4GEnZF1HXb6nIDPpyR) | 3:52 |
-| 82 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 82 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 83 | [The Moon And The Wolf](https://open.spotify.com/track/3qJZpn2x6LjUoxZaqlObuI) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl), [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Moon And The Wolf](https://open.spotify.com/album/2VJ3IpuupWWqGodIXzzXhJ) | 3:08 |
 | 84 | [So mysterious](https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [And so it goes...](https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5) | 3:00 |
 | 85 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Let Me Go](https://open.spotify.com/track/0r0FwFqAJR4N564SRLFaOK) | [Leisure Hour](https://open.spotify.com/artist/6vkFadDv74nN00rZRrVbrN) | [Let Me Go](https://open.spotify.com/album/3yddzCZIVfMg7GgqByvjJ0) | 3:36 |
 | 100 | [time loop at hot slit](https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [time loop at hot slit](https://open.spotify.com/album/6pTyAyVoNqlOIEmDRPcgsZ) | 1:56 |
 
-Snapshot ID: `AAAAAPe7DaHfmzXVjDVDeqGktQhjEKOS`
+Snapshot ID: `AAAAADld9jjfVD5FCcLNiE+oIn1Vj/y7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,051 likes - 117 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,204 likes - 117 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

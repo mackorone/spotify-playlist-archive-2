@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 285,
+  "num_followers": 286,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKAMnRktRWTvjIKkJJh2Iyg+bj7fSL",
+  "snapshot_id": "AAAKAtiBqOuwVFU0jDpb/aHZ4Y7peBL4",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -78763,6 +78763,38 @@
       "duration_ms": 251688,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo"
+    },
+    {
+      "added_at": "2026-09-10 07:31:09",
+      "album": {
+        "name": "I am not the one",
+        "url": "https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk"
+      },
+      "artists": [
+        {
+          "name": "ilhan akkaya",
+          "url": "https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV"
+        }
+      ],
+      "duration_ms": 185814,
+      "name": "Cactus heart",
+      "url": "https://open.spotify.com/track/7ijiYwcAp54xjFp6IUnFFO"
+    },
+    {
+      "added_at": "2026-09-10 15:57:04",
+      "album": {
+        "name": "School",
+        "url": "https://open.spotify.com/album/7tNNzwNjVpM1RG8ePFYbTS"
+      },
+      "artists": [
+        {
+          "name": "The Ineffectuals",
+          "url": "https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT"
+        }
+      ],
+      "duration_ms": 850179,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6en8QbNHIj86NMTnbcprqD"
     }
   ],
   "unique_name": "playlist spotify free",

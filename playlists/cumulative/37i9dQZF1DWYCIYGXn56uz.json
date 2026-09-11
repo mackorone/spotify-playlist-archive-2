@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e ARIETE e Angelina Mango in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e BLANCO in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -4343,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/2el7k3vNf67g82bCTt0p0X"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/42CJJ9w3XPYmM45DfklssT"
+    },
+    {
+      "album": {
         "name": "Cura Per Le Anime Spezzate",
         "url": "https://open.spotify.com/album/08BU4nKcsKzmivUyQxYazP"
       },
@@ -5568,7 +5586,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 185060,
       "name": "DALIE",
       "url": "https://open.spotify.com/track/2c3b1kn5tcVA7UBvh26KGj"
@@ -13816,7 +13834,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 177230,
       "name": "NOI (Mai Come Gli Altri)",
       "url": "https://open.spotify.com/track/3sccPpGGP3lWLulvzInQG2"
@@ -16443,6 +16461,28 @@
     },
     {
       "album": {
+        "name": "PIOVE SULLA PIOGGIA",
+        "url": "https://open.spotify.com/album/6ImHGiUkskPTA6ze0XBQZN"
+      },
+      "artists": [
+        {
+          "name": "Dea Culpa",
+          "url": "https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI"
+        },
+        {
+          "name": "Ciao sono Vale",
+          "url": "https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151555,
+      "name": "PIOVE SULLA PIOGGIA",
+      "url": "https://open.spotify.com/track/7EHwgVlTqmqq3edZMXVW9a"
+    },
+    {
+      "album": {
         "name": "PIOVERE",
         "url": "https://open.spotify.com/album/5aACZ8stKioaJl5aEGdMyv"
       },
@@ -17056,6 +17096,24 @@
       "duration_ms": 146875,
       "name": "Promesse (from the original Netflix series \"DI4RI\")",
       "url": "https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE"
+    },
+    {
+      "album": {
+        "name": "Provinciali",
+        "url": "https://open.spotify.com/album/1uddOHYpGXNVtBn01WOWoc"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131523,
+      "name": "Provinciali",
+      "url": "https://open.spotify.com/track/2uXtk9Pow1IUnKyw6IvKfl"
     },
     {
       "album": {
@@ -18090,7 +18148,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172349,
       "name": "ROMPICAPO",
       "url": "https://open.spotify.com/track/2Skm5Ula5AthztR1L91hk8"
@@ -18412,6 +18470,24 @@
       "duration_ms": 122129,
       "name": "SAPONE",
       "url": "https://open.spotify.com/track/7GfDT77TQ1HW220mzJ1get"
+    },
+    {
+      "album": {
+        "name": "Scandalo al Sole",
+        "url": "https://open.spotify.com/album/5orwVLka18CN2pJHJENhbF"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Scandalo al Sole",
+      "url": "https://open.spotify.com/track/259uQ5rnb8dWGYBi5nYvxz"
     },
     {
       "album": {
@@ -20152,7 +20228,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 174358,
       "name": "Sto con Ferro",
       "url": "https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa"
@@ -20774,7 +20850,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 162935,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/78Jaxa2LLQstsGyU0tE8DR"
@@ -22788,7 +22864,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 183789,
       "name": "Vengo a prenderti",
       "url": "https://open.spotify.com/track/4b3qaNWPl3RJY1kTFdNimS"

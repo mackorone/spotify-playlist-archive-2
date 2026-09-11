@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Sonny Fodera, Becky Hill",
+  "description": "The UK's biggest dance playlist! Tommy Phillips",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "3 2 1",
+        "url": "https://open.spotify.com/album/4bJI9k5ImietxQdBFxo03a"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "3 2 1",
+      "url": "https://open.spotify.com/track/28FoyF26LKomA0ViZs2JMQ"
+    },
+    {
+      "album": {
         "name": "365 (Thr33 6ix 5ive)",
         "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
       },
@@ -302,7 +324,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 140625,
       "name": "4AM",
       "url": "https://open.spotify.com/track/7JGU6hIqwK94nfqj38BuEn"
@@ -2884,6 +2906,24 @@
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5m9LXapfZpUKnP8HK4sLAB"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172953,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4BSB6PWM5UvnW1GOjJdkKH"
     },
     {
       "album": {
@@ -11972,7 +12012,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"

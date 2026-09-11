@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Simmy",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Tina Ardor",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 179604,
       "name": "An Be Se",
       "url": "https://open.spotify.com/track/3yqQxlCnAvZAm35lrfQH9H"
@@ -792,6 +792,28 @@
       "duration_ms": 357838,
       "name": "Basheshe Bahleka",
       "url": "https://open.spotify.com/track/1VGjNRUkiOiyT45NGBzLuj"
+    },
+    {
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/1scWxoao8PV7TFi0V42iZr"
+      },
+      "artists": [
+        {
+          "name": "AQUTIE",
+          "url": "https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF"
+        },
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/4dMWyyMK9rpFjvbBNMj1WB"
     },
     {
       "album": {
@@ -2382,6 +2404,28 @@
       "duration_ms": 404088,
       "name": "Hayi SUPTA",
       "url": "https://open.spotify.com/track/0XXd6x7xN8i8WT6bs8U8Gn"
+    },
+    {
+      "album": {
+        "name": "HD-K",
+        "url": "https://open.spotify.com/album/3i9wdWecikq8dt6bUhgcCA"
+      },
+      "artists": [
+        {
+          "name": "Nelo HD",
+          "url": "https://open.spotify.com/artist/04fSktCamgB09qIoBRNicW"
+        },
+        {
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364275,
+      "name": "HD-K",
+      "url": "https://open.spotify.com/track/1TxOzF23hCUL4g7ix2slnK"
     },
     {
       "album": {
@@ -5005,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "Ndeto",
+        "url": "https://open.spotify.com/album/4oiME1n8oXzroMj8PHF7xs"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Mura",
+          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298640,
+      "name": "Ndeto",
+      "url": "https://open.spotify.com/track/0gyzBUV6bkfmJuVWXw4KF7"
+    },
+    {
+      "album": {
         "name": "Caiiro",
         "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
       },
@@ -5102,7 +5168,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 283340,
       "name": "Ngiphuma Khona (feat. Cnethemba Gonelo & Frank Mabeat)",
       "url": "https://open.spotify.com/track/0C9tlyhcLJtbC1sdFfVRkc"

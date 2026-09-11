@@ -1,6 +1,6 @@
 {
   "description": "Pop'un sevilen isimleri. Kapak: Bahad\u0131r Tatl\u0131\u00f6z ",
-  "num_followers": 183790,
+  "num_followers": 183806,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-03 21:00:16",
       "album": {
-        "name": "Gel D\u00f6nelim Eve",
-        "url": "https://open.spotify.com/album/2a7EwIzMgJ7Mqe8i1RQ6WK"
-      },
-      "artists": [
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        }
-      ],
-      "duration_ms": 158627,
-      "name": "Gel D\u00f6nelim Eve",
-      "url": "https://open.spotify.com/track/561ZdDYPlL9esdHkWQtKPI"
-    },
-    {
-      "added_at": "2026-09-03 21:00:16",
-      "album": {
         "name": "Y\u0131k\u0131lmay\u0131z \u00d6yle",
         "url": "https://open.spotify.com/album/5hzKdDrcKcaZUGENPKMaFW"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 194351,
       "name": "Y\u0131k\u0131lmay\u0131z \u00d6yle",
       "url": "https://open.spotify.com/track/7JaJ9XbLEaCGvFsY4cxkAJ"
+    },
+    {
+      "added_at": "2026-09-03 21:00:16",
+      "album": {
+        "name": "Gel D\u00f6nelim Eve",
+        "url": "https://open.spotify.com/album/2a7EwIzMgJ7Mqe8i1RQ6WK"
+      },
+      "artists": [
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "duration_ms": 158627,
+      "name": "Gel D\u00f6nelim Eve",
+      "url": "https://open.spotify.com/track/561ZdDYPlL9esdHkWQtKPI"
     },
     {
       "added_at": "2026-09-03 21:00:16",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-03 21:00:16",
       "album": {
-        "name": "Geliversen",
-        "url": "https://open.spotify.com/album/0ehgOK6IygyNrUNsZ0CscL"
-      },
-      "artists": [
-        {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
-        }
-      ],
-      "duration_ms": 164514,
-      "name": "Geliversen",
-      "url": "https://open.spotify.com/track/6zF9mmtC8A3g3Wu4GlsK0f"
-    },
-    {
-      "added_at": "2026-09-03 21:00:16",
-      "album": {
         "name": "Kara G\u00f6zl\u00fcm",
         "url": "https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 201702,
       "name": "Kara G\u00f6zl\u00fcm",
       "url": "https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI"
+    },
+    {
+      "added_at": "2026-09-03 21:00:16",
+      "album": {
+        "name": "Geliversen",
+        "url": "https://open.spotify.com/album/0ehgOK6IygyNrUNsZ0CscL"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "duration_ms": 164514,
+      "name": "Geliversen",
+      "url": "https://open.spotify.com/track/6zF9mmtC8A3g3Wu4GlsK0f"
     },
     {
       "added_at": "2026-09-03 21:00:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-03 21:00:16",
       "album": {
-        "name": "Canavarlar",
-        "url": "https://open.spotify.com/album/6C9MQlOIK19IR0sKbgNCFT"
-      },
-      "artists": [
-        {
-          "name": "Serdar Orta\u00e7",
-          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Canavarlar",
-      "url": "https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy"
-    },
-    {
-      "added_at": "2026-09-03 21:00:16",
-      "album": {
         "name": "\u0130nsan",
         "url": "https://open.spotify.com/album/65pvwSCbcA14zDrSr7K00V"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 213440,
       "name": "\u0130nsan",
       "url": "https://open.spotify.com/track/58QAd5xwlF1UdXTnTkLEKr"
+    },
+    {
+      "added_at": "2026-09-03 21:00:16",
+      "album": {
+        "name": "Canavarlar",
+        "url": "https://open.spotify.com/album/6C9MQlOIK19IR0sKbgNCFT"
+      },
+      "artists": [
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Canavarlar",
+      "url": "https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy"
     },
     {
       "added_at": "2026-09-03 21:00:16",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2026-09-03 21:00:16",
       "album": {
-        "name": "K\u00f6r B\u0131\u00e7ak",
-        "url": "https://open.spotify.com/album/5fBKDN704hHL1WOoDzjSX0"
+        "name": "Sev Seveceksen",
+        "url": "https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc"
       },
       "artists": [
         {
-          "name": "G\u00f6khan T\u00fcrkmen",
-          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        },
+        {
+          "name": "Seda Erciyes",
+          "url": "https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z"
         }
       ],
-      "duration_ms": 228375,
-      "name": "K\u00f6r B\u0131\u00e7ak",
-      "url": "https://open.spotify.com/track/3yWO0zMi4P97bNbKTaCZHs"
+      "duration_ms": 178666,
+      "name": "Sev Seveceksen",
+      "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"
     },
     {
       "added_at": "2026-09-03 21:00:16",

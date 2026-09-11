@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Liana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,785 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,841 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 31 | [Elevator Vibes](https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lab Rats](https://open.spotify.com/album/00VCTHhxGhARgKCNhVMJf8) | 2:28 |
 | 32 | [Queixa](https://open.spotify.com/track/3VHDtuVd5bnKYX1bjhiWkN) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Caetano Veloso por Nay](https://open.spotify.com/album/2tsS9TzLzQ4uBTjVWK60Jn) | 4:00 |
 | 33 | [Lavender](https://open.spotify.com/track/6SDFVOLzOD6E38hrY967am) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Fo1006](https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Lavender](https://open.spotify.com/album/25cAfxY2hTvc013b6DyJoR) | 3:02 |
-| 34 | [Roll By \(feat\. Mélissa Mary Ahern\)](https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Roll By \(feat\. Mélissa Mary Ahern\)](https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r) | 4:07 |
+| 34 | [Roll By \(feat\. Melissa Mary Ahern\)](https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Roll By \(feat\. Melissa Mary Ahern\)](https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r) | 4:07 |
 | 35 | [Perhaps, Perhaps, Perhaps \- Live](https://open.spotify.com/track/3a2y73CXhJ06Kgw4zJqu84) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Live At Café Carlyle](https://open.spotify.com/album/2hLGS8w5LaKzHMomED3KzH) | 2:39 |
 | 36 | [Eco do Futuro](https://open.spotify.com/track/08NXZbmhDroOdEDOdvud7K) | [Tiago Caetano](https://open.spotify.com/artist/4pE3HJx3EQb9tBxSYib3Cr), [Céline Dessberg](https://open.spotify.com/artist/4yrAcGcuF9KXNpeLXdwlGA) | [Eco do Futuro](https://open.spotify.com/album/1lPwis4eP2olWfAPzZobEU) | 2:39 |
 | 37 | [Vi Möts I Parken](https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Vi Möts I Parken](https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG) | 2:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |
 | 60 | [Le Héron](https://open.spotify.com/track/4gD7oJ0mbeRxQCct5n0CJV) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [Charlotte Isenmann](https://open.spotify.com/artist/3N4z65qo7FnvBnWpLXu9kD) | [Le Héron](https://open.spotify.com/album/0XGsmw5RObROFHzqfPC3G7) | 5:40 |
 
-Snapshot ID: `AAAAAKYDdT8hu4mosMAncAk/sBPpS0zi`
+Snapshot ID: `AAAAAKQnpNIxPWddX2XDkDO1Mto+Ubjf`

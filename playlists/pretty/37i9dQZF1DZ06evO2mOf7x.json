@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47665,
+  "num_followers": 47666,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAABLZMhAgd7kRoMbhVxhs6GE",
+  "snapshot_id": "aqChgAAAAADWcmBgakP7n+NymrA63v37",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+      "duration_ms": 192400,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 192400,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp"
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Culpa M\u00eda",
-        "url": "https://open.spotify.com/album/1uJ6SwcDkq8bpm9Vw2ckuJ"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 192636,
-      "name": "Es Culpa M\u00eda",
-      "url": "https://open.spotify.com/track/7iwhHQCvNcf1zYx8SxWQGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bordado a Mano",
         "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Culpa M\u00eda",
+        "url": "https://open.spotify.com/album/1uJ6SwcDkq8bpm9Vw2ckuJ"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 192636,
+      "name": "Es Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/7iwhHQCvNcf1zYx8SxWQGc"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras Bonitas",
         "url": "https://open.spotify.com/album/2xGE2zV6wlTDzvnr8aOxcH"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 188644,
       "name": "Mentiras Bonitas",
       "url": "https://open.spotify.com/track/6qBiTDIcNYrGnnGZvZ4hu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "#SpotifyTBT celebrates 20 years of FutureSex/LoveSounds. Cover: Justin Timberlake",
+  "description": "#SpotifyTBT celebrates 20 years of Continuum. Cover: John Mayer",
   "name": "Throwback Thursday",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3"
@@ -696,6 +696,24 @@
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "album": {
+        "name": "All the Lost Souls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oYz2A60NEsoRnLtjHl03j"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/0bXgHANh87ATv5ReOdxVCX"
     },
     {
       "album": {
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 291106,
       "name": "4 In The Morning",
       "url": "https://open.spotify.com/track/64fSdRkaB7ksxI9suUGYmi"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 189693,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
       "url": "https://open.spotify.com/track/51ceegeWmD5lSKq1IfZ9pR"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "5:19",
       "url": "https://open.spotify.com/track/6PhkQPaug4c60ql9jWhsue"
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 217666,
       "name": "Ain't No Reason",
       "url": "https://open.spotify.com/track/1N4GXAzVrcDeMWy7sUQaHf"
@@ -7358,7 +7376,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"
@@ -10502,7 +10520,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
@@ -10708,7 +10726,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 251640,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/5uNEaSgkkPw6vLCUh3KsdQ"
@@ -11493,6 +11511,24 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/5ZzTKVjD2dVzWVcauNLFEB"
+      },
+      "artists": [
+        {
+          "name": "Matt White",
+          "url": "https://open.spotify.com/artist/5nrKbDQoztn1qIZAwXvGUq"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Best Days - Album Version Final",
+      "url": "https://open.spotify.com/track/1uEdbI2Be98rNOkYRFzdaX"
+    },
+    {
+      "album": {
         "name": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
         "url": "https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA"
       },
@@ -11808,7 +11844,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
@@ -14506,7 +14542,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 245933,
       "name": "Boston",
       "url": "https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW"
@@ -16718,7 +16754,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 225560,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
@@ -16740,7 +16776,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 227960,
       "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
       "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
@@ -19002,6 +19038,24 @@
       "duration_ms": 235533,
       "name": "Cell Block Tango (Glee Cast Version)",
       "url": "https://open.spotify.com/track/65KOBo3Sxni1gUdgXHyeaY"
+    },
+    {
+      "album": {
+        "name": "Here Right Now",
+        "url": "https://open.spotify.com/album/0D6KS8WzCOxxbZjEy4x9s2"
+      },
+      "artists": [
+        {
+          "name": "Graham Colton",
+          "url": "https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221386,
+      "name": "Cellophane Girl",
+      "url": "https://open.spotify.com/track/3JZEL4fYakc6vi3qSEyf4B"
     },
     {
       "album": {
@@ -21549,6 +21603,24 @@
     },
     {
       "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
+    },
+    {
+      "album": {
         "name": "Pocahontas",
         "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
       },
@@ -21864,7 +21936,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
@@ -22854,7 +22926,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 182066,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ"
@@ -34973,6 +35045,24 @@
     },
     {
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "album": {
         "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
         "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
       },
@@ -37268,7 +37358,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 261880,
       "name": "Get Up (feat. Chamillionaire)",
       "url": "https://open.spotify.com/track/3rKCDtV8UcF0RytSiXxypc"
@@ -38730,7 +38820,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
@@ -40292,6 +40382,42 @@
       "duration_ms": 256173,
       "name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
       "url": "https://open.spotify.com/track/1XMc4FzFFgjQFVmIMvEvWX"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245746,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/67ZToNMUVrEPd4LppSTjH7"
+    },
+    {
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233021,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "album": {
@@ -44274,7 +44400,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 218320,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/1LkpbLDi7eRwg321UhUEl0"
@@ -46598,7 +46724,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216893,
       "name": "How Do I Breathe",
       "url": "https://open.spotify.com/track/1hC39hR2yKvuu7U7QiyKc8"
@@ -49598,7 +49724,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 278693,
       "name": "I Love The Rain The Most",
       "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
@@ -52618,7 +52744,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
@@ -55036,7 +55162,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 227666,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
@@ -62418,7 +62544,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
@@ -63870,7 +63996,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 220639,
       "name": "Long Way 2 Go",
       "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
@@ -64318,7 +64444,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
@@ -64704,7 +64830,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 259719,
       "name": "Love in This Club (feat. Young Jeezy)",
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
@@ -65966,6 +66092,28 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
+    },
+    {
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bWIQoDyGTaztWXN2Aolmb"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/1gz87EqWvxusQE8zq6mJod"
     },
     {
       "album": {
@@ -72040,7 +72188,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 268440,
       "name": "My Style",
       "url": "https://open.spotify.com/track/4X76j1maXUPutHtrb9cGnL"
@@ -81572,7 +81720,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
@@ -83291,6 +83439,24 @@
     },
     {
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
+    },
+    {
+      "album": {
         "name": "Meiko",
         "url": "https://open.spotify.com/album/7iUWX1Z3rB1xYSuf5Ok1yU"
       },
@@ -83566,6 +83732,24 @@
       "duration_ms": 246333,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6"
+    },
+    {
+      "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/7vjFNsBVHJPzb6ljWnvKav"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Red Light - Album Version / Original Mix",
+      "url": "https://open.spotify.com/track/3sgqfh1kTq0NPgCnHzdHbD"
     },
     {
       "album": {
@@ -85854,6 +86038,24 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "album": {
+        "name": "Not Too Late",
+        "url": "https://open.spotify.com/album/6hpBCxDD4f45hI0UMvOggI"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236773,
+      "name": "Rosie's Lullaby",
+      "url": "https://open.spotify.com/track/10hBcbQsH77movlSQHZ4lb"
     },
     {
       "album": {
@@ -89254,7 +89456,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204040,
       "name": "Sexy Can I",
       "url": "https://open.spotify.com/track/1LnATvtXXioQNPeKTT4x9T"
@@ -89338,7 +89540,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -90066,7 +90268,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 146066,
       "name": "She Is Love",
       "url": "https://open.spotify.com/track/2Dz5WpEWA0vhnMmEPYiZ2y"
@@ -92641,6 +92843,24 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241946,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/75zIfJpcYFYHSBMVlmdiYc"
+    },
+    {
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
       },
@@ -93430,7 +93650,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207186,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
@@ -95422,7 +95642,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 250106,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
@@ -97349,6 +97569,24 @@
     },
     {
       "album": {
+        "name": "Something to Be (Deluxe)",
+        "url": "https://open.spotify.com/album/71RrTGV6m0VBUR0FD2ZI8l"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Streetcorner Symphony",
+      "url": "https://open.spotify.com/track/4kzkpiqsEOtbNWMZTETlFO"
+    },
+    {
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -98398,7 +98636,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 252973,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
@@ -103247,6 +103485,24 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/5obiwr7JaDV0nwa6tpEtN4"
+    },
+    {
+      "album": {
         "name": "The Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
       },
@@ -105632,7 +105888,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 179146,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/5RM4iGrNOyeKLTcMv2FPc9"
@@ -109728,7 +109984,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 205440,
       "name": "Trick Me - Radio Mix",
       "url": "https://open.spotify.com/track/4tXODdxl28b3mLFYAEvgAh"
@@ -112712,7 +112968,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 261320,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u"
@@ -112842,6 +113098,24 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/1lRmQ9D6oNYiuCXdGlKCs0"
     },
     {
       "album": {
@@ -114065,6 +114339,24 @@
     },
     {
       "album": {
+        "name": "Gavin DeGraw",
+        "url": "https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328480,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/6CWKr7YOv8OLO3b5wB00fZ"
+    },
+    {
+      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
@@ -114094,7 +114386,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3NmgiTs1H5tAYpZG916D6u"
@@ -114428,7 +114720,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 236680,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
@@ -115116,7 +115408,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 448573,
       "name": "What Goes Around.../...Comes Around (Interlude)",
       "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
@@ -115962,7 +116254,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 233146,
       "name": "Whatever U Like",
       "url": "https://open.spotify.com/track/4oKxYjLCnXbfEGB63C1MvC"
@@ -116308,7 +116600,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 224280,
       "name": "When It Comes",
       "url": "https://open.spotify.com/track/65xy8QjJE4G87p8XAJ6aGg"
@@ -116720,7 +117012,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 231866,
       "name": "Where Are You Going",
       "url": "https://open.spotify.com/track/5EjZXJ4nVpw7uI6eso1SFS"
@@ -120332,7 +120624,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
@@ -120632,7 +120924,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"

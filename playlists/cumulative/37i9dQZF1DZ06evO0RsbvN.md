@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-310 songs - 15 hr 34 min
+311 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Cravin' a Man Blues](https://open.spotify.com/track/1wECbMJSHWLoqAJPXbgemb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:47 | 2022-11-22 | 2023-05-24 |
 | [Crazy Blues](https://open.spotify.com/track/2VFZ4gXhzXeYnq702w5zIt) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Nobody Rocks Me Like My Baby Do](https://open.spotify.com/album/4cAT20KVfZPLR4UTBPWeX5) | 3:28 | 2023-08-18 | 2023-09-22 |
 | [Daddy, Goodbye Blues](https://open.spotify.com/track/3F1D9yh3PUVRtimLXCbA8m) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:11 | 2022-09-16 | 2022-09-19 |
-| [Daddy, Goodbye Blues](https://open.spotify.com/track/6q19WYjDKBHJpScHA23rtC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 3:11 | 2026-09-09 |  |
+| [Daddy, Goodbye Blues](https://open.spotify.com/track/6q19WYjDKBHJpScHA23rtC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 3:11 | 2026-09-09 | 2026-09-11 |
 | [Daddy, Goodbye Blues](https://open.spotify.com/track/329HmLkM0jTq0m4z0xmIeG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Black Eye Blues](https://open.spotify.com/album/32i2XST8ULn05TDrWhTdHx) | 3:17 | 2023-06-07 | 2023-10-06 |
 | [Damper Down Blues](https://open.spotify.com/track/4clNWKuBAxttm9kKNtzu7o) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:36 | 2022-11-14 | 2023-08-14 |
 | [Damper Down Blues](https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:36 | 2023-08-14 |  |
@@ -255,6 +255,7 @@
 | [Slave To The Blues](https://open.spotify.com/track/5iQ61QDLvSjq2TJMp3KIiC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:42 | 2022-08-05 | 2022-09-29 |
 | [Sleep Talking Blue](https://open.spotify.com/track/4MmXwbThRxeUJQGSVA83ZX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/0PbCqRfg9MogkpnDtEf69H) | 3:12 | 2024-03-06 | 2024-05-29 |
 | [Sleep Talking Blues](https://open.spotify.com/track/4zQn7mT2nAG9CNzor0FX4n) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:11 | 2024-06-04 | 2024-09-10 |
+| [Sleep Talking Blues](https://open.spotify.com/track/0mMzZx9sJHRWDdX3rmhwun) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 3:12 | 2026-09-11 |  |
 | [Sleep Talking Blues \(Take 1\)](https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:13 | 2022-08-05 | 2026-09-08 |
 | [Sleep Talking Blues: 1](https://open.spotify.com/track/3m0sFNMdJEFUsbBWZc0lex) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD E](https://open.spotify.com/album/78tNbKD0U0z7jyxPdu82in) | 3:13 | 2022-08-05 | 2025-08-05 |
 | [Slow Driving Moan](https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 2:59 | 2022-08-05 |  |

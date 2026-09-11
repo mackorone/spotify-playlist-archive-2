@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: SOYEON\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,465 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,446 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I’m gonna TOESA](https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [What a Wonderful Life](https://open.spotify.com/album/6sqrtPnnIbWNxGQgqr8WHz) | 3:31 |
 | 2 | [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 |
 | 3 | [Mexico \(English Version\)](https://open.spotify.com/track/0k1aM86PStK4z5O2QqvJjj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [México](https://open.spotify.com/album/18DhSaSrbJwTWKSSUybLtl) | 3:12 |
-| 4 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
+| 4 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
 | 5 | [Twilight](https://open.spotify.com/track/5yS66vUhMd18bggz4IrDPg) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 2:42 |
 | 6 | [Scenario](https://open.spotify.com/track/4HZXQpfYj1YArf2EfzEjf5) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [面 : Unknown Atlas](https://open.spotify.com/album/07KPt6uHFqEJ4x5U7C3rX4) | 3:43 |
 | 7 | [BORN DIRE](https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [UNBREAKABLE : 少年BEAST](https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw) | 3:16 |
 | 50 | [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 |
 
-Snapshot ID: `AAAAAPdM5/pwdTd1y4TLWsBS76Hy6spC`
+Snapshot ID: `AAAAACmgqGU4W3qboYLrP4va4FZz+30e`

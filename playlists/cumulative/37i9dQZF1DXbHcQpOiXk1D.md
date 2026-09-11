@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Yazmin Lacey
+> The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-820 songs - 2 day 9 hr 3 min
+821 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Ego Killah](https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:55 | 2022-11-04 | 2023-03-18 |
 | [Ego Killah](https://open.spotify.com/track/4i1vC7Wy7Zgg5c3Fl58gNN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/3qlhwRcMzkHVoUnq6uNGtw) | 5:55 | 2023-09-01 | 2023-12-06 |
 | [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 | 2022-09-23 | 2022-11-07 |
+| [El Corazón](https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Here Because of Hope](https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j) | 4:06 | 2026-09-10 |  |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-03-24 | 2022-04-20 |
 | [Empty Flower](https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [Empty Flower](https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI) | 3:53 | 2023-03-08 | 2024-05-04 |
 | [Encontrei Amor](https://open.spotify.com/track/1kU5bxz2l6h5DyJxRYfXlP) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke) | [Maria](https://open.spotify.com/album/7weQeRcIfkf3UBbZiwUyOj) | 3:40 | 2026-06-11 | 2026-07-03 |
@@ -780,7 +781,7 @@
 | [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-04 | 2023-04-30 |
 | [We Have Each Other](https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ) | [We Have Each Other](https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z) | 3:56 | 2024-06-06 | 2025-07-25 |
 | [We Have Each Other \- Marla Kether Remix](https://open.spotify.com/track/24ZAd38hq1QWkbvu5UMfbW) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT), [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [We Have Each Other: Remixed](https://open.spotify.com/album/3PsNU2NkYqaAOYqlCChIHu) | 3:48 | 2025-08-07 |  |
-| [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 | 2025-10-24 |  |
+| [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 | 2025-10-24 | 2026-09-11 |
 | [Welcome To My World](https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 7:14 | 2023-09-01 | 2024-05-03 |
 | [Welcome To My World](https://open.spotify.com/track/4yALLcuMLrfslEuqbq6BPn) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 7:14 | 2022-12-23 | 2023-02-05 |
 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 | 2025-09-04 |  |

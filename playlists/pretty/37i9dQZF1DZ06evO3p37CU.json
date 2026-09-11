@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22513,
+  "num_followers": 22516,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAABIdRMpmiq98ebIsJeBeSSl",
+  "snapshot_id": "aqChgAAAAAByg/I3kHbH9ubM3dLw2yDQ",
   "tracks": [
     {
       "added_at": null,
@@ -78,6 +78,10 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx"
         }
       ],
       "duration_ms": 204453,
@@ -455,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rags",
+        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 278083,
+      "name": "Meditate (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -483,46 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rags",
-        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 278083,
-      "name": "Meditate (feat. J.I.D.)",
-      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/0KdZJNlk291YqvUQhHYttm"
       },
@@ -547,6 +531,26 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/10dSPiyXAM0Z1oJXRMqIn9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
     },
     {
       "added_at": null,

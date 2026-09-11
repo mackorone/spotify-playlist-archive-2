@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 566 likes - 70 songs - 4 hr 26 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 570 likes - 74 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,9 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 68 | [You Dont' See but I'm Here](https://open.spotify.com/track/33rAoJ9rujAdlWwBnWfuW4) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [You Dont' See but I'm Here](https://open.spotify.com/album/0PYFuehLCYVCUi0rGG8bQZ) | 5:40 |
 | 69 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
 | 70 | [For You To Know](https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [For You To Know](https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo) | 3:29 |
+| 71 | [Pins and Needles](https://open.spotify.com/track/3E3KM0KwpbR9YEc7n29aBW) | [DOOM SLUG](https://open.spotify.com/artist/2lgrrraDzcRtldVGcT6jNH) | [Pins and Needles](https://open.spotify.com/album/6U2iVWSIaUm4toSwml6nSa) | 4:00 |
+| 72 | [Lost Soul](https://open.spotify.com/track/5bgTOLXRpwc5oJvVvonmLF) | [Eastern Screech](https://open.spotify.com/artist/1WbSutQjLup2u6k6yh54n4) | [Lost Soul](https://open.spotify.com/album/4lS13XCOSArNUILtmxziZC) | 5:42 |
+| 73 | [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 |
+| 74 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
 
-Snapshot ID: `AAACJaYCM8ef3aVeIvisQ8HeAPPf5nPE`
+Snapshot ID: `AAACKaO9Hrl62poUjNnbDfhmbZ0EyxAW`

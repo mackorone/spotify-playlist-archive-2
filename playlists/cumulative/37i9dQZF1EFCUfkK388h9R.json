@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "GLAMOUR IN A BURNING WORLD",
+        "url": "https://open.spotify.com/album/0CR8Kha8SuzJKCZeRainkt"
+      },
+      "artists": [
+        {
+          "name": "Nova May",
+          "url": "https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184817,
+      "name": "SEXUALITY",
+      "url": "https://open.spotify.com/track/1A1wzR1nOo0J2e6y1P4TpT"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04"
       },

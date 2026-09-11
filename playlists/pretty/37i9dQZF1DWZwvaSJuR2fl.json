@@ -1,12 +1,12 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 83575,
+  "num_followers": 83589,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/+2qomJvt7ARa3FwxnTsxMV4fS",
+  "snapshot_id": "AAAAAJnU0zadCvP9py4i//GGrIdRDFP9",
   "tracks": [
     {
       "added_at": "2025-12-22 11:34:49",
@@ -643,34 +643,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Bruch & Dvorak Violin Concertos",
-        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Julia Fischer",
-          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 611453,
-      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
-      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvor\u00e1k: Cello Concerto / Strauss, R.: Don Quixote",
         "url": "https://open.spotify.com/album/6kSudTkTbOY887IFxotGxT"
       },
@@ -699,6 +671,34 @@
       "duration_ms": 724986,
       "name": "Cello Concerto in B Minor, Op. 104, B. 191: III. Finale (Allegro moderato)",
       "url": "https://open.spotify.com/track/0ygz2fsLGI8OxWoPkprr6D"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Bruch & Dvorak Violin Concertos",
+        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 611453,
+      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
+      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -775,30 +775,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
-        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
-        },
-        {
-          "name": "Oslo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
-      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
         "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
       },
@@ -823,6 +799,30 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
+        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
+        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
+      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
         "name": "Borodin, Dvorak & Shostakovich String Quartets",
         "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
       },
@@ -839,30 +839,6 @@
       "duration_ms": 225533,
       "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: III. Molto Vivace",
       "url": "https://open.spotify.com/track/5uENn7jXv3ZSlElEJeu2VY"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
-        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
-      "duration_ms": 466999,
-      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: III. Finale. Allegro vivace",
-      "url": "https://open.spotify.com/track/37EbWkRH33zsB1wL9ZGwY2"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -891,8 +867,8 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
-        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
+        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
       },
       "artists": [
         {
@@ -900,17 +876,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         },
         {
-          "name": "Oslo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
         }
       ],
-      "duration_ms": 760733,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
-      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
+      "duration_ms": 466999,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: III. Finale. Allegro vivace",
+      "url": "https://open.spotify.com/track/37EbWkRH33zsB1wL9ZGwY2"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -935,6 +911,30 @@
       "duration_ms": 288680,
       "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
       "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
+        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        }
+      ],
+      "duration_ms": 760733,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/6cEmZmkoooz48sBTBpKo4R"
     },
     {
       "added_at": "2025-12-22 11:34:49",

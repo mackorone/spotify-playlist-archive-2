@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: Chezka
+> Introducing RADAR Philippines Cast of 2026\. Cover: fitterkarma
 
-356 songs - 21 hr 4 min
+358 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-04-13 |  |
 | [Bahala Na](https://open.spotify.com/track/3FsDo7jplRKAkFzxZ4vbZu) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 3:48 | 2023-11-29 | 2024-01-12 |
 | [Ballin N Tha Hood](https://open.spotify.com/track/6OGp6i6alAI8RAeaa48QgZ) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [Ballin N Tha Hood](https://open.spotify.com/album/3YlsWjUyWni8120jlDqZIr) | 2:44 | 2026-04-06 |  |
+| [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 | 2026-09-11 |  |
 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 | 2023-04-13 | 2024-04-03 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-04-14 |
 | [Bazinga](https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:22 | 2021-11-25 | 2022-03-25 |
@@ -140,6 +141,7 @@
 | [Huwag Muna Tayong Umuwi](https://open.spotify.com/track/7haQq014RoahMX6spW4z1z) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:57 | 2024-04-02 | 2025-03-28 |
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-18 | 2026-04-07 |
 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 | 2026-04-06 |  |
+| [I Ruin, I Love](https://open.spotify.com/track/79Jw5owZrm5dJq8zyvDDjn) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [I Ruin, I Love](https://open.spotify.com/album/1IsJ3QqUFODnouxPnao6w3) | 3:30 | 2026-09-11 |  |
 | [I'll Be There](https://open.spotify.com/track/5gZV0o24zaNzzhaMMOgnVx) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [I'll Be There](https://open.spotify.com/album/6yYv4nsfKhHXWv3EqZ4h9g) | 3:08 | 2025-03-27 | 2026-04-07 |
 | [I'M FINE](https://open.spotify.com/track/6rD22TasmUeZMz4dX8VLku) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb), [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6) | [CHANGIN' Vol\. 1](https://open.spotify.com/album/4bXcecNzDmfAS8pTtxNKT9) | 3:47 | 2021-11-25 | 2022-03-25 |
 | [If](https://open.spotify.com/track/4Ji644TkVvAvuUbNYkmuMv) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [If](https://open.spotify.com/album/6venqEQk0VxnehajThSHrI) | 2:58 | 2023-04-13 | 2024-04-03 |

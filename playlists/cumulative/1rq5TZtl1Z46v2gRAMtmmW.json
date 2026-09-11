@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1AIjvuzzvreU8AtbJb5Lyh"
+      },
+      "artists": [
+        {
+          "name": "Danitsa",
+          "url": "https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2"
+        },
+        {
+          "name": "Makala",
+          "url": "https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198235,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3DigB53Tj50WT4RmrS6jW5"
+    },
+    {
+      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0"
       },

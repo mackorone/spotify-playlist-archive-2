@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227566,
+  "num_followers": 227570,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADLgyLocaonqxE+SyF0ePoT",
+  "snapshot_id": "aqChgAAAAABf7QdgqfVL+unKl9h3lMR+",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Round 1 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Round 1",
+      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Aunque Ya No Est\u00e9s",
+      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -555,42 +591,6 @@
       "duration_ms": 218000,
       "name": "Marybel - Remix",
       "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Aunque Ya No Est\u00e9s",
-      "url": "https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 1 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Round 1",
-      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ciego Y La Sorda",
-        "url": "https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "El Ciego Y La Sorda",
-      "url": "https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ciego Y La Sorda",
+        "url": "https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "El Ciego Y La Sorda",
+      "url": "https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -1203,18 +1203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
         }
       ],
-      "duration_ms": 225978,
-      "name": "Vive La Vida",
-      "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"
+      "duration_ms": 195859,
+      "name": "Toda la noche (feat. Darkiel)",
+      "url": "https://open.spotify.com/track/4V0UkMx8kDgAwJBwhPjJ5N"
     }
   ],
   "unique_name": "This Is MC Davo",

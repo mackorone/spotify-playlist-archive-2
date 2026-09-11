@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 56 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 52 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
 | 53 | [The Very Same](https://open.spotify.com/track/4MCCyE82tkWFg3tA4TKHMe) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 |
 | 54 | [Unwind](https://open.spotify.com/track/1S50rRkenPLDU9TARWjxoY) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:11 |
-| 55 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
-| 56 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
+| 55 | [SEXUALITY](https://open.spotify.com/track/1A1wzR1nOo0J2e6y1P4TpT) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [GLAMOUR IN A BURNING WORLD](https://open.spotify.com/album/0CR8Kha8SuzJKCZeRainkt) | 3:04 |
+| 56 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
+| 57 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `Acb4HAAAAADhmRLtdYEL1tO3OdhRUzEt`
+Snapshot ID: `Acb9vAAAAAAznBCEQf5ZrEwDbYmzdwz3`

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Shaw
+> The hottest hits right now\. Cover: Stormy
 
 578 songs - 1 day 6 hr 31 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6701,
+  "num_followers": 6698,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAB9XhnkJmwagbU4qmbs4T7g",
+  "snapshot_id": "aqChgAAAAADxYXBn1q34Bn57fxf1M6kM",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 251960,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the Good Old Days (When Times Were Bad)",
+        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 195556,
+      "name": "Harper Valley PTA",
+      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Like a Butterfly",
         "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 143398,
       "name": "Love Is Like a Butterfly",
       "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Good Old Days (When Times Were Bad)",
-        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 195556,
-      "name": "Harper Valley PTA",
-      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -259,62 +259,6 @@
       "duration_ms": 183933,
       "name": "Just Because I'm a Woman",
       "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "Creepin' In",
-      "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, I'm Dolly",
-        "url": "https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Dumb Blonde",
-      "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -339,22 +283,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Atkins - The Master And His Music",
-        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 158853,
-      "name": "Do I Ever Cross Your Mind",
-      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
+      "duration_ms": 183840,
+      "name": "Creepin' In",
+      "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, I'm Dolly",
+        "url": "https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Dumb Blonde",
+      "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
     },
     {
       "added_at": null,
@@ -379,6 +359,26 @@
       "duration_ms": 171133,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Atkins - The Master And His Music",
+        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
     },
     {
       "added_at": null,
@@ -432,9 +432,25 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 197826,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
+      "duration_ms": 311066,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -503,38 +535,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 205850,
-      "name": "Applejack",
-      "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwoods Barbie",
-        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
       },
       "artists": [
         {
@@ -632,9 +616,29 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 201133,
-      "name": "Backwoods Barbie",
-      "url": "https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj"
+      "duration_ms": 205850,
+      "name": "Applejack",
+      "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"
     },
     {
       "added_at": null,
@@ -667,42 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 199872,
-      "name": "But You Know I Love You",
-      "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -727,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 199872,
+      "name": "But You Know I Love You",
+      "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backwoods Barbie",
+        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Backwoods Barbie",
+      "url": "https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dolly: The Seeker - We Used To",
         "url": "https://open.spotify.com/album/0XsLZoOugHHeNc3WftV1fu"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 185207,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/4zaTdrLfDQXFwPWgS95oDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Little Sparrow",
+      "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 125106,
       "name": "When Someone Wants to Leave",
       "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Little Sparrow",
-      "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
     },
     {
       "added_at": null,
@@ -875,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59"
+      "duration_ms": 250725,
+      "name": "TYRANT",
+      "url": "https://open.spotify.com/track/3NtCIBBz5pEAVGeHL4h5mS"
     },
     {
       "added_at": null,
@@ -907,42 +911,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar (Deluxe)",
-        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 267859,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/6OeVJSwLMZWI1Oai0QjMbx"
+      "duration_ms": 213800,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59"
     },
     {
       "added_at": null,
       "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+        "name": "Son of Jolene",
+        "url": "https://open.spotify.com/album/3VSABVCF9Ltk7mzeghLqUD"
       },
       "artists": [
+        {
+          "name": "Belles",
+          "url": "https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
+      "duration_ms": 189772,
+      "name": "Son of Jolene",
+      "url": "https://open.spotify.com/track/0Yr2UODsf2rs7RHCuJqisL"
     }
   ],
   "unique_name": "This Is Dolly Parton",

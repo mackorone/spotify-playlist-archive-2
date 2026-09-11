@@ -2,7 +2,7 @@
 
 ### [Witchy](https://open.spotify.com/playlist/37i9dQZF1DXaE0fSwdyafV)
 
-> It's the witching hours\. Cover: Phoebe Bridgers
+> So mote it be\. Cover: Phoebe Bridgers
 
 186 songs - 11 hr 47 min
 

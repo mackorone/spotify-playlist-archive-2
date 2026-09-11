@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Maurane Voyer",
+  "description": "Les hits zouk & kompa du moment. Photo : SAM x Nesly",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Concentr\u00e9",
+        "url": "https://open.spotify.com/album/6A3mkIUADdtgnK7MYLObeY"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Concentr\u00e9",
+      "url": "https://open.spotify.com/track/5YKsiqYkohePZ4bGYJaOq2"
+    },
+    {
+      "album": {
         "name": "Condamn\u00e9",
         "url": "https://open.spotify.com/album/5td7pfaLpn96MRBbIcrnmc"
       },
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 182500,
       "name": "FANN AN D\u00c9",
       "url": "https://open.spotify.com/track/1tOGGuLNwrRrvB8dK13x42"
@@ -3046,6 +3064,24 @@
       "duration_ms": 182693,
       "name": "Haut niveau",
       "url": "https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni"
+    },
+    {
+      "album": {
+        "name": "Haut Niveau",
+        "url": "https://open.spotify.com/album/7EaCAD1ivIkYxVoeuoTL0v"
+      },
+      "artists": [
+        {
+          "name": "Loriane",
+          "url": "https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191193,
+      "name": "Haut Niveau",
+      "url": "https://open.spotify.com/track/7C9uZGbqbR7p8LDlWkmG9m"
     },
     {
       "album": {
@@ -4744,7 +4780,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190776,
       "name": "Mamzel",
       "url": "https://open.spotify.com/track/3vUvjtYO8qsQzL2EghFFbu"
@@ -6118,6 +6154,32 @@
       "duration_ms": 242684,
       "name": "Pa Jan'm As\u00e9",
       "url": "https://open.spotify.com/track/7jSwDyHWOaBPU4h1XKDUZa"
+    },
+    {
+      "album": {
+        "name": "Pa La La",
+        "url": "https://open.spotify.com/album/72NfPS7bquIxyioWdIP3TH"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "SAM",
+          "url": "https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw"
+        },
+        {
+          "name": "Nesly",
+          "url": "https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Pa La La",
+      "url": "https://open.spotify.com/track/6ymsI6ZGNfTgzeZAo8N3yd"
     },
     {
       "album": {
@@ -9428,7 +9490,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170232,
       "name": "\u00c0 Contre C\u0153ur",
       "url": "https://open.spotify.com/track/1a7zONcQKVRluPPSB9PCtj"

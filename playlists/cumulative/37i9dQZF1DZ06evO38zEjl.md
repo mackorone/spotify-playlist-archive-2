@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-140 songs - 14 hr 28 min
+141 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blue Period](https://open.spotify.com/track/7MZitNYMeHDjFamSe2azBa) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 7:58 | 2022-05-29 |  |
 | [Blues Nile](https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 9:54 | 2023-02-13 |  |
 | [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 | 2022-05-29 | 2023-02-14 |
+| [Broadway Boogie\-Woogie](https://open.spotify.com/track/5CSlxDnahWLG5Qv9UGQbrV) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Broadway Boogie\-Woogie](https://open.spotify.com/album/3WuJlf4nyLNpeVV0qcKDyo) | 5:13 | 2026-09-11 |  |
 | [Brussels \- 2023 Remaster](https://open.spotify.com/track/4ycirWx3Y9ZVlwbfD4s0ga) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound \(2023 Remaster\)](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 10:56 | 2023-09-25 | 2026-08-13 |
 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 | 2023-02-12 |  |
 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 2:07 | 2022-05-29 | 2023-02-13 |
@@ -90,7 +91,7 @@
 | [Ndeya](https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 7:07 | 2022-05-29 | 2022-10-01 |
 | [Neon Night \(Rain\)](https://open.spotify.com/track/2Ry5IaOeSVK48Zky7tVMty) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:20 | 2023-03-31 | 2024-02-21 |
 | [New Gods](https://open.spotify.com/track/3b80tMXogTgBVth0GyhSVU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:55 | 2022-05-29 | 2022-11-05 |
-| [New Gods](https://open.spotify.com/track/6B3A4jhHUQ9m4hOROhvo8p) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:55 | 2023-06-23 |  |
+| [New Gods](https://open.spotify.com/track/6B3A4jhHUQ9m4hOROhvo8p) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:55 | 2023-06-23 | 2026-09-11 |
 | [Night Moves \(Fear\)](https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 2:24 | 2022-09-08 | 2024-05-08 |
 | [Northline \- Live](https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 6:43 | 2022-06-01 | 2026-08-27 |
 | [Ondas Do Mar De Vigo](https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:30 | 2022-10-12 | 2026-05-10 |

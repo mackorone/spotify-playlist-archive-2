@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Bouvier Normal
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,911 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,921 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 83 | [Aucune fleur](https://open.spotify.com/track/1JydHvzhSmrHsxoTOYhog7) | [Soleil Secret](https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K), [Secret sun](https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y) | [Rose lueur](https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m) | 3:18 |
 | 84 | [Magicienne, Vol\. 2](https://open.spotify.com/track/4vpjHwMigWK8RcF80poTuS) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [Magicienne, Vol.2](https://open.spotify.com/album/1PfpS3Dw7oyvdAmRv0tDEj) | 3:27 |
 
-Snapshot ID: `AAAAALaEvbh9kR04dqn/ZptHPjyjRTIR`
+Snapshot ID: `AAAAAC+MQ27CvkS/FlwBzLvVE4N8O0B5`

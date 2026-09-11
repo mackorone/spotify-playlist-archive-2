@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 127800,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 194186,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 100851,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216839,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6kLjRoAF8guEtAUprmNC6s"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 145520,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
@@ -3158,6 +3158,24 @@
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
+    },
+    {
+      "album": {
+        "name": "Ich versteh es jetzt",
+        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "Ich versteh es jetzt",
+      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
     },
     {
       "album": {
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 159551,
       "name": "Music Sounds",
       "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169053,
       "name": "My Darlin'",
       "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 173120,
       "name": "Welcome To My Party",
       "url": "https://open.spotify.com/track/6hNMYhGYl45aYvqLFGqIkV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Akbar Chalay, Mingse
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,430 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,374 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
 | 50 | [Takkan Menyerah](https://open.spotify.com/track/44wumjkitSkaorAWIiXjfu) | [Meer Nash](https://open.spotify.com/artist/5u7bSTNoq9AU1dh4sgurL8) | [Takkan Menyerah](https://open.spotify.com/album/5bQfcQaIirkXPX2XR0g6b3) | 3:57 |
 
-Snapshot ID: `AAAAAHQ8bwtHsk/HM6F7oxqBqSLf8cg8`
+Snapshot ID: `AAAAACk85HHUoMW2lBDQ8YegqrYcrc9/`

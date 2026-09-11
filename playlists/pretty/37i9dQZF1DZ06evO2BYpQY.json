@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81822,
+  "num_followers": 81829,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAABsiv56M800U+sQgzOJwUmU",
+  "snapshot_id": "aqChgAAAAABo5yMl1QOoaKq8LBLzF2vM",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "Why Don't You Do Right",
-      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 201826,
       "name": "Emma's Song",
       "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Why Don't You Do Right",
+      "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Success Has Made a Failure of Our Home",
-      "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -831,22 +815,6 @@
       "duration_ms": 367973,
       "name": "'Til I Whisper U Something",
       "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 215587,
-      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
-      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
     },
     {
       "added_at": null,
@@ -871,22 +839,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Is Yours",
-        "url": "https://open.spotify.com/album/5hKHVNvry7wVB6TfmbS0d7"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
-        {
-          "name": "Ian Brown",
-          "url": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
-        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 325853,
-      "name": "Illegal Attacks",
-      "url": "https://open.spotify.com/track/7nehRqXhqvo94ET8H4Gt3j"
+      "duration_ms": 267360,
+      "name": "Success Has Made a Failure of Our Home",
+      "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Daddy I'm Fine",
+      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

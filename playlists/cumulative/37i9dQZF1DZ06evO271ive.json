@@ -44,7 +44,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182278,
-      "name": "5 Star Freak",
+      "name": "5 Star Freak (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
     },
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 129170,
       "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
       "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152157,
       "name": "I Like It (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
@@ -2205,32 +2205,6 @@
     },
     {
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "date_added": "2024-03-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194047,
-      "name": "Pound Town 2",
-      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
-    },
-    {
-      "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
       },
@@ -2254,6 +2228,32 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Pound Town 2 (feat. Tay Keith & Nicki Minaj)",
+      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
     },
     {
       "album": {
@@ -2416,7 +2416,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164002,
-      "name": "Sexyy Love Money",
+      "name": "Sexyy Love Money (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
     },
     {
@@ -2940,7 +2940,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225132,
-      "name": "U My Everything",
+      "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {

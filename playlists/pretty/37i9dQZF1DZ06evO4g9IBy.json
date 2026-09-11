@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 174446,
+  "num_followers": 174458,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACvkkQavySVa7dP59wjTsUw",
+  "snapshot_id": "aqChgAAAAAAaw8XNhsqyIw6j3VWtBfRP",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 435793,
       "name": "Frozen Love",
       "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -635,62 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buckingham Nicks",
-        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
-      },
-      "artists": [
-        {
-          "name": "Buckingham Nicks",
-          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 133630,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Karat Gold: Songs from the Vault",
         "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
       },
@@ -724,9 +668,41 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 130950,
-      "name": "Without a Leg to Stand On",
-      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
+      "duration_ms": 133630,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
     },
     {
       "added_at": null,
@@ -743,6 +719,30 @@
       "duration_ms": 186173,
       "name": "Enchanted - 2016 Remaster",
       "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buckingham Nicks",
+        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 130950,
+      "name": "Without a Leg to Stand On",
+      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music From Party of Five",
+        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 336560,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 229923,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music From Party of Five",
-        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 336560,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 231709,
       "name": "Don't Let Me Down Again",
       "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     },
     {
       "added_at": null,

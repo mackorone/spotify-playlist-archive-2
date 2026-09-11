@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51685,
+  "num_followers": 51691,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACjQjo4E64gAbrzpd0xuCWq",
+  "snapshot_id": "aqChgAAAAAAJEHsb9eIeIP/4hr84lwGW",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 446302,
-      "name": "Con Brazos Abiertos - En Vivo",
-      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
         "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
       },
@@ -507,8 +491,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 446302,
+      "name": "Con Brazos Abiertos - En Vivo",
+      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remix 1.2",
+        "url": "https://open.spotify.com/album/0h2c6iUGc8bM4dSJjB35Bq"
       },
       "artists": [
         {
@@ -516,17 +516,13 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 280893,
-      "name": "Eres Todo Para Mi",
-      "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
+      "duration_ms": 221906,
+      "name": "Dios Incomparable 1.2",
+      "url": "https://open.spotify.com/track/0bxgCc46Xl32OYnG80wrXh"
     },
     {
       "added_at": null,
@@ -555,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remix 1.2",
-        "url": "https://open.spotify.com/album/0h2c6iUGc8bM4dSJjB35Bq"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
       "artists": [
         {
@@ -564,13 +560,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 221906,
-      "name": "Dios Incomparable 1.2",
-      "url": "https://open.spotify.com/track/0bxgCc46Xl32OYnG80wrXh"
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi",
+      "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
     },
     {
       "added_at": null,

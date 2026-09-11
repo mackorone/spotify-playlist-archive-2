@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Vuat
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,561 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,573 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [sayonara](https://open.spotify.com/track/71aHTa8BzX48U2qnroUKCS) | [Erino Yumiki](https://open.spotify.com/artist/5r1ISfsb72y0v1pmnaHpW2) | [sayonara](https://open.spotify.com/album/0WcdAuDfu32vdFhbv0bwpT) | 5:13 |
 | 80 | [八月の最後](https://open.spotify.com/track/6oQRlCBO4utFTYaoagmKVr) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [八月の最後](https://open.spotify.com/album/3KwCuhe9MP0Q66ZogTTWpu) | 3:51 |
 
-Snapshot ID: `AAAAANGJ9Ip7ecWsrfMcpHLK33a9DNxY`
+Snapshot ID: `AAAAAG7yijqQ5Cxc6Tck0ShDAf55dqnM`

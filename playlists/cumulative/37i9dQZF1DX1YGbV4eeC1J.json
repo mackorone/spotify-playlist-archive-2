@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Harmonize",
+  "description": "What is your love language? Say it in Swahili.  Cover: Lony Bway",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -844,6 +844,24 @@
       "duration_ms": 200620,
       "name": "Chapati",
       "url": "https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG"
+    },
+    {
+      "album": {
+        "name": "Cheche",
+        "url": "https://open.spotify.com/album/5z6iqqk3TdYuDWDm5ZMJ0E"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181747,
+      "name": "Cheche",
+      "url": "https://open.spotify.com/track/0yyIHWneWKoatoZIvMaGu2"
     },
     {
       "album": {
@@ -4301,6 +4319,28 @@
     },
     {
       "album": {
+        "name": "Napendwa",
+        "url": "https://open.spotify.com/album/6d9KJ3UK1Idjud9Hl7A7EC"
+      },
+      "artists": [
+        {
+          "name": "Lony Bway",
+          "url": "https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ"
+        },
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189557,
+      "name": "Napendwa",
+      "url": "https://open.spotify.com/track/2fe7pt46glPPjQFBjriMCz"
+    },
+    {
+      "album": {
         "name": "Napona",
         "url": "https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6"
       },
@@ -4476,7 +4516,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170232,
       "name": "NERVOUS",
       "url": "https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl"
@@ -5045,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Njeve",
+        "url": "https://open.spotify.com/album/0E0crvIU728RRRK5b3821K"
+      },
+      "artists": [
+        {
+          "name": "Onyach Pala",
+          "url": "https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Njeve",
+      "url": "https://open.spotify.com/track/2Wsj8IF7dEBoKKqx0sGqRZ"
+    },
+    {
+      "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
       },
@@ -5230,7 +5288,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158496,
       "name": "Ova",
       "url": "https://open.spotify.com/track/2xgEcxGKkjpGcwlWy0KQfk"
@@ -6762,7 +6820,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 214256,
       "name": "Unanifaa",
       "url": "https://open.spotify.com/track/1h1mm9Hp4V8gDVBx0FB4sr"

@@ -2,7 +2,7 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
+> Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
 812 songs - 1 day 23 hr 46 min
 

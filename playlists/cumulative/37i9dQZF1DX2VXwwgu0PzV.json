@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Limoblaze",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  Anendlessocean",
   "name": "Youth Service",
   "tracks": [
     {
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176299,
       "name": "Away",
       "url": "https://open.spotify.com/track/69H77ocZO6UYHvNxUWP83K"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 137142,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/4FtyRiy7FUnzvA35HT0pOX"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 144046,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/0Rdeo8okBZiBc6MV6Jv98j"
@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170870,
       "name": "CAST AM",
       "url": "https://open.spotify.com/track/1MXBHgeNFY66P9KOdePC0O"
@@ -6049,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Center of Gravity",
+        "url": "https://open.spotify.com/album/0oX7OyUs1VZyX4Qf2TtUjd"
+      },
+      "artists": [
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383551,
+      "name": "Center of Gravity",
+      "url": "https://open.spotify.com/track/01yx7oGKv5mFCy6Fo5G3oc"
+    },
+    {
+      "album": {
         "name": "Champions & Priesthood",
         "url": "https://open.spotify.com/album/4zMGxjA4oQxnT9XkDcq8P1"
       },
@@ -6254,6 +6272,24 @@
       "duration_ms": 162857,
       "name": "CHOICES",
       "url": "https://open.spotify.com/track/1EEKf8YMstLluoAjYNHr4o"
+    },
+    {
+      "album": {
+        "name": "CHOSEN",
+        "url": "https://open.spotify.com/album/62jRpC4cmunCfso0eKqUAH"
+      },
+      "artists": [
+        {
+          "name": "DAIJA",
+          "url": "https://open.spotify.com/artist/6bTNyBMJG1BqAffPPLpOND"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185416,
+      "name": "CHOSEN",
+      "url": "https://open.spotify.com/track/0Tuk824xGjy1KU6yjHvT9r"
     },
     {
       "album": {
@@ -8599,6 +8635,32 @@
     },
     {
       "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "ayomidetPh",
+          "url": "https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK"
+        },
+        {
+          "name": "LAMB CULTURE. & ayomidetPh",
+          "url": "https://open.spotify.com/artist/0Jd56a5TAViMWTPHf8s7te"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151623,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs"
+    },
+    {
+      "album": {
         "name": "DITFK (Do it for the King)",
         "url": "https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN"
       },
@@ -9602,6 +9664,36 @@
       "duration_ms": 148808,
       "name": "ELEDUMARE",
       "url": "https://open.spotify.com/track/4Y22GgnpN6ll5lcxv2F0Uy"
+    },
+    {
+      "album": {
+        "name": "Eledumare",
+        "url": "https://open.spotify.com/album/44APpv3CKu73nw6jJKwxcz"
+      },
+      "artists": [
+        {
+          "name": "Emino Music",
+          "url": "https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a"
+        },
+        {
+          "name": "J3:16",
+          "url": "https://open.spotify.com/artist/5KL8TE5kpFXmPqm3i3Les5"
+        },
+        {
+          "name": "Mckelv",
+          "url": "https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia"
+        },
+        {
+          "name": "Emino",
+          "url": "https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190322,
+      "name": "Eledumare",
+      "url": "https://open.spotify.com/track/4497ViJBXTWLLgsW7nCToW"
     },
     {
       "album": {
@@ -10745,6 +10837,24 @@
     },
     {
       "album": {
+        "name": "FAITHFUL GOD",
+        "url": "https://open.spotify.com/album/6rKMydb8H96SYrfNT0aGLl"
+      },
+      "artists": [
+        {
+          "name": "PYEFA",
+          "url": "https://open.spotify.com/artist/5Wl6nDhxskbjh0ZNV4JUsK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "FAITHFUL GOD",
+      "url": "https://open.spotify.com/track/6WjlrSl63NoQ9utqtk8WCt"
+    },
+    {
+      "album": {
         "name": "Agalliao",
         "url": "https://open.spotify.com/album/1bAPZQ1yz3rFM545syQKyL"
       },
@@ -11323,6 +11433,36 @@
     },
     {
       "album": {
+        "name": "In Christ We Trust (The Album)",
+        "url": "https://open.spotify.com/album/5QUHx6GQGZgtoQEj2RNy4g"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+        },
+        {
+          "name": "Minstrel Peace",
+          "url": "https://open.spotify.com/artist/5iogUTW4sd2cwohdDYv2nm"
+        },
+        {
+          "name": "Zinny D'more",
+          "url": "https://open.spotify.com/artist/6Ryr0ua2vnXgl6UHnwSfyX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144974,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/2KvGd7HRj5IjbnXg0bA4gr"
+    },
+    {
+      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/2vjjgX7x4Xm0y2xuhL0gYx"
       },
@@ -11662,7 +11802,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 139151,
       "name": "Floating",
       "url": "https://open.spotify.com/track/7KP35SFFzNzP4gFFciqrum"
@@ -12810,7 +12950,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 182688,
       "name": "GBEMIDEBE",
       "url": "https://open.spotify.com/track/2cmP0Jzbi0qPWicZZaCopi"
@@ -18904,6 +19044,28 @@
     {
       "album": {
         "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7BS6CepdLrOiqlbTyRptzw"
+      },
+      "artists": [
+        {
+          "name": "Debayo Manuel",
+          "url": "https://open.spotify.com/artist/1VCg1XfZ8GYSFHSR0GNlYF"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237375,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/7FyNhuR1YoAdItYaSgkvfD"
+    },
+    {
+      "album": {
+        "name": "In The Morning",
         "url": "https://open.spotify.com/album/6ps5NRVVLIFsX960BqDIbO"
       },
       "artists": [
@@ -21892,7 +22054,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164495,
       "name": "Little Light (Dem Go Know)",
       "url": "https://open.spotify.com/track/2NyzH3FZHTeRyKruZkzoUj"
@@ -23996,7 +24158,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175468,
       "name": "Million Miracles",
       "url": "https://open.spotify.com/track/1BFALzeTkyGv5P8g4SL85H"
@@ -26604,7 +26766,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161591,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3OjNHsBXP8V1ABRru6tsoZ"
@@ -31843,6 +32005,24 @@
     },
     {
       "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "REVIVAL",
+      "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
+    },
+    {
+      "album": {
         "name": "Rhema",
         "url": "https://open.spotify.com/album/79e4yyjGfqgJvkRJChSA9b"
       },
@@ -32522,7 +32702,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 120000,
       "name": "scntst",
       "url": "https://open.spotify.com/track/1HXzG7995zxSre1dQaE6Ly"
@@ -33166,6 +33346,32 @@
       "duration_ms": 189097,
       "name": "Shugah",
       "url": "https://open.spotify.com/track/0XrdwOSftndzQ0LNNOf7x9"
+    },
+    {
+      "album": {
+        "name": "Shut the devil up",
+        "url": "https://open.spotify.com/album/4XjZRXmUGdJEXf0mq5QrWC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Shut the devil up",
+      "url": "https://open.spotify.com/track/38Dpx3fwXmU1MGd9vFOIXZ"
     },
     {
       "album": {
@@ -34756,6 +34962,28 @@
       "duration_ms": 121208,
       "name": "Super Power (Jesus)",
       "url": "https://open.spotify.com/track/6fqB1Degi2CAuFJIrG0saY"
+    },
+    {
+      "album": {
+        "name": "Super Power II Pack",
+        "url": "https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Super Power II",
+      "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
     },
     {
       "album": {
@@ -39299,6 +39527,28 @@
     },
     {
       "album": {
+        "name": "With you",
+        "url": "https://open.spotify.com/album/0BSmdxQJPazdNVkQsm4Vhy"
+      },
+      "artists": [
+        {
+          "name": "Nomza",
+          "url": "https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx"
+        },
+        {
+          "name": "Shime Ahua",
+          "url": "https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176436,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/5I7TtT69kgDmU4Jo7JowvA"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0hU8ITm80a49GwJVx1LfKO"
       },
@@ -39380,7 +39630,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 147644,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4leFpYPiDcf617jC0WXZXu"
@@ -39573,6 +39823,32 @@
     },
     {
       "album": {
+        "name": "Wonder(I call You)",
+        "url": "https://open.spotify.com/album/6eWIMeCCWFrJRGYKOO24Cc"
+      },
+      "artists": [
+        {
+          "name": "ECHO EDGE",
+          "url": "https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j"
+        },
+        {
+          "name": "Tevinnmusic",
+          "url": "https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB"
+        },
+        {
+          "name": "Wiffi Drips",
+          "url": "https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Wonder(I call You)",
+      "url": "https://open.spotify.com/track/1njOjy3p3YXWEtft2So5dr"
+    },
+    {
+      "album": {
         "name": "WONDERFUL",
         "url": "https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe"
       },
@@ -39706,7 +39982,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160130,
       "name": "Working on Me",
       "url": "https://open.spotify.com/track/1ZOmgrQMm3AbgwSWSftM5H"

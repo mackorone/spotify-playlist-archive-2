@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12057,
+  "num_followers": 12061,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnGJXoS2OKwPse1fwK1eg0XYmpe",
+  "snapshot_id": "AAAAAFYwEY8WRyxru5nZWJKXriZAUdOm",
   "tracks": [
     {
       "added_at": "2026-09-03 07:10:58",
@@ -319,42 +319,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "Dear.J",
-        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Dear.J (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2026-09-03 07:10:58",

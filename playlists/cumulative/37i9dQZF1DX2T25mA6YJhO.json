@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Marina Dom\u00ednguez.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Interferencias.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 121882,
       "name": "Barro",
       "url": "https://open.spotify.com/track/6HUvZJPij7HhU2nyBMoBdI"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 162747,
       "name": "BB",
       "url": "https://open.spotify.com/track/4p7Tq8pkiuIbcF97cxoATa"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164343,
       "name": "Despedida (de una vez por todas)",
       "url": "https://open.spotify.com/track/1ciUi9ir51csJiBOrYq7yG"
@@ -4527,6 +4527,28 @@
     },
     {
       "album": {
+        "name": "Estado mental",
+        "url": "https://open.spotify.com/album/52tfyVHjId9BSorUnXG3wN"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        },
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182783,
+      "name": "Estado mental",
+      "url": "https://open.spotify.com/track/6UhTnqj4EWl3eE9vvV7EJF"
+    },
+    {
+      "album": {
         "name": "Estatua de oro",
         "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
       },
@@ -5450,7 +5472,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 147672,
       "name": "hablemos",
       "url": "https://open.spotify.com/track/5wTFNeGM4aUz7LmHb0zvDX"
@@ -6107,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "Junto Al Cenicero",
+        "url": "https://open.spotify.com/album/15Iy0RzTnfsmL4QV0y1EDm"
+      },
+      "artists": [
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "Junto Al Cenicero",
+      "url": "https://open.spotify.com/track/6NQaIhAMoO2H9ty6UJo1Du"
+    },
+    {
+      "album": {
         "name": "Juventud Eterna",
         "url": "https://open.spotify.com/album/5BdvHCmh41ugthTn5DiV5j"
       },
@@ -6635,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "La pel\u00edcula que he visto m\u00e1s veces",
+        "url": "https://open.spotify.com/album/20acnPwWAhWrInjr7n4Lxg"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248530,
+      "name": "La pel\u00edcula que he visto m\u00e1s veces",
+      "url": "https://open.spotify.com/track/3qC3EdL4AiVOvO9X83ioRp"
+    },
+    {
+      "album": {
         "name": "La Persiana",
         "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
       },
@@ -6808,7 +6866,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204382,
       "name": "Laia",
       "url": "https://open.spotify.com/track/22R4mlAgYegIjaJsQdz6Xp"
@@ -9793,6 +9851,24 @@
     },
     {
       "album": {
+        "name": "Paciencia",
+        "url": "https://open.spotify.com/album/3MyiUaE9R3g8KwOQE4UkvB"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135714,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/2O5rbBQj6ZDSo7o3a5uP3s"
+    },
+    {
+      "album": {
         "name": "Paga y Se\u00f1al",
         "url": "https://open.spotify.com/album/1qorXCYFm9ZHWC4LmJUkTY"
       },
@@ -9880,6 +9956,24 @@
       "duration_ms": 156717,
       "name": "Para Sorpresa de Nadie",
       "url": "https://open.spotify.com/track/7f7vgoXxlhsGdRABmJcPtI"
+    },
+    {
+      "album": {
+        "name": "Todos quieren ser los campeones",
+        "url": "https://open.spotify.com/album/251zB46CYFV1KzMwarroSs"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238577,
+      "name": "Paracadistas en la playa",
+      "url": "https://open.spotify.com/track/0fclGUBSnevscClrYBB7Ij"
     },
     {
       "album": {
@@ -10240,10 +10334,28 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 186865,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/4A41iuAw0bFXhsVQXHEdjq"
+    },
+    {
+      "album": {
+        "name": "Perfumes",
+        "url": "https://open.spotify.com/album/7eqUE5FwgaPuLAUaRijuHp"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166170,
+      "name": "Perfumes",
+      "url": "https://open.spotify.com/track/0WcKCKqAyUP0TWcAc2PwIv"
     },
     {
       "album": {
@@ -11096,7 +11208,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190908,
       "name": "Resaca Emocional",
       "url": "https://open.spotify.com/track/5JeTe8Y5dFPj8dzVg6nKm2"
@@ -12317,6 +12429,24 @@
     },
     {
       "album": {
+        "name": "Tatuaje",
+        "url": "https://open.spotify.com/album/417fHqcqbqBfOs1sjXefEH"
+      },
+      "artists": [
+        {
+          "name": "Nepal Nepal",
+          "url": "https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200532,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/7f82oGFu5NtNGvVYJVULd2"
+    },
+    {
+      "album": {
         "name": "TDA",
         "url": "https://open.spotify.com/album/0eBbJ6ZPUz9WcJGhnu4Hpp"
       },
@@ -12654,6 +12784,24 @@
       "duration_ms": 223698,
       "name": "Todo por el Aire",
       "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
+    },
+    {
+      "album": {
+        "name": "Todo puede pasar",
+        "url": "https://open.spotify.com/album/7C4hSoVV7wJiBZEs9Wh2Bb"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192387,
+      "name": "Todo puede pasar",
+      "url": "https://open.spotify.com/track/1jQSuuUaQJgZLY6zfspqPV"
     },
     {
       "album": {
@@ -14014,7 +14162,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 214991,
       "name": "William Wallace en Lancaster",
       "url": "https://open.spotify.com/track/53rKlY6KQYn9WixDYbc4Nq"

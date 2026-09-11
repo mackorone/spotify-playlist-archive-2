@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73334,
+  "num_followers": 73333,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHR2+LSx++v80sKP8KyJf8x4Tlg8",
+  "snapshot_id": "AAAAANoHmYXgWFDhpT0STyFhOYFVhW99",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:29",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-09-10 03:01:29",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2026-09-10 03:01:29",
+      "album": {
         "name": "TENTAR DE NOVO",
         "url": "https://open.spotify.com/album/67b4a9HNZelF5QRmOjF6vM"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 134249,
       "name": "TENTAR DE NOVO",
       "url": "https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv"
-    },
-    {
-      "added_at": "2026-09-10 03:01:29",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2026-09-10 03:01:29",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-10 03:01:29",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
-    },
-    {
-      "added_at": "2026-09-10 03:01:29",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 225230,
       "name": "Gaveta/Onironauta",
       "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+    },
+    {
+      "added_at": "2026-09-10 03:01:29",
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-09-10 03:01:29",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-09-10 03:01:29",
       "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
-    },
-    {
-      "added_at": "2026-09-10 03:01:29",
-      "album": {
         "name": "Na Mi\u00fada",
         "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 164131,
       "name": "Romance Fora de Hora",
       "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2026-09-10 03:01:29",
+      "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
+      },
+      "artists": [
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        }
+      ],
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-09-10 03:01:29",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-09-10 03:01:29",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "Fim\u2026",
+      "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
+    },
+    {
+      "added_at": "2026-09-10 03:01:29",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2026-09-10 03:01:29",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "Fim\u2026",
-      "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
     },
     {
       "added_at": "2026-09-10 03:01:29",
@@ -839,6 +839,26 @@
     {
       "added_at": "2026-09-10 03:01:29",
       "album": {
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "added_at": "2026-09-10 03:01:29",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 203584,
       "name": "M\u00fasica",
       "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
-    },
-    {
-      "added_at": "2026-09-10 03:01:29",
-      "album": {
-        "name": "Resposta - Spotify Singles",
-        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Resposta - Spotify Singles",
-      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
     }
   ],
   "unique_name": "su\u00edte.",

@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2160,
+  "num_followers": 2159,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAABsSYGVlJn4iaSAoYv1JI35",
+  "snapshot_id": "aqChgAAAAACZFJENP3XZd2DPsn4ENKdc",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 221781,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -763,50 +743,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobra y Falta",
-        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
       },
       "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         }
       ],
-      "duration_ms": 190161,
-      "name": "Sobra y Falta",
-      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
+      "duration_ms": 221781,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "De Perro",
-        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         }
       ],
-      "duration_ms": 151697,
-      "name": "De Perro",
-      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
+      "duration_ms": 166592,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
     },
     {
       "added_at": null,
@@ -835,14 +811,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
       },
       "artists": [
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+      },
+      "artists": [
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
@@ -850,11 +842,19 @@
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 166592,
-      "name": "Decidete",
-      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,757 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,739 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [All Of My Pretty](https://open.spotify.com/track/3MPcqtZXjlVNZkWD55lmb0) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Hopeless Romantic](https://open.spotify.com/album/6ClrF3x27rcS8dqbTSSek6) | 2:38 |
 | 40 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
 
-Snapshot ID: `AAAAAMaSHe02cTrqBh1Ev6qbEHbi89jH`
+Snapshot ID: `AAAAADkKsXR1Nlr/7UFyMrOrI0Kx6U3b`

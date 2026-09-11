@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 Luko, Kris, Speedy på cover!!
+> kun det nyeste danske rap 👀 Merro8 på cover!!
 
-614 songs - 1 day 2 hr 14 min
+616 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Copenhagen](https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:46 | 2023-10-12 | 2023-12-14 |
 | [Corner \(feat\. Kundo\)](https://open.spotify.com/track/19DGsppn5cfEieTtozoi3R) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Corner \(feat\. Kundo\)](https://open.spotify.com/album/5owzxmn7ji3rft2d9MRPQs) | 2:28 | 2025-01-09 | 2025-01-17 |
 | [CPH CITY](https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [CPH CITY](https://open.spotify.com/album/5fVv3UKquiZIXBrYfvCmCh) | 2:09 | 2023-09-21 | 2023-12-14 |
-| [CVR nr](https://open.spotify.com/track/5VWEyiesrywosbXAWnYeZi) | [lesliecph](https://open.spotify.com/artist/3iSL8E9gd8BN8qpxqmX4VE) | [lestiny \(deluxe\)](https://open.spotify.com/album/2iFGMTPdoCRLriVHPovkSo) | 1:58 | 2026-09-03 |  |
+| [CVR nr](https://open.spotify.com/track/5VWEyiesrywosbXAWnYeZi) | [lesliecph](https://open.spotify.com/artist/3iSL8E9gd8BN8qpxqmX4VE) | [lestiny \(deluxe\)](https://open.spotify.com/album/2iFGMTPdoCRLriVHPovkSo) | 1:58 | 2026-09-03 | 2026-09-11 |
 | [DamDam \(feat\. Xabski\)](https://open.spotify.com/track/49CscDtHQLYW9dFDKAEJOr) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [DamDam \(feat\. Xabski\)](https://open.spotify.com/album/5tTjLjP7uo20YqFMVIWzpP) | 2:00 | 2025-07-03 | 2026-04-10 |
 | [Danser i Modgang](https://open.spotify.com/track/0lybCcSxAzxAPNSrzWQuMp) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Danser i Modgang](https://open.spotify.com/album/6VfajJ5DeW20V0sGVaTBaT) | 2:41 | 2024-02-15 | 2024-05-14 |
 | [Danser Med Dæmoner](https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Danser Med Dæmoner](https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy) | 2:41 | 2023-11-10 | 2024-05-14 |
@@ -165,7 +165,7 @@
 | [DO YOU LOVE ME?](https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DO YOU LOVE ME?](https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd) | 2:22 | 2024-02-29 | 2024-04-26 |
 | [DOBBELT OP \(feat\. KESI\)](https://open.spotify.com/track/4wWxiVyTpePpbGPKoilF0c) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [WILLO](https://open.spotify.com/album/4VsTEyWQnqy1185nBAe2OV) | 2:12 | 2025-06-26 | 2025-08-22 |
 | [DOKU](https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [DOKU](https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d) | 1:53 | 2026-02-26 | 2026-06-26 |
-| [don general](https://open.spotify.com/track/6X0VZCGJKpoMGDYflITj4u) | [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs) | [don general](https://open.spotify.com/album/1QkyYWXGFc0epRqDFLU3H7) | 2:25 | 2026-09-03 |  |
+| [don general](https://open.spotify.com/track/6X0VZCGJKpoMGDYflITj4u) | [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs) | [don general](https://open.spotify.com/album/1QkyYWXGFc0epRqDFLU3H7) | 2:25 | 2026-09-03 | 2026-09-11 |
 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP) | 2:14 | 2023-11-10 | 2024-09-13 |
 | [Drunk Talk](https://open.spotify.com/track/4UHnAGrNmcosenpWfamNkZ) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Drunk Talk](https://open.spotify.com/album/6icOw8O8jEo3z6nMs5SJzv) | 2:44 | 2024-03-07 | 2024-05-14 |
@@ -207,7 +207,7 @@
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [FAT DET! \(feat\. Lamin\)](https://open.spotify.com/track/7w3iYJSO5jT1pMjnMd0Xe7) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [JORDEN KALDER](https://open.spotify.com/album/3bBxOm0CSB0oHoqVPIAz0h) | 2:59 | 2025-10-02 | 2026-04-10 |
 | [FDH](https://open.spotify.com/track/3VNNWW4SLCCR0TnQGbRsJy) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [FDH](https://open.spotify.com/album/6Lnuh3LO1QLmOkUFKBNpLS) | 3:02 | 2025-10-09 | 2025-10-24 |
-| [FDP](https://open.spotify.com/track/0eBBDwENzkwUEvL9fSSOsv) | [Hadi](https://open.spotify.com/artist/0B8EmxrRwwZwgQr219wMXg) | [FDP](https://open.spotify.com/album/2l49xPnlQDg0yvED38Fh8I) | 2:32 | 2026-09-03 |  |
+| [FDP](https://open.spotify.com/track/0eBBDwENzkwUEvL9fSSOsv) | [Hadi](https://open.spotify.com/artist/0B8EmxrRwwZwgQr219wMXg) | [FDP](https://open.spotify.com/album/2l49xPnlQDg0yvED38Fh8I) | 2:32 | 2026-09-03 | 2026-09-11 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 | 2024-10-04 |
 | [Februar Freestyle](https://open.spotify.com/track/0DyQV86Wwq9SlxtELN02xf) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Februar Freestyle](https://open.spotify.com/album/2CTnTJrK4jE2G76tMjyalO) | 1:23 | 2026-02-05 | 2026-02-27 |
 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 | 2024-10-10 | 2026-04-10 |
@@ -228,7 +228,7 @@
 | [FOREPLAY](https://open.spotify.com/track/0B1by4Fsle0EYRagJwg8Do) | [3XB](https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7), [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti) | [FOREPLAY](https://open.spotify.com/album/6lpz0j1n2SkxI9LbbAITfr) | 2:22 | 2025-11-13 | 2026-04-10 |
 | [FORFAEN!](https://open.spotify.com/track/4YRdgqskTDE81gqiCGZaDF) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [FORFAEN!](https://open.spotify.com/album/4DybmZcSkspCRNBXh9r8yH) | 2:23 | 2026-06-25 | 2026-08-08 |
 | [Forfra](https://open.spotify.com/track/6bsOIoszGUGP0I8GK028PS) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Forfra](https://open.spotify.com/album/74pSxfFnIuhpN2NYgrvVfh) | 2:54 | 2024-03-07 | 2024-04-05 |
-| [Forkæl Dig Selv](https://open.spotify.com/track/2PjTqP87YekZAmMwABHcCz) | [AMRO](https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ) | [Forkæl Dig Selv](https://open.spotify.com/album/2stx77E9KPCSmP16fZhjes) | 2:51 | 2026-09-03 |  |
+| [Forkæl Dig Selv](https://open.spotify.com/track/2PjTqP87YekZAmMwABHcCz) | [AMRO](https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ) | [Forkæl Dig Selv](https://open.spotify.com/album/2stx77E9KPCSmP16fZhjes) | 2:51 | 2026-09-03 | 2026-09-11 |
 | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/track/5bxbA6Uv3EVpEV6fqu4wjS) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/album/5ZdiU7EZzlasLwknxeDSmT) | 2:28 | 2025-07-31 | 2025-09-05 |
 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 | 2023-10-12 | 2024-09-13 |
 | [Frank Lucas](https://open.spotify.com/track/17Tn91cG7Dz0Fl78p6MRU5) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Frank Lucas](https://open.spotify.com/album/3hn4BBea2cZzLHRZzwdmv9) | 2:13 | 2025-05-29 | 2026-04-10 |
@@ -406,6 +406,7 @@
 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 | 2024-10-17 | 2025-05-16 |
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
+| [Min Demon](https://open.spotify.com/track/4gubHYqq2WnDMahm19OLo0) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Min Demon](https://open.spotify.com/album/1oCCMMqM8JVf8FejDKu257) | 2:32 | 2026-09-10 |  |
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-17 | 2024-06-22 |
 | [Mit Ord](https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Mit Ord](https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL) | 2:30 | 2025-01-09 | 2025-06-27 |
 | [Mocro](https://open.spotify.com/track/4fzkuPErl8QBRCcBZrnNWV) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Mocro](https://open.spotify.com/album/5sVVnYyRy3N8fHNij3XUr5) | 2:31 | 2025-04-10 | 2025-05-30 |
@@ -472,6 +473,7 @@
 | [Rock with It](https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Rock with It](https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE) | 2:25 | 2023-09-29 | 2024-01-19 |
 | [Roll With It](https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:27 | 2023-11-10 | 2024-09-13 |
 | [Roma](https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Roma](https://open.spotify.com/album/67k5Zv2U62mSFwsonVlyOU) | 1:52 | 2024-06-06 | 2025-01-10 |
+| [Rosalina](https://open.spotify.com/track/1d9Cyx8gxzsVcc2AgBrJn0) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Rosalina](https://open.spotify.com/album/1jsPno70OZUz40QtlMNqPt) | 2:34 | 2026-09-10 |  |
 | [Rotation](https://open.spotify.com/track/13Ni2aYM4dunWMAB0SDnP8) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a) | [Rotation](https://open.spotify.com/album/3dd0Wv2l6CoHrAZ2CHL2F8) | 3:00 | 2025-08-28 | 2025-09-19 |
 | [RS](https://open.spotify.com/track/41SXvQoW23qO7P5MPakyG8) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [RS](https://open.spotify.com/album/24ievzyEp79KI4ehUQvUX2) | 2:11 | 2026-09-03 |  |
 | [Run Away](https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Run Away](https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx) | 2:49 | 2023-09-21 | 2023-11-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Calema e L\u00e9o Santana",
+  "description": "Uma playlist de pura alma pop! Foto: Descendentes",
   "name": "Pop PT",
   "tracks": [
     {
@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175578,
       "name": "E Agora ?",
       "url": "https://open.spotify.com/track/2lbDXy8WuAbKg3jQLPyaJH"
@@ -3494,6 +3494,24 @@
       "duration_ms": 203090,
       "name": "engana-me que eu gosto",
       "url": "https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa"
+    },
+    {
+      "album": {
+        "name": "Enleado",
+        "url": "https://open.spotify.com/album/1bPjWd1uGDEKiflOLVfTYL"
+      },
+      "artists": [
+        {
+          "name": "Buba Espinho",
+          "url": "https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155478,
+      "name": "Enleado",
+      "url": "https://open.spotify.com/track/6AQL4I6BDvAIr75Iy4tXBP"
     },
     {
       "album": {
@@ -4970,6 +4988,24 @@
       "duration_ms": 203763,
       "name": "INVIS\u00cdVEL",
       "url": "https://open.spotify.com/track/7e2qBpIs1593KtO3Jtz8TX"
+    },
+    {
+      "album": {
+        "name": "Jasmim",
+        "url": "https://open.spotify.com/album/5qpL9NgvGu6TjaBXaJfQKG"
+      },
+      "artists": [
+        {
+          "name": "Descendentes",
+          "url": "https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131640,
+      "name": "Jasmim",
+      "url": "https://open.spotify.com/track/4D8n0c5mxOh3glkLeefmX2"
     },
     {
       "album": {
@@ -7508,7 +7544,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 173749,
       "name": "Pau Santo",
       "url": "https://open.spotify.com/track/4t40RekrJA3S2N3vnrzBuc"
@@ -9071,6 +9107,24 @@
     },
     {
       "album": {
+        "name": "Saudade da Felicidade",
+        "url": "https://open.spotify.com/album/4o9Tw8Axpmjb5WPLYL5cIC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Maia",
+          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Saudade da Felicidade",
+      "url": "https://open.spotify.com/track/3T9rIvPw4FiKi0epy2P9Wr"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/5LvjwMku6tlmyANXDMoAJl"
       },
@@ -9212,7 +9266,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176938,
       "name": "Se Ligares, Atendo",
       "url": "https://open.spotify.com/track/2Y0rfdWOsCkWBH6paSbAgQ"
@@ -11016,7 +11070,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 177733,
       "name": "V\u00edcio Dif\u00edcil",
       "url": "https://open.spotify.com/track/0SKHaG7xHqJYQ54wz8KVDI"
@@ -11176,6 +11230,24 @@
       "duration_ms": 226758,
       "name": "\u00c9 O Que \u00c9",
       "url": "https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Ouro",
+        "url": "https://open.spotify.com/album/3pyDWNIXrGV90yGjKAktmi"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207780,
+      "name": "\u00c9 Ouro",
+      "url": "https://open.spotify.com/track/5Oklu1nWOv3vgShrkh71s8"
     },
     {
       "album": {

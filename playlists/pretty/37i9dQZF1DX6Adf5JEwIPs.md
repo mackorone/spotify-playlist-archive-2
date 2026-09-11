@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Low Clika 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,285 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,259 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 74 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Ven Devórame Otra Vez](https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj) | 3:12 |
 | 75 | [Yo Era Atea](https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Yo Era Atea](https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA) | 2:29 |
 
-Snapshot ID: `AAAAAG8bm8lR5V7fCUIVo5h0Bukoy8qf`
+Snapshot ID: `AAAAAMG7DjPoViGJ7eFWnp0fhDhnr32I`

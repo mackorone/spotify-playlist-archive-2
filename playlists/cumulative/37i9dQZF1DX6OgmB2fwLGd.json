@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 129230,
       "name": "COUPLE MS",
       "url": "https://open.spotify.com/track/4ReqSFKDuZLvgoEYuNlmsc"
@@ -13285,6 +13285,24 @@
     },
     {
       "album": {
+        "name": "Jag\u00f3dki (Blueberries)",
+        "url": "https://open.spotify.com/album/54ARLpoGAOqoll2WfWj0YQ"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Jag\u00f3dki (Blueberries)",
+      "url": "https://open.spotify.com/track/7cY5xd2WjW0Qx30QvBRL3w"
+    },
+    {
+      "album": {
         "name": "Golden Child, Chapter 2",
         "url": "https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb"
       },
@@ -16489,6 +16507,28 @@
     },
     {
       "album": {
+        "name": "Emotronica",
+        "url": "https://open.spotify.com/album/2XkdkpkPBjj8aLvtptWFmi"
+      },
+      "artists": [
+        {
+          "name": "Darcy Baylis",
+          "url": "https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218873,
+      "name": "Me In Miami",
+      "url": "https://open.spotify.com/track/1TpSXvJ62Ucq7SWmpx7l4I"
+    },
+    {
+      "album": {
         "name": "THE INSPECTION",
         "url": "https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B"
       },
@@ -17176,7 +17216,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 102625,
       "name": "mwah",
       "url": "https://open.spotify.com/track/2Lx8KxpVFrVUq2FRdPid4Y"

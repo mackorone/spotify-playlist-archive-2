@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-316 songs - 19 hr 45 min
+320 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 | 2026-03-21 |
 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 | 2026-02-24 | 2026-04-01 |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
+| [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 | 2026-09-10 |  |
 | [Comeback](https://open.spotify.com/track/7HU5o7PS2iWtSFQNmc42Ol) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:08 | 2026-01-22 | 2026-02-23 |
 | [Commute](https://open.spotify.com/track/66y8r4BeEnyb9ecsWdfNGj) | [Rude Mood](https://open.spotify.com/artist/6aqqzC1X5ylqLgKd2FdgSV) | [Commute](https://open.spotify.com/album/3yRDfvTfroHpvCfOpOJT9n) | 3:56 | 2026-01-24 | 2026-02-23 |
 | [Como planeta vagabundo](https://open.spotify.com/track/5UmGIbYw7AxvmJtPNDu3Hi) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Como planeta vagabundo](https://open.spotify.com/album/0NmxHLhbmrA8oHthzAv5GH) | 4:38 | 2026-01-17 | 2026-02-23 |
@@ -108,6 +109,7 @@
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 | 2026-05-19 |
 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
+| [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 | 2026-09-10 |  |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-05-19 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2026-07-01 | 2026-08-08 |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-17 | 2026-05-17 |
@@ -185,6 +187,7 @@
 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-08-19 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 | 2025-12-28 |
 | [Los Siervos](https://open.spotify.com/track/1GseiTbEMbcnSODRE3Fddh) | [Meltdown](https://open.spotify.com/artist/7EhOlL0RiB0D5PCyODayz0) | [Los Siervos](https://open.spotify.com/album/38y1BjPHgoowBTW3tEDBvJ) | 3:10 | 2026-01-11 | 2026-02-23 |
+| [Lost Soul](https://open.spotify.com/track/5bgTOLXRpwc5oJvVvonmLF) | [Eastern Screech](https://open.spotify.com/artist/1WbSutQjLup2u6k6yh54n4) | [Lost Soul](https://open.spotify.com/album/4lS13XCOSArNUILtmxziZC) | 5:42 | 2026-09-10 |  |
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |
 | [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 | 2026-06-02 | 2026-08-08 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-11-18 | 2025-12-28 |
@@ -229,6 +232,7 @@
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2025-11-04 | 2025-12-28 |
 | [Perché amo il mio lavoro](https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Un'estate all'inferno](https://open.spotify.com/album/72aYGJWx28UtvsP7sXaX42) | 2:41 | 2025-10-30 | 2025-12-28 |
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-12-13 | 2026-01-21 |
+| [Pins and Needles](https://open.spotify.com/track/3E3KM0KwpbR9YEc7n29aBW) | [DOOM SLUG](https://open.spotify.com/artist/2lgrrraDzcRtldVGcT6jNH) | [Pins and Needles](https://open.spotify.com/album/6U2iVWSIaUm4toSwml6nSa) | 4:00 | 2026-09-10 |  |
 | [Plastic World](https://open.spotify.com/track/3KC2RXGgJjiizcah1Dpy60) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 3:47 | 2026-05-30 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-28 |
 | [Playing with Fire](https://open.spotify.com/track/2CLoPYyFM3abS0VtBRCLAk) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Playing with Fire](https://open.spotify.com/album/2DD97DuvevrjwdSIiQlH1B) | 3:13 | 2026-07-07 | 2026-08-08 |

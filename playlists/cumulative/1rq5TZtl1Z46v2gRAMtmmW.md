@@ -4,7 +4,7 @@
 
 > 
 
-581 songs - 1 day 13 hr 21 min
+582 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 | 2025-01-29 | 2025-09-18 |
 | [Book That You Like](https://open.spotify.com/track/1zBcD224iIgGm3fap7jzyE) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Book That You Like](https://open.spotify.com/album/2Bw9P8yQxbsJ5VDemIHWua) | 4:04 | 2025-11-13 | 2026-04-04 |
 | [Boundary Rider](https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Paul Banks](https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4) | [Boundary Rider](https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g) | 3:44 | 2025-10-22 | 2026-04-04 |
+| [BPM](https://open.spotify.com/track/3DigB53Tj50WT4RmrS6jW5) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Makala](https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd) | [BPM](https://open.spotify.com/album/1AIjvuzzvreU8AtbJb5Lyh) | 3:18 | 2026-09-10 |  |
 | [Break Me Down](https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Break Me Down](https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0) | 2:28 | 2024-10-09 | 2025-09-18 |
 | [Bul Bul Bul](https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Bul Bul Bul](https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8) | 3:28 | 2024-09-10 | 2024-12-13 |
 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-11 | 2024-03-02 |

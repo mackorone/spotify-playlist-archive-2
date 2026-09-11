@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: Linda Sikhakhane",
+  "description": "Journey through the sounds of South African Jazz. Cover: Don Laka",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "Invitation 2",
+        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
+      },
+      "artists": [
+        {
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258746,
+      "name": "Monate Ofedile",
+      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
+    },
+    {
+      "album": {
         "name": "Ndiyakudinga (Live)",
         "url": "https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a"
       },
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 272120,
       "name": "P (x) J",
       "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
@@ -6369,6 +6387,28 @@
     },
     {
       "album": {
+        "name": "Thembisa (feat. Phoebe Mgxaji)",
+        "url": "https://open.spotify.com/album/4nWYUDSSBeuEp3Yn7a5F46"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Phoebe Mgxaji",
+          "url": "https://open.spotify.com/artist/2NTiDPpeogEqlHDnDaKmNm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Thembisa (feat. Phoebe Mgxaji)",
+      "url": "https://open.spotify.com/track/5BXDNtOCzfC0VY9jvYLgT6"
+    },
+    {
+      "album": {
         "name": "Duet",
         "url": "https://open.spotify.com/album/3L5DqasQ3XCMfIiaxz4r6x"
       },
@@ -6828,7 +6868,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 471952,
       "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
       "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"

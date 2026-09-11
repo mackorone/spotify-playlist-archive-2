@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "All I Need Is You",
+        "url": "https://open.spotify.com/album/7L4IRsNyIGOi5ny1u8KL7Q"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        },
+        {
+          "name": "The Chosen",
+          "url": "https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200833,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/24Pp8XW7nF1Wo51MFY2jdr"
+    },
+    {
+      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe"
       },

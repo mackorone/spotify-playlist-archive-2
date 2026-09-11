@@ -4,7 +4,7 @@
 
 > 🍾
 
-301 songs - 17 hr 9 min
+303 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 | 2023-02-24 | 2025-07-11 |
 | [Dreams](https://open.spotify.com/track/7BwQTGuWP5SqdL2BqaKfgN) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [Dreams](https://open.spotify.com/album/6LpmVF3vAkW6uMHxNHGWxU) | 2:59 | 2022-12-08 | 2023-03-25 |
 | [Drunk on the Weather](https://open.spotify.com/track/0TfLsd29vQkTJqmzUSIEdY) | [Nico Besso](https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8) | [Drunk on the Weather](https://open.spotify.com/album/3b3H62gevsMUycB4XZI6Ap) | 3:30 | 2026-07-10 | 2026-08-01 |
-| [DU BLEU, DES ÉTOILES](https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo) | [DU BLEU, DES ÉTOILES](https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy) | 4:04 | 2026-05-29 |  |
+| [DU BLEU, DES ÉTOILES](https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo) | [DU BLEU, DES ÉTOILES](https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy) | 4:04 | 2026-05-29 | 2026-09-11 |
 | [Dunston \(Bellaire Remix\)](https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Dunston \(Bellaire Remix\)](https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI) | 3:33 | 2023-07-28 | 2026-04-17 |
 | [Découvre](https://open.spotify.com/track/6T3t3nP3PB6IwK7p0kx02m) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Découvre](https://open.spotify.com/album/23tsp9qwLR2EYq8utMUG3y) | 4:13 | 2024-12-06 | 2025-01-24 |
 | [Easy To Love](https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Into The Blue](https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz) | 3:50 | 2024-07-25 | 2025-11-21 |
@@ -112,6 +112,7 @@
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2022-12-08 | 2023-07-29 |
 | [Free Ride](https://open.spotify.com/track/4L67ZFASgypD9BTlb7VRpv) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Free Ride](https://open.spotify.com/album/4fqMkar9XEPIL18zmrNxXc) | 3:34 | 2022-12-08 | 2023-06-10 |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-27 | 2024-12-07 |
+| [french kids](https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [THANK GOD IT'S ALMOST MONDAY](https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM) | 3:34 | 2026-09-10 |  |
 | [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-07-31 |  |
 | [Galaxie](https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Miroirs](https://open.spotify.com/album/6IudBeRgkljRDt532xTYdN) | 2:59 | 2025-10-16 | 2025-11-29 |
 | [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-12 | 2026-07-11 |
@@ -181,6 +182,7 @@
 | [Moda Disko](https://open.spotify.com/track/7llxZeH1vrnl30QirUuwq0) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g), [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [Moda](https://open.spotify.com/album/1n5T79xCj5x5WUYeYHh5MT) | 3:36 | 2024-06-21 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-09 | 2025-03-14 |
 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 | 2023-12-01 | 2025-01-17 |
+| [MOTS DOUX](https://open.spotify.com/track/5jhPMl0gPwJnUjOEp3IBJj) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [MOTS DOUX](https://open.spotify.com/album/3VhUxOJC6mz9L9naF25e6d) | 2:48 | 2026-09-10 |  |
 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 | 2022-12-08 | 2023-09-23 |
 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 | 2025-09-11 | 2026-06-13 |
 | [My Temptations](https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [My Temptations](https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU) | 3:11 | 2026-04-03 |  |
@@ -284,7 +286,7 @@
 | [Traveling](https://open.spotify.com/track/6gt5K9gmKX6nFU0Z35TPSh) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Traveling](https://open.spotify.com/album/13jajzKoI3hhybfKEBpneW) | 3:22 | 2024-06-21 | 2025-01-24 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-12-08 | 2023-09-23 |
 | [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 | 2026-03-14 |
-| [Upside Down](https://open.spotify.com/track/6sxRO2iJhe3hNU9HP1uJGI) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Upside Down](https://open.spotify.com/album/0ViDharMjqxwOoHFmU9Esx) | 3:27 | 2026-04-30 |  |
+| [Upside Down](https://open.spotify.com/track/6sxRO2iJhe3hNU9HP1uJGI) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Upside Down](https://open.spotify.com/album/0ViDharMjqxwOoHFmU9Esx) | 3:27 | 2026-04-30 | 2026-09-11 |
 | [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-06 | 2026-05-15 |
 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 | 2025-05-30 |  |
 | [Vinyle](https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Vinyle](https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu) | 3:19 | 2025-07-10 | 2025-10-03 |

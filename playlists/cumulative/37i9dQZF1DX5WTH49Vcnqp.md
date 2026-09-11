@@ -2,9 +2,9 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> Music that's hard to define, but easy to love\. Cover: Fat Dog
+> Music that's hard to define, but easy to love\. Cover: daine
 
-1,928 songs - 4 day 14 hr 51 min
+1,931 songs - 4 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,7 +784,7 @@
 | [How Does It Feel?](https://open.spotify.com/track/1OvKX3ZIbOhZgFJBqozqxH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [How Does It Feel?](https://open.spotify.com/album/3GRrJQlccv4BAXIkmmz2tK) | 3:39 | 2021-12-28 | 2022-02-11 |
 | [How Far We've Come](https://open.spotify.com/track/7voaVp5u0HdNDuNcSMg9mS) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [How Far We've Come](https://open.spotify.com/album/7rkjlhUyg6rNQkKTtka8bo) | 3:13 | 2021-12-28 | 2022-02-25 |
 | [How I See You](https://open.spotify.com/track/2fOF7UCcVr4nI5FWBD5C6F) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [How I See You](https://open.spotify.com/album/1OfQIZTxNkScXMfdetYgXH) | 3:49 | 2022-07-14 | 2022-09-09 |
-| [How to Breathe \(feat\. Matt Corby\)](https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything Every Single Day \(The Deluxe Edition\)](https://open.spotify.com/album/1sKinipNp30KnwhZTke1My) | 3:40 | 2026-05-07 |  |
+| [How to Breathe \(feat\. Matt Corby\)](https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything Every Single Day \(The Deluxe Edition\)](https://open.spotify.com/album/1sKinipNp30KnwhZTke1My) | 3:40 | 2026-05-07 | 2026-09-11 |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-02-27 | 2025-06-06 |
 | [How To Stay With You](https://open.spotify.com/track/6P7b7UciZ4Q4sbujF4QcrO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:16 | 2023-10-12 | 2024-01-13 |
 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 | 2022-01-06 | 2022-03-04 |
@@ -943,7 +943,7 @@
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-06-06 | 2025-01-17 |
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-24 | 2022-04-08 |
 | [Kissing In Swimming Pools](https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Kissing In Swimming Pools](https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX) | 4:47 | 2023-10-05 | 2023-12-15 |
-| [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 | 2026-04-23 |  |
+| [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 | 2026-04-23 | 2026-09-11 |
 | [Knees Deep](https://open.spotify.com/track/3RpHDL6xnQeE3JuLMAdNSs) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Knees Deep](https://open.spotify.com/album/39ud6uwbvvFe1NUaTaU6ck) | 3:39 | 2022-08-25 | 2022-09-20 |
 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 | 2022-09-19 | 2022-11-04 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-05-03 |
@@ -1206,6 +1206,7 @@
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-11-17 | 2024-01-22 |
 | [NOSEBLEED](https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [NOSEBLEED](https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I) | 2:44 | 2025-10-09 | 2026-05-22 |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-06 | 2025-02-28 |
+| [Nosebleeds](https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Nosebleeds](https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH) | 3:12 | 2026-09-10 |  |
 | [Nostalgia's Lie](https://open.spotify.com/track/10MJWoKUV6AthUYR323MqB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 4:10 | 2025-10-23 | 2025-12-04 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-07 | 2024-02-16 |
 | [Not My Vibe](https://open.spotify.com/track/5GM14rdRq8IroAH0GcfAlL) | [Approachable Members of Your Local Community](https://open.spotify.com/artist/2Tk2sOxCRRtUX77c1V6Ifb) | [Not My Vibe](https://open.spotify.com/album/4ac9wlBLedRac6dJJyrOeV) | 3:07 | 2022-07-14 | 2022-09-02 |
@@ -1343,6 +1344,7 @@
 | [Preview](https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV) | 3:18 | 2021-12-28 | 2022-01-14 |
 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-07-11 | 2024-08-23 |
 | [Problems](https://open.spotify.com/track/1sOBnmnTgymmnePnotqduF) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Problems](https://open.spotify.com/album/3LbBWNa8gV2axmcVqbC7o2) | 3:32 | 2022-11-17 | 2023-03-03 |
+| [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 | 2026-09-10 |  |
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-01-27 | 2022-03-24 |
 | [Proof](https://open.spotify.com/track/4t9y553ZCwQBrp3ZzV9IRl) | [Methyl Ethel](https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7), [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Proof](https://open.spotify.com/album/0YO2AdPUojNY422lWMsu2d) | 4:24 | 2022-01-17 | 2022-03-30 |
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2025-12-04 |
@@ -1675,7 +1677,7 @@
 | [THE DEEP \- Single Version](https://open.spotify.com/track/27fABCnOF2h2I5BOrCx24G) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [THE DEEP](https://open.spotify.com/album/4ukZMvcU8hSNMVBbcTOaqu) | 3:39 | 2025-11-20 | 2026-03-27 |
 | [The Drop I Hold](https://open.spotify.com/track/78BKPpUXKGAQc3F5rOE304) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [200 Million Thousand](https://open.spotify.com/album/28LRdyNmesOqgmZzAAqysW) | 3:14 | 2023-04-06 | 2023-04-14 |
 | [The Eyes](https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [The Eyes](https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27) | 3:17 | 2025-04-10 | 2025-09-19 |
-| [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 | 2026-06-04 |  |
+| [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 | 2026-06-04 | 2026-09-11 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-09-12 |
 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-01 | 2024-04-05 |
 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 | 2024-12-04 | 2025-01-17 |
@@ -1691,6 +1693,7 @@
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-13 | 2023-08-25 |
 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-08-27 |  |
 | [The Here And Now](https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [The Here And Now](https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl) | 3:46 | 2025-04-10 | 2025-11-07 |
+| [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 | 2026-09-10 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-11 | 2024-10-18 |
 | [THE LINE \(feat\. d4vd\)](https://open.spotify.com/track/6peLcllXcq0BQ6XiwtlVA7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:32 | 2023-11-09 | 2024-01-22 |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2023-04-06 | 2023-04-14 |

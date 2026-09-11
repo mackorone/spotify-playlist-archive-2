@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Mpho.Wav",
+  "description": "The best dance hits in Africa. Cover: Young Jonn",
   "name": "mint Africa",
   "tracks": [
     {
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 228000,
       "name": "Baddi Ah",
       "url": "https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a"
@@ -6994,7 +6994,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 475932,
       "name": "Dark Place (feat. D.General)",
       "url": "https://open.spotify.com/track/2ei3SqR4TH0Jd2jc6XA0Ij"
@@ -9952,7 +9952,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 310011,
       "name": "For This Life (feat. Captain Lulaz & Thesiix)",
       "url": "https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM"
@@ -12076,6 +12076,24 @@
       "duration_ms": 459661,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5QQxsUpbDunlrNxyAvykQw"
+    },
+    {
+      "album": {
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
     },
     {
       "album": {
@@ -15622,7 +15640,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 266731,
       "name": "Ke lekile",
       "url": "https://open.spotify.com/track/5sHXRFxFhwX9geosXPWHQQ"
@@ -22406,6 +22424,32 @@
       "duration_ms": 226229,
       "name": "Oh Lua",
       "url": "https://open.spotify.com/track/1vwv0Jz9aM3v4mP0IL1NEr"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435652,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/2aWM3EwGsrr5IVYEUOkA4i"
     },
     {
       "album": {
@@ -31465,6 +31509,40 @@
     },
     {
       "album": {
+        "name": "uMoya (Tycoon Remix)",
+        "url": "https://open.spotify.com/album/48pXjU8aOvXbV56KFCeY5C"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Zawadi Yamungu",
+          "url": "https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl"
+        },
+        {
+          "name": "Tycoon",
+          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
+        },
+        {
+          "name": "Soulful Disciple",
+          "url": "https://open.spotify.com/artist/6gmMSMt9vm3YYJ5JoBG5my"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518274,
+      "name": "uMoya - Tycoon Remix",
+      "url": "https://open.spotify.com/track/4iQGPl0iUSUJiAlHPNRkdJ"
+    },
+    {
+      "album": {
         "name": "Umswarelo",
         "url": "https://open.spotify.com/album/4G3B9gyLS5Mqe5mcKLCpBS"
       },
@@ -34468,6 +34546,28 @@
       "duration_ms": 227560,
       "name": "Yini Lengaka",
       "url": "https://open.spotify.com/track/3WGmJjX1RUfQHkGQbRGKVO"
+    },
+    {
+      "album": {
+        "name": "YIVULE - CULT\u016aRA Remix",
+        "url": "https://open.spotify.com/album/7Gs0uiBb4ymP9dxQBeC6i0"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "CULT\u016aRA",
+          "url": "https://open.spotify.com/artist/1pX6w8gXzMy0xNvu8aDEir"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287603,
+      "name": "YIVULE - CULT\u016aRA Remix",
+      "url": "https://open.spotify.com/track/5ZHY24A3LBNUYbrZMEEBzs"
     },
     {
       "album": {

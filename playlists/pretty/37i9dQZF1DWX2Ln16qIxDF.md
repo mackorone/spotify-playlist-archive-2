@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Lauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,040 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,956 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [Museo](https://open.spotify.com/track/5edWXb4grqlDzlnt4fbbik) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Museo](https://open.spotify.com/album/2Jy91XyJVkx5awX4sKXJpw) | 2:24 |
 | 100 | [FIFA](https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FIFA](https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e) | 3:27 |
 
-Snapshot ID: `AAAAAEctfyKAv4bXfxt9ZTrX07NIBtle`
+Snapshot ID: `AAAAAKSb+SYAiGWtiaSPcXIb3waIFEzq`

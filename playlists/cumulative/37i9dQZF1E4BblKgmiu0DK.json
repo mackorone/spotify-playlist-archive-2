@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Jinx & The Royals, The Nearly Deads and more",
+  "description": "With Die Mannequin, Bif Naked, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 219266,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4NtZFmh1EST9OMwgfXaMwU"
@@ -6606,7 +6606,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -7630,7 +7630,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 187413,
       "name": "Mother Mother",
       "url": "https://open.spotify.com/track/3jboU6xVRN7HvArTydWO8v"
@@ -9881,6 +9881,24 @@
     },
     {
       "album": {
+        "name": "The Veronicas",
+        "url": "https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199378,
+      "name": "Sanctified",
+      "url": "https://open.spotify.com/track/20ibOJ6OJF5xDQcfslMofK"
+    },
+    {
+      "album": {
         "name": "Hot Nostalgia Radio",
         "url": "https://open.spotify.com/album/1CDFK6KpN3UP0pBuatv6oW"
       },
@@ -11652,7 +11670,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193546,
       "name": "Try Too Hard",
       "url": "https://open.spotify.com/track/6liVe4QuupDwqkVhO7ZFcS"
@@ -11742,7 +11760,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 241333,
       "name": "Turntable",
       "url": "https://open.spotify.com/track/2IlnBPuDqMh87WnsnIkUpL"

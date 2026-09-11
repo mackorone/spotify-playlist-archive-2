@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 20 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 20 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 10 | [Patchwork](https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 9:46 |
 | 11 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
 | 12 | [At Sea](https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Common Ground, Vol\. 1](https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM) | 3:34 |
-| 13 | [Three Sonic Spaces I](https://open.spotify.com/track/40YsslZstSIWncQEt8NNls) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:36 |
+| 13 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
 | 14 | [Drums](https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:09 |
 | 15 | [Where Do We Go](https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:38 |
-| 16 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
+| 16 | [Three Sonic Spaces I](https://open.spotify.com/track/40YsslZstSIWncQEt8NNls) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:36 |
 | 17 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
 | 18 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
-| 19 | [Two Archetypes: Hall of Mirrors \- I](https://open.spotify.com/track/1NAWh1hzqWHyRhxFmSVnRF) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:24 |
+| 19 | [Three Sonic Spaces III](https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 5:53 |
 | 20 | [Appalachian Grove III](https://open.spotify.com/track/79qnW6PocozamltQqh8In9) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 3:14 |
 
-Snapshot ID: `ap9QAAAAAACMvCxx85trGc82eaZgdm9H`
+Snapshot ID: `aqChgAAAAACzMM1Pzx3/rCuCD3JWsVgh`

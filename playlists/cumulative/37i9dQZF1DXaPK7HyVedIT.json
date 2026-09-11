@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: INNDRIVE",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: GOBAITH",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216861,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 136625,
       "name": "Body Soul",
       "url": "https://open.spotify.com/track/13FkUZUebpU85Fb781E6Co"
@@ -3752,6 +3752,24 @@
       "duration_ms": 196179,
       "name": "Chaves",
       "url": "https://open.spotify.com/track/2REqKs8xgCaUc8lwxHTrlA"
+    },
+    {
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/2bA1EUak9L0uXdcxelFq0c"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177710,
+      "name": "Check this Out",
+      "url": "https://open.spotify.com/track/0egImvgRaARTJbQTs3tO24"
     },
     {
       "album": {
@@ -6622,7 +6640,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165692,
       "name": "Everything's Fine (PM)",
       "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
@@ -7670,6 +7688,24 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/3I8XCtQQlAysyh08GlIQGs"
+      },
+      "artists": [
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210942,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/1CiTlOwShN6Rfee93dxayL"
     },
     {
       "album": {
@@ -10644,7 +10680,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 401777,
       "name": "Infinity - ANNA remix",
       "url": "https://open.spotify.com/track/5sdjTwc8YOrgGCV7sl7jq5"
@@ -11118,7 +11154,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 236307,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0PzuMwaIVK0qJTEY7Me3Wx"
@@ -11280,6 +11316,24 @@
       "duration_ms": 232380,
       "name": "Kanyes",
       "url": "https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q"
+    },
+    {
+      "album": {
+        "name": "Keep It Simple",
+        "url": "https://open.spotify.com/album/7l1f5JhLks6aZ2rHy9weT6"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165711,
+      "name": "Keep It Simple",
+      "url": "https://open.spotify.com/track/4kmx6CCYSU8PCZhCvoO0oU"
     },
     {
       "album": {
@@ -15559,6 +15613,24 @@
     },
     {
       "album": {
+        "name": "Open The Club",
+        "url": "https://open.spotify.com/album/3KKG2KQwaIWXrrg03iMWhv"
+      },
+      "artists": [
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Open The Club",
+      "url": "https://open.spotify.com/track/6Vc5Hg7DH5CWkn7qFTUuVB"
+    },
+    {
+      "album": {
         "name": "Ordinary World",
         "url": "https://open.spotify.com/album/2gJMbRQcxXWeMHI0GHQuLc"
       },
@@ -16389,6 +16461,24 @@
     },
     {
       "album": {
+        "name": "Possession",
+        "url": "https://open.spotify.com/album/6nyfs6Brjj6wq3yP5KQ5K7"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/62v4o0MVbulgzmxMTxnb45"
+    },
+    {
+      "album": {
         "name": "Povoada (Remix)",
         "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
       },
@@ -16640,6 +16730,24 @@
       "duration_ms": 192461,
       "name": "Push the Tempo",
       "url": "https://open.spotify.com/track/2zPeSu6oGJb1zBQON9VWxu"
+    },
+    {
+      "album": {
+        "name": "P\u00e9gate Mas a M\u00ed",
+        "url": "https://open.spotify.com/album/3XxgfRpQF5qwUV3eQGH6n7"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "P\u00e9gate Mas a M\u00ed",
+      "url": "https://open.spotify.com/track/65WJfe5yP3wvaGmquDNU68"
     },
     {
       "album": {
@@ -22104,7 +22212,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 246850,
       "name": "Wanderlust - Antdot Remix",
       "url": "https://open.spotify.com/track/6cKhjtNwLSksGMh9fTDmHj"

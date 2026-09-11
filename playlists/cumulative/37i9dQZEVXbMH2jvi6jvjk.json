@@ -10794,7 +10794,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -20970,10 +20970,28 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 248183,
       "name": "Halala",
       "url": "https://open.spotify.com/track/4XPcuvyzaJVUdnyTprH0M3"
+    },
+    {
+      "album": {
+        "name": "Halala",
+        "url": "https://open.spotify.com/album/4WBq91Ijd9SzEExKTp5s2i"
+      },
+      "artists": [
+        {
+          "name": "SNQAMU SODIDLA",
+          "url": "https://open.spotify.com/artist/2G6s7GyZopRilgkidJmteg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248314,
+      "name": "Halala",
+      "url": "https://open.spotify.com/track/19aHvWwxzYorCOHwMGJM9V"
     },
     {
       "album": {
@@ -25286,7 +25304,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -26454,7 +26472,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -27586,7 +27604,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 443394,
       "name": "Izospana",
       "url": "https://open.spotify.com/track/6tvBXtUeHKxDL1oZMas2mF"
@@ -31962,7 +31980,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -36614,7 +36632,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 384000,
       "name": "Mngani Wami (Jaydecai)",
       "url": "https://open.spotify.com/track/6R57BSk5QPahDhxRuVqWoh"
@@ -53320,7 +53338,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -53830,7 +53848,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -55045,6 +55063,24 @@
     },
     {
       "album": {
+        "name": "Idwala",
+        "url": "https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328946,
+      "name": "Thandolwethu",
+      "url": "https://open.spotify.com/track/3iqvXRB9Pv2wZCsEPsqKyc"
+    },
+    {
+      "album": {
         "name": "Ng'funa intozami",
         "url": "https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6"
       },
@@ -55064,7 +55100,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"

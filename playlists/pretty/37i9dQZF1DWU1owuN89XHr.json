@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296924,
+  "num_followers": 296916,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSTn0iDXCA123vZmXjwrV+0QJBB",
+  "snapshot_id": "AAAAADM2f0dl9MZ/1qgPVQ37WBIDjr69",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
       },
       "artists": [
         {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
       },
       "artists": [
         {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
         }
       ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
+      "duration_ms": 194680,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Ti o de Nadie",
-        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Usted No Deber\u00eda",
-      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
         "url": "https://open.spotify.com/album/6GhAIUmsWHKihwzCfo1c0U"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "De Ti o de Nadie",
+        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Usted No Deber\u00eda",
+      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Flor Y El Abejorro",
+        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 249740,
+      "name": "La Flor Y El Abejorro",
+      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
       "added_at": "2022-08-19 02:13:59",
@@ -879,22 +895,6 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Flor Y El Abejorro",
-        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 249740,
-      "name": "La Flor Y El Abejorro",
-      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
       "added_at": "2021-07-29 16:46:05",

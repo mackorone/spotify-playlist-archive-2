@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "From the Trauma Care Unit",
+        "url": "https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203239,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS"
+    },
+    {
+      "album": {
         "name": "Shakira. (Expanded Edition) [Spanish Version]",
         "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
       },

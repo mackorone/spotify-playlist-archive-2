@@ -1,126 +1,74 @@
 {
-  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Aline Barros",
-  "num_followers": 380286,
+  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Isadora Pompeo",
+  "num_followers": 380335,
   "original_name": "Novidades Religiosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAEBdpLFYjSrin4mgbb6o5Mt5c6",
+  "snapshot_id": "AAAAANXpZUd8FRDXQiRFhOQeffuv4W7c",
   "tracks": [
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Livro do Cordeiro",
-        "url": "https://open.spotify.com/album/43gT6m3XyqjHQ4kW9ouAGl"
+        "name": "Um Cora\u00e7\u00e3o Que Te Agrada",
+        "url": "https://open.spotify.com/album/0ZO3ulPEgaFZ9MHKQ9AK2c"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 358281,
-      "name": "Livro do Cordeiro",
-      "url": "https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ"
+      "duration_ms": 296000,
+      "name": "Um Cora\u00e7\u00e3o Que Te Agrada",
+      "url": "https://open.spotify.com/track/0qOH9IoqPrmwiwxDGGXtFt"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "A CRISTO SEJA A GL\u00d3RIA",
-        "url": "https://open.spotify.com/album/23mpLYp1CECNRnK9Xy7xgu"
+        "name": "Aba Pai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kJfQQqEzK81ikAA7KFT9H"
       },
       "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
         {
           "name": "Julliany Souza",
           "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 578181,
-      "name": "A CRISTO SEJA A GL\u00d3RIA",
-      "url": "https://open.spotify.com/track/3R92iO0RYDUBUeRCBmt2ll"
+      "duration_ms": 513413,
+      "name": "Aba Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/16wTMKqjzopFetj2CvdOht"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3aXICAnXXEGrUi1evWbiwz"
+        "name": "\u00c9 Prof\u00e9tico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uZof9NMLKgKI1mhctvnNV"
       },
       "artists": [
         {
-          "name": "Jonata Cabral",
-          "url": "https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp"
-        }
-      ],
-      "duration_ms": 324693,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ZJAbUoRb2yCL9nWuA9G7U"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/3IVjyvMK8IdLo1wvESA2Iv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 300085,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/2YOE2mbWHlKcOM1DwAaoNk"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Vencedor (Champion)",
-        "url": "https://open.spotify.com/album/3OEicrDIM5dMGXFmmzkLsp"
-      },
-      "artists": [
-        {
-          "name": "Nai Lopes",
-          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
-        },
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 406828,
-      "name": "Vencedor (Champion)",
-      "url": "https://open.spotify.com/track/13lHSmLNE0xWlf0Et1vlfE"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "At\u00e9 Depois do Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uzOOc5adUvg1mp1b74ulV"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 398152,
-      "name": "At\u00e9 Depois do Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Xs3IfXaFkZn3UInOLqctz"
+      "duration_ms": 450023,
+      "name": "\u00c9 Prof\u00e9tico - Ao Vivo",
+      "url": "https://open.spotify.com/track/45XWnKaLSCpKs43L7MXkzD"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Paix\u00e3o & Devo\u00e7\u00e3o Vol. 3",
-        "url": "https://open.spotify.com/album/6d0rTbb20X0GF1XnqYLVEj"
+        "name": "Paix\u00e3o & Devo\u00e7\u00e3o Vol. 5 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3qukpcOQrVB7iwDBYAUXoo"
       },
       "artists": [
         {
@@ -128,220 +76,28 @@
           "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Salmos 126",
-      "url": "https://open.spotify.com/track/54KatL2KNQbsrCqnG6FHRk"
+      "duration_ms": 208965,
+      "name": "Se Voc\u00ea Estivesse Aqui",
+      "url": "https://open.spotify.com/track/50AXYjbkx5m9FKAkEwoOIT"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Bondade e Miseric\u00f3rdia",
-        "url": "https://open.spotify.com/album/11qc7bVHlpe3gMRPlCPrCp"
+        "name": "Carpinteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Kl43omHI4eKNg7iDCDqsX"
       },
       "artists": [
         {
-          "name": "Veronica Sacer",
-          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
+          "name": "Nilson Junior",
+          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
         }
       ],
-      "duration_ms": 183300,
-      "name": "Bondade e Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/6VGdGz9BOVq1mB4i4HycFT"
+      "duration_ms": 250217,
+      "name": "Carpinteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/48hgIGJpnTlzVhnXJxWrW5"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Totalmente Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5yaupvi51aNood4uYEkvR0"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Totalmente Poderoso (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2bT1dqHozRSLiTat7jhO2r"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Quem Tem Chamado",
-        "url": "https://open.spotify.com/album/2ufPnrr8GWVNXoqBtQn3Pe"
-      },
-      "artists": [
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 364182,
-      "name": "Quem Tem Chamado",
-      "url": "https://open.spotify.com/track/63y85hb2zEvBD9r5QZMe7N"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Meu Prazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6VwiR2NrHWfMieaYPOmmdL"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TrtYPxvCDahTT68SA5WQ9"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Sess\u00e3o Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5U3nsNjpF2lz84koEErlHz"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 412382,
-      "name": "Meu Pai - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Lic8k0QKGnBdfrl7XJSV4"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Fogo e Renovo",
-        "url": "https://open.spotify.com/album/3zethXc7M90ddr1DyoBihH"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 313063,
-      "name": "Deus dos Deuses",
-      "url": "https://open.spotify.com/track/1vlKCyZmB8UjfILwYNPEsW"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Vencendo de Joelhos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3fZmJsxEKccWynHXnsqxnp"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 532500,
-      "name": "Vencendo de Joelhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/1gk1YLKK4HmJzAWL9teEsU"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Meu Provedor",
-        "url": "https://open.spotify.com/album/4lHQ8qidMpvImCn0GZONp6"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 419723,
-      "name": "Meu Provedor",
-      "url": "https://open.spotify.com/track/1Cm4XiURLNtae86mHFHtBm"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Fiel no Pouco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ixm6r9eUzO3re0cjqRkB8"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 368786,
-      "name": "Fiel no Pouco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2pwPm4X4FHHddSh9cGWUSD"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Teu Fogo",
-        "url": "https://open.spotify.com/album/1c8B1KcA8rzMHxou5P32kd"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 377404,
-      "name": "Teu Fogo",
-      "url": "https://open.spotify.com/track/5IsAIbitRY2L3Ze9UxHBht"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Jesus Me Satisfaz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sryhL9MkzJf9mwt9QmS8m"
-      },
-      "artists": [
-        {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
-        }
-      ],
-      "duration_ms": 341265,
-      "name": "Jesus Me Satisfaz - Ao Vivo",
-      "url": "https://open.spotify.com/track/397iLrjigXAi4U3Nq8yxOR"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Amamos Mais e Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nST5RPn4YVFq12XRBVt3u"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 313895,
-      "name": "Amamos Mais e Mais - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PjF4QMYEOxfI6OyYg9msU"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Nossa Prece",
         "url": "https://open.spotify.com/album/5gwD1TECxqEIwUPeYwJZ6Q"
@@ -361,7 +117,27 @@
       "url": "https://open.spotify.com/track/7rurWtKOtGBACFgtQmACpl"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Uma por Uma (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6U6n2VYTFtRrR8vFU86SAh"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 271428,
+      "name": "Uma por Uma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5HlkiKDkEJ6g7WEmCwnJvk"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Eu Creio em Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BlUEO0f1ZbDOkipT6gT2I"
@@ -381,7 +157,23 @@
       "url": "https://open.spotify.com/track/04YIUKP8wjuLPFAkClJizL"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "\u00c9 Aqui",
+        "url": "https://open.spotify.com/album/56cQuFiX8LM8DcDYZ47Kga"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 285003,
+      "name": "\u00c9 Aqui",
+      "url": "https://open.spotify.com/track/66w1IKdznZf6zAyo1Dk012"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "O C\u00e9u \u00c9 o Meu Lar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB"
@@ -397,31 +189,187 @@
       "url": "https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Campos do Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EjtRUCNCFI6BcOK4uloY2"
+        "name": "Livro do Cordeiro",
+        "url": "https://open.spotify.com/album/43gT6m3XyqjHQ4kW9ouAGl"
       },
       "artists": [
         {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Isaac Pra\u00e7a",
-          "url": "https://open.spotify.com/artist/5dXNg4FOymDKvuyO0l7mFL"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 268615,
-      "name": "Campos do Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Y511f5IbRXzRTOxxmc6BS"
+      "duration_ms": 358281,
+      "name": "Livro do Cordeiro",
+      "url": "https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "A CRISTO SEJA A GL\u00d3RIA",
+        "url": "https://open.spotify.com/album/23mpLYp1CECNRnK9Xy7xgu"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 578181,
+      "name": "A CRISTO SEJA A GL\u00d3RIA",
+      "url": "https://open.spotify.com/track/3R92iO0RYDUBUeRCBmt2ll"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "At\u00e9 Depois do Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uzOOc5adUvg1mp1b74ulV"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 398152,
+      "name": "At\u00e9 Depois do Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Xs3IfXaFkZn3UInOLqctz"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Sess\u00e3o Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5U3nsNjpF2lz84koEErlHz"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 412382,
+      "name": "Meu Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Lic8k0QKGnBdfrl7XJSV4"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Escolhido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MMKM2CtOPyjpKv79blf8U"
+      },
+      "artists": [
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 291483,
+      "name": "Escolhido - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JRJGUbyce1usEStXKvxGU"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Vencedor (Champion)",
+        "url": "https://open.spotify.com/album/3OEicrDIM5dMGXFmmzkLsp"
+      },
+      "artists": [
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 406828,
+      "name": "Vencedor (Champion)",
+      "url": "https://open.spotify.com/track/13lHSmLNE0xWlf0Et1vlfE"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Fogo e Renovo",
+        "url": "https://open.spotify.com/album/3zethXc7M90ddr1DyoBihH"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 313063,
+      "name": "Deus dos Deuses",
+      "url": "https://open.spotify.com/track/1vlKCyZmB8UjfILwYNPEsW"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Meu Provedor",
+        "url": "https://open.spotify.com/album/4lHQ8qidMpvImCn0GZONp6"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 419723,
+      "name": "Meu Provedor",
+      "url": "https://open.spotify.com/track/1Cm4XiURLNtae86mHFHtBm"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Jesus Me Satisfaz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sryhL9MkzJf9mwt9QmS8m"
+      },
+      "artists": [
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        }
+      ],
+      "duration_ms": 341265,
+      "name": "Jesus Me Satisfaz - Ao Vivo",
+      "url": "https://open.spotify.com/track/397iLrjigXAi4U3Nq8yxOR"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Amamos Mais e Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nST5RPn4YVFq12XRBVt3u"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 313895,
+      "name": "Amamos Mais e Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PjF4QMYEOxfI6OyYg9msU"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Sim e Am\u00e9m",
         "url": "https://open.spotify.com/album/3jXHbvOx6K7TMyIxnpDmbG"
@@ -445,107 +393,199 @@
       "url": "https://open.spotify.com/track/1e9K626LI5UKPGqAeIsogq"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Onde Est\u00e1s",
-        "url": "https://open.spotify.com/album/4Rc8EsnkqTTMSamQmrrRvr"
+        "name": "Eu S\u00f3 Quero Adorar",
+        "url": "https://open.spotify.com/album/4Xkfw4VM2Dc0VpmAte9yq1"
       },
       "artists": [
         {
-          "name": "Douglas Borges",
-          "url": "https://open.spotify.com/artist/6GaVicTE93qggdykao6puC"
-        },
-        {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
         }
       ],
-      "duration_ms": 614375,
-      "name": "Onde Est\u00e1s",
-      "url": "https://open.spotify.com/track/70WBzLZoBdGCPToRclB51T"
+      "duration_ms": 242977,
+      "name": "Eu S\u00f3 Quero Adorar",
+      "url": "https://open.spotify.com/track/6NZXclCxaQ3Rd1KZapbWLh"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Magnificado (A Comunh\u00e3o - Um Projeto Louvor Eterno)",
-        "url": "https://open.spotify.com/album/14qZdMWFuPIrYB1JDuE0H8"
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/6STKWqMjBh1zmxZtcfDqFE"
       },
       "artists": [
         {
-          "name": "Eliane Silva",
-          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
-        },
-        {
-          "name": "A COMUNH\u00c3O",
-          "url": "https://open.spotify.com/artist/5tlU9rKQJPXyfGGnDrtizI"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
         }
       ],
-      "duration_ms": 344956,
-      "name": "Magnificado",
-      "url": "https://open.spotify.com/track/5ynsIIPwoyBJcJVWMdcIMP"
+      "duration_ms": 266250,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6CoI9Nxd6TrN9CSV40ZQse"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "O Espirito do Senhor",
-        "url": "https://open.spotify.com/album/7M72SYnWUbuXFac5LOVwjv"
+        "name": "Prop\u00f3sito na Dor",
+        "url": "https://open.spotify.com/album/4OuXFGTCLCoYzVgFP56P0R"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
         }
       ],
-      "duration_ms": 345483,
-      "name": "O Espirito do Senhor",
-      "url": "https://open.spotify.com/track/7H9IePu1u4aTdkfqy77E6Q"
+      "duration_ms": 288000,
+      "name": "Prop\u00f3sito na Dor",
+      "url": "https://open.spotify.com/track/6uzwl06pRgBAJoNs3KqsyC"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/0Q4PPOHoXlJc8HYvL55vax"
+        "name": "O Fogo N\u00e3o Pode Apagar",
+        "url": "https://open.spotify.com/album/5PkaZtpDsaD8yABTUurKEI"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 245500,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea",
-      "url": "https://open.spotify.com/track/2qvCBW7I72DTT4NCS8QUUx"
+      "duration_ms": 413595,
+      "name": "O Fogo N\u00e3o Pode Apagar",
+      "url": "https://open.spotify.com/track/0auKtgwaWOnePfdfQiZm40"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Vem Com Fogo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fNJKeMpOkWFImebNeEsxS"
+        "name": "N\u00e3o Sou Celebridade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vtNtm8rer0RtwqOfQEETT"
       },
       "artists": [
         {
-          "name": "Carol Tauber",
-          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
         },
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Samuel Eleoterio",
+          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
         }
       ],
-      "duration_ms": 536990,
-      "name": "Vem Com Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/66RG7nrkCGdfdAaHDxRnI1"
+      "duration_ms": 259413,
+      "name": "N\u00e3o Sou Celebridade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6jUQUn3aXnlH0PsVt9RIqw"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Pode Confiar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PLrVEqtr3bJZtoVu886l9"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "duration_ms": 244259,
+      "name": "Pode Confiar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3neUxnFRNMGOefG2ZxcE8Y"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Eu N\u00e3o Sabia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78arjwCBKkNgw5Sgvjr5bl"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 443933,
+      "name": "Eu N\u00e3o Sabia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2fafIJbMUTxaEygcixaShY"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Poderoso Ele \u00e9",
+        "url": "https://open.spotify.com/album/0OgfOATXBjKqLFG42DiU79"
+      },
+      "artists": [
+        {
+          "name": "Rachel Malafaia",
+          "url": "https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ"
+        },
+        {
+          "name": "Hadassah Malafaia",
+          "url": "https://open.spotify.com/artist/7n5KYWMzcifzE6T7nvYyIB"
+        }
+      ],
+      "duration_ms": 282745,
+      "name": "Poderoso Ele \u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4LcrzHd4cJfVBgInC4Ypsh"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/3IVjyvMK8IdLo1wvESA2Iv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 300085,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/2YOE2mbWHlKcOM1DwAaoNk"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Bondade e Miseric\u00f3rdia",
+        "url": "https://open.spotify.com/album/11qc7bVHlpe3gMRPlCPrCp"
+      },
+      "artists": [
+        {
+          "name": "Veronica Sacer",
+          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
+        }
+      ],
+      "duration_ms": 183300,
+      "name": "Bondade e Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/6VGdGz9BOVq1mB4i4HycFT"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
+      "album": {
+        "name": "Campos do Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EjtRUCNCFI6BcOK4uloY2"
+      },
+      "artists": [
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Isaac Pra\u00e7a",
+          "url": "https://open.spotify.com/artist/5dXNg4FOymDKvuyO0l7mFL"
+        }
+      ],
+      "duration_ms": 268615,
+      "name": "Campos do Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Y511f5IbRXzRTOxxmc6BS"
+    },
+    {
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Me Tira O Medo",
         "url": "https://open.spotify.com/album/5xdFKvsfbgfccbSUUYOCG6"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/2fIReMUdqvdKPtFKCNb4r5"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Eu N\u00e3o Perdi O Controle",
         "url": "https://open.spotify.com/album/27od2ibELLvYVANpiQXvj5"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/52ugRqdFd32VMjbV8gOrio"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Eu Me Rendo (Voz e Viol\u00e3o Ao Vivo)",
         "url": "https://open.spotify.com/album/6dRI28JLzNd3S6ecZQGxyc"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/34weJm5eMixu9RsE9Jh5fi"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Minha Raiz (Ao Vivo)",
         "url": "https://open.spotify.com/album/3MJn59Q4FvSQjkZKV8ISe2"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/1t8nIeKS6NlRLIVmiOhSXE"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/2kbBSMylNmMdF1KIvB2F1R"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/6oo3Wy4Ho93l06KMCf7aZo"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Jornada (Nas Casas)",
         "url": "https://open.spotify.com/album/3W2eNraOhBjeSS7VJVIJYz"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/0U4yI7y7ijrESlWPB6jj2H"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Sou Filho",
         "url": "https://open.spotify.com/album/3gJRxajbYSW2nrJFeAWTl8"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/1newh5AHLiEyx4SuMUUFzZ"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Deus Cuida de Mim (Voz e Viol\u00e3o Ao Vivo)",
         "url": "https://open.spotify.com/album/25bWpgQoeSE5CAyxs4vbNl"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/0OaPvYFVlB7wvwo3ocUhKY"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Se N\u00e3o Fosse a M\u00e3o de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/76xXEWlvWurFVzD2fKaa0v"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/0fYBQK4CWc4nf4rHS5snHL"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5eAd1GeHkwFJQxGlUpOooj"
@@ -713,27 +753,7 @@
       "url": "https://open.spotify.com/track/3pyATxiqfv9rzbUH1Z16NP"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "+Maria+Jesus",
-        "url": "https://open.spotify.com/album/6kDHmR7NsfyzBTxq3XPjmi"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE CAMPOS",
-          "url": "https://open.spotify.com/artist/2uYOdjQRzMUmEg9xAeWpcw"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 279018,
-      "name": "+Maria+Jesus",
-      "url": "https://open.spotify.com/track/5ALrCIAYdORYahMzFu6fRE"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "A Esperan\u00e7a Eu Encontrei (Ao Vivo)",
         "url": "https://open.spotify.com/album/50CkeENOWN2htnvBs8OloW"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/74gJaHljc150NvZAZQ8MPJ"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "A Igreja Vai Subir",
         "url": "https://open.spotify.com/album/1eJmPzVGlspWZIi3F7QPTH"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/21renLGqK8yyC9PDDxycgC"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Yeshua, Casa Comigo (Live Acoustic)",
         "url": "https://open.spotify.com/album/3aZqpI382HG8mlgXxTk6OO"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/3jgG1U6KjzY7an5o7MENZY"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Eu e Minha Casa | 25 Anos - Parte 1: Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/41cXkG45fsdclxqCPrl5Ku"
@@ -809,47 +829,23 @@
       "url": "https://open.spotify.com/track/1cUoKfTYF4CIMgkPjh9oAY"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
-        "name": "Na Face de Deus",
-        "url": "https://open.spotify.com/album/4SqyF7EMwS0LEzX8MJv2jy"
+        "name": "Meu Alvo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7DsbMjFst6ZLsV6OJ1MBmD"
       },
       "artists": [
         {
-          "name": "Vanderl\u00e9ia Moura",
-          "url": "https://open.spotify.com/artist/67dsr5fU0B1Vn3isdmfmcC"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+          "name": "Jonata Cabral",
+          "url": "https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp"
         }
       ],
-      "duration_ms": 259159,
-      "name": "Na Face de Deus",
-      "url": "https://open.spotify.com/track/5gEqIlsNrfEFIXWu6lqaak"
+      "duration_ms": 229693,
+      "name": "Meu Alvo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5QDesvAfEEjnBO2py9h2sN"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "Tom\u00e9",
-        "url": "https://open.spotify.com/album/4EdCKDsG1dLhfL0gG0ZrVD"
-      },
-      "artists": [
-        {
-          "name": "Anderson Barros",
-          "url": "https://open.spotify.com/artist/0bfnp6ummqHWaclDkfga1A"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 245956,
-      "name": "Tom\u00e9",
-      "url": "https://open.spotify.com/track/5FxGf4EkOjp9ipOJm63gE7"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "O C\u00e9u \u00e9 o Meu Lar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3EaWU9ssMe3xhq82HGx0dx"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/7kvQI0lykVp0nvKOAK9Mws"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "C\u00e9us Abertos",
         "url": "https://open.spotify.com/album/3eZYrvcjaTkmq3ujEqypf5"
@@ -893,23 +889,7 @@
       "url": "https://open.spotify.com/track/0PYGOW02IGj6FHxODgbNJ6"
     },
     {
-      "added_at": "2026-09-04 12:36:22",
-      "album": {
-        "name": "\u00d4 Jac\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ovHBGGkSWbtigt8Zt72jM"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "\u00d4 Jac\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/55Ju8dj0CNc0NZ9gqsN6Ro"
-    },
-    {
-      "added_at": "2026-09-04 12:36:22",
+      "added_at": "2026-09-11 03:01:06",
       "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/3BzesyNkmHObHIIOKuBMAN"

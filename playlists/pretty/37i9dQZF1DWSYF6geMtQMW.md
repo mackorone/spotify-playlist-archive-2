@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר:שאקירה ובורנה בוי
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,465 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,508 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
 | 50 | [מחזיק לך את היד](https://open.spotify.com/track/3IQz49JrOqwhWoSF62zMgW) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [30 \- חלק א'](https://open.spotify.com/album/38fUzpmw8SyOWTIbECHEnm) | 4:07 |
 
-Snapshot ID: `AAAAAO4WfH5CjOcmaxbzhLfvetdWk9wj`
+Snapshot ID: `AAAAAEQbEqtbepx3R2C549Ij8psPa+Nc`

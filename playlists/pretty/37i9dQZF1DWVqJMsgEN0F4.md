@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Dominic Fike along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,975 likes - 81 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,997 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 80 | [Let Me Go](https://open.spotify.com/track/0Bw0kB0fDnAS8IKks0S8Qu) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Let Me Go](https://open.spotify.com/album/0HiRotGMOWoUcbdEbe1W7T) | 3:08 |
 | 81 | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [World's Always Burning \[Feat\. Mannequin Pussy\]](https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs) | 2:58 |
 
-Snapshot ID: `AAAAAHWw7VHaUAXwdo37rzjR6HLquMQQ`
+Snapshot ID: `AAAAABm1U+SyGvTfEYvyv9Z/LrBYd32c`

@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
+      },
+      "artists": [
+        {
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162768,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
+    },
+    {
+      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192820,
       "name": "Moonshine - Chronometric Edit",
       "url": "https://open.spotify.com/track/3y3m0x6cIF0tGC1DTuAlNA"

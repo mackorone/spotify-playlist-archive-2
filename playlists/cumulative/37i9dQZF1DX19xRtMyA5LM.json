@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer. ",
+  "description": "\u2757\ufe0fNieuwe tracks: Topperig & Dior, Leblanco, SMIB, Marou & Massin, Mario Cash en meer. ",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Al Blancocino",
+        "url": "https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Al Blancocino",
+      "url": "https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52"
+    },
+    {
+      "album": {
         "name": "Alcantara",
         "url": "https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 154666,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/7AzSpz2cBOFzFfBQwZHSyA"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
@@ -1354,6 +1372,32 @@
       "duration_ms": 146171,
       "name": "Bean",
       "url": "https://open.spotify.com/track/2Krb5luBGFRl8IVZgpfbMf"
+    },
+    {
+      "album": {
+        "name": "BEDTIJD",
+        "url": "https://open.spotify.com/album/194CRoDUaqhG1UbikdHEeF"
+      },
+      "artists": [
+        {
+          "name": "Mario Cash",
+          "url": "https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB"
+        },
+        {
+          "name": "C7",
+          "url": "https://open.spotify.com/artist/479mu7Ex7VuSufnGgqZreO"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "BEDTIJD",
+      "url": "https://open.spotify.com/track/1KOoSTHIix736AG6O8fB3L"
     },
     {
       "album": {
@@ -5312,7 +5356,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 144000,
       "name": "Jongen Van Gracht",
       "url": "https://open.spotify.com/track/0GxDhad2ua9RGriTOy4lSr"
@@ -5830,6 +5874,40 @@
       "duration_ms": 157000,
       "name": "Kutlife",
       "url": "https://open.spotify.com/track/3VtDxOVUYVsrSMYqC7oRmh"
+    },
+    {
+      "album": {
+        "name": "LA FAMILIA (feat. Nnelg, GRGY, Loopey, Ray Fuego)",
+        "url": "https://open.spotify.com/album/4WqgyaWOTvPEwRalr3nmv5"
+      },
+      "artists": [
+        {
+          "name": "SMIB",
+          "url": "https://open.spotify.com/artist/1z32oeFVVhOGidhdpkmw3t"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        },
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        },
+        {
+          "name": "Loopey",
+          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
+        },
+        {
+          "name": "GRGY",
+          "url": "https://open.spotify.com/artist/7x8NAk8hz9zl6lFwJLvDDL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "LA FAMILIA (feat. Nnelg, GRGY, Loopey, Ray Fuego)",
+      "url": "https://open.spotify.com/track/2iNeSqUinkmlHeNu4C9xvN"
     },
     {
       "album": {
@@ -8639,6 +8717,32 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/3SHHRdBz0WjgpH7Gy53UZk"
+      },
+      "artists": [
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        },
+        {
+          "name": "Massin",
+          "url": "https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE"
+        },
+        {
+          "name": "Binck",
+          "url": "https://open.spotify.com/artist/5TlGzv8yOt9yz7tPsGIXy0"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123459,
+      "name": "PRIMA",
+      "url": "https://open.spotify.com/track/71MH8PO5NZTdMKX3OwBlKZ"
+    },
+    {
+      "album": {
         "name": "Mr. Parra Mini Mixtape",
         "url": "https://open.spotify.com/album/0hkgb6mO1gVRPSOXC4H4kW"
       },
@@ -8847,6 +8951,28 @@
     },
     {
       "album": {
+        "name": "Rap Shit II",
+        "url": "https://open.spotify.com/album/7mxfRobsmSMFm7m1R5NjHX"
+      },
+      "artists": [
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150125,
+      "name": "Rap Shit II",
+      "url": "https://open.spotify.com/track/4LMcpgxZLNwjz8gge7lSLZ"
+    },
+    {
+      "album": {
         "name": "Rare Guy",
         "url": "https://open.spotify.com/album/1oVBecxqzylVios2DEPRm0"
       },
@@ -8894,7 +9020,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156763,
       "name": "Regragui",
       "url": "https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX"
@@ -9176,7 +9302,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167472,
       "name": "Runner",
       "url": "https://open.spotify.com/track/4JKI3AZTmCNOzoXbZE2AZr"

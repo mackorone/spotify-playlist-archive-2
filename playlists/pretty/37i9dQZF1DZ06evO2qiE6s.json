@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 129197,
+  "num_followers": 129211,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACwWyR5GabE+TzfW1aS/spy",
+  "snapshot_id": "aqChgAAAAAAemwI9xC1TXMR12KrZeeCy",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
-      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141920,
       "name": "Buona Sera - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
+      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 142129,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
+      "duration_ms": 129660,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 129660,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
+      "duration_ms": 142129,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
     },
     {
       "added_at": null,

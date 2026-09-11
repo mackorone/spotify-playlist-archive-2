@@ -13739,6 +13739,24 @@
     },
     {
       "album": {
+        "name": "Meta Cognition",
+        "url": "https://open.spotify.com/album/5TFGmn8KOjznFiXS3Pl5YH"
+      },
+      "artists": [
+        {
+          "name": "Ol\u0113ka",
+          "url": "https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Meta Cognition",
+      "url": "https://open.spotify.com/track/2dqcka9YqNjHZ6humCpUXG"
+    },
+    {
+      "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },

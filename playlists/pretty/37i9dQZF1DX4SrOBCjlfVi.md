@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nemzzz, 2 Chainz,  03 Greedo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,045 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,085 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Distraught](https://open.spotify.com/track/48gXve33VRPCoZq50fHHSV) | [hoodtrophy bino](https://open.spotify.com/artist/3YmsAPif4mx4mSugYt1n4c), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [Still Here](https://open.spotify.com/album/131t7O768BAmYcdL8SvKH2) | 2:10 |
 | 49 | [People Don't Read](https://open.spotify.com/track/4WwX7L1RpKGnvn32ayU9S1) | [Kooley High](https://open.spotify.com/artist/3OQjXzDIPZLM5AytPp5mNg) | [People Don't Read](https://open.spotify.com/album/2MDcl7cAfKYdGiDyJHggtJ) | 3:34 |
 
-Snapshot ID: `AAAAAHkJZyrYVXfeQ8VmXYS8S5pIRQBZ`
+Snapshot ID: `AAAAAPiaug8VgQWr4bBiN/lxjQEpntHL`

@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762676,
+  "num_followers": 762709,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Ama Um Maloqueiro",
-        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
-      },
-      "artists": [
-        {
-          "name": "Rafa e Junior",
-          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        },
-        {
-          "name": "DJ Ari SL",
-          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Ama Um Maloqueiro",
-      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Eu Me Apaixonei (Bregadeira)",
         "url": "https://open.spotify.com/album/2P0lK4oH2O55OGahlJnvek"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 171428,
       "name": "Eu Me Apaixonei (Bregadeira)",
       "url": "https://open.spotify.com/track/1lynMVa4JcCtCQVC9bi8ib"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Ama Um Maloqueiro",
+        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
+      },
+      "artists": [
+        {
+          "name": "Rafa e Junior",
+          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Ama Um Maloqueiro",
+      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
     },
     {
       "added_at": "2026-08-14 13:34:48",

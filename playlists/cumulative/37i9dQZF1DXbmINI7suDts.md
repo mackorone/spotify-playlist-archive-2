@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tanerélle & MAUIMØON
 
-192 songs - 10 hr 34 min
+194 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [GHOST TOWN ROAD](https://open.spotify.com/track/3ZKjSQSC5EYcqebSM44Nwy) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [GHOST TOWN ROAD](https://open.spotify.com/album/0QRgoCNVjFYzK4ZBhBbdYA) | 4:08 | 2025-04-24 | 2026-02-20 |
 | [Give Me Your Hand](https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A), [Dvoice](https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf) | [Give Me Your Hand](https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH) | 3:59 | 2023-01-26 | 2025-05-23 |
 | [Gojaasi](https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Gojaasi](https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn) | 4:13 | 2024-02-02 | 2026-04-25 |
+| [GONE](https://open.spotify.com/track/4jZol4vdGKzFJMLolcUFm8) | [AYMA](https://open.spotify.com/artist/45p8xCFhR0gkXgzyWW0Wos), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [GONE](https://open.spotify.com/album/1eCzVcwy88rDWienmGRQlE) | 3:01 | 2026-09-11 |  |
 | [Goodbye to us](https://open.spotify.com/track/0VMbY8xTYxGj2m1RcLkaON) | [Sulah Africa](https://open.spotify.com/artist/1gk1p3HpipJohwJ4u6GGgK) | [Goodbye to us](https://open.spotify.com/album/0tVP7JJkgb6iaFIF4ISQee) | 3:50 | 2025-08-21 |  |
 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 | 2024-01-20 |
 | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF) | 2:45 | 2023-11-30 | 2024-10-04 |
@@ -144,6 +145,7 @@
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 | 2025-11-14 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2024-10-04 |
 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 | 2025-12-19 |
+| [Rotation](https://open.spotify.com/track/68LYnYo2jRuRggvZnfM2ky) | [Airak](https://open.spotify.com/artist/25o0mksRbxTxyfzh2nmD4n) | [Rotation](https://open.spotify.com/album/3cpW2r413NueDE6saJudVT) | 2:23 | 2026-09-11 |  |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-07 | 2025-02-15 |
 | [SAY I DO](https://open.spotify.com/track/2RPMbkVqUvAIAzbd2iswkS) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:06 | 2025-11-27 |  |
 | [Secret Island](https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Secret Island](https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY) | 3:30 | 2025-09-12 |  |

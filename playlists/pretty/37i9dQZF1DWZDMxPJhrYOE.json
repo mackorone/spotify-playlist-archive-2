@@ -1,31 +1,35 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105624,
+  "num_followers": 105620,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANHy9eeeMerhVaKJHCKbowUHkUgd",
+  "snapshot_id": "AAAAADDy5lp1UxJc44ppX2KHOjMTMlGV",
   "tracks": [
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4ULa0aHOjaDDSeKZHhM72m"
+        "name": "Jeg Mener Det Stadig (feat. Kind mod Kind)",
+        "url": "https://open.spotify.com/album/4sCQiY6rTV8FfPeXr1e4fm"
       },
       "artists": [
         {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        },
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 163430,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5l0J0cKWIo0lBSGqXvyucp"
+      "duration_ms": 182835,
+      "name": "Jeg Mener Det Stadig (feat. Kind mod Kind)",
+      "url": "https://open.spotify.com/track/6nyBmxdOIunGRdn6uTR8EJ"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
         "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
@@ -41,39 +45,43 @@
       "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+        "name": "SAVNER ET MENNESKE",
+        "url": "https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 202460,
-      "name": "Bass Persuades",
-      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+      "duration_ms": 205515,
+      "name": "SAVNER ET MENNESKE",
+      "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Hvem er det der gr\u00e6der nu?",
-        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
       },
       "artists": [
         {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Hvem er det der gr\u00e6der nu?",
-      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Danser Med Minder",
         "url": "https://open.spotify.com/album/4OKdAIuWuRcuOzbBTRzmxJ"
@@ -89,7 +97,7 @@
       "url": "https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/5EQhGB4q9JSwh2EYJwkn2m"
@@ -109,27 +117,23 @@
       "url": "https://open.spotify.com/track/0Gn5ihOi3h3714FvTjvacN"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "V\u00c6RD AT ELSKE",
-        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
+        "name": "Jeg har ik tabt mig",
+        "url": "https://open.spotify.com/album/69tN5PkFgXzMS35fmIMWJk"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "wicky",
-          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
         }
       ],
-      "duration_ms": 166307,
-      "name": "CIRKLER (feat. wicky)",
-      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
+      "duration_ms": 165251,
+      "name": "Jeg har ik tabt mig",
+      "url": "https://open.spotify.com/track/7pPDQvQ26Vm8loS3IZgcxs"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Du T\u00e6nker Ik",
         "url": "https://open.spotify.com/album/7igt4pYulB0WaDOS09uGrk"
@@ -149,43 +153,43 @@
       "url": "https://open.spotify.com/track/4tlykoJKn815JtDlqLMhti"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+        "name": "Bernstorffsvej",
+        "url": "https://open.spotify.com/album/5gZrTgw753hgv7cgbeCcBY"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Anthon Edwards",
+          "url": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
         }
       ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+      "duration_ms": 198506,
+      "name": "Bernstorffsvej",
+      "url": "https://open.spotify.com/track/3zdNOcFQQdciKFkAdNRwir"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
       },
       "artists": [
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         },
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 221687,
-      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
+      "duration_ms": 248372,
+      "name": "Little Little Voice",
+      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "serena joy",
         "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
@@ -201,23 +205,23 @@
       "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 186720,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "En Som Dig (feat. Bl\u00e6st, ADAAM & Back To Back)",
         "url": "https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs"
@@ -249,39 +253,23 @@
       "url": "https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/5JypvS2L6DJgtF86hdruuc"
+        "name": "Californien",
+        "url": "https://open.spotify.com/album/44IF5cvWN4fKuHUE76ms0g"
       },
       "artists": [
         {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
         }
       ],
-      "duration_ms": 216263,
-      "name": "Deserve",
-      "url": "https://open.spotify.com/track/2Q1ovB8dkBxvoE09ZqWTEk"
+      "duration_ms": 180000,
+      "name": "Californien",
+      "url": "https://open.spotify.com/track/5ZS7Tkv9p6UHTt8vHVn60T"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Good Reason",
-      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -297,7 +285,39 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "WILDCHILD",
         "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Oh yeah?",
         "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
@@ -349,7 +369,55 @@
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
@@ -369,55 +437,7 @@
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "RESCUER",
-        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "RESCUER",
-      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "August 26",
         "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Shen Mao",
         "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "The Odyssey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Pay That Toll",
         "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Happiness Anytime: Part 1",
         "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
@@ -645,55 +665,23 @@
       "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Switchblade",
-        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
+        "name": "Reverse Psychology",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Switchblade",
-      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
+      "duration_ms": 178928,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
@@ -717,23 +705,55 @@
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
-        "name": "Reverse Psychology",
-        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
+        "name": "Switchblade",
+        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 178928,
-      "name": "Reverse Psychology",
-      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
+      "duration_ms": 181926,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
@@ -753,23 +773,7 @@
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 233037,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
@@ -785,7 +789,7 @@
       "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
@@ -805,7 +809,23 @@
       "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 233037,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
         "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Always on Your Side",
         "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
@@ -881,95 +901,7 @@
       "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 177561,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Den lange vej",
-        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Hvis v\u00e6ggene kunne tale",
-      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Portugal",
-        "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Hav",
-          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
-        }
-      ],
-      "duration_ms": 209763,
-      "name": "Portugal",
-      "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "SO GOOD",
         "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
@@ -989,7 +921,95 @@
       "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 177561,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Den lange vej",
+        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Hvis v\u00e6ggene kunne tale",
+      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Portugal",
+        "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        }
+      ],
+      "duration_ms": 209763,
+      "name": "Portugal",
+      "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "KBH",
         "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
@@ -1005,7 +1025,23 @@
       "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Joven y Salvaje (with Bb trickz)",
         "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
@@ -1025,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
@@ -1045,23 +1081,7 @@
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "MINI SKIRT WARRIOR",
         "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "De Der Dage (feat. KESI)",
         "url": "https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4"
@@ -1101,7 +1121,7 @@
       "url": "https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "den forbandede k\u00e6rlighed",
         "url": "https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi"
@@ -1121,7 +1141,7 @@
       "url": "https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Sinner, Pt. 2 (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/5m3omg0e11FPu2E8j0Jcy0"
@@ -1141,7 +1161,27 @@
       "url": "https://open.spotify.com/track/1iG7FrvACI1mnOC6zK9zP6"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        }
+      ],
+      "duration_ms": 166307,
+      "name": "CIRKLER (feat. wicky)",
+      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Du er min bror!",
         "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
@@ -1161,7 +1201,7 @@
       "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
@@ -1177,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
@@ -1193,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Can\u2019t Take My Eyes Off You",
         "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
@@ -1209,7 +1249,23 @@
       "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Hvem er det der gr\u00e6der nu?",
+        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hvem er det der gr\u00e6der nu?",
+      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Siden Sidst (feat. Thor Farlov)",
         "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
@@ -1229,7 +1285,7 @@
       "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "S\u00e6t Det Fri",
         "url": "https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr"
@@ -1245,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "V\u00c6RD AT ELSKE",
         "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
@@ -1261,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "N\u00e6stbedste L\u00f8sning",
         "url": "https://open.spotify.com/album/0nAwuiOXIblgTGkgQ4Ddl0"
@@ -1281,39 +1337,7 @@
       "url": "https://open.spotify.com/track/6lPBwjIed03HiyRroOcJTm"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Recommend",
-        "url": "https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Recommend",
-      "url": "https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Memory on the Run",
-        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Memory on the Run",
-      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Circadian Rhythm",
         "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
@@ -1329,7 +1353,39 @@
       "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Memory on the Run",
+        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Memory on the Run",
+      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
+      "album": {
+        "name": "Recommend",
+        "url": "https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Recommend",
+      "url": "https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD"
+    },
+    {
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Kanten",
         "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
@@ -1345,7 +1401,7 @@
       "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Kender du det?",
         "url": "https://open.spotify.com/album/3eARAq2wbsryfvn5LH1PVk"
@@ -1365,27 +1421,7 @@
       "url": "https://open.spotify.com/track/2GKQMFRuoxMbwhTfASwzXa"
     },
     {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Saw You Dancing (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
-      },
-      "artists": [
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 203549,
-      "name": "Saw You Dancing (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6m22lzMOpPaYDvksxbGyxB"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
+      "added_at": "2026-09-10 22:01:26",
       "album": {
         "name": "Hvor du er",
         "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
@@ -1399,46 +1435,6 @@
       "duration_ms": 145778,
       "name": "Hvor du er",
       "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "Tongue Tied 2026",
-        "url": "https://open.spotify.com/album/7vFTPSWojwkS4pSKDKpKM6"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 195803,
-      "name": "Tongue Tied 2026",
-      "url": "https://open.spotify.com/track/7mEjs3K2VjMmQ9hxCr454q"
-    },
-    {
-      "added_at": "2026-09-03 23:00:25",
-      "album": {
-        "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
-        "url": "https://open.spotify.com/album/2O851kvUcHCgPDMEKBOMCh"
-      },
-      "artists": [
-        {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "Ghita N\u00f8rby",
-          "url": "https://open.spotify.com/artist/1y1c5O8MFc0EJ0s5WJUf66"
-        }
-      ],
-      "duration_ms": 250476,
-      "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
-      "url": "https://open.spotify.com/track/4EaCmBlUdXEC42iwcsvn10"
     }
   ],
   "unique_name": "De nye",

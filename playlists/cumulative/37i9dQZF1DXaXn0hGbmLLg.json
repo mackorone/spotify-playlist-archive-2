@@ -19517,6 +19517,24 @@
     },
     {
       "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
+    },
+    {
+      "album": {
         "name": "Glucose",
         "url": "https://open.spotify.com/album/28xTx6u6Ml4LSvPXOWb5so"
       },

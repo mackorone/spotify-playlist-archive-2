@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 58113,
+  "num_followers": 58130,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAAdWrDz5RDVh1MEf4k2njV4",
+  "snapshot_id": "aqChgAAAAAAcVeSgIH6R4xspJkG+VojX",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 186633,
+      "name": "Una Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3WShEgcSur5BNOdf7BUsbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesito Una Compa\u00f1era",
         "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 242007,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 186633,
-      "name": "Una Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/3WShEgcSur5BNOdf7BUsbZ"
     },
     {
       "added_at": null,
@@ -551,18 +551,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+        "name": "Sonora VS Sinaloa",
+        "url": "https://open.spotify.com/album/40nHSdrnwIppWLZ8qe6j08"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/6bDxVk8D1IfyCfnMPPxj4T"
+        },
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        },
+        {
+          "name": "miguel padilla",
+          "url": "https://open.spotify.com/artist/3eTTvmgPO3b9J3YaoDvGVq"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        },
+        {
+          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento",
+          "url": "https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ"
+        },
+        {
+          "name": "Jonathan Higuera",
+          "url": "https://open.spotify.com/artist/4X1OTGBzCSwUsrNhQQHF7h"
+        },
+        {
+          "name": "El Bichi",
+          "url": "https://open.spotify.com/artist/3GoBr8t32fCl05oyXd8Zsd"
+        },
+        {
+          "name": "Piti de La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
         }
       ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+      "duration_ms": 189846,
+      "name": "Hoy Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2T1bNHE9P5ionffAVsLuII"
     },
     {
       "added_at": null,
@@ -631,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel Party, Vol 1.",
         "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
@@ -651,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 217531,
-      "name": "No Vuelvo A Extranarte",
-      "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -683,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 217531,
+      "name": "No Vuelvo A Extranarte",
+      "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -695,62 +751,6 @@
       "duration_ms": 236493,
       "name": "La Pura Verdad",
       "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonora VS Sinaloa",
-        "url": "https://open.spotify.com/album/40nHSdrnwIppWLZ8qe6j08"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/6bDxVk8D1IfyCfnMPPxj4T"
-        },
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        },
-        {
-          "name": "miguel padilla",
-          "url": "https://open.spotify.com/artist/3eTTvmgPO3b9J3YaoDvGVq"
-        },
-        {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        },
-        {
-          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento",
-          "url": "https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ"
-        },
-        {
-          "name": "Jonathan Higuera",
-          "url": "https://open.spotify.com/artist/4X1OTGBzCSwUsrNhQQHF7h"
-        },
-        {
-          "name": "El Bichi",
-          "url": "https://open.spotify.com/artist/3GoBr8t32fCl05oyXd8Zsd"
-        },
-        {
-          "name": "Piti de La Zona",
-          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
-        }
-      ],
-      "duration_ms": 189846,
-      "name": "Hoy Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2T1bNHE9P5ionffAVsLuII"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -831,6 +811,46 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
     },
     {
       "added_at": null,
@@ -863,42 +883,6 @@
       "duration_ms": 178120,
       "name": "Amar Sin Pensarlo - En Vivo",
       "url": "https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -955,6 +939,22 @@
       "duration_ms": 220055,
       "name": "Esta Es Otra Pa Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/3fs7nOUED72HjcppWMCvkw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,

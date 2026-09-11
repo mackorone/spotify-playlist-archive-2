@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18385,
+  "num_followers": 18412,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "D\u00e9sarmer",
         "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 158263,
       "name": "D\u00e9sarmer",
       "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
+      },
+      "artists": [
+        {
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "En Haut",
         "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 172394,
       "name": "En Haut",
       "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
-      },
-      "artists": [
-        {
-          "name": "RJ Kanierra",
-          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
     },
     {
       "added_at": "2026-08-21 10:56:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: ZTVZ & Martox
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,007 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,908 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 48 | [BIZARRO](https://open.spotify.com/track/4K5T3rcZiETa8wVT9YnoJf) | [Ian Iris](https://open.spotify.com/artist/6CdLBoFNKbvBZudfOoRac4) | [BIZARRO](https://open.spotify.com/album/4MfQFUcrSMsWSHD3w0r83J) | 2:56 |
 | 49 | [Tengo todo lo que quiero](https://open.spotify.com/track/4fdMsA97sc2nuUvi3aUtRM) | [POLAZ](https://open.spotify.com/artist/6AxBpVEUx13QJrdgd0uGpM), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Tengo todo lo que quiero](https://open.spotify.com/album/2JLNqmD0qyzLQhZxVIB22j) | 1:49 |
 
-Snapshot ID: `AAAAAPV7LpKABA3ldMUsQXk9Pd0DXPcn`
+Snapshot ID: `AAAAACN3GQRVIxUt8gCQcNWREqNHjii+`

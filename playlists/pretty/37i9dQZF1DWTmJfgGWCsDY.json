@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 11511,
+  "num_followers": 11527,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANmiJdEXyfLor6PBLVY6CGDUn39V",
+  "snapshot_id": "AAAAAGl04JDRojza2dI9gdZrsHxgEAYP",
   "tracks": [
     {
       "added_at": "2026-08-21 00:59:38",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
         "name": "Ganda",
         "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 196040,
       "name": "Ganda",
       "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
-        "name": "Naoa",
-        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
       },
       "artists": [
         {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
+      "duration_ms": 200921,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
         }
       ],
-      "duration_ms": 200921,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -563,8 +563,8 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Pita Huku",
-        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 296727,
-      "name": "Pita Huku",
-      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -651,8 +651,8 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+        "name": "Pita Huku",
+        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+      "duration_ms": 296727,
+      "name": "Pita Huku",
+      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
+        "name": "HASSANI",
+        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 153740,
+      "name": "HASSANI",
+      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
         "name": "Bado Sijasikia",
         "url": "https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 217969,
       "name": "Bado Sijasikia",
       "url": "https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
-        "name": "HASSANI",
-        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 153740,
-      "name": "HASSANI",
-      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Wanijue",
-        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
-      },
-      "artists": [
-        {
-          "name": "Micky Singer",
-          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Wanijue",
-      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
         "name": "Wezi",
         "url": "https://open.spotify.com/album/47kpUKtAt0sDQKYeXuZX1Y"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205771,
       "name": "Wezi",
       "url": "https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
+        "name": "Wanijue",
+        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
+      },
+      "artists": [
+        {
+          "name": "Micky Singer",
+          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Wanijue",
+      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Sina Stress",
-        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
-      },
-      "artists": [
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Sina Stress",
-      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
         "name": "Nikizipata",
         "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180000,
       "name": "Nikizipata",
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
+        "name": "Sina Stress",
+        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
+      },
+      "artists": [
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Sina Stress",
+      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Kumi Za Moto",
-        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Mtaani Kwetu",
-      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 282984,
       "name": "Dua",
       "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
+        "name": "Kumi Za Moto",
+        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Mtaani Kwetu",
+      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
     },
     {
       "added_at": "2026-08-21 00:59:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-08-21 00:59:38",
       "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
-      },
-      "artists": [
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        }
-      ],
-      "duration_ms": 209084,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
-    },
-    {
-      "added_at": "2026-08-21 00:59:38",
-      "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 279000,
       "name": "Cheusi Cheupe (feat. Meja Kunta)",
       "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+    },
+    {
+      "added_at": "2026-08-21 00:59:38",
+      "album": {
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
+      },
+      "artists": [
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 209084,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
       "added_at": "2026-08-21 00:59:38",

@@ -225,20 +225,24 @@
     },
     {
       "album": {
-        "name": "Ekla Chalo Re Rabindra Sangeet (Live)",
+        "name": "Ekla Chalo Re Rabindra Sangeet - Khamaj - Taans (Live)",
         "url": "https://open.spotify.com/album/1Q2H4Dh1hZs4lmGhCSxbLC"
       },
       "artists": [
         {
           "name": "Mehtab Ali Niazi",
           "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        },
+        {
+          "name": "Jagannath Roy",
+          "url": "https://open.spotify.com/artist/643LGmZ1B3As0KuPcw8YtP"
         }
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 416052,
-      "name": "Ekla Chalo Re Rabindra Sangeet - Raag - Khamaj - Live",
+      "name": "Ekla Chalo Re Rabindra Sangeet - Khamaj - Taans - Live",
       "url": "https://open.spotify.com/track/0UwcP57y613FudmKHphanW"
     },
     {
@@ -549,20 +553,24 @@
     },
     {
       "album": {
-        "name": "Raag Hansadhwani (Live)",
+        "name": "Raag Hansadhwani - Rupakam (Live)",
         "url": "https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5"
       },
       "artists": [
         {
           "name": "Mehtab Ali Niazi",
           "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        },
+        {
+          "name": "Jagannath Roy",
+          "url": "https://open.spotify.com/artist/643LGmZ1B3As0KuPcw8YtP"
         }
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 574667,
-      "name": "Raag Hansadhwani - Raag - Hansadhwani - Live",
+      "name": "Raag Hansadhwani - Rupakam - Live",
       "url": "https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD"
     },
     {

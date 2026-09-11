@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Sonny Fodera, Becky Hill
+> The UK's biggest dance playlist! Tommy Phillips
 
-784 songs - 1 day 16 hr 44 min
+786 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 | 2022-03-08 | 2022-03-10 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-04-29 | 2022-08-05 |
 | [22 Love](https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R) | [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [22 Love](https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD) | 2:17 | 2022-07-28 | 2022-11-11 |
+| [3 2 1](https://open.spotify.com/track/28FoyF26LKomA0ViZs2JMQ) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [3 2 1](https://open.spotify.com/album/4bJI9k5ImietxQdBFxo03a) | 2:35 | 2026-09-10 |  |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-06-23 | 2022-09-09 |
-| [4AM](https://open.spotify.com/track/7JGU6hIqwK94nfqj38BuEn) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa) | [4AM](https://open.spotify.com/album/0YkQTtQcSrVBimOoc3TC8l) | 2:20 | 2025-11-14 |  |
+| [4AM](https://open.spotify.com/track/7JGU6hIqwK94nfqj38BuEn) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa) | [4AM](https://open.spotify.com/album/0YkQTtQcSrVBimOoc3TC8l) | 2:20 | 2025-11-14 | 2026-09-11 |
 | [4Get The Girl](https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [4Get The Girl](https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb) | 3:34 | 2026-04-30 |  |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-03 | 2025-04-25 |
 | [909](https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [909](https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT) | 3:57 | 2026-01-30 | 2026-08-25 |
@@ -141,6 +142,7 @@
 | [Careful](https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Careful](https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF) | 2:40 | 2026-07-30 |  |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-03\* | 2021-11-05 |
 | [Chances](https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Chances](https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV) | 2:50 | 2023-03-08 | 2023-03-09 |
+| [Changes](https://open.spotify.com/track/4BSB6PWM5UvnW1GOjJdkKH) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Changes](https://open.spotify.com/album/5m9LXapfZpUKnP8HK4sLAB) | 2:52 | 2026-09-10 |  |
 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 | 2026-07-16 |  |
 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-08-04 | 2023-03-09 |
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-11-25 | 2023-04-14 |
@@ -560,7 +562,7 @@
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-05-04 | 2023-09-22 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-11-03\* | 2022-01-14 |
 | [Puff Puff Pass](https://open.spotify.com/track/5Ox8hVxsmjQnZcH1VptfWQ) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Puff Puff Pass](https://open.spotify.com/album/3RGmezQhWCaExKBcLnube4) | 2:40 | 2026-04-17 |  |
-| [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 | 2025-09-11 |  |
+| [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 | 2025-09-11 | 2026-09-11 |
 | [Push It](https://open.spotify.com/track/6oZnpPjdCWtWVmRJzphWUV) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Push It](https://open.spotify.com/album/6Knpdnev4wckEEEoJvPgTZ) | 3:55 | 2021-12-03 | 2022-03-12 |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-11-12 | 2025-11-07 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-06-01 | 2023-10-27 |

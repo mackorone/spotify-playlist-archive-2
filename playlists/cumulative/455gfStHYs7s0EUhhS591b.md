@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-289 songs - 16 hr 54 min
+290 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Nebra](https://open.spotify.com/track/1wRQzPmQADV4SV1WfbFrhr) | [Madraas](https://open.spotify.com/artist/6S7DGPFJ3T0qSHiT09Vodc) | [Nocturnal 012](https://open.spotify.com/album/2wHcvMtdYVh9AQCNg5yQhc) | 4:32 | 2025-07-18 | 2025-09-05 |
 | [Needed U](https://open.spotify.com/track/7griJ0qcL0cWsA5yabDG02) | [Milö \(US\)](https://open.spotify.com/artist/2AiiiddVDh31zi1dd0Ra8E) | [Needed U](https://open.spotify.com/album/5DMXYBomkeiQhPwJ16iD02) | 2:27 | 2026-01-23 |  |
 | [Never Feel Alone Again](https://open.spotify.com/track/1mlunZbKwoc5jyKUNggO46) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Never Feel Alone Again](https://open.spotify.com/album/0kveuBMlFALxuyxWsCXB2m) | 3:58 | 2025-06-20 |  |
+| [Never Let Go](https://open.spotify.com/track/5HHDd5lMr4eE7J54cFTuZR) | [Hyper Go Go](https://open.spotify.com/artist/0qmNfpBqNTC0gldJ4B48Ir), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Never Let Go](https://open.spotify.com/album/7dpfWeXUTzL6JKDGQismsI) | 2:40 | 2026-09-11 |  |
 | [No Stress \- Stereoclip Remix](https://open.spotify.com/track/5x3Ay8HRia0rjbPj7WpfJR) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn), [Eric Carter](https://open.spotify.com/artist/6eGMRUmxaUNuoWj5MWpNOX), [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [No Stress](https://open.spotify.com/album/1eMzHlILG0AGujQqg1l8vm) | 3:36 | 2025-07-18 | 2025-09-26 |
 | [No Stress \- Zen @ Acoustic](https://open.spotify.com/track/0QMmCap0AmGxHt636OCAkB) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn), [Eric Carter](https://open.spotify.com/artist/6eGMRUmxaUNuoWj5MWpNOX) | [Wash My World](https://open.spotify.com/album/3XU1u030b8YAlAYSigSk8Z) | 3:12 | 2025-07-18 | 2026-04-18 |
 | [Nobody Knows](https://open.spotify.com/track/1FPat9MxjcvQNvhuVuBcmQ) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Nobody Knows](https://open.spotify.com/album/2BrYpacDNYoWmxKMH7tgrW) | 3:31 | 2025-07-18 | 2025-09-05 |

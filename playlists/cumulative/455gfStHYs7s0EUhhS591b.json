@@ -3611,6 +3611,28 @@
     },
     {
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/7dpfWeXUTzL6JKDGQismsI"
+      },
+      "artists": [
+        {
+          "name": "Hyper Go Go",
+          "url": "https://open.spotify.com/artist/0qmNfpBqNTC0gldJ4B48Ir"
+        },
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/5HHDd5lMr4eE7J54cFTuZR"
+    },
+    {
+      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/1eMzHlILG0AGujQqg1l8vm"
       },

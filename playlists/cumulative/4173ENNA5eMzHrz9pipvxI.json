@@ -3691,6 +3691,32 @@
     },
     {
       "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "MONTE",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
+    },
+    {
+      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/42L5CT7ZmtbpVWAYFv9GjN"
       },
@@ -8714,6 +8740,24 @@
       "duration_ms": 150685,
       "name": "Dancing With My Destiny",
       "url": "https://open.spotify.com/track/7dfgpEqHsE76Qqndtu8MoX"
+    },
+    {
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV"
     },
     {
       "album": {
@@ -20546,6 +20590,24 @@
       "duration_ms": 173592,
       "name": "Jumpstarter",
       "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/0xvCGIbXcQOuhOXZrDL2Qw"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/2OMNBRV1lUlVbtY40PFwQG"
     },
     {
       "album": {

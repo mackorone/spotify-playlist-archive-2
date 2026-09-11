@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Miley",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Michelle Andrade",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
@@ -5044,6 +5044,24 @@
       "duration_ms": 155744,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/5pyo1cM0fR2EDJwHLkdOSh"
+    },
+    {
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/3whZJ6Cw37hSCkgMb2THnt"
+      },
+      "artists": [
+        {
+          "name": "Michelle Andrade",
+          "url": "https://open.spotify.com/artist/3xT2YG5knwqo4duPeQ6x9S"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111937,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1dp9F5PI51f2QgcNYnTGpF"
     },
     {
       "album": {
@@ -6811,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u043f\u0435\u0440 \u0434\u043e\u0432\u0435\u0434\u0435\u0442\u044c\u0441\u044f \u0434\u0443\u043c\u0430\u0442\u0438",
+        "url": "https://open.spotify.com/album/7HEJJKGAE6TKFXQY5hlc2X"
+      },
+      "artists": [
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "\u0411\u0430\u0440\u0434\u0430\u043a",
+      "url": "https://open.spotify.com/track/3IKaFRYqBcqok6XzhTR8hz"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/3SjMRTptUNIozqMhKnH0uH"
       },
@@ -8410,7 +8446,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 222233,
       "name": "\u041a\u0440\u043e\u0432",
       "url": "https://open.spotify.com/track/6x4PgLEeOziLATqt1XvukL"
@@ -8786,7 +8822,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123214,
       "name": "\u041c\u0435\u043b\u0430\u0442\u043e\u043d\u0456\u043d",
       "url": "https://open.spotify.com/track/4ZQNrAOsong5Kny2QViQl1"
@@ -9751,6 +9787,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0443\u041c\u043e",
+        "url": "https://open.spotify.com/album/2Qbr4Cj82hmeVnW6qgt8bz"
+      },
+      "artists": [
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180737,
+      "name": "\u041d\u0443\u041c\u043e",
+      "url": "https://open.spotify.com/track/0mXkUKbj9mFqdO1vW8f3sn"
+    },
+    {
+      "album": {
         "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
         "url": "https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm"
       },
@@ -10110,6 +10164,28 @@
       "duration_ms": 118983,
       "name": "\u041f\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
       "url": "https://open.spotify.com/track/1avWHX5Dy3Th7gz54MjFPL"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/21SLDJPMEyf67Ftm8BHEKT"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        },
+        {
+          "name": "OTOY",
+          "url": "https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252927,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+      "url": "https://open.spotify.com/track/1HDwGCGV0GCWtdpaintSuo"
     },
     {
       "album": {
@@ -11438,7 +11514,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 205525,
       "name": "\u0442\u0456\u043f \u0437 \u0420\u0435\u0439\u0442\u0430\u0440\u0441\u044c\u043a\u043e\u0457",
       "url": "https://open.spotify.com/track/5KOFObDXHRMtcgOd9A8Ecd"

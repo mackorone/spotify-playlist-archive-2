@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,718 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,719 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 35 | [Bridge Over Troubled Water](https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 7:16 |
 | 36 | [Here We Go](https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Love Lives Forever](https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n) | 7:00 |
 | 37 | [Only Heaven Can Wait \(For Love\) \(feat\. Donny Hathaway\)](https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:06 |
-| 38 | [For All We Know](https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:40 |
+| 38 | [Can We Find Love Again](https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:31 |
 | 39 | [To Love Somebody](https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 6:43 |
-| 40 | [Can We Find Love Again](https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:31 |
+| 40 | [For All We Know](https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:40 |
 | 41 | [And so It Goes](https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Oasis](https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4) | 3:32 |
 | 42 | [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 |
 | 43 | [Sunday and Sister Jones](https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 49 | [Soft and Gentle Rain \- Live at Montreux, 2005](https://open.spotify.com/track/5mwUVw3rcbNgThJ22U7S4U) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Montreux Years \(Live\)](https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB) | 3:22 |
 | 50 | [Only Heaven Can Wait \(For Love\) / You Are My Heaven \- Live Version](https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 9:30 |
 
-Snapshot ID: `ap9QAAAAAAB65IrNWDJi+04yqBXBRMbF`
+Snapshot ID: `aqChgAAAAAAlk1a+jzHHPrDztMFlgzUd`

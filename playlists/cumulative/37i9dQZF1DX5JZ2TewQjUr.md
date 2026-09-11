@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
 
-1,746 songs - 4 day 2 hr 38 min
+1,747 songs - 4 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [☆all the stars☆](https://open.spotify.com/track/0j6DVSQ2ARp02tE4c6oYHJ) | [dexie3003](https://open.spotify.com/artist/50lC8oVWNQLdsrGNKAdNj8) | [☆all the stars☆](https://open.spotify.com/album/6rRb4TA1kkJyOl3iDxMXDb) | 2:57 | 2024-01-18 | 2024-05-10 |
 | [☆all the stars☆ \- sonic's version](https://open.spotify.com/track/1AkvBNUv9APOfxNFy5i7aH) | [dexie3003](https://open.spotify.com/artist/50lC8oVWNQLdsrGNKAdNj8) | [☆all the stars☆ \- sonic's version](https://open.spotify.com/album/25wYT4aPyJhw14I0a6Tlnh) | 2:20 | 2024-05-02 | 2024-11-15 |
 | [☆唾棄你的墳墓☆](https://open.spotify.com/track/591OPlLbos1WhaqkDBk9l0) | [LilCodyIsDead!](https://open.spotify.com/artist/4gy2G9kSw6lGDo358odR8u) | [☆唾棄你的墳墓☆](https://open.spotify.com/album/3pyyDvmbotKzAn5iFd9NAa) | 3:06 | 2023-06-15 | 2023-09-01 |
+| [ミッドサマー \(midsommar JP ver.\)](https://open.spotify.com/track/3047Iovz7kDxRn8JSkVBwn) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [ミッドサマー \(midsommar JP ver.\)](https://open.spotify.com/album/1R8awvWFjt4myScw0lkQOO) | 4:32 | 2026-09-10 |  |
 | [一](https://open.spotify.com/track/7Mezzdeav8wLVkRxHemrjR) | [xxtilldawn](https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6), [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U) | [一](https://open.spotify.com/album/6gmpKCBL3dJQwsUjyfTAcq) | 4:49 | 2023-07-20 | 2023-11-03 |
 | [一些事一些人](https://open.spotify.com/track/0s8kAd8sprInLpqu8U9DNV) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [一些事一些人](https://open.spotify.com/album/5jz48Uq9JmzNSD8q0MiYAK) | 3:44 | 2024-09-05 | 2024-12-13 |
 | [一個人SOLO](https://open.spotify.com/track/2hGPBjN34CpoqADl1iVPCi) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [一個人SOLO](https://open.spotify.com/album/29V1n7LgHd93dGkfOSixIW) | 2:04 | 2026-04-23 |  |

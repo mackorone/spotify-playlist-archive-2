@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Sur la piste" d'Eva est le Grand Hit de la semaine.
+> "Juste un peu" de Jungeli et EMMA est le Grand Hit de la semaine.
 
-349 songs - 17 hr 50 min
+350 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Crois\-moi ! \(feat\. Adeline Lovo\)](https://open.spotify.com/track/4l2TGTY0zJtMx1bGgu0dD5) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Crois\-moi ! \(feat\. Adeline Lovo\)](https://open.spotify.com/album/5RE7XNjwMHW4BPJREddQly) | 3:24 | 2023-11-09 | 2024-07-16 |
 | [Crush](https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Crush](https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U) | 3:12 | 2023-09-28 | 2024-04-26 |
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2023-09-28 | 2024-03-08 |
+| [D'or et d'étain](https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [D'or et d'étain](https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4) | 3:16 | 2026-09-10 |  |
 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-09-28 | 2023-12-09 |
 | [Dansons](https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Dansons](https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5) | 3:26 | 2026-04-23 | 2026-08-14 |
 | [Derniers humains](https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Lucie Lebrun](https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Derniers humains](https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1) | 2:44 | 2024-05-23 | 2024-07-27 |
@@ -168,7 +169,7 @@
 | [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 | 2025-12-19 |
 | [L'amour ça se donne](https://open.spotify.com/track/1PvhUPOjMlmbcRKFmHastU) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [L'amour ça se donne](https://open.spotify.com/album/7anE94rdl6gEVx4rNiiY5J) | 2:46 | 2026-04-23 |  |
 | [L'espoir](https://open.spotify.com/track/3IK8PYgz005T6Dr0GLM8Tk) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [L'espoir](https://open.spotify.com/album/2dOzojnn941b4TB06Epdjh) | 3:02 | 2023-12-07 | 2024-03-01 |
-| [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-09-25 |  |
+| [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-09-25 | 2026-09-11 |
 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 | 2024-11-07 | 2025-01-24 |
 | [L'intime & le monde](https://open.spotify.com/track/3METcxyrhm971tgsz5yX1I) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [L'intime & le monde](https://open.spotify.com/album/0kexPpzB8l3VZbHWY3UIba) | 3:39 | 2024-03-07 | 2024-05-10 |
 | [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 | 2025-01-09 | 2025-05-09 |

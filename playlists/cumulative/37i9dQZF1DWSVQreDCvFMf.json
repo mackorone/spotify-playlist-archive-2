@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jenzen Guino",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Wilbert Ross",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217920,
       "name": "A Parallel World (from Forgotten Island)",
       "url": "https://open.spotify.com/track/5B7Aeln3v0fMgJh8MhxTw0"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 188974,
       "name": "Ai Shite Ruyo",
       "url": "https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 196363,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy"
@@ -2032,6 +2032,24 @@
       "duration_ms": 200274,
       "name": "balik",
       "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
+    },
+    {
+      "album": {
+        "name": "kung tayo\u2019y nasa isang horror na pelikula, tiyak ako ang una mong papatayin",
+        "url": "https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283392,
+      "name": "Bampira",
+      "url": "https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5"
     },
     {
       "album": {
@@ -3874,6 +3892,24 @@
       "duration_ms": 230000,
       "name": "Di Na Natuto",
       "url": "https://open.spotify.com/track/40b7ukHcwt04SovC7rquOv"
+    },
+    {
+      "album": {
+        "name": "Di Nanaman Tinadhana",
+        "url": "https://open.spotify.com/album/2o83D8jWrT1qOFtbSIr9pR"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154683,
+      "name": "Di Nanaman Tinadhana",
+      "url": "https://open.spotify.com/track/4fXYpRrT92HlntrBASmcX1"
     },
     {
       "album": {
@@ -7249,6 +7285,24 @@
     },
     {
       "album": {
+        "name": "Isang Pag-Ibig",
+        "url": "https://open.spotify.com/album/38UomyR7gYGovGNxe9E0Qa"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279587,
+      "name": "Isang Pag-Ibig",
+      "url": "https://open.spotify.com/track/27gE4JhDCQyih8EYlz8v3m"
+    },
+    {
+      "album": {
         "name": "Isang Sandali Pa",
         "url": "https://open.spotify.com/album/4T8DskzUA83SVvfJyrCymc"
       },
@@ -9438,7 +9492,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 241846,
       "name": "Limot",
       "url": "https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa"
@@ -13779,6 +13833,24 @@
     },
     {
       "album": {
+        "name": "Paruparo",
+        "url": "https://open.spotify.com/album/65rlezL24NL4KyTumGVKSP"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Ross",
+          "url": "https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251279,
+      "name": "Paruparo",
+      "url": "https://open.spotify.com/track/4rpt9pIlyijhR9NJwcZzoO"
+    },
+    {
+      "album": {
         "name": "Parusa",
         "url": "https://open.spotify.com/album/7vO4LZoqDoZ6ConfaWBZgY"
       },
@@ -15126,7 +15198,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 282428,
       "name": "Sa Isip Na Lang",
       "url": "https://open.spotify.com/track/6mVStviIlLI5EtnLXv8BOw"
@@ -18290,6 +18362,24 @@
       "duration_ms": 236376,
       "name": "temporary",
       "url": "https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd"
+    },
+    {
+      "album": {
+        "name": "Tenchu",
+        "url": "https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362821,
+      "name": "Tenchu",
+      "url": "https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj"
     },
     {
       "album": {

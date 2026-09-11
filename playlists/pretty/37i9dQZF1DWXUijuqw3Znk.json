@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 1037,
+  "num_followers": 1043,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,34 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "4",
+        "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
       "artists": [
         {
-          "name": "Skyminhyuk",
-          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+          "name": "HD BL4CK",
+          "url": "https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd"
         },
         {
-          "name": "HanYoHan",
-          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
         },
         {
-          "name": "OLNL",
-          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "BRADYSTREET",
+          "url": "https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 254347,
-      "name": "Flashing (Feat. HanYoHan, OLNL)",
-      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
+      "duration_ms": 242970,
+      "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
+      "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1031,34 +1039,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "HD BL4CK",
-          "url": "https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd"
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
         },
         {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+          "name": "HanYoHan",
+          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "BRADYSTREET",
-          "url": "https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
         }
       ],
-      "duration_ms": 242970,
-      "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
-      "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
+      "duration_ms": 254347,
+      "name": "Flashing (Feat. HanYoHan, OLNL)",
+      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "DEAR MOM",
+      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Stargaze",
         "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 222232,
       "name": "Look What I Did (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "DEAR MOM",
-      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
       "added_at": "2025-11-10 09:53:18",

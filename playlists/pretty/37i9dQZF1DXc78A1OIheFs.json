@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19380,
+  "num_followers": 19381,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
+        "name": "The//Glow",
+        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
         "name": "Beautiful Mess",
         "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 337565,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
-        "name": "The//Glow",
-        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Heavy Meadow",
-        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Lean Into The Hill",
-      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -995,6 +979,38 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "Heavy Meadow",
+        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Lean Into The Hill",
+      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
         "name": "Under One Roof",
         "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
-      },
-      "artists": [
-        {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
-        }
-      ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 204622,
       "name": "call me yours",
       "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-08-27 14:00:26",

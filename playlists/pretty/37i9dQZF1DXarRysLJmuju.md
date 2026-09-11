@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,216 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,152 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 55 | [Getting out of Dodge](https://open.spotify.com/track/79FIcyFXVVLpx1PqwJExOy) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Exit Wounds](https://open.spotify.com/album/3i9zyTUsS6hVPeKDgVnCAA) | 3:25 |
 | 56 | [do as we please](https://open.spotify.com/track/7sr7V5J4LiBNsj2f9uIBW0) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [do as we please](https://open.spotify.com/album/7a84vhfgD1FWh7rmTiEeof) | 3:03 |
 | 57 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
-| 58 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:26 |
+| 58 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:25 |
 | 59 | [road trip](https://open.spotify.com/track/7Ddnyh4De7eo7IBm55DyHG) | [Ava Ro](https://open.spotify.com/artist/3dtibWWBFanW0n3GYu8NIU) | [road trip](https://open.spotify.com/album/73Hl2gxqhpIaBFYfOEvW4T) | 2:57 |
 | 60 | [Summertime Ego](https://open.spotify.com/track/29oanPtFPJsDOI8rzpOesv) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Summertime Ego](https://open.spotify.com/album/1nbHWsN5JVmvFBCK6rjKXE) | 2:48 |
 | 61 | [waking up OK](https://open.spotify.com/track/3Q0P1IBOuHFKa9wk7sztHH) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [waking up OK](https://open.spotify.com/album/1Fg63nW6nIG6fsNwMdalH2) | 2:41 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 102 | [Your favorite flowers](https://open.spotify.com/track/7GktPyKzNCeAaThYG4cJ7D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/25ilbvHuFozwjisTCEGyuR) | 3:29 |
 | 103 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
 
-Snapshot ID: `AAAAAE1bL+8DLGo3nifhKs2JnreoC8cx`
+Snapshot ID: `AAAAAMgRXXvJc3bA2p2o6kRJvSZb1mi1`

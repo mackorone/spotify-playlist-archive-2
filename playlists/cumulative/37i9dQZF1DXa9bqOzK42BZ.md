@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-349 songs - 1 day 6 hr 29 min
+351 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 | 2025-04-18 | 2025-09-12 |
+| [Atamandike](https://open.spotify.com/track/0RRUV0QGiT9moyFxb1TY4U) | [Sam Mjura](https://open.spotify.com/artist/1IcS7BLrUJTNOUAd3Yc9Ki) | [Atamandike](https://open.spotify.com/album/1rDGzSyG5cgv8Rk3W1zSrc) | 11:35 | 2026-09-11 |  |
 | [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-11-07 |
 | [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 | 2025-05-16 | 2025-07-04 |
 | [Baba](https://open.spotify.com/track/5In8cdLEDCz2HfhoWMWLkU) | [Ally Fresh](https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh), [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Baba](https://open.spotify.com/album/0vdC1LjHlwFK0MSJ8BAoiq) | 5:33 | 2025-07-18 | 2026-02-05 |
@@ -161,7 +162,7 @@
 | [Mtawala](https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2) | 4:54 | 2022-06-24 | 2025-02-21 |
 | [Mtawala](https://open.spotify.com/track/6mTzTzJsOWZr4Bcq7tMyzS) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/7iHK1lv1MRBlkFR1BBsYai) | 4:54 | 2022-06-24 | 2024-04-19 |
 | [Mtoto Wa Mfalme](https://open.spotify.com/track/14YcZqpGB5iO1W3AQGRue8) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Mtoto Wa Mfalme](https://open.spotify.com/album/2AUJLWjCCriz55MI3uJPfn) | 3:07 | 2025-10-17 | 2026-01-23 |
-| [Mtoto Wa Mfalme](https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Favored](https://open.spotify.com/album/774wdIsa41Ow8zYWlxg3YE) | 3:54 | 2026-07-10 |  |
+| [Mtoto Wa Mfalme](https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Favored](https://open.spotify.com/album/774wdIsa41Ow8zYWlxg3YE) | 3:54 | 2026-07-10 | 2026-09-11 |
 | [Muite](https://open.spotify.com/track/10sMPOHkPKyglRQCjLUJyC) | [Eve Nyasha Ngoloma](https://open.spotify.com/artist/3SQ5WVOVJxLhEWztbS3Ba5), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Muite](https://open.spotify.com/album/13Pn0xSbyT6pdR6BS9DSP7) | 19:30 | 2026-04-24 |  |
 | [Mungu Mkuu](https://open.spotify.com/track/5DUQaHEFbmfTl1DJvzzaN5) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/0aYwMvoRxWOj7XHqjuBlTi) | 5:04 | 2024-04-19 |  |
 | [Mungu Mmoja \- Live](https://open.spotify.com/track/71FXICK2kMMLCCW7JQTGiy) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK), [Neema Gospel Choir](https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy) | [Mungu Mmoja \(Live\)](https://open.spotify.com/album/0dc3Brta6vhGPl09I6RT4I) | 9:09 | 2024-04-19 |  |
@@ -251,6 +252,7 @@
 | [RANDOM CHAPTER](https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD) | [Lesynem Junior](https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU), [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [RANDOM CHAPTER](https://open.spotify.com/album/63klHeWXnQ972Rz4jCtEm9) | 2:33 | 2023-07-14 | 2023-11-25 |
 | [Ready](https://open.spotify.com/track/7bWNIh6uMelhqya9DkE7nP) | [Kevoh Yout](https://open.spotify.com/artist/47tpJKL7Xfm4UIWps8j4hk) | [Ready](https://open.spotify.com/album/1vshXKozqzzL6eRTkqUPlo) | 2:48 | 2024-05-03 | 2024-06-01 |
 | [Rien](https://open.spotify.com/track/4xUgJ7IlDRhCEbjZwPaZS3) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [Rien](https://open.spotify.com/album/0VZTt4X6pRWrWplWtTnucU) | 3:53 | 2023-09-22 | 2025-10-10 |
+| [Roho Wa Bwana \- Live](https://open.spotify.com/track/1FjSPs2mz84ESNUOMOsE2x) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Roho Wa Bwana \(Live\)](https://open.spotify.com/album/46DoL5j5ZmePvrIZEN1XL3) | 13:17 | 2026-09-11 |  |
 | [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 | 2023-04-15 |
 | [Saa Hii](https://open.spotify.com/track/6lXFxKbl8WKL9qbDwcndv2) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Saa Hii](https://open.spotify.com/album/0fVsHWPWueKcYZVgQH6JRT) | 4:59 | 2025-09-26 |  |
 | [Salama](https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Salama](https://open.spotify.com/album/1SGn3WiqZbUaIybmhL5x7a) | 3:47 | 2023-04-14 | 2023-06-16 |

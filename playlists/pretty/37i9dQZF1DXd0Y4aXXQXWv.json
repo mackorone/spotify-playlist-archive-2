@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 502004,
+  "num_followers": 502003,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqy1VJtA1jXAG1c3e8w0ibdVtN1",
+  "snapshot_id": "AAAAACV7k2/KTUmifXq2V00D3+jQ2vri",
   "tracks": [
     {
       "added_at": "2026-05-19 09:22:08",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Paradize",
-        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "J'ai demand\u00e9 \u00e0 la lune",
-      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 198789,
       "name": "La symphonie des \u00e9clairs",
       "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Paradize",
+        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "J'ai demand\u00e9 \u00e0 la lune",
+      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "L\u00d8VE",
-        "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Paris-Seychelles",
-      "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+        "name": "L\u00d8VE",
+        "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 274626,
-      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
+      "duration_ms": 197840,
+      "name": "Paris-Seychelles",
+      "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -531,6 +515,22 @@
       "duration_ms": 282813,
       "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
       "artists": [
         {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 192989,
-      "name": "\u00c0 nos souvenirs",
-      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
+      "duration_ms": 174506,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+        "name": "Brol La Suite",
+        "url": "https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Ceux qu'on \u00e9tait",
-      "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
+      "duration_ms": 196800,
+      "name": "Oui ou non",
+      "url": "https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Brol La Suite",
-        "url": "https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Oui ou non",
-      "url": "https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "N'attendons pas",
         "url": "https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197562,
       "name": "beau-papa",
       "url": "https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "\u00c0 nos souvenirs",
+      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC"
-      },
-      "artists": [
-        {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "A\u00efcha - Version Mixte",
-      "url": "https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "The Meilleur Of Renaud",
         "url": "https://open.spotify.com/album/1qURo0tjvk2jTkbGuprpo7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 165933,
       "name": "Mistral gagnant",
       "url": "https://open.spotify.com/track/4JSBfXhgPkpdprAVafbTE3"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "A\u00efcha - Version Mixte",
+      "url": "https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng"
     },
     {
       "added_at": "2026-05-19 09:22:08",

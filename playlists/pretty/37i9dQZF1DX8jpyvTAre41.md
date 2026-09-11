@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Bleeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,608 likes - 147 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,595 likes - 147 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 10 | [time loop at hot slit](https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [time loop at hot slit](https://open.spotify.com/album/6pTyAyVoNqlOIEmDRPcgsZ) | 1:56 |
 | 11 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 12 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
-| 13 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 13 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 14 | [The Beat of My Heart Goes](https://open.spotify.com/track/4PbDKtg3XUrvB04OEPkoqT) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT) | [The Beat Of My Heart Goes](https://open.spotify.com/album/0EqwVQsmMCpqlO5cDvhjGJ) | 3:27 |
 | 15 | [Good American](https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Good American](https://open.spotify.com/album/5M9R4gC7uh7LB5VZUNRQcx) | 3:52 |
 | 16 | [Let Me Go](https://open.spotify.com/track/0r0FwFqAJR4N564SRLFaOK) | [Leisure Hour](https://open.spotify.com/artist/6vkFadDv74nN00rZRrVbrN) | [Let Me Go](https://open.spotify.com/album/3yddzCZIVfMg7GgqByvjJ0) | 3:36 |

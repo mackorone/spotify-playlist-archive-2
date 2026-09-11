@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 242845,
       "name": "Al Mafrood",
       "url": "https://open.spotify.com/track/5Aigt44wICHJ2BDshPZqvh"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 286018,
       "name": "Alamouk",
       "url": "https://open.spotify.com/track/1Ey7HOE0X64Dbw1EO6zX8L"
@@ -12344,7 +12344,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -15229,6 +15229,24 @@
     },
     {
       "album": {
+        "name": "Kan Ya Ma Kan",
+        "url": "https://open.spotify.com/album/2BuI7JF8G0YyE3cDRBgI5T"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276416,
+      "name": "Kan Ya Ma Kan",
+      "url": "https://open.spotify.com/track/2N7nDJzU5idfpP4U7w2E5i"
+    },
+    {
+      "album": {
         "name": "Kareh Nafsi",
         "url": "https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp"
       },
@@ -16404,7 +16422,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -22546,7 +22564,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22564,7 +22582,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -24804,7 +24822,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
@@ -24840,7 +24858,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
@@ -30422,7 +30440,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 277707,
       "name": "TQBL Kol",
       "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
@@ -31798,7 +31816,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -32924,7 +32942,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 185495,
       "name": "Ya Helou",
       "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
@@ -35406,7 +35424,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217082,
       "name": "\u062c\u0631\u064a\u062f\u0629 \u0628\u0644\u0627 \u062e\u0628\u0631",
       "url": "https://open.spotify.com/track/0qfGk7iMHzzQEDdP9sZA0j"
@@ -38030,7 +38048,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 291657,
       "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
       "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
@@ -38084,7 +38102,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 253894,
       "name": "\u0648 \u0627\u0641\u062a\u0643\u0631\u062a",
       "url": "https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o"

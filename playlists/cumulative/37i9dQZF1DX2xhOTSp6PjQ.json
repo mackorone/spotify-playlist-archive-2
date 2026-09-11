@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Mjolisi",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Saliwa",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 283557,
       "name": "Abafana Badlala Ngathi",
       "url": "https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 253139,
       "name": "Abafana Bayefana",
       "url": "https://open.spotify.com/track/6Gw55e0BsDiebc5EUSzlvl"
@@ -332,6 +332,28 @@
       "duration_ms": 202879,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH"
+    },
+    {
+      "album": {
+        "name": "Izinsalela",
+        "url": "https://open.spotify.com/album/3HmE0gqM0YiT8ebxdEB2hH"
+      },
+      "artists": [
+        {
+          "name": "Saliwa",
+          "url": "https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8"
+        },
+        {
+          "name": "Gandaganda",
+          "url": "https://open.spotify.com/artist/5ECnN4xIMrYrsnDujJMWOp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "Amaphutha oMakoti",
+      "url": "https://open.spotify.com/track/0FPkUn512bvO2OkjKfROk7"
     },
     {
       "album": {
@@ -804,7 +826,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 343536,
       "name": "Dali Ungavumi",
       "url": "https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W"
@@ -870,7 +892,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 261076,
       "name": "Distance",
       "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
@@ -1324,6 +1346,24 @@
       "duration_ms": 600000,
       "name": "Gusheshe - Live",
       "url": "https://open.spotify.com/track/75rFfC4ti306ncUw7hHYcX"
+    },
+    {
+      "album": {
+        "name": "Halala",
+        "url": "https://open.spotify.com/album/4WBq91Ijd9SzEExKTp5s2i"
+      },
+      "artists": [
+        {
+          "name": "SNQAMU SODIDLA",
+          "url": "https://open.spotify.com/artist/2G6s7GyZopRilgkidJmteg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248314,
+      "name": "Halala",
+      "url": "https://open.spotify.com/track/19aHvWwxzYorCOHwMGJM9V"
     },
     {
       "album": {
@@ -2344,6 +2384,28 @@
       "duration_ms": 304213,
       "name": "ISAZOCHOMELANA (feat. Boohle)",
       "url": "https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2"
+    },
+    {
+      "album": {
+        "name": "Ubumina",
+        "url": "https://open.spotify.com/album/21ed0N1On2ubTNR3cQTD5F"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "OmaThwala",
+          "url": "https://open.spotify.com/artist/2ckRDcWI4kPdGiPZxEPJrx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297882,
+      "name": "Isesheli",
+      "url": "https://open.spotify.com/track/2pekVGWhF5WqfqwLOOdqQ7"
     },
     {
       "album": {
@@ -6402,6 +6464,24 @@
       "duration_ms": 249108,
       "name": "Yimi Isiqhwaga",
       "url": "https://open.spotify.com/track/22EGSr4xGc8zDs3TSjgBXV"
+    },
+    {
+      "album": {
+        "name": "Yimi umaqondana",
+        "url": "https://open.spotify.com/album/7j5RodVWmaPj5Nu7KE1D2P"
+      },
+      "artists": [
+        {
+          "name": "Mahostela 97",
+          "url": "https://open.spotify.com/artist/1MSTGFMPxpZD05uY1EnD5w"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "Yimi umaqondana",
+      "url": "https://open.spotify.com/track/7N1xuoaI37vpWuGXXUEqDI"
     },
     {
       "album": {

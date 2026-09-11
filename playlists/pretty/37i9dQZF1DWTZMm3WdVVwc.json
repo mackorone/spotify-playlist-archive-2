@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27150,
+  "num_followers": 27148,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u30ac\u30a4\u30a2",
@@ -623,6 +607,22 @@
       "duration_ms": 367306,
       "name": "\u9732",
       "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "POP LIFE",
-        "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
-      },
-      "artists": [
-        {
-          "name": "JUDY AND MARY",
-          "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "LOVER SOUL",
-      "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "ALLSEASON EP.",
@@ -695,6 +679,22 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "POP LIFE",
+        "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
+      },
+      "artists": [
+        {
+          "name": "JUDY AND MARY",
+          "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
+        }
+      ],
+      "duration_ms": 361080,
+      "name": "LOVER SOUL",
+      "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "NO SIDE",
-        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 273661,
-      "name": "BLIZZARD",
-      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
         "url": "https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 153461,
       "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "NO SIDE",
+        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 273661,
+      "name": "BLIZZARD",
+      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+        "name": "Junior Sweet",
+        "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
       },
       "artists": [
         {
-          "name": "Aooo",
-          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
         }
       ],
-      "duration_ms": 266954,
-      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
+      "duration_ms": 232760,
+      "name": "\u30df\u30eb\u30af",
+      "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1137,20 +1137,20 @@
       "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-12-11 02:28:39",
       "album": {
-        "name": "Junior Sweet",
-        "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
       },
       "artists": [
         {
-          "name": "Chara",
-          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
         }
       ],
-      "duration_ms": 232760,
-      "name": "\u30df\u30eb\u30af",
-      "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "Unmelting Snow",
-        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
-      },
-      "artists": [
-        {
-          "name": "Girls2",
-          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Unmelting Snow",
-      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
-    },
-    {
       "added_at": "2025-12-16 15:00:32",
       "album": {
         "name": "Winterboy",
@@ -1631,6 +1615,22 @@
       "duration_ms": 274733,
       "name": "Winterboy",
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "Unmelting Snow",
+        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
+      },
+      "artists": [
+        {
+          "name": "Girls2",
+          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Unmelting Snow",
+      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
       "added_at": "2025-10-23 13:55:51",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  Famous Pluto ",
+  "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
   "name": "afro-piano",
   "tracks": [
     {
@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Party Starter (PS2)",
+        "url": "https://open.spotify.com/album/4xeGPODNCUeQpcnD2KcGR1"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254336,
+      "name": "Bounce (Dada)",
+      "url": "https://open.spotify.com/track/6XemSzjD5sxycLVMPAkU4J"
+    },
+    {
+      "album": {
         "name": "BURSTITIAKOPI",
         "url": "https://open.spotify.com/album/0joNzCDZdnu3pe4KNyOaLn"
       },
@@ -836,7 +858,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
@@ -1088,6 +1110,24 @@
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/2gr4bV7obIqVAFkpwfE2ma"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194570,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/2ffnJc4c1n5qeOCh8DFYyz"
     },
     {
       "album": {
@@ -1566,7 +1606,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166858,
       "name": "For You",
       "url": "https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px"
@@ -2034,6 +2074,24 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "album": {
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
     },
     {
       "album": {
@@ -2546,7 +2604,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152105,
       "name": "Kupe",
       "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
@@ -2640,7 +2698,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192477,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
@@ -3168,6 +3226,24 @@
       "duration_ms": 142758,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
+    },
+    {
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "album": {
@@ -4468,7 +4544,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160000,
       "name": "Time Of Our Lives",
       "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"

@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: D.O.) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 414199,
+  "num_followers": 414201,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "IM HERO 2",
-        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Eternal Moment",
-      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
         "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 244186,
       "name": "Love You With All My Heart",
       "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "IM HERO 2",
+        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Eternal Moment",
+      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "D's WAVE",
+        "url": "https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 260607,
       "name": "Gift",
       "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "D's WAVE",
-        "url": "https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Caligo Pt.1",
-        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 236000,
       "name": "No Words Can Say",
       "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
         }
       ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -711,6 +695,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Become More Beautiful",
-        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Become More Beautiful",
-      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Bird On The Edge",
         "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 256226,
       "name": "Bird On The Edge",
       "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Last Love",
-        "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
-      },
-      "artists": [
-        {
-          "name": "Tei",
-          "url": "https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "Last Love",
+        "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
+      },
+      "artists": [
+        {
+          "name": "Tei",
+          "url": "https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
-      },
-      "artists": [
-        {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Eyebrow Moon",
         "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 338000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Monday Kiz's Footprints Vol.3 With Lee Hong Gi (FT Island)",
         "url": "https://open.spotify.com/album/4ZXj9cKzcIwvWeeF9q1L2M"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 310213,
       "name": "A Person Closer to Tears (2026)",
       "url": "https://open.spotify.com/track/6jVVRZdkLkT4jcW4Wc8eDo"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
-      },
-      "artists": [
-        {
-          "name": "slowly",
-          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
-        }
-      ],
-      "duration_ms": 198547,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
+      },
+      "artists": [
+        {
+          "name": "slowly",
+          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
+        }
+      ],
+      "duration_ms": 198547,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
     },
     {
       "added_at": "2026-09-09 09:43:53",

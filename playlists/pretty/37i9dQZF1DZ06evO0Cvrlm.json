@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 598454,
+  "num_followers": 598482,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAB9K8lh/CyreAk+eBDhjIAi",
+  "snapshot_id": "aqChgAAAAAALfdpuffJ3PQ4UkWHBGusO",
   "tracks": [
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 269891,
-      "name": "Idol - Live",
-      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
+      "duration_ms": 276418,
+      "name": "You Know That I Want To",
+      "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB"
     }
   ],
   "unique_name": "This Is George Michael",

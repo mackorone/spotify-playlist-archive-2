@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADmg55lA7zG1WBFuMyYOXib",
+  "snapshot_id": "aqChgAAAAADXZJ6r0C8x/QHbv8g5ZW3W",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148315,
-      "name": "Outta Me",
-      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
+      "duration_ms": 87544,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 87544,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
+      "duration_ms": 148315,
+      "name": "Outta Me",
+      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
+      "duration_ms": 208053,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 262107,
+  "num_followers": 262128,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH7yIRS7H+idevGZut/xHoOeZZYy",
+  "snapshot_id": "AAAAAEMga574HgL33ubsovECyVgpW2eI",
   "tracks": [
     {
       "added_at": "2026-08-07 04:12:22",
@@ -779,26 +779,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
+        "name": "Ikigai (feat. Loonie)",
+        "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
       },
       "artists": [
         {
-          "name": "Jasmine Kelly",
-          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         },
         {
-          "name": "Lushroom",
-          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
-        },
-        {
-          "name": "sanjay.",
-          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+      "duration_ms": 245729,
+      "name": "Ikigai (feat. Loonie)",
+      "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -819,22 +815,26 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Ikigai (feat. Loonie)",
-        "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "Jasmine Kelly",
+          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
         },
         {
-          "name": "Loonie",
-          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+          "name": "Lushroom",
+          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
+        },
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
         }
       ],
-      "duration_ms": 245729,
-      "name": "Ikigai (feat. Loonie)",
-      "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
+      "duration_ms": 198640,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "sad face :(",
-        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 208051,
-      "name": "sad face :(",
-      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "don't matter",
         "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 202000,
       "name": "don't matter",
       "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "sad face :(",
+        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 208051,
+      "name": "sad face :(",
+      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "let me know",
+        "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 208387,
+      "name": "let me know",
+      "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Infatuated",
         "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "let me know",
-        "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 208387,
-      "name": "let me know",
-      "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
     },
     {
       "added_at": "2026-08-07 04:12:22",

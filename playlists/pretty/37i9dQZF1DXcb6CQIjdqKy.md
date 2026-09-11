@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: SEU Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,656,320 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656,567 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 |
 | 100 | [Holy Spirit \(feat\. Phylisha Mitchell\)](https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Phylisha Mitchell](https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh) | [Not My Will \(Deluxe\)](https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb) | 4:31 |
 
-Snapshot ID: `AAAAAIQV7Qu9d1hOX9RIXL+rArMg4W4D`
+Snapshot ID: `AAAAAFIp5+OA21IAkYsWLF1L62069G3r`

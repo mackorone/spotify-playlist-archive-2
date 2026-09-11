@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-3,595 songs - 7 day 20 hr 31 min
+3,596 songs - 7 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [Globetrotter \- Extended Mix](https://open.spotify.com/track/024KVHbLGyD92xtvLkMG8h) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Globetrotter](https://open.spotify.com/album/6nYe6QnZ6xaC3UWh6Lk9dX) | 4:29 | 2025-07-01 | 2025-08-06 |
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-07-02 | 2024-08-07 |
 | [Glow Up](https://open.spotify.com/track/0hv3Kuv2R21TqrG3lXy93A) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Glow Up](https://open.spotify.com/album/3ipDT8TUQpEh80tZdQkMaO) | 2:45 | 2023-05-02 | 2023-06-07 |
+| [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 | 2026-09-01 |  |
 | [Glucose](https://open.spotify.com/track/1TSXKxOs1dFqsBHE09Hume) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Glucose](https://open.spotify.com/album/28xTx6u6Ml4LSvPXOWb5so) | 3:16 | 2024-06-04 | 2024-06-12 |
 | [Go](https://open.spotify.com/track/7iv7J8MBE4IM6VFoB6k1Bq) | [Kelsey Coockson](https://open.spotify.com/artist/4QxfuL0xABUsbLfiRuIRAO) | [Go](https://open.spotify.com/album/3lCyeeD9l2TCH1UwllL6sC) | 2:10 | 2022-11-01 | 2022-11-30 |
 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 | 2025-09-30 | 2025-11-05 |

@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 208000,
       "name": "Bright and Beautiful",
       "url": "https://open.spotify.com/track/6FIyPLmX3ZjMwlngLXNzcE"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138144,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/4mWIYtLSziJ1fkQc174F6n"
@@ -5108,7 +5108,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190270,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/379e7xFZMpNG4JIpZhKwFq"
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 267333,
       "name": "IMELA (Thanksgiving) - Gospel RnB Soul",
       "url": "https://open.spotify.com/track/3hPnHUZPHVH2d3iNCtOuRL"
@@ -6190,7 +6190,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 186888,
       "name": "Iwo Loba",
       "url": "https://open.spotify.com/track/0xBkrsCP03UluBmYPTgyx0"
@@ -7054,6 +7054,28 @@
       "duration_ms": 145979,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/7wTZUijBarTXSDZgi7OLY6"
+    },
+    {
+      "album": {
+        "name": "Live in Grace",
+        "url": "https://open.spotify.com/album/5wWnUflM97jNk12necqXJT"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Live in Grace",
+      "url": "https://open.spotify.com/track/0WMJSqbahnxEYQazQHkgBQ"
     },
     {
       "album": {
@@ -8014,7 +8036,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175468,
       "name": "Million Miracles",
       "url": "https://open.spotify.com/track/1BFALzeTkyGv5P8g4SL85H"
@@ -9987,6 +10009,24 @@
     },
     {
       "album": {
+        "name": "Oseyifunmitan",
+        "url": "https://open.spotify.com/album/0YuWTBHeEuybknWQdJDnZi"
+      },
+      "artists": [
+        {
+          "name": "Laolu Adewumi",
+          "url": "https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Oseyifunmitan",
+      "url": "https://open.spotify.com/track/7J5jqQv9fkd0szf8mFSTqF"
+    },
+    {
+      "album": {
         "name": "Oso (Running)",
         "url": "https://open.spotify.com/album/4BT6FzXZCzZQwwnSUAdrlk"
       },
@@ -10094,6 +10134,24 @@
       "duration_ms": 143621,
       "name": "Overwhelming",
       "url": "https://open.spotify.com/track/1xqM9tG1LpcWjBzEHHRWem"
+    },
+    {
+      "album": {
+        "name": "Own My Heart",
+        "url": "https://open.spotify.com/album/6YHQLvNus91WD5IZrwOPtx"
+      },
+      "artists": [
+        {
+          "name": "Delight Munachy",
+          "url": "https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189288,
+      "name": "Own My Heart",
+      "url": "https://open.spotify.com/track/5GsOzVAnoCNpkhwZEF0i5p"
     },
     {
       "album": {
@@ -11598,6 +11656,32 @@
       "duration_ms": 204303,
       "name": "Sho Mi",
       "url": "https://open.spotify.com/track/00lcLneceg9IWlyTUMZXNB"
+    },
+    {
+      "album": {
+        "name": "Shut the devil up",
+        "url": "https://open.spotify.com/album/4XjZRXmUGdJEXf0mq5QrWC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Shut the devil up",
+      "url": "https://open.spotify.com/track/38Dpx3fwXmU1MGd9vFOIXZ"
     },
     {
       "album": {
@@ -13708,7 +13792,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167785,
       "name": "Weather I Chop Thank You",
       "url": "https://open.spotify.com/track/0F8quSF7MOsLe7IHtiI1g6"
@@ -13920,6 +14004,28 @@
       "duration_ms": 218040,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3u71fqiv5wmXgAcAmpKPae"
+    },
+    {
+      "album": {
+        "name": "With you",
+        "url": "https://open.spotify.com/album/0BSmdxQJPazdNVkQsm4Vhy"
+      },
+      "artists": [
+        {
+          "name": "Nomza",
+          "url": "https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx"
+        },
+        {
+          "name": "Shime Ahua",
+          "url": "https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176436,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/5I7TtT69kgDmU4Jo7JowvA"
     },
     {
       "album": {

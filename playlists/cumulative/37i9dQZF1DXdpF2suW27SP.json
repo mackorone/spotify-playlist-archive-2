@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166530,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1ZEQkMaogMsjhufP2rbFY8"
@@ -7468,7 +7468,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 168750,
       "name": "EVERESTE",
       "url": "https://open.spotify.com/track/5y9CWZurQSSHA3EG1bAG4g"
@@ -8266,7 +8266,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 168174,
       "name": "FORTNITE",
       "url": "https://open.spotify.com/track/59aZb0E94kwEzJpjVShjNu"
@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 225090,
       "name": "GATA",
       "url": "https://open.spotify.com/track/2jKF0jWTDa7FnI5W0CycAW"
@@ -9228,6 +9228,24 @@
       "duration_ms": 164706,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/49SMBZWtanraBaBdjeW1Q8"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6mzrquDCu5r0ksZOf4ZMZ3"
     },
     {
       "album": {
@@ -9902,6 +9920,36 @@
       "duration_ms": 312506,
       "name": "JAMANTAH",
       "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
+    },
+    {
+      "album": {
+        "name": "JANTAR FORA",
+        "url": "https://open.spotify.com/album/5q397DS0akV8teIpTTTfF2"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "NARIO",
+          "url": "https://open.spotify.com/artist/4Mmdqx1rT1I384x7vDZwpm"
+        },
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182014,
+      "name": "JANTAR FORA",
+      "url": "https://open.spotify.com/track/28nMUhqPq2Ra2pQX9QxAvK"
     },
     {
       "album": {
@@ -14624,7 +14672,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176790,
       "name": "OI MINA (TUDO BEM?)",
       "url": "https://open.spotify.com/track/4fCRbcfJHO9H4iHiaQJFPN"
@@ -17144,7 +17192,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 143309,
       "name": "R2",
       "url": "https://open.spotify.com/track/0Fzn5ozhhP2alg1bNqTyas"
@@ -20072,7 +20120,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 159403,
       "name": "TOP",
       "url": "https://open.spotify.com/track/4NvQT3b7et8xzhRt7QXCjC"

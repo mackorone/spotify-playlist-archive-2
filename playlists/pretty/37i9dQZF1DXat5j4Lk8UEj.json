@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 473072,
+  "num_followers": 473034,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhnvWtEV0PP3q2x8NLpHriZY2s/",
+  "snapshot_id": "AAAAAHf5bmRRNrUDXBzcyCGUSPXlxhGA",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI"
-      },
-      "artists": [
-        {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
-        }
-      ],
-      "duration_ms": 210113,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Pain Shifter",
         "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI"
+      },
+      "artists": [
+        {
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+        }
+      ],
+      "duration_ms": 210113,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Surefire",
         "url": "https://open.spotify.com/album/1I2hGwPg0UwRN8pxBHJQLZ"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
       },
       "artists": [
         {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     }
   ],
   "unique_name": "Folk Rock Favorites",

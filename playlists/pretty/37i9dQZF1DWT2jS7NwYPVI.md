@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Maple's Pet Dinosaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,706 likes - 155 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,738 likes - 155 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 58 | [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 |
 | 59 | [COOL](https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [COOL](https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z) | 3:09 |
 | 60 | [Dilated](https://open.spotify.com/track/6OMmL1x8gBKgANcxRKqSsr) | [Willowake](https://open.spotify.com/artist/1DdLuQwxYMLYx7QJ0ZwNsC) | [Dilated](https://open.spotify.com/album/64QLg47tmbeSISZvDMvqJI) | 3:04 |
-| 61 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 61 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 62 | [dent](https://open.spotify.com/track/2wbQHo1FSIumMijG5hIUpr) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [dent](https://open.spotify.com/album/0fgaKgJjKd0Tb3s4EEUBGw) | 2:25 |
 | 63 | [Good American](https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Good American](https://open.spotify.com/album/5M9R4gC7uh7LB5VZUNRQcx) | 3:52 |
 | 64 | [Sayonara](https://open.spotify.com/track/7wMQ1YFWDu3EbpHEX7gBef) | [the burbank police department](https://open.spotify.com/artist/7IwFDbhYJr7vUAGg14ApdU) | [Sayonara](https://open.spotify.com/album/6pH6ASB1jZ4h1jO3LMuCEo) | 5:01 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 154 | [After](https://open.spotify.com/track/7EPWd4SJ0vT3cETAhCa1rw) | [Just Penelope](https://open.spotify.com/artist/2z8TqZbO16nv50m8PPPl9g) | [After](https://open.spotify.com/album/3J1k0c6MugEUDyQGUkfJ3F) | 2:54 |
 | 155 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAAL22hgpQH8bzdhKNhsZWCSeQ2vCG`
+Snapshot ID: `AAAAAIO+cEBg9cLHL7ccHOTnxlaUwUkD`

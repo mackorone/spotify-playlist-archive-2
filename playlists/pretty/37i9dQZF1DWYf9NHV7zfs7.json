@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Juliana Gattas",
-  "num_followers": 77846,
+  "num_followers": 77873,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/5MylN9GEeCmHKjhQnYjaTC"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 154233,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/79fEJwL7sC9C0worDmcavh"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
         "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 184232,
       "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
       "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/5MylN9GEeCmHKjhQnYjaTC"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 154233,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/79fEJwL7sC9C0worDmcavh"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Hielo al Vino",
-        "url": "https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Hielo al Vino",
-      "url": "https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Palmeras en el jard\u00edn",
         "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Hielo al Vino",
+        "url": "https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Hielo al Vino",
+      "url": "https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Salvando las Distancias",
-        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Te So\u00f1aba",
-      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Nada es lo Mismo",
         "url": "https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 184500,
       "name": "Nada es lo Mismo",
       "url": "https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Salvando las Distancias",
+        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Te So\u00f1aba",
+      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "ESCENAS",
-        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 193246,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "ESCENAS",
+        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Mujer & Ego",
-        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "ESO Y M\u00c1S",
         "url": "https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo"
       },
@@ -1519,18 +1503,34 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "CUERPO",
-        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
         }
       ],
-      "duration_ms": 198813,
-      "name": "cuerpo",
-      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Callej\u00f3n de las baladas",
+        "url": "https://open.spotify.com/album/5CI2nC3nSEcQGun2tl46GV"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "duration_ms": 156728,
+      "name": "Callej\u00f3n de las baladas",
+      "url": "https://open.spotify.com/track/023BIHVBBkeDf4uO26fs3j"
     }
   ],
   "unique_name": "Esto es Pop",

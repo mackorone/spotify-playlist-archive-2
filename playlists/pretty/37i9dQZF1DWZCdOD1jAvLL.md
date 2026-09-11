@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Ryan Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,644 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,633 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 98 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 99 | [Off The Hook](https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Off The Hook](https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq) | 2:34 |
 
-Snapshot ID: `AAAAAFZQxnMroQ4nelJ9bK1qBtsFMLfm`
+Snapshot ID: `AAAAAMTzyVzZD0+mLNLgU5AT3W/KuufN`

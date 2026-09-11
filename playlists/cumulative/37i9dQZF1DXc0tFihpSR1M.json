@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Miley",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Alessandra",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 151067,
       "name": "**NYB**",
       "url": "https://open.spotify.com/track/1x9PxhI3ccK3lbIsDpTL0p"
+    },
+    {
+      "album": {
+        "name": "100 Spenn",
+        "url": "https://open.spotify.com/album/7pJMUM3JfBe3idcZs3WeMZ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157325,
+      "name": "100 Spenn",
+      "url": "https://open.spotify.com/track/6du6R5Vm3hq65rjE82abnt"
     },
     {
       "album": {
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 195952,
       "name": "Bullets & Blades (feat. Kehlani)",
       "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
@@ -1919,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "crank 2",
+        "url": "https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "crank 2",
+      "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/5EIrd3al1ojWDLC1SRPYIK"
       },
@@ -2060,6 +2096,24 @@
       "duration_ms": 235771,
       "name": "Danceteria",
       "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "album": {
+        "name": "DANS BABY",
+        "url": "https://open.spotify.com/album/1HzNr3nCcpXLBpXdzhf3sx"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166447,
+      "name": "DANS BABY",
+      "url": "https://open.spotify.com/track/63JUuqZ7SwbDhVBVUaGxcM"
     },
     {
       "album": {
@@ -3536,7 +3590,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 233944,
       "name": "For Your Entertainment",
       "url": "https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um"
@@ -4435,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Head Over Water",
+        "url": "https://open.spotify.com/album/5GMnuIsXKULzWNs8xvyeEh"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Head Over Water",
+      "url": "https://open.spotify.com/track/581YIWLD60XPpP0GqWQ0Pz"
+    },
+    {
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf"
       },
@@ -4598,7 +4670,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 224746,
       "name": "Heaven On Your Mind",
       "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
@@ -6233,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "It Took Me By Surprise",
+        "url": "https://open.spotify.com/album/4XYww41YVBh8oUrnGoNJLy"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217622,
+      "name": "It Took Me By Surprise",
+      "url": "https://open.spotify.com/track/61qQKAuoNTY5o76gSJd5Uj"
+    },
+    {
+      "album": {
         "name": "It's ok I'm ok",
         "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
       },
@@ -6432,6 +6522,24 @@
       "duration_ms": 136175,
       "name": "Kaffe med noen andre",
       "url": "https://open.spotify.com/track/0L4rEAmtzXvkAj33S4oZsX"
+    },
+    {
+      "album": {
+        "name": "Kanskje Siste Gang",
+        "url": "https://open.spotify.com/album/2nTnmGzF2k4VqBSvIH2yPN"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "Kanskje Siste Gang",
+      "url": "https://open.spotify.com/track/0FmJh6KSwZnNlMkJktpeh1"
     },
     {
       "album": {
@@ -7044,7 +7152,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -7889,6 +7997,24 @@
     },
     {
       "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/4viuGOx0ux0FE0zodBNWId"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/4b7rvH7iMM4eGocl8p6ouA"
+    },
+    {
+      "album": {
         "name": "My Mess",
         "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
       },
@@ -8080,7 +8206,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 155771,
       "name": "No One Calls",
       "url": "https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC"
@@ -9472,6 +9598,28 @@
       "duration_ms": 197573,
       "name": "Save You a Seat",
       "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "album": {
+        "name": "SAVNER ET MENNESKE",
+        "url": "https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205515,
+      "name": "SAVNER ET MENNESKE",
+      "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
     },
     {
       "album": {
@@ -10868,7 +11016,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
@@ -11168,7 +11316,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 177525,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/6wInGasp2u22CdaC9SEGu1"
@@ -11431,6 +11579,24 @@
     },
     {
       "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/1xXLUpM07MPuttMKx1p8Hh"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156122,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/3AFKq2r9NHFufSCHxWR1RQ"
+    },
+    {
+      "album": {
         "name": "Til verden blir helt min",
         "url": "https://open.spotify.com/album/650rW2jhLJ9LX0KN5ZdHPx"
       },
@@ -11446,7 +11612,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 173644,
       "name": "Til verden blir helt min",
       "url": "https://open.spotify.com/track/0X7firrVsqUriCaSjSWuIg"
@@ -12652,7 +12818,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 122685,
       "name": "Wink Wink",
       "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"

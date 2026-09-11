@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: jolle",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: amelie",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156848,
       "name": "Beste Zeit",
       "url": "https://open.spotify.com/track/4vzBBHlLFSONFmAvYWKMUu"
@@ -7935,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "Du Hund",
+        "url": "https://open.spotify.com/album/5m5Y5BA33ozxo7kChUQgFe"
+      },
+      "artists": [
+        {
+          "name": "TR\u00c4NEN",
+          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Du Hund",
+      "url": "https://open.spotify.com/track/3trpTkPtr2UOQQU4T1Nw0a"
+    },
+    {
+      "album": {
         "name": "Du kannst nicht gut allein sein",
         "url": "https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W"
       },
@@ -9106,6 +9124,24 @@
       "duration_ms": 168452,
       "name": "Ende",
       "url": "https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO"
+    },
+    {
+      "album": {
+        "name": "Ende der Welt",
+        "url": "https://open.spotify.com/album/1Q31OdUSqoOLZcKLMQSyuX"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Ende der Welt",
+      "url": "https://open.spotify.com/track/4rDp0owP2tmSUrLBIs91cB"
     },
     {
       "album": {
@@ -10548,7 +10584,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160144,
       "name": "fingergun",
       "url": "https://open.spotify.com/track/5tIEzZwkcz3L1RZLRBssTz"
@@ -13793,6 +13829,24 @@
     },
     {
       "album": {
+        "name": "Heiligenschein",
+        "url": "https://open.spotify.com/album/6jARmo8TIQPpTZ7R7blsO2"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Heiligenschein",
+      "url": "https://open.spotify.com/track/6Nxebdmp2h36cJ0VBNKN1H"
+    },
+    {
+      "album": {
         "name": "berq",
         "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn"
       },
@@ -15626,7 +15680,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 153000,
       "name": "IM NACHGANG",
       "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
@@ -16234,7 +16288,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 140494,
       "name": "Irgendwas von Bach",
       "url": "https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41"
@@ -17064,7 +17118,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 238241,
       "name": "Kamera Blitzlicht",
       "url": "https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es"
@@ -24021,6 +24075,24 @@
     },
     {
       "album": {
+        "name": "Mut",
+        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110646,
+      "name": "Oma",
+      "url": "https://open.spotify.com/track/0yLJ87t5QJAaYXilo0vi04"
+    },
+    {
+      "album": {
         "name": "adhs",
         "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
       },
@@ -29745,6 +29817,24 @@
     },
     {
       "album": {
+        "name": "Strandgedanken",
+        "url": "https://open.spotify.com/album/0C4WsRNaPqIxFs104QalIo"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133201,
+      "name": "Strandgedanken",
+      "url": "https://open.spotify.com/track/2aPWJSic2q8VOeUZCL1JWW"
+    },
+    {
+      "album": {
         "name": "Strategie",
         "url": "https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM"
       },
@@ -33793,6 +33883,24 @@
     },
     {
       "album": {
+        "name": "Weinen, Babe",
+        "url": "https://open.spotify.com/album/5eo4Oc2wzzdDpgcP0DopRF"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "Weinen, Babe",
+      "url": "https://open.spotify.com/track/5RwBo04gsKygujjJuQuf5i"
+    },
+    {
+      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a"
       },
@@ -35794,7 +35902,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 143589,
       "name": "zimmer umgestellt",
       "url": "https://open.spotify.com/track/2XEfhTS1B1KkQAJE7d1h8j"

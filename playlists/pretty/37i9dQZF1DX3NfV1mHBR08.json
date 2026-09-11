@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50212,
+  "num_followers": 50211,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Album 0",
-        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "What Do I Steal?",
-      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 216000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "What Do I Steal?",
+      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
-      },
-      "artists": [
-        {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
-        }
-      ],
-      "duration_ms": 243978,
-      "name": "Amateur",
-      "url": "https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "duration_ms": 243978,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -723,6 +707,22 @@
       "duration_ms": 225257,
       "name": "Being an Adult",
       "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
     },
     {
       "added_at": "2026-08-18 06:15:23",

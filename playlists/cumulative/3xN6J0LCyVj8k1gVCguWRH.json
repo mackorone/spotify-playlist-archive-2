@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 230400,
       "name": "About Us",
       "url": "https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq"
@@ -7492,7 +7492,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 239627,
       "name": "Arrebatados - Remastered",
       "url": "https://open.spotify.com/track/5LF0Fmah8CdewlMramfE1f"
@@ -22376,6 +22376,24 @@
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
+    },
+    {
+      "album": {
+        "name": "Corduroy Jeans",
+        "url": "https://open.spotify.com/album/2tnjCswIylgeQWUlXhj3V8"
+      },
+      "artists": [
+        {
+          "name": "Est\u00e8re",
+          "url": "https://open.spotify.com/artist/1WCaYWO3WfBdA8Dl1OqfZz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185754,
+      "name": "Corduroy Jeans",
+      "url": "https://open.spotify.com/track/2ZvxbTQ9yCqJBk3nzqUjU6"
     },
     {
       "album": {
@@ -37268,7 +37286,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138899,
       "name": "Flow Arabe",
       "url": "https://open.spotify.com/track/7H0f7PFqeX3bWiQ7MSuwGN"
@@ -79750,7 +79768,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193965,
       "name": "Over My Hometown",
       "url": "https://open.spotify.com/track/7KNXvmFttsw4TWKE16o7Dt"
@@ -90948,7 +90966,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165925,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4P2MGtzqPEdTrsb9VX5xoO"

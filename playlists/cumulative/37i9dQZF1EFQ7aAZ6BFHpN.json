@@ -194,10 +194,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 283973,
       "name": "A Woman Is A Sometime Thing",
       "url": "https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3"
+    },
+    {
+      "album": {
+        "name": "The Essential Louis Armstrong",
+        "url": "https://open.spotify.com/album/6S9Dm1I3P06Fcszze4YjCO"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289960,
+      "name": "A Woman Is A Sometime Thing",
+      "url": "https://open.spotify.com/track/3EP8TSBgWDWQYV8vq4R5Rg"
     },
     {
       "album": {
@@ -6290,6 +6308,24 @@
     {
       "album": {
         "name": "An American Songbook",
+        "url": "https://open.spotify.com/album/6hbJgGciyGUPildP4MAllQ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292253,
+      "name": "There's A Boat Dat's Leavin' Soon For New York",
+      "url": "https://open.spotify.com/track/0dzz2v5RKp5ShcLB8az8sD"
+    },
+    {
+      "album": {
+        "name": "An American Songbook",
         "url": "https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS"
       },
       "artists": [
@@ -6300,7 +6336,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 292253,
       "name": "There's A Boat Dat's Leavin' Soon For New York",
       "url": "https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp"

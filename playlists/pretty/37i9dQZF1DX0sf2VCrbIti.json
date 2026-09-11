@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2sU2PQUlCwWoZlMh1O/4D/AIHf",
+  "snapshot_id": "AAAAAONHwrONdBWZMDEtoGSYvWCh8Xv7",
   "tracks": [
     {
       "added_at": "2025-10-24 15:29:30",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Top Latino Navidad (Remix - Audio)",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "La Orquesta de Siempre: Volume 1",
         "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Top Latino Navidad (Remix - Audio)",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 184360,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9"
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena (De Navidad)",
         "url": "https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 281730,
       "name": "No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena - De Navidad",
       "url": "https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Mariachi Total",
+        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Mariachi Total",
-        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "La Billo'S & Los Mel\u00f3dicos de Colecci\u00f3n, Vol. 1",
         "url": "https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 282706,
       "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
       "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1239,22 +1255,6 @@
       "duration_ms": 257266,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2025-10-24 15:29:30",

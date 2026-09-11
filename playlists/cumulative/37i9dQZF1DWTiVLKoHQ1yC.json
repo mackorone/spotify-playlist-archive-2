@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/06Usl1TAjBD1ltCEjqEAr5"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "AMRAC",
+          "url": "https://open.spotify.com/artist/2UpqzqEFRUtRt4WFeH3fki"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121214,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/0qf6ZXBFLOBjpWPWKPyiox"
+    },
+    {
+      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -1629,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "Don't Want To Sleep Alone",
+        "url": "https://open.spotify.com/album/3TJqEmqRlPJAqL4WuRFkfq"
+      },
+      "artists": [
+        {
+          "name": "J Ribbon",
+          "url": "https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk"
+        },
+        {
+          "name": "Joan & the Giants",
+          "url": "https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228596,
+      "name": "Don't Want To Sleep Alone",
+      "url": "https://open.spotify.com/track/20Yb9MCUGSfv9lsm5LxG77"
+    },
+    {
+      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -1880,7 +1924,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 222857,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"
@@ -3488,7 +3532,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 221904,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/0Lvtc0zkVw2Drd9mFAe6LO"
@@ -3524,7 +3568,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178793,
       "name": "I Never Want This To End",
       "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
@@ -4112,6 +4156,24 @@
       "duration_ms": 222786,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
+    },
+    {
+      "album": {
+        "name": "Leaving On",
+        "url": "https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220597,
+      "name": "Leaving On",
+      "url": "https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J"
     },
     {
       "album": {
@@ -4717,6 +4779,32 @@
     },
     {
       "album": {
+        "name": "Magnolia (Jody Wisternoff & James Grant Remix)",
+        "url": "https://open.spotify.com/album/41Vz5A8NWpDeXF3xiHirWt"
+      },
+      "artists": [
+        {
+          "name": "John Monkman",
+          "url": "https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Magnolia - Jody Wisternoff & James Grant Remix",
+      "url": "https://open.spotify.com/track/2WIEmCXSwXBWDafftNt18S"
+    },
+    {
+      "album": {
         "name": "Major Drop",
         "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
       },
@@ -4764,7 +4852,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 186785,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
@@ -7559,6 +7647,28 @@
     },
     {
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179678,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
+    },
+    {
+      "album": {
         "name": "Throwing Stones",
         "url": "https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c"
       },
@@ -7666,7 +7776,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 234840,
       "name": "To The Heart",
       "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"

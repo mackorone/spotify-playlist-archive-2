@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Hamza Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,941 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,970 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 69 | [Khabbay Sajjay](https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Asim Ali](https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y) | 3:08 |
 | 70 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1wadN23m2ThzgO3bGdRFCL) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
 
-Snapshot ID: `AAAAAC5b4YuA4FhSoFMrGYW2vjAdxRoN`
+Snapshot ID: `AAAAAAvUc79xHB/ilw/mRbfvDcsJFgjD`

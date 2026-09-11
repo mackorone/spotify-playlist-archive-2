@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 💙 with TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,556 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,501 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 60 | [Throw Ya Body](https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tej](https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL), [Avani Satra](https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp) | [Throw Ya Body](https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg) | 2:51 |
 | 61 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
 | 62 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
-| 63 | [NASTY](https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [NASTY](https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP) | 2:48 |
-| 64 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
+| 63 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
+| 64 | [NASTY](https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [NASTY](https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP) | 2:48 |
 | 65 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
 | 66 | [KEEP SEEING THINGS](https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [KEEP SEEING THINGS](https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme) | 2:40 |
 | 67 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 77 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 78 | [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 |
 | 79 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
-| 80 | [OK](https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6) | [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [OK](https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7) | 3:06 |
-| 81 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 80 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 81 | [OK](https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6) | [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [OK](https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7) | 3:06 |
 | 82 | [RIDDEM](https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Allenora](https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [RIDDEM](https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g) | 3:27 |
 | 83 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 84 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 95 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 96 | [RAGE](https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [RAGE](https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios) | 2:25 |
 | 97 | [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 |
-| 98 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
-| 99 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
-| 100 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |
+| 98 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
+| 99 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 100 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 |
 
-Snapshot ID: `AAAAAH+JvgYO31a0MCbu1otJs1kX7amO`
+Snapshot ID: `AAAAADtD128CR7lnbyWUEt7YQSIARZr8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Cameron Whitcomb & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,063 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,245 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx) | 3:02 |
 | 100 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 
-Snapshot ID: `AAAAAABN+VYI66WJMnYmeQWYLweM9QcN`
+Snapshot ID: `AAAAAM1ilWrMucsb+tWLiTcsRYNAvLQx`

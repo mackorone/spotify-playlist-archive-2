@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
+> Most exciting artists from the Indian Indie scene\. Cover: OutStation
 
-459 songs - 1 day 1 hr 33 min
+460 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 | 2024-04-26 | 2026-09-05 |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 | 2024-11-11 |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-18 | 2023-11-11 |
+| [Kho Sa Gaya Hoon](https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kho Sa Gaya Hoon](https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N) | 2:07 | 2026-09-10 |  |
 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 | 2023-11-24 | 2026-01-23 |
 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 | 2022-05-06 | 2024-04-05 |
 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 | 2025-04-09 |
@@ -381,7 +382,7 @@
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 | 2024-08-02 |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2021-12-06 | 2022-01-11 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 | 2022-12-01 |
-| [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 | 2025-05-08 |  |
+| [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 | 2025-05-08 | 2026-09-11 |
 | [Shaamo Subah](https://open.spotify.com/track/3ewClNTDWp5hDfrYo0muDI) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Shaamo Subah](https://open.spotify.com/album/28bOenSinFWKeAnU8RkDjg) | 2:55 | 2024-12-04 | 2025-01-10 |
 | [Simti](https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Simti](https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3) | 2:45 | 2025-03-13 | 2025-08-13 |
 | [Sirfira](https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Sirfira](https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C) | 2:44 | 2023-08-22 | 2023-09-27 |

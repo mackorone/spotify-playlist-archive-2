@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Vamsi Kalakuntla",
-  "num_followers": 45443,
+  "num_followers": 45453,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxw6G+BHmF9gnsvWStuphLZ4Uzn",
+  "snapshot_id": "AAAAABn7MWzlybtlYevN+8ZA2Df8sNgN",
   "tracks": [
     {
       "added_at": "2026-08-13 09:09:29",
@@ -485,26 +485,6 @@
       "url": "https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM"
     },
     {
-      "added_at": "2026-07-08 10:24:51",
-      "album": {
-        "name": "Take It Light",
-        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
-      },
-      "artists": [
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Shashank Alamuru",
-          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Take It Light",
-      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
-    },
-    {
       "added_at": "2026-02-24 08:47:01",
       "album": {
         "name": "Ooha Lokam",
@@ -529,6 +509,26 @@
       "url": "https://open.spotify.com/track/7EHaT6V6fkVc1ddrmgWqgI"
     },
     {
+      "added_at": "2026-07-08 10:24:51",
+      "album": {
+        "name": "Take It Light",
+        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
+      },
+      "artists": [
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Take It Light",
+      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
+    },
+    {
       "added_at": "2026-05-15 06:15:24",
       "album": {
         "name": "Goddamn Beauty",
@@ -543,22 +543,6 @@
       "duration_ms": 125802,
       "name": "Goddamn Beauty",
       "url": "https://open.spotify.com/track/0jJZjXt0xaUvQZ8nqvNrYW"
-    },
-    {
-      "added_at": "2026-07-15 11:11:48",
-      "album": {
-        "name": "White Girl",
-        "url": "https://open.spotify.com/album/5u3x5sZcabkvAwhFp9BXwD"
-      },
-      "artists": [
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "White Girl",
-      "url": "https://open.spotify.com/track/3PI0P1GdFrvHpyMwuozAsb"
     },
     {
       "added_at": "2026-05-04 09:38:37",
@@ -579,6 +563,22 @@
       "duration_ms": 244285,
       "name": "Paravasame",
       "url": "https://open.spotify.com/track/6nIEPjR7IchU95oxV3qOGc"
+    },
+    {
+      "added_at": "2026-07-15 11:11:48",
+      "album": {
+        "name": "White Girl",
+        "url": "https://open.spotify.com/album/5u3x5sZcabkvAwhFp9BXwD"
+      },
+      "artists": [
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "White Girl",
+      "url": "https://open.spotify.com/track/3PI0P1GdFrvHpyMwuozAsb"
     },
     {
       "added_at": "2026-07-10 11:11:11",
@@ -737,6 +737,42 @@
       "url": "https://open.spotify.com/track/37N0pehYBuG4DGRdx3Q93u"
     },
     {
+      "added_at": "2026-07-03 09:04:25",
+      "album": {
+        "name": "Ishq Edo Maayale (Rewind)",
+        "url": "https://open.spotify.com/album/3gjWW6yZNom1Neq1J9H3JO"
+      },
+      "artists": [
+        {
+          "name": "Avishek Majumder",
+          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
+        },
+        {
+          "name": "Arpita Mukherjee",
+          "url": "https://open.spotify.com/artist/5ncTuEg7Nr4mL0SqlXLy8P"
+        }
+      ],
+      "duration_ms": 199821,
+      "name": "Ishq Edo Maayale (Rewind)",
+      "url": "https://open.spotify.com/track/7qOIRBJ80YxMjtS38n1Bgx"
+    },
+    {
+      "added_at": "2026-07-24 05:28:52",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25qBsDI0xxSzyGuoQKJmjG"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4RPrGHAfx79zn877n2DHKw"
+    },
+    {
       "added_at": "2026-07-10 11:11:11",
       "album": {
         "name": "Naatu",
@@ -761,40 +797,20 @@
       "url": "https://open.spotify.com/track/4E27f7DTuAJQu8WuuaJvA3"
     },
     {
-      "added_at": "2026-07-24 05:28:52",
+      "added_at": "2026-05-04 06:27:21",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25qBsDI0xxSzyGuoQKJmjG"
+        "name": "Arthamaina Adhyayam",
+        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
       },
       "artists": [
         {
-          "name": "Sai Sandeep Pakki",
-          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
         }
       ],
-      "duration_ms": 237714,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4RPrGHAfx79zn877n2DHKw"
-    },
-    {
-      "added_at": "2026-07-03 09:04:25",
-      "album": {
-        "name": "Ishq Edo Maayale (Rewind)",
-        "url": "https://open.spotify.com/album/3gjWW6yZNom1Neq1J9H3JO"
-      },
-      "artists": [
-        {
-          "name": "Avishek Majumder",
-          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
-        },
-        {
-          "name": "Arpita Mukherjee",
-          "url": "https://open.spotify.com/artist/5ncTuEg7Nr4mL0SqlXLy8P"
-        }
-      ],
-      "duration_ms": 199821,
-      "name": "Ishq Edo Maayale (Rewind)",
-      "url": "https://open.spotify.com/track/7qOIRBJ80YxMjtS38n1Bgx"
+      "duration_ms": 275647,
+      "name": "Nee Parichayame",
+      "url": "https://open.spotify.com/track/4zgLrMrPEMXaTokloGJwPA"
     },
     {
       "added_at": "2026-07-01 06:10:30",
@@ -815,22 +831,6 @@
       "duration_ms": 260662,
       "name": "Gamyam",
       "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
-    },
-    {
-      "added_at": "2026-05-04 06:27:21",
-      "album": {
-        "name": "Arthamaina Adhyayam",
-        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
-      },
-      "artists": [
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        }
-      ],
-      "duration_ms": 275647,
-      "name": "Nee Parichayame",
-      "url": "https://open.spotify.com/track/4zgLrMrPEMXaTokloGJwPA"
     },
     {
       "added_at": "2026-03-12 14:20:28",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
     },
     {
-      "added_at": "2026-06-19 05:43:05",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
-      },
-      "artists": [
-        {
-          "name": "Sai Sandeep Pakki",
-          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
-    },
-    {
       "added_at": "2026-05-29 09:39:40",
       "album": {
         "name": "Bagundhiley",
@@ -887,6 +871,22 @@
       "duration_ms": 215386,
       "name": "Bagundhiley",
       "url": "https://open.spotify.com/track/2NqXqilVdviS616yjTlpeg"
+    },
+    {
+      "added_at": "2026-06-19 05:43:05",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
     },
     {
       "added_at": "2026-07-24 05:28:52",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9"
     },
     {
-      "added_at": "2026-02-14 00:30:30",
-      "album": {
-        "name": "Kalayaa Nijamaa",
-        "url": "https://open.spotify.com/album/27cZ6A1XAvfDPeVbClpDY6"
-      },
-      "artists": [
-        {
-          "name": "Nazeeruddin",
-          "url": "https://open.spotify.com/artist/0arlsUmMITgYIIfxO7raoR"
-        }
-      ],
-      "duration_ms": 227148,
-      "name": "Kalayaa Nijamaa",
-      "url": "https://open.spotify.com/track/1QPYbdy6Wrc9s1bOB5GGQA"
-    },
-    {
       "added_at": "2026-02-20 09:03:20",
       "album": {
         "name": "Dream",
@@ -983,6 +967,22 @@
       "duration_ms": 214859,
       "name": "Dream",
       "url": "https://open.spotify.com/track/7i6jmXMoOIkAMhCP7cIrGr"
+    },
+    {
+      "added_at": "2026-02-14 00:30:30",
+      "album": {
+        "name": "Kalayaa Nijamaa",
+        "url": "https://open.spotify.com/album/27cZ6A1XAvfDPeVbClpDY6"
+      },
+      "artists": [
+        {
+          "name": "Nazeeruddin",
+          "url": "https://open.spotify.com/artist/0arlsUmMITgYIIfxO7raoR"
+        }
+      ],
+      "duration_ms": 227148,
+      "name": "Kalayaa Nijamaa",
+      "url": "https://open.spotify.com/track/1QPYbdy6Wrc9s1bOB5GGQA"
     },
     {
       "added_at": "2026-02-20 09:03:20",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/3VoZO7ceMwffilEDWQ3tIe"
     },
     {
-      "added_at": "2026-02-14 00:30:30",
-      "album": {
-        "name": "Oo Ammayi",
-        "url": "https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd"
-      },
-      "artists": [
-        {
-          "name": "Abhishek Arya",
-          "url": "https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK"
-        }
-      ],
-      "duration_ms": 230868,
-      "name": "Oo Ammayi",
-      "url": "https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5"
-    },
-    {
       "added_at": "2026-03-19 07:25:06",
       "album": {
         "name": "Telupana Cheli",
@@ -1047,6 +1031,38 @@
       "duration_ms": 164400,
       "name": "Telupana Cheli",
       "url": "https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI"
+    },
+    {
+      "added_at": "2026-02-14 00:30:30",
+      "album": {
+        "name": "Oo Ammayi",
+        "url": "https://open.spotify.com/album/5Gxe62mhzDxMNuNa7Hxdqd"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Arya",
+          "url": "https://open.spotify.com/artist/0QDBWYLNLKoE54czhcJAVK"
+        }
+      ],
+      "duration_ms": 230868,
+      "name": "Oo Ammayi",
+      "url": "https://open.spotify.com/track/0Hx3UGvaoGTtafm7eMptw5"
+    },
+    {
+      "added_at": "2026-03-06 11:18:07",
+      "album": {
+        "name": "Vinamrata",
+        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
+      },
+      "artists": [
+        {
+          "name": "Sanskari",
+          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Raghava Thagavaa",
+      "url": "https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB"
     },
     {
       "added_at": "2026-02-28 00:01:13",
@@ -1079,22 +1095,6 @@
       "duration_ms": 196363,
       "name": "Amma",
       "url": "https://open.spotify.com/track/4o7tPAJ4vDbBHzM8pJZOyr"
-    },
-    {
-      "added_at": "2026-03-06 11:18:07",
-      "album": {
-        "name": "Vinamrata",
-        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
-      },
-      "artists": [
-        {
-          "name": "Sanskari",
-          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Raghava Thagavaa",
-      "url": "https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB"
     },
     {
       "added_at": "2026-06-12 00:10:05",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/3l5EhKoxEuLXacDSVriuYy"
     },
     {
+      "added_at": "2026-03-06 11:18:07",
+      "album": {
+        "name": "Vinamrata",
+        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
+      },
+      "artists": [
+        {
+          "name": "Sanskari",
+          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
+        }
+      ],
+      "duration_ms": 225502,
+      "name": "Oopiri",
+      "url": "https://open.spotify.com/track/44QbjliCK9u4CTfcYX42XS"
+    },
+    {
       "added_at": "2026-07-01 06:10:30",
       "album": {
         "name": "Myna",
@@ -1165,38 +1181,6 @@
       "url": "https://open.spotify.com/track/54tyV81NFJMLIOjFG4GyH7"
     },
     {
-      "added_at": "2026-03-06 11:18:07",
-      "album": {
-        "name": "Vinamrata",
-        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
-      },
-      "artists": [
-        {
-          "name": "Sanskari",
-          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
-        }
-      ],
-      "duration_ms": 225502,
-      "name": "Oopiri",
-      "url": "https://open.spotify.com/track/44QbjliCK9u4CTfcYX42XS"
-    },
-    {
-      "added_at": "2026-05-01 00:31:27",
-      "album": {
-        "name": "Na",
-        "url": "https://open.spotify.com/album/60sYLD9409j58nLjPZ5xbp"
-      },
-      "artists": [
-        {
-          "name": "HIGHMIC",
-          "url": "https://open.spotify.com/artist/6TxPwq9acQ5DsjllDCwaAE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Na",
-      "url": "https://open.spotify.com/track/4pp7xMFTOBoGbpOCH3gDsO"
-    },
-    {
       "added_at": "2026-04-27 06:05:24",
       "album": {
         "name": "Deela Paddaane",
@@ -1217,24 +1201,20 @@
       "url": "https://open.spotify.com/track/5p9JV175zSaixDW2lMsnD4"
     },
     {
-      "added_at": "2026-02-14 00:30:30",
+      "added_at": "2026-05-01 00:31:27",
       "album": {
-        "name": "Theerani",
-        "url": "https://open.spotify.com/album/4dYQ3LdSjwyl17Xh1cVSG5"
+        "name": "Na",
+        "url": "https://open.spotify.com/album/60sYLD9409j58nLjPZ5xbp"
       },
       "artists": [
         {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Usha Prasanna",
-          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+          "name": "HIGHMIC",
+          "url": "https://open.spotify.com/artist/6TxPwq9acQ5DsjllDCwaAE"
         }
       ],
-      "duration_ms": 199696,
-      "name": "Theerani",
-      "url": "https://open.spotify.com/track/52juP9nzMJg7KODjsK0NFl"
+      "duration_ms": 156000,
+      "name": "Na",
+      "url": "https://open.spotify.com/track/4pp7xMFTOBoGbpOCH3gDsO"
     },
     {
       "added_at": "2026-03-16 08:21:38",
@@ -1373,6 +1353,26 @@
       "url": "https://open.spotify.com/track/4spzhmet6DRBgSpVS91xM7"
     },
     {
+      "added_at": "2026-02-28 00:01:13",
+      "album": {
+        "name": "Gymdagi",
+        "url": "https://open.spotify.com/album/4at1UkxZyiEOPOAxbaWcW6"
+      },
+      "artists": [
+        {
+          "name": "AbhinavaKavi",
+          "url": "https://open.spotify.com/artist/4JNNsOGz9LwbUJCVUoV3wG"
+        },
+        {
+          "name": "Royoto",
+          "url": "https://open.spotify.com/artist/0xfCyvNh798fse05rM1T37"
+        }
+      ],
+      "duration_ms": 207244,
+      "name": "Gymdagi",
+      "url": "https://open.spotify.com/track/62apKp3zsfo4rJkCaKjpI8"
+    },
+    {
       "added_at": "2026-04-24 09:54:03",
       "album": {
         "name": "Kothagaundhi",
@@ -1413,24 +1413,20 @@
       "url": "https://open.spotify.com/track/7iursa6zsjh1QlsZLbzuos"
     },
     {
-      "added_at": "2026-02-28 00:01:13",
+      "added_at": "2026-03-23 05:45:51",
       "album": {
-        "name": "Gymdagi",
-        "url": "https://open.spotify.com/album/4at1UkxZyiEOPOAxbaWcW6"
+        "name": "Taara",
+        "url": "https://open.spotify.com/album/6HmUoSa5sOjbZuOFK2KKVa"
       },
       "artists": [
         {
-          "name": "AbhinavaKavi",
-          "url": "https://open.spotify.com/artist/4JNNsOGz9LwbUJCVUoV3wG"
-        },
-        {
-          "name": "Royoto",
-          "url": "https://open.spotify.com/artist/0xfCyvNh798fse05rM1T37"
+          "name": "Priyanka Gajanan",
+          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
         }
       ],
-      "duration_ms": 207244,
-      "name": "Gymdagi",
-      "url": "https://open.spotify.com/track/62apKp3zsfo4rJkCaKjpI8"
+      "duration_ms": 239016,
+      "name": "Taara",
+      "url": "https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX"
     },
     {
       "added_at": "2026-04-24 09:54:03",
@@ -1449,20 +1445,20 @@
       "url": "https://open.spotify.com/track/2nYjW3Yizw18odVF2UzJHN"
     },
     {
-      "added_at": "2026-03-23 05:45:51",
+      "added_at": "2026-02-20 09:03:20",
       "album": {
-        "name": "Taara",
-        "url": "https://open.spotify.com/album/6HmUoSa5sOjbZuOFK2KKVa"
+        "name": "Nalo",
+        "url": "https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q"
       },
       "artists": [
         {
-          "name": "Priyanka Gajanan",
-          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
         }
       ],
-      "duration_ms": 239016,
-      "name": "Taara",
-      "url": "https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX"
+      "duration_ms": 143073,
+      "name": "Nalo",
+      "url": "https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8"
     },
     {
       "added_at": "2026-04-24 09:54:03",
@@ -1485,36 +1481,20 @@
       "url": "https://open.spotify.com/track/5hjOo3JUkew4wosrTIkGa1"
     },
     {
-      "added_at": "2026-02-20 09:03:20",
+      "added_at": "2026-06-22 07:48:18",
       "album": {
-        "name": "Nalo",
-        "url": "https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q"
+        "name": "Kaalam",
+        "url": "https://open.spotify.com/album/5kD8qdqqd29afX96LPGHHu"
       },
       "artists": [
         {
-          "name": "Arviz",
-          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+          "name": "Likhith Dorbala",
+          "url": "https://open.spotify.com/artist/3PchR7lSIh9Po7xqsnFRPR"
         }
       ],
-      "duration_ms": 143073,
-      "name": "Nalo",
-      "url": "https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8"
-    },
-    {
-      "added_at": "2026-05-01 00:31:27",
-      "album": {
-        "name": "Marichaaney",
-        "url": "https://open.spotify.com/album/0ZpjzUp3bApCFbySZMrlLE"
-      },
-      "artists": [
-        {
-          "name": "ARKA",
-          "url": "https://open.spotify.com/artist/3jcPhfHFIpbx1W1MhvtM1L"
-        }
-      ],
-      "duration_ms": 196768,
-      "name": "Marichaaney",
-      "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
+      "duration_ms": 207860,
+      "name": "KAALAM",
+      "url": "https://open.spotify.com/track/4GJAQdLi59Bs6PnPavRDMJ"
     },
     {
       "added_at": "2026-03-05 08:20:11",
@@ -1533,20 +1513,20 @@
       "url": "https://open.spotify.com/track/48qXwLDpUe1LySShTJ7mh5"
     },
     {
-      "added_at": "2026-06-22 07:48:18",
+      "added_at": "2026-05-01 00:31:27",
       "album": {
-        "name": "Kaalam",
-        "url": "https://open.spotify.com/album/5kD8qdqqd29afX96LPGHHu"
+        "name": "Marichaaney",
+        "url": "https://open.spotify.com/album/0ZpjzUp3bApCFbySZMrlLE"
       },
       "artists": [
         {
-          "name": "Likhith Dorbala",
-          "url": "https://open.spotify.com/artist/3PchR7lSIh9Po7xqsnFRPR"
+          "name": "ARKA",
+          "url": "https://open.spotify.com/artist/3jcPhfHFIpbx1W1MhvtM1L"
         }
       ],
-      "duration_ms": 207860,
-      "name": "KAALAM",
-      "url": "https://open.spotify.com/track/4GJAQdLi59Bs6PnPavRDMJ"
+      "duration_ms": 196768,
+      "name": "Marichaaney",
+      "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
     },
     {
       "added_at": "2026-05-01 00:31:27",
@@ -1565,20 +1545,60 @@
       "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
     },
     {
-      "added_at": "2026-03-13 08:50:39",
+      "added_at": "2026-08-06 09:27:09",
       "album": {
-        "name": "Nene Chinnu",
-        "url": "https://open.spotify.com/album/0tv9lVe4udL0194E2tf7w8"
+        "name": "Sagali Neeve",
+        "url": "https://open.spotify.com/album/2B81w8j64bfmHAksmxhChu"
       },
       "artists": [
         {
-          "name": "Arviz",
-          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+          "name": "Anuraj Ajithkumar",
+          "url": "https://open.spotify.com/artist/3m6viblbjXiRa9LCL23JsU"
+        },
+        {
+          "name": "Shiva Kumar Jinna",
+          "url": "https://open.spotify.com/artist/3fJhe8QntoO1o7oU0caUSx"
+        },
+        {
+          "name": "Gayathry Krishnachandran",
+          "url": "https://open.spotify.com/artist/0JgyhUf2FnxB7HQ7Dj1CC3"
         }
       ],
-      "duration_ms": 156269,
-      "name": "Nene Chinnu",
-      "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
+      "duration_ms": 303500,
+      "name": "Sagali Neeve",
+      "url": "https://open.spotify.com/track/4mGAxCG7OE2i2jCVdEHRll"
+    },
+    {
+      "added_at": "2026-07-17 05:26:21",
+      "album": {
+        "name": "Red Flower (Erra Puvvu)",
+        "url": "https://open.spotify.com/album/2vFGHO9MyKTe1pntPSs7MC"
+      },
+      "artists": [
+        {
+          "name": "Hyderabadi Chora",
+          "url": "https://open.spotify.com/artist/4wU2EE3uFSZXdNim67tKSI"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Red Flower (Erra Puvvu)",
+      "url": "https://open.spotify.com/track/7cfGuk9jnkts1y6PozHrgL"
+    },
+    {
+      "added_at": "2026-07-10 11:11:11",
+      "album": {
+        "name": "24 / 26 - Freeverse",
+        "url": "https://open.spotify.com/album/7sNHmYK6XlTC4MnFgrxGqE"
+      },
+      "artists": [
+        {
+          "name": "Straightoutskx",
+          "url": "https://open.spotify.com/artist/0PAT6abajvOaw3MQcnVAxa"
+        }
+      ],
+      "duration_ms": 125543,
+      "name": "24 / 26 - Freeverse",
+      "url": "https://open.spotify.com/track/7bgOjaDrhlMYTQCIMQ14Tg"
     },
     {
       "added_at": "2026-08-12 05:36:58",
@@ -1607,38 +1627,6 @@
     {
       "added_at": "2026-07-10 11:11:11",
       "album": {
-        "name": "24 / 26 - Freeverse",
-        "url": "https://open.spotify.com/album/7sNHmYK6XlTC4MnFgrxGqE"
-      },
-      "artists": [
-        {
-          "name": "Straightoutskx",
-          "url": "https://open.spotify.com/artist/0PAT6abajvOaw3MQcnVAxa"
-        }
-      ],
-      "duration_ms": 125543,
-      "name": "24 / 26 - Freeverse",
-      "url": "https://open.spotify.com/track/7bgOjaDrhlMYTQCIMQ14Tg"
-    },
-    {
-      "added_at": "2026-07-17 05:26:21",
-      "album": {
-        "name": "Red Flower (Erra Puvvu)",
-        "url": "https://open.spotify.com/album/2vFGHO9MyKTe1pntPSs7MC"
-      },
-      "artists": [
-        {
-          "name": "Hyderabadi Chora",
-          "url": "https://open.spotify.com/artist/4wU2EE3uFSZXdNim67tKSI"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Red Flower (Erra Puvvu)",
-      "url": "https://open.spotify.com/track/7cfGuk9jnkts1y6PozHrgL"
-    },
-    {
-      "added_at": "2026-07-10 11:11:11",
-      "album": {
         "name": "Alajadi",
         "url": "https://open.spotify.com/album/7z82LwT14sWcbElgRwvfHi"
       },
@@ -1653,28 +1641,20 @@
       "url": "https://open.spotify.com/track/6ayDIICYVw1Mpl9wJiW8fe"
     },
     {
-      "added_at": "2026-08-06 09:27:09",
+      "added_at": "2026-03-13 08:50:39",
       "album": {
-        "name": "Sagali Neeve",
-        "url": "https://open.spotify.com/album/2B81w8j64bfmHAksmxhChu"
+        "name": "Nene Chinnu",
+        "url": "https://open.spotify.com/album/0tv9lVe4udL0194E2tf7w8"
       },
       "artists": [
         {
-          "name": "Anuraj Ajithkumar",
-          "url": "https://open.spotify.com/artist/3m6viblbjXiRa9LCL23JsU"
-        },
-        {
-          "name": "Shiva Kumar Jinna",
-          "url": "https://open.spotify.com/artist/3fJhe8QntoO1o7oU0caUSx"
-        },
-        {
-          "name": "Gayathry Krishnachandran",
-          "url": "https://open.spotify.com/artist/0JgyhUf2FnxB7HQ7Dj1CC3"
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
         }
       ],
-      "duration_ms": 303500,
-      "name": "Sagali Neeve",
-      "url": "https://open.spotify.com/track/4mGAxCG7OE2i2jCVdEHRll"
+      "duration_ms": 156269,
+      "name": "Nene Chinnu",
+      "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
     },
     {
       "added_at": "2026-03-27 09:08:58",
@@ -1741,22 +1721,6 @@
       "url": "https://open.spotify.com/track/18Wj3FgZJpemu5QR65FjeB"
     },
     {
-      "added_at": "2026-08-07 05:26:26",
-      "album": {
-        "name": "Vama",
-        "url": "https://open.spotify.com/album/4sU3Hi2qeHG46T0QeZTTtW"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Vama",
-      "url": "https://open.spotify.com/track/4J6bdFMvKZZMWpq2JlMtzI"
-    },
-    {
       "added_at": "2026-08-31 04:52:34",
       "album": {
         "name": "Nee Kosam",
@@ -1771,6 +1735,22 @@
       "duration_ms": 210878,
       "name": "Nee Kosam",
       "url": "https://open.spotify.com/track/4FcPdM3hcWyLKqq38BW61P"
+    },
+    {
+      "added_at": "2026-08-07 05:26:26",
+      "album": {
+        "name": "Vama",
+        "url": "https://open.spotify.com/album/4sU3Hi2qeHG46T0QeZTTtW"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Vama",
+      "url": "https://open.spotify.com/track/4J6bdFMvKZZMWpq2JlMtzI"
     },
     {
       "added_at": "2026-05-22 00:30:05",
@@ -1805,6 +1785,22 @@
       "url": "https://open.spotify.com/track/10SUNdWmkEZOS7Vqpmk9bo"
     },
     {
+      "added_at": "2026-08-31 04:52:34",
+      "album": {
+        "name": "Chill Chill",
+        "url": "https://open.spotify.com/album/0x3wY4UFgFLaz9zgzHfMVb"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Chill Chill",
+      "url": "https://open.spotify.com/track/76ZkTEwKomDeeB2huHNt9p"
+    },
+    {
       "added_at": "2026-02-14 00:30:30",
       "album": {
         "name": "Vellipokey",
@@ -1837,20 +1833,28 @@
       "url": "https://open.spotify.com/track/6j5qKkJpWhRN88ltIAWlru"
     },
     {
-      "added_at": "2026-08-31 04:52:34",
+      "added_at": "2026-09-10 09:03:15",
       "album": {
-        "name": "Chill Chill",
-        "url": "https://open.spotify.com/album/0x3wY4UFgFLaz9zgzHfMVb"
+        "name": "Kanneeti Kathaye",
+        "url": "https://open.spotify.com/album/1R3VOh3HNuA0NlFPMQN3IQ"
       },
       "artists": [
         {
-          "name": "Uday Kiran UK",
-          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Siddharth Tanuku",
+          "url": "https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N"
+        },
+        {
+          "name": "SreeSha",
+          "url": "https://open.spotify.com/artist/3asHAaYDcgTavWQcg76xxL"
         }
       ],
-      "duration_ms": 176842,
-      "name": "Chill Chill",
-      "url": "https://open.spotify.com/track/76ZkTEwKomDeeB2huHNt9p"
+      "duration_ms": 224000,
+      "name": "Kanneeti Kathaye",
+      "url": "https://open.spotify.com/track/7zMWnNSLMVunQFKhrqx6uh"
     },
     {
       "added_at": "2026-04-15 06:57:01",
@@ -1873,20 +1877,20 @@
       "url": "https://open.spotify.com/track/3aBodknhLkUpac581YamqC"
     },
     {
-      "added_at": "2026-02-14 00:30:30",
+      "added_at": "2026-09-10 09:03:15",
       "album": {
-        "name": "Nuvvu Vuntava?",
-        "url": "https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ"
+        "name": "STREET CODES",
+        "url": "https://open.spotify.com/album/2nAQzBtj9Y1XHSEocxpaDR"
       },
       "artists": [
         {
-          "name": "Madduri Hemant",
-          "url": "https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L"
+          "name": "RONNY",
+          "url": "https://open.spotify.com/artist/4ca4GWjoD2LcyhM2s3a5BP"
         }
       ],
-      "duration_ms": 152145,
-      "name": "Nuvvu Vuntava?",
-      "url": "https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs"
+      "duration_ms": 126857,
+      "name": "STILL BROKE",
+      "url": "https://open.spotify.com/track/3Qc1fKGNonv6pkAMdCF16X"
     },
     {
       "added_at": "2026-02-28 00:01:13",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199935,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 280893,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 240326,
       "name": "Bolero Triste",
       "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu"
@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Buhotronix",
+          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Coronado",
+      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
+    },
+    {
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1022,6 +1044,24 @@
       "duration_ms": 190360,
       "name": "Dos Soledades",
       "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+    },
+    {
+      "album": {
+        "name": "Eh\u00e9catl",
+        "url": "https://open.spotify.com/album/5Jo4BoOirjVRMhZbbBrC5e"
+      },
+      "artists": [
+        {
+          "name": "Liz Morir\u00e9",
+          "url": "https://open.spotify.com/artist/58hywzV0ya3keINey4KFqK"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Eh\u00e9catl",
+      "url": "https://open.spotify.com/track/3Bhz0SUH1g1L4asukfCoVd"
     },
     {
       "album": {
@@ -1232,6 +1272,24 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+    },
+    {
+      "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224155,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS"
     },
     {
       "album": {
@@ -1482,7 +1540,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 137100,
       "name": "Helecho",
       "url": "https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA"
@@ -1951,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Las Maderas de Mi Barca",
+        "url": "https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189448,
+      "name": "Las Maderas de Mi Barca",
+      "url": "https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68"
+    },
+    {
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -2251,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210735,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj"
+    },
+    {
+      "album": {
         "name": "Mis Amigos",
         "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
       },
@@ -2266,6 +2360,24 @@
       "duration_ms": 180569,
       "name": "Mis Amigos",
       "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
+    },
+    {
+      "album": {
+        "name": "Mujer P\u00e1jaro",
+        "url": "https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173756,
+      "name": "Mujer P\u00e1jaro",
+      "url": "https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD"
     },
     {
       "album": {
@@ -2342,6 +2454,24 @@
       "duration_ms": 234038,
       "name": "Navegarte",
       "url": "https://open.spotify.com/track/6MCZ45zKWI2bDJiXyA4D89"
+    },
+    {
+      "album": {
+        "name": "bit\u00e1cora del sol",
+        "url": "https://open.spotify.com/album/7JaqSjZmpyfeWGtJhKZnV1"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/64KUUGuLMHcL64756AClhr"
     },
     {
       "album": {
@@ -2436,6 +2566,28 @@
       "duration_ms": 245161,
       "name": "Ojos Del Sol",
       "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/6I6sbvjQ0HE49zYK2Mat9d"
+      },
+      "artists": [
+        {
+          "name": "Luiza Brina",
+          "url": "https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231107,
+      "name": "Ora\u00e7\u00e3o 2",
+      "url": "https://open.spotify.com/track/3Fv8KP2lJvWSn7M7W38jag"
     },
     {
       "album": {
@@ -2849,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Remedios",
+        "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208074,
+      "name": "Remedios",
+      "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+    },
+    {
+      "album": {
         "name": "Ropa De Bazar",
         "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
       },
@@ -2900,7 +3070,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 278666,
       "name": "Rubidio 37",
       "url": "https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM"
@@ -2976,7 +3146,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW"
@@ -3048,7 +3218,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 168549,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/6GiRftZTCnVyud4cn07ZHM"
@@ -3106,6 +3276,24 @@
       "duration_ms": 174680,
       "name": "Sensei",
       "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
+    },
+    {
+      "album": {
+        "name": "Ser Mi Propio Amor",
+        "url": "https://open.spotify.com/album/16ZXTXlabkjMr9FSbe02pt"
+      },
+      "artists": [
+        {
+          "name": "Inbal Comedi",
+          "url": "https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228856,
+      "name": "Ser Mi Propio Amor",
+      "url": "https://open.spotify.com/track/0pXZ3iL04xKv2XMb7189BW"
     },
     {
       "album": {
@@ -3288,7 +3476,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 201674,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN"
@@ -3738,7 +3926,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"

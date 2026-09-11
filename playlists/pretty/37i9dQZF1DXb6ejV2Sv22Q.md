@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Lucas Gael en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,290 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,304 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
 | 50 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAANGaf/sTkCfdPQOL++8QDNtEZx0k`
+Snapshot ID: `AAAAAPKTvpYv+OXHUzHlClTFgisbG5+9`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
-  "num_followers": 74396,
+  "num_followers": 74432,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAu3M2Ftl0mXeyQDpPX0iHFhK19m",
+  "snapshot_id": "AAAAAKI75bcCfpe506ZMZGfnBHUO2QOq",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:32",
@@ -751,30 +751,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "Morena (Remix)",
         "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+        "name": "Nada Falta Como Me Faltas",
+        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
       },
       "artists": [
         {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
         }
       ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+      "duration_ms": 203715,
+      "name": "Nada Falta Como Me Faltas",
+      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1299,22 +1315,6 @@
       "duration_ms": 146976,
       "name": "CAJETA",
       "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
-        "name": "Nada Falta Como Me Faltas",
-        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
-      },
-      "artists": [
-        {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
-        }
-      ],
-      "duration_ms": 203715,
-      "name": "Nada Falta Como Me Faltas",
-      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "SUSTANCIAS",
         "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 228923,
       "name": "SUSTANCIAS",
       "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2026-09-04 06:00:32",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-09-04 06:00:32",
       "album": {
-        "name": "Chupa (Feat. Ms Nina)",
-        "url": "https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y"
-      },
-      "artists": [
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Chupa (Feat. Ms Nina)",
-      "url": "https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck"
-    },
-    {
-      "added_at": "2026-09-04 06:00:32",
-      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
+    },
+    {
+      "added_at": "2026-09-04 06:00:32",
+      "album": {
+        "name": "Chupa (Feat. Ms Nina)",
+        "url": "https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y"
+      },
+      "artists": [
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Chupa (Feat. Ms Nina)",
+      "url": "https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck"
     },
     {
       "added_at": "2026-09-04 06:00:32",

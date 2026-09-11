@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39800,
+  "num_followers": 39802,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdzog3AUVMMmQPgyKgRAF/lhDDK",
+  "snapshot_id": "AAAAAEiJBB/F/xuHYdbya1s+4ToFuqZo",
   "tracks": [
     {
       "added_at": "2025-12-15 11:39:00",
@@ -547,30 +547,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg/Sibelius: Nordic Suites",
-        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
-      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 381466,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: No. 2, Allegretto grazioso",
       "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Grieg/Sibelius: Nordic Suites",
+        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
+      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
     },
     {
       "added_at": "2025-12-15 11:39:00",

@@ -954,7 +954,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194666,
       "name": "After",
       "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 211428,
       "name": "Bad Decision",
       "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
@@ -11689,6 +11689,40 @@
     },
     {
       "album": {
+        "name": "Lasgidi",
+        "url": "https://open.spotify.com/album/2n6ubgIXHpKFQFnxFbbeFG"
+      },
+      "artists": [
+        {
+          "name": "NGwide",
+          "url": "https://open.spotify.com/artist/6m4v2YRSRuGyGUhcHOitD3"
+        },
+        {
+          "name": "Smoothkiss",
+          "url": "https://open.spotify.com/artist/2KU2wQXbSGz8p9oG02cZPr"
+        },
+        {
+          "name": "Vohyd",
+          "url": "https://open.spotify.com/artist/3VSsJJAEdF5orFlZzqjNLe"
+        },
+        {
+          "name": "Uchaylee",
+          "url": "https://open.spotify.com/artist/5OeaRPTcBLXkfGo4np2lqp"
+        },
+        {
+          "name": "Jamopyper",
+          "url": "https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Lasgidi",
+      "url": "https://open.spotify.com/track/37O3iBiT1tgRuQWCfM7s9G"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3nqUm4ybg7MEcr8DEBBQ4B"
       },
@@ -13584,7 +13618,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 212903,
       "name": "Modern man",
       "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
@@ -20278,6 +20312,28 @@
       "duration_ms": 202962,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx"
+    },
+    {
+      "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
     },
     {
       "album": {

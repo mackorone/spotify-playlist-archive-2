@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 378707,
+  "num_followers": 378873,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACdtWXt5Ffcb2VUf43vedmE",
+  "snapshot_id": "aqChgAAAAABhmspD2jYa6mhYsUxHE8Mm",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 181701,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Caballo",
         "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 206322,
       "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
       "url": "https://open.spotify.com/track/2obhv9HkiRddA4bpqgpmDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 181701,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
       "added_at": null,

@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [schwarze SUVs](https://open.spotify.com/track/5hYfbAxovSsKWYRSelsAhz) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:50 |
 | 6 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 |
 | 7 | [OMG](https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [OMG](https://open.spotify.com/album/0KDQpQwQ0pHjZIIj0emoOs) | 2:28 |
-| 8 | [Luftkuss](https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Luftkuss](https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO) | 1:53 |
-| 9 | [La Vida Loca](https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [La Vida Loca](https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj) | 3:02 |
+| 8 | [La Vida Loca](https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [La Vida Loca](https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj) | 3:02 |
+| 9 | [Luftkuss](https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Luftkuss](https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO) | 1:53 |
 | 10 | [Ich wein für dich](https://open.spotify.com/track/177EAWicoLjRcIJuaETODL) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [Ich wein für dich](https://open.spotify.com/album/1XXKsykHsVcYjQKMsGrs0t) | 2:58 |
 | 11 | [ALIVE](https://open.spotify.com/track/3rfagkJSrSs4BSV1q8suQt) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [ALIVE](https://open.spotify.com/album/0jsohMrFJ01nWD7OVRMLYc) | 2:32 |
 | 12 | [CHAYAS LIEBEN TRAP](https://open.spotify.com/track/6v5giipQNFNfgpoevePRyH) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [CHAYAS LIEBEN TRAP](https://open.spotify.com/album/4B7xRCqzgI325YCOZ4DBC2) | 2:25 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
 | 36 | [TEST](https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [TEST](https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84) | 2:41 |
 | 37 | [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 |
-| 38 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |
-| 39 | [dumme sachen fühlen](https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [dumme sachen fühlen](https://open.spotify.com/album/5HM7AXjuIlmShkoOom3PcD) | 3:02 |
+| 38 | [dumme sachen fühlen](https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [dumme sachen fühlen](https://open.spotify.com/album/5HM7AXjuIlmShkoOom3PcD) | 3:02 |
+| 39 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |
 | 40 | [Weißes Kleid](https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Weißes Kleid](https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD) | 2:20 |
 | 41 | [Too Tired](https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Too Tired](https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX) | 3:51 |
 | 42 | [Faded Echos](https://open.spotify.com/track/7aoiix7qtd4JMAAJaOjJ2s) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [The Purple Cat Edition](https://open.spotify.com/album/2MyzrfuvyuiBLWGPP9qUsE) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Tunnelblick](https://open.spotify.com/track/7uO6VqHLUflWaKe2hJrr7J) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0) | [Tunnelblick](https://open.spotify.com/album/48SFAfajk2gzwRzrKCpKst) | 3:34 |
 | 50 | [M42](https://open.spotify.com/track/5TCGivZkMvwCTqgEo6fSWL) | [CAVA](https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6) | [M42](https://open.spotify.com/album/4vJUOkS14MfUax09dIybt6) | 2:56 |
 
-Snapshot ID: `AAAAABZF9CiFJ8STT7Mj4J6Uw059pF69`
+Snapshot ID: `AAAAAFlK83hD+VO8mh/y8kcl7I0h2S2w`

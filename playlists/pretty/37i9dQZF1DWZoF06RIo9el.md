@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,814 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,674 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 39 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
 | 40 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |
 | 41 | [cool](https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [cool](https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ) | 2:55 |
-| 42 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
-| 43 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
+| 42 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
+| 43 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
 | 44 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
 | 45 | [por como me cuidas](https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [por como me cuidas](https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG) | 2:04 |
 | 46 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Imborrable](https://open.spotify.com/track/45Hz1aS6HYhpkgu1FOQndk) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:59 |
 | 50 | [Poeta](https://open.spotify.com/track/6McYM1HmEhcWxp0KGVXXJS) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX) | [Poeta](https://open.spotify.com/album/6c2NxL8g6nrpA48wR814Uo) | 2:55 |
 
-Snapshot ID: `AAAAAEs9cJ230LQnOwmBLUsOt2ncL3Eo`
+Snapshot ID: `AAAAADQPk3hsJuFMaxnEdZqvukun2CCH`

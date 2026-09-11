@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,542 likes - 111 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,555 likes - 111 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 33 | [Mail](https://open.spotify.com/track/0moKCnV86QtkorrMNgK4Up) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Mail](https://open.spotify.com/album/2y6britxFuCKGnDu4MtdYO) | 2:14 |
 | 34 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 35 | [GTKY](https://open.spotify.com/track/3uS7PGMubHFbgxyS8cfqkL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:32 |
-| 36 | [Bounty](https://open.spotify.com/track/3mN7uc6kruNtUdSIBXJxxk) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Z Files](https://open.spotify.com/album/4xoYP4Vs698DMZUC6xcYPL) | 2:48 |
+| 36 | [Bounty \(feat\. Kodak Black\)](https://open.spotify.com/track/3mN7uc6kruNtUdSIBXJxxk) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Z Files](https://open.spotify.com/album/4xoYP4Vs698DMZUC6xcYPL) | 2:48 |
 | 37 | [Peaches](https://open.spotify.com/track/750wm5pwuAQfnSLX8mxa5f) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/6xo0sFR5VM1EOEXyDvkiK4) | 2:51 |
 | 38 | [Asleep Talking](https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Asleep Talking](https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3) | 2:36 |
 | 39 | [NO\. 9](https://open.spotify.com/track/5Nq6lLSxphlsA6nQB0KtES) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:19 |

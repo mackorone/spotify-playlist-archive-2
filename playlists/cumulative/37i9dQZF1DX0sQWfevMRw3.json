@@ -2901,6 +2901,32 @@
     },
     {
       "album": {
+        "name": "Slick Avenue",
+        "url": "https://open.spotify.com/album/3Sf8UtbxmSaBrR3CANLlC3"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        },
+        {
+          "name": "Papi Santana",
+          "url": "https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Big Man Ting (feat. Papi Santana)",
+      "url": "https://open.spotify.com/track/6jaky6Z2xaYNOpRmlBnKOG"
+    },
+    {
+      "album": {
         "name": "Big Steppa (Hyrakiet)",
         "url": "https://open.spotify.com/album/4ZRNo5AxLg0SojV9N9E7E4"
       },
@@ -5831,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "DIN QUEEN",
+        "url": "https://open.spotify.com/album/2PyXCXeOMZHA1FO4BzMEWi"
+      },
+      "artists": [
+        {
+          "name": "Kaptenen",
+          "url": "https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103683,
+      "name": "DIN QUEEN",
+      "url": "https://open.spotify.com/track/4tp62isdluTvtpEcvFlHjA"
+    },
+    {
+      "album": {
         "name": "DIN SOLDAT",
         "url": "https://open.spotify.com/album/6xhsaIWOnOYzyFvc4lmzqO"
       },
@@ -6772,7 +6816,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138166,
       "name": "DUM",
       "url": "https://open.spotify.com/track/1PgM2LfYjscFrgqXByCLHI"
@@ -9260,6 +9304,24 @@
       "duration_ms": 158260,
       "name": "Farbror bl\u00e5 (halli hall\u00e5)",
       "url": "https://open.spotify.com/track/5WY1r7mjjiki4H94GyVtRk"
+    },
+    {
+      "album": {
+        "name": "FART",
+        "url": "https://open.spotify.com/album/3pnWfapMZfkP2ske6mit9O"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177396,
+      "name": "FART",
+      "url": "https://open.spotify.com/track/5P6YErQy4JzThyZKGjUPqL"
     },
     {
       "album": {
@@ -23828,6 +23890,24 @@
       "duration_ms": 104827,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/3IDdIoyc1qnojBGCVrDKfN"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/5FSTC7SVPbiwVH3QA322Lz"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114846,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/20gJU4jc3wfuB107iVoXMT"
     },
     {
       "album": {

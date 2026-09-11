@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: MJ Deli",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Bia\u0142as",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "24K",
+        "url": "https://open.spotify.com/album/4tfIAvo68CXKrcnlfy7lX7"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "JNKSH",
+          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132205,
+      "name": "24K",
+      "url": "https://open.spotify.com/track/2vso7xJO4flPdEa1OmnjEJ"
+    },
+    {
+      "album": {
         "name": "3 w nocy w Mi\u0119dzyzdrojach",
         "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
       },
@@ -706,7 +728,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 129166,
       "name": "4BY4",
       "url": "https://open.spotify.com/track/0nvkADASF2fka8NsuI5HKW"
@@ -832,7 +854,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157849,
       "name": "5 malin",
       "url": "https://open.spotify.com/track/6IbQeh3J825ekqHo1ghgwj"
@@ -916,7 +938,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 149189,
       "name": "5980",
       "url": "https://open.spotify.com/track/7ouervSACfkmuk5vnLARzo"
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152000,
       "name": "700 koni",
       "url": "https://open.spotify.com/track/2KhFSKETirak72KCS1S8Ov"
@@ -2784,6 +2806,32 @@
       "duration_ms": 139288,
       "name": "BIG BIG GIRL",
       "url": "https://open.spotify.com/track/05AMRlm1cjHSKGPkDdTsw2"
+    },
+    {
+      "album": {
+        "name": "BIG BOY",
+        "url": "https://open.spotify.com/album/3KhJsn4siIoVTf0dzQY456"
+      },
+      "artists": [
+        {
+          "name": "W\u0141ODAR",
+          "url": "https://open.spotify.com/artist/1H8lEfbUpbcXWFqbW9BMro"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/25s2Sk6d3WP7G0ByfPTZRU"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "BIG BOY",
+      "url": "https://open.spotify.com/track/61EiAK8sG3S0q5klRsT2kv"
     },
     {
       "album": {
@@ -7346,7 +7394,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 174333,
       "name": "FANCY",
       "url": "https://open.spotify.com/track/6IQLa7EfhTnjc1go6CkpC7"
@@ -7416,6 +7464,24 @@
       "duration_ms": 155357,
       "name": "fashionably late",
       "url": "https://open.spotify.com/track/6ry6SA50l59MWK0g0r2qJ8"
+    },
+    {
+      "album": {
+        "name": "faza",
+        "url": "https://open.spotify.com/album/3hToF0L4WoKN8yWx48glsK"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107696,
+      "name": "faza",
+      "url": "https://open.spotify.com/track/2AbSljEkcxjxa0iZ7E58PJ"
     },
     {
       "album": {
@@ -8993,6 +9059,32 @@
     },
     {
       "album": {
+        "name": "BEZ ZNACZENIA",
+        "url": "https://open.spotify.com/album/6BdIgOjvVN7TROpVXbRlXA"
+      },
+      "artists": [
+        {
+          "name": "Ch\u0142opiec",
+          "url": "https://open.spotify.com/artist/3iYugVzCGtd5H1DafWWqwE"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        },
+        {
+          "name": "HUGEPAT",
+          "url": "https://open.spotify.com/artist/3Z2gToB8kmaUab4tHZPVgF"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107799,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/3ZoXB958kCaMLMql91ESOd"
+    },
+    {
+      "album": {
         "name": "HATERS GONNA HATE",
         "url": "https://open.spotify.com/album/24fMrVsrmV4l0SFnNzPlS6"
       },
@@ -10218,7 +10310,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181972,
       "name": "Jak si\u0119 bawisz?",
       "url": "https://open.spotify.com/track/0UOpY61VZmZdRb0kPYo3C8"
@@ -14781,6 +14873,36 @@
     },
     {
       "album": {
+        "name": "Na d\u0142oni",
+        "url": "https://open.spotify.com/album/1Oo9h8ucrT2hH732Wa59tI"
+      },
+      "artists": [
+        {
+          "name": "1olliee",
+          "url": "https://open.spotify.com/artist/1cALcXOUf7ReA4usmKJTev"
+        },
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Na d\u0142oni",
+      "url": "https://open.spotify.com/track/53BDnd6xySsLFxlgQU0IYh"
+    },
+    {
+      "album": {
         "name": "2040: S\u0141AWA",
         "url": "https://open.spotify.com/album/7ugccgKG2mjsX10MSAuxnX"
       },
@@ -17577,6 +17699,24 @@
     },
     {
       "album": {
+        "name": "Ostatni Don",
+        "url": "https://open.spotify.com/album/0DYrlHQLkdLqLoKdmRoRK3"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123104,
+      "name": "Ostatni Don",
+      "url": "https://open.spotify.com/track/0iTgghYSbroI6hO0JJV9q1"
+    },
+    {
+      "album": {
         "name": "Ostatni kieliszek",
         "url": "https://open.spotify.com/album/1BUd8Njzd7v31CXkeM3Tjc"
       },
@@ -18204,7 +18344,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 177391,
       "name": "Patek Curse",
       "url": "https://open.spotify.com/track/08uj91HNihONWCEOuNgjtc"
@@ -19224,6 +19364,32 @@
       "duration_ms": 178723,
       "name": "Ponownie",
       "url": "https://open.spotify.com/track/4QPJ1Ool8ZOCr3DYzHZx3d"
+    },
+    {
+      "album": {
+        "name": "PORCELANA",
+        "url": "https://open.spotify.com/album/3NN02OtW9d9WPrVQ0kJO2q"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9",
+          "url": "https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "GUNZ",
+          "url": "https://open.spotify.com/artist/3UUldAQXuHWEWoa2bAxeWQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175447,
+      "name": "PORCELANA",
+      "url": "https://open.spotify.com/track/2JFqTCnjTvVNwHB5zyD4Gj"
     },
     {
       "album": {
@@ -20635,6 +20801,28 @@
     },
     {
       "album": {
+        "name": "RMB (Ring My Bell) [Polish Remix]",
+        "url": "https://open.spotify.com/album/4KJse0mCl8eubruetOozS7"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "RMB (Ring My Bell) - Polish Remix",
+      "url": "https://open.spotify.com/track/5Sbl11TuP03A330L2wb3we"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7sLSvYKAzt6HAHYecid92B"
       },
@@ -21494,6 +21682,40 @@
       "duration_ms": 171090,
       "name": "SHINJUKU FREESTYLE",
       "url": "https://open.spotify.com/track/5E73YdWsqOof1TckwqUoYx"
+    },
+    {
+      "album": {
+        "name": "Siatki Pomara\u0144czy",
+        "url": "https://open.spotify.com/album/6w3FRrKwkT0oCaYlAwVxLi"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "Dj.Frodo",
+          "url": "https://open.spotify.com/artist/2JPfhjtR4ZrfpcFgEszZmg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Siatki Pomara\u0144czy",
+      "url": "https://open.spotify.com/track/6gGA6n4hIO2DF2uBV5JkaI"
     },
     {
       "album": {
@@ -24672,7 +24894,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 144024,
       "name": "WAKEY BAKEY",
       "url": "https://open.spotify.com/track/6WielcKi0XR8SlbWXo0XEH"
@@ -24760,7 +24982,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 187333,
       "name": "WARTO K\u0141AMA\u0106",
       "url": "https://open.spotify.com/track/1RGVsQuc33hkiE7BqLoGjt"
@@ -24898,6 +25120,48 @@
       "duration_ms": 167410,
       "name": "WCI\u0104\u017b JESTEM CHORY",
       "url": "https://open.spotify.com/track/3aUXmVAY0lwWCTkQydGows"
+    },
+    {
+      "album": {
+        "name": "WEJD\u0179",
+        "url": "https://open.spotify.com/album/33tu7algaH3arsmrs79Afe"
+      },
+      "artists": [
+        {
+          "name": "QMPLE",
+          "url": "https://open.spotify.com/artist/37RK3pp9FEV8w1t9K2nVEj"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "przy\u0142u",
+          "url": "https://open.spotify.com/artist/2zioaq2d7svakjWZV5FDXm"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        },
+        {
+          "name": "shhieda",
+          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "WEJD\u0179",
+      "url": "https://open.spotify.com/track/1IKWLG4ZZmJ22XfR3f5URX"
     },
     {
       "album": {
@@ -25056,7 +25320,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170760,
       "name": "WILD WEST",
       "url": "https://open.spotify.com/track/4cIA1xpUKGRVgM7A4sLpLk"
@@ -25388,7 +25652,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 132000,
       "name": "Wr\u00f3\u017cka",
       "url": "https://open.spotify.com/track/2AjajXHPeI8GvSFDb4gsnD"
@@ -25726,6 +25990,24 @@
       "duration_ms": 164965,
       "name": "Wychowanek Getta",
       "url": "https://open.spotify.com/track/6Xo5k1v9veMYofYowVCIUp"
+    },
+    {
+      "album": {
+        "name": "Wychowany przez przest\u0119pc\u00f3w",
+        "url": "https://open.spotify.com/album/6L18gpEi4oAVZzc3zxE5v9"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "Wychowany przez przest\u0119pc\u00f3w",
+      "url": "https://open.spotify.com/track/4as21OP83xdK6mB1QjloUr"
     },
     {
       "album": {

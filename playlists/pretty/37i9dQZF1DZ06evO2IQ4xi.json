@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 107912,
+  "num_followers": 107929,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAD6hniktCkYjFAY1VTSZhyx",
+  "snapshot_id": "aqChgAAAAAA8N5QC1fIKratKkP3VUThi",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless (Remix)",
-        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
-      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
+      "duration_ms": 154261,
+      "name": "Balloon (feat. Doechii)",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
     },
     {
       "added_at": null,
@@ -179,22 +175,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "Timeless (Remix)",
+        "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 154261,
-      "name": "Balloon (feat. Doechii)",
-      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+      "duration_ms": 228000,
+      "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
+      "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
     },
     {
       "added_at": null,

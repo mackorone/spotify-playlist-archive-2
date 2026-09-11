@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Skyla Tylaa & Chloe
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-327 songs - 15 hr 33 min
+330 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-20 | 2025-08-30 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 |  |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-10-25 |
+| [Chinyere](https://open.spotify.com/track/7kC22nNl5VK2bzlnF7Xb7N) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chinyere](https://open.spotify.com/album/1qvoCRFD3uV59isV5czgUH) | 3:40 | 2026-09-11 |  |
 | [Chippie](https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:37 | 2026-06-05 |  |
 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 | 2026-05-08 |  |
 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 | 2026-07-31 |  |
@@ -286,6 +287,7 @@
 | [Sometimes Love](https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Sometimes Love](https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc) | 5:07 | 2026-06-25 |  |
 | [Sonfo](https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Sonfo](https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu) | 2:59 | 2025-09-05 | 2025-10-09 |
 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 | 2026-06-05 |  |
+| [Speak To Me](https://open.spotify.com/track/2QudWKYB8feL5Q0pHe06pG) | [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Speak To Me](https://open.spotify.com/album/2uyzf0f95cXqjawLckp8bK) | 2:44 | 2026-09-11 |  |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
 | [Stay Far](https://open.spotify.com/track/10e3UqAjkFbHOIr85l9vrN) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Stay Far](https://open.spotify.com/album/1VqUiyDvMZetDUxttTeDfa) | 2:37 | 2026-02-27 |  |
 | [Still I Shine](https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm) | [Amara](https://open.spotify.com/artist/7KQyGCLgWoO7IDu4I8Votk) | [Still I Shine](https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM) | 1:29 | 2026-01-09 | 2026-05-01 |
@@ -305,6 +307,7 @@
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-11-29 | 2025-05-30 |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 |  |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 |  |
+| [Track 1](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 0:00 | 2026-09-11 |  |
 | [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 | 2026-06-25 |  |
 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 | 2025-09-05 | 2026-06-12 |
 | [TUFF TIMES 2.0 \(feat\. AratheJay\)](https://open.spotify.com/track/5Co15LP8Gbm8FVBTrqnAYY) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [TUFF TIMES 2.0 \(feat\. AratheJay\)](https://open.spotify.com/album/1hzwiDaN0GZHS95ZXo1BQQ) | 2:07 | 2026-03-20 | 2026-06-12 |

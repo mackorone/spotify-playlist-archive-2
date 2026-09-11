@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,996 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,057 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 60 | [Love Is Here To Stay](https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Great Britain's](https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR) | 2:50 |
 | 61 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
 | 62 | [Polka Dots And Moonbeams \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 |
-| 63 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 |
-| 64 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
-| 65 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
-| 66 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
+| 63 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
+| 64 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
+| 65 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
+| 66 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 |
 | 67 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
 | 68 | [Someday My Prince Will Come](https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Someday My Prince Will Come](https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA) | 3:06 |
 | 69 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 92 | [Frankie and Johnnie](https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Fatha](https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw) | 2:31 |
 | 93 | [All The Things You Are](https://open.spotify.com/track/7G47M8ZKK65VBf6tLhJ2ZL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:44 |
 | 94 | [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 |
-| 95 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 |
-| 96 | [Wolverine Blues](https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:25 |
+| 95 | [Wolverine Blues](https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:25 |
+| 96 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 |
 | 97 | [Falling In Love With Love](https://open.spotify.com/track/0XOOODiI3v7vHXsv3GzFZf) | [Eddie Higgins](https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92) | [Leisure Time](https://open.spotify.com/album/4mEfEu7gEGQvM2AtmavSok) | 4:32 |
 | 98 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
-| 99 | [Off Minor](https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [David Williams](https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [The Trio Vol.2](https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6) | 9:01 |
-| 100 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
+| 99 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
+| 100 | [Off Minor](https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [David Williams](https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [The Trio Vol.2](https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6) | 9:01 |
 
-Snapshot ID: `AAAAAHVtLX4tacxaYmY0NQsbwgagRV4a`
+Snapshot ID: `AAAAAErz3JKsUt2hSWgNmm+f+N315Dh0`

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21058,
+  "num_followers": 21062,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMeHfSJm67m2/jAODYyR3u1+z5Ro",
+  "snapshot_id": "AAAAAM4wIkhM1Du5ViXqLQ0ZXfcRn4xp",
   "tracks": [
     {
       "added_at": "2026-06-25 15:51:09",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Would You Marry Me?, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 206680,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "3rd MINI ALBUM [LOVE PULSE]",
         "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 172100,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-06-25 15:51:09",

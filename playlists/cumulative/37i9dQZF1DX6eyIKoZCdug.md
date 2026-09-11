@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-300 songs - 1 day 2 hr 46 min
+301 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 | 2024-01-12 | 2024-06-01 |
 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 | 2021-09-24 | 2023-02-10 |
 | [Nazo \- Dr Feel Remix](https://open.spotify.com/track/57UAmRs9eE3hS3dMiGdjRU) | [Megatronic](https://open.spotify.com/artist/3aU6ncVBmlnA8TtCXDwJKZ), [VenusRaps](https://open.spotify.com/artist/3GZOYqox0oGHqmLQVijPye), [Zimkitha](https://open.spotify.com/artist/6A7lXry2Pg5fOttzmjqpDy), [Dommenica Fossati](https://open.spotify.com/artist/6WyEYItKsmkWbJb3VVsL8x), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Nazo \(Dr Feel Remix\)](https://open.spotify.com/album/4z09pdW97eetV2HHgdLtpK) | 6:42 | 2024-05-31 | 2024-07-19 |
+| [Ndeto](https://open.spotify.com/track/0gyzBUV6bkfmJuVWXw4KF7) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Mura](https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd) | [Ndeto](https://open.spotify.com/album/4oiME1n8oXzroMj8PHF7xs) | 4:58 | 2026-09-10 |  |
 | [Ndixoleleni Bazali](https://open.spotify.com/track/64bgsr9AEftPmd7hrENA2n) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Thembi Mona](https://open.spotify.com/artist/3Nwjw7vLX4cButAEtqIhnZ) | [Ndixoleleni Bazali](https://open.spotify.com/album/2LvxX9LhtneU5DUpIM5xnV) | 5:34 | 2022-03-24 | 2023-02-10 |
 | [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 | 2024-04-25 | 2025-03-14 |
 | [Never Give Up On You](https://open.spotify.com/track/7dNpXd8v9drTNKWxP54n47) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Table of Dreams EP](https://open.spotify.com/album/0VfCakaLqMGAwSwCHHwYlf) | 7:11 | 2021-10-29 | 2023-02-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: GRUB",
+  "description": "A new world of alternative noise. Cover: Gilla Band",
   "name": "Wire",
   "tracks": [
     {
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Alogia",
+        "url": "https://open.spotify.com/album/58TF0bXpganBLiPrTz8Xl8"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Alogia",
+      "url": "https://open.spotify.com/track/6MM1dTKvqvaaUfoMIFqJ1J"
+    },
+    {
+      "album": {
         "name": "Ambulance!",
         "url": "https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123314,
       "name": "Art School Dropout (Jaz Origin Story)",
       "url": "https://open.spotify.com/track/4La2Cbui1hXrPp5wjIspk9"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 272307,
       "name": "Black Gate",
       "url": "https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199514,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4vgoFEyR2qkVLw2HwexUTZ"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 265829,
       "name": "Echo Grey",
       "url": "https://open.spotify.com/track/5mnxFNPyk5W2iv1DTK3ghe"
@@ -1153,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Euro Stomper",
+        "url": "https://open.spotify.com/album/5zVjHk98YkzPLjq1As8wPS"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241391,
+      "name": "Euro Stomper",
+      "url": "https://open.spotify.com/track/1eRaBvZFR2FPFkCR7fn3Tm"
+    },
+    {
+      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
       },
@@ -1222,6 +1258,24 @@
       "duration_ms": 391268,
       "name": "Fabienk",
       "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
+        "name": "FARK OFF",
+        "url": "https://open.spotify.com/album/7pWmNttatMq8nCWrOkF0MP"
+      },
+      "artists": [
+        {
+          "name": "takytheartist",
+          "url": "https://open.spotify.com/artist/43Wy4rxJRXDA9ybTkBz2Lf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "FARK OFF",
+      "url": "https://open.spotify.com/track/5CECj9Jd8SC9Rr5MScgy14"
     },
     {
       "album": {
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178280,
       "name": "gloss",
       "url": "https://open.spotify.com/track/4954IoAJu2QJAYZBDWTn6F"
@@ -1652,7 +1706,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197449,
       "name": "grin & bear it",
       "url": "https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB"
@@ -1862,6 +1916,24 @@
       "duration_ms": 211651,
       "name": "I.D.C.",
       "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
+    },
+    {
+      "album": {
+        "name": "Ice Pick, Kalamazoo",
+        "url": "https://open.spotify.com/album/49ajkuQZSEJgWZjKmpmZ5O"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179960,
+      "name": "Ice Pick, Kalamazoo",
+      "url": "https://open.spotify.com/track/2Bw4s3uVcJ14vMI60P02Oh"
     },
     {
       "album": {
@@ -2847,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Opus",
+        "url": "https://open.spotify.com/album/0mjXAzLW9csfwy1E8ojXjJ"
+      },
+      "artists": [
+        {
+          "name": "The Halves",
+          "url": "https://open.spotify.com/artist/3OVtCMauEp32l6NeruMYLF"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171184,
+      "name": "Opus",
+      "url": "https://open.spotify.com/track/0cqxkz1xIf0cR6tdh61MdU"
+    },
+    {
+      "album": {
         "name": "Out in the Cold",
         "url": "https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b"
       },
@@ -3082,6 +3172,24 @@
       "duration_ms": 186727,
       "name": "Pray To That",
       "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
+    },
+    {
+      "album": {
+        "name": "Product of Profit (P.O.P)",
+        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209801,
+      "name": "Product of Profit (P.O.P)",
+      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
     },
     {
       "album": {
@@ -4102,7 +4210,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 201025,
       "name": "Take Me to the Meeting",
       "url": "https://open.spotify.com/track/6awY3r3qQHoyCRIVR0Pq2b"
@@ -4600,6 +4708,24 @@
       "duration_ms": 273750,
       "name": "We Operate on Each Other",
       "url": "https://open.spotify.com/track/02qoqz5V9TtNxOP2pZwQR0"
+    },
+    {
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112984,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254497,
+  "num_followers": 254501,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADdigEQPVqCgfelRI/FNgBv",
+  "snapshot_id": "aqChgAAAAAAmBo6l7AtQDSy4mQ7pH9g0",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 218712,
-      "name": "That Don't Impress Me Much - Edit",
-      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
+      "duration_ms": 239085,
+      "name": "That Don't Impress Me Much - International Mix",
+      "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 239085,
-      "name": "That Don't Impress Me Much - International Mix",
-      "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
+      "duration_ms": 218712,
+      "name": "That Don't Impress Me Much - Edit",
+      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Life's About To Get Good",
-      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": null,
@@ -671,6 +671,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Life's About To Get Good",
+      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
+      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faded Blue Jeans",
         "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
       },
@@ -687,38 +719,6 @@
       "duration_ms": 151962,
       "name": "Faded Blue Jeans (feat. Josh Homme)",
       "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
-      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
       },
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 235284,
-      "name": "Northern Town",
-      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
+      "duration_ms": 190349,
+      "name": "Scary Little Thing",
+      "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
     },
     {
       "added_at": null,

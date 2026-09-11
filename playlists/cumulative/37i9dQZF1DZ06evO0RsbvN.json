@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 191904,
       "name": "Daddy, Goodbye Blues",
       "url": "https://open.spotify.com/track/6q19WYjDKBHJpScHA23rtC"
@@ -4464,6 +4464,24 @@
       "duration_ms": 191266,
       "name": "Sleep Talking Blues",
       "url": "https://open.spotify.com/track/4zQn7mT2nAG9CNzor0FX4n"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192660,
+      "name": "Sleep Talking Blues",
+      "url": "https://open.spotify.com/track/0mMzZx9sJHRWDdX3rmhwun"
     },
     {
       "album": {

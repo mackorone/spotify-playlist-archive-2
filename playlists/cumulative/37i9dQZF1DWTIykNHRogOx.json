@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Eddy de Pretto.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170430,
       "name": "7 sur 7",
       "url": "https://open.spotify.com/track/0lS2qHq4HPzX0aLS363KTz"
@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Il faut que tu m'attendes",
+        "url": "https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Il faut que tu m'attendes",
+      "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
+    },
+    {
+      "album": {
         "name": "CONTRE TOI",
         "url": "https://open.spotify.com/album/6HPKxakSZeFgqt0U3PHStV"
       },
@@ -2322,6 +2340,24 @@
       "duration_ms": 242546,
       "name": "Juste avant de tomber",
       "url": "https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ"
+    },
+    {
+      "album": {
+        "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
+        "url": "https://open.spotify.com/album/3qXijU5DRIwNx3cCXl1dfx"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
+      "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
     },
     {
       "album": {
@@ -6065,6 +6101,28 @@
     },
     {
       "album": {
+        "name": "L'Ultrableu (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/2cQ92jgW7MfEEPebhOIFh7"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        },
+        {
+          "name": "Tuten Mapu",
+          "url": "https://open.spotify.com/artist/75RDIGh3K3u3a5PZ5oAJAU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231320,
+      "name": "Ton silence",
+      "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
+    },
+    {
+      "album": {
         "name": "ton ventre",
         "url": "https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV"
       },
@@ -6800,7 +6858,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 212866,
       "name": "\u00c9cran total",
       "url": "https://open.spotify.com/track/1sVhDL2OQUKItkk56OBGRw"
@@ -6872,7 +6930,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172950,
       "name": "\u00c9t\u00e9 indien",
       "url": "https://open.spotify.com/track/3Yplad4pUttI1nNpTXqOLB"

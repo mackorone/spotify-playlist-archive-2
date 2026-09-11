@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 200955,
+  "num_followers": 200952,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANafw6R9ViiKsMVpeyCOkyZjagzI",
+  "snapshot_id": "AAAAALBs0WXgU3XSoMUdDWLOABCGgcz5",
   "tracks": [
     {
       "added_at": "2025-12-19 14:06:32",
@@ -415,18 +415,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Mr. Christmas",
-        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 216042,
-      "name": "Mr. Christmas",
-      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -447,22 +451,18 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "Mr. Christmas",
+        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 191093,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
+      "duration_ms": 216042,
+      "name": "Mr. Christmas",
+      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Ella & Louis Christmas",
+        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Christmas Time Is Here (Christmas Cards from David Hazeltine)",
         "url": "https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 178000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Ella & Louis Christmas",
-        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
     },
     {
       "added_at": "2025-12-19 14:06:32",

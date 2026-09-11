@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Spanish Love Songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,210 likes - 135 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,232 likes - 135 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 22 | [Jerkin'](https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 2:08 |
 | 23 | [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 3:50 |
 | 24 | [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 |
-| 25 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 25 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 26 | [Grey Guitar](https://open.spotify.com/track/32cShRFoAaiBBbaKWaOqB6) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 2:13 |
 | 27 | [Beauty and Truth 2](https://open.spotify.com/track/1fo4HgJ5Rg3A4pV9yLDBz0) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Beauty and Truth 2](https://open.spotify.com/album/3CLVN2bMU7nfrMarrXhpcT) | 2:29 |
 | 28 | [Pirates](https://open.spotify.com/track/79BXR9Y8zZItnMQFGjCCWE) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Time To Burn](https://open.spotify.com/album/1qpGHOmNg4AV5xXm1BlzrG) | 2:33 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 134 | [Cleo](https://open.spotify.com/track/2GcyaxeLcrIezbiQckjf2R) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Cleo](https://open.spotify.com/album/0aWFyB1vF49N30JATeTXOM) | 2:08 |
 | 135 | [HAND IN HAND](https://open.spotify.com/track/6M96hhAHp58G0FKL2pZH1H) | [ILLAN KAAPAN](https://open.spotify.com/artist/1pMwGxFxWKzqkHHgaYrpZ4), [TIMEPEACE](https://open.spotify.com/artist/3NAGEPAJPqjlh5QP1lDf8C) | [UNDENIABLE](https://open.spotify.com/album/4FiUoGaLvYARfgMG2K3qba) | 2:24 |
 
-Snapshot ID: `AAAAAK1/+XrTbwUvsYtWmSCp/tZPwjyK`
+Snapshot ID: `AAAAAHamR2qHD+z0d+n3bEZvZ3oGhJfL`

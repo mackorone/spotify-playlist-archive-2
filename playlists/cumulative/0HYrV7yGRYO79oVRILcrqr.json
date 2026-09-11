@@ -6407,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Last Days Of Youth",
+        "url": "https://open.spotify.com/album/6Jtl3eEqBeqtwb2YfehSN2"
+      },
+      "artists": [
+        {
+          "name": "Black & White, Digital",
+          "url": "https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Last Days Of Youth",
+      "url": "https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7"
+    },
+    {
+      "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE"
       },

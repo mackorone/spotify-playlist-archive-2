@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 131764,
+  "num_followers": 131759,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACGWXeKmT4hT07Z3v54IOEf",
+  "snapshot_id": "aqChgAAAAABHHt793qlzlwJYsJtsrdJz",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sou Humano",
         "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00caxodo",
         "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 363075,
       "name": "Deus de Mois\u00e9s",
       "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 414761,
       "name": "Um Novo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 287602,
-      "name": "Com os Olhos da F\u00e9",
-      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 287602,
+      "name": "Com os Olhos da F\u00e9",
+      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatro por Um Forever (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
-      },
-      "artists": [
-        {
-          "name": "Quatro por Um",
-          "url": "https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 300672,
-      "name": "Porque Creio em Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 467647,
       "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quatro por Um Forever (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
+      },
+      "artists": [
+        {
+          "name": "Quatro por Um",
+          "url": "https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 300672,
+      "name": "Porque Creio em Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debaixo da Nuvem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/40haqMQAqyWCXcBvUqKhLu"
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 284835,
-      "name": "Debaixo da Nuvem",
-      "url": "https://open.spotify.com/track/6hkuCiWjyqkaWmPBI6xpwJ"
+      "duration_ms": 323686,
+      "name": "Fen\u00f4meno",
+      "url": "https://open.spotify.com/track/63Dh4tlJqCqFoPhGIZJQuA"
     }
   ],
   "unique_name": "This Is Bruna Karla",

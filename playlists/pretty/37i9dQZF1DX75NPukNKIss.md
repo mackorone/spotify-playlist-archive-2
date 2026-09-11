@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Jacquees
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,915 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,927 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 68 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 |
 | 69 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 |
 | 70 | [The Best](https://open.spotify.com/track/54mrCPoOQmXARvk5aOsAS9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:35 |
-| 71 | [Mind Gone](https://open.spotify.com/track/7l6v5Odkyww5UyurIp3yxv) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:37 |
+| 71 | [Mind Gone \(feat\. Dthang\)](https://open.spotify.com/track/7l6v5Odkyww5UyurIp3yxv) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:37 |
 | 72 | [Jodeci \(Remix\) \[with Vontee the Singer & Cash Cobain\]](https://open.spotify.com/track/0FJs8qeAmoEwmZ6ofaBYrx) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Jodeci \(Remix\)](https://open.spotify.com/album/1kyI3Ci7WNgngBwjffXBFE) | 3:30 |
 | 73 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 |
 | 74 | [This Sh!T Still in Harlem](https://open.spotify.com/track/7BuxLux3Mn2z0Fl58RxCKU) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Suzi](https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv) | [This Sh!T Still in Harlem](https://open.spotify.com/album/372Hn8bkMUBWvO2ydf26C4) | 2:02 |

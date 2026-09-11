@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2192633,
+  "num_followers": 2192715,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPc6D8ocWqp4mDI7EkzHN8VxYXB",
+  "snapshot_id": "AAAAAP3Rgo7GQiElzMBt4lUSpEAw0XhY",
   "tracks": [
     {
       "added_at": "2025-05-18 19:27:55",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/0shGCs5AkhwJIgUb0SSz2B"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "The Essential Michael Bolton",
         "url": "https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 253986,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/19us48grixRwQkw1oRCFbp"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0shGCs5AkhwJIgUb0SSz2B"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Wingspan",
-        "url": "https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/4ybDW0xfRBCPwsjwFOUzZW"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "The Essential Michael Bolton",
         "url": "https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 230493,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/1rLYWSXPrJGWnlGlSwPEia"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Wingspan",
+        "url": "https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/4ybDW0xfRBCPwsjwFOUzZW"
     },
     {
       "added_at": "2025-05-18 19:27:55",

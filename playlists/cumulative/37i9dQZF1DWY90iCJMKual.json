@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172448,
       "name": "Aishiteru",
       "url": "https://open.spotify.com/track/7yVW6dSuvUapIL826ozQGY"
@@ -664,6 +664,24 @@
       "duration_ms": 164210,
       "name": "Atin Lang",
       "url": "https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD"
+    },
+    {
+      "album": {
+        "name": "Honey, I'm Home",
+        "url": "https://open.spotify.com/album/50aoTO5y6KlBpnC99K2XLy"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165400,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7kOLuhZPNpauCawqxqGMxc"
     },
     {
       "album": {
@@ -1631,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "crossfade",
+        "url": "https://open.spotify.com/album/7Ill46FaCyicprxnUit6Nk"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "crossfade",
+      "url": "https://open.spotify.com/track/5Hzh3qGBZizwpxU9JLt4AA"
+    },
+    {
+      "album": {
         "name": "CRUSHIE",
         "url": "https://open.spotify.com/album/0OVbAJXFqY2dMeibCJkOPY"
       },
@@ -1720,7 +1756,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217928,
       "name": "D.T.M.G (Don\u2019t Touch My Girl)",
       "url": "https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I"
@@ -2760,6 +2796,28 @@
       "duration_ms": 260000,
       "name": "FLYYY",
       "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
+    },
+    {
+      "album": {
+        "name": "Focus On Me",
+        "url": "https://open.spotify.com/album/0LNIoq1YRaRntsD3GUblh0"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        },
+        {
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Focus On Me",
+      "url": "https://open.spotify.com/track/3o16iBOrF37WxbiJECecUV"
     },
     {
       "album": {
@@ -5404,7 +5462,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 200388,
       "name": "Love You Right - Remix",
       "url": "https://open.spotify.com/track/4liPkEcJHedlLbvJimvjCs"
@@ -6162,7 +6220,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 198775,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/7cNx61AbnLyhJqhKhzF47g"
@@ -7018,6 +7076,28 @@
       "duration_ms": 168153,
       "name": "pamasahe",
       "url": "https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf"
+    },
+    {
+      "album": {
+        "name": "Paminawa",
+        "url": "https://open.spotify.com/album/1q8238sea5u1qcMO0GWvSi"
+      },
+      "artists": [
+        {
+          "name": "Jid Durano",
+          "url": "https://open.spotify.com/artist/63lgN6XIvoFflcoefqMe1a"
+        },
+        {
+          "name": "Midnasty",
+          "url": "https://open.spotify.com/artist/5vInrcUTu2zWamDqZnnozJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189276,
+      "name": "Paminawa",
+      "url": "https://open.spotify.com/track/4Pe8h3rovjDNqTymszh7xl"
     },
     {
       "album": {
@@ -10082,7 +10162,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 171052,
       "name": "Walang Sala",
       "url": "https://open.spotify.com/track/12dVvamWnsPN50ZSaIqBZB"

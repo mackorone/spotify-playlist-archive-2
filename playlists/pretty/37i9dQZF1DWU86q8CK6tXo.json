@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Willow Avalon",
-  "num_followers": 65340,
+  "num_followers": 65336,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfLsyafHMyoGmmW0d5ZO9UH6Vgc",
+  "snapshot_id": "AAAAAJ7wlpIPtl51xu6zCotViba5ZWX/",
   "tracks": [
     {
       "added_at": "2026-09-02 14:25:13",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 207296,
       "name": "Music",
       "url": "https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Devil In The Water",
-        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
-      },
-      "artists": [
-        {
-          "name": "Hailey Hutcheson",
-          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
-        }
-      ],
-      "duration_ms": 176162,
-      "name": "Devil In The Water",
-      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "Can't Touch This",
         "url": "https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
         "name": "Fail-safe",
         "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
       },
@@ -667,26 +667,6 @@
       "duration_ms": 207434,
       "name": "Fail-safe",
       "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -723,34 +703,22 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Happy For Myself",
-        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Happy For Myself",
-      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
-        "name": "Pink Pocket Pistol",
-        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
-      },
-      "artists": [
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
         }
       ],
-      "duration_ms": 220474,
-      "name": "Raining Inside",
-      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -771,6 +739,38 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
+        "name": "Pink Pocket Pistol",
+        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "Raining Inside",
+      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Happy For Myself",
+        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Happy For Myself",
+      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
         "name": "Next to U",
         "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Pathetic",
-        "url": "https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 202606,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/13QihOzLoI07UwMONgspKh"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "Daddy Died",
         "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 252656,
       "name": "Daddy Died",
       "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Pathetic",
+        "url": "https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 202606,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/13QihOzLoI07UwMONgspKh"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Ethereal Redneck Shit",
-        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 233357,
-      "name": "Ethereal Redneck Shit",
-      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "His Favorite",
         "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 172798,
       "name": "His Favorite",
       "url": "https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Ethereal Redneck Shit",
+        "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 233357,
+      "name": "Ethereal Redneck Shit",
+      "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
     },
     {
       "added_at": "2026-09-02 14:25:13",

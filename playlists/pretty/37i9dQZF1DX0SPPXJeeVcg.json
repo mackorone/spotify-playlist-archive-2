@@ -1,12 +1,12 @@
 {
   "description": "Our editor's picks for R&B songs that have defined the streaming era.",
-  "num_followers": 742584,
+  "num_followers": 742825,
   "original_name": "100 Greatest R&B Songs of the Streaming Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKn2A2Rly8uXwvg0Gam//nnkqrv",
+  "snapshot_id": "AAAAAKIs+40iPpOpfdMf8/wN7eUhBSEk",
   "tracks": [
     {
       "added_at": "2024-04-09 07:00:00",
@@ -1570,6 +1570,10 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx"
         }
       ],
       "duration_ms": 204453,

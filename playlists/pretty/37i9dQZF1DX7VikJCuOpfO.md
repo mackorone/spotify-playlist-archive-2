@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Raúl Beltan 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,492 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,497 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 32 | [Se Me Acabó El Dinero](https://open.spotify.com/track/0Bg0GMvfDXvljuAaLLUMJJ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Se Me Acabó El Dinero](https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7) | 2:58 |
 | 33 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 34 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
-| 35 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
-| 36 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
+| 35 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
+| 36 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 37 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 38 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |
 | 39 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 58 | [Angelito Sin Alas](https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp) | [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Angelito Sin Alas](https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5) | 2:48 |
 | 59 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw) | 3:29 |
 | 60 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |
-| 61 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
-| 62 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
+| 61 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
+| 62 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
 | 63 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 64 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
 | 65 | [Este Corazón](https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 79 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 | 80 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
 
-Snapshot ID: `AAAAAFO1bcHtjGUWM/woaG8+eQNIYhsK`
+Snapshot ID: `AAAAAP983gn38ir9glxNsdjp6q8N5Y4E`

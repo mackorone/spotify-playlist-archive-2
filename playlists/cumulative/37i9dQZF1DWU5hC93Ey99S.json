@@ -8511,6 +8511,24 @@
     },
     {
       "album": {
+        "name": "I Need Your Lovin'",
+        "url": "https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS"
+    },
+    {
+      "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
       },
@@ -19364,6 +19382,24 @@
       "duration_ms": 115654,
       "name": "Toy",
       "url": "https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K"
+    },
+    {
+      "album": {
+        "name": "QUIET HOURS",
+        "url": "https://open.spotify.com/album/31uKmMXQhrMdRkz6mMNxGv"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4UjxY6tCUTkgidvgNlNCOV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: LIN D
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,014 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,040 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Tear Down The Dark](https://open.spotify.com/track/1whhEIbZShoYjlRr0ztk1d) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Tear Down The Dark](https://open.spotify.com/album/5Ew0szCkowyMmATp99o38x) | 2:41 |
 | 100 | [Have My Yes](https://open.spotify.com/track/0WoIjoIUUJVWUXGzpkzYAR) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [The Room](https://open.spotify.com/album/0C0FU7ooO3B4Ih1vvp1Rf1) | 2:04 |
 
-Snapshot ID: `AAAAAOJswz7eDOKxppExUdl3iSRnPC+g`
+Snapshot ID: `AAAAANFGo2LFOM6QzN83tsUhllCfgGOA`

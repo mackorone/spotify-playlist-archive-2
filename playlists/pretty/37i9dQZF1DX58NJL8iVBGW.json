@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 820785,
+  "num_followers": 820836,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHd6APlSPuGqO5rH8D696bxLfh19",
+  "snapshot_id": "AAAAACn5466YQ9/aNQxyiuxaPk/PnMQw",
   "tracks": [
     {
       "added_at": "2026-09-04 04:01:39",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+        "name": "Open Up Your Mind",
+        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
       },
       "artists": [
         {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
         }
       ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
+      "duration_ms": 184178,
+      "name": "Open Up Your Mind",
+      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Open Up Your Mind",
-        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
       },
       "artists": [
         {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
         }
       ],
-      "duration_ms": 184178,
-      "name": "Open Up Your Mind",
-      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
+        "name": "Dancing On My Grave",
+        "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Dancing On My Grave",
+      "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
-        "name": "Dancing On My Grave",
-        "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
-      },
-      "artists": [
-        {
-          "name": "Muireann Bradley",
-          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Dancing On My Grave",
-      "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Small Town Murder Songs - Original Soundtrack",
-        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Black Dog Sin",
         "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202000,
       "name": "Black Dog Sin",
       "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Small Town Murder Songs - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
-      },
-      "artists": [
-        {
-          "name": "Joshua Quimby",
-          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Stuck In The South",
         "url": "https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
+      },
+      "artists": [
+        {
+          "name": "Joshua Quimby",
+          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
     },
     {
       "added_at": "2026-09-04 04:01:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: 156/Silence
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,949 likes - 199 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,071 likes - 199 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 198 | [Ghost Emperor](https://open.spotify.com/track/0YZFqKqPZCRh1TRsGwACp2) | [RAM](https://open.spotify.com/artist/0dczfxuYhV69pplxDxzlwu) | [Ghost Emperor](https://open.spotify.com/album/6zUpC6nl7NWckoCs6J8MAF) | 3:27 |
 | 199 | [I Want to Die Before You](https://open.spotify.com/track/3ELHiGWV6hte7m19eJs8WZ) | [Genital Shame](https://open.spotify.com/artist/6jEQ9wweXV1cIGa6Wga1do) | [I Want to Die Before You](https://open.spotify.com/album/4bQR0ybCfrkOe1h0AS4V8C) | 4:34 |
 
-Snapshot ID: `AAAAALHCoyR1NhkVFQE266pZSySFRMkM`
+Snapshot ID: `AAAAAKApYyE0kZbQQldvsROzqasU9Zyh`

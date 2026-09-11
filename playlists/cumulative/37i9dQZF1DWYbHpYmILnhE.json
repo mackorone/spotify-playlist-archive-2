@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Bere Mole",
+        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113206,
+      "name": "Bere Mole",
+      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
+    },
+    {
+      "album": {
         "name": "Beretta 92",
         "url": "https://open.spotify.com/album/5XnKMN3CzQ2lZtPbjmo0iL"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 139856,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 203828,
       "name": "ECHI",
       "url": "https://open.spotify.com/track/2kr3ZGQdhiwVRi925dzB1K"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148571,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 145210,
       "name": "GOVERNMENT MONEY",
       "url": "https://open.spotify.com/track/0ymVke4Cnp7vcb4Gd2nJ0K"
@@ -1761,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/0vM39HV9yv1ANdAOGkPkpo"
+      },
+      "artists": [
+        {
+          "name": "KennyBlaze",
+          "url": "https://open.spotify.com/artist/6sTQuJgAkPwjW7csMMWkaa"
+        },
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196884,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/3vSELdnfG82GQvhjeAR6u7"
+    },
+    {
+      "album": {
         "name": "Look Around",
         "url": "https://open.spotify.com/album/6iicGQizqScDUj6Z2l0vVK"
       },
@@ -1943,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/0QflxTOep29K8pTvCFHpi5"
+      },
+      "artists": [
+        {
+          "name": "Auxiee",
+          "url": "https://open.spotify.com/artist/1XZ7XWY4lZUR23T1bEboWk"
+        },
+        {
+          "name": "Highstarlavista",
+          "url": "https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164559,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/3kesjKEHUZe4qKvTM70bZq"
+    },
+    {
+      "album": {
         "name": "My Pay",
         "url": "https://open.spotify.com/album/1gurjO2yqQooB6khYfQAs8"
       },
@@ -2064,7 +2126,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194797,
       "name": "NO APOLOGIES",
       "url": "https://open.spotify.com/track/7LxjavMU1YVyYPPBsjs3Zc"
@@ -2216,7 +2278,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190967,
       "name": "North South",
       "url": "https://open.spotify.com/track/3lNiwgHf5K7lUQx9PRSLID"
@@ -2318,7 +2380,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157714,
       "name": "Obasanjo",
       "url": "https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7"

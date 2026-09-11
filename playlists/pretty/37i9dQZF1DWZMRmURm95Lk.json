@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49084,
+  "num_followers": 49090,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKkJsPL/fGZmRdA4lZSeofWnizyC",
+  "snapshot_id": "AAAAAO6ZWQthf0zscUtWn7nIvmuikKpX",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "D.O.G.O. (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 151999,
       "name": "PALAZZINE",
       "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 224526,
-      "name": "D.O.G.O. (feat. Marracash)",
-      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "VOCE e BATTERIA",
-        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
-      },
-      "artists": [
-        {
-          "name": "Frankie hi-nrg mc",
-          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
-        },
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 168593,
-      "name": "Pedala e batteria (feat. Jovanotti)",
-      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 110262,
       "name": "HELLRAISERS",
       "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "VOCE e BATTERIA",
+        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
+      },
+      "artists": [
+        {
+          "name": "Frankie hi-nrg mc",
+          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
+        },
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 168593,
+      "name": "Pedala e batteria (feat. Jovanotti)",
+      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Lato B (feat. Mecna, Gu\u00e8)",
         "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 176860,
       "name": "Lato B (feat. Mecna, Gu\u00e8)",
       "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Teoria Del Contrario Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 173877,
       "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 280000,
       "name": "Svegliarsi a Roma",
       "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 275202,
-      "name": "Chi Paga",
-      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -2843,6 +2827,22 @@
       "duration_ms": 262338,
       "name": "Ora Che La Musica Non C'\u00e8",
       "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,085 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,089 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 31 | [Have Mercy 2](https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Have Mercy 2](https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj) | 3:21 |
 | 32 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
 | 33 | [Coachella](https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:05 |
-| 34 | [Always on My Mind](https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq) | 4:47 |
-| 35 | [Strength of a Woman](https://open.spotify.com/track/1roi2yd19qyecN3oTA3D5Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:13 |
+| 34 | [Strength of a Woman](https://open.spotify.com/track/1roi2yd19qyecN3oTA3D5Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:13 |
+| 35 | [Always on My Mind](https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq) | 4:47 |
 | 36 | [Adonai \(Remix\)](https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M) | [Adonai \(Remix\)](https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady) | 4:48 |
 | 37 | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz) | 3:17 |
 | 38 | [Me and You](https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King](https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj) | 3:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 46 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
 | 47 | [Original](https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 4:06 |
 | 48 | [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 |
-| 49 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 |
-| 50 | [Sika](https://open.spotify.com/track/08k1vfVq9tiN1fRUMWGnS7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sika](https://open.spotify.com/album/6w3cZP8pDu7R5wQjgsqeXj) | 4:42 |
+| 49 | [Sika](https://open.spotify.com/track/08k1vfVq9tiN1fRUMWGnS7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sika](https://open.spotify.com/album/6w3cZP8pDu7R5wQjgsqeXj) | 4:42 |
+| 50 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 |
 
-Snapshot ID: `ap9QAAAAAABMtik7wZTpIygYo4+qaAtY`
+Snapshot ID: `aqChgAAAAACcvwLmYDEtOCfVI5C8xM0w`

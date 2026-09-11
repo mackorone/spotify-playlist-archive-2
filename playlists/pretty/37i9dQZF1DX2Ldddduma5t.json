@@ -1,13 +1,29 @@
 {
   "description": "Check out the best new music videos from around the world. Music videos only available on Premium.",
-  "num_followers": 6842,
+  "num_followers": 6900,
   "original_name": "Best New Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSB13urh+pPMLnu7ouY5KBXwS18",
+  "snapshot_id": "AAAAAIUiYK92DbT5EbXFdcXfI0EuWV39",
   "tracks": [
+    {
+      "added_at": "2026-09-10 19:33:19",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
+    },
     {
       "added_at": "2026-09-04 15:49:52",
       "album": {
@@ -387,22 +403,6 @@
       "duration_ms": 155860,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
-    },
-    {
-      "added_at": "2026-08-17 18:56:49",
-      "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2026-08-17 18:56:49",

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,882 songs - 4 day 3 hr 44 min
+1,884 songs - 4 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Good4U](https://open.spotify.com/track/5ieRbdUGx3R1LX7MSbyFK8) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [SYNGA](https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU) | [Good4U](https://open.spotify.com/album/0yly88bOai4MF3kmFTkrdx) | 2:42 | 2023-05-05 | 2023-09-01 |
 | [Got a Friend](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Guillaume Gordon](https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj) | [Currents](https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy) | 2:42 | 2023-09-21 | 2024-02-09 |
 | [Got Me Good](https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Got Me Good](https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ) | 2:03 | 2025-08-15 |  |
+| [Gotta Be](https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be](https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T) | 3:22 | 2026-09-11 |  |
 | [Gotta Be Over](https://open.spotify.com/track/6DgMcNpKVROwwBNfibG4NS) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp) | [Gotta Be Over](https://open.spotify.com/album/3s58AhtnMqt3UrUUb9uEZC) | 3:05 | 2024-01-31 | 2024-08-31 |
 | [Gotta Have It](https://open.spotify.com/track/3uRbDTbV1cux3narst5tIh) | [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ), [Mass Medium](https://open.spotify.com/artist/4XpxlgcEnxaBDaAO7V1XvH) | [Gotta Have It](https://open.spotify.com/album/5gxDE36TyHAZ0Dv8V7SAqJ) | 3:03 | 2026-08-28 |  |
 | [GOTTA MAKE IT](https://open.spotify.com/track/1RD9O5qftZXR4R1I4HV14v) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [GOTTA MAKE IT](https://open.spotify.com/album/1aFaMJS2gRUQYcTMpnTKVP) | 2:28 | 2026-09-04 |  |
@@ -1030,6 +1031,7 @@
 | [Manifesto](https://open.spotify.com/track/5pXz9Ajxeu73yz6Mr7pm5P) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Manifesto](https://open.spotify.com/album/4Ajb5EteKQWUm88jWx3UQa) | 2:38 | 2025-04-17 |  |
 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 | 2022-10-20 | 2022-11-18 |
 | [Marama \(Moon & Stars\)](https://open.spotify.com/track/5dVw9ZFGFuNuKQrl7Lh9xi) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Saskia Lie\-Atjam](https://open.spotify.com/artist/6KnfZXg7Cg5eIMMLHy7TNJ) | [Marama \(Moon & Stars\)](https://open.spotify.com/album/3Uz5kXthMmPqTxdJwwKT17) | 3:51 | 2025-05-15 |  |
+| [March](https://open.spotify.com/track/5rHtWHjkZqpk7MsoAhwM95) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [March](https://open.spotify.com/album/42ypcJzGwCmfop9RLDo6lW) | 3:30 | 2026-09-11 |  |
 | [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/track/08UMJkKYltb67u9dHVlj8P) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Noize Generation](https://open.spotify.com/artist/0KETuRn1Qq622O6Q0WN1r9), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Maria Maria \(feat\. Matthew Clanton\)](https://open.spotify.com/album/4looyjj1OsMTR4cpexpBHU) | 2:25 | 2023-02-17 | 2023-07-14 |
 | [Mason's Daughter](https://open.spotify.com/track/2oBPXcf3mfv2OkeI8bWTFf) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 4:33 | 2023-12-07 | 2024-04-12 |
 | [Matter Of Time](https://open.spotify.com/track/7i5cFCdJt2jAqtaPhwnBJI) | [MŪNTII](https://open.spotify.com/artist/5fomjHx6JSVq8nCgHgxsAI) | [Matter Of Time](https://open.spotify.com/album/5hhtgaghc9eZ3TZcmfmbOt) | 2:50 | 2022-06-09 | 2022-09-16 |

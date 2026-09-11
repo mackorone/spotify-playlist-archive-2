@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Remi Wolf",
-  "num_followers": 1662654,
+  "num_followers": 1662560,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5OnwAx61v3gozrFx2rNjZHliQS",
+  "snapshot_id": "AAAAAMBa+3oOX+eDuR1jitvPaQNLHRZa",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:45",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 228692,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
         "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -655,22 +671,6 @@
       "duration_ms": 173333,
       "name": "Feel It All Again",
       "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 165733,
       "name": "DON'T WANNA",
       "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Tough Luck (When You Don\u2019t Call)",
+        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Tough Luck (When You Don\u2019t Call)",
+      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Bleeding Gold",
         "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 194466,
       "name": "Take Me to Sunrise",
       "url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Tough Luck (When You Don\u2019t Call)",
-        "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Tough Luck (When You Don\u2019t Call)",
-      "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 194592,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "wasted time",
         "url": "https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 194592,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "PIXIE",
-        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "lie alone",
         "url": "https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 229100,
       "name": "lie alone",
       "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "PIXIE",
+        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Haven't Said I Love You Yet",
-        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
       },
       "artists": [
         {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 113725,
-      "name": "Haven't Said I Love You Yet",
-      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
       },
       "artists": [
         {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
         }
       ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Water The Flowers",
-        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 150994,
-      "name": "Water The Flowers",
-      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Water The Flowers",
+        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "Water The Flowers",
+      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "She Doesn't Love Me",
-        "url": "https://open.spotify.com/album/60jdlddHSUAyXN8sRKClsI"
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
       },
       "artists": [
         {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
         }
       ],
-      "duration_ms": 193762,
-      "name": "She Doesn't Love Me",
-      "url": "https://open.spotify.com/track/3kskExKEDexW78Fl3N99hG"
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     }
   ],
   "unique_name": "Indie Pop",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Logos Timis",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sadam",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141597,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r"
+    },
+    {
+      "album": {
         "name": "Bad Boy 2",
         "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
       },
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158769,
       "name": "AMAZING - Remix",
       "url": "https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160000,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/0JolqNNV3ZfbBuSBbPggQe"
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 154151,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi"
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148085,
       "name": "Gia Emena",
       "url": "https://open.spotify.com/track/1oStAUJrioz0ZDtEr7YGTb"
@@ -9075,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "KONTAKIES",
+        "url": "https://open.spotify.com/album/47NFudVv92RtY7SSgSDzEo"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "KONTAKIES",
+      "url": "https://open.spotify.com/track/0oguLG6sMAtzEEzdZU8MoS"
+    },
+    {
+      "album": {
         "name": "ALEQUAN",
         "url": "https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl"
       },
@@ -10002,7 +10038,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 137560,
       "name": "Mala Vita",
       "url": "https://open.spotify.com/track/75QFWXuAuKhrrMXg4o8HSI"
@@ -10884,6 +10920,28 @@
       "duration_ms": 192515,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
+    },
+    {
+      "album": {
+        "name": "Metallo",
+        "url": "https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Metallo",
+      "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
     },
     {
       "album": {
@@ -12644,7 +12702,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178066,
       "name": "OP TI EGINE?",
       "url": "https://open.spotify.com/track/46PHloRvhwUO728FcaQmzx"
@@ -13634,7 +13692,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 114461,
       "name": "PES TI THELEIS KSA",
       "url": "https://open.spotify.com/track/6dXB0KFc9qcf1J7FriTcI1"
@@ -15700,7 +15758,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 151475,
       "name": "Sfera",
       "url": "https://open.spotify.com/track/3Ecc0FV7lNfNRnJHrCM98p"

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 86480,
+  "num_followers": 86491,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7osUjJQ146ey2IOUMpVLFVeB3+",
+  "snapshot_id": "AAAAAMccy8lRDX5s8/LKG01T0ppqkQ1J",
   "tracks": [
     {
       "added_at": "2024-06-28 21:13:36",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "A Hero's Death (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        },
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 269540,
-      "name": "A Hero's Death - Soulwax Remix",
-      "url": "https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 197853,
       "name": "Digging Deeper",
       "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "A Hero's Death (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 269540,
+      "name": "A Hero's Death - Soulwax Remix",
+      "url": "https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1"
     },
     {
       "added_at": "2024-06-28 21:13:36",

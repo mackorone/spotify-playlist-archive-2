@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Movements
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,110 likes - 175 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,183 likes - 175 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 12 | [Ants](https://open.spotify.com/track/6ukoKgaAueZa5CSMxpJTqp) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Ants](https://open.spotify.com/album/36v0xY6ZNf6xorboxUqbeD) | 3:17 |
 | 13 | [Geordie](https://open.spotify.com/track/1J4Rg2p05zFyUvNR0REj2W) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Geordie](https://open.spotify.com/album/5lwsHJ7mvLXXUix0yG0hKm) | 4:01 |
 | 14 | [Good American](https://open.spotify.com/track/1w4ycJmkVn4GLTDLhAbvxB) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Good American](https://open.spotify.com/album/5M9R4gC7uh7LB5VZUNRQcx) | 3:52 |
-| 15 | [Know You Know Me Better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [Know You Know Me Better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
+| 15 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 16 | [Never Can Tell](https://open.spotify.com/track/6LE0zFXclaKKFooqm4delR) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Never Can Tell](https://open.spotify.com/album/74l7A7EKYkogXrohXHN3Cw) | 2:57 |
 | 17 | [SILVER APPLE EYES](https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [ACT III](https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC) | 3:08 |
 | 18 | [Ravage](https://open.spotify.com/track/2pUaecpU87lb2enphyDByI) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Ravage](https://open.spotify.com/album/53UI4z0J8wtkg87bm2Neoq) | 4:16 |

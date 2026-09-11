@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62445,
+  "num_followers": 62444,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Blissful Veena",
+        "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 344581,
+      "name": "Maha Ganapathim - Nattai - Chatusra Ekam",
+      "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Classical Icons - U. Srinivas",
         "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 1609960,
       "name": "Srikanthimati - Raga Hemavati - Adi",
       "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Blissful Veena",
-        "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 344581,
-      "name": "Maha Ganapathim - Nattai - Chatusra Ekam",
-      "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
     },
     {
       "added_at": "2026-08-19 07:26:01",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Compositions Of Papanasam Sivam",
         "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+        "name": "Keeravani - Ragam, Thaanam, Pallavai",
+        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
       },
       "artists": [
         {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+          "name": "Akkarai Subhalakshmi",
+          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
         }
       ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+      "duration_ms": 1169093,
+      "name": "Raagam Keeravani - Aalapanai",
+      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -851,22 +867,6 @@
       "duration_ms": 186760,
       "name": "Raga Alapana - Version 2",
       "url": "https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Keeravani - Ragam, Thaanam, Pallavai",
-        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
-      },
-      "artists": [
-        {
-          "name": "Akkarai Subhalakshmi",
-          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
-        }
-      ],
-      "duration_ms": 1169093,
-      "name": "Raagam Keeravani - Aalapanai",
-      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -903,38 +903,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Kunnakudi Vaidyanathan",
-          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
-        }
-      ],
-      "duration_ms": 459173,
-      "name": "Ramabhirama Darbar Misrachappu",
-      "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
-        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
-      },
-      "artists": [
-        {
-          "name": "Ranganayaki Rajagopalan",
-          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
-        }
-      ],
-      "duration_ms": 468745,
-      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
-      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Mahathi Melodies",
         "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 318667,
       "name": "Thevaram Mangayarkarasi - Bowli - Adi",
       "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        }
+      ],
+      "duration_ms": 459173,
+      "name": "Ramabhirama Darbar Misrachappu",
+      "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
+        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
+      },
+      "artists": [
+        {
+          "name": "Ranganayaki Rajagopalan",
+          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
+        }
+      ],
+      "duration_ms": 468745,
+      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
+      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "South Indian Classical Music",
         "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 589200,
       "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
       "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 390635,
+      "name": "Sri Ganesha - Thilang - Adi",
+      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 390635,
-      "name": "Sri Ganesha - Thilang - Adi",
-      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Entharo Mahanu Bhavulu",
         "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 3604133,
       "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
       "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 278831,
+      "name": "Ayarpadi - Kurunji - Tisra Nadai",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 278831,
-      "name": "Ayarpadi - Kurunji - Tisra Nadai",
-      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Music from Madras",
         "url": "https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 330422,
+      "name": "Pullanguzhal - Sivaranjani - Adi",
+      "url": "https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Music of India: Traditional and Classical",
         "url": "https://open.spotify.com/album/7LcyYDD8MmvwARFuFIxzN5"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 443560,
       "name": "Chitrambari",
       "url": "https://open.spotify.com/track/4VYbr6sPJzlQ3CNlHbBa4t"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 330422,
-      "name": "Pullanguzhal - Sivaranjani - Adi",
-      "url": "https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc"
     },
     {
       "added_at": "2025-07-09 11:29:57",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-744 songs - 1 day 22 hr 23 min
+745 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
 | [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 | 2026-01-19 | 2026-03-18 |
 | [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 | 2026-07-12 |
+| [Last Days Of Youth](https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7) | [Black & White, Digital](https://open.spotify.com/artist/0daGlS2EEMDyrwtF41SaBV) | [Last Days Of Youth](https://open.spotify.com/album/6Jtl3eEqBeqtwb2YfehSN2) | 5:00 | 2026-09-10 |  |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-03-01 | 2026-03-18 |
 | [Last Night](https://open.spotify.com/track/3SLOgxmU82Hn6MOAxQuem3) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Last Night](https://open.spotify.com/album/2mTKkUS3mPXZNPhoAoWtkw) | 3:21 | 2026-04-05 |  |
 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 | 2026-03-18 |

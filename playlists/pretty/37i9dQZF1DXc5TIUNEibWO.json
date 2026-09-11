@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 10276,
+  "num_followers": 10284,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "ABC Of Love",
-        "url": "https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH"
-      },
-      "artists": [
-        {
-          "name": "Oheneba Kissi",
-          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
-        }
-      ],
-      "duration_ms": 337773,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Yaw Burger",
         "url": "https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 289653,
       "name": "Ashikele",
       "url": "https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "ABC Of Love",
+        "url": "https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH"
+      },
+      "artists": [
+        {
+          "name": "Oheneba Kissi",
+          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
+        }
+      ],
+      "duration_ms": 337773,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "The Best of Charles Amoah Vol.1",
-        "url": "https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O"
-      },
-      "artists": [
-        {
-          "name": "Charles Amoah",
-          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
-        }
-      ],
-      "duration_ms": 359955,
-      "name": "Mene Wo Begoro",
-      "url": "https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Fa Idi Bidim",
         "url": "https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 330840,
       "name": "Fa Odo Bodum",
       "url": "https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "The Best of Charles Amoah Vol.1",
+        "url": "https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O"
+      },
+      "artists": [
+        {
+          "name": "Charles Amoah",
+          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
+        }
+      ],
+      "duration_ms": 359955,
+      "name": "Mene Wo Begoro",
+      "url": "https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
-        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
-      },
-      "artists": [
-        {
-          "name": "Charles Amoah",
-          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
-        }
-      ],
-      "duration_ms": 381408,
-      "name": "Fre Me (Call Me)",
-      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Twa Me Ke Ke",
         "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 335920,
       "name": "Twa Me Ke Ke",
       "url": "https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
+        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
+      },
+      "artists": [
+        {
+          "name": "Charles Amoah",
+          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
+        }
+      ],
+      "duration_ms": 381408,
+      "name": "Fre Me (Call Me)",
+      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
     },
     {
       "added_at": "2026-02-20 08:28:52",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Lean Noise",
+        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Roo",
+          "url": "https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123702,
+      "name": "Ambient White Tones",
+      "url": "https://open.spotify.com/track/7A7SWhCgazL2AFIUvLZZcm"
+    },
+    {
+      "album": {
         "name": "Antarctic White Noise",
         "url": "https://open.spotify.com/album/5CyPkA90oE5l1fpTGsP8Tc"
       },
@@ -149,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Blanket of Static",
+        "url": "https://open.spotify.com/album/7eCYblqVHJLyIluXZYLTQW"
+      },
+      "artists": [
+        {
+          "name": "Larnac HD",
+          "url": "https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133702,
+      "name": "Blanket of Static",
+      "url": "https://open.spotify.com/track/6vOuDYvoO0dvJoj2RzqqRk"
+    },
+    {
+      "album": {
         "name": "Bora (Noise)",
         "url": "https://open.spotify.com/album/6Av9uVHp3zSrtnKCAuGgdm"
       },
@@ -160,7 +196,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 121514,
       "name": "Bora (Noise)",
       "url": "https://open.spotify.com/track/7pDaNTG69OeSgJiYVtA5KY"
@@ -491,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Doux Bonheur",
+        "url": "https://open.spotify.com/album/2h8Aw4W70xJFPB9oWWhCtF"
+      },
+      "artists": [
+        {
+          "name": "Exemple De Jardin",
+          "url": "https://open.spotify.com/artist/2PiWtVFqeXm2LCL0dGMOy0"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154569,
+      "name": "Doux Bonheur",
+      "url": "https://open.spotify.com/track/7GxnYkuoHu8wpgXbUyHsrq"
+    },
+    {
+      "album": {
         "name": "Dream Wash",
         "url": "https://open.spotify.com/album/5xufyez4YqJ4Lz89G8ZXcA"
       },
@@ -664,7 +718,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176000,
       "name": "Fade Into White Noise",
       "url": "https://open.spotify.com/track/3zVg3dXijjjalH2iVchs45"
@@ -844,7 +898,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 154463,
       "name": "Infinity Noise",
       "url": "https://open.spotify.com/track/7nU0wDEKv7UiDwU0V2CsAx"
@@ -923,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Meditative White Noise",
+        "url": "https://open.spotify.com/album/6KU7k8cQVD0M2LkgWOOMJI"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep Valley",
+          "url": "https://open.spotify.com/artist/23klg9ndA415qtNnGMtIRL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Meditative White Noise",
+      "url": "https://open.spotify.com/track/5kI5hTzZuhQIemWyqChpSl"
+    },
+    {
+      "album": {
         "name": "Moon (Noise)",
         "url": "https://open.spotify.com/album/6TUDw2xWqVzXNhhfxhNeNO"
       },
@@ -934,7 +1006,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175438,
       "name": "Moon (Noise)",
       "url": "https://open.spotify.com/track/16xCeTbNu2DRvdvWyDPwC9"
@@ -1672,7 +1744,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 170710,
       "name": "Steady White Noise",
       "url": "https://open.spotify.com/track/4ID1a370qWzckFVYeHW597"
@@ -2050,7 +2122,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 160000,
       "name": "White in the night",
       "url": "https://open.spotify.com/track/3lu2UpuTGdnksbihQfYLfO"
@@ -2072,6 +2144,24 @@
       "duration_ms": 237827,
       "name": "White Noise at Dusk",
       "url": "https://open.spotify.com/track/5rD8MfmFYDHZy8aU3S7LiD"
+    },
+    {
+      "album": {
+        "name": "White Noise Calmness",
+        "url": "https://open.spotify.com/album/3ctBJUQAosbrSYTpgxF7WU"
+      },
+      "artists": [
+        {
+          "name": "Captured Elements",
+          "url": "https://open.spotify.com/artist/3AXt06nQK8kCSNL3JLNLeP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "White Noise Calmness",
+      "url": "https://open.spotify.com/track/6P53pnFyX5K9hvpCXc4zSz"
     },
     {
       "album": {
@@ -2122,7 +2212,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "White Noise Flight",
       "url": "https://open.spotify.com/track/6Rwb7nqytVD4fXLHgG7OIy"

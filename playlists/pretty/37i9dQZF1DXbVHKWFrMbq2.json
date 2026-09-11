@@ -1,6 +1,6 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29101,
+  "num_followers": 29104,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -851,46 +851,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "El Mejor Verano",
-        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "El Mejor Verano",
-      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/6coawkjwmsVSZLNWonYWB7"
-      },
-      "artists": [
-        {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
-        },
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 177222,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Deh5Zvh6IOkIpbqgXc7fX"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
       },
@@ -911,18 +871,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+        "name": "El Mejor Verano",
+        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+      "duration_ms": 191660,
+      "name": "El Mejor Verano",
+      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -939,6 +903,42 @@
       "duration_ms": 179533,
       "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
       "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6coawkjwmsVSZLNWonYWB7"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 177222,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Deh5Zvh6IOkIpbqgXc7fX"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "No hay nadie como t\u00fa",
+        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "No hay nadie como t\u00fa",
+      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
         "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 178160,
       "name": "oda al canto",
       "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "No hay nadie como t\u00fa",
-        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 185138,
-      "name": "No hay nadie como t\u00fa",
-      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "PEL\u00cdCULAS PERDIDAS EN CASA (SESIONES EN VIVO)",
         "url": "https://open.spotify.com/album/4Y3VS60V0kZiTpWI4bwZXE"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+        "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+        "url": "https://open.spotify.com/album/1o7fxc0nuxicIlma17FH2K"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
         }
       ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+      "duration_ms": 229499,
+      "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+      "url": "https://open.spotify.com/track/6MBgZ2TlqyZkoIHpukgapb"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 180073,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
-        "url": "https://open.spotify.com/album/1o7fxc0nuxicIlma17FH2K"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
-      "url": "https://open.spotify.com/track/6MBgZ2TlqyZkoIHpukgapb"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Pa Ti Bb <3",
-        "url": "https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 196565,
-      "name": "Pa Ti Bb <3",
-      "url": "https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+        "name": "Pa Ti Bb <3",
+        "url": "https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
         }
       ],
-      "duration_ms": 247015,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+      "duration_ms": 196565,
+      "name": "Pa Ti Bb <3",
+      "url": "https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Hasta la Ra\u00edz",
-        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
-      },
-      "artists": [
-        {
-          "name": "N1za",
-          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 159285,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "No te apartes de m\u00ed",
         "url": "https://open.spotify.com/album/7mxDP92GMMgat8DyUSHND4"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 198243,
       "name": "No te apartes de m\u00ed",
       "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Hasta la Ra\u00edz",
+        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
+      },
+      "artists": [
+        {
+          "name": "N1za",
+          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 159285,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
     },
     {
       "added_at": "2026-08-20 22:49:00",

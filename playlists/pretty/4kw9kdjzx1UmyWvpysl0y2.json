@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122766,
+  "num_followers": 122756,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVvKXnOfZbMH9DV3f0hvl1lEzzGMTx",
+  "snapshot_id": "AAAVvVjTB3/h28d6LedHozx2R1gdz3ps",
   "tracks": [
+    {
+      "added_at": "2026-09-10 15:09:02",
+      "album": {
+        "name": "movements / trouble sound",
+        "url": "https://open.spotify.com/album/5orRWMZlCnTt6VEKLR76Yz"
+      },
+      "artists": [
+        {
+          "name": "null/fx",
+          "url": "https://open.spotify.com/artist/4GYl7fkPn9FUNG2H1m1GN7"
+        },
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        }
+      ],
+      "duration_ms": 186286,
+      "name": "movements",
+      "url": "https://open.spotify.com/track/2INjIOP5rGiEe7ettLMGQX"
+    },
     {
       "added_at": "2026-09-09 14:51:08",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 緑黄色社会 \*👉 <a href="https://spice.eplus.jp/articles/348853">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,233 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,270 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 64 | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/track/6rmpvLs8EEOIA7A2MTT2o3) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [さたぱんP](https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl) | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/album/1yFgFwfDnxQB9iVJt9ql4R) | 3:17 |
 | 65 | [BLUE SIGNAL](https://open.spotify.com/track/1vn1twRDO1PI2UZdW9yY5m) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [BLUE SIGNAL](https://open.spotify.com/album/6kS2ZUImFmIGoJV0Ljvqzp) | 3:16 |
 | 66 | [アプデキュート](https://open.spotify.com/track/7hlztP6dhJn2GGzoJWAsGG) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [アプデキュート](https://open.spotify.com/album/63Rz2hqZ9SNb4Ejt6lTYvt) | 3:15 |
-| 67 | [Who Knew?](https://open.spotify.com/track/3PttZzyQwA9JwOkFw0aLog) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Who Knew?](https://open.spotify.com/album/0KuLYJVokPcmvuaSJDR374) | 3:00 |
+| 67 | [Who Knew?](https://open.spotify.com/track/3PttZzyQwA9JwOkFw0aLog) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1) | [Who Knew?](https://open.spotify.com/album/0KuLYJVokPcmvuaSJDR374) | 3:00 |
 | 68 | [AWA](https://open.spotify.com/track/5kPxrjOAo6X1nMUGkz87sF) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [AWA](https://open.spotify.com/album/1cTjPfeZW47jipZtVLCjvw) | 3:13 |
 | 69 | [u let me down](https://open.spotify.com/track/0ZXX57QyfJNNrIN2zK73YG) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [u let me down](https://open.spotify.com/album/37d5MnEpQ5YcEJMRw0OvGT) | 2:19 |
 | 70 | [Swallow](https://open.spotify.com/track/64YnLm39cAL54dhs6iV8xO) | [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [SWALLOW KNOWS...](https://open.spotify.com/album/4OnNrd1G4uHFC6rgWVONmv) | 2:42 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 73 | [Hot Spot](https://open.spotify.com/track/3LE4KljofiaFeaocdj1ICJ) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [Hot Spot](https://open.spotify.com/album/6TWGJ6QC9m3tYEodoY8BrG) | 3:14 |
 | 74 | [I’m gonna TOESA](https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [What a Wonderful Life](https://open.spotify.com/album/6sqrtPnnIbWNxGQgqr8WHz) | 3:31 |
 | 75 | [KAKERA \-Unmei no Piece\-](https://open.spotify.com/track/5BzO9ZJn7RIthj3U1qXK0L) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [KAKERA \-Unmei no Piece\-](https://open.spotify.com/album/5pJV7V3H5gyYqW3mMTWnmT) | 4:24 |
-| 76 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
+| 76 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
 | 77 | [On We Go](https://open.spotify.com/track/4x8N43VJ0hGWXP7LjRdaYn) | [EBiDAN NEXT](https://open.spotify.com/artist/6FxT07sVudEka39P1Z1vQo) | [On We Go](https://open.spotify.com/album/5hWUo8erXjUNWgP2KgUCkj) | 3:14 |
 | 78 | [呼吸](https://open.spotify.com/track/147GB6VfGuad76v81IRfn2) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [今夜cruise / 呼吸 / MICHIKUSA / デイジー / UBU](https://open.spotify.com/album/2CQKGecZPnqh81ggMfuh4i) | 3:27 |
 | 79 | [Midsummer](https://open.spotify.com/track/1DxeySt90h5kcfv6EeYdZE) | [RêRA](https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5) | [Midsummer](https://open.spotify.com/album/7Ij1SpiUf6B8cWbaXWk3ap) | 3:27 |

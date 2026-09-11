@@ -3039,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Am\u00e9rica del Futuro",
+        "url": "https://open.spotify.com/album/4VKU5JzP4I86XqKak6abir"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        },
+        {
+          "name": "Las Paritarias",
+          "url": "https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201376,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/3LHcNsuzDNUBHHTxDngLOD"
+    },
+    {
+      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -5696,7 +5718,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -6518,7 +6540,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -7968,6 +7990,24 @@
       "duration_ms": 213716,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu"
+    },
+    {
+      "album": {
+        "name": "Sin La Piel",
+        "url": "https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211753,
+      "name": "Todo Lo Que Vivimos",
+      "url": "https://open.spotify.com/track/6biNr2utpGhugZsSApcldB"
     },
     {
       "album": {

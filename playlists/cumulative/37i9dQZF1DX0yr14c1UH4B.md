@@ -2,12 +2,13 @@
 
 ### [Common Thread](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> It's all about the song 🌷 cover: Liana Flores
+> It's all about the song 🌷 cover: Dermot Henry
 
-1,019 songs - 2 day 9 hr 8 min
+1,029 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [\(I Wish I Was\) Ennio Morricone](https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym) | 2:55 | 2026-09-10 |  |
 | [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-03 |  |
 | [2 much 2 handle](https://open.spotify.com/track/0A28TOFc5aTmeUuMaIKYwk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [2 much 2 handle](https://open.spotify.com/album/6nyI7UeD5jHxEitLg7m9ua) | 2:20 | 2025-05-09 | 2025-05-16 |
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-08-22 | 2025-11-28 |
@@ -57,6 +58,7 @@
 | [Another Body](https://open.spotify.com/track/5r19E26jFldVMw9EOt6wl9) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Another Body](https://open.spotify.com/album/60O5lTmaXrZMaWuKwqDrJD) | 2:54 | 2025-09-19 | 2026-01-15 |
 | [Any Better](https://open.spotify.com/track/3caXHCeMrBN1FQOkNjiFGs) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [Any Better](https://open.spotify.com/album/29AxANEhm9rcdb8fM6semp) | 2:45 | 2025-07-24 | 2025-09-20 |
 | [Anyone's Guess](https://open.spotify.com/track/45zyM4NTpaYTp58OJzmaMI) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Anyone's Guess](https://open.spotify.com/album/4EZSr1NCFEc4yzD2NlPTZa) | 3:54 | 2026-01-30 | 2026-02-27 |
+| [Anything But](https://open.spotify.com/track/3bWClQapOl0hRXXnDxqNq9) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Anything But](https://open.spotify.com/album/0kP0WtVcz9IRNTe30ZAjU9) | 3:25 | 2026-09-10 |  |
 | [Anywhere With You](https://open.spotify.com/track/5AWDX83XkOnUZ3Ps6UL7Yi) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Anywhere With You](https://open.spotify.com/album/4psYRYNlb77GTVqwhXvtPh) | 2:26 | 2025-04-10 | 2025-05-16 |
 | [APRIL SHOWERS](https://open.spotify.com/track/40Qw0s7oqA3GzlTxuw1GMe) | [Lois](https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1) | [SEVEN](https://open.spotify.com/album/0janmZ6GMg082yd8hCp9yy) | 4:45 | 2025-08-14 | 2025-09-26 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-31 | 2025-03-21 |
@@ -110,6 +112,7 @@
 | [Body Back](https://open.spotify.com/track/6PvuXVWQOjkWWK79sT0Cvr) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Body Back](https://open.spotify.com/album/1FhKdm5bcj4mqx77fd9tcr) | 3:41 | 2025-03-28 | 2025-04-18 |
 | [bones](https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [spilling my guts](https://open.spotify.com/album/7phn0SadS5635xhyXthk02) | 2:28 | 2026-07-24 |  |
 | [Bones](https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Birds in Winter](https://open.spotify.com/album/3Qm7yz3G1vT0kleL0c5D28) | 4:02 | 2026-04-23 | 2026-07-24 |
+| [Boomerang](https://open.spotify.com/track/5Hvm2x5Lt0cVDlnYEiV4hs) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Boomerang](https://open.spotify.com/album/2Pa8F6YDKvJejClTos28hA) | 3:33 | 2026-09-10 |  |
 | [Bore The Brunt](https://open.spotify.com/track/1Ick5PrcMHerKtMG8oaRzk) | [Chris Cresham](https://open.spotify.com/artist/3HyHsSgZemqGBTmF18OatM) | [Bore The Brunt](https://open.spotify.com/album/7aWf4n7WOoDQpEYmjGKkWo) | 2:36 | 2026-06-08 | 2026-08-07 |
 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 | 2026-04-23 | 2026-05-08 |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-31 | 2024-07-27 |
@@ -336,6 +339,7 @@
 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-02 | 2025-06-20 |
 | [Good Enough](https://open.spotify.com/track/3diUyWgYvHSgtH8jGcTCWF) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Good Enough](https://open.spotify.com/album/0e9Nvt3LT7njjEt1XSMtDX) | 3:46 | 2025-08-07 | 2025-08-29 |
 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2024-10-04 | 2025-01-31 |
+| [Good Guess](https://open.spotify.com/track/5z4z1zam5AEzXo1GtWacjP) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Good Guess](https://open.spotify.com/album/63S7znmrBmZRCH3wCMNx8N) | 3:37 | 2026-09-10 |  |
 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 | 2026-07-16 |  |
 | [Good To You](https://open.spotify.com/track/3zdu34rdvgnMcBNfkV8NAL) | [Silvertwin](https://open.spotify.com/artist/7aqjHeupqqWY9tPApz26Mf) | [Good To You](https://open.spotify.com/album/7GBw62qxC9ANOi1B8RpHw5) | 3:47 | 2025-11-28 | 2026-02-27 |
 | [Goodbye](https://open.spotify.com/track/13BDreSwqXdUyIbFyt4ifY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Goodbye](https://open.spotify.com/album/0j5Blq32IUAxXU7y1NtqBv) | 2:35 | 2025-10-09 | 2026-03-13 |
@@ -368,6 +372,7 @@
 | [Heaven](https://open.spotify.com/track/6rq44tBrWJwhWaTO0lMC5p) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/0ODs8NvPYf8B1m7B0yBhAt) | 2:58 | 2025-06-19 | 2025-10-24 |
 | [Heaven](https://open.spotify.com/track/5ae9VNSeOiHO0HfPHlFQCH) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Heaven](https://open.spotify.com/album/0tB1dheknY3GCYJuAPB7Mf) | 3:08 | 2025-04-10 | 2025-05-23 |
 | [Heaven Knows You're Lonely](https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Heaven Knows You're Lonely](https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B) | 3:01 | 2026-06-18 | 2026-08-21 |
+| [Hers](https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Hers](https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5) | 3:32 | 2026-09-10 |  |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-22 | 2025-08-15 |
 | [High](https://open.spotify.com/track/6vLOevDMJKxwZfalPLgfMZ) | [Bea Elmy Martin](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [Under The Yew \(Vol 2\)](https://open.spotify.com/album/6QyJOUzDpzooTVyjrCiHAR) | 3:49 | 2026-06-25 |  |
 | [High Hope](https://open.spotify.com/track/58BJtGjMyGZHZhFltXR4Zg) | [Ferester](https://open.spotify.com/artist/6zLpTEeO256aVCCbrg6RpX) | [High Hope](https://open.spotify.com/album/4mVsyJ45y6S7o8QiEVKgGw) | 4:07 | 2025-05-15 | 2025-08-01 |
@@ -565,6 +570,7 @@
 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 | 2026-07-24 |  |
 | [Maybe I](https://open.spotify.com/track/3vbuPaWDmP71FMVYbj1kRZ) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Maybe I](https://open.spotify.com/album/1p3H8RBMBjwaE8vYWeCBOp) | 2:02 | 2024-05-31 | 2024-08-17 |
 | [Me & You](https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Me & You](https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx) | 2:47 | 2025-05-15 | 2025-07-18 |
+| [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 | 2026-09-10 |  |
 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 | 2026-05-28 | 2026-08-21 |
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-16 | 2026-05-29 |
 | [Migraine](https://open.spotify.com/track/2ehmpUPDLlM1zhJtdDb6vl) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Migraine](https://open.spotify.com/album/0iokJoz4Ykss9l7uZwhxHa) | 3:28 | 2025-08-29 | 2025-09-26 |
@@ -698,6 +704,7 @@
 | [Rethink Some Things](https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:45 | 2026-03-20 | 2026-06-09 |
 | [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Reverse Cowboy](https://open.spotify.com/album/7wcJCn9OfEnAMHVesh9dPA) | 3:32 | 2025-10-16 | 2026-02-27 |
 | [Riding in Cars with Boys](https://open.spotify.com/track/0w9ioOmHyRtTDQS0fpB7J3) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Riding in Cars with Boys](https://open.spotify.com/album/2FWLYpxwKgpfV2pixWzzto) | 3:12 | 2026-03-20 | 2026-05-15 |
+| [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 | 2026-09-10 |  |
 | [Rituals](https://open.spotify.com/track/5DgyQ6b7OnqD7LqN6zEy7a) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rituals](https://open.spotify.com/album/0H3fYvMsYfLI6z3vy8sP7g) | 2:29 | 2026-06-11 | 2026-09-04 |
 | [River](https://open.spotify.com/track/2e6RNn4yW5JB8RkPUHKVji) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [River](https://open.spotify.com/album/2k8wId2DpvL2Obm1Y6qELs) | 3:49 | 2025-09-25 | 2025-11-14 |
 | [River Of Tears](https://open.spotify.com/track/4sC2H6ja1JalHAiPnR4gBA) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [River Of Tears](https://open.spotify.com/album/6k7bXAr8K2a0gkhjdLEohF) | 2:31 | 2025-03-14 | 2025-04-11 |
@@ -745,6 +752,7 @@
 | [She Holds Me](https://open.spotify.com/track/5R2lEJq8s91Xm1k7mbKGoQ) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [She Holds Me](https://open.spotify.com/album/2Ow1ZYIWU2erbGCiSlGdCF) | 3:04 | 2025-09-11 | 2025-11-28 |
 | [She Makes Me](https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [She Makes Me](https://open.spotify.com/album/0ts5DfHtMBh47p5OBEKvuh) | 3:06 | 2025-03-28 | 2025-04-25 |
 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 | 2026-05-28 | 2026-07-03 |
+| [Signals](https://open.spotify.com/track/2uvoHjBxWHXFXOrx2wHCKu) | [Sadhbh Keane](https://open.spotify.com/artist/2Weu8UI5SKNeahZuxN8fAH) | [Signals](https://open.spotify.com/album/27Lg3Hdhrth1469A4mpRn2) | 5:17 | 2026-09-10 |  |
 | [Silent Water](https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Time of Fallow](https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U) | 3:54 | 2026-03-20 | 2026-07-24 |
 | [Silver Ford](https://open.spotify.com/track/1tpgA9lmb1m3qZm1qTnJtD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Devotion](https://open.spotify.com/album/27vmolsE6YhpGbZoMfdjcv) | 3:56 | 2025-05-09 | 2025-05-16 |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-03 | 2025-04-25 |
@@ -910,6 +918,7 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-17 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
+| [Track 2](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 0:00 | 2026-09-10 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 | 2026-02-13 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |
@@ -1016,7 +1025,8 @@
 | [You Don’t Love Me](https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Master of Goodbye](https://open.spotify.com/album/2JnSlEZRsF7IdEsdnoajIi) | 2:56 | 2026-06-11 |  |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 | 2025-03-21 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-28 | 2025-03-28 |
-| [You Must Be A Miracle](https://open.spotify.com/track/7hEF5DkbYDgUtkfKE9PaH7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Must Be A Miracle](https://open.spotify.com/album/6Hgl1HxWQJVUhizKcVjOCO) | 3:18 | 2026-07-24 |  |
+| [You Like Ugly, Don't You Babe?](https://open.spotify.com/track/0sP01RbLNfARG17fzouOKT) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Like Ugly, Don't You Babe?](https://open.spotify.com/album/6dvrFXaLuQcPTDbTbJDCPm) | 2:30 | 2026-09-10 |  |
+| [You Must Be A Miracle](https://open.spotify.com/track/7hEF5DkbYDgUtkfKE9PaH7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Must Be A Miracle](https://open.spotify.com/album/6Hgl1HxWQJVUhizKcVjOCO) | 3:18 | 2026-07-24 | 2026-09-11 |
 | [You Need a Lover](https://open.spotify.com/track/7AC6WisXk8OGXctLQ6Lap9) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [You Need a Lover](https://open.spotify.com/album/2j10ISyKGoqdyvmom28ZCS) | 2:21 | 2026-04-09 | 2026-07-03 |
 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-09 | 2025-11-07 |
 | [You're No Man](https://open.spotify.com/track/0RAmpaRTVnIMbojrCc3vTu) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [When Are You Leaving?](https://open.spotify.com/album/4dN47zvKtBGFJhQDi4G8jA) | 3:28 | 2025-10-09 | 2026-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7oHPIc7BYAIUhYFF6hSggI">Belly Gang Kushington</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,709,149 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,708,916 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 2 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
 | 3 | [Intro](https://open.spotify.com/track/1ulcnjDqL2iJKqEteiMmkt) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Intro](https://open.spotify.com/album/1SH4HVfGORmSVbQCrVWVwj) | 3:08 |
 | 4 | [Ghetto Love Story](https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/3AuLQEOciMYE6CXmwI9le6) | 2:58 |
-| 5 | [YK Where It's Goin](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
+| 5 | [YK Where It's Goin \(feat\. Gunna\)](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
 | 6 | [BANKS HOUSE](https://open.spotify.com/track/343vv9P4uUcG62UlpMOvUI) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 3: Banks House](https://open.spotify.com/album/3vZYcW43m917t5kEMY79bZ) | 2:05 |
 | 7 | [Around Me](https://open.spotify.com/track/5ozQ7ysuXTpJwbqx7GvoRY) | [Noodah05](https://open.spotify.com/artist/16uhNmbZpVmy71NUwOk1DJ) | [Champion Story](https://open.spotify.com/album/6sMZUIUjZSqKC9DzJxrqXb) | 2:33 |
 | 8 | [2CRETE](https://open.spotify.com/track/6JotdMeVrosFs4jZDmYYtQ) | [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [2CRETE](https://open.spotify.com/album/2TkOaLgqZaFTgMznqJiyr1) | 2:44 |

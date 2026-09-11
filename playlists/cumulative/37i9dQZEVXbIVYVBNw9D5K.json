@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 270602,
       "name": "Beyaz",
       "url": "https://open.spotify.com/track/01BIEhvSOowecScRovMFll"
@@ -8343,6 +8343,24 @@
     },
     {
       "album": {
+        "name": "Leyla",
+        "url": "https://open.spotify.com/album/0uKRlJ98D2CIFfnc2W64Q1"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zcan Deniz",
+          "url": "https://open.spotify.com/artist/4VU1nemTk5QFsrclcN8VFl"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286640,
+      "name": "Derin Duygular",
+      "url": "https://open.spotify.com/track/4XejvncERz6fProJFIcFGk"
+    },
+    {
+      "album": {
         "name": "Derinden / bazen hayat \u00e7ok k\u00f6t\u00fc gidiyor ve ben onu nas\u0131l anlataca\u011f\u0131m\u0131 bilemiyorum",
         "url": "https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt"
       },
@@ -10222,7 +10240,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "en baba r\u00fczgarda yanar ate\u015f (GODBLESS)",
       "url": "https://open.spotify.com/track/2GJ2xsbWkrQNOgy45RRKU4"
@@ -17422,7 +17440,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 168975,
       "name": "Kehribar",
       "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
@@ -17672,7 +17690,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 297430,
       "name": "Ke\u015fke",
       "url": "https://open.spotify.com/track/4g8phMgjFb2RecauuBJXmZ"
@@ -19228,7 +19246,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -24771,6 +24789,24 @@
     },
     {
       "album": {
+        "name": "Hayali",
+        "url": "https://open.spotify.com/album/0mtiJQ5cGF0uZBVw4euHzU"
+      },
+      "artists": [
+        {
+          "name": "Pinhani",
+          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Sakinle\u015ftim",
+      "url": "https://open.spotify.com/track/6UZhSOSEmZvxb1tua7IYJx"
+    },
+    {
+      "album": {
         "name": "Sakla (Erhan Boraer Remix)",
         "url": "https://open.spotify.com/album/6s4zZYUAfKZPsaCL2OPS41"
       },
@@ -24786,7 +24822,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 147692,
       "name": "Sakla - Erhan Boraer Remix",
       "url": "https://open.spotify.com/track/4kvMdpK0F1aEiAoI0rPo9a"
@@ -25520,7 +25556,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 241456,
       "name": "Sen Orda Yoksun",
       "url": "https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe"
@@ -30240,7 +30276,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166425,
       "name": "Ya\u015fanacaksa",
       "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"

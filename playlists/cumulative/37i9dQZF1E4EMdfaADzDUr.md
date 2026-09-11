@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, Michael Canitrot, winterburn and more
+> With After Cooking, Michael Canitrot, Leblanc and more
 
 333 songs - 1 day 1 hr 34 min
 
@@ -40,7 +40,7 @@
 | [Awake](https://open.spotify.com/track/0U3K9F9KgSh5SyDLehcsta) | [Birrd](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw), [Museau](https://open.spotify.com/artist/2ZSaLTuQ3RqqToiy2AgRAf) | [Takeoff](https://open.spotify.com/album/7q66rWcsbRFampxdMrSrBV) | 3:17 | 2025-10-13 | 2025-10-14 |
 | [Ayo](https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm) | [TribalNeed](https://open.spotify.com/artist/3tV1ipbS5TGXvXcnEFzNYL), [Matteo Rivetto](https://open.spotify.com/artist/0XjXl6F418bXUDGrOGd4jv) | [Ayo](https://open.spotify.com/album/1Tq1vKnXeT8EDM83VkpEWa) | 4:47 | 2025-08-11 | 2026-09-04 |
 | [Backwaters](https://open.spotify.com/track/6u8ZbdXJouSwRGhpFcSkHq) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Backwaters](https://open.spotify.com/album/1Bwb4dmHuicTTS7vRIFRI9) | 4:44 | 2025-10-18 | 2026-03-19 |
-| [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/track/0qVXTIQedCfQU4mXL0HmHw) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 5:18 | 2025-08-11 |  |
+| [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/track/0qVXTIQedCfQU4mXL0HmHw) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 5:18 | 2025-08-11 | 2026-09-11 |
 | [Beauty in Chaos](https://open.spotify.com/track/6yP5OEYCfYX5xldBO2MEVA) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 5:33 | 2025-08-15 | 2025-08-16 |
 | [Believe \- Extended Version](https://open.spotify.com/track/24fGrZDzREdtAEeJaLsD4E) | [GONE](https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J) | [Believe](https://open.spotify.com/album/4hkMWrQtTvLYzbNswVwnvX) | 4:48 | 2026-07-16 | 2026-07-18 |
 | [Bent](https://open.spotify.com/track/4JD1CS0yfo9EXHOZbc0eKo) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 5:45 | 2026-05-15 | 2026-05-16 |
@@ -209,7 +209,7 @@
 | [Oze](https://open.spotify.com/track/1C8JLFbJ59YxIqK6A5W6gI) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [DIM KELLY](https://open.spotify.com/artist/60UEBuWoDQnIzdHid5xTkd) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 4:57 | 2025-10-18 | 2026-09-09 |
 | [Palladio](https://open.spotify.com/track/35mkV0ISx7FCCsTKPqSX9V) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [Reborn](https://open.spotify.com/album/2WClEHSfRqfZytmUveGEeB) | 2:39 | 2025-08-07 | 2026-03-31 |
 | [Paradox](https://open.spotify.com/track/3IfxCISN35SDGFbawdUrDp) | [Olik](https://open.spotify.com/artist/0ccwI3VWnx2sRbJ0o6bZ0m) | [Paradox](https://open.spotify.com/album/23ujXjuh57cHNNsi4uUJlC) | 7:27 | 2025-09-23 | 2025-09-24 |
-| [Passing Days](https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Passing Days](https://open.spotify.com/album/4bM026fJEdu1sa8AVOwP9H) | 4:42 | 2026-07-01 | 2026-08-16 |
+| [Passing Days](https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Passing Days](https://open.spotify.com/album/4bM026fJEdu1sa8AVOwP9H) | 4:42 | 2026-07-01 |  |
 | [Pave Your Way](https://open.spotify.com/track/6veznedhcZMQNRWxCudFtm) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Everybody Dreams EP](https://open.spotify.com/album/0D1LuZmqTLxYtzuBjPGNoN) | 4:45 | 2025-08-11 | 2026-03-17 |
 | [Peace](https://open.spotify.com/track/0lIgvrqyOkOgqyXNFu6GyE) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Taumel](https://open.spotify.com/album/5IreAuleKYz7GuRjc1QHGM) | 7:46 | 2026-05-26 | 2026-07-17 |
 | [Peg](https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Peg](https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg) | 4:11 | 2026-05-10 | 2026-08-16 |
@@ -234,7 +234,7 @@
 | [Rebel](https://open.spotify.com/track/7xscsJutf7zrEAGuSLzTYQ) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Odyssey](https://open.spotify.com/album/1g8Y68KsH7TtMnNHgCXP6d) | 3:39 | 2026-07-02 | 2026-07-03 |
 | [Rebel](https://open.spotify.com/track/5CRfMvnvAw7e018xbbMn4j) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Odyssey](https://open.spotify.com/album/0vWKf2ayYiu03DGzgYV4mp) | 3:40 | 2026-05-22 | 2026-06-07 |
 | [Resonance Frequency](https://open.spotify.com/track/3HSQ6i5k1CIXg2aw1gPGJj) | [Bjokib](https://open.spotify.com/artist/01hFDeuZo0Yqz82op3ttdP) | [Resonance Frequency](https://open.spotify.com/album/4ktSRcz1gaogFGJv13J4N1) | 4:37 | 2026-05-19 |  |
-| [rise//ruin](https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [rise//ruin](https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0) | 3:11 | 2025-07-22 |  |
+| [rise//ruin](https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [rise//ruin](https://open.spotify.com/album/5xYp38Ban4HNY4bHrAMIL0) | 3:11 | 2025-07-22 | 2026-09-11 |
 | [Rivière](https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK) | [BIRRD](https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw) | [Rivière](https://open.spotify.com/album/7fDQYJfUrAif5SSSLbyye0) | 3:23 | 2025-07-29 | 2026-08-14 |
 | [Roads \- Original Mix](https://open.spotify.com/track/1CgrZqS3mbUXSo5blucWdq) | [3x3cute](https://open.spotify.com/artist/1qk0RlT0ZQcUcozAwjQkbP) | [Black Leather](https://open.spotify.com/album/7CQENAxsPRBQIsZq3Imjpb) | 2:21 | 2025-07-22 | 2026-03-12 |
 | [Run](https://open.spotify.com/track/3uJ7vdi6vhgN73RNIoIAHS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Thomas Gramberg](https://open.spotify.com/artist/3l2URfPwFyh7s7bm5ycTTb) | [Run](https://open.spotify.com/album/6DtIbmXJQQ26LUneLGp7P4) | 5:07 | 2026-03-02 | 2026-04-07 |
@@ -336,7 +336,7 @@
 | [Wormhole](https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Wormhole](https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2) | 7:17 | 2026-03-22 | 2026-05-11 |
 | [Wrath](https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [cypress](https://open.spotify.com/artist/79zVLUQbkjvJkseM6ftkaH) | [Wrath](https://open.spotify.com/album/4tebj9QroEblXrfTWg1XsO) | 4:11 | 2026-08-08 |  |
 | [You and Me \(We Owned It\)](https://open.spotify.com/track/1U9zvD8HJ7zLmTPUbrosGf) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Anna Metko](https://open.spotify.com/artist/5tRkZWpev6swx7Nl5cRe2r) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:57 | 2025-11-13 | 2026-06-27 |
-| [you are not like the others](https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [you are not like the others](https://open.spotify.com/album/2eXq8ZazenrhwO2PInwnui) | 3:43 | 2025-07-22 | 2026-09-09 |
+| [you are not like the others](https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [you are not like the others](https://open.spotify.com/album/2eXq8ZazenrhwO2PInwnui) | 3:43 | 2025-07-22 |  |
 | [You Just Have to Show Up \- Radio Edit](https://open.spotify.com/track/0c5sajN8DqFpZSvFhXdycp) | [winterburn](https://open.spotify.com/artist/2kYNkHn3xWQdaELcsJ11w2) | [You Just Have to Show Up](https://open.spotify.com/album/4FtGbw9P9lkJYigFBbp78O) | 2:58 | 2026-08-03 | 2026-08-04 |
 | [You Know \(We Won't Remember\)](https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [BRØR](https://open.spotify.com/artist/07UPjICGizU8glJbzyKxax) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 5:00 | 2025-07-22 |  |
 | [YUPIK](https://open.spotify.com/track/4ATi8vjHseQrIjJgZ5Ot6o) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [MASKOJ](https://open.spotify.com/album/1j9M8atPvYEkZZbBGs73iO) | 4:04 | 2026-05-21 | 2026-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33758,
+  "num_followers": 33770,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAAW9N5pn2CwQY8ljTghe5us",
+  "snapshot_id": "aqChgAAAAADjQsui4gCiOmg1ZaT1WK9H",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longitude",
-        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 377328,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn the Maps",
         "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
       },
@@ -635,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
       },
       "artists": [
         {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 231546,
-      "name": "Stuck In Reverse",
-      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+      "duration_ms": 377328,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP"
     },
     {
       "added_at": null,
@@ -683,18 +659,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
       },
       "artists": [
         {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 266242,
-      "name": "Time Will Be The Healer",
-      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+      "duration_ms": 231546,
+      "name": "Stuck In Reverse",
+      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
     },
     {
       "added_at": null,
@@ -783,26 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Swell Season",
-        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
       "artists": [
         {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+      "duration_ms": 266242,
+      "name": "Time Will Be The Healer",
+      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Flag Day",
-      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 284626,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/6nuMBIXdGs2wL3mp49Ndf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Flag Day",
+      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
     },
     {
       "added_at": null,

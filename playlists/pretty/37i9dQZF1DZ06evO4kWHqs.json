@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAANmltmSw/RhE0BoRPy7Pjo",
+  "snapshot_id": "aqChgAAAAADpLepfUncXDFTXu1aGNC1m",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "watch it all fall",
-        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 170666,
-      "name": "watch it all fall",
-      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
+      "duration_ms": 100444,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Shit",
-        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
+        "name": "watch it all fall",
+        "url": "https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 100444,
-      "name": "Pop Shit",
-      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
+      "duration_ms": 170666,
+      "name": "watch it all fall",
+      "url": "https://open.spotify.com/track/4dHI6744n697CKwis0vhT5"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Me",
-        "url": "https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Be Me",
-      "url": "https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fashion week",
         "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 114626,
       "name": "fashion week",
       "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Me",
+        "url": "https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Be Me",
+      "url": "https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Your Problem (STANK HOEZ)",
-        "url": "https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 153607,
-      "name": "That's Your Problem (STANK HOEZ)",
-      "url": "https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me Back",
         "url": "https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 176602,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Your Problem (STANK HOEZ)",
+        "url": "https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 153607,
+      "name": "That's Your Problem (STANK HOEZ)",
+      "url": "https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "whose fault",
-        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "whose fault",
-      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sister Wives",
         "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 198842,
       "name": "Sister Wives",
       "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
       "duration_ms": 178611,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Cleotrapa",
-          "url": "https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "2016 (feat. Cleotrapa)",
-      "url": "https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ"
     }
   ],
   "unique_name": "This Is SadBoi",

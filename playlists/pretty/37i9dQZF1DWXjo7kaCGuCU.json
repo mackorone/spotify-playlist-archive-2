@@ -1,6 +1,6 @@
 {
   "description": "R&B from around the world",
-  "num_followers": 17495,
+  "num_followers": 17638,
   "original_name": "Global R&B",
   "owner": {
     "name": "Spotify",
@@ -710,6 +710,10 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx"
         }
       ],
       "duration_ms": 204453,

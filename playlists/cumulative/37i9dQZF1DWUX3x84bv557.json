@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Yves Berendse",
+  "description": "Frisse Nederlandse pop. Cover: Babet",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 201395,
       "name": "3.2.1.",
       "url": "https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164980,
       "name": "Als Ik Hier Ben",
       "url": "https://open.spotify.com/track/1jnR37h7ocIsQ7ZpSt4JEt"
@@ -5261,6 +5261,24 @@
     },
     {
       "album": {
+        "name": "Day Drunk",
+        "url": "https://open.spotify.com/album/2nmy0mn90DFzAJ2xhGrmuy"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149134,
+      "name": "Day Drunk",
+      "url": "https://open.spotify.com/track/1zvKj6OvY8VUkp5LrMQJS8"
+    },
+    {
+      "album": {
         "name": "De Bloemen Die Je Stuurde",
         "url": "https://open.spotify.com/album/1YS93womgDgRHgIXIapToF"
       },
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 158400,
       "name": "De Enige",
       "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
@@ -7346,7 +7364,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192500,
       "name": "Evenwicht",
       "url": "https://open.spotify.com/track/6UTpmCoIPNWYqmLePOGrgX"
@@ -8294,6 +8312,24 @@
       "duration_ms": 219212,
       "name": "Glijpanter",
       "url": "https://open.spotify.com/track/2ThroYFQQFTyhd2Vi8FwSW"
+    },
+    {
+      "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
     },
     {
       "album": {
@@ -9685,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "Hij Geeft Alleen Om Mij",
+        "url": "https://open.spotify.com/album/5cyUHAY4WpHdHMt2PMfIvX"
+      },
+      "artists": [
+        {
+          "name": "Jopke",
+          "url": "https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131958,
+      "name": "Hij Geeft Alleen Om Mij",
+      "url": "https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A"
+    },
+    {
+      "album": {
         "name": "Hij Is Bij Mij",
         "url": "https://open.spotify.com/album/7wk2eO8BSm1Kb72zwITHX9"
       },
@@ -10170,7 +10224,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172137,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/79PNwK58l5fRRifb25yw9n"
@@ -11987,6 +12041,24 @@
     },
     {
       "album": {
+        "name": "Izakaya",
+        "url": "https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144803,
+      "name": "Izakaya",
+      "url": "https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2"
+    },
+    {
+      "album": {
         "name": "Jaar Na Jaar",
         "url": "https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0"
       },
@@ -12427,6 +12499,24 @@
     },
     {
       "album": {
+        "name": "Jij Was Bij Mij",
+        "url": "https://open.spotify.com/album/3vLArpUpRq0SCBjbGhYw5x"
+      },
+      "artists": [
+        {
+          "name": "Edsilia Rombley",
+          "url": "https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196189,
+      "name": "Jij Was Bij Mij",
+      "url": "https://open.spotify.com/track/0VJfMgLKN0k9nspBSJMf3L"
+    },
+    {
+      "album": {
         "name": "Jij Wordt Van Mij",
         "url": "https://open.spotify.com/album/7rjj25a5xvDZ6Xn9dmchc7"
       },
@@ -12474,7 +12564,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 187488,
       "name": "Jong & Dom",
       "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
@@ -15795,6 +15885,24 @@
     },
     {
       "album": {
+        "name": "Mijn Altijd",
+        "url": "https://open.spotify.com/album/7o4l6tH73iPdfqC4Q3IRye"
+      },
+      "artists": [
+        {
+          "name": "Kiya",
+          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Mijn Altijd",
+      "url": "https://open.spotify.com/track/0TWNhgLQP4r62PWXUtKKvS"
+    },
+    {
+      "album": {
         "name": "Mijn Amsterdam",
         "url": "https://open.spotify.com/album/31ky7zsR9bDcsRwqVfoIJE"
       },
@@ -16893,6 +17001,24 @@
     },
     {
       "album": {
+        "name": "Niemand Wil Een Popster",
+        "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Niemand Wil Een Popster",
+      "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
+    },
+    {
+      "album": {
         "name": "Niemand Zijn",
         "url": "https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg"
       },
@@ -17580,6 +17706,28 @@
       "duration_ms": 147236,
       "name": "Nooit Meer Spijt",
       "url": "https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL"
+    },
+    {
+      "album": {
+        "name": "Noorderlicht",
+        "url": "https://open.spotify.com/album/0fo53IInuMO1MnWVWULn6u"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        },
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154053,
+      "name": "Noorderlicht",
+      "url": "https://open.spotify.com/track/31BRWt5a3yWEhVSIMT2fhK"
     },
     {
       "album": {
@@ -18382,7 +18530,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 129523,
       "name": "Op Afstand - Live Versie",
       "url": "https://open.spotify.com/track/5o4o6EEnKhdRZeRYOMwpGF"
@@ -18560,7 +18708,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 185470,
       "name": "Oude Liefde Roest Niet",
       "url": "https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ"
@@ -19912,7 +20060,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 193766,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/1rPiYTqwFEgpIw9F1Anu0d"
@@ -20938,6 +21086,24 @@
       "duration_ms": 137213,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/0mkykewBRHWJHUGfStQ5Xn"
+    },
+    {
+      "album": {
+        "name": "Spaans Benauwd",
+        "url": "https://open.spotify.com/album/20a8FZXUJTaAS0SZQsP4LQ"
+      },
+      "artists": [
+        {
+          "name": "Romy Monteiro",
+          "url": "https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Spaans Benauwd",
+      "url": "https://open.spotify.com/track/7os250jZHWdOl4auBEbdPl"
     },
     {
       "album": {
@@ -22097,6 +22263,24 @@
     },
     {
       "album": {
+        "name": "Tijdloos",
+        "url": "https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Tijdloos",
+      "url": "https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v"
+    },
+    {
+      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -22358,7 +22542,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141696,
       "name": "Tranen Van Goud",
       "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
@@ -22452,7 +22636,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123490,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4BaX9nMjklNWw0Rm1woars"
@@ -22666,7 +22850,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152885,
       "name": "Twin",
       "url": "https://open.spotify.com/track/7ve2v3YkXa512zMk6FM8a4"
@@ -23056,6 +23240,24 @@
       "duration_ms": 186455,
       "name": "Vas-y (Ga Maar)",
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
+    },
+    {
+      "album": {
+        "name": "Vaste Grond",
+        "url": "https://open.spotify.com/album/1wea8O4XoEmtSMPMRvkton"
+      },
+      "artists": [
+        {
+          "name": "Edwin Evers",
+          "url": "https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Vaste Grond",
+      "url": "https://open.spotify.com/track/5lixJntgSz9Akuh2Ls2gb2"
     },
     {
       "album": {
@@ -24796,6 +24998,24 @@
       "duration_ms": 165127,
       "name": "Wat Blijft Er Over?",
       "url": "https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ"
+    },
+    {
+      "album": {
+        "name": "wat doe je nou",
+        "url": "https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n"
+      },
+      "artists": [
+        {
+          "name": "Babet",
+          "url": "https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "wat doe je nou",
+      "url": "https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Paola Pizzino in cover della playlist dell'R&B italiano 🫀
 
-1,102 songs - 2 day 6 hr 20 min
+1,104 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Alter Ego](https://open.spotify.com/track/7HiVEN2qbdkAJI9cM3c6MR) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Aritmia](https://open.spotify.com/album/64OFnYN9MqorVX2fpHQpTN) | 3:39 | 2025-05-22 |  |
 | [AlzoilVolume](https://open.spotify.com/track/5IQj8IZkF2QbRStHCQwKl3) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [AlzoilVolume](https://open.spotify.com/album/3OEiDswBTeQ5eRw5At341y) | 2:56 | 2023-06-29 | 2023-11-24 |
 | [Ama Dee \(luna piena\)](https://open.spotify.com/track/3s8PNbBju5JbOS7cHiFgw3) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Ama Dee \(luna piena\)](https://open.spotify.com/album/6EvtGIGPJp23dy4PX5IO48) | 3:01 | 2025-09-25 | 2025-11-28 |
+| [AMANTIDE](https://open.spotify.com/track/6qyH12X3ANKRc6IBTwMsqw) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [AMANTIDE](https://open.spotify.com/album/1Z5LSi2WrjdsINfBvuYKZb) | 3:32 | 2026-09-10 |  |
 | [Ami Me](https://open.spotify.com/track/0biCF12514x2CkVgI3CSfg) | [Alfred Hitch](https://open.spotify.com/artist/6BDwS19iKOVmrUoSIz4qF1), [YuRiSlAvA23](https://open.spotify.com/artist/2JNQFkljOBikgolHCqWQ3Z) | [Ami Me](https://open.spotify.com/album/5LzyNxhDZWc8ZGKdhu9n2B) | 2:36 | 2024-04-15 | 2024-05-17 |
 | [Ammuccamu](https://open.spotify.com/track/7xTi0BZcK4im8v2d5E3oYk) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [Ammuccamu](https://open.spotify.com/album/03gCj7QJli7ysjAAOjQd2H) | 2:16 | 2025-06-05 | 2025-09-19 |
 | [Amore](https://open.spotify.com/track/36KNw1NcM0o8rlGgocILm2) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Amore](https://open.spotify.com/album/4ve2w495Yz5uqcu4rtImJ8) | 3:48 | 2023-09-28 | 2023-11-03 |
@@ -496,6 +497,7 @@
 | [L'Ultima Volta](https://open.spotify.com/track/634ClABsa5vXZIyUG6hPWr) | [4Calamano](https://open.spotify.com/artist/3MpK9E2ckddVDhX0f5ZKxY) | [L'Ultima Volta](https://open.spotify.com/album/4rVTP0H2PGSKq0TjRp99Fz) | 3:23 | 2025-11-27 | 2026-04-03 |
 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 | 2022-06-23 | 2022-11-11 |
 | [La città degli angeli](https://open.spotify.com/track/5k7INLYN9vIJUpk3vHbZsy) | [RAFFAELLI](https://open.spotify.com/artist/2I3PBscT1ZzrreQykk2A7R) | [La città degli angeli](https://open.spotify.com/album/2ZSkN982g5V4GyLxNSCbww) | 2:58 | 2024-04-04 | 2024-04-16 |
+| [La Collina](https://open.spotify.com/track/6OxRXZ01PoI2zOlian1ANm) | [TOMAE](https://open.spotify.com/artist/7seesYhmxSkpjaRM2WpULM), [Mason](https://open.spotify.com/artist/1UNYkdYHvcLjSchwnPDxiU) | [La Collina](https://open.spotify.com/album/5Ql45z76j6HI0nOntbQyXi) | 2:44 | 2026-09-10 |  |
 | [La dolce vita](https://open.spotify.com/track/3tBIAcwVNZ2ofEq1IccGOU) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [Je so accussì](https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b) | 3:12 | 2024-04-15 | 2024-07-19 |
 | [LA GUERRA ✣ \(con Frah Quintale, Venerus\)](https://open.spotify.com/track/2pz8gp5acxEbNxhHJtNvKj) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:43 | 2024-04-04 | 2025-03-07 |
 | [La mia luce](https://open.spotify.com/track/7oDYfYCunY45lMFBwuCZFe) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [La mia luce](https://open.spotify.com/album/5M0phk6dYixgjI3M9n2ZUY) | 2:44 | 2026-03-12 | 2026-05-15 |

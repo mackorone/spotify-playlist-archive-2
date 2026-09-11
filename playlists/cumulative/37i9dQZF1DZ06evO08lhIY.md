@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 20 min
+79 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [Segunda Vida](https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv) | [Kingdom & Culture](https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Segunda Vida](https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD) | 2:37 | 2025-08-15 | 2025-12-27 |
 | [Solid Ground \(Princeton’s Interlude\)](https://open.spotify.com/track/4x5Mak6vUYa8Zg0bGx18Ap) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:18 | 2026-04-01 | 2026-06-04 |
 | [Sound of Victory](https://open.spotify.com/track/2UaaxShFAXOYTVUD36skZP) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Bridges](https://open.spotify.com/album/1Zvcflfmrg0zSuSQENKr8y) | 3:32 | 2025-07-15 | 2026-02-18 |
-| [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-20 |  |
+| [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-20 | 2026-09-11 |
 | [Super Power](https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:34 | 2026-03-31 |  |
+| [Super Power II](https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Super Power II Pack](https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K) | 2:28 | 2026-09-11 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2025-07-15 |  |
 | [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 | 2025-11-30 | 2026-05-24 |
 | [Tinbake](https://open.spotify.com/track/0wzAX5LWL1qKj8wFJPTwHs) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:59 | 2026-03-30 |  |

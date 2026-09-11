@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 351503,
       "name": "Bass Outra !",
       "url": "https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH"
@@ -786,6 +786,28 @@
       "duration_ms": 414673,
       "name": "Class (feat. Lorenzo, Licious, Macdeedozer & Figza)",
       "url": "https://open.spotify.com/track/5oytkJJF06OSd0agoki3d7"
+    },
+    {
+      "album": {
+        "name": "Club What",
+        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408866,
+      "name": "Club What",
+      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
     },
     {
       "album": {

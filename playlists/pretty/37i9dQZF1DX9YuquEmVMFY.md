@@ -1,32 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain](/playlists/plain/37i9dQZF1DX9YuquEmVMFY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9YuquEmVMFY)
 
-### [On Tour Korea: David Byrne](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
+### [On Tour Korea: Vaundy](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
-> Aug 21st \(Fri\) @ Kyung Hee University Grand Peace Palace, Seoul
+> Sep 19th \(Sat\), 20th \(Sun\) @ INSPIRE Arena, Incheon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,210 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,208 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heaven \- 2005 Remaster](https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:01 |
-| 2 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 |
-| 3 | [And She Was \- 2005 Remaster](https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:39 |
-| 4 | [Strange Overtones](https://open.spotify.com/track/3vnQlfyuXK4aW011bAhJru) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Everything That Happens Will Happen Today \(Deluxe\)](https://open.spotify.com/album/4MdYyQLYp5fO6zfigE8NHc) | 4:17 |
-| 5 | [Houses in Motion](https://open.spotify.com/track/5B6S9xKyasHFf1ldBkxsdC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:33 |
-| 6 | [The Avant Garde](https://open.spotify.com/track/1SMdm0arRn2bXy1Uspa4OJ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 3:41 |
-| 7 | [T Shirt](https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [T Shirt](https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa) | 3:20 |
-| 8 | [\(Nothing But\) Flowers \- 2003 Remaster](https://open.spotify.com/track/3NNatBZ65onPjc4eeWhwNm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Best of Talking Heads](https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU) | 5:32 |
-| 9 | [She Explains Things To Me](https://open.spotify.com/track/1pCRISr4WQJTPCE4T6FqtT) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 2:18 |
-| 10 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
-| 11 | [What Is The Reason For It?](https://open.spotify.com/track/1tlOcXl1rWPMnCcvwctIE5) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 3:10 |
-| 12 | [My Apartment Is My Friend](https://open.spotify.com/track/5mOpD1mhXcnzRPNCmwqHza) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 3:03 |
-| 13 | [When We Are Singing](https://open.spotify.com/track/1GG8qWXv81MQ9PgLMNSRlm) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 3:23 |
-| 14 | [Slippery People \- 2005 Remaster](https://open.spotify.com/track/4M4xrAyXs4f7IW9IgIldJz) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:06 |
-| 15 | [I Met The Buddha at a Downtown Party](https://open.spotify.com/track/3czlmoXVbQQvrL1wjkjFG8) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 3:13 |
-| 16 | [A Door Called No](https://open.spotify.com/track/1DgHIDUQEktHszIeATcSLS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/5xDqZQlSx2gRrAyAgHQ8AB) | 2:35 |
-| 17 | [Psycho Killer \- 2024 Remaster](https://open.spotify.com/track/2T42dHq61RCZKioz0Cn0vR) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 4:20 |
-| 18 | [Life During Wartime](https://open.spotify.com/track/7veDNtXlh2n0noGdD0oqBB) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:41 |
-| 19 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
-| 20 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 |
+| 1 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
+| 2 | [怪獣の花唄](https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:44 |
+| 3 | [東京フラッシュ](https://open.spotify.com/track/04e72JtsOIIlHUQ7CvWwvX) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 4:18 |
+| 4 | [裸の勇者](https://open.spotify.com/track/5zdyuqPOZ6oR6a4ZtqI1vl) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
+| 5 | [CHAINSAW BLOOD](https://open.spotify.com/track/20CH6NjUJ8GGJQesmiqPeB) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
+| 6 | [イデアが溢れて眠れない](https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [イデアが溢れて眠れない](https://open.spotify.com/album/1dBWNF06b7lnCF1M2SLTTZ) | 4:22 |
+| 7 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
+| 8 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
+| 9 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 |
+| 10 | [忘れる前に](https://open.spotify.com/track/6vkks9YI9rY9lhP2CsJKGo) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [忘れる前に](https://open.spotify.com/album/6fuPZsXtm9E9HhVYSOpRop) | 4:02 |
+| 11 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 12 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
+| 13 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
+| 14 | [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 |
+| 15 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
+| 16 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
+| 17 | [かげろう](https://open.spotify.com/track/5BKwzntuwwe6V5oapO6eJ4) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [かげろう](https://open.spotify.com/album/2et7q2u7h9RYelRR24tCPQ) | 4:34 |
+| 18 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
+| 19 | [napori](https://open.spotify.com/track/7hDX39mc6Uf6zp8RXYUQ6d) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:23 |
+| 20 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 |
 
-Snapshot ID: `AAAAAErMP2aWf7a4kQgeR8bekKhCDBDI`
+Snapshot ID: `AAAAACOeSMzK+MOfrzBSigVtOSli88T6`

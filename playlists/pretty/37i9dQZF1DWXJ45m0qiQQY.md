@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,549 likes - 94 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,579 likes - 94 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 93 | [elm street](https://open.spotify.com/track/2pWAf8ktMyKob5FU7uqvj1) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [elm street](https://open.spotify.com/album/1X7aEIyyJHzYxBBrlIdOVq) | 1:46 |
 | 94 | [Trick or Treats](https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 1:53 |
 
-Snapshot ID: `AAAAAKss5sSypw/n0eZT80C6pfik1A1b`
+Snapshot ID: `AAAAACvyZtTLeM25AXC5Y8u1fOLX0+GB`

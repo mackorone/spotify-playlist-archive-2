@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 48646,
+  "num_followers": 48651,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAAjsEq13pQ0pf3b4Q4OEtP/",
+  "snapshot_id": "aqChgAAAAADKRdvnTBd2NWtqO41Fcl5f",
   "tracks": [
     {
       "added_at": null,
@@ -44,7 +44,7 @@
           "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 255517,
+      "duration_ms": 255433,
       "name": "Cmon (LATIN MAFIA & Fred edit)",
       "url": "https://open.spotify.com/track/6QvMHLFmp3sk707iQZhCfA"
     },
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Green World (2004 Remaster)",
-        "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "The Big Ship - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrong Way Up [Expanded Edition]",
         "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 327120,
       "name": "Spinning Away",
       "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Green World (2004 Remaster)",
+        "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "The Big Ship - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Drift - Remastered 2005",
-      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+      "duration_ms": 189466,
+      "name": "Drift - Remastered 2005",
+      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
       "duration_ms": 243306,
       "name": "Verdigris",
       "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 247146,
-      "name": "Spring Frost",
-      "url": "https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb"
     }
   ],
   "unique_name": "This Is Brian Eno",

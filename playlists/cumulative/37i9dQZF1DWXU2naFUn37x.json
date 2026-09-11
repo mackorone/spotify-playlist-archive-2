@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Artie 5ive in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Night Skinny in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152842,
       "name": "187",
       "url": "https://open.spotify.com/track/3XocpUPxU3nhIuNh0A3jPa"
@@ -11826,7 +11826,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 109983,
       "name": "KILO",
       "url": "https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC"
@@ -12190,6 +12190,24 @@
       "duration_ms": 136500,
       "name": "La scelta migliore",
       "url": "https://open.spotify.com/track/5kcBjDdqmDMKb58wyrkO7D"
+    },
+    {
+      "album": {
+        "name": "DEMONIO",
+        "url": "https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133040,
+      "name": "LA SCOPO CO O' SGUARDO",
+      "url": "https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To"
     },
     {
       "album": {
@@ -17764,6 +17782,56 @@
       "duration_ms": 289090,
       "name": "Players Club '25",
       "url": "https://open.spotify.com/track/3GArduqQxYZ6ct9nmjYySH"
+    },
+    {
+      "album": {
+        "name": "Players Club '26 (feat. Lubi, Over Lapa, Flaco G, G. Mineiro, 18K, Macello , Enny P & Alkhazar)",
+        "url": "https://open.spotify.com/album/4vlDIuxI7J7Fik96MtlrZV"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        },
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        },
+        {
+          "name": "Alkhazar",
+          "url": "https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304285,
+      "name": "Players Club '26 (feat. Lubi, Over Lapa, Flaco G, G. Mineiro, 18K, Macello , Enny P & Alkhazar)",
+      "url": "https://open.spotify.com/track/6uiUHaFq47uTQft7tjWgSr"
     },
     {
       "album": {

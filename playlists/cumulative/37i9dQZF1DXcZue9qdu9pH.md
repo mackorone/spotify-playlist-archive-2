@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-176 songs - 9 hr 47 min
+177 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
 | [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 | 2025-03-07 |
 | [Kwama Nayo](https://open.spotify.com/track/5pWBa5TGDSrbX9TlwRdzL1) | [theNairobiNomad](https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Ceke](https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3) | [Kwama Nayo](https://open.spotify.com/album/0lUYAsJoeg9P5BYP32UoVD) | 3:20 | 2026-08-14 |  |
-| [Let Me Go](https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1) | [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Let Me Go](https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4) | 2:29 | 2024-12-05 |  |
+| [Let Me Go](https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1) | [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Let Me Go](https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4) | 2:29 | 2024-12-05 | 2026-09-11 |
 | [like a song](https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [coin: the demos](https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh) | 3:04 | 2024-11-08 |  |
 | [LIONESS](https://open.spotify.com/track/3m1zUf6uHrmupdHjgvtHYo) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/08QPNsMshzzo23hsYT4t84) | 3:12 | 2024-03-15 | 2024-04-19 |
 | [LIONESS](https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/1LyhGlYSYPkovZnz7X9Iud) | 3:12 | 2023-06-30 | 2024-09-27 |
@@ -93,6 +93,7 @@
 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 | 2025-05-30 |
 | [moonblush](https://open.spotify.com/track/5vopOwOC7OSmxGBqNf8aRa) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Hurricane Dan Fischer](https://open.spotify.com/artist/6FBvTqUW5FkfopSN89CGtP), [Ridym](https://open.spotify.com/artist/0oHKQJYVEgW3r3NzOX0YyY) | [olympean](https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf) | 2:33 | 2024-11-21 | 2026-08-15 |
 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 | 2024-05-03 |  |
+| [Mpende Na Pesa](https://open.spotify.com/track/7JqKoZtcS1FBpyTrbHNRnh) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mpende Na Pesa](https://open.spotify.com/album/6TAl9rwvV2VpLPnbVeRwp7) | 2:33 | 2026-09-10 |  |
 | [Mtoto Wa Wenyewe](https://open.spotify.com/track/4hhp9MtmqeijTpyRR5oSpS) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mtoto Wa Wenyewe](https://open.spotify.com/album/6Wf24C2m0yWcDevjGQv7DZ) | 3:49 | 2025-07-10 | 2026-04-03 |
 | [Muse](https://open.spotify.com/track/7mlh81rZvoDlHCXBiowqrg) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse](https://open.spotify.com/album/47vsQwer42Eb6hKTFdAuEz) | 5:07 | 2024-05-30 | 2025-04-16 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-06-01 |

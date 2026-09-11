@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2120662,
+  "num_followers": 2120469,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Most Wanted: The Best of King Yellowman",
-        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        }
-      ],
-      "duration_ms": 387306,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 323068,
       "name": "Old Sunrise",
       "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Most Wanted: The Best of King Yellowman",
+        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
+      },
+      "artists": [
+        {
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+        }
+      ],
+      "duration_ms": 387306,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Murder She Wrote Single",
-        "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        },
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Murder She Wrote (Original Mix)",
-      "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
       },
@@ -1851,42 +1831,6 @@
       "duration_ms": 220413,
       "name": "Beach In Hawaii",
       "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 346302,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1911,6 +1855,46 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 346302,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Murder She Wrote Single",
+        "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        },
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Murder She Wrote (Original Mix)",
+      "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2026-08-21 14:00:21",

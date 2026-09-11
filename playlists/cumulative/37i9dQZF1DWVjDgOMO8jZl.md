@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 Emili Kasa in cover
+> Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 prima stanza a destra e Angelica Bove in cover
 
-239 songs - 11 hr 22 min
+240 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 | 2023-04-11 | 2024-04-24 |
 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 | 2024-04-24 |
 | [Petite](https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Petite](https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni) | 2:33 | 2022-08-31 | 2023-04-12 |
+| [piccola magia](https://open.spotify.com/track/3zNkbgFLmF1c1c43FXtAWH) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5), [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [piccola magia](https://open.spotify.com/album/4xkV3QflY0vPNWkVOE1kNi) | 3:31 | 2026-09-10 |  |
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-08-31 | 2023-04-12 |
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-08-31 | 2023-04-12 |
 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 | 2024-10-30 | 2025-05-14 |

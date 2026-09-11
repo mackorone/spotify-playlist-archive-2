@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Mosmo y Billy Manhattan",
-  "num_followers": 93866,
+  "num_followers": 93874,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABbiltZsQFkOeyfQPvxiVxkdG4pQ",
+  "snapshot_id": "AAAAACM/H2b+Wm7KoBw1TskxQMF5wRpc",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:49",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "Me acuerdo",
-        "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
-      },
-      "artists": [
-        {
-          "name": "Synthxsis",
-          "url": "https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB"
-        },
-        {
-          "name": "Arox",
-          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
-        }
-      ],
-      "duration_ms": 227754,
-      "name": "Me acuerdo",
-      "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
         "name": "bbylover",
         "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 166281,
       "name": "bbylover",
       "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
+        "name": "Me acuerdo",
+        "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
+      },
+      "artists": [
+        {
+          "name": "Synthxsis",
+          "url": "https://open.spotify.com/artist/0bz4yo7STKjcaQ3qf8MQPB"
+        },
+        {
+          "name": "Arox",
+          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
+        }
+      ],
+      "duration_ms": 227754,
+      "name": "Me acuerdo",
+      "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
+        "name": "se subio alatorre",
+        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 133827,
+      "name": "se subio alatorre",
+      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
         "name": "Dirty Money",
         "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 154785,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
-        "name": "se subio alatorre",
-        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 133827,
-      "name": "se subio alatorre",
-      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+        "name": "URUS",
+        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
       },
       "artists": [
         {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
         }
       ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
+      "duration_ms": 146865,
+      "name": "URUS",
+      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -883,22 +887,18 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "URUS",
-        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
       },
       "artists": [
         {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Kevin Santin",
-          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
         }
       ],
-      "duration_ms": 146865,
-      "name": "URUS",
-      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
         "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
         "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 125449,
       "name": "El alma de la fiesta",
       "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
+        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
+        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "14 plegarias /x\\",
+      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -1267,22 +1287,6 @@
     {
       "added_at": "2026-09-04 06:00:49",
       "album": {
-        "name": "puede ser que ma\u00f1ana",
-        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "puede ser que ma\u00f1ana",
-      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
         "name": "Vasito en mano",
         "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
       },
@@ -1295,6 +1299,22 @@
       "duration_ms": 152727,
       "name": "Vasito en mano",
       "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
+    },
+    {
+      "added_at": "2026-09-04 06:00:49",
+      "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "added_at": "2026-09-04 06:00:49",
@@ -1355,26 +1375,6 @@
       "duration_ms": 237005,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
-    },
-    {
-      "added_at": "2026-09-04 06:00:49",
-      "album": {
-        "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
-        "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
-      },
-      "artists": [
-        {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Emiliano Athie",
-          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "14 plegarias /x\\",
-      "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
     },
     {
       "added_at": "2026-09-04 06:00:49",

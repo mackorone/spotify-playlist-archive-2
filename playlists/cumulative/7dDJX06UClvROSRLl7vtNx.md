@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,477 songs - 2 day 15 hr 35 min
+1,479 songs - 2 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Breathe](https://open.spotify.com/track/4D0wSYUVDWZbp9uKYJPxDp) | [Thymaz](https://open.spotify.com/artist/2K9tlBARPJt7YCIzjWqQXC) | [Breathe](https://open.spotify.com/album/4ci5K21jFgJHxH4SEIljpx) | 2:34 | 2023-09-22 | 2024-05-13 |
 | [Breathe Me](https://open.spotify.com/track/2unaBmyInwN8BzEwxXrwqS) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Breathe Me](https://open.spotify.com/album/6JPcg5lP7g7gBSSgvkS9GP) | 2:32 | 2025-03-28 | 2026-06-21 |
 | [Breathing](https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Breathing](https://open.spotify.com/album/3KXlYR3ZbDaEpxxQ5T6Ez7) | 2:16 | 2024-11-28 | 2025-05-05 |
+| [Breathing](https://open.spotify.com/track/2IasMxxR0kGxyIigGdzjwv) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Breathing](https://open.spotify.com/album/46QtxerLZmRI4K0HOdjQZr) | 2:14 | 2026-09-10 |  |
 | [Breezy](https://open.spotify.com/track/0UHxCuJX87skxim5kCST4H) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [VLX](https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w) | [Breezy](https://open.spotify.com/album/296vYcdefX65EVxLmEZRK9) | 2:06 | 2026-08-09 | 2026-09-02 |
 | [Brighter Days](https://open.spotify.com/track/1sGWDDWP8GZsVi88T8I92q) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [rivve](https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV) | [Brighter Days](https://open.spotify.com/album/5tfPrrgYcZ1ua27OF1aQM4) | 2:36 | 2026-05-24 | 2026-09-07 |
 | [Brighter Than The Sun](https://open.spotify.com/track/3WHu4o2jxoeIZq7YqyojhM) | [MAESTRI](https://open.spotify.com/artist/1j3mntc3HJeQXRj7dSdvE4), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [GHALIA](https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc) | [Brighter Than The Sun](https://open.spotify.com/album/505KMTrlprZnZOjEY6DIGb) | 2:15 | 2024-02-18 | 2024-03-25 |
@@ -1083,6 +1084,7 @@
 | [Save Tonight](https://open.spotify.com/track/0QmEIftoPrtiA9EXy8sqy3) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB) | [Save Tonight](https://open.spotify.com/album/1RWs5xf7VHo3wpSRgFK5KV) | 2:35 | 2025-07-26 | 2025-12-19 |
 | [Save Tonight](https://open.spotify.com/track/60YPwlX3UnngvCHaP9qEdu) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [rivve](https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [Save Tonight](https://open.spotify.com/album/1bfEY2u7Jk0wiuKPBIgTkO) | 2:26 | 2025-12-18 | 2026-06-29 |
 | [Saving All My Love](https://open.spotify.com/track/3cWT9bkdV5eia4toAjVYFP) | [Kenan Waters](https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Saving All My Love](https://open.spotify.com/album/1qBOO2XU2JMWWEuFGeQ8tk) | 2:23 | 2025-04-21 | 2025-05-10 |
+| [Sawa Le](https://open.spotify.com/track/7qmlTNZAt0lhuZl5Oc7Sh8) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Sawa Le](https://open.spotify.com/album/6MdRKeNUlAyj4idNRUdd0m) | 2:34 | 2026-09-10 |  |
 | [Say A Little Prayer](https://open.spotify.com/track/3B8OkW5CrXqScqSGKBUN1b) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Say A Little Prayer](https://open.spotify.com/album/7KhdsOwO4P0LETgW0UjUIQ) | 2:43 | 2024-12-08 | 2025-01-19 |
 | [Say It](https://open.spotify.com/track/4YieescefhcQBuQ09i8lEn) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Say It](https://open.spotify.com/album/02C38n9AMBKgfbXGnjho8i) | 2:08 | 2026-01-02 |  |
 | [Say It](https://open.spotify.com/track/0z8I570Roif1IV6KXRDKOL) | [Le P](https://open.spotify.com/artist/25Xm9wxNTPxCXdLS5fpkOb) | [Say It](https://open.spotify.com/album/1lmmTNdNLqhQEgyX8mghlJ) | 2:25 | 2025-01-18 | 2025-08-25 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAADN2Q1PcpsOE4soGgHuskYd",
+  "snapshot_id": "aqChgAAAAADNcC/DWZzVIIFu7X1rUgMa",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comin\u2019 Around Again",
+        "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Comin\u2019 Around Again",
+      "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.A.F.B-Sides",
         "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 198520,
       "name": "4 Wheel Truck",
       "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comin\u2019 Around Again",
-        "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Comin\u2019 Around Again",
-      "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 211878,
-      "name": "City Starlight",
-      "url": "https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put You On",
         "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
       },
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
       "artists": [
         {
@@ -596,9 +564,25 @@
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
+      "duration_ms": 211878,
+      "name": "City Starlight",
+      "url": "https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 208326,
       "name": "JUMP (feat. Steve Vai & Travis Barker) - Coca-Cola Anthem for the FIFA World Cup 26\u2122",
       "url": "https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": null,
@@ -679,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+        "name": "No Bus",
+        "url": "https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi"
       },
       "artists": [
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+      "duration_ms": 184647,
+      "name": "No Bus",
+      "url": "https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym"
     },
     {
       "added_at": null,
@@ -731,26 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bus",
-        "url": "https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi"
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
       "artists": [
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 184647,
-      "name": "No Bus",
-      "url": "https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym"
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 269523,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 269523,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
     }
   ],
   "unique_name": "This Is Amber Mark",

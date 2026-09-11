@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Zinoleesky
+> From the trenches\. Through the streets.<br/>Cover: FOLA
 
-529 songs - 1 day 0 hr 6 min
+531 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Comma](https://open.spotify.com/track/0X6KeoX1HANrLI20m4Hc1V) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 2:50 | 2022-06-29 | 2023-02-17 |
 | [Coupé](https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [Coupé](https://open.spotify.com/album/4qGZxpr6XVmHsoM3WKgDR0) | 2:48 | 2026-04-24 | 2026-05-22 |
 | [Cruise](https://open.spotify.com/track/0Op20pqChmir5R3Pd7rrC2) | [Korra Obidi](https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn) | [Cruise](https://open.spotify.com/album/01D1nLJp5pNIxNDGjUJd7P) | 3:15 | 2022-09-16 | 2023-04-15 |
-| [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 | 2026-08-14 |  |
+| [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 | 2026-08-14 | 2026-09-11 |
 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 | 2026-04-10 | 2026-08-31 |
 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 | 2025-04-11 | 2026-01-15 |
 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 | 2026-08-28 |  |
@@ -265,6 +265,7 @@
 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 | 2023-08-11 |
 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 | 2025-03-21 | 2026-03-27 |
 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 | 2026-01-23 |  |
+| [it's over](https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [it's over](https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX) | 3:10 | 2026-09-11 |  |
 | [ITALAWA](https://open.spotify.com/track/0iEBX5KTMJBTTeDo1UfJRQ) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [ITALAWA](https://open.spotify.com/album/35MZvjHcda1RlLX01GijE5) | 2:22 | 2026-04-03 | 2026-04-10 |
 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 | 2026-08-07 |  |
 | [Ja Belt](https://open.spotify.com/track/45DIpQxDmpH9jdT8Qo5BG4) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ja Belt](https://open.spotify.com/album/46xZNJtndDyGisoMW4iZyg) | 2:36 | 2025-06-20 | 2025-07-05 |
@@ -343,6 +344,7 @@
 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-04 | 2026-03-10 |
 | [Moti High](https://open.spotify.com/track/1D1bWp401f4xkTm6JAZXZf) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Moti High](https://open.spotify.com/album/02PnfWjoM04XKcfkkUQb8g) | 2:33 | 2026-05-08 | 2026-07-17 |
 | [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 | 2026-06-26 | 2026-08-14 |
+| [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 | 2026-09-11 |  |
 | [Mr\. Parker](https://open.spotify.com/track/390cSkHKKjiQawiiAvQxyl) | [Skelvin](https://open.spotify.com/artist/5LTAJPBjxITKSLQb5wAbIc), [Corizo](https://open.spotify.com/artist/5TDcsaFykPA6PCbyd1yRlw), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Mr\. Parker](https://open.spotify.com/album/42ciHWnCfwa97AfOEYWYZZ) | 3:51 | 2025-09-26 | 2025-10-03 |
 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-06-13 | 2026-05-01 |
 | [My Dear](https://open.spotify.com/track/1CYFNeIAZwflFAWhpl1bAT) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [DEBAYO](https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL) | [My Dear](https://open.spotify.com/album/62EgFNDFDT0cg9XJm4DqJZ) | 2:37 | 2025-02-21 | 2025-03-15 |
@@ -429,7 +431,7 @@
 | [Realize](https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Realize](https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud) | 2:55 | 2022-07-29 | 2023-10-20 |
 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 | 2022-06-29 | 2023-02-01 |
 | [Relationship](https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Relationship](https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8) | 2:45 | 2024-11-22 | 2025-06-08 |
-| [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 | 2026-06-26 |  |
+| [Richard Mille](https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Richard Mille](https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0) | 2:51 | 2026-06-26 | 2026-09-11 |
 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 | 2026-05-08 |  |
 | [Roma](https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Behind Closed Doors](https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o) | 2:28 | 2025-05-30 | 2025-07-05 |
 | [Root Of All Evil](https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Root Of All Evil](https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd) | 3:05 | 2026-04-10 | 2026-09-07 |

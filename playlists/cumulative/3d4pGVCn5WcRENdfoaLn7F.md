@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-432 songs - 1 day 1 hr 52 min
+433 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
+| [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 | 2026-09-10 |  |
 | [Invierno](https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62) | [Macías](https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu) | [Invierno](https://open.spotify.com/album/6w5A0FMOmXN6iubAeY392K) | 4:08 | 2026-03-31 | 2026-06-14 |
 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-07-14 |  |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-19 |

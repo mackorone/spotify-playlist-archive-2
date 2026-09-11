@@ -4,7 +4,7 @@
 
 > Perfect dinner playlist \| soulful music
 
-201 songs - 11 hr 31 min
+203 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,10 +74,12 @@
 | [Heard a Voice](https://open.spotify.com/track/6KCHw7Hbkuo043ZyCNIaFQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7ffFxuWnm5TAnLyG6RPOZJ) | 3:11 | 2025-07-16 | 2025-10-03 |
 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 | 2025-07-16 | 2025-09-16 |
 | [Hold Me Down](https://open.spotify.com/track/5ie7dJwncl3i9MpEx8n2nc) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Hold Me Down](https://open.spotify.com/album/0rp1QW9jPSMKcpFhpG5Db6) | 3:20 | 2025-10-09 |  |
+| [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 | 2026-09-10 |  |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-07-16 |  |
 | [How Am I Gonna Love Myself](https://open.spotify.com/track/3RYvTgqulH7Iz0ZfhhflbO) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/3cOQj570QyeO3enzDdfT6i) | 3:17 | 2025-12-04 |  |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 | 2025-12-12 |
 | [How We Lose](https://open.spotify.com/track/3MbuIuzbqNMbnp4itDM1Nt) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Low Tides](https://open.spotify.com/album/1R5xikPLRUDxHlBX8bl1k9) | 3:47 | 2025-10-21 |  |
+| [I Am Human](https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [I Am Human](https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs) | 2:55 | 2026-09-10 |  |
 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 | 2025-10-21 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-07-16 | 2026-05-27 |
 | [Imperfections](https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Imperfections](https://open.spotify.com/album/06chn6bcZtUyNx5feXz2TY) | 5:08 | 2025-12-05 |  |
@@ -130,7 +132,7 @@
 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-08-28 |  |
 | [One of Us](https://open.spotify.com/track/2QOliionpGeW9UDnguKX52) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [One of Us](https://open.spotify.com/album/2whZgGM2nRFzNSaiH9AUle) | 3:06 | 2025-07-16 | 2026-05-27 |
 | [Our Little Universe](https://open.spotify.com/track/3UIXJQYQcWh6aZKZ3jMzYx) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Our Little Universe](https://open.spotify.com/album/2OY9ZmUGo6RVQ8DxBePvPb) | 2:48 | 2025-07-16 | 2026-01-15 |
-| [Out Loud](https://open.spotify.com/track/7MwjbZSNCzPpjpbHre3TJm) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Out Loud](https://open.spotify.com/album/494ypzyniJnUOZqelCSYrd) | 3:52 | 2025-07-16 |  |
+| [Out Loud](https://open.spotify.com/track/7MwjbZSNCzPpjpbHre3TJm) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Out Loud](https://open.spotify.com/album/494ypzyniJnUOZqelCSYrd) | 3:52 | 2025-07-16 | 2026-09-11 |
 | [Over Again](https://open.spotify.com/track/0JxEHcY1dYDZ7n9OwBKlug) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Over Again](https://open.spotify.com/album/1x2lLQp9WQK58CPtbQiHdc) | 3:09 | 2025-09-18 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 | 2025-07-16 | 2025-11-12 |
 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-11 |  |
@@ -183,7 +185,7 @@
 | [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 | 2025-10-03 |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2025-07-16 | 2025-09-19 |
 | [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 | 2026-04-03 |  |
-| [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 |  |
+| [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 | 2026-09-11 |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-07-16 | 2026-04-04 |
 | [Wanderlust](https://open.spotify.com/track/6ytigxubOVOkboGnuxh0qT) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Mother](https://open.spotify.com/album/2uumVlEkCVNVaSHov6OyC5) | 3:47 | 2025-07-16 | 2026-01-15 |

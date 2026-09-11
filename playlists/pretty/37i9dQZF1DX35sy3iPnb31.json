@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: BAMBII",
-  "num_followers": 2557,
+  "num_followers": 2565,
   "original_name": "Editors' Picks: Best Canadian Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0Aqt1pSdEsLacftGIt2Q4GQMrJ",
+  "snapshot_id": "AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff",
   "tracks": [
     {
       "added_at": "2026-09-01 02:00:35",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "SICK & TIRED",
-        "url": "https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 106939,
-      "name": "SICK & TIRED",
-      "url": "https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 169351,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "SICK & TIRED",
+        "url": "https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 106939,
+      "name": "SICK & TIRED",
+      "url": "https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "MY BLOOD AS THE INK",
-        "url": "https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 110365,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Devoted",
         "url": "https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 140000,
       "name": "Devoted",
       "url": "https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "MY BLOOD AS THE INK",
+        "url": "https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 110365,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 327446,
-      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Under the Same Sky",
         "url": "https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 161525,
       "name": "You Found Her",
       "url": "https://open.spotify.com/track/5JSyd3ormliZCoveePc63H"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 327446,
+      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Don't Sleep",
-        "url": "https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "Don't Sleep",
-      "url": "https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "what doesn't kill me",
         "url": "https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 237153,
       "name": "what doesn't kill me",
       "url": "https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Don't Sleep",
+        "url": "https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 144827,
+      "name": "Don't Sleep",
+      "url": "https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI"
     },
     {
       "added_at": "2026-09-01 02:00:35",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "sonnige songs weil sommer und so \ud83e\udd1d \ud83d\ude42\u200d\u2194\ufe0f",
-  "name": "Sommergef\u00fchle",
+  "description": "songs so golden wie der herbst ",
+  "name": "Herbstgef\u00fchle",
   "tracks": [
     {
       "album": {
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
+      },
+      "artists": [
+        {
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162768,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
+    },
+    {
+      "album": {
         "name": "Bike in L.A. (Remix)",
         "url": "https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv"
       },
@@ -1131,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180116,
+      "name": "Caught Myself Believing",
+      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
+    },
+    {
+      "album": {
         "name": "Chains of Love",
         "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
       },
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164992,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4sBDf6o4mYWjmZjPn4TH9I"
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 171306,
       "name": "Don't Ruin It",
       "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
@@ -2010,6 +2046,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Ende der Welt",
+        "url": "https://open.spotify.com/album/1Q31OdUSqoOLZcKLMQSyuX"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Ende der Welt",
+      "url": "https://open.spotify.com/track/4rDp0owP2tmSUrLBIs91cB"
     },
     {
       "album": {
@@ -6256,7 +6310,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204534,
       "name": "Scaring Everyone",
       "url": "https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV"

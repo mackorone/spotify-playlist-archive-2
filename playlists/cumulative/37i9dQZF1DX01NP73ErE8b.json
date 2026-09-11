@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Madame in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 prima stanza a destra e Angelica Bove in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175742,
       "name": "2 passi dal cielo non uno in pi\u00f9",
       "url": "https://open.spotify.com/track/26LJfpdK0XFPKen1K2I4UQ"
@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/2el7k3vNf67g82bCTt0p0X"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/42CJJ9w3XPYmM45DfklssT"
+    },
+    {
+      "album": {
         "name": "CITT\u00c0 BRUCIATA",
         "url": "https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa"
       },
@@ -3418,6 +3436,24 @@
       "duration_ms": 192325,
       "name": "DIRE FARE BACIARE",
       "url": "https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W"
+    },
+    {
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210866,
+      "name": "Direzione la vita",
+      "url": "https://open.spotify.com/track/7wlMl0dTO6mdKYVt2xcr5w"
     },
     {
       "album": {
@@ -4778,7 +4814,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166153,
       "name": "Gioielli Neri",
       "url": "https://open.spotify.com/track/0F34WTdm0Yn2FFJtnMu3jf"
@@ -4850,7 +4886,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175611,
       "name": "Goodbye (rabbia, ti giuro, come stai)",
       "url": "https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA"
@@ -5739,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/1hgpXUQ2FLa5G2Kj0j9URe"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283432,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/60auNwFo4P6tKewfxWJplG"
+    },
+    {
+      "album": {
         "name": "L'albero delle noci",
         "url": "https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv"
       },
@@ -5896,7 +5950,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 150093,
       "name": "l'unico ricordo",
       "url": "https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j"
@@ -7220,7 +7274,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 202969,
       "name": "Mattone",
       "url": "https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti"
@@ -7366,6 +7420,24 @@
       "duration_ms": 173842,
       "name": "Menomale che c'\u00e8 il mare",
       "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+    },
+    {
+      "album": {
+        "name": "Menta",
+        "url": "https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191220,
+      "name": "Menta",
+      "url": "https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD"
     },
     {
       "album": {
@@ -8070,7 +8142,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 151011,
       "name": "Nn \u00e8 divertente",
       "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
@@ -9077,6 +9149,28 @@
     },
     {
       "album": {
+        "name": "PER NOI (feat. Achille Lauro)",
+        "url": "https://open.spotify.com/album/1uRSKCLWPKEa8L85Ga4Pjh"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230543,
+      "name": "PER NOI (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/732WNonZ79rEmJPydodL1R"
+    },
+    {
+      "album": {
         "name": "Per sempre s\u00ec",
         "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
       },
@@ -9362,6 +9456,28 @@
       "duration_ms": 209312,
       "name": "PICCOLA (feat. Piccolo & thasup)",
       "url": "https://open.spotify.com/track/3Z42rSN7m4ILY9XHSo4neA"
+    },
+    {
+      "album": {
+        "name": "piccola magia",
+        "url": "https://open.spotify.com/album/4xkV3QflY0vPNWkVOE1kNi"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        },
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211935,
+      "name": "piccola magia",
+      "url": "https://open.spotify.com/track/3zNkbgFLmF1c1c43FXtAWH"
     },
     {
       "album": {
@@ -9763,6 +9879,24 @@
     },
     {
       "album": {
+        "name": "Provinciali",
+        "url": "https://open.spotify.com/album/1uddOHYpGXNVtBn01WOWoc"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131523,
+      "name": "Provinciali",
+      "url": "https://open.spotify.com/track/2uXtk9Pow1IUnKyw6IvKfl"
+    },
+    {
+      "album": {
         "name": "Pugili impazziti",
         "url": "https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd"
       },
@@ -9868,7 +10002,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207870,
       "name": "QUANDO DORME LA CITT\u00c0",
       "url": "https://open.spotify.com/track/77uiPp5CwS14DPThQSLsNs"
@@ -10354,7 +10488,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 277611,
       "name": "Ricordi (con Elisa)",
       "url": "https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU"
@@ -10772,6 +10906,24 @@
       "duration_ms": 174393,
       "name": "sbalzi d'umore",
       "url": "https://open.spotify.com/track/62mrphhxReT05rlu68jdYL"
+    },
+    {
+      "album": {
+        "name": "Scandalo al Sole",
+        "url": "https://open.spotify.com/album/5orwVLka18CN2pJHJENhbF"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Scandalo al Sole",
+      "url": "https://open.spotify.com/track/259uQ5rnb8dWGYBi5nYvxz"
     },
     {
       "album": {
@@ -12676,7 +12828,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192022,
       "name": "Tutto a puttane",
       "url": "https://open.spotify.com/track/66umGLEmn0B3CFp1lBT7lN"

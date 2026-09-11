@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 387270,
+  "num_followers": 387197,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -555,8 +555,8 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+        "name": "Estalla",
+        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 239644,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
+      "duration_ms": 276893,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -639,8 +639,8 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Estalla",
-        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 276893,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
+      "duration_ms": 239644,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Mtv Unplugged",
         "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 230346,
       "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",

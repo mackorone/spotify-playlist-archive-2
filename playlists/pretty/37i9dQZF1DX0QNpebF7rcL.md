@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,706 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,743 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Keep Your Worries On the Dance Floor](https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Keep Your Worries On the Dance Floor / West Georgia Blues](https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup) | 2:49 |
 | 101 | [Come To Find Out](https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Chasing The Sun](https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2) | 5:03 |
 
-Snapshot ID: `AAAAAAcRcIPNAlFzFGDr7D8wcMv/NVs6`
+Snapshot ID: `AAAAAHnu3IpEGvLczD1xatF5UAS0S31I`

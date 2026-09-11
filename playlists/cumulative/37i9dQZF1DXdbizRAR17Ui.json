@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336624,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
+    },
+    {
+      "album": {
         "name": "6 De La Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y"
       },
@@ -272,7 +294,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 241998,
       "name": "After",
       "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 212090,
       "name": "Cheap Hotel",
       "url": "https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC"
@@ -4358,6 +4380,28 @@
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
+    },
+    {
+      "album": {
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "Little Little Voice",
+      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
     },
     {
       "album": {
@@ -7532,7 +7576,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194754,
       "name": "Stop the time",
       "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
@@ -7728,6 +7772,28 @@
       "duration_ms": 208619,
       "name": "Take What I Give You",
       "url": "https://open.spotify.com/track/5r0Uzh5oDKnDXvUcS3jddR"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
       "album": {

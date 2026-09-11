@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23456,
+  "num_followers": 23454,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7X8I89LX5MPqQWhIeC7piAPiHl",
+  "snapshot_id": "AAAAAIrlddyTLQ0XlKKdtvWanlla/kxh",
   "tracks": [
     {
       "added_at": "2026-08-21 17:34:08",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -687,6 +687,30 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        }
+      ],
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 156038,
       "name": "Sem nada",
       "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        }
-      ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -811,30 +811,6 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
-      },
-      "artists": [
-        {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
         "name": "Porta Aberta",
         "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 167853,
       "name": "Porta Aberta",
       "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+      },
+      "artists": [
+        {
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-08-21 17:34:08",

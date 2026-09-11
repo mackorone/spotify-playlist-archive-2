@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1523019,
+  "num_followers": 1523162,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIrR7ju7LJNYhx2sUvRX/Axe21Yc",
+  "snapshot_id": "AAAAAIbP9YyYC9FifH103xhQWnpvMxzh",
   "tracks": [
     {
       "added_at": "2024-06-26 02:07:58",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
         "name": "Resident Alien",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 279813,
-      "name": "Secret Smile",
-      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 330946,
       "name": "Where It's At",
       "url": "https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 279813,
+      "name": "Secret Smile",
+      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 189293,
       "name": "Right Here Right Now",
       "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2024-06-26 02:07:58",

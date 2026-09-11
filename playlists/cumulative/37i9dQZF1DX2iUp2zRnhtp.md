@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-707 songs - 1 day 11 hr 11 min
+711 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [HARD](https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HARD](https://open.spotify.com/album/3kkhYZGL2alAIfIvTlA2j4) | 2:19 | 2026-01-08 |  |
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 | 2026-08-13 |  |
+| [Head Over Water](https://open.spotify.com/track/581YIWLD60XPpP0GqWQ0Pz) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Head Over Water](https://open.spotify.com/album/5GMnuIsXKULzWNs8xvyeEh) | 2:27 | 2026-09-10 |  |
 | [Headlines](https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [AURA](https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf) | 2:41 | 2026-05-07 |  |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-09-19 |
 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-11-14 | 2024-11-22 |
@@ -335,6 +336,7 @@
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-11 | 2024-10-30 |
 | [Juniregnet](https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [GOLF](https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me) | 2:54 | 2025-10-23 |  |
 | [Kanskje det går te helvete](https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ps\. Kanskje det går](https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq) | 3:34 | 2025-04-30 |  |
+| [Kanskje Siste Gang](https://open.spotify.com/track/0FmJh6KSwZnNlMkJktpeh1) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Kanskje Siste Gang](https://open.spotify.com/album/2nTnmGzF2k4VqBSvIH2yPN) | 2:44 | 2026-09-10 |  |
 | [KARL JOHAN](https://open.spotify.com/track/5C01Phi3ylbwe4Z2v7OS6B) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [KARL JOHAN](https://open.spotify.com/album/0eACs9uO7WSlBl2PCElarH) | 3:20 | 2025-05-15 | 2025-09-19 |
 | [KARPE4LIFE](https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 7](https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL) | 2:46 | 2026-04-30 |  |
 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 | 2025-11-06 | 2025-11-28 |
@@ -528,6 +530,7 @@
 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 | 2026-05-07 |  |
 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 | 2026-02-19 |  |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 | 2024-10-20 |
+| [SAVNER ET MENNESKE](https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [SAVNER ET MENNESKE](https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF) | 3:25 | 2026-09-10 |  |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-13 | 2025-03-28 |
 | [Sei da te meg](https://open.spotify.com/track/5fdS9eNh6ER1kpod4jvD2X) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heimakjær](https://open.spotify.com/album/4lo5Iyfly4dZwraeiSAWfV) | 3:34 | 2026-05-14 |  |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-10-31 | 2025-01-25 |
@@ -646,6 +649,7 @@
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2025-05-01 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-09-13 |
 | [Ti av ti](https://open.spotify.com/track/0my4Ab3S68X74izaXhWJT5) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ti av ti](https://open.spotify.com/album/3Sold0nnb42gCwxSprNSQZ) | 3:56 | 2026-05-28 |  |
+| [Tide](https://open.spotify.com/track/3AFKq2r9NHFufSCHxWR1RQ) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Tide](https://open.spotify.com/album/1xXLUpM07MPuttMKx1p8Hh) | 2:36 | 2026-09-10 |  |
 | [Tilbake](https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Tilbake](https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y) | 2:07 | 2025-01-16 | 2025-02-07 |
 | [TIME](https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [TIME](https://open.spotify.com/album/1nyjZWbJqcmuFo9eNGiXqx) | 1:55 | 2025-08-14 | 2025-09-19 |
 | [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-05 |  |

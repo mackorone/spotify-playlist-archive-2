@@ -1,12 +1,12 @@
 {
   "description": "The premier indie melancholia playlist, featuring Phoebe Bridgers",
-  "num_followers": 1985220,
+  "num_followers": 1985102,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHZu8M+IQYVJH24YgvVf+5xH+bNt",
+  "snapshot_id": "AAAAAJaznnBaqgX/rNuhujbiYj/Gkv6H",
   "tracks": [
     {
       "added_at": "2026-09-04 20:06:07",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
+      "added_at": "2026-09-10 17:48:10",
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
+    },
+    {
       "added_at": "2026-09-04 20:06:07",
       "album": {
         "name": "So Tonight That I Might See",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
+      "added_at": "2026-09-10 17:48:10",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
+    },
+    {
       "added_at": "2026-09-04 20:06:07",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
@@ -71,6 +103,22 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -103,22 +151,6 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -203,6 +235,22 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
+        "name": "i can change if you want me to",
+        "url": "https://open.spotify.com/album/4FLRoxu8ZNcLdm11BqvRmi"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 200549,
+      "name": "deercatcher",
+      "url": "https://open.spotify.com/track/27XVLx2czWO31XuALkB6P4"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
         "name": "a couple minutes out",
         "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
       },
@@ -235,22 +283,6 @@
       "duration_ms": 339890,
       "name": "Margaret (feat. Bleachers)",
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
-        "name": "i can change if you want me to",
-        "url": "https://open.spotify.com/album/4FLRoxu8ZNcLdm11BqvRmi"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 200549,
-      "name": "deercatcher",
-      "url": "https://open.spotify.com/track/27XVLx2czWO31XuALkB6P4"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -303,22 +335,6 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -331,6 +347,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -531,22 +563,6 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 218689,
-      "name": "Lost Weekend",
-      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
         "name": "Bury Me At Makeout Creek",
         "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
@@ -559,6 +575,22 @@
       "duration_ms": 278640,
       "name": "First Love/Late Spring",
       "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Lost Weekend",
+      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -615,22 +647,6 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 236205,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 236205,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -707,22 +739,6 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264817,
-      "name": "As Above",
-      "url": "https://open.spotify.com/track/1eDwVLcbEje9j6wtBYpXZ4"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
         "name": "The light in the painting",
         "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
       },
@@ -735,6 +751,22 @@
       "duration_ms": 224595,
       "name": "The light in the painting",
       "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264817,
+      "name": "As Above",
+      "url": "https://open.spotify.com/track/1eDwVLcbEje9j6wtBYpXZ4"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -799,38 +831,6 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
     }
   ],
   "unique_name": "Sad Indie",

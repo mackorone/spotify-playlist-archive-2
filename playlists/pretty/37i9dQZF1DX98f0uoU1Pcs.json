@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295341,
+  "num_followers": 295343,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKXNu68iNCLiWzEuRBTwZ+0HK/nE",
+  "snapshot_id": "AAAAAMBQLJxLvarLzdZrnAwLVtOMi+ms",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "The Radiator",
-        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 218073,
-      "name": "The Radiator",
-      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "The Radiator",
+        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 218073,
+      "name": "The Radiator",
+      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Switch Up",
-        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
-      },
-      "artists": [
-        {
-          "name": "Mike D",
-          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Switch Up",
-      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Party Lines",
         "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179110,
       "name": "Party Lines",
       "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Prevail",
+        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+      },
+      "artists": [
+        {
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Prevail",
+      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "On the Intricate Inner Workings of the System",
-        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
-      },
-      "artists": [
-        {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "We Don't Care About That",
-      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
       "artists": [
         {
-          "name": "Mouth Ulcers",
-          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
         }
       ],
-      "duration_ms": 194885,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Sleep In It",
-        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
-      },
-      "artists": [
-        {
-          "name": "C.O.F.F.I.N",
-          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Sleep In It",
-      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Who's Gonna Love You Now?",
         "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175050,
       "name": "Who's Gonna Love You Now?",
       "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Sleep In It",
+        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Sleep In It",
+      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Sunburned in London",
-        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
-      },
-      "artists": [
-        {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
-        }
-      ],
-      "duration_ms": 397448,
-      "name": "Sunburned in London",
-      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 201236,
       "name": "GUTS",
       "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Sunburned in London",
+        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "duration_ms": 397448,
+      "name": "Sunburned in London",
+      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
       },
       "artists": [
         {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Cowards",
-        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "One More Trip Around The Sun",
         "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
       },
       "artists": [
         {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
         }
       ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1159,6 +1143,22 @@
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Public Luxury",
-        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
-      },
-      "artists": [
-        {
-          "name": "Downtown Boys",
-          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
-        }
-      ],
-      "duration_ms": 217468,
-      "name": "No Me Jodas",
-      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "PLAY ME",
         "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 146817,
       "name": "POST EMPIRE",
       "url": "https://open.spotify.com/track/505e1WJcfyORbth99IeXY8"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Public Luxury",
+        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
+      },
+      "artists": [
+        {
+          "name": "Downtown Boys",
+          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
+        }
+      ],
+      "duration_ms": 217468,
+      "name": "No Me Jodas",
+      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Hedgesitting",
-        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
-      },
-      "artists": [
-        {
-          "name": "Cola",
-          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
-        }
-      ],
-      "duration_ms": 286771,
-      "name": "Hedgesitting",
-      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "EXPO",
         "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 239746,
       "name": "Weights & Measures",
       "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Hedgesitting",
+        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "duration_ms": 286771,
+      "name": "Hedgesitting",
+      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
     },
     {
       "added_at": "2026-07-17 17:28:38",

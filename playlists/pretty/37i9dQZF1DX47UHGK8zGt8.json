@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 617570,
+  "num_followers": 617640,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGahT2girnXt6gSPyjoToqOWU1El",
+  "snapshot_id": "AAAAAKhMrqnmjffs/6Nl0Gop3V8j/XLr",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:52",
@@ -311,22 +311,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+        "name": "Pode Se Achegar",
+        "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+      "duration_ms": 228780,
+      "name": "Pode Se Achegar",
+      "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -351,26 +355,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Pode Se Achegar",
-        "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 228780,
-      "name": "Pode Se Achegar",
-      "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Pra Voc\u00ea Guardei o Amor",
-        "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Pra Voc\u00ea Guardei o Amor",
-      "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Pra Voc\u00ea Guardei o Amor",
+        "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Pra Voc\u00ea Guardei o Amor",
+      "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 204007,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -979,22 +999,42 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+        "name": "Meu Xod\u00f3",
+        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
         },
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         }
       ],
-      "duration_ms": 204007,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+      "duration_ms": 197584,
+      "name": "Meu Xod\u00f3",
+      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1035,46 +1075,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Meu Xod\u00f3",
-        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 197584,
-      "name": "Meu Xod\u00f3",
-      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -1087,46 +1087,6 @@
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "\u00c9 Segredo",
-        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "\u00c9 Segredo",
-      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "S\u00f3 love",
-        "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
-      },
-      "artists": [
-        {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
-        }
-      ],
-      "duration_ms": 161934,
-      "name": "S\u00f3 love",
-      "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1151,6 +1111,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "\u00c9 Segredo",
+        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "\u00c9 Segredo",
+      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "ME LIGA",
         "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "S\u00f3 love",
+        "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 161934,
+      "name": "S\u00f3 love",
+      "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Feiti\u00e7o",
+        "url": "https://open.spotify.com/album/3GRJF0oBM0ZPUgdoAyCjtJ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 196201,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/29wwUpwmxfcQEg8hWyQIvd"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Feiti\u00e7o",
-        "url": "https://open.spotify.com/album/3GRJF0oBM0ZPUgdoAyCjtJ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 196201,
-      "name": "Feiti\u00e7o",
-      "url": "https://open.spotify.com/track/29wwUpwmxfcQEg8hWyQIvd"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Kavita 1",
-        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 392813,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "OutroEu",
         "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Kavita 1",
+        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 392813,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte",
         "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
         }
       ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1651,6 +1635,22 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-09-04 03:00:52",

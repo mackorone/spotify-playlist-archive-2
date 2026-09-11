@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2569093,
+  "num_followers": 2569029,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
+        "name": "Nobody Can Stop Richard Finger (Levity Remix)",
+        "url": "https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8"
+      },
+      "artists": [
+        {
+          "name": "Richard Finger",
+          "url": "https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Nobody Can Stop Richard Finger - Levity Remix",
+      "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
         "name": "TYNAN TIME",
         "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 158095,
       "name": "his name is",
       "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
-        "name": "Lock It",
-        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lock It",
-      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
       "added_at": "2026-09-04 04:02:04",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -787,6 +807,22 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-09-04 04:02:04",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "duration_ms": 166665,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
     },
     {
       "added_at": "2026-09-04 04:02:04",
@@ -815,42 +851,6 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
-      },
-      "artists": [
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        }
-      ],
-      "duration_ms": 166665,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
-        "name": "Club XL",
-        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 153206,
-      "name": "Club XL",
-      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
-    },
-    {
-      "added_at": "2026-09-04 04:02:04",
-      "album": {
         "name": "Subliminals",
         "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
       },
@@ -871,22 +871,22 @@
     {
       "added_at": "2026-09-04 04:02:04",
       "album": {
-        "name": "Nobody Can Stop Richard Finger (Levity Remix)",
-        "url": "https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8"
+        "name": "Club XL",
+        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
       },
       "artists": [
         {
-          "name": "Richard Finger",
-          "url": "https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Nobody Can Stop Richard Finger - Levity Remix",
-      "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
+      "duration_ms": 153206,
+      "name": "Club XL",
+      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
     },
     {
       "added_at": "2026-09-04 04:02:04",

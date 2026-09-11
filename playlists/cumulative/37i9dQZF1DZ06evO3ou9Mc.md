@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 6 min
+96 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 | 2022-09-16 |  |
 | [Leave It Behind](https://open.spotify.com/track/1fqfG5TGzOkSsaWSEEYrYb) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:58 | 2024-05-22 | 2024-05-27 |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-09-16 |  |
-| [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt) | 3:30 | 2026-06-07 |  |
+| [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt) | 3:30 | 2026-06-07 | 2026-09-11 |
+| [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:30 | 2026-09-11 |  |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-06 | 2024-10-19 |
 | [Light It Up](https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:52 | 2024-10-19 | 2025-12-15 |
 | [Looking Out For \#1](https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:16 | 2024-10-13 |  |

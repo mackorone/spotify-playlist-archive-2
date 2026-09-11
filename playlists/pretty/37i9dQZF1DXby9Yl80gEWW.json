@@ -1,12 +1,12 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63575,
+  "num_followers": 63589,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXXiDFl7pBrVH3PETpVlYoc/QFn",
+  "snapshot_id": "AAAAAL5fn8YaqpZFOZB+HG6HfnlLfWRt",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:30",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "A Reef Where Two Seas Met",
-        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
-      },
-      "artists": [
-        {
-          "name": "The Riverside",
-          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "A Reef Where Two Seas Met",
-      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Banjo Loop",
         "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
       },
@@ -559,50 +543,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+        "name": "A Reef Where Two Seas Met",
+        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
       },
       "artists": [
         {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Song of the Water Kelpie (unsung)",
-        "url": "https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 308653,
-      "name": "Song of the Water Kelpie (unsung)",
-      "url": "https://open.spotify.com/track/6ugixxbJeppa2bI30zZ9Hy"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+      "duration_ms": 139000,
+      "name": "A Reef Where Two Seas Met",
+      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -623,6 +575,38 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Song of the Water Kelpie (unsung)",
+        "url": "https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 308653,
+      "name": "Song of the Water Kelpie (unsung)",
+      "url": "https://open.spotify.com/track/6ugixxbJeppa2bI30zZ9Hy"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Fifty Years of Clown School",
         "url": "https://open.spotify.com/album/7JogtGNYfSJOJtuJmOpfk5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 180084,
       "name": "Fifty Years of Clown School",
       "url": "https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -687,22 +687,6 @@
       "duration_ms": 149369,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -779,6 +763,38 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 127609,
+      "name": "The Forsaken Lover",
+      "url": "https://open.spotify.com/track/0FD2d8ycVoGvNQri81Uw0A"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Tsali's Run",
         "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
@@ -791,30 +807,6 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Susto Stringband (Volume 2)",
-        "url": "https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Susto Stringband",
-          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
-        },
-        {
-          "name": "Madeline Dierauf",
-          "url": "https://open.spotify.com/artist/3aJjJ82xpyXCaKlVof3Ges"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Work Away",
-      "url": "https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -867,18 +859,26 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+        "name": "Susto Stringband (Volume 2)",
+        "url": "https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5"
       },
       "artists": [
         {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+        },
+        {
+          "name": "Madeline Dierauf",
+          "url": "https://open.spotify.com/artist/3aJjJ82xpyXCaKlVof3Ges"
         }
       ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+      "duration_ms": 142106,
+      "name": "Work Away",
+      "url": "https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
       "artists": [
         {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
         }
       ],
-      "duration_ms": 127609,
-      "name": "The Forsaken Lover",
-      "url": "https://open.spotify.com/track/0FD2d8ycVoGvNQri81Uw0A"
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Grandfather's Clock",
         "url": "https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 283000,
       "name": "Grandfather's Clock",
       "url": "https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Cliffhanger",
+        "url": "https://open.spotify.com/album/0OPubM9XUmhjnyd7BUVmKl"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/3dAvN1Y8IUQ1Akle71r2i5"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Cliffhanger",
-        "url": "https://open.spotify.com/album/0OPubM9XUmhjnyd7BUVmKl"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Cliffhanger",
-      "url": "https://open.spotify.com/track/3dAvN1Y8IUQ1Akle71r2i5"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2026-08-28 04:01:30",

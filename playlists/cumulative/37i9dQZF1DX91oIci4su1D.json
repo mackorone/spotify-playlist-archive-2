@@ -3217,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kUK8G239qBQV4rbdAwL8V"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "DJ Traytex",
+          "url": "https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0HgCPFrL49BKiQv6WSJlMG"
+    },
+    {
+      "album": {
         "name": "Blood & Veins",
         "url": "https://open.spotify.com/album/5tjnLsshK82qMCdhKHsdhl"
       },
@@ -13166,7 +13188,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 214872,
       "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
       "url": "https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1"
@@ -26310,6 +26332,32 @@
     {
       "album": {
         "name": "Toca's Miracle",
+        "url": "https://open.spotify.com/album/1cmkL8WLHiRlehlvG4L2FD"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195927,
+      "name": "Toca's Miracle",
+      "url": "https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ"
+    },
+    {
+      "album": {
+        "name": "Toca's Miracle",
         "url": "https://open.spotify.com/album/19SdYXhuWPBITA4lILSj85"
       },
       "artists": [
@@ -26748,7 +26796,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 208244,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1ze7w0PmdZVvXJSXjY1JHM"

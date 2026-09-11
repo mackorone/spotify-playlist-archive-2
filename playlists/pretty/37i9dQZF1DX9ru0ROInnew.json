@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 148701,
+  "num_followers": 148736,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtZYcO4HoFLu5QQKcRn4fw8nMxD",
+  "snapshot_id": "AAAAAN1qlbHB4pkipfHeMmy1d5DAbUNY",
   "tracks": [
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Swaggy",
+        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "Swaggy",
+      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Contamos & Guerreamos",
         "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 288482,
       "name": "Contamos & Guerreamos",
       "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Swaggy",
-        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "Swaggy",
-      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Yo Siempre Ando Con Los Oidos Fresh",
-        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Donde Estabas Tu",
-      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 227220,
       "name": "Sexto Sentido (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Yo Siempre Ando Con Los Oidos Fresh",
+        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Donde Estabas Tu",
+      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
     },
     {
       "added_at": "2024-08-19 19:01:43",

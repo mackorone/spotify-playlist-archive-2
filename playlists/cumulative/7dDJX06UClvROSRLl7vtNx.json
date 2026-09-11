@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/46QtxerLZmRI4K0HOdjQZr"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/2IasMxxR0kGxyIigGdzjwv"
+    },
+    {
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/296vYcdefX65EVxLmEZRK9"
       },
@@ -24368,6 +24386,32 @@
       "duration_ms": 143364,
       "name": "Saving All My Love",
       "url": "https://open.spotify.com/track/3cWT9bkdV5eia4toAjVYFP"
+    },
+    {
+      "album": {
+        "name": "Sawa Le",
+        "url": "https://open.spotify.com/album/6MdRKeNUlAyj4idNRUdd0m"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154918,
+      "name": "Sawa Le",
+      "url": "https://open.spotify.com/track/7qmlTNZAt0lhuZl5Oc7Sh8"
     },
     {
       "album": {

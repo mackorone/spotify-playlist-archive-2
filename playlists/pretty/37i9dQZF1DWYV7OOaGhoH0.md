@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from True Mountain Laurel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,953 likes - 130 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,822 likes - 130 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 36 | [One More Cowboy](https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [One More Cowboy](https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc) | 3:39 |
 | 37 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |
 | 38 | [Meaning Business](https://open.spotify.com/track/7b8Q7CPNLqnsHj8jwJKQ2x) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 4:18 |
-| 39 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/2dKZgCySeNFVTVNm4iORr8) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
+| 39 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
 | 40 | [Zoom 97](https://open.spotify.com/track/7JhMqx0s2GFSl8RvTPlMtK) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Zoom 97](https://open.spotify.com/album/4zOyn3wSSeUjeMNQQykfEb) | 4:54 |
 | 41 | [i think i had something once](https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [i think i had something once](https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao) | 3:39 |
 | 42 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 129 | [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 |
 | 130 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 
-Snapshot ID: `AAAAAPbT09SBb6y7JJdnGDC1Lhgs95+c`
+Snapshot ID: `AAAAANtn/gNtX0N4fOFYhTffqAH8MZOw`

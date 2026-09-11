@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,763 songs - 10 day 17 hr 28 min
+4,765 songs - 10 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [C'è vita oltre rockit](https://open.spotify.com/track/2JUuqA7W4FtBPTaPXY0Am2) | [Luminal](https://open.spotify.com/artist/6Lry03gfYi81VJOZu58Dq8) | [Amatoriale Italia](https://open.spotify.com/album/56CWFs6zIO2DJ3xyfjK4J8) | 4:16 | 2025-11-12 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2026-07-23 |  |
 | [C.Y.R \(Celebrate Your Riches\)](https://open.spotify.com/track/4Xo4AdGrrzrvm0M8iFCcLq) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od), [Nolly B](https://open.spotify.com/artist/4v2EMJGrQA0dMOFBcF6FA6) | [Five Fingers of Life](https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B) | 3:02 | 2025-07-02 |  |
+| [Cactus heart](https://open.spotify.com/track/7ijiYwcAp54xjFp6IUnFFO) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 3:05 | 2026-09-10 |  |
 | [Cadillac](https://open.spotify.com/track/2Bx2y9BOOJsOQl6HMm2DHP) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Cadillac](https://open.spotify.com/album/1rqRib7znfrGefXUJKXf2m) | 3:05 | 2025-07-14 |  |
 | [Cadillac](https://open.spotify.com/track/6ubuiurKi3D1pSnI7EDMtq) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:05 | 2025-10-23 |  |
 | [Caffeine & Nicotine](https://open.spotify.com/track/6UVyl9ELMD6Bf9qR4MLUFE) | [Rising Tide](https://open.spotify.com/artist/5ZeYZcrCeDSARQ9rJ5GiwT) | [Tsunami](https://open.spotify.com/album/7FtUJSoXYgp2OclcWBikvq) | 1:48 | 2026-07-21 |  |
@@ -3471,6 +3472,7 @@
 | [SCATOLE CINESI](https://open.spotify.com/track/7x8Y0faXt3j3p31B75XTHb) | [VENDANT](https://open.spotify.com/artist/33KF3I4XUnQuS1RvwdtPWX) | [SCATOLE CINESI](https://open.spotify.com/album/2iXAZw3y2Bua43wiH9aiA3) | 3:36 | 2025-05-27 |  |
 | [Scemo](https://open.spotify.com/track/2juZ6cCodSoqt4F5ejvv0m) | [Zio Pecos](https://open.spotify.com/artist/6n8DoLti7AKKWzhnPaiDn6) | [Scemo](https://open.spotify.com/album/0aUjvK4la2knbCy3d9CjJp) | 2:54 | 2025-06-05 |  |
 | [Scenic Route](https://open.spotify.com/track/1rSfECAMmGeczMFLHq7Ee7) | [Slain Illz](https://open.spotify.com/artist/4wvsM83Fwm2b7X83oCjP1t) | [Scenic Route](https://open.spotify.com/album/09rvwuADKJAFKek7IZgYLT) | 2:34 | 2025-05-16 |  |
+| [School](https://open.spotify.com/track/6en8QbNHIj86NMTnbcprqD) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [School](https://open.spotify.com/album/7tNNzwNjVpM1RG8ePFYbTS) | 14:10 | 2026-09-10 |  |
 | [Sciamani](https://open.spotify.com/track/05oavZXg2350kVOWo3VqMM) | [Francesco Ravasco](https://open.spotify.com/artist/6Ge4q9rsG9ahnr1SsBME30) | [Sciamani](https://open.spotify.com/album/03IPNkzYmlnPBjllf2M4oi) | 3:05 | 2025-06-02 |  |
 | [Science Fiction \- Single Version](https://open.spotify.com/track/25Jg6PxIEgjmvtr89RjbkZ) | [The Wedding Present](https://open.spotify.com/artist/4tyCvqG48h4LdcbFfWBjR9) | [Science Fiction](https://open.spotify.com/album/120i1NW38IiNKlyUC1sC41) | 4:30 | 2025-11-05 |  |
 | [Scorze di limone \- Radio Edit](https://open.spotify.com/track/78qwwWK2uQR2ZVPYKXxHws) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Scorze di limone \(Radio Edit\)](https://open.spotify.com/album/0n8xpYtyU6NwDu01S8a3aE) | 3:27 | 2025-03-21 |  |

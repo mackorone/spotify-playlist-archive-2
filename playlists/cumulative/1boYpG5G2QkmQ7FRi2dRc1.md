@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-3,187 songs - 8 day 0 hr 44 min
+3,187 songs - 8 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2153,7 +2153,7 @@
 | [Pick Up The Phone](https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Pick Up The Phone](https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5) | 3:31 | 2025-06-08 | 2025-06-22 |
 | [Pictures](https://open.spotify.com/track/28IF4lgIE1Q9P8S7hCLFiP) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Pictures](https://open.spotify.com/album/4vy0kRYiAqL4vIwCMI3llJ) | 2:56 | 2025-08-22 | 2025-09-06 |
 | [Pieces](https://open.spotify.com/track/5xkVzKzVFlrlVkmRneNa3b) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Pieces](https://open.spotify.com/album/5x3z117GaV3LUCZbiHpqXc) | 2:13 | 2022-11-04 | 2022-12-03 |
-| [Piensas En Mi](https://open.spotify.com/track/5p8diKLl1u9ALp50p7LP6h) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:01 | 2026-08-14 |  |
+| [Piensas En Mi](https://open.spotify.com/track/5p8diKLl1u9ALp50p7LP6h) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:18 | 2026-08-14 |  |
 | [Pillow Talk](https://open.spotify.com/track/6NCcjbda3MjMK76r4yJ5P6) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 3:00 | 2023-03-31 | 2023-04-15 |
 | [Pilot \(Feel Tonight\)](https://open.spotify.com/track/7qjFLz0faqGferF0I7u5PT) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Pilot \(Feel Tonight\)](https://open.spotify.com/album/43CcDN8KgjXdBtaHHLAN30) | 3:29 | 2023-08-26 | 2023-09-30 |
 | [Pink Air I](https://open.spotify.com/track/3QscMBwZV7zXLHx1bCJl22) | [MUUI](https://open.spotify.com/artist/4uprJRAH1f3978H1YMzqWY) | [Pink Air](https://open.spotify.com/album/0VBRpmNzosz03UIg23NldE) | 4:41 | 2023-12-22 | 2023-12-30 |

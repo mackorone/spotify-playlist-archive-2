@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 456059,
+  "num_followers": 456116,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
-      },
-      "artists": [
-        {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "The Great Adventures Of Slick Rick",
         "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248160,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
-        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Jam On Revenge",
         "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 395626,
       "name": "Jam On Revenge (The Wikki Wikki Song)",
       "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
+        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
     },
     {
       "added_at": "2024-06-28 10:06:16",

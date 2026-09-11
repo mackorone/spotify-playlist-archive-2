@@ -1,33 +1,13 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127595,
+  "num_followers": 127598,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACjneL00Trng6rvDNQxhsfq",
+  "snapshot_id": "aqChgAAAAABQrsB+dsX1pZwiaUJR2yL1",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
-    },
     {
       "added_at": null,
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 204488,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
-        "url": "https://open.spotify.com/album/5ZsuSjVRwKQWUeRmDDLC1c"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
-      "url": "https://open.spotify.com/track/6DmDDGNAcpb57D3ODtc2mY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 206271,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
+        "url": "https://open.spotify.com/album/5ZsuSjVRwKQWUeRmDDLC1c"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
+      "url": "https://open.spotify.com/track/6DmDDGNAcpb57D3ODtc2mY"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA LLAVE",
-        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
+        "name": "PAP\u00c1S",
+        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
       },
       "artists": [
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 240000,
-      "name": "agua",
-      "url": "https://open.spotify.com/track/3hhJ8AOlIe7qsIi2CTiWG1"
+      "duration_ms": 193186,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAP\u00c1S",
-        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
+        "name": "LA LLAVE",
+        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
       },
       "artists": [
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 193186,
-      "name": "PAP\u00c1S",
-      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
+      "duration_ms": 240000,
+      "name": "agua",
+      "url": "https://open.spotify.com/track/3hhJ8AOlIe7qsIi2CTiWG1"
     },
     {
       "added_at": null,
@@ -903,30 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 202351,
-      "name": "Chamba",
-      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bota Fuego (con Nicky Jam)",
         "url": "https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6"
       },
@@ -967,18 +943,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "desmaquillada",
-        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
       "artists": [
         {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
         }
       ],
-      "duration_ms": 128000,
-      "name": "desmaquillada",
-      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
+      "duration_ms": 202351,
+      "name": "Chamba",
+      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
     },
     {
       "added_at": null,
@@ -999,6 +983,22 @@
       "duration_ms": 184763,
       "name": "noche de luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "desmaquillada",
+        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "desmaquillada",
+      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
     },
     {
       "added_at": null,

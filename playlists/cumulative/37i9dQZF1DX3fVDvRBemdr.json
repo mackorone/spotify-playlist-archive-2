@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Samantha Steenwijk",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Monique Smit & Quido van de Graaf",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 148084,
       "name": "Alles Uit Het Leven",
       "url": "https://open.spotify.com/track/2p14t5hB09pBTEjA64RGaT"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 137725,
       "name": "Als De Zon Schijnt",
       "url": "https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr"
@@ -1547,6 +1547,28 @@
     },
     {
       "album": {
+        "name": "Beter Af Alleen",
+        "url": "https://open.spotify.com/album/0EkDnXSqADfI0b6xdTRyYF"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        },
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134296,
+      "name": "Beter Af Alleen",
+      "url": "https://open.spotify.com/track/38BoNGQvfhuOSzZrsseCY3"
+    },
+    {
+      "album": {
         "name": "Bewegen",
         "url": "https://open.spotify.com/album/44vQiuDPJcvurGYB2ZAhNM"
       },
@@ -1754,6 +1776,24 @@
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
+    },
+    {
+      "album": {
+        "name": "Blote Brasa",
+        "url": "https://open.spotify.com/album/1evDDrEhN7CiyscrGGvYX9"
+      },
+      "artists": [
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136521,
+      "name": "Blote Brasa",
+      "url": "https://open.spotify.com/track/77QPtv7G21PG5emqXyP7o3"
     },
     {
       "album": {
@@ -2066,7 +2106,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165973,
       "name": "Ciao, Doei, Adios",
       "url": "https://open.spotify.com/track/761xNUBIXQ0tCe9YuDPf8j"
@@ -2142,7 +2182,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 195232,
       "name": "Cubaanse Caf\u00e9",
       "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
@@ -3740,7 +3780,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152000,
       "name": "Een Mooie Chica Zoals Zij",
       "url": "https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP"
@@ -3985,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "E\u00e9n Nacht Met Jou",
+        "url": "https://open.spotify.com/album/5HGDS8HbfQg4I6dpaJiwmQ"
+      },
+      "artists": [
+        {
+          "name": "Milan Kirstein",
+          "url": "https://open.spotify.com/artist/5TVNyQeOLjtOh2a0nXI5eb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188922,
+      "name": "E\u00e9n Nacht Met Jou",
+      "url": "https://open.spotify.com/track/0gO1hVU1WmNTZuYoDj5oJZ"
+    },
+    {
+      "album": {
         "name": "Eenmaal In Je Leven",
         "url": "https://open.spotify.com/album/198g0LrDssZW4QnCBdQFlX"
       },
@@ -4210,7 +4268,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204571,
       "name": "Fi\u00ebsta Aan De Costa",
       "url": "https://open.spotify.com/track/67vsk6xOZgeoerAW0pKrPo"
@@ -4246,7 +4304,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 153106,
       "name": "Fluitje",
       "url": "https://open.spotify.com/track/7ng4v7Bi3YueGO4HhfwPNL"
@@ -5057,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Hard To Get",
+        "url": "https://open.spotify.com/album/16SCvjPxjZT0pBmPIymJwf"
+      },
+      "artists": [
+        {
+          "name": "Daymian Van Os",
+          "url": "https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143213,
+      "name": "Hard To Get",
+      "url": "https://open.spotify.com/track/1rUjgtpKXHLEEKvJ7S2oGz"
+    },
+    {
+      "album": {
         "name": "Hart Gestolen",
         "url": "https://open.spotify.com/album/2iYMjlSP6sgjm6suHJEQV3"
       },
@@ -5346,7 +5422,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 180925,
       "name": "Het Perfecte Recept",
       "url": "https://open.spotify.com/track/4WGEFKjIQtPiHu1voy0PB1"
@@ -6493,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Ik Rot Op Naar Spanje",
+        "url": "https://open.spotify.com/album/5o7lXonw9bmDbOKFiRSEdg"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Kuipers",
+          "url": "https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Ik Rot Op Naar Spanje",
+      "url": "https://open.spotify.com/track/68ApfWwxzGgqBDKjOwjLuE"
+    },
+    {
+      "album": {
         "name": "Ik Slaap In De Kroeg",
         "url": "https://open.spotify.com/album/6IxtRIGc7QskgH0O6o2EoT"
       },
@@ -6624,6 +6718,28 @@
       "duration_ms": 150937,
       "name": "Ik Weet Dat Zij Het Ziet",
       "url": "https://open.spotify.com/track/51fX0yAXCfJ7Ka7SZ9G4Er"
+    },
+    {
+      "album": {
+        "name": "Ik Weet Niet Waarom",
+        "url": "https://open.spotify.com/album/5xIvod0nhaiWuN4N3RrNoL"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        },
+        {
+          "name": "Marlous",
+          "url": "https://open.spotify.com/artist/5Eld7TocuB1kAsvOnssFUf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160985,
+      "name": "Ik Weet Niet Waarom",
+      "url": "https://open.spotify.com/track/5gLAbNaOOaH7rCxc74t9CY"
     },
     {
       "album": {
@@ -6924,7 +7040,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161884,
       "name": "In De Boeken",
       "url": "https://open.spotify.com/track/5iHmlYIg8FaLrfxjRbmj3M"
@@ -7488,7 +7604,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 183314,
       "name": "Jij Bent Een Kanjer",
       "url": "https://open.spotify.com/track/37pdFFdvtJbcXuJDvupYPs"
@@ -8115,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Korrel Zout",
+        "url": "https://open.spotify.com/album/4Kjqs8zx9LghIya8P8aRmC"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Genee",
+          "url": "https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188583,
+      "name": "Korrel Zout",
+      "url": "https://open.spotify.com/track/0xrTOuws4YRRO4Nr3rGqRn"
+    },
+    {
+      "album": {
         "name": "Kouwe Kak",
         "url": "https://open.spotify.com/album/61TWNYthhubPajfdYtspVB"
       },
@@ -8246,6 +8380,24 @@
       "duration_ms": 203809,
       "name": "Laat De Zon In Je Hart",
       "url": "https://open.spotify.com/track/6ZUQHg1ehekmE6C0eETvSv"
+    },
+    {
+      "album": {
+        "name": "Laat Dit Niet Lopen",
+        "url": "https://open.spotify.com/album/1l9aGknM2JJZ9mtMPKB1vV"
+      },
+      "artists": [
+        {
+          "name": "Jessey Fields",
+          "url": "https://open.spotify.com/artist/3d2RT26NhHPXHa9IOdzhOy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164151,
+      "name": "Laat Dit Niet Lopen",
+      "url": "https://open.spotify.com/track/2fVdIcivrugKTCe9pmuE3z"
     },
     {
       "album": {
@@ -8868,6 +9020,24 @@
       "duration_ms": 235840,
       "name": "Liever Te Dik In De Kist",
       "url": "https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq"
+    },
+    {
+      "album": {
+        "name": "Likkie Likkie",
+        "url": "https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo"
+      },
+      "artists": [
+        {
+          "name": "Timothy",
+          "url": "https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "Likkie Likkie",
+      "url": "https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U"
     },
     {
       "album": {
@@ -9494,7 +9664,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 161000,
       "name": "Middernacht",
       "url": "https://open.spotify.com/track/4Oq3oPHTNzf0f1wFBaXE03"
@@ -10192,7 +10362,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176000,
       "name": "Noorderzon",
       "url": "https://open.spotify.com/track/5nN79ne2EfD7OOM4kPUpmR"
@@ -10564,7 +10734,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164409,
       "name": "Op Het Kamp",
       "url": "https://open.spotify.com/track/0j695IIQ1oxli4l7KGN735"
@@ -10698,7 +10868,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164653,
       "name": "Pakt Mij",
       "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
@@ -10814,6 +10984,24 @@
       "duration_ms": 155538,
       "name": "Parttime Verliefd",
       "url": "https://open.spotify.com/track/43ZFVTFlOJXTDQstfgB0wF"
+    },
+    {
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/6LdYWC2sgbjDNcpDIu1XNA"
+      },
+      "artists": [
+        {
+          "name": "Rene Schuurmans",
+          "url": "https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154042,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/3EmoZpRUBvhpSVbBQIO016"
     },
     {
       "album": {
@@ -13290,7 +13478,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181862,
       "name": "Wat Ben Je Knap",
       "url": "https://open.spotify.com/track/6fPtFpkRNoUcXpTWgu4I8K"

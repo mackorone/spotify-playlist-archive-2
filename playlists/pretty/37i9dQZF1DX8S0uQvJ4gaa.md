@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,475 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,544 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Who's Drinking Now](https://open.spotify.com/track/6DgrYVfN2md9cyTZJoDb4M) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Who's Drinking Now](https://open.spotify.com/album/74CE1jAe9NYgk7lUVP8so8) | 2:44 |
 | 100 | [Paradise](https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Paradise](https://open.spotify.com/album/21vTpbjUDOu3vbAUBVHLtp) | 3:46 |
 
-Snapshot ID: `AAAAABY0XsESLH8sQSRZDNxEgZgvm84P`
+Snapshot ID: `AAAAAONkEe34Vd0nzrgU5ze7dkOypWPU`

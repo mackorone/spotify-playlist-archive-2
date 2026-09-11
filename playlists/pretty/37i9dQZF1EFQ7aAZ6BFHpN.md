@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 158 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 158 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 22 | [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 |
 | 23 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 24 | [Summertime](https://open.spotify.com/track/0EIVfSsMX5NNTLKJPqej7Y) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild](https://open.spotify.com/album/2CX7Bs0bl9Ic940Va4S0G0) | 5:33 |
-| 25 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:52 |
+| 25 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/0dzz2v5RKp5ShcLB8az8sD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/6hbJgGciyGUPildP4MAllQ) | 4:52 |
 | 26 | [My Man's Gone Now \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 6:24 |
 | 27 | [Lightning Field](https://open.spotify.com/track/44HcVKoJKdsBWImzOCsivg) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Splinter](https://open.spotify.com/album/6WipEuEUndQLoxQHm7Orc3) | 4:11 |
 | 28 | [Fame](https://open.spotify.com/track/3SiUGXivvan3tlVSitU2Ci) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:41 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 36 | [Oh, Lawd, I'm On My Way \- Porgy And Bess](https://open.spotify.com/track/64aPdJcNoDHvKoLCrzyTKm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:59 |
 | 37 | [Dawn of a New Day](https://open.spotify.com/track/0C1vuYIWRDmplN9wcXzkek) | [Horace Heidt & His Musical Knights](https://open.spotify.com/artist/71EDwhmGGw7PlLGTm99jCK) | [All the Hits](https://open.spotify.com/album/676qvazYtyDCysPNxVTBtP) | 2:33 |
 | 38 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 |
-| 39 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:43 |
+| 39 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/3EP8TSBgWDWQYV8vq4R5Rg) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Essential Louis Armstrong](https://open.spotify.com/album/6S9Dm1I3P06Fcszze4YjCO) | 4:49 |
 | 40 | [Gone, Gone, Gone](https://open.spotify.com/track/5W6KBABgwJCHerTlS6uyal) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/5pplTeBAdCT686ubsru4sy) | 2:36 |
 | 41 | [The Buzzard Song \- Porgy And Bess](https://open.spotify.com/track/2cgXOtPb8vBJt16RQbXd2u) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:58 |
 | 42 | [Oh, Doctor Jesus \- Porgy And Bess](https://open.spotify.com/track/1zPHUOrPLqH3hLLwALq1vb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:01 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Acb4EgAAAACosrzVLCz/R174/CfX39lR`
+Snapshot ID: `Acb9qAAAAAAiaCOnQFjXUYwX3zO9rW2m`

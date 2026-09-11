@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 962274,
+  "num_followers": 962422,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAC9p2zRVx/k5Z3YbSjBjSq0",
+  "snapshot_id": "aqChgAAAAAAc98AxnfwgwJNOuh+U41ze",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girls",
-        "url": "https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S"
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
       "artists": [
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         }
       ],
-      "duration_ms": 163952,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs"
+      "duration_ms": 216706,
+      "name": "What U See (Is What U Get)",
+      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S"
       },
       "artists": [
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         }
       ],
-      "duration_ms": 216706,
-      "name": "What U See (Is What U Get)",
-      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
+      "duration_ms": 163952,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs"
     },
     {
       "added_at": null,

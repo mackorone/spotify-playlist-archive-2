@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 15 min
+64 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 | 2026-02-21 | 2026-04-27 |
 | [Ride](https://open.spotify.com/track/48cLuwS9p039XEPj7R9OGM) | [SWIMS](https://open.spotify.com/artist/1AnetmEDB2FyWGNTumFx5L) | [Ride](https://open.spotify.com/album/0T7A52Ixbxfu7aXOewxnG6) | 3:46 | 2025-01-09 | 2025-04-12 |
 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 | 2024-10-12 |  |
+| [SEXUALITY](https://open.spotify.com/track/1A1wzR1nOo0J2e6y1P4TpT) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [GLAMOUR IN A BURNING WORLD](https://open.spotify.com/album/0CR8Kha8SuzJKCZeRainkt) | 3:04 | 2026-09-10 |  |
 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 | 2024-03-21 |  |
 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 | 2024-03-21 |  |
 | [Snake Boy City](https://open.spotify.com/track/7yczJegu2JdFnVgqc9ddEj) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6Tm4wS4LFg8vTZvnOTIwEB) | 3:39 | 2024-03-21 |  |

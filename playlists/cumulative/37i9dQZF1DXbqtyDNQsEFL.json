@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 395555,
       "name": "Aileyipada",
       "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190945,
       "name": "Calling Me",
       "url": "https://open.spotify.com/track/5Y9cG6hrxIMkTGni30CIhg"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
@@ -7390,7 +7390,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 149189,
       "name": "JOY IS COMING",
       "url": "https://open.spotify.com/track/2NbsouKqlRdujJEUir0Ecr"
@@ -7662,6 +7662,28 @@
       "duration_ms": 418901,
       "name": "Kidie Mevwo Kpevwen (Live)",
       "url": "https://open.spotify.com/track/0zxUDyZDv8HtP7GHJjON2Q"
+    },
+    {
+      "album": {
+        "name": "Kilimanjaro",
+        "url": "https://open.spotify.com/album/6RGuQkXCIhH61VcUa6BBXl"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        },
+        {
+          "name": "Monique",
+          "url": "https://open.spotify.com/artist/1q7y0t9L4YGi0wl8Xo75c3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185869,
+      "name": "Kilimanjaro",
+      "url": "https://open.spotify.com/track/3e1w8pEen0F6uhOYCvm6Xq"
     },
     {
       "album": {
@@ -8610,7 +8632,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
@@ -9466,7 +9488,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 180923,
       "name": "NEVER",
       "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
@@ -11525,6 +11547,24 @@
     },
     {
       "album": {
+        "name": "Own My Heart",
+        "url": "https://open.spotify.com/album/6YHQLvNus91WD5IZrwOPtx"
+      },
+      "artists": [
+        {
+          "name": "Delight Munachy",
+          "url": "https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189288,
+      "name": "Own My Heart",
+      "url": "https://open.spotify.com/track/5GsOzVAnoCNpkhwZEF0i5p"
+    },
+    {
+      "album": {
         "name": "P&A",
         "url": "https://open.spotify.com/album/5S3nsAPACcO7HW1kIHK5va"
       },
@@ -11920,7 +11960,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
@@ -12777,6 +12817,32 @@
     },
     {
       "album": {
+        "name": "Shut the devil up",
+        "url": "https://open.spotify.com/album/4XjZRXmUGdJEXf0mq5QrWC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Shut the devil up",
+      "url": "https://open.spotify.com/track/38Dpx3fwXmU1MGd9vFOIXZ"
+    },
+    {
+      "album": {
         "name": "Sijja Kutya",
         "url": "https://open.spotify.com/album/01xqcqgKLeTvZCk5zHr34B"
       },
@@ -13500,7 +13566,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 342613,
       "name": "Taloto",
       "url": "https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C"
@@ -15822,6 +15888,24 @@
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
+    },
+    {
+      "album": {
+        "name": "WORRY ABOUT NOTHING (Live)",
+        "url": "https://open.spotify.com/album/3aNavzGaQMBJX8x815ajxI"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189611,
+      "name": "Worry About Nothing - Live",
+      "url": "https://open.spotify.com/track/5jcvJNEoo9ZaHk2CBPsp0K"
     },
     {
       "album": {

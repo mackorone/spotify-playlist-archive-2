@@ -5163,6 +5163,32 @@
     },
     {
       "album": {
+        "name": "Dark & Lovely",
+        "url": "https://open.spotify.com/album/3K34B9HOtnTJp7yaTXy6nf"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163605,
+      "name": "Dark & Lovely",
+      "url": "https://open.spotify.com/track/1xrwzDcUM492FbYPihD0Op"
+    },
+    {
+      "album": {
         "name": "The Evolution of an African Trap Queen",
         "url": "https://open.spotify.com/album/2gOoNbU9qmAoPf8lUPFxsh"
       },
@@ -25334,7 +25360,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 116396,
       "name": "Ye Driver",
       "url": "https://open.spotify.com/track/6WCgupVKfuTkZpddiifIC4"

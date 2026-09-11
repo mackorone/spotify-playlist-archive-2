@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Nue_Sam",
+  "description": "Proudly Southern African Afropop gems. Cover: Langa Mavuso",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 261076,
       "name": "Distance",
       "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
@@ -4558,6 +4558,24 @@
       "duration_ms": 466886,
       "name": "I Can't Give Up Now",
       "url": "https://open.spotify.com/track/3GiST92C7I4mfc1jkVNebP"
+    },
+    {
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/23tkxRAF7cyv8rS6rGuUzl"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204207,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/0GUE9FYe401DkryTuUBS7b"
     },
     {
       "album": {
@@ -7136,7 +7154,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 219339,
       "name": "Kuvela Kuwe",
       "url": "https://open.spotify.com/track/77c5YgnoopAWF1UTLqJYQl"
@@ -16062,6 +16080,28 @@
       "duration_ms": 348577,
       "name": "Uyinkanyezi",
       "url": "https://open.spotify.com/track/4iJ75Zg7NeSo0FhXClZf4F"
+    },
+    {
+      "album": {
+        "name": "Ipasi",
+        "url": "https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Lia Butler",
+          "url": "https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "Uze Wazi",
+      "url": "https://open.spotify.com/track/3GYiqvumhNGXCSV1OPe8H8"
     },
     {
       "album": {

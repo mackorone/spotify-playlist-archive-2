@@ -4,7 +4,7 @@
 
 > 3000\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.brutalismus3000
 
-1,448 songs - 2 day 12 hr 10 min
+1,450 songs - 2 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 | 2026-06-19 |  |
 | [Cooler Than Me](https://open.spotify.com/track/54q8OmZWMQeHwiYgran4e9) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Cooler Than Me](https://open.spotify.com/album/6mgmfvyjxcW8WqH8WOxqXA) | 2:07 | 2022-03-04 | 2022-05-28 |
 | [COUNTING, PT\. 2 FREESTYLE](https://open.spotify.com/track/23FztzPcPQsz5LvSaH4sX8) | [DANI ZEN](https://open.spotify.com/artist/0ecrEfKoB9xbVXHO3T5kbK), [BBY KODIE](https://open.spotify.com/artist/3H7FpLl0vUVA9YOjyunTFo) | [COUNTING, PT\. 2 FREESTYLE](https://open.spotify.com/album/6m5CprihSHV0dQweTqkuEP) | 3:10 | 2021-09-27 | 2022-01-26 |
-| [COUPLE MS](https://open.spotify.com/track/4ReqSFKDuZLvgoEYuNlmsc) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [6ix Pop](https://open.spotify.com/album/3dxAEUAdjVXfmhDXAPQbqC) | 2:09 | 2026-06-26 |  |
+| [COUPLE MS](https://open.spotify.com/track/4ReqSFKDuZLvgoEYuNlmsc) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [6ix Pop](https://open.spotify.com/album/3dxAEUAdjVXfmhDXAPQbqC) | 2:09 | 2026-06-26 | 2026-09-11 |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2022-01-25 | 2022-02-05 |
 | [Cracked \(I’m Him 2\)](https://open.spotify.com/track/4NwPP9NVYwY5jc66hnaOls) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Cracked \(I’m Him 2\)](https://open.spotify.com/album/7qEGRLbCBK2GrhJF1BRtbE) | 1:41 | 2022-07-01 | 2022-08-13 |
 | [Crash](https://open.spotify.com/track/0Rlg4KCejY9brNbx5UHsFY) | [Erika Ever](https://open.spotify.com/artist/2MMGm01jldrW4dPB71Gf3n), [Porcelain Boy](https://open.spotify.com/artist/6iQ4UCzbPgv9fb3zrG6GiX) | [Crash](https://open.spotify.com/album/33MoR7bpKGJSAV4QfR8uis) | 1:57 | 2026-07-31 | 2026-08-28 |
@@ -686,6 +686,7 @@
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2021-12-03 | 2022-04-26 |
 | [J\*b](https://open.spotify.com/track/6daan5z4JqVAf0zRBmjXLr) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [J\*b](https://open.spotify.com/album/2O2yplbalROV9h6hXgC8lT) | 1:57 | 2026-02-07 | 2026-03-21 |
 | [JACKPOT](https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [JACKPOT](https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ) | 2:20 | 2024-04-19 | 2025-03-28 |
+| [Jagódki \(Blueberries\)](https://open.spotify.com/track/7cY5xd2WjW0Qx30QvBRL3w) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Jagódki \(Blueberries\)](https://open.spotify.com/album/54ARLpoGAOqoll2WfWj0YQ) | 2:31 | 2026-09-10 |  |
 | [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 | 2022-08-26 | 2023-01-18 |
 | [JELEEL JUICE!](https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [JELEEL JUICE!](https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT) | 1:44 | 2022-04-01 | 2022-04-20 |
 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 | 2023-09-22 | 2023-11-11 |
@@ -848,6 +849,7 @@
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-07 | 2023-08-26 |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-07-28 | 2023-10-21 |
 | [Me & My Machine](https://open.spotify.com/track/55OtNCFFm2ncO80K2gmkey) | [Contact Sports](https://open.spotify.com/artist/3GlpFOtBi5BJeXAk5a1RAd) | [Me & My Machine](https://open.spotify.com/album/4apU0XSXRd6S0TPpuL1iaC) | 2:33 | 2026-07-01 | 2026-08-22 |
+| [Me In Miami](https://open.spotify.com/track/1TpSXvJ62Ucq7SWmpx7l4I) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Emotronica](https://open.spotify.com/album/2XkdkpkPBjj8aLvtptWFmi) | 3:38 | 2026-09-10 |  |
 | [MEGAMAN](https://open.spotify.com/track/7aYzCl2Ii3YAROmyWAx2XC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:07 | 2022-06-24 | 2022-08-08 |
 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 | 2023-09-08 | 2024-01-23 |
 | [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 | 2026-07-10 | 2026-07-25 |
@@ -884,7 +886,7 @@
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-16 | 2022-08-27 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-03-15 | 2023-03-25 |
 | [Music](https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:27 | 2026-06-19 | 2026-08-01 |
-| [mwah](https://open.spotify.com/track/2Lx8KxpVFrVUq2FRdPid4Y) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [mwah](https://open.spotify.com/album/7JwkpZSxFZDzETuuXG4UBb) | 1:42 | 2026-07-18 |  |
+| [mwah](https://open.spotify.com/track/2Lx8KxpVFrVUq2FRdPid4Y) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [mwah](https://open.spotify.com/album/7JwkpZSxFZDzETuuXG4UBb) | 1:42 | 2026-07-18 | 2026-09-11 |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-03-27 | 2026-01-31 |
 | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/album/5pj2T91lHwn5A3qExRV4l9) | 2:30 | 2021-12-17 | 2022-02-05 |
 | [My Way](https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW) | [NDO Dee](https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ) | [My Way](https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras) | 1:48 | 2023-02-16 | 2023-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekhun tera nishaan hai, mehraab\-e\-dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,962 likes - 75 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,037 likes - 75 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 74 | [Pardadari](https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Pardadari](https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n) | 6:01 |
 | 75 | [Mera Peer](https://open.spotify.com/track/59Duz6pyFOpvoBcVSoo8d4) | [Third Fret](https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [Mehmaan](https://open.spotify.com/album/5be6spawAi0nrGm8yzbcHo) | 3:20 |
 
-Snapshot ID: `AAAAAL9nDpgARyJ4C6vH4yf9vzRMir5f`
+Snapshot ID: `AAAAAKGsc0GTxWnCd4FPXgxt2h4m2jYZ`

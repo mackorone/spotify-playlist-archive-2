@@ -1,12 +1,12 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33071,
+  "num_followers": 33078,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUbScN6p2fE6Gypf0UMyqzRp7U8",
+  "snapshot_id": "AAAAAOxktS2gWQemd8rZ3sZTPBSVnHII",
   "tracks": [
     {
       "added_at": "2026-09-07 16:11:48",
@@ -795,42 +795,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "WAKE N BAKE",
-      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 262800,
       "name": "SHOW ME WHAT YOU GOT",
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "WAKE N BAKE",
+      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "Vinnipu",
-        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 108746,
-      "name": "Vinnipu",
-      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "D\u00c9RYN\u00c9",
         "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187826,
       "name": "D\u00c9RYN\u00c9",
       "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "Csurran, cseppen",
-        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
-      },
-      "artists": [
-        {
-          "name": "Majka",
-          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Csurran, cseppen",
-      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "KERTES H\u00c1Z",
-        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
+        "name": "Csurran, cseppen",
+        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
       },
       "artists": [
         {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
         }
       ],
-      "duration_ms": 139551,
-      "name": "KERTES H\u00c1Z",
-      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
+      "duration_ms": 250000,
+      "name": "Csurran, cseppen",
+      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1143,22 +1127,18 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "HA MEGHALOK SE",
-        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
+        "name": "KERTES H\u00c1Z",
+        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
         }
       ],
-      "duration_ms": 165900,
-      "name": "V\u00c1RJ MEG",
-      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
+      "duration_ms": 139551,
+      "name": "KERTES H\u00c1Z",
+      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1195,22 +1175,22 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "DUMDUM",
-        "url": "https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH"
+        "name": "HA MEGHALOK SE",
+        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
       },
       "artists": [
         {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
         },
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
         }
       ],
-      "duration_ms": 155094,
-      "name": "DUMDUM",
-      "url": "https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY"
+      "duration_ms": 165900,
+      "name": "V\u00c1RJ MEG",
+      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
+        "name": "DUMDUM",
+        "url": "https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "DUMDUM",
+      "url": "https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
         "name": "Suttog a sz\u00e9l",
         "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
       },
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "BULLSHIT",
-        "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        },
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "BULLSHIT",
-      "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "HATALMASABB, MINT GONDOLN\u00c1D",
         "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 236523,
       "name": "utema",
       "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "BULLSHIT",
+        "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "BULLSHIT",
+      "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
     },
     {
       "added_at": "2026-09-07 16:11:48",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-09-07 16:11:48",
       "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
-    },
-    {
-      "added_at": "2026-09-07 16:11:48",
-      "album": {
         "name": "TITANIK",
         "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 157586,
       "name": "WAY TOO HIGH",
       "url": "https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S"
+    },
+    {
+      "added_at": "2026-09-07 16:11:48",
+      "album": {
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-09-07 16:11:48",

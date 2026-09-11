@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135267,
+  "num_followers": 135272,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPBeCCutwQFxhDKhuENWKO8UusV",
+  "snapshot_id": "AAAAAFjyGR1tVOsi3bvlTkqU8PHKPO3a",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Isqun",
-        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
-      },
-      "artists": [
-        {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
-        }
-      ],
-      "duration_ms": 202008,
-      "name": "Francisca Pizarro",
-      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Hoja de Coca",
         "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 266066,
       "name": "Hoja de Coca",
       "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "duration_ms": 202008,
+      "name": "Francisca Pizarro",
+      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
     },
     {
       "added_at": "2023-09-29 18:58:26",

@@ -7818,7 +7818,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 261626,
       "name": "Bl\u00e1gr\u00e6n",
       "url": "https://open.spotify.com/track/36iyDbsjcidH1AnpFaXOHV"
@@ -13632,7 +13632,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
@@ -15586,7 +15586,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -26274,7 +26274,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -27450,7 +27450,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 135463,
       "name": "Huganum af \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
@@ -28222,6 +28222,24 @@
       "duration_ms": 217000,
       "name": "H\u00e1t\u00ed\u00f0arskap (feat. RAKEL)",
       "url": "https://open.spotify.com/track/2HQDa49gllQy6LKHSn4Ej0"
+    },
+    {
+      "album": {
+        "name": "2026-2027",
+        "url": "https://open.spotify.com/album/3FsjcoZqBDtKkGOxSC2lj9"
+      },
+      "artists": [
+        {
+          "name": "12:00",
+          "url": "https://open.spotify.com/artist/1dLzNWHBWoyjhyRah4rh0x"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "H\u00e1\u00f0ur",
+      "url": "https://open.spotify.com/track/2VkLotsjnwYydbiirSZkX9"
     },
     {
       "album": {
@@ -55698,7 +55716,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -62785,6 +62803,24 @@
     },
     {
       "album": {
+        "name": "Alpha-to-Theta Transition",
+        "url": "https://open.spotify.com/album/19tGLGQ8cOzmCCjjgmnryI"
+      },
+      "artists": [
+        {
+          "name": "Brain Floss",
+          "url": "https://open.spotify.com/artist/03KCPs5hK1dddITbxrGMmf"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122600,
+      "name": "Vertex Sharp Transients",
+      "url": "https://open.spotify.com/track/6QEQTNUnx4mMdPfofxkYY8"
+    },
+    {
+      "album": {
         "name": "Gullvagninn: vins\u00e6lustu l\u00f6gin",
         "url": "https://open.spotify.com/album/2irVWF6nlIXn6huiZnfp2z"
       },
@@ -63492,7 +63528,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 200106,
       "name": "Vopn",
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
@@ -68598,7 +68634,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 279171,
       "name": "\u00d3sagt \u00f3satt",
       "url": "https://open.spotify.com/track/43m2BKHbKCSoxReVdlbGrG"

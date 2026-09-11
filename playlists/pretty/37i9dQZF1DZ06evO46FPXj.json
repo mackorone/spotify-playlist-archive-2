@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 8808,
+  "num_followers": 8815,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACSsgc7aSluaTDiwd+j1EpE",
+  "snapshot_id": "aqChgAAAAADVcyMgrl5IjdTLr5H+ukzv",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 415693,
-      "name": "Autriche",
-      "url": "https://open.spotify.com/track/0rCUsawuMHGo8FW65MTgsp"
+      "duration_ms": 436000,
+      "name": "Lowride",
+      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 436000,
-      "name": "Lowride",
-      "url": "https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2"
+      "duration_ms": 415693,
+      "name": "Autriche",
+      "url": "https://open.spotify.com/track/0rCUsawuMHGo8FW65MTgsp"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 277280,
-      "name": "see on see",
-      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 277280,
+      "name": "see on see",
+      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "Tankakern",
+      "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 416933,
       "name": "VI Scose Poise",
       "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Simmm",
-      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
     },
     {
       "added_at": null,
@@ -607,6 +607,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "plyPhon",
+      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 428131,
+      "name": "Pen Expers",
+      "url": "https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 100946,
+      "name": "Caliper Remote",
+      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
@@ -632,25 +680,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 219480,
-      "name": "Tankakern",
-      "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 100946,
-      "name": "Caliper Remote",
-      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
+      "duration_ms": 300013,
+      "name": "Simmm",
+      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
     },
     {
       "added_at": null,
@@ -680,25 +712,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 428131,
-      "name": "Pen Expers",
-      "url": "https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "plyPhon",
-      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
+      "duration_ms": 401314,
+      "name": "Cfern",
+      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 401314,
-      "name": "Cfern",
-      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EPs 1991 - 2002 (Part 2)",
         "url": "https://open.spotify.com/album/4KGnNltIhKlNbeWzSAnOMz"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anvil Vapre",
-        "url": "https://open.spotify.com/album/2I4swXdlP0c14GvK2iR92G"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 465200,
-      "name": "Second Scepe",
-      "url": "https://open.spotify.com/track/48qVlT1rzxD87lIVsGiQSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oversteps",
         "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249800,
       "name": "pt2ph8",
       "url": "https://open.spotify.com/track/5bGWqRBnxTj3gxsjpOiuxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anvil Vapre",
+        "url": "https://open.spotify.com/album/2I4swXdlP0c14GvK2iR92G"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 465200,
+      "name": "Second Scepe",
+      "url": "https://open.spotify.com/track/48qVlT1rzxD87lIVsGiQSw"
     }
   ],
   "unique_name": "This Is Autechre",

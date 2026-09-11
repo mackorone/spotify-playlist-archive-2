@@ -4,7 +4,7 @@
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-39 songs - 2 hr 13 min
+40 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 | 2026-09-04 |  |
 | [Gangsta](https://open.spotify.com/track/74xu2XF8jnZRiwF4S0Gce1) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Enigma POV](https://open.spotify.com/album/6XWlhXnqaiuAq8eFQx0Ocg) | 2:52 | 2026-08-17 |  |
 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-08-17 | 2026-09-05 |
-| [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 | 2026-08-17 |  |
+| [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 | 2026-08-17 | 2026-09-11 |
 | [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 | 2026-09-04 |  |
 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 | 2026-08-25 |  |
 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 | 2026-08-28 |  |
@@ -36,6 +36,7 @@
 | [MYSTERY OF RAW](https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [MYSTERY OF RAW](https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw) | 3:48 | 2026-08-17 | 2026-09-05 |
 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-08-17 |  |
 | [one good thing](https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [one good thing](https://open.spotify.com/album/0izq3cdOEnJu9Y4CW0X5Gh) | 3:16 | 2026-09-04 |  |
+| [Orbiter](https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:46 | 2026-09-10 |  |
 | [Reverse Psychology](https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Reverse Psychology](https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE) | 2:58 | 2026-08-28 |  |
 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-04 |  |
 | [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-17 | 2026-09-05 |

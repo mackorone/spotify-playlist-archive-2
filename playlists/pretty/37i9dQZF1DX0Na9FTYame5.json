@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569970,
+  "num_followers": 569953,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Coupe",
-        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
-      },
-      "artists": [
-        {
-          "name": "Coldyaa",
-          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
-        }
-      ],
-      "duration_ms": 97482,
-      "name": "Coupe",
-      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Erinnerung",
         "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 184093,
       "name": "Erinnerung",
       "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Coupe",
+        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
+      },
+      "artists": [
+        {
+          "name": "Coldyaa",
+          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
+        }
+      ],
+      "duration_ms": 97482,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Verlieb dich nicht",
-        "url": "https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 112736,
-      "name": "Verlieb dich nicht",
-      "url": "https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Lautlos",
         "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
       },
@@ -587,6 +571,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
       },
@@ -599,22 +603,6 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -639,22 +627,50 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "6 Kugeln",
+        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 184877,
+      "name": "6 Kugeln",
+      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Verlieb dich nicht",
+        "url": "https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2"
       },
       "artists": [
         {
           "name": "CIVO",
           "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 112736,
+      "name": "Verlieb dich nicht",
+      "url": "https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -691,22 +707,6 @@
       "duration_ms": 174026,
       "name": "Die Sonne",
       "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "6 Kugeln",
-        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 184877,
-      "name": "6 Kugeln",
-      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -763,42 +763,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Geboren um zu leben",
-        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "Geboren um zu leben",
-      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Apricot",
-        "url": "https://open.spotify.com/album/2SS8VcNhHmKrJM5whJJHCO"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Apricot",
-      "url": "https://open.spotify.com/track/2eMzjLapKMzslpcbQHbu9r"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -819,6 +783,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Geboren um zu leben",
+        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "Geboren um zu leben",
+      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "L\u00e4cheln (Wenn ich wein)",
         "url": "https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 129705,
       "name": "L\u00e4cheln (Wenn ich wein)",
       "url": "https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Apricot",
+        "url": "https://open.spotify.com/album/2SS8VcNhHmKrJM5whJJHCO"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Apricot",
+      "url": "https://open.spotify.com/track/2eMzjLapKMzslpcbQHbu9r"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Luftkuss",
-        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "Luftkuss",
-      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Art Attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 166896,
       "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 160226,
       "name": "Passion (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Du f\u00fchlst genauso",
-        "url": "https://open.spotify.com/album/1KQ1QphaXts0aLrp0Okj8J"
+        "name": "glaub dir nicht",
+        "url": "https://open.spotify.com/album/5Kvs1nas4NfDpR9YFCyL0c"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        },
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Du f\u00fchlst genauso",
-      "url": "https://open.spotify.com/track/0NGXJiKkVxW5ZZxeSHjDpl"
+      "duration_ms": 135600,
+      "name": "glaub dir nicht",
+      "url": "https://open.spotify.com/track/0Px456UcSYPzNpL2R0uzwN"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1203,38 +1207,18 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "glaub dir nicht",
-        "url": "https://open.spotify.com/album/5Kvs1nas4NfDpR9YFCyL0c"
+        "name": "Du f\u00fchlst genauso",
+        "url": "https://open.spotify.com/album/1KQ1QphaXts0aLrp0Okj8J"
       },
       "artists": [
         {
-          "name": "BOJAN",
-          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
-        },
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 135600,
-      "name": "glaub dir nicht",
-      "url": "https://open.spotify.com/track/0Px456UcSYPzNpL2R0uzwN"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Auf jeden Blick",
-        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 129048,
-      "name": "Auf jeden Blick",
-      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
+      "duration_ms": 175500,
+      "name": "Du f\u00fchlst genauso",
+      "url": "https://open.spotify.com/track/0NGXJiKkVxW5ZZxeSHjDpl"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1251,6 +1235,22 @@
       "duration_ms": 168000,
       "name": "LIDSCHATTEN",
       "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Auf jeden Blick",
+        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 129048,
+      "name": "Auf jeden Blick",
+      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+      "duration_ms": 221579,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1371,6 +1391,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "kleine Feuer",
+        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Was war das",
         "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
       },
@@ -1383,26 +1423,6 @@
       "duration_ms": 160448,
       "name": "Was war das",
       "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1435,22 +1455,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "kleine Feuer",
-        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
       "artists": [
         {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         },
         {
-          "name": "Trettmann",
-          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 154733,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1475,6 +1495,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 160653,
+      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1495,46 +1535,6 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 160653,
-      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "Alice Stark",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "TIEFPUNKT",
         "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 188500,
       "name": "TIEFPUNKT",
       "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Null - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2DA4YAyStJMXliF6dHHFmc"
-      },
-      "artists": [
-        {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 230204,
-      "name": "Null - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/63NKBJeM4DEa4GkSdCN2tq"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Aymo (Deluxe Version)",
         "url": "https://open.spotify.com/album/3dTwjMhmC9PGR19l4G4d5T"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 149326,
       "name": "Alles ist geschrieben",
       "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Null - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2DA4YAyStJMXliF6dHHFmc"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 230204,
+      "name": "Null - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/63NKBJeM4DEa4GkSdCN2tq"
     },
     {
       "added_at": "2026-09-08 08:54:15",

@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164718,
       "name": "Amazing (feat. kwn)",
       "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167692,
       "name": "Buss It",
       "url": "https://open.spotify.com/track/1lHKhXQaVQEF9TRzspZw4N"
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "GYALESE",
+        "url": "https://open.spotify.com/album/7KsUnrJL1lpIFmPuzrEhyb"
+      },
+      "artists": [
+        {
+          "name": "PrayzzZ",
+          "url": "https://open.spotify.com/artist/5Ni78B29oJO7nKxaT89BL6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185958,
+      "name": "Confidential",
+      "url": "https://open.spotify.com/track/2g2naZj9A7eOG88MRHlXT7"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/0AnaijLoHFaZtQuRuRP4BG"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 140979,
       "name": "Demure II",
       "url": "https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE"
@@ -1176,6 +1194,24 @@
       "duration_ms": 174132,
       "name": "Dulling",
       "url": "https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p"
+    },
+    {
+      "album": {
+        "name": "Dutty Whine",
+        "url": "https://open.spotify.com/album/6wdzz71j3MHMPYuuMj5t1w"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143712,
+      "name": "Dutty Whine",
+      "url": "https://open.spotify.com/track/3akvMyOPC6tzKe3s4Fz4kK"
     },
     {
       "album": {
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 192000,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/1QijvlQODtLRdeyhL6M5Uy"
@@ -2785,6 +2821,28 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2lEEbThauZtfld9ofCPPQh"
+      },
+      "artists": [
+        {
+          "name": "Webmoms",
+          "url": "https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4"
+        },
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173220,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1CjTilfvExW83uJDO5N8HP"
+    },
+    {
+      "album": {
         "name": "For The Love of R&B Vol 1",
         "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
       },
@@ -2920,7 +2978,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 144516,
       "name": "No Yawa",
       "url": "https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX"
@@ -4614,7 +4672,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 195960,
       "name": "Toxic Harmony",
       "url": "https://open.spotify.com/track/3WUFAdAJmSO3cpNGKH2P5g"
@@ -4702,6 +4760,28 @@
       "duration_ms": 218666,
       "name": "TSD",
       "url": "https://open.spotify.com/track/2PBG7vBts21Uh5XYycmh4K"
+    },
+    {
+      "album": {
+        "name": "U Belong 2 Me",
+        "url": "https://open.spotify.com/album/1sTTsrOLiFDcizRO1FJoMK"
+      },
+      "artists": [
+        {
+          "name": "TKY\u00d8",
+          "url": "https://open.spotify.com/artist/5YnVLs1NKId7YHzr2UfQLW"
+        },
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "U Belong 2 Me",
+      "url": "https://open.spotify.com/track/5owUuaiP1mv5SyaG5k9ZMR"
     },
     {
       "album": {
@@ -5116,7 +5196,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 159190,
       "name": "You're A Star",
       "url": "https://open.spotify.com/track/1eiDVyDcfUZgmFROdnXz0Z"

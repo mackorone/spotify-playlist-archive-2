@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-894 songs - 1 day 20 hr 25 min
+895 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [musicismytherapy](https://open.spotify.com/track/2UcM2CcwY4AmNwJtsHTf03) | [chy deep](https://open.spotify.com/artist/3Rgn1N6FniSgfTz9sqnuXp) | [musicismytherapy](https://open.spotify.com/album/4Q0P2uJMSwmQfH4TvQxmpy) | 3:18 | 2025-07-01 |  |
 | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/2RpT6tu1l0TxoWqxT4auQl) | 4:26 | 2023-08-08 | 2023-12-14 |
 | [my heart is broken](https://open.spotify.com/track/5nsipPb0ex6kKTTcnTmjcU) | [Neyvo](https://open.spotify.com/artist/2hoNqBOIPGztCNSNZEwMQE) | [my heart is broken](https://open.spotify.com/album/44avVnEbkqE3x1oS038Mvt) | 3:30 | 2024-07-30 | 2025-01-08 |
+| [NCS Greatest Hits Mashup](https://open.spotify.com/track/5dt0Br8UmB0k7WPxOF39Kt) | [NCS & Friends](https://open.spotify.com/artist/3sHZR8j1gqs1dq8vCGeQwi) | [NCS Greatest Hits Mashup](https://open.spotify.com/album/1br0mq9mceMN7oPyDxqGI0) | 4:57 | 2026-09-10 |  |
 | [Need U](https://open.spotify.com/track/0JlKZ0W9iPJctsUMNSDMeo) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [Need U](https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b) | 1:57 | 2022-07-19 | 2023-04-28 |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 | 2023-08-10 |
 | [Need You](https://open.spotify.com/track/2qtyIWqX6LwB5AZwu708wp) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Need You](https://open.spotify.com/album/4WLmLqCxKAIVKGIhHPpEeN) | 2:53 | 2023-01-25 | 2023-04-28 |

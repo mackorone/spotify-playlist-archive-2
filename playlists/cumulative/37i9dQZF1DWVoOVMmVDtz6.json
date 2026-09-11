@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-06-28",
-  "description": "greenery & humid air \ud83c\udf43",
+  "description": "crisp air & fall foliage \ud83c\udf42\n",
   "name": "Upstate",
   "tracks": [
+    {
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
+    },
     {
       "album": {
         "name": "Charm",
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 125544,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 229395,
       "name": "Aunt Leslie",
       "url": "https://open.spotify.com/track/6vzRQHItVGIT94q33HvRZx"
@@ -373,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Sun of Amen",
+        "url": "https://open.spotify.com/album/4VBj1npDJ29rhySkoC24Rf"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7v20tSQtGxzW0V0UzGUeHk"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -449,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/4WJlMyXOnpsEskUDWUkKdc"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stalling",
+          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/1sVWb96BHxmZ8sFNz03w8z"
+    },
+    {
+      "album": {
         "name": "Earthstar",
         "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
       },
@@ -464,6 +518,24 @@
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/12HfxXiDIpdYiD1h2AqHCX"
+    },
+    {
+      "album": {
+        "name": "Angel So Bad",
+        "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171460,
+      "name": "East of Anything",
+      "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
     },
     {
       "album": {
@@ -651,6 +723,24 @@
     },
     {
       "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
+    },
+    {
+      "album": {
         "name": "One Million and Three Love Songs",
         "url": "https://open.spotify.com/album/4PBBVn6QWMJWsI2M2iAioi"
       },
@@ -666,7 +756,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 209819,
       "name": "Good Stuff - Edit",
       "url": "https://open.spotify.com/track/5d9FW8WS24O9Bzjmj6sMTE"
@@ -720,7 +810,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 136813,
       "name": "Heart of the Woods",
       "url": "https://open.spotify.com/track/1sNAeNdDVPVBgsGg9SqWHX"
@@ -760,6 +850,24 @@
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
     },
     {
       "album": {
@@ -969,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/4uQa3cPFkMhrFDOUym4Zwh"
+    },
+    {
+      "album": {
         "name": "Incomprehensible",
         "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
@@ -980,7 +1106,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
@@ -1052,10 +1178,32 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 231490,
       "name": "Leaveyourlove",
       "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "album": {
+        "name": "Until the Hunter",
+        "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
+      },
+      "artists": [
+        {
+          "name": "Hope Sandoval & The Warm Inventions",
+          "url": "https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5"
+        },
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450986,
+      "name": "Let Me Get There",
+      "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
     },
     {
       "album": {
@@ -1132,7 +1280,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
@@ -1193,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Metal Through Her Lips",
+        "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Metal Through Her Lips",
+      "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
+    },
+    {
+      "album": {
         "name": "Side Pony",
         "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
@@ -1204,7 +1370,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
@@ -1244,6 +1410,24 @@
       "duration_ms": 319786,
       "name": "Morning",
       "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
+    },
+    {
+      "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
     },
     {
       "album": {
@@ -1316,7 +1500,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
@@ -1392,7 +1576,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165880,
       "name": "Pluto's Lament",
       "url": "https://open.spotify.com/track/58BAK2xCNBY2Q8xnCzp69E"
@@ -1515,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "Sammy G's",
+      "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
+    },
+    {
+      "album": {
         "name": "Loose Future",
         "url": "https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6"
       },
@@ -1544,7 +1746,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
@@ -1641,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220301,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/4WVxjcsAJ98IRWxeHLK9oX"
+    },
+    {
+      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
@@ -1696,7 +1916,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 185240,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6XGLeeMS07Fg7jKI9UiNdc"
@@ -1912,10 +2132,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 300045,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
+    },
+    {
+      "album": {
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
     },
     {
       "album": {
@@ -1988,7 +2226,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 180727,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk"
@@ -2067,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "winner (deluxe edition)",
+        "url": "https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "winner",
+      "url": "https://open.spotify.com/track/1Vy109Rc1RuDrKxcVSAY1d"
+    },
+    {
+      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3"
       },
@@ -2078,7 +2334,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"

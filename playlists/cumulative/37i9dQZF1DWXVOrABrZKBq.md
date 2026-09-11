@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: DA Uzi
 
-752 songs - 1 day 12 hr 7 min
+753 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Chien Mangé Chien](https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG) | 3:23 | 2023-09-08 | 2023-10-14 |
 | [Chocolat](https://open.spotify.com/track/0FIaZBj6LZBC1e9iIFOhcD) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [En Attendant Intégral 3](https://open.spotify.com/album/3D0awOGU1eDPH0tTA21227) | 2:46 | 2026-07-24 | 2026-08-29 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 | 2023-08-26 |
+| [CHOUCHOU](https://open.spotify.com/track/3uXidY01yR5pKdk7xTGSn4) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CHOUCHOU](https://open.spotify.com/album/5K5D26lByVf171TQKpZ3zZ) | 2:46 | 2026-09-04 |  |
 | [CHROME](https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [CHROME](https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX) | 2:35 | 2024-11-08 | 2024-11-16 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [CHROME HEARTS](https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO) | [CHROME HEARTS](https://open.spotify.com/album/24tSytQhrgseCAvSx2Gydo) | 3:16 | 2025-08-01 | 2025-10-11 |
@@ -500,7 +501,7 @@
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 | 2023-12-02 |
 | [No stress](https://open.spotify.com/track/7jPBHQ9vRgMxjRcREZKKGI) | [DVM](https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [No stress](https://open.spotify.com/album/0NR9FSagCbEPnkwIBVTnNd) | 2:44 | 2025-02-28 | 2025-10-18 |
 | [No System \- GRM x Yard](https://open.spotify.com/track/7IBdt4u2zCDiMMCzwNb0NG) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [No System \(GRM x Yard\)](https://open.spotify.com/album/0fIlnmUUpG121cI02RAfnU) | 1:34 | 2026-08-28 | 2026-09-05 |
-| [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 | 2026-02-13 |  |
+| [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 | 2026-02-13 | 2026-09-11 |
 | [Nocif](https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 | 2023-03-03 | 2024-01-06 |
 | [Noise](https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Noise](https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC) | 4:02 | 2024-03-01 | 2024-04-19 |
 | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 | 2024-05-17 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=9fdd1ea95ec84167">Lusanda</a>
 
-687 songs - 1 day 14 hr 19 min
+688 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 | 2024-08-07 | 2025-06-04 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-07-02 | 2025-07-12 |
 | [Pretty Mind](https://open.spotify.com/track/7EsEX8tntGi25knwAAx5jA) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Pretty Mind](https://open.spotify.com/album/5X2nm4gNZnJW4BO58wY7Zs) | 3:21 | 2023-03-01 | 2024-02-07 |
-| [Progress](https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Progress](https://open.spotify.com/album/5K46ePr8ayHr31jLCCwxRQ) | 2:50 | 2025-12-03 |  |
+| [Progress](https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Progress](https://open.spotify.com/album/5K46ePr8ayHr31jLCCwxRQ) | 2:50 | 2025-12-03 | 2026-09-11 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-07 | 2024-03-07 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-12-04 |  |
 | [Put You In Line](https://open.spotify.com/track/6FQ8JrJgVefEXyonSrC73S) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Put You In Line](https://open.spotify.com/album/0wni4sPnNeBD4SgXrRINys) | 3:11 | 2021-12-02 | 2022-05-05 |
@@ -615,6 +615,7 @@
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-07-10 |  |
 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 | 2026-04-01 | 2026-05-06 |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-04-05 | 2023-05-04 |
+| [Track 3](https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [By The Time I Wake Up](https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu) | 0:00 | 2026-09-11 |  |
 | [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 | 2026-07-10 |  |
 | [Tribal Love](https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [4PLAY](https://open.spotify.com/album/565GXl4uD52IKCtX4Vo4nU) | 2:26 | 2026-08-06 | 2026-09-04 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-11-02 | 2022-12-01 |

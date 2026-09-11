@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
-  "num_followers": 491634,
+  "num_followers": 491674,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADF6CK/rh8sTFJqL4+YgPW6AK4UW",
+  "snapshot_id": "AAAAACMxdyQtRaOMCyPFRzxQ3nwhU+Yi",
   "tracks": [
     {
       "added_at": "2026-08-21 04:39:10",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "No Eres Para Mi",
-        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        },
-        {
-          "name": "Joselo Osses",
-          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "No Eres Para Mi",
-      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1567,18 +1547,38 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "VOY DE NUEVO",
-        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
+        "name": "No Eres Para Mi",
+        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Joselo Osses",
+          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
         }
       ],
-      "duration_ms": 158122,
-      "name": "VOY DE NUEVO",
-      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
+      "duration_ms": 192949,
+      "name": "No Eres Para Mi",
+      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+        "name": "VOY DE NUEVO",
+        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
       },
       "artists": [
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
         }
       ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+      "duration_ms": 158122,
+      "name": "VOY DE NUEVO",
+      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
-      },
-      "artists": [
-        {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
     },
     {
       "added_at": "2026-08-21 04:39:10",

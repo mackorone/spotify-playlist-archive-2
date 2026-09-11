@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: &TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,224 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,466 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 28 | [Make it hot](https://open.spotify.com/track/06ZgGUzxTQ27mkYKvXcoZU) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Make it hot \- The 2nd Mini Album](https://open.spotify.com/album/2P6CBXbbiWNv9CXVAXSy6z) | 2:37 |
 | 29 | [Rise Over](https://open.spotify.com/track/6nUBP5czYLJIBTDfMkPhwd) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/0Yj7RAYDsGCcb06sm7sb3m) | 3:30 |
 | 30 | [INVINCIBLE](https://open.spotify.com/track/6ltp1Tk7Ft0TwulfxkfwI9) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT / INVINCIBLE](https://open.spotify.com/album/2ciUD1l1F2cCRDgFiBgd3w) | 2:52 |
-| 31 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN of RIIZE](https://open.spotify.com/artist/28AAvQ2VKinwSuFKIJ47SZ) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
+| 31 | [ALIVE \(Feat\. SUNGCHAN of RIIZE\)](https://open.spotify.com/track/66WdJnnPdAKe8L6b5DQ7QI) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg), [SUNGCHAN](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz) | [The Second Wave : MOMENTUM](https://open.spotify.com/album/6HSALIyE2MZcIWH2gzo4al) | 3:15 |
 | 32 | [Slow It Down](https://open.spotify.com/track/6rbE0DZpklcHtyTrqLNsc7) | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [Slow It Down](https://open.spotify.com/album/6lwS4xGibwiF4dC4c4mjVp) | 2:45 |
 | 33 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
 | 34 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
 | 35 | [Flame \(feat\. milet\)](https://open.spotify.com/track/167V5iL3BHjy9Fu5EO5hxW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flame \(feat\. milet\)](https://open.spotify.com/album/3IN99tLHkNBdqB9fLREzP1) | 3:07 |
-| 36 | [Who Knew?](https://open.spotify.com/track/3PttZzyQwA9JwOkFw0aLog) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Who Knew?](https://open.spotify.com/album/0KuLYJVokPcmvuaSJDR374) | 3:00 |
+| 36 | [Who Knew?](https://open.spotify.com/track/3PttZzyQwA9JwOkFw0aLog) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1) | [Who Knew?](https://open.spotify.com/album/0KuLYJVokPcmvuaSJDR374) | 3:00 |
 | 37 | [show time...](https://open.spotify.com/track/0SdzkJ0rQjdDUjf4KWRPyU) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [AMENITY](https://open.spotify.com/album/6aEBnBIfPvLSedFSC3UjRJ) | 3:45 |
 | 38 | [SODA SODA](https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SODA SODA](https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T) | 3:12 |
 | 39 | [KO1KEYZ](https://open.spotify.com/track/0sntN2nuas8OXrvdMoWbqR) | [KO1KEYZ](https://open.spotify.com/artist/7EuQkJNmjEkhV4TdeHNFEc) | [KO1KEYZ](https://open.spotify.com/album/0E9jYbwaVVqnB2xP7U3yMQ) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [AWAKE](https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL) | 2:36 |
 | 80 | [Voyager](https://open.spotify.com/track/4dUpvz6olaLXl3YIV3U6Kn) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [DEAD AND](https://open.spotify.com/album/4ZkG5DPuj47UvzoZ2bAVOU) | 3:54 |
 
-Snapshot ID: `AAAAAI0HXc7ce4V72oMadI5hhC5V6UP2`
+Snapshot ID: `AAAAAIbktDmQZKYHZvlD0yTVOAQTn0tF`

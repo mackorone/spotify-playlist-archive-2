@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,460 likes - 277 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,506 likes - 277 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 276 | [What it Takes](https://open.spotify.com/track/0KgcGvK9SCLEuV0ozk7cuo) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:17 |
 | 277 | [Inbred for Generations](https://open.spotify.com/track/511Lu6jf1y9dm5XtEVzg4B) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Joanne Higginbottom](https://open.spotify.com/artist/6jH2c4lJnHcaxM2iFEEhyk) | [Fixed \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0WtAJVbwQDgRTKnasRBtNN) | 1:44 |
 
-Snapshot ID: `AAAAALPlqV/cmfLbT1md3dicfv/o2Mre`
+Snapshot ID: `AAAAAHbvNdhPi6rAyqBzX6X2kMkJISSk`

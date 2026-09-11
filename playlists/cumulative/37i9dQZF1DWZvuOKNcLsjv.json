@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Olivia Rodrigo",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Miley Cyrus",
   "name": "Next Up",
   "tracks": [
     {
@@ -7451,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+    },
+    {
+      "album": {
         "name": "Bassist",
         "url": "https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs"
       },
@@ -9352,7 +9370,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 131200,
       "name": "Bloody Paradise",
       "url": "https://open.spotify.com/track/5vlnF0r5xACeurZwjgn0Ij"
@@ -14499,6 +14517,24 @@
     },
     {
       "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "album": {
         "name": "Click",
         "url": "https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f"
       },
@@ -17550,7 +17586,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 233413,
       "name": "DAYS!",
       "url": "https://open.spotify.com/track/7pe9l8kQ5phIuHZZRpDH8v"
@@ -24693,6 +24729,40 @@
     },
     {
       "album": {
+        "name": "Feel like slowing down feat. WurtS, Deu, Ito, Takeuchi",
+        "url": "https://open.spotify.com/album/1JMP99YJUSYq7E0Er8eHan"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        },
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "Deu",
+          "url": "https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt"
+        },
+        {
+          "name": "Ito",
+          "url": "https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x"
+        },
+        {
+          "name": "Takeuchi",
+          "url": "https://open.spotify.com/artist/1zUTozTKMKBXHjwxgvCaDm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "Feel like slowing down feat. WurtS, Deu, Ito, Takeuchi",
+      "url": "https://open.spotify.com/track/72DgxjgUvTmbcUTSihVh34"
+    },
+    {
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -31686,7 +31756,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 186720,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
@@ -46870,7 +46940,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216888,
       "name": "L\u3068R",
       "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
@@ -56080,7 +56150,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217960,
       "name": "On Your Mind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
@@ -56120,6 +56190,24 @@
       "duration_ms": 225110,
       "name": "Once Upon a Night",
       "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/3UN0mVofuAOYImQpq4CM0q"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251900,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/6skd7pNQkQX4pk40taZfJ1"
     },
     {
       "album": {
@@ -63886,7 +63974,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 209000,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
@@ -73205,6 +73293,28 @@
     },
     {
       "album": {
+        "name": "Sweet Memories feat. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/4Zo01uS5I7jLhyYtaFtFgn"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252518,
+      "name": "Sweet Memories feat. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5ohDaO3JClUzxArhvn1gjr"
+    },
+    {
+      "album": {
         "name": "SWEET NONFICTION",
         "url": "https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3"
       },
@@ -80378,7 +80488,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 234134,
       "name": "Umm",
       "url": "https://open.spotify.com/track/7BSh89v209dfsLEwo7CfFX"
@@ -89015,6 +89125,28 @@
     },
     {
       "album": {
+        "name": "\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/5IgXyPdXNVT8ufwPGZHAHC"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Takkyu Ishino",
+          "url": "https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280976,
+      "name": "\u3044\u3089\u306a\u3044\uff08Takkyu Ishino Remix\uff09",
+      "url": "https://open.spotify.com/track/1utz5lL77tjNrUMrfLunhL"
+    },
+    {
+      "album": {
         "name": "\u3046\u305d\u3064\u304d",
         "url": "https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX"
       },
@@ -91952,7 +92084,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 211666,
       "name": "\u30a2\u30d7\u30ed\u30fc\u30ba",
       "url": "https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf"
@@ -95528,6 +95660,24 @@
       "duration_ms": 182040,
       "name": "\u30cf\u30a4\u30bb\u30f3\u30b9\uff1d\u30ca\u30f3\u30bb\u30f3\u30b9",
       "url": "https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30a4\u30d1\u30fc\u30c8\u30a6\u30ad\u30e7\u30a6",
+        "url": "https://open.spotify.com/album/2KPZUFDhphbtmjzL2lgAB0"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "\u30cf\u30a4\u30d1\u30fc\u30c8\u30a6\u30ad\u30e7\u30a6",
+      "url": "https://open.spotify.com/track/7cInt096LZvepyMNCbX07U"
     },
     {
       "album": {
@@ -102619,6 +102769,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/43VFHCMHiaQM6Vk1JTkdtr"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222747,
+      "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u3001\u50d5\u304c\u8003\u3048\u305f\u3053\u3068",
+      "url": "https://open.spotify.com/track/4f0swjS3zCqcaue7MpYyrN"
+    },
+    {
+      "album": {
         "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
         "url": "https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd"
       },
@@ -108140,7 +108308,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197000,
       "name": "\u88f8",
       "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
@@ -108638,6 +108806,24 @@
       "duration_ms": 199933,
       "name": "\u8d85\u6700\u5f37",
       "url": "https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK"
+    },
+    {
+      "album": {
+        "name": "\u8db3\u8de1 - Brave the unknown -",
+        "url": "https://open.spotify.com/album/1vHpl8LmUnDyOxnFJoN7mE"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253980,
+      "name": "\u8db3\u8de1 - Brave the unknown -",
+      "url": "https://open.spotify.com/track/5QuLDWUreR8OwQ69LOy8rx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Nsqk",
-  "num_followers": 870081,
+  "num_followers": 870141,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFd9nCVX7DHwN3qlddeEGWHIfLe",
+  "snapshot_id": "AAAAAPrLruXkn3wAA59GbTiKbawa4kRX",
   "tracks": [
     {
       "added_at": "2026-09-04 17:41:43",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
+        "name": "HD",
+        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193295,
+      "name": "HD",
+      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
+    },
+    {
+      "added_at": "2026-09-04 17:41:43",
+      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-09-04 17:41:43",
-      "album": {
-        "name": "HD",
-        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193295,
-      "name": "HD",
-      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
-        "name": "Es Triiste",
-        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Es Triiste",
-      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
-    },
-    {
-      "added_at": "2026-09-04 17:41:43",
-      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-09-04 17:41:43",
+      "album": {
+        "name": "Es Triiste",
+        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Es Triiste",
+      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-09-04 17:41:43",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 169098,
       "name": "VITILIGO",
       "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
+    },
+    {
+      "added_at": "2026-09-04 17:41:43",
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
-        "name": "Un Vals",
-        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
+        "name": "Repetimos",
+        "url": "https://open.spotify.com/album/7KxkbZmg6Vgb9qw6PWN2wQ"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 189791,
-      "name": "Un Vals",
-      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
+      "duration_ms": 212258,
+      "name": "Repetimos",
+      "url": "https://open.spotify.com/track/76ygErvy3Y0YwhLbbB6MvZ"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -1099,42 +1103,18 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
-        "name": "Repetimos",
-        "url": "https://open.spotify.com/album/7KxkbZmg6Vgb9qw6PWN2wQ"
+        "name": "Un Vals",
+        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
       "artists": [
         {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        },
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Repetimos",
-      "url": "https://open.spotify.com/track/76ygErvy3Y0YwhLbbB6MvZ"
-    },
-    {
-      "added_at": "2026-09-04 17:41:43",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
-      },
-      "artists": [
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        },
-        {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "La Misi\u00f3n",
-      "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
+      "duration_ms": 189791,
+      "name": "Un Vals",
+      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -1155,6 +1135,26 @@
       "duration_ms": 153745,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
+    },
+    {
+      "added_at": "2026-09-04 17:41:43",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
+      },
+      "artists": [
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
+    },
+    {
+      "added_at": "2026-09-04 17:41:43",
+      "album": {
         "name": "CRITIC\u00d3N",
         "url": "https://open.spotify.com/album/553rifH1VEpd2h2L9ntQVS"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 193390,
       "name": "Necesito Un Amor",
       "url": "https://open.spotify.com/track/1PC2LIpR9aJdcYpxqGelTk"
-    },
-    {
-      "added_at": "2026-09-04 17:41:43",
-      "album": {
-        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
       "added_at": "2026-09-04 17:41:43",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2026-09-04 17:41:43",
       "album": {
-        "name": "VIGENTE",
-        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
       "artists": [
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 200125,
-      "name": "Lo Que Por Ti Yo Siento",
-      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
+      "duration_ms": 176741,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
     }
   ],
   "unique_name": "Top M\u00e9xico",

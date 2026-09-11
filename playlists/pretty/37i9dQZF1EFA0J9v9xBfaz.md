@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199 likes - 185 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200 likes - 185 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 78 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 |
 | 79 | [JAMAICA](https://open.spotify.com/track/3mEuWQDngXevBTZLf48XDx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [BAHÍA DUCATI](https://open.spotify.com/album/444LqH6QlvR62nY8Vxn37u) | 3:44 |
 | 80 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
-| 81 | [Te Busco](https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 2:38 |
-| 82 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
+| 81 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
+| 82 | [Te Busco](https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 2:38 |
 | 83 | [PARA SIEMPRE](https://open.spotify.com/track/272vIYVYzfAgHUQRUYWmhP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:30 |
 | 84 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
 | 85 | [Playa](https://open.spotify.com/track/243jb092tx4s5UZntX2xhC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:12 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 184 | [Definitivamente](https://open.spotify.com/track/2Dms2O1sG4cAzEMHbBp5ST) | [Tomy DJ](https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z) | [Definitivamente](https://open.spotify.com/album/2CjZWrOpdiFhSR6eZlFbUO) | 3:23 |
 | 185 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Acb4EgAAAAAo2OayeynF8YY8GLwU0Nlb`
+Snapshot ID: `Acb9qAAAAAAK4XHKJ8wKyP12JrnuwfFy`

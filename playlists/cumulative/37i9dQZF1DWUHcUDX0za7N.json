@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Phyno",
+  "description": "Hip hop and rap music from Nigeria. Cover: Kayode",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -246,6 +246,28 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "album": {
@@ -1908,6 +1930,24 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
+    },
+    {
+      "album": {
+        "name": "Bere Mole",
+        "url": "https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113206,
+      "name": "Bere Mole",
+      "url": "https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X"
     },
     {
       "album": {
@@ -4816,7 +4856,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 128925,
       "name": "DUM",
       "url": "https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A"
@@ -5926,7 +5966,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156473,
       "name": "Free Service",
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
@@ -8021,6 +8061,28 @@
     },
     {
       "album": {
+        "name": "Jalolojalolo",
+        "url": "https://open.spotify.com/album/7vkFAF8eU5qmsDGMA4nIrQ"
+      },
+      "artists": [
+        {
+          "name": "Arbeema",
+          "url": "https://open.spotify.com/artist/1akMqt4EASTnd26fk977wB"
+        },
+        {
+          "name": "Dapper",
+          "url": "https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150442,
+      "name": "Jalolojalolo",
+      "url": "https://open.spotify.com/track/0JTDduagyG2ItbxOY9G5kn"
+    },
+    {
+      "album": {
         "name": "James Bond (With Harley)",
         "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
       },
@@ -8326,7 +8388,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
@@ -12374,7 +12436,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 203894,
       "name": "PARA",
       "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
@@ -15889,6 +15951,28 @@
     },
     {
       "album": {
+        "name": "IRON ORE II",
+        "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Turbulent Fellow",
+      "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
+    },
+    {
+      "album": {
         "name": "TURN THE LIGHTS ON",
         "url": "https://open.spotify.com/album/4U0WHiCDdvYJ6CuphEVi0Z"
       },
@@ -17012,7 +17096,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157794,
       "name": "WOE$KII",
       "url": "https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU"

@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 166153,
       "name": "Botano (\u00datero Baixo)",
       "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
@@ -556,6 +556,44 @@
       "duration_ms": 166153,
       "name": "Botano (\u00datero Baixo)",
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
+    },
+    {
+      "album": {
+        "name": "Botano Remixes",
+        "url": "https://open.spotify.com/album/4ShgLpcE1AlmTltZ3vvSpl"
+      },
+      "artists": [
+        {
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
+        },
+        {
+          "name": "DJ Martinelli",
+          "url": "https://open.spotify.com/artist/0qvUt5Hd1W4kEGAZSs4yJH"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Botano (\u00datero Baixo) - Automotivo - Remix",
+      "url": "https://open.spotify.com/track/3hjzq5vLt2KpIKOTuK5WnO"
     },
     {
       "album": {

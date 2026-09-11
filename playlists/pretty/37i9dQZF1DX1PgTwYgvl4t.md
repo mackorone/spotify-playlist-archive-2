@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Sunmisola Agbebi
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,982 likes - 113 songs - 16 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,068 likes - 113 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 112 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 |
 | 113 | [Ever Faithful God](https://open.spotify.com/track/7jLRsIo8ujGkyY34t9w9kS) | [Dr Ugonma](https://open.spotify.com/artist/1ezWgINGP5TC8PIOm0pSJc) | [Ever Faithful God](https://open.spotify.com/album/11th21bqmbuI7nYOQw415R) | 10:21 |
 
-Snapshot ID: `AAAAAKD081HBP5YAW4LZYc9eCx1mzeH4`
+Snapshot ID: `AAAAAPQHkxcpe7wj80CQpLga6QHPd+zs`

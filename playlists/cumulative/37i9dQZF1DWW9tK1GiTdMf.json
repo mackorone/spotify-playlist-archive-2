@@ -5515,6 +5515,28 @@
     },
     {
       "album": {
+        "name": "Che Bella Vita (con Angelina Mango)",
+        "url": "https://open.spotify.com/album/1Y3WHJSYWtpVFUNqQ0zo4b"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167828,
+      "name": "Che Bella Vita (con Angelina Mango)",
+      "url": "https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G"
+    },
+    {
+      "album": {
         "name": "CHE CAZZO STAI FACENDO?",
         "url": "https://open.spotify.com/album/31NOhXA45tGA3kqG16X5t4"
       },
@@ -5792,7 +5814,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 121402,
       "name": "CHIARA E NICOLA",
       "url": "https://open.spotify.com/track/2vFYn3aWck0rcjpBMvtiPa"
@@ -6294,6 +6316,24 @@
       "duration_ms": 126274,
       "name": "Coccinelle nere",
       "url": "https://open.spotify.com/track/0wmcchV8IeTT5YmRcrgyDW"
+    },
+    {
+      "album": {
+        "name": "COLLINE",
+        "url": "https://open.spotify.com/album/07NQLkL7JYaJYbXsroYUWC"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "COLLINE",
+      "url": "https://open.spotify.com/track/0EDa6a7HznLXm7o0e18c3Y"
     },
     {
       "album": {
@@ -19587,6 +19627,28 @@
     },
     {
       "album": {
+        "name": "Morire \u00c8 Niente",
+        "url": "https://open.spotify.com/album/45wNzX4wMXPkHcxRqTFLmY"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Morire \u00c8 Niente",
+      "url": "https://open.spotify.com/track/75Vw4uudpDQbD2piDx7KWM"
+    },
+    {
+      "album": {
         "name": "MORIREI X TE",
         "url": "https://open.spotify.com/album/143QZ5WxJJlcw6xLx6zSCl"
       },
@@ -20964,6 +21026,24 @@
       "duration_ms": 168105,
       "name": "non mi va",
       "url": "https://open.spotify.com/track/3et88aHFd0OwIR3vfzvGaB"
+    },
+    {
+      "album": {
+        "name": "non mi va",
+        "url": "https://open.spotify.com/album/6BeXh8dMnAzviM9ySpRaHi"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "non mi va",
+      "url": "https://open.spotify.com/track/0lcLLCzRlTJclhmBGcUfqs"
     },
     {
       "album": {
@@ -33081,6 +33161,24 @@
     },
     {
       "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/5wrZu25EjTsX11cjHb8pv0"
+      },
+      "artists": [
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/2HNVxgOKKw2U2ssyXJkL4U"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157048,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/64Los7ZxxX27a632VHKdqO"
+    },
+    {
+      "album": {
         "name": "under pressure",
         "url": "https://open.spotify.com/album/0UedFRyAY4eaBP8YvmhhKj"
       },
@@ -35158,6 +35256,24 @@
       "duration_ms": 140000,
       "name": "zucchero :)",
       "url": "https://open.spotify.com/track/2ssbLVBRUubfnpIsRgR2zI"
+    },
+    {
+      "album": {
+        "name": "\u00a1dimmi!",
+        "url": "https://open.spotify.com/album/6t8h28ZYnOz9BKQblq3Wa9"
+      },
+      "artists": [
+        {
+          "name": "hotelcasino",
+          "url": "https://open.spotify.com/artist/5Or3IONhWnfvHdGEYdkDs0"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "\u00a1dimmi!",
+      "url": "https://open.spotify.com/track/7eDQnii8QXtGb78GdsYw9j"
     },
     {
       "album": {

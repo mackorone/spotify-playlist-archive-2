@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Atamandike",
+        "url": "https://open.spotify.com/album/1rDGzSyG5cgv8Rk3W1zSrc"
+      },
+      "artists": [
+        {
+          "name": "Sam Mjura",
+          "url": "https://open.spotify.com/artist/1IcS7BLrUJTNOUAd3Yc9Ki"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695754,
+      "name": "Atamandike",
+      "url": "https://open.spotify.com/track/0RRUV0QGiT9moyFxb1TY4U"
+    },
+    {
+      "album": {
         "name": "Atayamaliza",
         "url": "https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK"
       },
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 234545,
       "name": "Mtoto Wa Mfalme",
       "url": "https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT"
@@ -4760,6 +4778,24 @@
       "duration_ms": 233269,
       "name": "Rien",
       "url": "https://open.spotify.com/track/4xUgJ7IlDRhCEbjZwPaZS3"
+    },
+    {
+      "album": {
+        "name": "Roho Wa Bwana (Live)",
+        "url": "https://open.spotify.com/album/46DoL5j5ZmePvrIZEN1XL3"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Wanjiru",
+          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797250,
+      "name": "Roho Wa Bwana - Live",
+      "url": "https://open.spotify.com/track/1FjSPs2mz84ESNUOMOsE2x"
     },
     {
       "album": {

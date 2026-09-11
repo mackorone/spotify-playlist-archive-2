@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,887 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,980 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 29 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
 | 30 | [Khushi Jab Bhi Teri \(Feat\. Khushalii Kumar\)](https://open.spotify.com/track/0DqXA397QkcVjWq5Wa7DMt) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Khushi Jab Bhi Teri \(Feat\. Khushalii Kumar\)](https://open.spotify.com/album/2VZlJpjJ4PD4DnVf2yPphq) | 4:00 |
 | 31 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
-| 32 | [Haara](https://open.spotify.com/track/3HW9WKTpCqjgtESauc9D0Z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:55 |
-| 33 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
+| 32 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
+| 33 | [Haara](https://open.spotify.com/track/3HW9WKTpCqjgtESauc9D0Z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:55 |
 | 34 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
 | 35 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
 | 36 | [Main Jis Din Bhulaa Du](https://open.spotify.com/track/6X3FjTFOKsj7FQk2rd0gPv) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Main Jis Din Bhulaa Du](https://open.spotify.com/album/16AQy6HuGxznQphzEGlAPd) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \- From The Living Room](https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn) | 5:07 |
 | 50 | [Khayaal Na Aaya \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5) | [Inderjeet Singh](https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 4:06 |
 
-Snapshot ID: `AAAAAHenFXOMvuOu/zYe8NWl98EIAVpX`
+Snapshot ID: `AAAAAK8EZ8UiY7dF6e0VwrcQ0Q+zBfG2`

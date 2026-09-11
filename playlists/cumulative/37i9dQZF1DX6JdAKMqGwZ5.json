@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Dianka, La Bien Querida.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Cari\u00f1o.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 166621,
       "name": "0MG!",
       "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
+    },
+    {
+      "album": {
+        "name": "1 DE 1000",
+        "url": "https://open.spotify.com/album/1wX7SVTZiiAPPpGgplp1O9"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159594,
+      "name": "1 DE 1000",
+      "url": "https://open.spotify.com/track/6a6tB9dTifkzJqTfoYgQjT"
     },
     {
       "album": {
@@ -952,7 +974,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156867,
       "name": "Alguien Habr\u00e1",
       "url": "https://open.spotify.com/track/06fi0UOJyE9PPsOvsfbTUQ"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 219200,
       "name": "BK4DA2624804",
       "url": "https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz"
@@ -4062,6 +4084,28 @@
       "duration_ms": 188693,
       "name": "desayunarte",
       "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
+    },
+    {
+      "album": {
+        "name": "Desconocida",
+        "url": "https://open.spotify.com/album/1syi2G4wHDHxRr7BDDbRzv"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        },
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Desconocida",
+      "url": "https://open.spotify.com/track/7bYigOGZj0kB0Gop3s5JKo"
     },
     {
       "album": {
@@ -6472,7 +6516,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 183000,
       "name": "FLORES EN EL ASFALTO",
       "url": "https://open.spotify.com/track/1Gcfv2I9I2zl5rTyqzgd9q"
@@ -7715,6 +7759,24 @@
     },
     {
       "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/046me1u5ZInKJ8u7oiNNP9"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Vecino",
+          "url": "https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/3qgPr7JdhaD4poqKQN5u6e"
+    },
+    {
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf"
       },
@@ -8251,6 +8313,24 @@
     },
     {
       "album": {
+        "name": "LA LUZ QUE NO SE APAGA",
+        "url": "https://open.spotify.com/album/5q2QkhiEkL0dVpjOxyLbtJ"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "LA LUZ QUE NO SE APAGA",
+      "url": "https://open.spotify.com/track/1a0ub8scX8B2lRiVUocBpQ"
+    },
+    {
+      "album": {
         "name": "La manzana",
         "url": "https://open.spotify.com/album/6SxNuYtWMAHckzXGFnLjU9"
       },
@@ -8562,6 +8642,24 @@
       "duration_ms": 216187,
       "name": "las cosas bien",
       "url": "https://open.spotify.com/track/7hEazLRuPCLsPIoil61a8D"
+    },
+    {
+      "album": {
+        "name": "Las cosas que te dir\u00eda",
+        "url": "https://open.spotify.com/album/1GQCQY36YURGyeUpF0qSxc"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184717,
+      "name": "Las cosas que te dir\u00eda",
+      "url": "https://open.spotify.com/track/2RmGyojyaBOkqjJmF1je0F"
     },
     {
       "album": {
@@ -9258,6 +9356,28 @@
       "duration_ms": 148336,
       "name": "Los hijos del odio",
       "url": "https://open.spotify.com/track/1NZ45VxktEqT6hXpcV7J68"
+    },
+    {
+      "album": {
+        "name": "Los rumores eran ciertos",
+        "url": "https://open.spotify.com/album/1UzLV5aqowdADpEGM99AkU"
+      },
+      "artists": [
+        {
+          "name": "Venga, Bea",
+          "url": "https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM"
+        },
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Los rumores eran ciertos",
+      "url": "https://open.spotify.com/track/2znmQg6PhbUBgvlUASFAyY"
     },
     {
       "album": {
@@ -10577,6 +10697,24 @@
     },
     {
       "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/2oOxmvY2FdRF1xXQbu0zwN"
+      },
+      "artists": [
+        {
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245757,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/4q4pz6XtMI7rZLPNniyhwc"
+    },
+    {
+      "album": {
         "name": "Monte perdido / Celina",
         "url": "https://open.spotify.com/album/297D9IeWM7tyxFEvDFCBhe"
       },
@@ -11476,7 +11614,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 150379,
       "name": "No me Sueltes",
       "url": "https://open.spotify.com/track/4GHDwaTDba6xlGey1pCGwo"
@@ -12672,7 +12810,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 242848,
       "name": "Pendiente De M\u00ed",
       "url": "https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok"
@@ -12788,6 +12926,24 @@
       "duration_ms": 152604,
       "name": "phill collinX",
       "url": "https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP"
+    },
+    {
+      "album": {
+        "name": "picapica",
+        "url": "https://open.spotify.com/album/1AH8Id3umjlv9ghvNXNP7Q"
+      },
+      "artists": [
+        {
+          "name": "julia de arco",
+          "url": "https://open.spotify.com/artist/1xcWruysQvgQWZw3VIgYgI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "picapica",
+      "url": "https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8"
     },
     {
       "album": {
@@ -13584,7 +13740,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 183638,
       "name": "Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/7MDl8VL8Pt5QdlbXTc8j2y"
@@ -13964,6 +14120,24 @@
       "duration_ms": 154271,
       "name": "ROMPERME EN DOS",
       "url": "https://open.spotify.com/track/4Oq22v8OiWfFiMKQBaOOeq"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "album": {
@@ -14616,7 +14790,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 186452,
       "name": "SIENTO",
       "url": "https://open.spotify.com/track/2Y39JD1iKKFUW3m8J7tJ1b"
@@ -17190,7 +17364,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169150,
       "name": "Volar",
       "url": "https://open.spotify.com/track/2qfRr8M9CsceZGIn3MAAQe"

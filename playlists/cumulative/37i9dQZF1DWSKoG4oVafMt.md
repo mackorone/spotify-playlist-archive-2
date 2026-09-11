@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-1,184 songs - 2 day 15 hr 51 min
+1,186 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2021-12-02 | 2024-04-06 |
 | [Do Hissey](https://open.spotify.com/track/0Sln5XlPBiMxKFQklKhx4I) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Do Hissey](https://open.spotify.com/album/26lBkvxDZX1zjFpY3i68sv) | 2:48 | 2025-03-09 | 2025-04-08 |
 | [Do Naina](https://open.spotify.com/track/5WjQaVXmQFxQyGGdqPLkkW) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Do Naina](https://open.spotify.com/album/0EVUyfD6cz5l3lrgpRmptO) | 3:44 | 2022-02-08 | 2022-03-11 |
-| [Do Pal](https://open.spotify.com/track/3Zr6QUmun7ewdGW4E1kBAd) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Do Pal](https://open.spotify.com/album/2FrlbtH9wYEfd2mQVk342S) | 1:53 | 2025-03-05 |  |
+| [Do Pal](https://open.spotify.com/track/3Zr6QUmun7ewdGW4E1kBAd) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Do Pal](https://open.spotify.com/album/2FrlbtH9wYEfd2mQVk342S) | 1:53 | 2025-03-05 | 2026-09-11 |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2026-05-27 | 2026-06-15 |
 | [Do You Know](https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [In Love With Diljit Dosanjh](https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD) | 3:32 | 2023-05-05 |  |
 | [Don't Worry](https://open.spotify.com/track/0u84r42pZq95AQEDWo8i1i) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 2:26 | 2022-01-17 | 2022-04-06 |
@@ -1141,8 +1141,10 @@
 | [Waalian](https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Waalian](https://open.spotify.com/album/3UlQdsscMNX2rCZ50WYuR7) | 3:38 | 2025-03-05 | 2026-07-07 |
 | [Wafa \- From "Jind Mahi"](https://open.spotify.com/track/3q1MY7KBL8NsLcjphsnB2L) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Wafa \(From "Jind Mahi"\)](https://open.spotify.com/album/43vXwZ0A0uqm7AlTEZQkSk) | 3:33 | 2022-07-29 | 2023-02-04 |
 | [Waja](https://open.spotify.com/track/1xrYjUmXmbJRCNuTGqBmS2) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Waja](https://open.spotify.com/album/5Op1WZIYTjQTlqXVYMyZDN) | 3:00 | 2022-02-03 | 2022-03-11 |
+| [Wakh Ni Ho Sakde \(From “Bol Bhavein Na Bol”\)](https://open.spotify.com/track/5DyhTEZVQ7njeSINhxpY3q) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Abeer](https://open.spotify.com/artist/5AdvC69twrXkysaR34BDmM), [Sunny Vik](https://open.spotify.com/artist/0w7vYjdZtzd1zSmPfY0mKe) | [Wakh Ni Ho Sakde \(From “Bol Bhavein Na Bol”\)](https://open.spotify.com/album/2kLnzqstBT6um2T5Hgu0Ku) | 3:16 | 2026-09-10 |  |
+| [Waliyan](https://open.spotify.com/track/7mUdTT1OXUwuSJfnljWB2b) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:52 | 2026-09-10 |  |
 | [Walk Talk](https://open.spotify.com/track/7hCXra10hAFhcziuZhgeWt) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Walk Talk](https://open.spotify.com/album/3KK9YfVhqfmd73O72iub8T) | 3:42 | 2023-12-18 | 2024-01-31 |
-| [WANG](https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:22 | 2026-05-22 |  |
+| [WANG](https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:22 | 2026-05-22 | 2026-09-11 |
 | [Wang Tut Gyi](https://open.spotify.com/track/6mVllu47msCKvF0kFN6Ma4) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Wang Tut Gyi](https://open.spotify.com/album/6mALhy205IRnUevHx7mk43) | 2:19 | 2022-07-05 | 2022-07-08 |
 | [Wanga](https://open.spotify.com/track/7jio2ibU8YYrlKzWzmdgXU) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Wanga](https://open.spotify.com/album/1tmjTkjz5XPlMCiSB0d95L) | 3:39 | 2022-11-07 | 2023-02-02 |
 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 | 2025-02-15 |  |

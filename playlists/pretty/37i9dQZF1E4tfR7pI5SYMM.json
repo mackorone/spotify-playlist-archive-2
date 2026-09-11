@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haneke Twins",
-        "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
-      },
-      "artists": [
-        {
-          "name": "Haneke Twins",
-          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
-        }
-      ],
-      "duration_ms": 220376,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Generating Station Complex",
         "url": "https://open.spotify.com/album/070SquMp0lfMW3yicWxLhm"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 187118,
       "name": "Moscow Idaho - GSCX Version",
       "url": "https://open.spotify.com/track/6f8lwYFmqxYHYhklisBMPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haneke Twins",
+        "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "duration_ms": 220376,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
     },
     {
       "added_at": null,
@@ -159,18 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Night in Las Cruces",
-        "url": "https://open.spotify.com/album/4braX0GOzq358eNTUW9DuJ"
+        "name": "\u00bf (Metropolis Remaster)",
+        "url": "https://open.spotify.com/album/3BkQbYjc2p95LeAl1aTCy6"
       },
       "artists": [
         {
-          "name": "R\u00f6swell",
-          "url": "https://open.spotify.com/artist/7q1PLwTm4UVWqWBWq9v2or"
+          "name": "alles w\u00bfrd gut",
+          "url": "https://open.spotify.com/artist/1DdDjMbO4CdlAoJsjGTHzQ"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Last Night in Las Cruces",
-      "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
+      "duration_ms": 282133,
+      "name": "Verschworen (Metropolis Remaster)",
+      "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
     },
     {
       "added_at": null,
@@ -195,18 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bf (Metropolis Remaster)",
-        "url": "https://open.spotify.com/album/3BkQbYjc2p95LeAl1aTCy6"
+        "name": "Last Night in Las Cruces",
+        "url": "https://open.spotify.com/album/4braX0GOzq358eNTUW9DuJ"
       },
       "artists": [
         {
-          "name": "alles w\u00bfrd gut",
-          "url": "https://open.spotify.com/artist/1DdDjMbO4CdlAoJsjGTHzQ"
+          "name": "R\u00f6swell",
+          "url": "https://open.spotify.com/artist/7q1PLwTm4UVWqWBWq9v2or"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Verschworen (Metropolis Remaster)",
-      "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
+      "duration_ms": 243176,
+      "name": "Last Night in Las Cruces",
+      "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
     },
     {
       "added_at": null,
@@ -231,34 +231,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Witness Tree",
-        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
+        "name": "Generating Station Complex",
+        "url": "https://open.spotify.com/album/070SquMp0lfMW3yicWxLhm"
       },
       "artists": [
         {
-          "name": "IKON",
-          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
+          "name": "The Cassandra Complex",
+          "url": "https://open.spotify.com/artist/3NhBwiq1BSgJg7HMJPlwVT"
         }
       ],
-      "duration_ms": 217733,
-      "name": "The Witness Tree",
-      "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
+      "duration_ms": 288750,
+      "name": "Why - GSCX Version",
+      "url": "https://open.spotify.com/track/5ckfbTyCUpgVfQA9u3gip3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nighttrippin",
-        "url": "https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8"
+        "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
+        "url": "https://open.spotify.com/album/20xCIRw9LRMIGUu43JtON1"
       },
       "artists": [
         {
-          "name": "Dance Commander",
-          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+          "name": "Vacum",
+          "url": "https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Nighttrippin",
-      "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
+      "duration_ms": 162200,
+      "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
+      "url": "https://open.spotify.com/track/08UtDhh6FVO4t0RMaVBRzU"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Witness Tree",
+        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
+      },
+      "artists": [
+        {
+          "name": "IKON",
+          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "The Witness Tree",
+      "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOLITUDE",
         "url": "https://open.spotify.com/album/51rMBZO5r6mD7pumSQJ0l4"
       },
@@ -291,6 +307,22 @@
       "duration_ms": 229908,
       "name": "SOLITUDE",
       "url": "https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nighttrippin",
+        "url": "https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8"
+      },
+      "artists": [
+        {
+          "name": "Dance Commander",
+          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Nighttrippin",
+      "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
     },
     {
       "added_at": null,
@@ -311,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at Paradiso",
         "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
       },
@@ -323,38 +371,6 @@
       "duration_ms": 214000,
       "name": "Dreams Aren't Enough - Live at Paradiso",
       "url": "https://open.spotify.com/track/6zNQZSpxBsTJbBk8kjIBqA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/6b5PEThEEZlaqwftCs6fUT"
-      },
-      "artists": [
-        {
-          "name": "VINTERGRAV",
-          "url": "https://open.spotify.com/artist/0IYU8yHsIGv0JHIgs8rTle"
-        }
-      ],
-      "duration_ms": 303108,
-      "name": "Blissful Sanguine",
-      "url": "https://open.spotify.com/track/77w2k8O21mGQEai3KfFlrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borte vekk i sola",
-        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 184162,
-      "name": "Borte vekk i sola",
-      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
     },
     {
       "added_at": null,
@@ -375,18 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Theatre",
-        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/6b5PEThEEZlaqwftCs6fUT"
       },
       "artists": [
         {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+          "name": "VINTERGRAV",
+          "url": "https://open.spotify.com/artist/0IYU8yHsIGv0JHIgs8rTle"
         }
       ],
-      "duration_ms": 196852,
-      "name": "Isobel",
-      "url": "https://open.spotify.com/track/5nR2RHSFmhlKN2dLK7ucOW"
+      "duration_ms": 303108,
+      "name": "Blissful Sanguine",
+      "url": "https://open.spotify.com/track/77w2k8O21mGQEai3KfFlrM"
     },
     {
       "added_at": null,
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e5t som inte \u00e4r svart",
-        "url": "https://open.spotify.com/album/7zlCmhAfEF7uLoZUsGbHBn"
-      },
-      "artists": [
-        {
-          "name": "\u00d6STKUSTEN",
-          "url": "https://open.spotify.com/artist/7orPQ8R0qGhgKsLhi8QjZO"
-        }
-      ],
-      "duration_ms": 253909,
-      "name": "Genom sm\u00e4rta",
-      "url": "https://open.spotify.com/track/79OhJsAo6NtdoFPB4f0wnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -439,6 +439,38 @@
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Theatre",
+        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "duration_ms": 196852,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/5nR2RHSFmhlKN2dLK7ucOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e5t som inte \u00e4r svart",
+        "url": "https://open.spotify.com/album/7zlCmhAfEF7uLoZUsGbHBn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6STKUSTEN",
+          "url": "https://open.spotify.com/artist/7orPQ8R0qGhgKsLhi8QjZO"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Genom sm\u00e4rta",
+      "url": "https://open.spotify.com/track/79OhJsAo6NtdoFPB4f0wnH"
     },
     {
       "added_at": null,
@@ -475,40 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Personal Paradox",
-        "url": "https://open.spotify.com/album/4RNWhXX97tmu8tOMLIKrcf"
-      },
-      "artists": [
-        {
-          "name": "Peter Street",
-          "url": "https://open.spotify.com/artist/0OlVIx58sjXrQOjS0LbzPk"
-        }
-      ],
-      "duration_ms": 296484,
-      "name": "Personal Paradox",
-      "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Paradiso",
-        "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
-      },
-      "artists": [
-        {
-          "name": "IST IST",
-          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Burning - Live at Paradiso",
-      "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+        "name": "Borte vekk i sola",
+        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+      "duration_ms": 184162,
+      "name": "Borte vekk i sola",
+      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Paradiso",
+        "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Burning - Live at Paradiso",
+      "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
     },
     {
       "added_at": null,
@@ -587,34 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Witness Tree",
-        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
+        "name": "Personal Paradox",
+        "url": "https://open.spotify.com/album/4RNWhXX97tmu8tOMLIKrcf"
       },
       "artists": [
         {
-          "name": "IKON",
-          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
+          "name": "Peter Street",
+          "url": "https://open.spotify.com/artist/0OlVIx58sjXrQOjS0LbzPk"
         }
       ],
-      "duration_ms": 220506,
-      "name": "My Black Mirror",
-      "url": "https://open.spotify.com/track/06FB6M3MM69kGzK3UneyH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dirt Box",
-        "url": "https://open.spotify.com/album/2xsn719Y8uwA1swjbyBvki"
-      },
-      "artists": [
-        {
-          "name": "PIG",
-          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
-        }
-      ],
-      "duration_ms": 242716,
-      "name": "Infidel",
-      "url": "https://open.spotify.com/track/6LBSxI4JJSy08sHShrScyF"
+      "duration_ms": 296484,
+      "name": "Personal Paradox",
+      "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
     },
     {
       "added_at": null,
@@ -635,18 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Theatre",
-        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+        "name": "Dirt Box",
+        "url": "https://open.spotify.com/album/2xsn719Y8uwA1swjbyBvki"
       },
       "artists": [
         {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+          "name": "PIG",
+          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
         }
       ],
-      "duration_ms": 193851,
-      "name": "Severed",
-      "url": "https://open.spotify.com/track/2EjnzihPrWsQlPTl2dTTNa"
+      "duration_ms": 242716,
+      "name": "Infidel",
+      "url": "https://open.spotify.com/track/6LBSxI4JJSy08sHShrScyF"
     },
     {
       "added_at": null,
@@ -667,18 +667,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
-        "url": "https://open.spotify.com/album/20xCIRw9LRMIGUu43JtON1"
+        "name": "The Witness Tree",
+        "url": "https://open.spotify.com/album/51htr1aOOty6Pw0EoTzGQP"
       },
       "artists": [
         {
-          "name": "Vacum",
-          "url": "https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO"
+          "name": "IKON",
+          "url": "https://open.spotify.com/artist/7dkDCTVzTq43IpyrF5UgRD"
         }
       ],
-      "duration_ms": 162200,
-      "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
-      "url": "https://open.spotify.com/track/08UtDhh6FVO4t0RMaVBRzU"
+      "duration_ms": 220506,
+      "name": "My Black Mirror",
+      "url": "https://open.spotify.com/track/06FB6M3MM69kGzK3UneyH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Theatre",
+        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "duration_ms": 193851,
+      "name": "Severed",
+      "url": "https://open.spotify.com/track/2EjnzihPrWsQlPTl2dTTNa"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Totenritual",
-        "url": "https://open.spotify.com/album/2lQxrjzd3UpzHMxEL3TPoS"
-      },
-      "artists": [
-        {
-          "name": "Verrottet",
-          "url": "https://open.spotify.com/artist/3LVDuMvcTZkTZoFl0A7yoQ"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Totentanz (2026)",
-      "url": "https://open.spotify.com/track/6moX3aZh4qtG79yUMbB4XP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 107000,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3X9JyeZzLbsTeLDzP1WcNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Paradiso",
-        "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
-      },
-      "artists": [
-        {
-          "name": "IST IST",
-          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Black - Live at Paradiso",
-      "url": "https://open.spotify.com/track/5WYN0jbnnhp9b6p5mq9VEb"
     },
     {
       "added_at": null,
@@ -763,6 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at Paradiso",
+        "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Black - Live at Paradiso",
+      "url": "https://open.spotify.com/track/5WYN0jbnnhp9b6p5mq9VEb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Totenritual",
+        "url": "https://open.spotify.com/album/2lQxrjzd3UpzHMxEL3TPoS"
+      },
+      "artists": [
+        {
+          "name": "Verrottet",
+          "url": "https://open.spotify.com/artist/3LVDuMvcTZkTZoFl0A7yoQ"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Totentanz (2026)",
+      "url": "https://open.spotify.com/track/6moX3aZh4qtG79yUMbB4XP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simply Three Chords In My Heart",
         "url": "https://open.spotify.com/album/5BwxOEHGD0Ll8L8Vy9SYeh"
       },
@@ -775,6 +791,38 @@
       "duration_ms": 86105,
       "name": "You Got Alone",
       "url": "https://open.spotify.com/track/6PMw1fsBFPPWxjcl7kbZ9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Stikk Av",
+      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
     },
     {
       "added_at": null,
@@ -811,58 +859,6 @@
       "duration_ms": 153678,
       "name": "Take It On",
       "url": "https://open.spotify.com/track/6BXfxztpnH9oBsZUyQhvOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Stikk Av",
-      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lost Theatre",
-        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
-      },
-      "artists": [
-        {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
-        }
-      ],
-      "duration_ms": 200636,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/4SVevBfmx6XLv36i52xNRV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are \"Friends\" Electric?",
-        "url": "https://open.spotify.com/album/1AJmqaG5bRPrxlnYt5iDAb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brind",
-          "url": "https://open.spotify.com/artist/4fSLCXpfsE4mOx1sjKhTX4"
-        },
-        {
-          "name": "Rob Doom of Gunpoint X",
-          "url": "https://open.spotify.com/artist/2opjcnwE3oOUx9Qg7rmvK1"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Are \"Friends\" Electric?",
-      "url": "https://open.spotify.com/track/6AR99vxZMkN6aDPTSau5aR"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

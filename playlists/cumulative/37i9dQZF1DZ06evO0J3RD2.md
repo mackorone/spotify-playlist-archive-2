@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 35 min
+61 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Deadly Dull](https://open.spotify.com/track/4qod43EImMolOovemD03is) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:47 | 2024-05-12 |  |
 | [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-10 |  |
 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 | 2022-09-16 | 2026-02-11 |
-| [Everyone I've Ever Been](https://open.spotify.com/track/6WJzH3L0fS6a14wa8xC84c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:20 | 2026-09-06 |  |
-| [Everything Is Fine](https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Everything Is Fine](https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i) | 3:27 | 2026-06-14 |  |
+| [Everyone I've Ever Been](https://open.spotify.com/track/6WJzH3L0fS6a14wa8xC84c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:20 | 2026-09-06 | 2026-09-11 |
+| [Everything Is Fine](https://open.spotify.com/track/0y7psOQPFGBxLSkABDtmVx) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:27 | 2026-09-11 |  |
+| [Everything Is Fine](https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Everything Is Fine](https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i) | 3:27 | 2026-06-14 | 2026-09-11 |
 | [Fail You](https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:06 | 2023-08-28 | 2025-11-01 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-27 | 2023-08-29 |
 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 | 2022-09-16 | 2024-07-20 |

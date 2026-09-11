@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ocevne",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 127152,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn"
@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156891,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz"
+    },
+    {
+      "album": {
         "name": "C'est ma vie",
         "url": "https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 106400,
       "name": "Chang\u00e9",
       "url": "https://open.spotify.com/track/1ojup8iwvq5SUFvuBMfDfh"
@@ -2888,7 +2906,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 154906,
       "name": "copycat",
       "url": "https://open.spotify.com/track/6ZerSQuXzY2qpL1ntAuJZL"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 195886,
       "name": "D\u00e9g\u00e2ts",
       "url": "https://open.spotify.com/track/1zIyD2YvfkKCPgR293M9Lu"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152066,
       "name": "Encore un peu",
       "url": "https://open.spotify.com/track/45aLIXeOgnpug7hhsA1MWS"
@@ -11443,6 +11461,24 @@
     },
     {
       "album": {
+        "name": "REINE",
+        "url": "https://open.spotify.com/album/2vM7EWw08O9vQ5vj1sSYC0"
+      },
+      "artists": [
+        {
+          "name": "Gtnn",
+          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145188,
+      "name": "REINE",
+      "url": "https://open.spotify.com/track/7enUPe7HAWaeGsI2G7S3gk"
+    },
+    {
+      "album": {
         "name": "RendezVOUS",
         "url": "https://open.spotify.com/album/072DDlsUr6lEJsmLqYGkhd"
       },
@@ -11550,6 +11586,24 @@
       "duration_ms": 161082,
       "name": "Reviens jamais",
       "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
+    },
+    {
+      "album": {
+        "name": "Studio Session",
+        "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm"
     },
     {
       "album": {
@@ -13802,7 +13856,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 154308,
       "name": "Ton ami",
       "url": "https://open.spotify.com/track/5y9PO55CVd93DtgSoxOMug"
@@ -14175,6 +14229,24 @@
     },
     {
       "album": {
+        "name": "une autre",
+        "url": "https://open.spotify.com/album/4xZuwvCBeOSthum2QHFAx7"
+      },
+      "artists": [
+        {
+          "name": "Cikey",
+          "url": "https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169212,
+      "name": "une autre",
+      "url": "https://open.spotify.com/track/2ZcjKLZkEYseB3gQMwA06p"
+    },
+    {
+      "album": {
         "name": "Une danse",
         "url": "https://open.spotify.com/album/7kKQWWyQjRXDGjh2ANzAqg"
       },
@@ -14368,6 +14440,24 @@
       "duration_ms": 145831,
       "name": "Vie d\u2019apr\u00e8s",
       "url": "https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu"
+    },
+    {
+      "album": {
+        "name": "Viens qu'on se fatigue",
+        "url": "https://open.spotify.com/album/3u7p4p6n2kLEzP4aP87rEv"
+      },
+      "artists": [
+        {
+          "name": "Papi Jay",
+          "url": "https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Viens qu'on se fatigue",
+      "url": "https://open.spotify.com/track/5kSiiAu3p9LsJnw7Fz4evF"
     },
     {
       "album": {
@@ -14690,6 +14780,24 @@
       "duration_ms": 136471,
       "name": "Zina",
       "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
+    },
+    {
+      "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "album": {

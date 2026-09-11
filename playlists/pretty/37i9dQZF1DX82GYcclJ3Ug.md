@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,115 likes - 155 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,183 likes - 155 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 154 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 |
 | 155 | [Red Light](https://open.spotify.com/track/5HmtVI8Zu6PljE6PgrEBTy) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [Red Light](https://open.spotify.com/album/3Q583H3vpTt6aSSUVDyfOf) | 2:55 |
 
-Snapshot ID: `AAAAANn1aW2AH/3IKkK1oVaz1YksuW/p`
+Snapshot ID: `AAAAAM08vixfupGJtDkwBcvyi4lDaVfF`

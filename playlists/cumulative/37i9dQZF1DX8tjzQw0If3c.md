@@ -4,7 +4,7 @@
 
 > Meet the future\. Cover: quiet morning
 
-331 songs - 18 hr 2 min
+332 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 | 2025-04-16 |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-12-05 |
 | [Feel The Same](https://open.spotify.com/track/2e6RKDGy1H8eZXqAkMxZA2) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/7pIB5u9qoSnakys0SgUQho) | 2:52 | 2024-12-04 | 2025-04-16 |
+| [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 | 2026-09-10 |  |
 | [Find My Way](https://open.spotify.com/track/5HXyUHV7K2OmRoYQ0sVFa7) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:44 | 2025-02-13 | 2025-04-16 |
 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 | 2026-06-25 |  |
 | [FOOLED](https://open.spotify.com/track/1VHJJ9e9cYiYZ2vTeYJCWw) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [FOOLED](https://open.spotify.com/album/6XKnNZ3GHLBXdHxD9NNpwW) | 3:38 | 2025-09-26 | 2026-04-07 |

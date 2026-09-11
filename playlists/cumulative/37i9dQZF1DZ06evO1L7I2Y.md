@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 7 min
+73 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Anna](https://open.spotify.com/track/45lXdJeVnr8OJQW31Ixwoh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:29 | 2023-12-30 | 2024-04-27 |
 | [Anna](https://open.spotify.com/track/7efyDv6P8gaX3Im5nByK5n) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 1:29 | 2024-04-28 | 2024-12-11 |
 | [Bizarro](https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k) | [NIKITO Labrae](https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg), [BPP Tan](https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Downhill Domination \- SECOND EDITION](https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN) | 4:11 | 2023-12-30 |  |
-| [Clyde e Bonnie](https://open.spotify.com/track/4mntgu8UotzfrrUo1g5mDM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Clyde e Bonnie](https://open.spotify.com/album/7y7hLgMJbRPSL40D7PGD80) | 2:38 | 2026-06-14 |  |
+| [Clyde e Bonnie](https://open.spotify.com/track/4mntgu8UotzfrrUo1g5mDM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Clyde e Bonnie](https://open.spotify.com/album/7y7hLgMJbRPSL40D7PGD80) | 2:38 | 2026-06-14 | 2026-09-11 |
+| [Clyde e Bonnie](https://open.spotify.com/track/3gxU7BXF5N3we0uzFx3PRN) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O pequeno GRANDE HOMEM](https://open.spotify.com/album/6tbW0K3euMUPWkCA25LA1n) | 2:38 | 2026-09-11 |  |
 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 | 2023-12-30 |  |
 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 | 2023-12-30 |  |
 | [Culpa](https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 | 2023-12-30 | 2024-04-28 |

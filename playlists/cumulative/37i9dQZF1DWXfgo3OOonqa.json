@@ -5864,7 +5864,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176470,
       "name": "Betongdjungeln",
       "url": "https://open.spotify.com/track/7mbYDlDri7yg69untQzVeL"
@@ -17878,7 +17878,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 127304,
       "name": "G\u00c5TA",
       "url": "https://open.spotify.com/track/6CaQmSpzysh13fvrynvy5I"
@@ -19912,7 +19912,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 118064,
       "name": "Hur jag m\u00e5r",
       "url": "https://open.spotify.com/track/41rvKibvrAFFQDwB8fEq4l"
@@ -27411,6 +27411,24 @@
     },
     {
       "album": {
+        "name": "Malo Malo (Klack)",
+        "url": "https://open.spotify.com/album/1vAkyabdB7jUZT6NuDqTUI"
+      },
+      "artists": [
+        {
+          "name": "Rami Bazi",
+          "url": "https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145990,
+      "name": "Malo Malo (Klack)",
+      "url": "https://open.spotify.com/track/3ICyFrEE6ga4pyhb1i41bw"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/4b6z4aF15XG89yRgmfkgcI"
       },
@@ -30902,6 +30920,24 @@
       "duration_ms": 129599,
       "name": "Narnia",
       "url": "https://open.spotify.com/track/3NCzRhRPSgkKe7dgzGQyMk"
+    },
+    {
+      "album": {
+        "name": "K\u00e4rleksmartyrer II",
+        "url": "https://open.spotify.com/album/2SINbkLAUomo2lL55rc01F"
+      },
+      "artists": [
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179459,
+      "name": "Nasini",
+      "url": "https://open.spotify.com/track/0R4NRSS9jH7ciOi7ayvQdb"
     },
     {
       "album": {
@@ -35456,7 +35492,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152967,
       "name": "REAL BADMAN",
       "url": "https://open.spotify.com/track/6O4nlsMxQfatN8a9Mj7L7b"
@@ -35642,6 +35678,24 @@
       "duration_ms": 155126,
       "name": "Respiration",
       "url": "https://open.spotify.com/track/24ZmxjRLRMykPYbR4CjvQe"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/7ooGHtHXunbRyohHb6mGMF"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131763,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6itdV2tNZexpphrEfZGiXC"
     },
     {
       "album": {
@@ -37394,7 +37448,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 167706,
       "name": "SHAKIRA",
       "url": "https://open.spotify.com/track/0iJkitQ01HvS0CBmwVS9he"
@@ -38283,6 +38337,24 @@
     },
     {
       "album": {
+        "name": "SLAJNA",
+        "url": "https://open.spotify.com/album/36xKCmDBpiLF8L7HNalHk9"
+      },
+      "artists": [
+        {
+          "name": "IRM\u00c3O",
+          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143147,
+      "name": "SLAJNA",
+      "url": "https://open.spotify.com/track/7vf6YBZb2ZSvuOJOUg3hGG"
+    },
+    {
+      "album": {
         "name": "Slim Thick",
         "url": "https://open.spotify.com/album/48y9ck9AA5inMgK6wBfR9U"
       },
@@ -38678,6 +38750,28 @@
       "duration_ms": 214285,
       "name": "Snett",
       "url": "https://open.spotify.com/track/6SIEpHVSUUQGRLdft8msFW"
+    },
+    {
+      "album": {
+        "name": "Snubbe (BTB)",
+        "url": "https://open.spotify.com/album/73kOt4YpaFsuXxBxN0ZH5Q"
+      },
+      "artists": [
+        {
+          "name": "RMTB",
+          "url": "https://open.spotify.com/artist/2k594FnLDn6R7yMkmtOTm5"
+        },
+        {
+          "name": "ISON",
+          "url": "https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Snubbe (BTB)",
+      "url": "https://open.spotify.com/track/613EnGm3kWJJcd0r21kzMm"
     },
     {
       "album": {

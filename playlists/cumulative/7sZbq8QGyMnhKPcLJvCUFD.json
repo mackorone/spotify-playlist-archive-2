@@ -10979,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "NCS Greatest Hits Mashup",
+        "url": "https://open.spotify.com/album/1br0mq9mceMN7oPyDxqGI0"
+      },
+      "artists": [
+        {
+          "name": "NCS & Friends",
+          "url": "https://open.spotify.com/artist/3sHZR8j1gqs1dq8vCGeQwi"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297429,
+      "name": "NCS Greatest Hits Mashup",
+      "url": "https://open.spotify.com/track/5dt0Br8UmB0k7WPxOF39Kt"
+    },
+    {
+      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b"
       },

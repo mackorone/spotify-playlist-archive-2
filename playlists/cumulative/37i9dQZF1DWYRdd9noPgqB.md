@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-509 songs - 1 day 3 hr 53 min
+510 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Colors \(Feat\. Nic Hanson\)](https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH) | 3:38 | 2024-11-21 | 2025-03-28 |
 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 | 2024-06-13 | 2024-08-23 |
 | [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 | 2024-02-15 | 2024-03-30 |
+| [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 | 2026-09-10 |  |
 | [Cruise Control](https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Cruise Control](https://open.spotify.com/album/1G1fL98A0Qso16gmgO0lP3) | 3:01 | 2024-08-29 | 2024-11-15 |
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-11 | 2026-04-10 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-11 | 2024-12-06 |
@@ -391,7 +392,7 @@
 | [Say That You Will Wait For Me](https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX) | 3:40 | 2024-08-22 | 2024-10-18 |
 | [School Me Like That](https://open.spotify.com/track/1tXBY7guj2shZSOipaNy4o) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:35 | 2023-11-30 | 2023-12-15 |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-08-22 | 2024-10-18 |
-| [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 | 2025-09-25 |  |
+| [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 | 2025-09-25 | 2026-09-11 |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-22 | 2024-12-06 |
 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 | 2025-05-01 | 2025-09-12 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-21 | 2024-06-21 |

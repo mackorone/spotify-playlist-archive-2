@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 164 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 164 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 40 | [Jump](https://open.spotify.com/track/7uhniEFBcLsYD4W92E0Nx2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:39 |
 | 41 | [Never Enough](https://open.spotify.com/track/3s7SAlA1NPlgddOxZEwmm6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:22 |
 | 42 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
-| 43 | [Drunk \(feat\. 6LACK\)](https://open.spotify.com/track/06Y14QBRyzmPRqrswAfF4J) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 3:32 |
-| 44 | [If I Had \(feat\. Charlie Wilson\)](https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:28 |
+| 43 | [If I Had \(feat\. Charlie Wilson\)](https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:28 |
+| 44 | [Drunk \(feat\. 6LACK\)](https://open.spotify.com/track/06Y14QBRyzmPRqrswAfF4J) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 3:32 |
 | 45 | [Lift Me Up](https://open.spotify.com/track/6mXwoyzrpb4T5Iveoo4k5G) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 4:31 |
 | 46 | [Devil Pray](https://open.spotify.com/track/56zwPqm8DFUrzYHtf5Mdbi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 4:05 |
 | 47 | [Funny Seeing You Here](https://open.spotify.com/track/4qksq0n5lAvp6dl9M3iXWU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:34 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 102 | [Soul Glitch](https://open.spotify.com/track/4EabiixKs1IXXRyFha7ODG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nightride](https://open.spotify.com/album/4oUQWJAcEtTuhYFR9AGfaC) | 4:11 |
 | 103 | [Candy](https://open.spotify.com/track/5NwBOCI0trPlbtfocWrt2q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:06 |
 | 104 | [Adam](https://open.spotify.com/track/7MfoQjQGyjrv0xKwUBQFWU) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 3:03 |
-| 105 | [Avenue](https://open.spotify.com/track/5PxvhqimHphmfFc0W3Lxp3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:03 |
-| 106 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 105 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 106 | [Avenue](https://open.spotify.com/track/5PxvhqimHphmfFc0W3Lxp3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:03 |
 | 107 | [SORRY RACH!](https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SORRY RACH!](https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79) | 3:54 |
 | 108 | [Third Eye](https://open.spotify.com/track/3AquOGHV1aT3yIcKfHzrZS) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Cadillactica \(Deluxe\)](https://open.spotify.com/album/6S1ItzAtGWyBLGiFkeMRc2) | 3:59 |
 | 109 | [Sexual Love \(feat\. James Fauntleroy\)](https://open.spotify.com/track/1EtUvPu9sKXHrp2baF8L44) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:25 |
@@ -132,10 +132,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 122 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 |
 | 123 | [CHURCH ON THE MOVE](https://open.spotify.com/track/1D5fBK4jRwqjKfOsgSJZM3) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:46 |
 | 124 | [Come to You](https://open.spotify.com/track/6JPeF7rovGOTHeNOAPAMcX) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Come to You](https://open.spotify.com/album/5u1hiwQB6Bh6lpSXN9OdDE) | 3:50 |
-| 125 | [Alhambra](https://open.spotify.com/track/0jaRJutUvukEF2zJnxrL3y) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [By Dom Kennedy](https://open.spotify.com/album/0tuOColD9mAZ4SGt4qtvEx) | 3:52 |
-| 126 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
-| 127 | [Who Do You Love?](https://open.spotify.com/track/7AqW47iTYCrc3BsdhLzXJ4) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:26 |
-| 128 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 125 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 126 | [Alhambra](https://open.spotify.com/track/0jaRJutUvukEF2zJnxrL3y) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [By Dom Kennedy](https://open.spotify.com/album/0tuOColD9mAZ4SGt4qtvEx) | 3:52 |
+| 127 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 128 | [Who Do You Love?](https://open.spotify.com/track/7AqW47iTYCrc3BsdhLzXJ4) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:26 |
 | 129 | [Interlude](https://open.spotify.com/track/6vopDvZo0frzTiiyXz7GKV) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 0:41 |
 | 130 | [Amen](https://open.spotify.com/track/5a7esAaCE215PJFrqHX20A) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [A Real Good Kid](https://open.spotify.com/album/4Ud6qdjOiGsrryFeZOVmkT) | 0:31 |
 | 131 | [Long Way](https://open.spotify.com/track/6bQTdecTIAU8hMlbyUp2Xu) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 2:54 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 133 | [Remember](https://open.spotify.com/track/2GOLVW9lwNDm3tRlk0lhae) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Remember](https://open.spotify.com/album/1im3CVGvAfA6clrLsHWzsG) | 3:07 |
 | 134 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 | 135 | [Familiar Dreams](https://open.spotify.com/track/1Puye0dExeFoZvMJIaZGGG) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 2:53 |
-| 136 | [Borrowed Time](https://open.spotify.com/track/23CC33P3SNoT0kzCL8vnux) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:24 |
-| 137 | [Never Let Me Go](https://open.spotify.com/track/22dPa41TbsmeWGo6iMa0J0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:11 |
+| 136 | [Never Let Me Go](https://open.spotify.com/track/22dPa41TbsmeWGo6iMa0J0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:11 |
+| 137 | [Borrowed Time](https://open.spotify.com/track/23CC33P3SNoT0kzCL8vnux) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:24 |
 | 138 | [Day After Forever](https://open.spotify.com/track/6KQnjqWtjcgyTmqJBHfEpq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth 2](https://open.spotify.com/album/6ge7TzHO6gXdfxrtavSr69) | 3:24 |
 | 139 | [No Rush](https://open.spotify.com/track/4c64pv62eIouCuPHq6CXkl) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:56 |
 | 140 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 163 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 164 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `Acb4MAAAAABGFtcpCzCmLGGdbzTxofA9`
+Snapshot ID: `Acb9lAAAAABw5o75VwPkh06J+eHsgE2r`

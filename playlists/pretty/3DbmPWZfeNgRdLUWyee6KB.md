@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 135 songs - 8 hr 4 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 140 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 133 | [Good Bad Habit](https://open.spotify.com/track/4OmWnZ9E7FHdb82EhZxXTZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Good Bad Habit](https://open.spotify.com/album/3FZsuWNBNq2dRha7vUyOKO) | 3:30 |
 | 134 | [New Coat of Paint](https://open.spotify.com/track/0km6LmWEBCRpdU8ey7e7dW) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Stephen Cole](https://open.spotify.com/artist/76iXJt5FHxefmr6S8wPi6g) | [Jazz Me up!, Vol\. 1](https://open.spotify.com/album/1kOCeKNNKP19NWYTCcjmJK) | 3:29 |
 | 135 | [Volga Mystery](https://open.spotify.com/track/2bvLNdXJkKnZZj7bJVkC9Q) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Clazzax: Bite\-Sized Rendition Library](https://open.spotify.com/album/7ezY9VWNDDxHyjVBxmiB94) | 2:07 |
+| 136 | [Falling Down](https://open.spotify.com/track/70AmInWzDl41V550OVKcCQ) | [Pink Cat Empire](https://open.spotify.com/artist/6VYVR67DEM0pPXs617JuZH) | [Falling Down](https://open.spotify.com/album/5X7dPNRBbHIVcl58vusGGn) | 4:15 |
+| 137 | [Στην Άκρη Των Βλεφάρων Σου](https://open.spotify.com/track/5K5XjM11UiMvzfXzrKZPo4) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/0gAq4A2saqRXBdxuIyh56V) | [Στην Άκρη Των Βλεφάρων Σου](https://open.spotify.com/album/7F5hOMdEkgLm1qJqxUU7xR) | 4:10 |
+| 138 | [In that Moment](https://open.spotify.com/track/58LxnNfkWs9ALHPTZNvZde) | [Offbeat Union](https://open.spotify.com/artist/1wOC483MLYQ6bv6fA1qnE3) | [In that Moment](https://open.spotify.com/album/1qYInQqULKPZFlko0qqbXc) | 4:49 |
+| 139 | [Matrix \- alghubaiba Vocal Remix](https://open.spotify.com/track/4bVUoKynLN0ssBkHh1mnnW) | [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx), [HOLIDEUS](https://open.spotify.com/artist/4WRaAKaLTZGZ3ydfPi4jGo), [alghubaiba](https://open.spotify.com/artist/3NxMvOsU6JHyiPALqUSKRx) | [Matrix](https://open.spotify.com/album/17wKvmUysVDgQjxm4PcnZY) | 3:29 |
+| 140 | [Respiro](https://open.spotify.com/track/2PdyOFzTq3LZH9WbUW9Of5) | [LuzAzuL](https://open.spotify.com/artist/0zQiZWTwq8iqanSdpFSi5I) | [Respiro](https://open.spotify.com/album/7nquKycYcxBhgYAb1TlcAd) | 3:22 |
 
-Snapshot ID: `AAAXs9u1xAvw3N1qluleMfYOEj/acrYK`
+Snapshot ID: `AAAXuLs0koLTlnhrqcLh4VmlQUpUI6rk`

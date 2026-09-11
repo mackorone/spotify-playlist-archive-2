@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Oria.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Jeanne.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "AMOUR OUBLI\u00c9",
+        "url": "https://open.spotify.com/album/6w7Azk52EIbSlWSRAcETUQ"
+      },
+      "artists": [
+        {
+          "name": "LECYA",
+          "url": "https://open.spotify.com/artist/08KSZ8jpESjY7kRm1KoAQI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "AMOUR OUBLI\u00c9",
+      "url": "https://open.spotify.com/track/1qWw2X7hZWmJeUL6LbwEqY"
+    },
+    {
+      "album": {
         "name": "Amour Propre",
         "url": "https://open.spotify.com/album/6HBuRorkCC8wE32Ez5o9Zr"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 145837,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/16Pa5nSoPMvwzspLJh4i0q"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181646,
       "name": "chambre d'ado",
       "url": "https://open.spotify.com/track/7qbr3dwkMiCLUx4e1WnBKD"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 140139,
       "name": "COMME D'HABITUDE",
       "url": "https://open.spotify.com/track/6pN4HLeP58hfmSrp5Utjo2"
@@ -1788,6 +1806,24 @@
       "duration_ms": 194432,
       "name": "crash test - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2F6V0NKuHJVePE7LCBUYaX"
+    },
+    {
+      "album": {
+        "name": "Na\u00efri",
+        "url": "https://open.spotify.com/album/1KjrceHRQfpwzYU0OS3u4z"
+      },
+      "artists": [
+        {
+          "name": "Jeanne",
+          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "Cybersensible",
+      "url": "https://open.spotify.com/track/2o5ghGw2qfZEPWMDO2YHei"
     },
     {
       "album": {
@@ -3996,7 +4032,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 169317,
       "name": "Je veux",
       "url": "https://open.spotify.com/track/4S1FajtcvGHpETY3z7Iqmz"
@@ -5245,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "Jeune & Laide",
+        "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171015,
+      "name": "Les Euros",
+      "url": "https://open.spotify.com/track/0bc8GhYvEAUDqMaqfCbIrC"
+    },
+    {
+      "album": {
         "name": "les filles, les meufs",
         "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
       },
@@ -5506,7 +5560,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 146451,
       "name": "Les yeux dans l'eau",
       "url": "https://open.spotify.com/track/4dtKNaXCvU3j8jZismTYES"
@@ -6926,6 +6980,24 @@
       "duration_ms": 121634,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/3v54oq1rGWMrijBrnlNvRy"
+    },
+    {
+      "album": {
+        "name": "Pa",
+        "url": "https://open.spotify.com/album/5oC5RK98jimkmbolBJC5WF"
+      },
+      "artists": [
+        {
+          "name": "Piche",
+          "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205889,
+      "name": "Pa",
+      "url": "https://open.spotify.com/track/0eQjNtRungUNMAieeZOqGs"
     },
     {
       "album": {
@@ -8555,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "Si c'est un feu",
+        "url": "https://open.spotify.com/album/5LvuDmGuKVxshQNbGfcHyG"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196076,
+      "name": "Si c'est un feu",
+      "url": "https://open.spotify.com/track/7ehdEIlwVKTvs6d845c3Ak"
+    },
+    {
+      "album": {
         "name": "Si demain",
         "url": "https://open.spotify.com/album/1DBdTtN8hwO0HGrUAU1X85"
       },
@@ -8906,10 +8996,32 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152000,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7uPE6hbOj1mf6nvTgjPfav"
+    },
+    {
+      "album": {
+        "name": "Super-h\u00e9ros",
+        "url": "https://open.spotify.com/album/17BVlMrAFUMHbcDvxdoZ2Q"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        },
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194778,
+      "name": "Super-h\u00e9ros",
+      "url": "https://open.spotify.com/track/5izltdx7IO0nF0T8lWWuO0"
     },
     {
       "album": {
@@ -9638,7 +9750,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 188000,
       "name": "Tu restes l\u00e0",
       "url": "https://open.spotify.com/track/7Gptk4gZ0zktQdhhjieIOh"
@@ -10224,6 +10336,24 @@
       "duration_ms": 162247,
       "name": "\u00c0 qui le tour",
       "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
+    },
+    {
+      "album": {
+        "name": "\u00c0 ta sant\u00e9 consentement",
+        "url": "https://open.spotify.com/album/74H7grJLRlSvMN8YvqhlND"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "\u00c0 ta sant\u00e9 consentement",
+      "url": "https://open.spotify.com/track/0GoCn1kSMd6Yd2Ei6Yl1tG"
     },
     {
       "album": {

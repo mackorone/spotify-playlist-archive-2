@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-1,106 songs - 2 day 15 hr 17 min
+1,108 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 | 2023-09-28 |  |
 | [Tonight](https://open.spotify.com/track/2EHIlmOzfIw1OYrasmhXBW) | [Enoch](https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh) | [Seol Un Do X Enoch Special](https://open.spotify.com/album/4XvEgcBiv2Et2kojlh1lFs) | 3:19 | 2024-06-17 | 2024-10-03 |
 | [Tonight](https://open.spotify.com/track/2MDDkx4W0mIolqWHgXWvqi) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:05 | 2024-09-03 | 2025-03-08 |
+| [ToTo](https://open.spotify.com/track/0sRcVXli6eqbPASpVXTWB2) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 10](https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D) | 3:08 | 2026-09-10 |  |
 | [track by YOON: Connori](https://open.spotify.com/track/0HbPXZkkQYtBKvXq2ISS9J) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Connori](https://open.spotify.com/album/2jA8dhgtn1DUx5lkgWOYNh) | 4:44 | 2025-11-20 | 2026-02-06 |
 | [Traditional Market](https://open.spotify.com/track/7imk0My0UHl3DSG3XJ4rN4) | [KangNam](https://open.spotify.com/artist/5eVitbulmXBzZ2NsRyYJN3), [Tae Jin\-Ah](https://open.spotify.com/artist/0WuT3krqBIm5MranO0BJ1H) | [Traditional Market](https://open.spotify.com/album/58oRrFuBlJXlQCKkg8AEhS) | 3:24 | 2022-04-22 | 2024-12-29 |
 | [Train for the south](https://open.spotify.com/track/0A4X8AL89Ab5UDhG1iYh0D) | [Kim Jungyeon](https://open.spotify.com/artist/1hYRpUtSjcgh8qwPE0JkRz) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:52 | 2024-08-13 | 2026-05-14 |
@@ -1052,6 +1053,7 @@
 | [아파트](https://open.spotify.com/track/4zmR4uqdTzqAU2tkifS0p8) | [Yoon Sooil](https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99) | [윤수일 35주년 기념 라이브 앨범](https://open.spotify.com/album/7tgP00py7iogjjccONQgmT) | 3:57 | 2024-08-13 |  |
 | [안나오면 쳐들어간다](https://open.spotify.com/track/1oRrGiwWX5bUCutJhqNMVy) | [김유선](https://open.spotify.com/artist/5GFS5n5JD2lujV2cllo8LG) | [안나오면 쳐들어간다](https://open.spotify.com/album/53UI5pWIkrvEyQAvvMEy3S) | 3:26 | 2022-04-07 | 2022-07-15 |
 | [안녕](https://open.spotify.com/track/6SaKtkSFI1TfVEjmMWWCue) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [강원도 아가씨](https://open.spotify.com/album/5BddqkWJXQFpXet5FYAsWN) | 3:09 | 2022-05-03 | 2022-07-06 |
+| [안녕은 정말 싫어](https://open.spotify.com/track/04HZQBeKASHka7BQxbkHBp) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [REVERB](https://open.spotify.com/album/0LEk3HqIjr4exZDOQ0qEcw) | 3:08 | 2026-09-10 |  |
 | [안동역에서](https://open.spotify.com/track/2REiV8Cx6JsVkMFiTUP4on) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 3:47 | 2022-04-21 | 2026-05-14 |
 | [애인이 되어줄게요 \(prod\. 알고보니혼수상태\)](https://open.spotify.com/track/5B5QXX9QbliTSgYvkprJZx) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 3:07 | 2023-09-28 | 2023-10-24 |
 | [어금니](https://open.spotify.com/track/3NUIqPsAEYAyK2MNjDlS7W) | [Hyejine](https://open.spotify.com/artist/3eMsaoNwuVFiMQ3tQEN9aw) | [어금니](https://open.spotify.com/album/3fSerk3HP0ALD8Sa2oFV3N) | 4:08 | 2022-04-07 | 2022-07-21 |

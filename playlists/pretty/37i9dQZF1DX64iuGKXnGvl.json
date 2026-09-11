@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 254645,
+  "num_followers": 254795,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGAKre8SnBCK7tnaq9lDubdotGv",
+  "snapshot_id": "AAAAAO9MC4uuY21vE7L2SRIHVFD7CUUj",
   "tracks": [
     {
       "added_at": "2024-06-12 20:35:23",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
         }
       ],
-      "duration_ms": 209573,
-      "name": "Bazar",
-      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
       "artists": [
         {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+      "duration_ms": 209573,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 241733,
       "name": "No Huyas de Mi",
       "url": "https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
     },
     {
       "added_at": "2024-06-12 20:35:23",

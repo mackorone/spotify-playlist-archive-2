@@ -1,41 +1,13 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bail",
-  "num_followers": 74320,
+  "num_followers": 74495,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQiHccWMGejV1hRPMbE7L+7B4Dr",
+  "snapshot_id": "AAAAAGvRfE1p+Q4GrwzYcgo3VIzh4HVm",
   "tracks": [
-    {
-      "added_at": "2026-09-03 11:55:51",
-      "album": {
-        "name": "Cheluve Kele Cheluve (From \"Bail\")",
-        "url": "https://open.spotify.com/album/690eS9NdbTJgeW6tGfjhLf"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "Pavan Wadeyar",
-          "url": "https://open.spotify.com/artist/4fJF4BvLgDGCWDectq01c2"
-        }
-      ],
-      "duration_ms": 243545,
-      "name": "Cheluve Kele Cheluve (From \"Bail\")",
-      "url": "https://open.spotify.com/track/3D6ovUAxltuQbWTBaWoksg"
-    },
     {
       "added_at": "2026-09-08 10:05:57",
       "album": {
@@ -111,6 +83,26 @@
       "duration_ms": 251214,
       "name": "Naadasunaada (From \"Brindhavihari\")",
       "url": "https://open.spotify.com/track/2nzHnNfHz6ka4a8WIJsCaO"
+    },
+    {
+      "added_at": "2026-09-10 15:56:46",
+      "album": {
+        "name": "Jhumki",
+        "url": "https://open.spotify.com/album/6uqr7Jx77Vttq72IxpOO3B"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Gururaj",
+          "url": "https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5"
+        },
+        {
+          "name": "Sachit Clare",
+          "url": "https://open.spotify.com/artist/3fPQPuqoKfqCZXTGQwP9kI"
+        }
+      ],
+      "duration_ms": 168191,
+      "name": "Jhumki",
+      "url": "https://open.spotify.com/track/02TtzIxJej92ghL8hFJt6h"
     },
     {
       "added_at": "2026-08-07 06:56:04",
@@ -191,6 +183,22 @@
       "duration_ms": 232448,
       "name": "Menada Gombege (From \"Rukmini Radhakrishna\")",
       "url": "https://open.spotify.com/track/5AXraN8f0k9ulB6O5S0HTp"
+    },
+    {
+      "added_at": "2026-09-10 15:56:46",
+      "album": {
+        "name": "NEE THANE",
+        "url": "https://open.spotify.com/album/6puWHbDIlfiLj0YmN7Hged"
+      },
+      "artists": [
+        {
+          "name": "Voice of Vishal",
+          "url": "https://open.spotify.com/artist/6J1CrXguBJIqDSiUPWC75B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "NEE THANE",
+      "url": "https://open.spotify.com/track/2aEFuRN0TBbFFCkNcSE1XZ"
     },
     {
       "added_at": "2026-08-26 06:00:35",
@@ -1771,34 +1779,6 @@
       "duration_ms": 186130,
       "name": "Naam Hai Iska JOLLY (From \"Jolly\")",
       "url": "https://open.spotify.com/track/5rYYdzIeYSsAQMVxveQhCB"
-    },
-    {
-      "added_at": "2026-07-03 16:54:26",
-      "album": {
-        "name": "Kadala Balige (From \"Life Of Nitin\")",
-        "url": "https://open.spotify.com/album/6Nysyk47LqoF4KQfJujcZp"
-      },
-      "artists": [
-        {
-          "name": "Dhani",
-          "url": "https://open.spotify.com/artist/0nZTZqyTAkTmnmwPeZgksV"
-        },
-        {
-          "name": "Sukeerth Shetty",
-          "url": "https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo"
-        },
-        {
-          "name": "Keerthan Holla",
-          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
-        },
-        {
-          "name": "Linda Jose",
-          "url": "https://open.spotify.com/artist/5k9vpubkSUpPKTOIdpYBpW"
-        }
-      ],
-      "duration_ms": 243326,
-      "name": "Kadala Balige (From \"Life Of Nitin\")",
-      "url": "https://open.spotify.com/track/55TwFY5URkB0Tckf7cDLMk"
     },
     {
       "added_at": "2026-07-03 16:54:26",

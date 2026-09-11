@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Julia Jacklin
 
-2,226 songs - 5 day 6 hr 17 min
+2,227 songs - 5 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 | 2022-10-10 |
 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-10-20 | 2024-02-10 |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-06-28 | 2024-11-16 |
+| [Beluga Whale \(Call Again\)](https://open.spotify.com/track/38KJYsFSDR79ksj9f4x1Rg) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 1:33 | 2026-09-10 |  |
 | [Ben Franklin](https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ben Franklin](https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O) | 3:01 | 2021-10-22 | 2022-04-12 |
 | [Bend](https://open.spotify.com/track/1a8q6gXy8Dl5pSEWG69foi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bend](https://open.spotify.com/album/78irEHjKQcrTg6wszSyY83) | 3:50 | 2023-12-01 | 2024-01-20 |
 | [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:16 | 2025-11-14 |  |
@@ -927,7 +928,7 @@
 | [HOT WHEELS](https://open.spotify.com/track/3qPgpfGvSo6Pm5R7jxEQoy) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS](https://open.spotify.com/album/3NFiegkOXhRXkhAXVTQVvO) | 2:53 | 2021-10-02 | 2022-06-11 |
 | [Hotel Toothbrush](https://open.spotify.com/track/1MagY2liSWTngL3oEJ9TE0) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [This Could Be Everything](https://open.spotify.com/album/1blx6l14QLdPb6rDzzpbov) | 2:01 | 2024-08-02 | 2024-09-07 |
 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 | 2023-03-03 | 2023-04-22 |
-| [Hound](https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 4:27 | 2026-08-21 |  |
+| [Hound](https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 4:27 | 2026-08-21 | 2026-09-11 |
 | [HOUSE](https://open.spotify.com/track/50hBwOAvTw01fUF5xsYNvt) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [HOUSE](https://open.spotify.com/album/0C91lSjGtEnDbtBwyIiVJt) | 4:19 | 2026-03-13 |  |
 | [How Can I Love Her More?](https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [How Can I Love Her More?](https://open.spotify.com/album/4AflCecOU26ScUgd34omyk) | 2:47 | 2024-04-12 | 2024-05-03 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-11 | 2022-04-20 |

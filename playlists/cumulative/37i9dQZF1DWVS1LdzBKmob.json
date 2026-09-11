@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "CRYSTAL RESONANCE",
+        "url": "https://open.spotify.com/album/3H9jPNrCvlGi3qHxVQLwBy"
+      },
+      "artists": [
+        {
+          "name": "RAURA",
+          "url": "https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396125,
+      "name": "Beauty Vortex",
+      "url": "https://open.spotify.com/track/7Dzc4hvf0lrOH04YnoCUM1"
+    },
+    {
+      "album": {
         "name": "Tibetan Bowls",
         "url": "https://open.spotify.com/album/5BFMmN1aL37Zd8NMZWqSzs"
       },
@@ -437,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4kapNlGvrh6s3JxaTV4SvK"
+      },
+      "artists": [
+        {
+          "name": "Calmatic",
+          "url": "https://open.spotify.com/artist/4pnzDhLyf7keokIDeCTVVJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/6euj2WRzsmMsR6zJkOm4fq"
+    },
+    {
+      "album": {
         "name": "Dakpa Nepali",
         "url": "https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT"
       },
@@ -452,6 +488,24 @@
       "duration_ms": 208000,
       "name": "Bodhisattva (Sound Bath)",
       "url": "https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/3qlFxn85Oof9HSbUCDj0q8"
+      },
+      "artists": [
+        {
+          "name": "Apaxx",
+          "url": "https://open.spotify.com/artist/2myI6PZzbUdW5T4TXdmYU0"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197740,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/74l3Ew59XFiajry9I8roNx"
     },
     {
       "album": {
@@ -542,6 +596,24 @@
       "duration_ms": 144782,
       "name": "Bowls of Peace",
       "url": "https://open.spotify.com/track/1ZnT8c13FdHVHQwVpwJAX7"
+    },
+    {
+      "album": {
+        "name": "Bowls of Sand",
+        "url": "https://open.spotify.com/album/56qX5yDy5yZ8NEinLJVbOF"
+      },
+      "artists": [
+        {
+          "name": "Munnafurl",
+          "url": "https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151658,
+      "name": "Bowls of Sand",
+      "url": "https://open.spotify.com/track/0f7kzbUVU0E6JYGbTFBkrK"
     },
     {
       "album": {
@@ -1421,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Bowls",
+        "url": "https://open.spotify.com/album/17qoARWeJNUiKdb4gfIiXU"
+      },
+      "artists": [
+        {
+          "name": "Blake Ellowin",
+          "url": "https://open.spotify.com/artist/2JGKxy5LBYMVWnVsnqGcaI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Ethereal Bowls",
+      "url": "https://open.spotify.com/track/6R3ji2C9WhPieG6uhGrqxf"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/7wy199GErD91BVSnEvZklN"
       },
@@ -1630,7 +1720,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 141000,
       "name": "Glowing Dust",
       "url": "https://open.spotify.com/track/0GXUefNoPyRjC4JFx9INNt"
@@ -1922,6 +2012,24 @@
       "duration_ms": 572055,
       "name": "In Perspective",
       "url": "https://open.spotify.com/track/22IoKONWfMZXfEcECQfg36"
+    },
+    {
+      "album": {
+        "name": "Inner Balance",
+        "url": "https://open.spotify.com/album/4ECcQTJXZUqerJNKiBIV6x"
+      },
+      "artists": [
+        {
+          "name": "Marc Westfield",
+          "url": "https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Inner Balance",
+      "url": "https://open.spotify.com/track/0hKOhArO7TKItnhnYTgm9k"
     },
     {
       "album": {
@@ -2267,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "My Cleanse 105 - 110 Hz",
+        "url": "https://open.spotify.com/album/2mWOfp0YiGzbK7ee66yESy"
+      },
+      "artists": [
+        {
+          "name": "moodgenzy",
+          "url": "https://open.spotify.com/artist/2LQ9WxkWhlHoBRYB1Iob4r"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153777,
+      "name": "My Cleanse 105 - 110 Hz",
+      "url": "https://open.spotify.com/track/35BoqyVWsXx3xhorNpYOIs"
+    },
+    {
+      "album": {
         "name": "New Breaths",
         "url": "https://open.spotify.com/album/27pz7Vd94C8OPfUS8VoRz8"
       },
@@ -2577,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Pura Wana",
+        "url": "https://open.spotify.com/album/2FwXHlxRjOkDNuaSlS7LLF"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144883,
+      "name": "Pura Wana",
+      "url": "https://open.spotify.com/track/1MOOVc6uMB8mmktRLcyuLn"
+    },
+    {
+      "album": {
         "name": "Pure oak",
         "url": "https://open.spotify.com/album/02XChFJsIEpHty7KayHTY2"
       },
@@ -2721,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Remembering the Resonance",
+        "url": "https://open.spotify.com/album/588YK7u0gXgi3ehymGCllP"
+      },
+      "artists": [
+        {
+          "name": "Quiet Glade",
+          "url": "https://open.spotify.com/artist/2z8WBKZ59ajHBBhqZXtue2"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Remembering the Resonance",
+      "url": "https://open.spotify.com/track/6Qhml5UI3SGPPHybpK56YI"
+    },
+    {
+      "album": {
         "name": "Repose Toi",
         "url": "https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp"
       },
@@ -2829,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Singing Bowls for Chakras",
+        "url": "https://open.spotify.com/album/37WoX6t4G1T5tYabJX4nyq"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Root Chakra (C)",
+      "url": "https://open.spotify.com/track/2RQaMIgo0E5s5AaTZwdEMK"
+    },
+    {
+      "album": {
         "name": "7 Chakra Meditation with Tibetan Bowls",
         "url": "https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X"
       },
@@ -2862,6 +3042,24 @@
       "duration_ms": 302453,
       "name": "Root Chakra - Singing Bowl Only",
       "url": "https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K"
+    },
+    {
+      "album": {
+        "name": "Singing Bowls for Chakras",
+        "url": "https://open.spotify.com/album/37WoX6t4G1T5tYabJX4nyq"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sacral Chakra (D)",
+      "url": "https://open.spotify.com/track/1Xhzspd8R66sNCMsteCAlD"
     },
     {
       "album": {
@@ -3117,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Solar Tone",
+        "url": "https://open.spotify.com/album/7naekwpYlAFm3bDzG6k9Nn"
+      },
+      "artists": [
+        {
+          "name": "Mir Dune",
+          "url": "https://open.spotify.com/artist/6Hs1kTcMGQUJR9DFyyiE0n"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Solar Tone",
+      "url": "https://open.spotify.com/track/7xCX8aiUhzJQLLLtDn2c2a"
+    },
+    {
+      "album": {
         "name": "Tibetan Chakra Meditations",
         "url": "https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb"
       },
@@ -3172,6 +3388,24 @@
       "duration_ms": 250000,
       "name": "Soul in Harmony",
       "url": "https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go"
+    },
+    {
+      "album": {
+        "name": "Soulbound",
+        "url": "https://open.spotify.com/album/73Zc0oLNHBWVWd3Taf6Dzt"
+      },
+      "artists": [
+        {
+          "name": "Garden of Lotus",
+          "url": "https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160489,
+      "name": "Soulbound",
+      "url": "https://open.spotify.com/track/3s7qlBv4VGTdRhCRXBGuHt"
     },
     {
       "album": {
@@ -3463,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "Third Eye (Singing Bowls)",
+        "url": "https://open.spotify.com/album/6ptt9Ohtgr1sgHC3pcPAp1"
+      },
+      "artists": [
+        {
+          "name": "Mori Yume",
+          "url": "https://open.spotify.com/artist/1xvuRfFYi4NDXpoxY43kOm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Third Eye (Singing Bowls)",
+      "url": "https://open.spotify.com/track/3gSqPLu2e9kiXbINrhJ67e"
+    },
+    {
+      "album": {
         "name": "Tibetan Bowl Escape",
         "url": "https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf"
       },
@@ -3643,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/3BNEUPPkzOdVpgdnVDiXM7"
+      },
+      "artists": [
+        {
+          "name": "Spirit Garden",
+          "url": "https://open.spotify.com/artist/21ADT1cKkGhiB070brX819"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/1yt7mADnINf4ksZ7s1AiOc"
+    },
+    {
+      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -3816,7 +4086,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 123000,
       "name": "Velvet Resonance",
       "url": "https://open.spotify.com/track/0Wfj0rK53SV7tKTxAH0Vr8"

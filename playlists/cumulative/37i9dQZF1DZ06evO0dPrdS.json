@@ -351,24 +351,6 @@
     },
     {
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "date_added": "2025-10-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "album": {
         "name": "Spice (25th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU"
       },
@@ -387,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235973,
+      "name": "Say You'll Be There - Single Mix",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG"
       },
@@ -400,7 +400,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263160,
-      "name": "Sisters (Are Doing It For Themselves) - Live From Wembley Stadium, UK / 1998",
+      "name": "Sisters (Are Doing It For Themselves) - Live",
       "url": "https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ"
     },
     {
@@ -736,7 +736,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214173,
-      "name": "We Are Family - Live From Wembley Stadium, UK /1998",
+      "name": "We Are Family - Live",
       "url": "https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe"
     },
     {

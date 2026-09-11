@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 65157,
+  "num_followers": 65166,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACbGOSsIETvq2QPuunYfqbm",
+  "snapshot_id": "aqChgAAAAAC96giJuNjIST3N3fFgPI7B",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd"
+      "duration_ms": 166840,
+      "name": "Some Assembly Required",
+      "url": "https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 166840,
-      "name": "Some Assembly Required",
-      "url": "https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr"
+      "duration_ms": 207133,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Baek A\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-692 songs - 1 day 16 hr 41 min
+693 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [In My Dreams](https://open.spotify.com/track/1ndy3GgAqTtmkImUIYhP9v) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [COLORING BOOK](https://open.spotify.com/album/38AAuqV2wFULToBRMPn3Ne) | 3:28 | 2022-03-31 | 2022-04-06 |
 | [In The City 도시에서](https://open.spotify.com/track/05FR5qWPhj0GfWrUt4MKDk) | [Kwon Tree](https://open.spotify.com/artist/3V8Zj1lAUFlBpra9DvMwMK) | [New Day 새로운 날](https://open.spotify.com/album/4zQQM5dVk61G0UrNB8Qr30) | 4:37 | 2022-03-31 | 2022-04-17 |
 | [In the end](https://open.spotify.com/track/0sIAiIw3ZrHSCusJEvtn2H) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Whats wrong with secretary kim OST Part.7](https://open.spotify.com/album/4QKLty6XBVD7DuM4pcvHRa) | 4:25 | 2022-03-31 | 2022-04-11 |
-| [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 |  |
+| [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 | 2026-09-11 |
+| [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 | 2026-09-09 |  |
 | [Indecision](https://open.spotify.com/track/1E5OPub2NquTTLqm2lhjvl) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Indecision](https://open.spotify.com/album/2ddvTM9uOqCltc0o5Q7bk1) | 3:35 | 2022-03-31 | 2022-04-21 |
 | [Indifferent People](https://open.spotify.com/track/5uYcSONPlw8yDWoBI7SoOd) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:55 | 2022-03-31 | 2022-04-20 |
 | [Indigo](https://open.spotify.com/track/57gU292uJXE0ur2697dQWJ) | [이봄](https://open.spotify.com/artist/5lsChpOwgH1pnjniKZLD8A) | [Indigo](https://open.spotify.com/album/3KQC1jKtj0o7BtK5siVNvd) | 3:40 | 2022-01-13 | 2022-01-18 |

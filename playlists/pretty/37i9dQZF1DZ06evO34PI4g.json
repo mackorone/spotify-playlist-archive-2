@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1099401,
+  "num_followers": 1099581,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACoAGdnug3tDNhuO3UgqfbO",
+  "snapshot_id": "aqChgAAAAACpN7PUSn9hY8BIGjIGXZ1t",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Darts",
+      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 160666,
       "name": "Shame",
       "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "System Of A Down (Deluxe)",
-        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Darts",
-      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAACBpVbtG1yAKb9i6qyrwFRLOu2EUKT",
+  "snapshot_id": "AAACDLGTYUN+BthYWtcU2dcVg02jDqmH",
   "tracks": [
     {
       "added_at": "2025-11-12 19:32:04",
@@ -719,6 +719,90 @@
       "duration_ms": 138598,
       "name": "It's On",
       "url": "https://open.spotify.com/track/4WuEynUO41tcYDvSYHnvJE"
+    },
+    {
+      "added_at": "2026-09-10 20:01:17",
+      "album": {
+        "name": "13 Going On 30: The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2gkXcigv8rw3KSnN6wVj8Y"
+      },
+      "artists": [
+        {
+          "name": "Amelia Minto",
+          "url": "https://open.spotify.com/artist/4ZWEPAhUuLUSf8t1U0CawN"
+        },
+        {
+          "name": "Max Bispham",
+          "url": "https://open.spotify.com/artist/1qQlacND7XQywbwlnLKift"
+        }
+      ],
+      "duration_ms": 122394,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/0pzwB6vQFtZgNkyl40Zxgw"
+    },
+    {
+      "added_at": "2026-09-10 20:01:20",
+      "album": {
+        "name": "13 Going On 30: The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2gkXcigv8rw3KSnN6wVj8Y"
+      },
+      "artists": [
+        {
+          "name": "Grace Mouat",
+          "url": "https://open.spotify.com/artist/77aJ6k47i5S3QValR3t73V"
+        },
+        {
+          "name": "Lucie Jones",
+          "url": "https://open.spotify.com/artist/36iiHfBQwMbT4UNrxesTjU"
+        }
+      ],
+      "duration_ms": 210602,
+      "name": "Poise",
+      "url": "https://open.spotify.com/track/6HFw3T3QiVBaCDVS7mZvW0"
+    },
+    {
+      "added_at": "2026-09-10 20:01:31",
+      "album": {
+        "name": "13 Going On 30: The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2gkXcigv8rw3KSnN6wVj8Y"
+      },
+      "artists": [
+        {
+          "name": "Lucie Jones",
+          "url": "https://open.spotify.com/artist/36iiHfBQwMbT4UNrxesTjU"
+        }
+      ],
+      "duration_ms": 215165,
+      "name": "Make The World",
+      "url": "https://open.spotify.com/track/34jYIll6nrT812otOvoiaZ"
+    },
+    {
+      "added_at": "2026-09-10 20:01:26",
+      "album": {
+        "name": "13 Going On 30: The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/2gkXcigv8rw3KSnN6wVj8Y"
+      },
+      "artists": [
+        {
+          "name": "Lucie Jones",
+          "url": "https://open.spotify.com/artist/36iiHfBQwMbT4UNrxesTjU"
+        },
+        {
+          "name": "David Hunter",
+          "url": "https://open.spotify.com/artist/4RzD0mi40YVsoqGLJkwm53"
+        },
+        {
+          "name": "Amelia Minto",
+          "url": "https://open.spotify.com/artist/4ZWEPAhUuLUSf8t1U0CawN"
+        },
+        {
+          "name": "Max Bispham",
+          "url": "https://open.spotify.com/artist/1qQlacND7XQywbwlnLKift"
+        }
+      ],
+      "duration_ms": 217184,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/6dMI96ypVAcvSNpYg1OQ4a"
     }
   ],
   "unique_name": "THE playlist",

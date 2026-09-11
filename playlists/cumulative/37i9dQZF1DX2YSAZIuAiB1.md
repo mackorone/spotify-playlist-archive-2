@@ -4,7 +4,7 @@
 
 > zu dieser sonnigen playlist kann man nur viben
 
-669 songs - 1 day 8 hr 30 min
+670 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/3a6HiYdQXYrMERDWgTEeIw) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ) | [Gli Ostacoli Del Cuore](https://open.spotify.com/album/4Jiyy42cEhsyHehHiPbTaC) | 2:26 | 2024-08-30 | 2024-12-21 |
 | [Go Down Deh \(feat\. Sean Paul & Shaggy\)](https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 | 2025-11-14 |  |
 | [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 | 2026-05-21 | 2026-07-10 |
-| [GOGOWINE](https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [GOGOWINE](https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58) | 2:19 | 2026-07-16 |  |
+| [GOGOWINE](https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [GOGOWINE](https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58) | 2:19 | 2026-07-16 | 2026-09-11 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-20 | 2023-12-20 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-07 | 2024-05-23 |
 | [Grind Pon Mi](https://open.spotify.com/track/6lzqWQqmRoq3wOKF8ylJr2) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Grind Pon Mi](https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ) | 2:09 | 2023-09-20 | 2024-08-31 |
@@ -432,6 +432,7 @@
 | [OCEAN](https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [OCEAN](https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE) | 2:25 | 2025-08-13 |  |
 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-17 | 2025-05-23 |
 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 | 2023-11-17 | 2024-01-18 |
+| [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 | 2026-09-11 |  |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-20 | 2023-12-12 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-09-05 | 2024-03-21 |
 | [On reconnaît](https://open.spotify.com/track/1BxrHaFhSISl60awChRaFM) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [On s'promet](https://open.spotify.com/album/3Qj3KKyfPR5oRItnrMrn9K) | 4:20 | 2024-10-03 | 2025-06-05 |

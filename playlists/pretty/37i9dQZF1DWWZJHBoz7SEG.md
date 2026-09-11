@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Empieza el mes patrio como se debe en compañía de Chino Pacas y muchas rolitas bien perronas <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,875 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,793 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 77 | [Pajaro Azul](https://open.spotify.com/track/1FhrYN4eKtfXUhS1bMnknI) | [Ivan de la Rioja](https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Pajaro Azul](https://open.spotify.com/album/7qbKlMLwSZUMR4tgOaOlKG) | 2:28 |
 | 78 | [Tequila](https://open.spotify.com/track/6BZsdRUmdJaUhno9XGgDvx) | [Mando](https://open.spotify.com/artist/5je9bD2UleIqUBGMNnFyPc), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Tequila](https://open.spotify.com/album/4eB4ANAGN0uOcoHRQGZKLi) | 3:05 |
 
-Snapshot ID: `AAAAAJAPkY/SLesW1cJCP/+bwKBSiJlW`
+Snapshot ID: `AAAAAGcHpIBXx2yBmuk06b65LYNURhfT`

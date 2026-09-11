@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: ATRIP\n",
+  "description": "The home for alternative electronic music. Cover: Jacques Greene\n",
   "name": "Altar",
   "tracks": [
     {
@@ -292,6 +292,28 @@
       "duration_ms": 226146,
       "name": "28 Eyes",
       "url": "https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM"
+    },
+    {
+      "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336624,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
     },
     {
       "album": {
@@ -3433,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/69yIoovnqkiWri6NKrCNeb"
+      },
+      "artists": [
+        {
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/0HPfpyY5gE1YzJ57X0xRzb"
+    },
+    {
+      "album": {
         "name": "Bodies Of Water",
         "url": "https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY"
       },
@@ -5756,7 +5796,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 268000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2XrzfABt9QdDE7kBSa3DRx"
@@ -6486,7 +6526,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 218898,
       "name": "Destructive Case (Radio Edit)",
       "url": "https://open.spotify.com/track/4ODxqMeVCyQHBGH3JjvAdm"
@@ -6964,7 +7004,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 228588,
       "name": "Don't Play With Me",
       "url": "https://open.spotify.com/track/0Ti6MgIB9cmwpGW3wFugxj"
@@ -7866,7 +7906,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 227358,
       "name": "Elm",
       "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
@@ -8264,6 +8304,28 @@
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2AOBG21RTF5xxBfYqtEgWi"
+    },
+    {
+      "album": {
+        "name": "Essa Ta Quente (feat. Skrillex)",
+        "url": "https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166270,
+      "name": "Essa Ta Quente (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4"
     },
     {
       "album": {
@@ -9050,6 +9112,32 @@
       "duration_ms": 258652,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0oMLuN4cldfEiqwIY8dI7K"
+    },
+    {
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
     },
     {
       "album": {
@@ -13003,6 +13091,28 @@
     },
     {
       "album": {
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
+    },
+    {
+      "album": {
         "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
@@ -15518,7 +15628,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 274480,
       "name": "KTM",
       "url": "https://open.spotify.com/track/4anZARI5G18q74sWQf7vh6"
@@ -17020,6 +17130,24 @@
       "duration_ms": 226206,
       "name": "low down - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/43XXw4DgEq4FLeLheuED0X"
+    },
+    {
+      "album": {
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "album": {
@@ -22039,6 +22167,24 @@
     },
     {
       "album": {
+        "name": "Put Your Guard Down",
+        "url": "https://open.spotify.com/album/5VMb6YeQyFmmtN4FNn18iu"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317697,
+      "name": "Put Your Guard Down",
+      "url": "https://open.spotify.com/track/2uUWh99vL74YaGWKDJZaVy"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2j8ZGhgH3HdQf2mLi5SK4f"
       },
@@ -22840,7 +22986,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 239523,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0FWEux3aj0qlSnguvnYk6I"
@@ -26632,7 +26778,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 238500,
       "name": "Talk nice",
       "url": "https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp"
@@ -27690,7 +27836,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 165523,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT"
@@ -29355,6 +29501,24 @@
     },
     {
       "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261517,
+      "name": "Uncasually",
+      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
+    },
+    {
+      "album": {
         "name": "Uncomfortable",
         "url": "https://open.spotify.com/album/2TyyA3oJlayDtyZf8cQfo9"
       },
@@ -29551,6 +29715,24 @@
     },
     {
       "album": {
+        "name": "Unquiet",
+        "url": "https://open.spotify.com/album/6MIvVDCq7XgFiG5VIeVmvS"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "Unquiet",
+      "url": "https://open.spotify.com/track/15Uu1CX29BRj53cZAZWnm4"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
       },
@@ -29696,7 +29878,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 156041,
       "name": "Vertical",
       "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"

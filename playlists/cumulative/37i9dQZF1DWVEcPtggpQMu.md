@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap\. <br/>Cover: Mashbeatz, DJ Slique
 
-1,156 songs - 2 day 13 hr 3 min
+1,157 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Dan Up](https://open.spotify.com/track/2JmwtW8RzEtvRLImKEyOQX) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [Dan Up](https://open.spotify.com/album/1ExBjhwsN4pYAi9GmcVqf0) | 2:28 | 2024-08-15 | 2025-03-08 |
 | [DANCE4ME](https://open.spotify.com/track/7dD1SoOq0dpFyxE6DwGU3K) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SSG'98](https://open.spotify.com/album/2alAQlh3hMEIRtBSoP8GZT) | 3:31 | 2026-02-13 |  |
 | [Dangerous](https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 3:43 | 2023-02-27 | 2023-08-29 |
+| [Dark & Lovely](https://open.spotify.com/track/1xrwzDcUM492FbYPihD0Op) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [Dark & Lovely](https://open.spotify.com/album/3K34B9HOtnTJp7yaTXy6nf) | 2:43 | 2026-09-10 |  |
 | [Darkness Defined](https://open.spotify.com/track/01edL7wMnodVutRtRJo7Dy) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [The Evolution of an African Trap Queen](https://open.spotify.com/album/2gOoNbU9qmAoPf8lUPFxsh) | 4:16 | 2022-12-12 | 2023-02-24 |
 | [Dear Rikhado, Love Riyadh](https://open.spotify.com/track/6batDbuoV8YSIXiLQkpb1W) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Dear Rikhado, Love Riyadh](https://open.spotify.com/album/3IpqeP3dCdsSqtVwCU6F3T) | 4:42 | 2022-04-22 | 2023-02-01 |
 | [Demon Talk](https://open.spotify.com/track/3kngVCvdhznk5R1zQpqpUQ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Demon Talk](https://open.spotify.com/album/0oc0hN0Kep4tVHnea5GHBA) | 3:05 | 2022-01-20 | 2022-02-11 |
@@ -1143,7 +1144,7 @@
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-13 | 2023-09-30 |
 | [Yah!! \(Okay\)](https://open.spotify.com/track/3S0EFsWNa1bDsZEZz25pYq) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Yah!! \(Okay\)](https://open.spotify.com/album/2o0WeJjUHLkk4SFebG2end) | 2:08 | 2024-03-07 | 2024-05-10 |
 | [Yahoo Boyz](https://open.spotify.com/track/3wpeLSiAbdEOPEMe0FoPd8) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [Yahoo Boyz](https://open.spotify.com/album/7mWIwlwwLAzL5Ez3DXJXho) | 3:24 | 2026-06-25 |  |
-| [Ye Driver](https://open.spotify.com/track/6WCgupVKfuTkZpddiifIC4) | [Tallrickyworldwide](https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS) | [Ye Driver](https://open.spotify.com/album/4NTyKURgkSaWjRlE9UVUWx) | 1:56 | 2025-11-12 |  |
+| [Ye Driver](https://open.spotify.com/track/6WCgupVKfuTkZpddiifIC4) | [Tallrickyworldwide](https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS) | [Ye Driver](https://open.spotify.com/album/4NTyKURgkSaWjRlE9UVUWx) | 1:56 | 2025-11-12 | 2026-09-11 |
 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 | 2022-12-12 | 2023-03-10 |
 | [Year 24](https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Year 24](https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3) | 3:16 | 2024-07-18 | 2025-03-08 |
 | [Year 64](https://open.spotify.com/track/7bb5sYepNQNfNhLf0gg4aa) | [MODAR](https://open.spotify.com/artist/35Uvd85AfUR39B4ZPWWf27), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Year 64](https://open.spotify.com/album/5nwCFWjuKXKPekROJ1KabV) | 2:26 | 2025-07-04 | 2026-02-28 |

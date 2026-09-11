@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,701 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,736 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 63 | [El Oso del Dinero](https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:37 |
 | 64 | [Tyson](https://open.spotify.com/track/7sS5P7HJpRI6dslzJ55z6C) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tyson](https://open.spotify.com/album/7bQIXLkfIzUnpEqfDElNA0) | 2:41 |
 | 65 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
-| 66 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
-| 67 | [Swaggy](https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Swaggy](https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY) | 4:18 |
+| 66 | [Swaggy](https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Swaggy](https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY) | 4:18 |
+| 67 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
 | 68 | [Huracheee](https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Huracheee](https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo) | 4:04 |
 | 69 | [ChuliGang](https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:43 |
 | 70 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 78 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
 | 79 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
 | 80 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 |
-| 81 | [Donde Estabas Tu](https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Yo Siempre Ando Con Los Oidos Fresh](https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ) | 3:16 |
-| 82 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
+| 81 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
+| 82 | [Donde Estabas Tu](https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Yo Siempre Ando Con Los Oidos Fresh](https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ) | 3:16 |
 | 83 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
 | 84 | [Bipolar](https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3) | 3:39 |
 | 85 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 115 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 |
 | 116 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 
-Snapshot ID: `AAAAACtZYcO4HoFLu5QQKcRn4fw8nMxD`
+Snapshot ID: `AAAAAN1qlbHB4pkipfHeMmy1d5DAbUNY`

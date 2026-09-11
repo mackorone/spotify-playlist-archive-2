@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 573272,
+  "num_followers": 573306,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAACM8cDbV82rCG0dm10sb5m8",
+  "snapshot_id": "aqChgAAAAABE6J5FuvzSI4OnzJOBBndF",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 203813,
-      "name": "The Pride",
-      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way of the Fist",
-        "url": "https://open.spotify.com/album/4UiURCeJj7RgC3MVel2zOt"
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/0TQF4OMoW5fWulylUfoMQU"
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
     },
     {
       "added_at": null,

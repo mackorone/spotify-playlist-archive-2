@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18582,
+  "num_followers": 18584,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ap9QAAAAAAASVVAZwPHGAFKhFGigiBbw",
+  "snapshot_id": "aqChgAAAAAD8pJc3nkvHTZkV+rZwEBmI",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Let Him Go (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 255296,
-      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+      "duration_ms": 109466,
+      "name": "The Break Of Dawn",
+      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 255296,
+      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Incredibles (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 212133,
       "name": "The Glory Days",
       "url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+        "name": "Lost: The Final Season (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 260360,
-      "name": "Nomanisone Island/National Movers",
-      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
+      "duration_ms": 474506,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost: The Final Season (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
       "artists": [
         {
@@ -764,29 +764,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 474506,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 112600,
-      "name": "The Old Zoo Review",
-      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
+      "duration_ms": 260360,
+      "name": "Nomanisone Island/National Movers",
+      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 354080,
       "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
       "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 112600,
+      "name": "The Old Zoo Review",
+      "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-805 songs - 1 day 14 hr 34 min
+806 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 | 2024-06-19 |
 | [No Safety](https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Safety](https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW) | 1:58 | 2023-08-11 | 2024-03-12 |
 | [No Warning](https://open.spotify.com/track/0IpjYI6B7fQ8pHf7DehETC) | [Kotti](https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [No Warning](https://open.spotify.com/album/4m9NB3gZg9fIswBJ1Iraov) | 2:05 | 2026-03-13 |  |
+| [No Way \- Extended Version](https://open.spotify.com/track/2N35IxjJoPcnHob5VuIyuf) | [The Bhamrah](https://open.spotify.com/artist/3sbwJ1C6i8P0yPFHPE6sYm), [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd) | [No Way \- Extended Version](https://open.spotify.com/album/2Q74p9D1KY07ImM5zFl9NU) | 2:23 | 2026-09-10 |  |
 | [No Way Back](https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Yaari Ghumaan](https://open.spotify.com/artist/7IStg4VLfRCVMMIL5RgToK) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 2:34 | 2023-04-14 | 2023-04-21 |
 | [Nobody Knows](https://open.spotify.com/track/4ymJPdUwuzdlOSZgEIpoWq) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Nobody Knows](https://open.spotify.com/album/3CqHboq7IB4Brebg1azznk) | 4:36 | 2023-07-14 | 2025-04-11 |
 | [Non Stop](https://open.spotify.com/track/6M8xk0zbXFbAkLwfVyN7T3) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Non Stop](https://open.spotify.com/album/3vpikp9NDP0lnWM15cc51b) | 3:15 | 2025-08-04 | 2025-09-24 |
@@ -619,7 +620,7 @@
 | [Reckless](https://open.spotify.com/track/2v2mjj2MR3Hn4tqsGUY9yy) | [Raahi Rana](https://open.spotify.com/artist/2oyC92A0JdkwjwXSiaMISV), [Sokhey](https://open.spotify.com/artist/4laP09HfJ6zF5LCriwUZCJ) | [Reckless](https://open.spotify.com/album/0mYyZKRMAVxjEjjM6Gx7bg) | 2:26 | 2026-03-13 | 2026-04-17 |
 | [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-23 | 2025-04-18 |
 | [Reckless](https://open.spotify.com/track/2ffcSt4PuNL0OFCCXF3yUi) | [Sukhman Cheema](https://open.spotify.com/artist/5uIDwOqSyyH4CzNAk31sAZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Reckless](https://open.spotify.com/album/32fDSUrkwEgYV6zaia8SBi) | 2:27 | 2024-06-03 | 2024-06-11 |
-| [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-06-02 |  |
+| [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-06-02 | 2026-09-11 |
 | [Requirement](https://open.spotify.com/track/178AWgKX1C424sDBUGI04L) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Mehraj Deep](https://open.spotify.com/artist/7nbT7stif3z27aRr8gSv35) | [Requirement](https://open.spotify.com/album/6NnGBBdfufKlUcYPOKhSOX) | 2:53 | 2024-08-28 |  |
 | [Reshami Rumal](https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Reshami Rumal](https://open.spotify.com/album/6BinEWb7r68vOm0Q69VYWw) | 2:52 | 2025-02-09 | 2025-02-20 |
 | [Responsible](https://open.spotify.com/track/50PVqUQXKUG5CvtJUowAfl) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Responsible](https://open.spotify.com/album/5eMbobEyAhvmwvJsK3k8qu) | 2:58 | 2024-08-14 |  |

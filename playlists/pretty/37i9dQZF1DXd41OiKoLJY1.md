@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Arron Rebustes\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,911 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,935 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Chupoy Chupoy](https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz) | [Hoodlum!](https://open.spotify.com/artist/11wSIVDDczCVk5xCHalMQh) | [Hoodlum Debut Album](https://open.spotify.com/album/0qwt2mzKGv6lSQrdKc6Wbl) | 5:25 |
 | 50 | [TAKIS](https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [TAKIS](https://open.spotify.com/album/7gKzeZUuIW2aKU95TWqWe1) | 2:45 |
 
-Snapshot ID: `AAAAAK2bom1hXIRp0SO9Iyp7Aj6iC3KO`
+Snapshot ID: `AAAAAMLMAAWGTjLvJ5uyweODZBnTZk9a`

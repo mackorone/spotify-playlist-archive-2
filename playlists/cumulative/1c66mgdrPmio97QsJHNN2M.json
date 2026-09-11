@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Children and Ghosts",
+        "url": "https://open.spotify.com/album/2WFJU0J3dKY7kchRxHehHL"
+      },
+      "artists": [
+        {
+          "name": "Dan Pallotta",
+          "url": "https://open.spotify.com/artist/2nL1ln75TY8crCDyqh5gGp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193897,
+      "name": "Abandoned Mansion",
+      "url": "https://open.spotify.com/track/2GCQP3Ox9U8CvXNvaJxg9S"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5YsUm27SsctVJpdYJa0nwA"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 251803,
       "name": "About You",
       "url": "https://open.spotify.com/track/7ItQwRfPAf6DoojB0QhJCj"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 204800,
       "name": "Absolutely Nothing",
       "url": "https://open.spotify.com/track/3mi7S7vtRDfru79h9sb7tn"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197973,
       "name": "all the time",
       "url": "https://open.spotify.com/track/6CEBq7LrrGPEpYtGK9e01K"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 207692,
       "name": "Baby We Both Left Us",
       "url": "https://open.spotify.com/track/0QnFtgAkjarP6vARh3eV6N"
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 105103,
       "name": "Birds",
       "url": "https://open.spotify.com/track/1q6QguRRTdBU4LPaoOFz9E"
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 378669,
       "name": "Borea",
       "url": "https://open.spotify.com/track/7e2muCPFCrDSNmXDDesfaf"
@@ -5722,6 +5740,24 @@
       "duration_ms": 181079,
       "name": "Born on IBIZA - Radio Edit",
       "url": "https://open.spotify.com/track/5cVLWXiuEPGquXy4ThZ3ZG"
+    },
+    {
+      "album": {
+        "name": "Born To Create (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0SgJzKTkTAXIBMHdQHbX1B"
+      },
+      "artists": [
+        {
+          "name": "Diego Federico",
+          "url": "https://open.spotify.com/artist/56N7gi3qQbmNOr1H35vZRj"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138346,
+      "name": "Born To Create - Acoustic Version",
+      "url": "https://open.spotify.com/track/6DglhaCZZzazyteXhiV25j"
     },
     {
       "album": {
@@ -6834,7 +6870,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 147647,
       "name": "California Guys",
       "url": "https://open.spotify.com/track/2pvo6gLx35VoATAsA8YRG5"
@@ -8707,6 +8743,24 @@
     },
     {
       "album": {
+        "name": "Confessing",
+        "url": "https://open.spotify.com/album/4J8nmJuw8lxb8jD3EpuwRm"
+      },
+      "artists": [
+        {
+          "name": "Aryan Nair",
+          "url": "https://open.spotify.com/artist/0srr2ktacQYrZNOxG7Y0lS"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138774,
+      "name": "Confessing",
+      "url": "https://open.spotify.com/track/18H1KNefGu8vS6VxGoTESI"
+    },
+    {
+      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/5BDT4XiSR1kk8ou5JFaCkL"
       },
@@ -8862,7 +8916,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 230592,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/2NDB716nAjjDSFAE7Y2fg9"
@@ -9456,7 +9510,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164919,
       "name": "Dabaday",
       "url": "https://open.spotify.com/track/3JJcuh3hioPS9EmYVI3Atw"
@@ -13576,7 +13630,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176645,
       "name": "Everybody Wins In The End",
       "url": "https://open.spotify.com/track/0gMrJ7ptvO2rg2XIhvkv6f"
@@ -14438,7 +14492,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 151124,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN"
@@ -15230,6 +15284,24 @@
       "duration_ms": 258000,
       "name": "Flowers of my Heart",
       "url": "https://open.spotify.com/track/2iu3JELMFPQiIK3NfwiNMJ"
+    },
+    {
+      "album": {
+        "name": "Flowing away",
+        "url": "https://open.spotify.com/album/5pNYf7gOJuG3mphp3kFeim"
+      },
+      "artists": [
+        {
+          "name": "ROBERTO ANDREOLI",
+          "url": "https://open.spotify.com/artist/2njD5URlCc3rQMX9FhvWJ7"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197177,
+      "name": "Flowing away",
+      "url": "https://open.spotify.com/track/6q8Nyh38fyxpDUUG1QdFbI"
     },
     {
       "album": {
@@ -17834,7 +17906,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 97986,
       "name": "Grey",
       "url": "https://open.spotify.com/track/1nAM5kHtIcyEinyD3iOwpi"
@@ -23440,7 +23512,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181148,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/3UybJIMAhST8YL8RMzSVkb"
@@ -23520,6 +23592,24 @@
       "duration_ms": 352000,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/4bVQwPkcnVrh9Wf2WaV1sb"
+    },
+    {
+      "album": {
+        "name": "Just a lie",
+        "url": "https://open.spotify.com/album/0lj8QmIA8QKFv6YrhO4jIl"
+      },
+      "artists": [
+        {
+          "name": "Gadir",
+          "url": "https://open.spotify.com/artist/5OETPu2nXzwWkBbabbissm"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158443,
+      "name": "Just a lie",
+      "url": "https://open.spotify.com/track/1YuU9k2LKuEdoZHVo6wmjX"
     },
     {
       "album": {
@@ -29460,7 +29550,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 184477,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/5OqPFeUrijH6BpAyk94Foq"
@@ -32872,7 +32962,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 181662,
       "name": "Opening - |heavy|caesium|",
       "url": "https://open.spotify.com/track/23XsnihkZ0VljS8DuIT64r"
@@ -33708,7 +33798,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 103359,
       "name": "Partner in Time",
       "url": "https://open.spotify.com/track/4AUjKI2e2YBFyCKz6rq7Kk"
@@ -37532,7 +37622,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 222615,
       "name": "Same Old Ways",
       "url": "https://open.spotify.com/track/1vDfw765O8PyvfuLHmNkTh"
@@ -39526,7 +39616,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 244800,
       "name": "Skyline Funk",
       "url": "https://open.spotify.com/track/4sQhlViUbxllAJ00sWrAh2"
@@ -41520,7 +41610,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 138643,
       "name": "Strippers Vanish in Flickering Light",
       "url": "https://open.spotify.com/track/5GSXXdfLENOaxYJSHz60cd"
@@ -41610,7 +41700,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 175299,
       "name": "Stuck in The Programmed Death",
       "url": "https://open.spotify.com/track/2G3O85k3Q8iHarWK7QHoyV"
@@ -42572,7 +42662,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 176442,
       "name": "Take me or leave me",
       "url": "https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI"
@@ -44796,7 +44886,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 190096,
       "name": "The world keeps turning - An ode to Florian",
       "url": "https://open.spotify.com/track/3mc2agQ3CpAjGnZMfgAeME"
@@ -45838,7 +45928,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 77538,
       "name": "To Little Jacky",
       "url": "https://open.spotify.com/track/6hnKtERzyWzZxkZkkWk9Fv"
@@ -47906,7 +47996,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 157336,
       "name": "wait for you",
       "url": "https://open.spotify.com/track/48sji6Ba40RhDoyCCa3sQh"
@@ -48404,7 +48494,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172886,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/5McpysRvZuq2TjK5qH31VU"
@@ -48686,6 +48776,24 @@
       "duration_ms": 181752,
       "name": "Welcome To The Quiet",
       "url": "https://open.spotify.com/track/00z09bRtl3Rd8QwSPDfGcX"
+    },
+    {
+      "album": {
+        "name": "Went Wrong",
+        "url": "https://open.spotify.com/album/53YCo1HmPJdOMUqiRNmsH6"
+      },
+      "artists": [
+        {
+          "name": "ZYL",
+          "url": "https://open.spotify.com/artist/5nhwKwyXKnfHFVdI1j6mfV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Went Wrong",
+      "url": "https://open.spotify.com/track/5a2Oyd4axDiYLPWo7LKTi6"
     },
     {
       "album": {

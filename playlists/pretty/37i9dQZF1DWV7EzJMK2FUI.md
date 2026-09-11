@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,095 likes - 210 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318,517 likes - 210 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 209 | [Emeralds](https://open.spotify.com/track/2Oottz1nS02NqaTNmfg3jl) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Emeralds](https://open.spotify.com/album/4VK7YSOolCFuqlHbo2RcFO) | 3:04 |
 | 210 | [Long Have I Longed For](https://open.spotify.com/track/6i1w3XtzHwlDGP1qgF2p8P) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [Long Have I Longed For](https://open.spotify.com/album/44xa25y3tXuGxa2xdw3AdM) | 3:10 |
 
-Snapshot ID: `AAAAAKe+s5ilkJTfshAD7JDJdgVZ5+41`
+Snapshot ID: `AAAAAHtvOLTg+aS3aVce5z6y8qVpJgwP`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Kiko Veneno.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -5846,7 +5846,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 197169,
       "name": "Extra\u00f1os Amantes",
       "url": "https://open.spotify.com/track/1ROAWnefYAAiZkm8Ru5zhn"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 270350,
       "name": "Feo, fuerte y formal (feat. Dani Mart\u00edn)",
       "url": "https://open.spotify.com/track/4eNULXk6WZ39Tkhnu07nGF"
@@ -6818,7 +6818,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 206520,
       "name": "Instrucciones",
       "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
@@ -7014,6 +7014,24 @@
       "duration_ms": 217279,
       "name": "Juliette - Versi\u00f3n 2005",
       "url": "https://open.spotify.com/track/5J07Go5VORFPvKsN5tzcXe"
+    },
+    {
+      "album": {
+        "name": "Junto Al Cenicero",
+        "url": "https://open.spotify.com/album/15Iy0RzTnfsmL4QV0y1EDm"
+      },
+      "artists": [
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "Junto Al Cenicero",
+      "url": "https://open.spotify.com/track/6NQaIhAMoO2H9ty6UJo1Du"
     },
     {
       "album": {
@@ -7756,7 +7774,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
@@ -9524,7 +9542,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 184080,
       "name": "Me Levantar\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2yEFajNz4fcD7x5xuDEDPe"
@@ -9662,6 +9680,28 @@
       "duration_ms": 233026,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "album": {
+        "name": "Menquitofla",
+        "url": "https://open.spotify.com/album/1tYP36OUuRPJUwRk0a0XVB"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        },
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244558,
+      "name": "Menquitofla",
+      "url": "https://open.spotify.com/track/2zqkP9lyXLF5l5H52KLHK1"
     },
     {
       "album": {
@@ -10793,6 +10833,28 @@
     },
     {
       "album": {
+        "name": "No tengo prisa (en Estudio Uno)",
+        "url": "https://open.spotify.com/album/68U4Rdtb7cItYUQ53jBjTg"
+      },
+      "artists": [
+        {
+          "name": "Drugos",
+          "url": "https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225505,
+      "name": "No tengo prisa (en Estudio Uno)",
+      "url": "https://open.spotify.com/track/2PmKRG66hvKjnFvvt7Z4Nb"
+    },
+    {
+      "album": {
         "name": "No tengo remedio",
         "url": "https://open.spotify.com/album/7u35naIey6LQuXIEYC9D24"
       },
@@ -10866,7 +10928,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 230360,
       "name": "Noche Oscura (feat. Leiva)",
       "url": "https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W"
@@ -10964,7 +11026,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 262465,
       "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
       "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
@@ -11370,7 +11432,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 304683,
       "name": "Para morir solo hay que estar vivo",
       "url": "https://open.spotify.com/track/5yldmjLQwFs87PscAWszgh"
@@ -11432,7 +11494,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 191231,
       "name": "Para volverte a decir",
       "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
@@ -11508,6 +11570,24 @@
       "duration_ms": 222316,
       "name": "Peque\u00f1a Madrid",
       "url": "https://open.spotify.com/track/7GV6fdQaeo70i3sSDMl6IX"
+    },
+    {
+      "album": {
+        "name": "Perfumes",
+        "url": "https://open.spotify.com/album/7eqUE5FwgaPuLAUaRijuHp"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166170,
+      "name": "Perfumes",
+      "url": "https://open.spotify.com/track/0WcKCKqAyUP0TWcAc2PwIv"
     },
     {
       "album": {
@@ -14168,7 +14248,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 208046,
       "name": "TODO O NADA (feat. Bunbury)",
       "url": "https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ"
@@ -14230,6 +14310,24 @@
       "duration_ms": 369546,
       "name": "Todo se desvanece (Al amanecer)",
       "url": "https://open.spotify.com/track/3vDSJAQdsQb9bLl3dFM3gy"
+    },
+    {
+      "album": {
+        "name": "Todo Se Est\u00e1 Yendo A La Mierda",
+        "url": "https://open.spotify.com/album/0FtSjAkZQQgq1VxfUKjhuu"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Todo Se Est\u00e1 Yendo A La Mierda",
+      "url": "https://open.spotify.com/track/7o2Lt72zc6VKzg6f4O8Lcp"
     },
     {
       "album": {
@@ -15531,6 +15629,24 @@
     },
     {
       "album": {
+        "name": "Ya te vale - Cap. III",
+        "url": "https://open.spotify.com/album/5ClpTdQdS9yFZP3m3xWIFd"
+      },
+      "artists": [
+        {
+          "name": "Los Estanques",
+          "url": "https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228849,
+      "name": "Ya te vale - Cap. III",
+      "url": "https://open.spotify.com/track/3wxniaEbA6uQyYjjUyWuza"
+    },
+    {
+      "album": {
         "name": "Yo estar\u00e9",
         "url": "https://open.spotify.com/album/6t0Ark5GJA6ScDpeMt01zo"
       },
@@ -15586,6 +15702,28 @@
       "duration_ms": 175376,
       "name": "Yo quiero bailar",
       "url": "https://open.spotify.com/track/4jY0UQJeRCudRQyzlGqoJD"
+    },
+    {
+      "album": {
+        "name": "Yo y mi manager",
+        "url": "https://open.spotify.com/album/51kXqNYofVJOAddDYiQKVb"
+      },
+      "artists": [
+        {
+          "name": "Kiko Veneno",
+          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221794,
+      "name": "Yo y mi manager",
+      "url": "https://open.spotify.com/track/2n4iCJiPQTlUtPZL9s7T72"
     },
     {
       "album": {

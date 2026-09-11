@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40 Luko, Kris, Speedy p\u00e5 cover!!",
+  "description": "kun det nyeste danske rap \ud83d\udc40 Merro8 p\u00e5 cover!!",
   "name": "rap dk",
   "tracks": [
     {
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 118240,
       "name": "CVR nr",
       "url": "https://open.spotify.com/track/5VWEyiesrywosbXAWnYeZi"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 145097,
       "name": "don general",
       "url": "https://open.spotify.com/track/6X0VZCGJKpoMGDYflITj4u"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 152411,
       "name": "FDP",
       "url": "https://open.spotify.com/track/0eBBDwENzkwUEvL9fSSOsv"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 171227,
       "name": "Fork\u00e6l Dig Selv",
       "url": "https://open.spotify.com/track/2PjTqP87YekZAmMwABHcCz"
@@ -7861,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Min Demon",
+        "url": "https://open.spotify.com/album/1oCCMMqM8JVf8FejDKu257"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152501,
+      "name": "Min Demon",
+      "url": "https://open.spotify.com/track/4gubHYqq2WnDMahm19OLo0"
+    },
+    {
+      "album": {
         "name": "MINUTTER, TIMER",
         "url": "https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w"
       },
@@ -9150,6 +9168,24 @@
       "duration_ms": 112053,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr"
+    },
+    {
+      "album": {
+        "name": "Rosalina",
+        "url": "https://open.spotify.com/album/1jsPno70OZUz40QtlMNqPt"
+      },
+      "artists": [
+        {
+          "name": "ZK",
+          "url": "https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154338,
+      "name": "Rosalina",
+      "url": "https://open.spotify.com/track/1d9Cyx8gxzsVcc2AgBrJn0"
     },
     {
       "album": {

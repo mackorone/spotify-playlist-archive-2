@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Ryno Velvet, Byron Minnie, Snotkop, Ricus Nel, Dirk Van Der Westhuizen en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Leah, Brendan Peyper, Donkerbaai, Harry CBY, Nicholis Louw en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1618,6 +1618,24 @@
       "duration_ms": 183809,
       "name": "Al maak dit seer",
       "url": "https://open.spotify.com/track/6SytcMeDCxoitM1nuv4kkV"
+    },
+    {
+      "album": {
+        "name": "Al Wat Ek Wil H\u00ea",
+        "url": "https://open.spotify.com/album/3mhTfrH8gZWE2zfrAj4PBS"
+      },
+      "artists": [
+        {
+          "name": "Leah",
+          "url": "https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164464,
+      "name": "Al Wat Ek Wil H\u00ea",
+      "url": "https://open.spotify.com/track/7a6SwIG3fQusFlCI4ig6VC"
     },
     {
       "album": {
@@ -5608,7 +5626,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199500,
       "name": "Bly In Jou Baan",
       "url": "https://open.spotify.com/track/3wNuwI4JUltqlUtof6H32M"
@@ -6238,6 +6256,24 @@
       "duration_ms": 163128,
       "name": "Bokke Spring",
       "url": "https://open.spotify.com/track/2Vx2yStDNHE0XEUcwi3c2L"
+    },
+    {
+      "album": {
+        "name": "Bokkie",
+        "url": "https://open.spotify.com/album/4Z1aIbhVI8E90mv7EIPyWV"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216818,
+      "name": "Bokkie",
+      "url": "https://open.spotify.com/track/46JCxw82UtpNEJvlg0pafu"
     },
     {
       "album": {
@@ -14777,6 +14813,24 @@
     },
     {
       "album": {
+        "name": "Ek Wil Jou Sien",
+        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
+      },
+      "artists": [
+        {
+          "name": "SENTIMENT",
+          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183238,
+      "name": "Ek Wil Jou Sien",
+      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
+    },
+    {
+      "album": {
         "name": "Ek Wil Onthou",
         "url": "https://open.spotify.com/album/0bqOTz84tfXNvu9m3Ef8QY"
       },
@@ -17139,6 +17193,24 @@
     },
     {
       "album": {
+        "name": "Groet",
+        "url": "https://open.spotify.com/album/6ymQuifVwpks6uAbOQvEad"
+      },
+      "artists": [
+        {
+          "name": "Dian Roux",
+          "url": "https://open.spotify.com/artist/4BEqu4XnNSCazGvgtSYbOo"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Groet",
+      "url": "https://open.spotify.com/track/3XOllJrgWq5vCyWXYa7YQ0"
+    },
+    {
+      "album": {
         "name": "Grondboontjiebotter",
         "url": "https://open.spotify.com/album/2Xoe7TR3avw0S1GieIDeG4"
       },
@@ -17522,7 +17594,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 230303,
       "name": "Hallo My Hart",
       "url": "https://open.spotify.com/track/3eT7kDYndBjQQiZr5owF6V"
@@ -19715,6 +19787,24 @@
     },
     {
       "album": {
+        "name": "Hoop Is 'n Vlam",
+        "url": "https://open.spotify.com/album/4pvlQ5fjYWijCfPJ7anJOP"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "hoop is 'n vlam",
+      "url": "https://open.spotify.com/track/17tPW5NhB67E6x2OQF7Qjz"
+    },
+    {
+      "album": {
         "name": "Hoor Jou",
         "url": "https://open.spotify.com/album/0bW7DU6ksMdE8NuviMYKnq"
       },
@@ -21070,7 +21160,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 212000,
       "name": "In Potlood Geskryf",
       "url": "https://open.spotify.com/track/5LHPdMah1lWWOea0upLRhj"
@@ -22576,6 +22666,24 @@
       "duration_ms": 197797,
       "name": "Jy Moet Weet",
       "url": "https://open.spotify.com/track/5Xm5GGCHsfRFU2lEvzuBDy"
+    },
+    {
+      "album": {
+        "name": "Jy Onthou Nie",
+        "url": "https://open.spotify.com/album/3frXnpKyIUBSX5hbVwSoRG"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190821,
+      "name": "Jy Onthou Nie",
+      "url": "https://open.spotify.com/track/3MzLwe3SUFiSqcCy9V3oQh"
     },
     {
       "album": {
@@ -25445,6 +25553,24 @@
     },
     {
       "album": {
+        "name": "KOMKOMMER",
+        "url": "https://open.spotify.com/album/2iTnXYGh9TMtuSmqNndKJm"
+      },
+      "artists": [
+        {
+          "name": "VAN STRATEN",
+          "url": "https://open.spotify.com/artist/5DcFd7lQEbXVARzNZ4q2Qu"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "KOMKOMMER",
+      "url": "https://open.spotify.com/track/4kHiY4F0N9xeHoVTNIjDar"
+    },
+    {
+      "album": {
         "name": "Komma Kind",
         "url": "https://open.spotify.com/album/18GrivTGuFujTHve0tfHps"
       },
@@ -26256,7 +26382,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 247618,
       "name": "Laaste Asem",
       "url": "https://open.spotify.com/track/0Npu9zmvuyy9bJiqPMKmde"
@@ -26874,7 +27000,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 194560,
       "name": "Langarm en Liefde",
       "url": "https://open.spotify.com/track/2OP7Uxh6cU0bkL5ZsVAtge"
@@ -32160,7 +32286,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 171713,
       "name": "Naam Weggooi",
       "url": "https://open.spotify.com/track/6KB5RJg3ZbzNPSqESXMIVj"
@@ -32818,6 +32944,28 @@
       "duration_ms": 201776,
       "name": "Net Een Soen",
       "url": "https://open.spotify.com/track/0NJ6SiIUD8EIu1B5vbeoec"
+    },
+    {
+      "album": {
+        "name": "Net Ek en Jy",
+        "url": "https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY"
+      },
+      "artists": [
+        {
+          "name": "Donkerbaai",
+          "url": "https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL"
+        },
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Net Ek en Jy",
+      "url": "https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP"
     },
     {
       "album": {
@@ -34782,7 +34930,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 213266,
       "name": "Onafgerond",
       "url": "https://open.spotify.com/track/7t8Tb0XPXFlOQknNw5F9D7"
@@ -35830,7 +35978,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216938,
       "name": "Op My Knie\u00eb",
       "url": "https://open.spotify.com/track/3o56xSNPWbUHCL6OBsYa32"
@@ -36000,6 +36148,24 @@
       "duration_ms": 160631,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5oIf1T25Eixf1ToSIwwIRx"
+    },
+    {
+      "album": {
+        "name": "Ou Dae",
+        "url": "https://open.spotify.com/album/5n6leyU2fN4RUrSASZ3YMV"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220169,
+      "name": "Ou Dae",
+      "url": "https://open.spotify.com/track/2JkJC4K0YvUukeW41p1hXK"
     },
     {
       "album": {
@@ -36354,7 +36520,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 213068,
       "name": "Paarlberg",
       "url": "https://open.spotify.com/track/1VOcaNMqOvAqafMBJajy7A"
@@ -39660,7 +39826,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 233515,
       "name": "Sal Jy?",
       "url": "https://open.spotify.com/track/5ZdMOLZV1OJpHGTU33VWEA"
@@ -42185,6 +42351,24 @@
     },
     {
       "album": {
+        "name": "Soms Wil Ek Huis Toe Kom",
+        "url": "https://open.spotify.com/album/3ZBQQKpyH9qGpNylfDgves"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clark",
+          "url": "https://open.spotify.com/artist/4DAHZC0I34GRuWsD6UXADb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182598,
+      "name": "Soms Wil Ek Huis Toe Kom",
+      "url": "https://open.spotify.com/track/0xpIZO2HikpsLEvzZvOoGi"
+    },
+    {
+      "album": {
         "name": "Sondaar",
         "url": "https://open.spotify.com/album/2IpTB4QoWXDVx555nJWN9I"
       },
@@ -42730,6 +42914,24 @@
       "duration_ms": 208124,
       "name": "Soos Bloed - SENSASIE Remix",
       "url": "https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR"
+    },
+    {
+      "album": {
+        "name": "Soos Bloed (Twisted Acoustics Volume One)",
+        "url": "https://open.spotify.com/album/1BXsbVfxqP7GEDY4wr7D48"
+      },
+      "artists": [
+        {
+          "name": "Twisted",
+          "url": "https://open.spotify.com/artist/7MQQ0nMMjKlQdgC06xyqaN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212911,
+      "name": "Soos Bloed - Twisted Acoustics Volume One",
+      "url": "https://open.spotify.com/track/7uLqNjHkk0I5badDSBQTZc"
     },
     {
       "album": {
@@ -45032,6 +45234,24 @@
     {
       "album": {
         "name": "Sy",
+        "url": "https://open.spotify.com/album/2b5Z45c4qjhIbzLl4q3hwc"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Sy",
+      "url": "https://open.spotify.com/track/53IJpHeitL0XBlYhCzfcTI"
+    },
+    {
+      "album": {
+        "name": "Sy",
         "url": "https://open.spotify.com/album/7c9vC4WQE98xsBEx6WFhC9"
       },
       "artists": [
@@ -45276,7 +45496,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 172571,
       "name": "S\u00ea My Hoe",
       "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
@@ -46250,7 +46470,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 229017,
       "name": "Toelaat",
       "url": "https://open.spotify.com/track/2xv9q2QK3wWHRB5nM0TLde"
@@ -48997,6 +49217,28 @@
     },
     {
       "album": {
+        "name": "Vir die Aardskinders",
+        "url": "https://open.spotify.com/album/3EJrnq41sWpsLUtSOYQUbZ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223950,
+      "name": "Vir die Aardskinders",
+      "url": "https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj"
+    },
+    {
+      "album": {
         "name": "Vir Die Beter",
         "url": "https://open.spotify.com/album/51Ts9x9SB56LnkY6ozGXrA"
       },
@@ -49923,6 +50165,24 @@
     },
     {
       "album": {
+        "name": "Voor Ek Val",
+        "url": "https://open.spotify.com/album/01smj7S0mHn24PaGvsYzQk"
+      },
+      "artists": [
+        {
+          "name": "Lu-Anel",
+          "url": "https://open.spotify.com/artist/5gQEsU63jR0zFVIqgQBKJI"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Voor Ek Val",
+      "url": "https://open.spotify.com/track/1dj09OwbW8GXgGwGzXPRHK"
+    },
+    {
+      "album": {
         "name": "Voortrekkers Medley: Ken Jy Die Land / Dis Net 'n Worsie / Wandellied / Wat Maak 'n Kamp So Lekker / Wat Maak 'n Trekker",
         "url": "https://open.spotify.com/album/1gpsLVsOs1eOZ2eLKbXdTg"
       },
@@ -50100,7 +50360,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 231111,
       "name": "Vrees",
       "url": "https://open.spotify.com/track/69qAcLmsKMuEBfAAWhbqgq"
@@ -50642,7 +50902,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 159994,
       "name": "V\u00ear Van Die Huis Af",
       "url": "https://open.spotify.com/track/2Tsi2JPhmT0p1AiD4TwUoo"

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français.
+> Leto au top de la première playlist de rap français.
 
-471 songs - 23 hr 31 min
+472 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 | 2024-05-23 | 2024-09-20 |
 | [Collabo](https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 2:54 | 2024-11-14 | 2025-10-03 |
 | [Connexion macabre](https://open.spotify.com/track/2qoMCkSjfBzKShOcX72vSc) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Connexion macabre](https://open.spotify.com/album/1wZ67bWhwMoyx5xBy63t19) | 2:32 | 2025-10-16 | 2026-02-27 |
+| [Cote à la hausse](https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:56 | 2026-09-10 |  |
 | [Cramé](https://open.spotify.com/track/3Db0wui02C3y86PfDJg5aC) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Cramé](https://open.spotify.com/album/6XqY3jSiJKGAT6rEQ96eYA) | 3:05 | 2022-01-06 | 2022-01-14 |
 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-07-25 | 2024-12-13 |
 | [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 | 2025-07-03 | 2025-10-10 |
@@ -348,7 +349,7 @@
 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-23 | 2023-12-15 |
 | [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-02-05 | 2026-06-26 |
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-01-27 | 2022-11-25 |
-| [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 | 2026-05-14 |  |
+| [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 | 2026-05-14 | 2026-09-11 |
 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 | 2023-05-11 | 2023-09-15 |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-10 | 2022-05-20 |
 | [PERFORMANTE](https://open.spotify.com/track/2SVjgOVxvQPzdOcATrtMOt) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [PERFORMANTE](https://open.spotify.com/album/3ChDknRV7QXyj9hG8HWGAR) | 3:26 | 2025-03-13 | 2025-05-30 |

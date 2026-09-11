@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,538 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,581 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 6 | [Car Culture](https://open.spotify.com/track/11FoY6Yj3iknqKuky8yv46) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Car Culture](https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps) | 3:29 |
 | 7 | [Banda Bamb](https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:54 |
 | 8 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
-| 9 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |
+| 9 | [No Way \- Extended Version](https://open.spotify.com/track/2N35IxjJoPcnHob5VuIyuf) | [The Bhamrah](https://open.spotify.com/artist/3sbwJ1C6i8P0yPFHPE6sYm), [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd) | [No Way \- Extended Version](https://open.spotify.com/album/2Q74p9D1KY07ImM5zFl9NU) | 2:23 |
 | 10 | [Real Thoughts](https://open.spotify.com/track/7njEzMtNyaSjdHgZ4B15mJ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF) | [BLACK AND WHITE](https://open.spotify.com/album/5qVFswtg7g13VmcMCVWzrF) | 8:15 |
 | 11 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 |
 | 12 | [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
 | 100 | [Unskippable](https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Unskippable](https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR) | 2:21 |
 
-Snapshot ID: `AAAAAC8dzh8AxEIjDV8Qsm5ktHP4A4EX`
+Snapshot ID: `AAAAALPdoAhFnokHNUQkg03Iqc2TrV3U`

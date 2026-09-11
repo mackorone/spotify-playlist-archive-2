@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,306 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,311 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 44 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
 | 45 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
 | 46 | [Estallar](https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w) | [Inválido](https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq) | [Todo el Silencio](https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL) | 5:50 |
-| 47 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
-| 48 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
+| 47 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
+| 48 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
 | 49 | [Comenzar De Cero](https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5) | [Congelador](https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat) | [Panorama Neutral](https://open.spotify.com/album/4TMvWBmWr1WTTBIPzsLGul) | 3:22 |
 | 50 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
 

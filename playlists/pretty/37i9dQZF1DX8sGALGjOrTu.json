@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 538792,
+  "num_followers": 538829,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "The New Black",
+      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "Lead Sails Paper Anchor",
         "url": "https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 267826,
       "name": "Ride The Wings Of Pestilence",
       "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "The New Black",
-      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Second Stage Turbine Blade (Re-Issue)",
-        "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 287866,
-      "name": "Devil In Jersey City",
-      "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Big Dirty",
         "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204720,
       "name": "We'rewolf",
       "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Second Stage Turbine Blade (Re-Issue)",
+        "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 287866,
+      "name": "Devil In Jersey City",
+      "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "New Medicines",
+        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
+      },
+      "artists": [
+        {
+          "name": "Dead Poetic",
+          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "New Medicines",
+      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
       },
@@ -1135,22 +1167,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "New Medicines",
-        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
-      },
-      "artists": [
-        {
-          "name": "Dead Poetic",
-          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "New Medicines",
-      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "What To Do When You Are Dead",
         "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Counting 5-4-3-2-1",
-      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "In Search of Solid Ground",
         "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 205480,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Counting 5-4-3-2-1",
+      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "From Them, Through Us, To You",
-        "url": "https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f"
-      },
-      "artists": [
-        {
-          "name": "Madina Lake",
-          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Anti Mother",
         "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 280546,
       "name": "Surrender Your Sons",
       "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "From Them, Through Us, To You",
+        "url": "https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f"
+      },
+      "artists": [
+        {
+          "name": "Madina Lake",
+          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
-      },
-      "artists": [
-        {
-          "name": "Boys Night Out",
-          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "Medicating",
-      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "I Am Hollywood",
         "url": "https://open.spotify.com/album/6tooAA6e8rMEkgbMrsdo3r"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 161093,
       "name": "I Am Hollywood",
       "url": "https://open.spotify.com/track/0FKGUcrMijjbZYlJyZEJHR"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
+      },
+      "artists": [
+        {
+          "name": "Boys Night Out",
+          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "Medicating",
+      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "A Static Lullaby",
-        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
-      },
-      "artists": [
-        {
-          "name": "A Static Lullaby",
-          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Grey Britain",
         "url": "https://open.spotify.com/album/0e4COGZAatnQJgjuEA99Wk"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 191066,
       "name": "London Is the Reason",
       "url": "https://open.spotify.com/track/10dmrl943UpZLn61i2NyzK"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "A Static Lullaby",
+        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
     },
     {
       "added_at": "2025-11-24 12:49:27",

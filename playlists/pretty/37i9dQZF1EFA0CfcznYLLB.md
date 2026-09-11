@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 309 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,828 likes - 309 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 110 | [Nobody's Around](https://open.spotify.com/track/0Y42Np66Dz33VKgxIcUgOx) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Melly vs\. Melvin](https://open.spotify.com/album/5xq6RMHNIBA73qld03dR6V) | 2:58 |
 | 111 | [Take Time \(feat\. 24hrs\)](https://open.spotify.com/track/4HlSeYvTvl6kuPdhJlm8Sg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 3:23 |
 | 112 | [Nexus](https://open.spotify.com/track/670V0c9ycEKa9TgP7QYbTd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 3:15 |
-| 113 | [Achievements](https://open.spotify.com/track/10gZbHE2dxG5nFS0FaSoys) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/21icAJRmu4tr8WXhjP3VSa) | 3:22 |
-| 114 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 |
+| 113 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 |
+| 114 | [Achievements](https://open.spotify.com/track/10gZbHE2dxG5nFS0FaSoys) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/21icAJRmu4tr8WXhjP3VSa) | 3:22 |
 | 115 | [Stop Playin \(feat\. Jeremih\)](https://open.spotify.com/track/6kSPwMUYpnBDIWViA3MKMT) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:37 |
 | 116 | [BILLBOARD BABY](https://open.spotify.com/track/2r7dK73sLbh1rSIV2lBMkK) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 1:21 |
 | 117 | [Work in Progress \(Intro\)](https://open.spotify.com/track/3OEttNsQ5wxgDMAtvhErnp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 2:25 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 167 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 |
 | 168 | [Special](https://open.spotify.com/track/1NstxZBzRTJ9kUjwvnDWbi) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 4:03 |
 | 169 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/1KQ52QetE9tJ1ZABpt8hoo) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp) | 3:51 |
-| 170 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 |
-| 171 | [Backboards \(feat\. Young Thug\)](https://open.spotify.com/track/64cvzCo2XswHSPREfMtIg6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Meekend](https://open.spotify.com/album/4Zni60dy8tgWwxLrDjlNeq) | 3:10 |
+| 170 | [Backboards \(feat\. Young Thug\)](https://open.spotify.com/track/64cvzCo2XswHSPREfMtIg6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Meekend](https://open.spotify.com/album/4Zni60dy8tgWwxLrDjlNeq) | 3:10 |
+| 171 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 |
 | 172 | [Round The Roses](https://open.spotify.com/track/7eoobkIOfZMWrFfmJXWVTf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:53 |
 | 173 | [Too Many \(feat\. Wiz Khalifa & Denzel Curry\)](https://open.spotify.com/track/6AvsW8hTIaRdjHZV4fTvrv) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Rubba Band Business](https://open.spotify.com/album/6Jcm9JP8Bq9sOXtOc0iIXS) | 2:56 |
 | 174 | [Yellow Tape \(feat\. 21 Savage\)](https://open.spotify.com/track/0dI3G3tjLkyLOwqQebIFUO) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 3:24 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 308 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 309 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Acb4HAAAAACCz7GSGjTlXv6Jg0Y1UG+h`
+Snapshot ID: `Acb9vAAAAABqv4lM/3Ay/N8BumFMDBsh`

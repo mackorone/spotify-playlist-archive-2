@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 362638,
+  "num_followers": 362877,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpWiuRVTJ18VfcROi+jv+90IIwP",
+  "snapshot_id": "AAAAADlqINW1Ctt8MMDXeTIwSeDc9gFG",
   "tracks": [
     {
       "added_at": "2026-08-18 13:05:46",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "if i weren't so broken",
+        "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
+      },
+      "artists": [
+        {
+          "name": "analog_mannequin",
+          "url": "https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH"
+        }
+      ],
+      "duration_ms": 185711,
+      "name": "if i weren't so broken",
+      "url": "https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
         "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 207939,
       "name": "Non Fiction: I.I Sonore",
       "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "if i weren't so broken",
-        "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
-      },
-      "artists": [
-        {
-          "name": "analog_mannequin",
-          "url": "https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH"
-        }
-      ],
-      "duration_ms": 185711,
-      "name": "if i weren't so broken",
-      "url": "https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "wistful",
         "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 118400,
       "name": "wistful",
       "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "now i know what i mean",
+        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
+      },
+      "artists": [
+        {
+          "name": "v\u00e5nda",
+          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
+        },
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 121550,
+      "name": "now i know what i mean",
+      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "now i know what i mean",
-        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
-      },
-      "artists": [
-        {
-          "name": "v\u00e5nda",
-          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
-        },
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 121550,
-      "name": "now i know what i mean",
-      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1559,22 +1575,6 @@
       "duration_ms": 156500,
       "name": "Line Gone Cold - Deconstructed",
       "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Dance of Seasons",
+        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Dance of Seasons",
+      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Bolted (Deconstructed)",
         "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 168480,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Dance of Seasons",
-        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 422853,
-      "name": "Dance of Seasons",
-      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Lonesome Sound",
         "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "added_at": "2026-08-18 13:05:46",

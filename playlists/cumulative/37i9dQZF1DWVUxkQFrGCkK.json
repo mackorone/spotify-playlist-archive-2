@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "About Dancing",
+        "url": "https://open.spotify.com/album/3YPGCETNET5WBRyLrHEHdN"
+      },
+      "artists": [
+        {
+          "name": "Adaru",
+          "url": "https://open.spotify.com/artist/6w8EDSvxku1HxRykFvPVDL"
+        },
+        {
+          "name": "Toni B",
+          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238110,
+      "name": "About Dancing",
+      "url": "https://open.spotify.com/track/4ip0Mp6A7pIg7F8c1c0xXn"
+    },
+    {
+      "album": {
         "name": "Acid Groove Theory",
         "url": "https://open.spotify.com/album/66RcDRDPkWwMWOSUqkBdPw"
       },
@@ -3958,7 +3980,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 216190,
       "name": "Bounce with Me - Radio Edit",
       "url": "https://open.spotify.com/track/5DqIlgInPd2DkVI2inO4bF"
@@ -4240,6 +4262,28 @@
       "duration_ms": 198689,
       "name": "Burning Bright, pt. II",
       "url": "https://open.spotify.com/track/3x1EDL2tBIjgTzfFUFHab2"
+    },
+    {
+      "album": {
+        "name": "Burnin\u2019",
+        "url": "https://open.spotify.com/album/346v48psajNjK5sLdY78de"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Mosoo",
+          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243391,
+      "name": "Burnin\u2019",
+      "url": "https://open.spotify.com/track/5u7x59PqCM2jqQt6iDreY8"
     },
     {
       "album": {
@@ -5922,7 +5966,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 217797,
       "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
@@ -7914,7 +7958,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 164774,
       "name": "Europa",
       "url": "https://open.spotify.com/track/1uWYyOMCaXX3bT44u5qV7k"
@@ -9679,6 +9723,28 @@
     },
     {
       "album": {
+        "name": "FRICTION (Brunello Remix)",
+        "url": "https://open.spotify.com/album/2BaA8CFO41t3EwavhVNfpa"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355279,
+      "name": "FRICTION - Brunello Remix",
+      "url": "https://open.spotify.com/track/7eB1FvKrTh1S2colYGFtCZ"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI II (Mixtape)",
         "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
@@ -10404,10 +10470,32 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 231774,
       "name": "Gotta Be Cool",
       "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "album": {
+        "name": "Gotta Be Cool (Luch Remix)",
+        "url": "https://open.spotify.com/album/0wuSilFBnY1ZHmKLM2OuDL"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182903,
+      "name": "Gotta Be Cool - Luch Remix",
+      "url": "https://open.spotify.com/track/6jtVPskUWZSDBtotyrfzzX"
     },
     {
       "album": {
@@ -12199,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "Imaginary Voyage / Red Lining",
+        "url": "https://open.spotify.com/album/5E2CWc7yXvQK7ZvIQuNwW7"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245877,
+      "name": "Imaginary Voyage",
+      "url": "https://open.spotify.com/track/26zhoQD32eQRV84iLpD2c5"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/7BlDnHKs9QiJs23tT567I4"
       },
@@ -13352,7 +13458,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 211830,
       "name": "Kadhalan",
       "url": "https://open.spotify.com/track/5Hgy1fbnRHGqlihV2KjZjE"
@@ -15214,7 +15320,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 205714,
       "name": "Loco In The Coco",
       "url": "https://open.spotify.com/track/5d2KLdUBKewjlaE8XyGHsT"
@@ -21848,7 +21954,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 199343,
       "name": "Quiero Mas",
       "url": "https://open.spotify.com/track/2ogaLLYpu8IMAohymwG4Ju"
@@ -22406,7 +22512,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-11",
       "duration_ms": 265511,
       "name": "Rivers and Homes Retake",
       "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
@@ -25041,6 +25147,28 @@
     },
     {
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/3595NnBUCIliBl17nLoPYT"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4cluYSm11ohFV5WPkU7Feq"
+    },
+    {
+      "album": {
         "name": "Star 69 (Shermanology Remix)",
         "url": "https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt"
       },
@@ -26713,6 +26841,28 @@
     },
     {
       "album": {
+        "name": "The City/All I Want",
+        "url": "https://open.spotify.com/album/2NMKjdT6Ky0qMmza1rhKpY"
+      },
+      "artists": [
+        {
+          "name": "KIMONOS",
+          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
+        },
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/6cRPrKsD1dgTEYhC7fc5VG"
+    },
+    {
+      "album": {
         "name": "The Connection",
         "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
       },
@@ -28274,6 +28424,24 @@
       "duration_ms": 279310,
       "name": "Unawela",
       "url": "https://open.spotify.com/track/7cOoyREn2nkGdVNv67p3nd"
+    },
+    {
+      "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261517,
+      "name": "Uncasually",
+      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
     },
     {
       "album": {

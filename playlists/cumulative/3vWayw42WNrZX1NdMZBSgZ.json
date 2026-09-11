@@ -1589,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "ReVivo",
+        "url": "https://open.spotify.com/album/7qhr8gzeZsAzZG7w1vuay2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227223,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/1VRJ1mOom6r8LGnwmxwyKf"
+    },
+    {
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -3482,6 +3504,24 @@
       "duration_ms": 200831,
       "name": "Chikita Mala - With Anselmo Ralph",
       "url": "https://open.spotify.com/track/0ijV7kP1Exgv9hxGGQGJd8"
+    },
+    {
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
     },
     {
       "album": {

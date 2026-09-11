@@ -4,7 +4,7 @@
 
 > Pop on the rise you should know, featuring Camilo.
 
-924 songs - 1 day 23 hr 33 min
+924 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,7 @@
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 | 2024-09-21 |
 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-29 | 2025-02-22 |
 | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PIDA LO QUE QUIERA MAMI \- A COLORS SHOW](https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK) | 3:27 | 2025-04-25 | 2025-07-05 |
-| [Piensas En Mi](https://open.spotify.com/track/5p8diKLl1u9ALp50p7LP6h) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:01 | 2026-08-07 |  |
+| [Piensas En Mi](https://open.spotify.com/track/5p8diKLl1u9ALp50p7LP6h) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:18 | 2026-08-07 |  |
 | [Pikito](https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pikito](https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe) | 3:24 | 2025-12-05 | 2026-01-30 |
 | [Pinterest \(Spanish\)](https://open.spotify.com/track/6jtS7pzw22mtffH5bGxHPK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Spanish\)](https://open.spotify.com/album/1Qs1ygkE5wJmxuuJpkcqyE) | 2:14 | 2026-03-20 | 2026-04-25 |
 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-04-07 | 2023-06-24 |
