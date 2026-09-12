@@ -2825,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Coke",
+        "url": "https://open.spotify.com/album/7jnBXRpdGBXfBefigG49sm"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Coke 2",
+      "url": "https://open.spotify.com/track/7lqq0nLVdT4MNFBWdNFQAF"
+    },
+    {
+      "album": {
         "name": "cold rainy nights. / the lullaby.",
         "url": "https://open.spotify.com/album/6YHm25NzdHlmGAMeKGsG5d"
       },
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197581,
       "name": "pray for me",
       "url": "https://open.spotify.com/track/3axYsjraQm0zrlraccsQ1z"

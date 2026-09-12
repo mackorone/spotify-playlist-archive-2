@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring SLAMM. Curated with love by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring HARTY (UK). Curated with love by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -4505,6 +4505,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4TT5x7uZ3rSq5QOiNAqPYE"
+      },
+      "artists": [
+        {
+          "name": "Samson",
+          "url": "https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN"
+        },
+        {
+          "name": "Tommy Kimpton",
+          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7AmmvZoDLFmKXcDCGWVAGv"
+    },
+    {
+      "album": {
         "name": "Baby baby baby...",
         "url": "https://open.spotify.com/album/5quBlhCu4G08uD92r62CId"
       },
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 215985,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6zJCcwaS8ocHybnIv81NGU"
@@ -10260,7 +10282,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206294,
       "name": "can't take this",
       "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
@@ -28882,7 +28904,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 226000,
       "name": "Honey, Drip Down",
       "url": "https://open.spotify.com/track/3zXVt7y4i6iCnF0PBx1VrW"
@@ -42565,6 +42587,24 @@
     },
     {
       "album": {
+        "name": "Keep Stepping!",
+        "url": "https://open.spotify.com/album/0RUPP9RVNyRTPKLPjqH4je"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302343,
+      "name": "Night After Night",
+      "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
+    },
+    {
+      "album": {
         "name": "Night Cruise",
         "url": "https://open.spotify.com/album/2A1MIw8nYgPyjHJK7G6g7k"
       },
@@ -52739,6 +52779,24 @@
     },
     {
       "album": {
+        "name": "SHE DOESN'T KNOW",
+        "url": "https://open.spotify.com/album/0D6Lp8GJRc25AUjPCjRWVk"
+      },
+      "artists": [
+        {
+          "name": "ANK",
+          "url": "https://open.spotify.com/artist/1s2AuO0OPGUh7ze9XM3BTW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "SHE DOESN'T KNOW",
+      "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
+    },
+    {
+      "album": {
         "name": "Queloque",
         "url": "https://open.spotify.com/album/3Fe6KUvWNeKtQpwMeVGING"
       },
@@ -54138,7 +54196,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212000,
       "name": "Smash",
       "url": "https://open.spotify.com/track/00mii3fmq53QiHirhoEIhy"
@@ -60794,6 +60852,24 @@
       "duration_ms": 148837,
       "name": "There's a Fire (Inside of Me)",
       "url": "https://open.spotify.com/track/1158t7uaGeJteTfhrwaI3s"
+    },
+    {
+      "album": {
+        "name": "There's A Party Goin' On",
+        "url": "https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd"
+      },
+      "artists": [
+        {
+          "name": "HARTY (UK)",
+          "url": "https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "There's A Party Goin' On",
+      "url": "https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ"
     },
     {
       "album": {

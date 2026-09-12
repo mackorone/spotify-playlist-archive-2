@@ -6354,7 +6354,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 224800,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
@@ -7244,7 +7244,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 161764,
       "name": "Pedacin de Mim",
       "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
@@ -8617,6 +8617,28 @@
     },
     {
       "album": {
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "album": {
         "name": "Ritmo Agressivo",
         "url": "https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0"
       },
@@ -9718,6 +9740,24 @@
       "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Voc\u00ea Que N\u00e3o",
+        "url": "https://open.spotify.com/album/1vDUCGYXnvJIj9ykYd8Bh2"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220647,
+      "name": "S\u00f3 Voc\u00ea Que N\u00e3o",
+      "url": "https://open.spotify.com/track/7Eolxg7fFxxSoOfQBq1M50"
     },
     {
       "album": {

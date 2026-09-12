@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-193 songs - 9 hr 27 min
+194 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,10 +155,11 @@
 | [Pittal Barse](https://open.spotify.com/track/2IRWsNh81Fe0Wu5eCduNjk) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kala Dighal](https://open.spotify.com/artist/2jGSpZI7OdOpA0Hst8L0Fa), [Aarohi Raghav](https://open.spotify.com/artist/5oOf2Wv94U1v1wbaXyKi48) | [Pittal Barse](https://open.spotify.com/album/2eUM1YnCd5FCeVPQPYejy9) | 2:36 | 2026-02-17 | 2026-06-13 |
 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 | 2024-03-08 | 2026-01-15 |
 | [Power](https://open.spotify.com/track/2ATtRykzfzdjs8CVYfXtlu) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 2:30 | 2024-04-30 | 2024-09-10 |
-| [Ram Ram Ji](https://open.spotify.com/track/5ZqYBdWWBUHIFozRL3PZGP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Ram Ram Ji](https://open.spotify.com/album/5xKv5CE1f2cbmBk1URdlYr) | 2:43 | 2026-08-28 |  |
+| [Ram Ram Ji](https://open.spotify.com/track/5ZqYBdWWBUHIFozRL3PZGP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Ram Ram Ji](https://open.spotify.com/album/5xKv5CE1f2cbmBk1URdlYr) | 2:43 | 2026-08-28 | 2026-09-12 |
 | [Ram Ram Karke](https://open.spotify.com/track/6naLIL2jVbE6uyUpUKtnAH) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Ram Ram Karke](https://open.spotify.com/album/5YjykDAdQ5OWVFc9b7PqaI) | 3:26 | 2023-11-09 | 2024-04-19 |
 | [Ram Ram Karke](https://open.spotify.com/track/7LDvvW9IqGzDcoRdX2k5it) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuriya](https://open.spotify.com/artist/5KRt8SDS71jP3uyR4OwoIw) | [Ram Ram Karke](https://open.spotify.com/album/5aixreA83as4J3IhzZePlT) | 3:26 | 2024-04-17 | 2024-08-01 |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-30 | 2023-11-10 |
+| [Robbery](https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq) | [Mohit Ladhotiya](https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh) | [Robbery](https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj) | 3:20 | 2026-09-11 |  |
 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 | 2025-09-19 |  |
 | [Ror Royalty Of Ror](https://open.spotify.com/track/6hZQZI7wMjpWI2DwTS425h) | [Sumit Bandrana](https://open.spotify.com/artist/4Tc2xorXELPVNveDdNbm6g), [Rekha Goswami](https://open.spotify.com/artist/1jVoT8RHZh4P4vTvuxJntR), [Naseeb Siwan](https://open.spotify.com/artist/4XeGn3NcpOwE7FmslsMXo3), [Jyoti Goswami](https://open.spotify.com/artist/2J66ocei0CUfocahfP1qs7) | [Ror Royalty Of Ror](https://open.spotify.com/album/4YKnDPe0kRYGy0zB4VJW1e) | 2:43 | 2026-07-10 | 2026-07-25 |
 | [Rubber](https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Rubber](https://open.spotify.com/album/5K5ld5Ff5NGvTLFwYB005q) | 3:18 | 2023-07-24 | 2025-10-04 |

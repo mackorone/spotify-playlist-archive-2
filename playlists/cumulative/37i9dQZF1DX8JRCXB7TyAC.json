@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163755,
       "name": "Ram Ram Ji",
       "url": "https://open.spotify.com/track/5ZqYBdWWBUHIFozRL3PZGP"
@@ -3392,6 +3392,24 @@
       "duration_ms": 172839,
       "name": "Raosahab",
       "url": "https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB"
+    },
+    {
+      "album": {
+        "name": "Robbery",
+        "url": "https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj"
+      },
+      "artists": [
+        {
+          "name": "Mohit Ladhotiya",
+          "url": "https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200204,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq"
     },
     {
       "album": {

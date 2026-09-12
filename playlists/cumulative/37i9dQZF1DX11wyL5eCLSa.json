@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. The Warning en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Sgt. Papers en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155645,
       "name": "(casi no vivo para contarlo)",
       "url": "https://open.spotify.com/track/6gClYf0O45RHWBuOk2Bnw4"
@@ -472,6 +472,24 @@
       "duration_ms": 173499,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/0qcp5VoAsGShsuJdXev9hf"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35v6dISMheOPWqZjInkFAZ"
+      },
+      "artists": [
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/0BXV2YiTXmOuseF0e9VHOQ"
     },
     {
       "album": {
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 142682,
       "name": "ARMADURA ARMADILHA",
       "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
@@ -4355,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1U6ZiatjFFA2ZFPtHWhf8Z"
+      },
+      "artists": [
+        {
+          "name": "Electrify",
+          "url": "https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/37xRaQSVH2NzpqvsN6qQSE"
+    },
+    {
+      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -5132,6 +5168,24 @@
       "duration_ms": 270114,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
+    },
+    {
+      "album": {
+        "name": "En Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/3N8P6L7uk6Ct7ppsu319Bm"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113637,
+      "name": "En Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/5E41bHwPiPITXxodxbpsvo"
     },
     {
       "album": {
@@ -6812,6 +6866,28 @@
       "duration_ms": 287613,
       "name": "Incendio de Amor/Carmelita",
       "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
+    },
+    {
+      "album": {
+        "name": "Inclemencia del tiempo",
+        "url": "https://open.spotify.com/album/4rqFMWfqiugSGApLfNozEj"
+      },
+      "artists": [
+        {
+          "name": "Grito Exclamac!\u00f3n",
+          "url": "https://open.spotify.com/artist/4iMYltZVwrhw9tCf8PuG6W"
+        },
+        {
+          "name": "Renatto Olivares",
+          "url": "https://open.spotify.com/artist/64mv33Hc7WtpTx1Zq0iL7u"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "Inclemencia del tiempo",
+      "url": "https://open.spotify.com/track/7poLLFyjMe0xfMdy1n4cAr"
     },
     {
       "album": {
@@ -8996,7 +9072,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 129214,
       "name": "Me Apestan",
       "url": "https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ"
@@ -9546,7 +9622,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 233437,
       "name": "MI CUARTO",
       "url": "https://open.spotify.com/track/39B967YC8p8iAFzVXVCW9s"
@@ -10646,6 +10722,24 @@
       "duration_ms": 198260,
       "name": "NO DIGAS QUE",
       "url": "https://open.spotify.com/track/2L8GtfMaVgvmeAMnsaobh0"
+    },
+    {
+      "album": {
+        "name": "No Es La Copa Mundial",
+        "url": "https://open.spotify.com/album/6t7El1p7YrMkOf3vQhFN13"
+      },
+      "artists": [
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "No Es La Copa Mundial",
+      "url": "https://open.spotify.com/track/54EB0wD3xmFCV2XyB1WuRi"
     },
     {
       "album": {
@@ -15244,7 +15338,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 179040,
       "name": "Uh uh uh!",
       "url": "https://open.spotify.com/track/33LhY7nAKYSuTkmUGJ4Jdx"

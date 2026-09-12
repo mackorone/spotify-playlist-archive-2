@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,168 songs - 2 day 13 hr 24 min
+1,169 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 | 2022-07-29 | 2022-09-23 |
 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 | 2025-10-23 | 2026-04-24 |
 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 | 2026-04-23 | 2026-06-23 |
+| [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 | 2026-09-12 |  |
 | [Cranky Boy](https://open.spotify.com/track/0K7xbyM409xlMZ80nth1Sd) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Cranky Boy](https://open.spotify.com/album/0GrPTmbLhOwfqEsCLlcl6z) | 3:27 | 2022-08-05 | 2023-04-22 |
 | [Cranky Boy \(feat\. Mickey Kojak\) \- Mickey Kojak Remix](https://open.spotify.com/track/1U5Xq0T8YynbPza134RYsC) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [Mickey Kojak](https://open.spotify.com/artist/5poMDCBflvu2tgtA0CRF17) | [Cranky Boy \(Remixes\)](https://open.spotify.com/album/22RYHkcJM7hCVRvdywIm4f) | 4:35 | 2022-12-02 | 2022-12-16 |
 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 | 2026-07-10 | 2026-09-07 |
@@ -924,7 +925,7 @@
 | [So Alive \- Donatachi Remix](https://open.spotify.com/track/4Ljq7JjMRxJjVqaxbG4o8f) | [Kult Kyss](https://open.spotify.com/artist/6UVDhXoU9ypbSPfqXMbRSO), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Ultra Sound \(Remixes\)](https://open.spotify.com/album/5TpcLSXA5KUo13tMAw7nyA) | 3:27 | 2022-04-29 | 2022-06-03 |
 | [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-04 |  |
 | [So High \(feat\. MERYLL\)](https://open.spotify.com/track/6htKnclYIvSqD5Yki5ChMJ) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [So High \(feat\. MERYLL\) \[Kyle Meehan Remix\]](https://open.spotify.com/album/6P7flWkRmZbYS1gxwJRVvE) | 2:34 | 2024-05-24 | 2024-07-19 |
-| [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-20 |  |
+| [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-20 | 2026-09-12 |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2022-06-10 |
 | [Solace](https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8), [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Solace](https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn) | 2:49 | 2022-11-11 | 2023-02-04 |
 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 | 2021-03-19 | 2022-01-14 |

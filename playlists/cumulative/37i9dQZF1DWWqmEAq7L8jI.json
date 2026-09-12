@@ -974,7 +974,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 190826,
       "name": "Aterrizar",
       "url": "https://open.spotify.com/track/7sInJZYy4GyPYQyv2ZMYwF"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "Corriendo Con Tijeras",
       "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
@@ -2186,6 +2186,24 @@
       "duration_ms": 181500,
       "name": "c\u00e1bala (+ de cerquita)",
       "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Puede Ser?",
+        "url": "https://open.spotify.com/album/7bigWjdoxWqnKpbBTR8owB"
+      },
+      "artists": [
+        {
+          "name": "Alan Lez",
+          "url": "https://open.spotify.com/artist/2NNTPPCTbWZxnk2bS8gLD6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "C\u00f3mo Puede Ser?",
+      "url": "https://open.spotify.com/track/45STZOAX95FC1sUTWSe0wP"
     },
     {
       "album": {
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218997,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/7MlrT5m35Q9sAGJc7rFcLi"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 211231,
       "name": "Mil disparos",
       "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
@@ -5600,7 +5618,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 275686,
       "name": "Miranda mi amor",
       "url": "https://open.spotify.com/track/1wn31URbyhG7kSMN1d8DRp"
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 144725,
       "name": "Museo",
       "url": "https://open.spotify.com/track/5edWXb4grqlDzlnt4fbbik"
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
@@ -6344,10 +6362,28 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168911,
       "name": "No Te Arrepientas de M\u00ed",
       "url": "https://open.spotify.com/track/3cHAtCrKncbswkK6zuj8Np"
+    },
+    {
+      "album": {
+        "name": "No Tengo Remedio",
+        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189101,
+      "name": "No Tengo Remedio",
+      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
       "album": {
@@ -7172,7 +7208,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 187500,
       "name": "Promet\u00ed Dejar De Fumar",
       "url": "https://open.spotify.com/track/6YZOlkDKGo9VnUf3TbOf5o"
@@ -7244,7 +7280,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -7486,7 +7522,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208086,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/0yYg7rbw7h9II0tIUP1yEK"
@@ -8454,7 +8490,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Tan f\u00e1cil",
       "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"

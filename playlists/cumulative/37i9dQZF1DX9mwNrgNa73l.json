@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 296842,
       "name": "Alif",
       "url": "https://open.spotify.com/track/4vlY2Ng3j2DiHVMd5v8SnH"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 221868,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/4amYI9jDDirSXoZoDJN97w"
@@ -2570,6 +2570,28 @@
       "duration_ms": 354026,
       "name": "Madni Di Gal Kariye",
       "url": "https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r"
+    },
+    {
+      "album": {
+        "name": "Mahi Ta Mera",
+        "url": "https://open.spotify.com/album/6pLYYYOdykLgFKzhSAiIeV"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Sulayman",
+          "url": "https://open.spotify.com/artist/455eqD8miKi61kJndsKkFD"
+        },
+        {
+          "name": "Hassaan Malik",
+          "url": "https://open.spotify.com/artist/1a5ucQWIQyAkoaj7wzfYVa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Mahi Ta Mera",
+      "url": "https://open.spotify.com/track/1umCymfqbkijhZRmk5jk7R"
     },
     {
       "album": {
@@ -3669,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Peera",
+        "url": "https://open.spotify.com/album/4ZswuLeYSo0vX9PgJgNmcD"
+      },
+      "artists": [
+        {
+          "name": "Dynaxty",
+          "url": "https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "Peera",
+      "url": "https://open.spotify.com/track/18Sb8NWo1cgXarrjIcDpNG"
+    },
+    {
+      "album": {
         "name": "Khaled Anam",
         "url": "https://open.spotify.com/album/2K3TNBb3ETblTPmUAy2Izg"
       },
@@ -4291,6 +4331,28 @@
     },
     {
       "album": {
+        "name": "Saleh Alaa (From \"Panther Tyres\")",
+        "url": "https://open.spotify.com/album/5V6J5F7QL1nDa9oNgKVHz0"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ahsan Pervaiz Mehdi",
+          "url": "https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331493,
+      "name": "Saleh Alaa - From \"Panther Tyres\"",
+      "url": "https://open.spotify.com/track/6iBoewl9rYCqaQTFDtTooh"
+    },
+    {
+      "album": {
         "name": "Salle Alla",
         "url": "https://open.spotify.com/album/3OjpUyw8B63wMLB1Snp514"
       },
@@ -4718,7 +4780,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 151384,
       "name": "Tere Ishq Nachaya",
       "url": "https://open.spotify.com/track/6u7NaI2LXXNkKN5eTV4tFx"

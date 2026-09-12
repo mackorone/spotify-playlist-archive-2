@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Endocrine",
+        "url": "https://open.spotify.com/album/7tQSQNOVTKSXC7eUaCXjg6"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457613,
+      "name": "Endocrine",
+      "url": "https://open.spotify.com/track/1k6lZUCepvnM3o0g4NDD7x"
+    },
+    {
+      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },

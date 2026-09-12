@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,065 likes - 92 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,080 likes - 92 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 11 | [Float](https://open.spotify.com/track/2nxxWyhDLU3zOdlAt1c290) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Float](https://open.spotify.com/album/12mB7gCU0NSZj50OI4d1UD) | 2:42 |
 | 12 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
 | 13 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
-| 14 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 |
-| 15 | [Drink of Water](https://open.spotify.com/track/2jgFqyG64Rg0arE4p0pE0u) | [Habre](https://open.spotify.com/artist/0OPQcjuuTEFOdJ0Oy6ON3Z) | [Bamboo Dreams](https://open.spotify.com/album/2NHDNkb6kqZkZjVBr9QeIS) | 2:36 |
-| 16 | [When Earth Whispers](https://open.spotify.com/track/6YtzGYCIUydA50pbDuPhE8) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [When Earth Whispers](https://open.spotify.com/album/4QYtWQV3YlroscBoTnbwBs) | 2:36 |
-| 17 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
+| 14 | [Drink of Water](https://open.spotify.com/track/2jgFqyG64Rg0arE4p0pE0u) | [Habre](https://open.spotify.com/artist/0OPQcjuuTEFOdJ0Oy6ON3Z) | [Bamboo Dreams](https://open.spotify.com/album/2NHDNkb6kqZkZjVBr9QeIS) | 2:36 |
+| 15 | [When Earth Whispers](https://open.spotify.com/track/6YtzGYCIUydA50pbDuPhE8) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [When Earth Whispers](https://open.spotify.com/album/4QYtWQV3YlroscBoTnbwBs) | 2:36 |
+| 16 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
+| 17 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 |
 | 18 | [Ember](https://open.spotify.com/track/0UI9vtPrrF4rKVbAyftf6Q) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Ember](https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw) | 2:39 |
 | 19 | [Breathe](https://open.spotify.com/track/6itK5FBbAQklhk2YXTCnxq) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Breathe](https://open.spotify.com/album/7uEBVnTdDMZS8aafFByHE5) | 2:32 |
 | 20 | [Like Before](https://open.spotify.com/track/7lHdqhGIV1EPETXlIflFO3) | [Denis Rial](https://open.spotify.com/artist/6kLSeA8bMNkur1A9Tnhde9) | [Like Before](https://open.spotify.com/album/0BLxLf2tdPTtvhgcFkn6bO) | 2:48 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 91 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 92 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `AAAAALYcroL5XiVArBOyD8GGzpE+ll2P`
+Snapshot ID: `AAAAAN4oKXjFkigKVWrSyfM/CjbfCpsO`

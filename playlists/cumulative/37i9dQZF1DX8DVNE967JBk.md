@@ -4,7 +4,7 @@
 
 > Your Disneyland soundtrack is here all in one place.
 
-75 songs - 3 hr 42 min
+76 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Great Rainbow](https://open.spotify.com/track/4kXp747y1rEtHbEOh4mcFH) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Music from Disneyland Resort 70th Celebration](https://open.spotify.com/album/3hS2ggCXq6Yi0kOZyyKMn9) | 3:41 | 2026-06-01 |  |
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/6BGIYRM9XSFgbQrBtsxuQa) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [A Musical Tour: Treasures of the Walt Disney Archives at The Reagan Library](https://open.spotify.com/album/0GHAq8ItjkL8xRGf9bM7s9) | 5:33 | 2026-06-01 |  |
 | [Hello Everybody \- From The Golden Horseshoe Revue](https://open.spotify.com/track/7DgrTjHBZAj7w1jxPHqxwI) | [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Donald Novis](https://open.spotify.com/artist/5LHO9r02sohoceAPhXPnBp) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 2:16 | 2026-06-01 |  |
+| [Horseshoe Stomp \- From "Jessie's Roundup: A Rip Roarin' Revue!"](https://open.spotify.com/track/0Etr3ZmvsCk5mh4qVaJWD2) | [Jessie's Roundup \- Cast](https://open.spotify.com/artist/3qOjep5TBGPO9aGZMEA3gE) | [Horseshoe Stomp \(From "Jessie's Roundup: A Rip Roarin' Revue!"\)](https://open.spotify.com/album/5xPWFO6UyKEiZ8UrqFKbYw) | 2:37 | 2026-09-11 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2026-06-01 |  |
 | [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 | 2026-06-01 |  |
 | [I'm Wishing / One Song \- From "Snow White and the Seven Dwarfs"/Soundtrack Version](https://open.spotify.com/track/1va3414ubIPeLOfTFFnZe3) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ), [Harry Stockwell](https://open.spotify.com/artist/2tCELGtX6ikbBFQomLSCRp) | [Disney Love Songs](https://open.spotify.com/album/1ClNru8BFtdeF3L10UmfhK) | 3:06 | 2026-06-01 |  |

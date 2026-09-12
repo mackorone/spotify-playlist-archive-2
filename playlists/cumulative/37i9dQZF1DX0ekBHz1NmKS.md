@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,359 songs - 5 day 2 hr 21 min
+2,360 songs - 5 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Burning Down The House](https://open.spotify.com/track/0lWvOH0oBozezE9yAu41gD) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Butterfly Affect](https://open.spotify.com/album/44qafZ7hAevN0dMQi7lOFG) | 2:32 | 2025-04-17 | 2025-08-16 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
 | [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-05-21 |  |
-| [By and By](https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [By and By](https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ) | 3:28 | 2026-09-10 |  |
+| [By and By](https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [By and By](https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ) | 3:28 | 2026-09-10 | 2026-09-12 |
 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt\. 2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 | 2022-10-28 |
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-05-17 |
@@ -2298,6 +2298,7 @@
 | [Where the Tragic Happens](https://open.spotify.com/track/3jd2GIvxz9yXmXgP7StTmU) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:42 | 2022-06-23 | 2022-07-11 |
 | [White Ferrari](https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [White Ferrari](https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv) | 3:49 | 2023-04-06 | 2023-10-20 |
 | [White Wine in the Shower](https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [White Wine in the Shower](https://open.spotify.com/album/7dhuqpDHRNzHQVvrXxkm86) | 1:59 | 2023-06-22 | 2023-07-13 |
+| [Who](https://open.spotify.com/track/3XOPD2Hl2SJLNSyFRnSHDz) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [Who Are You](https://open.spotify.com/album/183mHqri6YpohJg6XLtr9C) | 3:26 | 2026-09-10 |  |
 | [Who Am I Without You](https://open.spotify.com/track/4nM6merfZDOz4bb7TCBuiC) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Who Am I Without You](https://open.spotify.com/album/2eYjojXLqN63mf7OFjpxD4) | 2:29 | 2022-03-17 | 2022-05-12 |
 | [Whole Damn Summer](https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Whole Damn Summer](https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf) | 2:42 | 2024-06-27 | 2024-10-20 |
 | [Wide Open](https://open.spotify.com/track/2iz67sMAZL1YVuA39Okq1U) | [Amanda Alexander](https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2) | [Wide Open](https://open.spotify.com/album/26Yu1CoHzVfmzzWiA6QrGe) | 2:46 | 2022-05-20 | 2022-06-30 |

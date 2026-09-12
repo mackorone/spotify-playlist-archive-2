@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sam Vishal
 
-864 songs - 2 day 0 hr 47 min
+865 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 | 2023-07-25 |
 | [Malayala Manjaa Kuruvi](https://open.spotify.com/track/1bFDHSDEZ6gYEhq5KlaiBB) | [Mukesh Munusamy](https://open.spotify.com/artist/22IF5ivcomQilA88UfImoi) | [Malayala Manjaa Kuruvi](https://open.spotify.com/album/3AEzzpVt2bQJcCpKg1yErR) | 3:23 | 2025-09-15 | 2026-01-31 |
 | [Mama](https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Mama](https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i) | 3:26 | 2024-01-30 | 2024-05-21 |
+| [Mama Balayya \(ReinKarnation\)](https://open.spotify.com/track/3qr1r1ftRJB254AbJuVFKS) | [Kaushik Iyer](https://open.spotify.com/artist/0tcz5e3MX0tze3AN4S6rdq) | [Mama Balayya \(ReinKarnation\)](https://open.spotify.com/album/7zaP6r79WKwASV0AJUWnCC) | 2:24 | 2026-09-11 |  |
 | [Maman Ponnu](https://open.spotify.com/track/0v8a07HBZk9PbmHT8ztBGc) | [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Kumuthini Paandiyan](https://open.spotify.com/artist/1VsoLUjQgncpBJl8uC9aBD) | [Maman Ponnu](https://open.spotify.com/album/2UEz3g4j97gsxZZfm5Q6Xs) | 4:17 | 2026-08-04 |  |
 | [Manam](https://open.spotify.com/track/3kwDKXEkeK5ZwoYi83Svxa) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:31 | 2025-09-17 | 2025-11-25 |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 | 2024-05-04 |

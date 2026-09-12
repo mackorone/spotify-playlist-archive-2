@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ocevne
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,516 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,603 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
 | 2 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |
-| 3 | [Ride](https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:25 |
+| 3 | [Textile](https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:38 |
 | 4 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 5 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
 | 6 | [Titanic](https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Titanic](https://open.spotify.com/album/76mqpNEK8FRHzOMZUxwDaK) | 2:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [OVER](https://open.spotify.com/track/18nUcRgG9TPNieS0SL5uij) | [Holy](https://open.spotify.com/artist/0W8m2g2n1fFTBC22ZovGEk) | [OVER](https://open.spotify.com/album/5CKTlquXhFwVQIobBgfpyH) | 2:38 |
 | 40 | [MAUVE](https://open.spotify.com/track/0E6fJwEOJBagm5FnTfHgA5) | [DYHA](https://open.spotify.com/artist/4BLEPYJzLGmGV3Y4jkXBIS) | [MAUVE](https://open.spotify.com/album/6Zx1VT4h2mctVu4SWrV6eQ) | 2:09 |
 
-Snapshot ID: `AAAAADAXVCWZ63wv6kaLNYA4wvd62ks6`
+Snapshot ID: `AAAAAFTnnTAnm/6SS31nweOygZZFGJIO`

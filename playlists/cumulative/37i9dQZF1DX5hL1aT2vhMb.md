@@ -2,7 +2,7 @@
 
 ### [Women of Classical](https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb)
 
-> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jess Gillam
+> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Alexandra Dariescu
 
 232 songs - 17 hr 48 min
 

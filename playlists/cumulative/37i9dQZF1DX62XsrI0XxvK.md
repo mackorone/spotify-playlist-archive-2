@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Paul Partohap
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Farrel Hilal
 
-285 songs - 16 hr 44 min
+287 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 | 2025-10-03 |
 | [Negativity : Ngakunya Bercanda, Ternyata ?](https://open.spotify.com/track/07r6bzr86jbSKtzik8crra) | [Nadhira Suri](https://open.spotify.com/artist/06wL6b72UhgDKo9nZM0J0g), [TRIOUT](https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA) | [Negativity : Ngakunya Bercanda, Ternyata ?](https://open.spotify.com/album/4dGjJ1RxbInQNdL1Cp6cbY) | 3:03 | 2026-05-21 | 2026-07-17 |
 | [Nervous](https://open.spotify.com/track/0k29oJUdY8BEtmeeL0snns) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Nervous](https://open.spotify.com/album/3Ss8coQzcVWmYw6Ktt2ESn) | 3:55 | 2026-05-21 |  |
+| [No One Else \(Only You\)](https://open.spotify.com/track/4M2Vf0ET3YJ8MWj3PbHTwW) | [Wizzow](https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq), [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [No One Else \(Only You\)](https://open.spotify.com/album/7y1XDVCyDEIsKPR8Tie2MS) | 3:19 | 2026-09-11 |  |
 | [NONA](https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [NONA](https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V) | 2:08 | 2025-04-16 | 2026-05-22 |
 | [Nona Manise](https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG) | [Pretty Rico](https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U) | [Nona Manise](https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K) | 2:47 | 2025-11-06 | 2026-01-23 |
 | [Not The Same](https://open.spotify.com/track/6UfL0ciLvnxzllEHT8mKXF) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Not The Same](https://open.spotify.com/album/0QqJQz2yoBs4ztjlbbsyBt) | 2:41 | 2026-05-07 | 2026-07-17 |
@@ -280,6 +281,7 @@
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-08-29 |
 | [Tunggu Aku](https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [MAKO.](https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH), [REDROSE](https://open.spotify.com/artist/4zZfILWPssf3GfmXmqg7xo) | [Tunggu Aku](https://open.spotify.com/album/3RPlamzxsRSD73Y3QVkBVf) | 3:38 | 2026-02-19 |  |
 | [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 | 2026-03-12 |  |
+| [Untuk Apa](https://open.spotify.com/track/3i87OzeSLGTuIagcZBQ1g2) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Untuk Apa](https://open.spotify.com/album/6kIoOcxerEzMpbA2b7OuLA) | 4:21 | 2026-09-11 |  |
 | [Untukmu](https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Untukmu](https://open.spotify.com/album/0z7axBDnepbUZ9l6Q318mp) | 3:59 | 2025-09-25 | 2026-05-01 |
 | [Visions \(from under the rubble\)](https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 4:11 | 2024-10-10 | 2025-05-02 |
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 |  |

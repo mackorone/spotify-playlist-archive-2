@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-118 songs - 7 hr 39 min
+119 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Thaïs, DO 24, Act 2: Méditation](https://open.spotify.com/track/0KlIneacGxTLlHdBoEDEqq) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Johan Dalene](https://open.spotify.com/artist/6bzcYpT0W1fheZys2ApYBz), [Peter Friis Johansson](https://open.spotify.com/artist/7dKEFIMUAdgkuDw5XcEIUD) | [Méditation from Thaïs](https://open.spotify.com/album/2YATaeOKuKcIReaB3ctReO) | 5:12 | 2024-09-27 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/318jLr9oY0UrxYqyUHCfBA) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce) | [Debussy – Rameau](https://open.spotify.com/album/4oVqtr6UVWx5pCQpoOU6wU) | 4:45 | 2022-02-04 |  |
 | [The Firebird, K10: X\. Round Dance of the Princesses](https://open.spotify.com/track/6oVBLpHQIR1pSwgBjMOFkO) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: L'Oiseau de feu \(1911 Version\): X\. Khorovod \(Ronde\) des princesses](https://open.spotify.com/album/7EnZm1nR8zwrm3lUSKmmbU) | 4:42 | 2023-03-10 |  |
+| [the gentle undoing \- solo piano](https://open.spotify.com/track/60PAUYtZrIlSZSUl9hVtda) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the gentle undoing \(solo piano\)](https://open.spotify.com/album/1LbSQ4JGHZ07HyGVlTsXZJ) | 3:31 | 2026-09-11 |  |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [Cello Bouquet](https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W) | 3:02 | 2022-02-04 | 2023-01-05 |
 | [The Man I Love \(Arr\. Grainger for Piano\)](https://open.spotify.com/track/307G8SynafMKLyIN1PG8xU) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Piers Lane](https://open.spotify.com/artist/1x1BXaOZgIvaHnafQhuPYB) | [Grainger: Rambles and Reflections](https://open.spotify.com/album/5TKebEhlkmSZ79HKL5XxNL) | 3:47 | 2025-10-03 |  |
 | [The Seal Lullaby \(Arr\. Parkin for Instrumental Ensemble\)](https://open.spotify.com/track/3jUGfTl7C4fWfImfKMbUoR) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ), [Braimah Kanneh\-Mason](https://open.spotify.com/artist/3sNaER8L3Qd0fkdP52pGUV), [Konya Kanneh\-Mason](https://open.spotify.com/artist/1iVdpAhwFutZ7dAknlpFnM), [Aminata Kanneh\-Mason](https://open.spotify.com/artist/2SkVtEcR76YKHYZdR2wbjD), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Mariatu Kanneh\-Mason](https://open.spotify.com/artist/6gEI0QXhUgfCl98qna6F8K) | [Carnival](https://open.spotify.com/album/4YzUUdivf5HOhYSkUADuBM) | 3:38 | 2022-02-04 |  |

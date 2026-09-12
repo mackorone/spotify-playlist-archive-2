@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: AZ Chike and Tyler, The Creator",
+  "description": "Holdin' it down for the westside. Cover: Buddy",
   "name": "Westside",
   "tracks": [
     {
@@ -2692,6 +2692,24 @@
       "duration_ms": 179340,
       "name": "Baby, Pt. 2",
       "url": "https://open.spotify.com/track/2ZCJfPz2eSQPrQ3XIhDmsz"
+    },
+    {
+      "album": {
+        "name": "BABYFACE",
+        "url": "https://open.spotify.com/album/2tvuILGDaAFJrHEdhHm2SG"
+      },
+      "artists": [
+        {
+          "name": "BabyBartier",
+          "url": "https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66686,
+      "name": "BABYFACE",
+      "url": "https://open.spotify.com/track/1H7hTnco3s3IquzoqsTd3S"
     },
     {
       "album": {
@@ -9309,6 +9327,28 @@
     },
     {
       "album": {
+        "name": "DOPEBOY SWAG",
+        "url": "https://open.spotify.com/album/5zCjGRBioolsydfLc45PXS"
+      },
+      "artists": [
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        },
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132528,
+      "name": "DOPEBOY SWAG",
+      "url": "https://open.spotify.com/track/2ai3k8FRbH62DdJapr2NR6"
+    },
+    {
+      "album": {
         "name": "It Gets Greater Later",
         "url": "https://open.spotify.com/album/1cSMH8b7XWhQWGhbmuBsuF"
       },
@@ -9552,6 +9592,24 @@
       "duration_ms": 202369,
       "name": "DRUMLINE",
       "url": "https://open.spotify.com/track/5KjkEibHnMqzVa43lP3B67"
+    },
+    {
+      "album": {
+        "name": "DTNN (can't trust me)",
+        "url": "https://open.spotify.com/album/31GT65OTauWFJiMp9D7rBq"
+      },
+      "artists": [
+        {
+          "name": "TONTONZ",
+          "url": "https://open.spotify.com/artist/6X0gtKGILU5XmRNpvs5eLw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151512,
+      "name": "DTNN (can't trust me)",
+      "url": "https://open.spotify.com/track/3gJuekdv5k2mEygTo90xcq"
     },
     {
       "album": {
@@ -17310,7 +17368,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 92376,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/4gdUoad0Tt9HJPZnjkCgTB"
@@ -18144,6 +18202,32 @@
       "duration_ms": 199695,
       "name": "KLOWN dance (feat. Jay Rock)",
       "url": "https://open.spotify.com/track/38tT9H9JYKXjUDs4kqaE4e"
+    },
+    {
+      "album": {
+        "name": "KNOCK",
+        "url": "https://open.spotify.com/album/0L0sz7yXh4q0FWU5wEVvAk"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225845,
+      "name": "KNOCK",
+      "url": "https://open.spotify.com/track/0idGJz40xztZf3amTmEKax"
     },
     {
       "album": {
@@ -21177,6 +21261,28 @@
     },
     {
       "album": {
+        "name": "MONDAY TO SUNDAY",
+        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq"
       },
@@ -23633,6 +23739,28 @@
     },
     {
       "album": {
+        "name": "Rydah (From \"The Drop: A Snowfall Saga\")",
+        "url": "https://open.spotify.com/album/4bP9H04X9fRg9yLFcArTlD"
+      },
+      "artists": [
+        {
+          "name": "The Drop - Cast",
+          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109008,
+      "name": "Officer Blackman",
+      "url": "https://open.spotify.com/track/7MaBbSrilprZz8Xp7vifg0"
+    },
+    {
+      "album": {
         "name": "Oh Dear",
         "url": "https://open.spotify.com/album/0dMyvCia0k4W7OCLffGtjd"
       },
@@ -23932,7 +24060,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 152988,
       "name": "on point",
       "url": "https://open.spotify.com/track/59kHIvX9m7qOCFxB83gFyc"
@@ -25022,7 +25150,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 157527,
       "name": "PANE",
       "url": "https://open.spotify.com/track/10o3WKLDyAhK7R8c4xIwH7"
@@ -28636,7 +28764,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 173333,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2a5D8FjEbJshSjOa8UbRc2"
@@ -30906,7 +31034,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 219000,
       "name": "Sticks",
       "url": "https://open.spotify.com/track/0j7UhC5CUof4oB1XIISKNi"
@@ -31066,7 +31194,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 144000,
       "name": "Still Love Me",
       "url": "https://open.spotify.com/track/1KYnCEvMbEnuG3TpEheIPY"
@@ -34420,6 +34548,24 @@
       "duration_ms": 177658,
       "name": "Trenches ft. 03 Greedo & Kee Riche$",
       "url": "https://open.spotify.com/track/17cuUSXBh8bDXSWEx6Dj2Q"
+    },
+    {
+      "album": {
+        "name": "Trim",
+        "url": "https://open.spotify.com/album/02A53UnCwENy4SiWzWd9gd"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177658,
+      "name": "Trim",
+      "url": "https://open.spotify.com/track/0MIF5dSoFaFoQ477HmRpQe"
     },
     {
       "album": {

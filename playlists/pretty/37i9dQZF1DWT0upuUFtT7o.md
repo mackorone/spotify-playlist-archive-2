@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Junior Mesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,267 likes - 95 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,292 likes - 95 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 94 | [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 |
 | 95 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
 
-Snapshot ID: `AAAAAIL4iwv+4u1o2nLqgKltsPVPQ6Yh`
+Snapshot ID: `AAAAANEUBYRdI3TC/TAWBihClDI7gGEI`

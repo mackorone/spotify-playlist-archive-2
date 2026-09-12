@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197637,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
+    },
+    {
+      "album": {
         "name": "Days We Left Behind",
         "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 239802,
       "name": "Do You Love Me - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
       "url": "https://open.spotify.com/track/64vxmwGC9wmLSTDjZv2yIl"
+    },
+    {
+      "album": {
+        "name": "Do You Think About Me (Demo)",
+        "url": "https://open.spotify.com/album/0jzWqrPXAWAfTwNvKyfsGm"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246640,
+      "name": "Do You Think About Me - Demo",
+      "url": "https://open.spotify.com/track/0ULuRUYjZKYxnLpfjjrSKl"
     },
     {
       "album": {
@@ -3474,6 +3510,10 @@
         {
           "name": "The Mothers Of Invention",
           "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
         }
       ],
       "date_added": "2026-08-01",
@@ -7840,6 +7880,24 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "album": {
+        "name": "The Mask And Mirror",
+        "url": "https://open.spotify.com/album/0YDtiKQ6v9nf7IgeqRuWf6"
+      },
+      "artists": [
+        {
+          "name": "Loreena McKennitt",
+          "url": "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461866,
+      "name": "The Mystic's Dream",
+      "url": "https://open.spotify.com/track/54epPTTV7F3CCA9N1XehZl"
     },
     {
       "album": {

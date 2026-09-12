@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122756,
+  "num_followers": 122748,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVvVjTB3/h28d6LedHozx2R1gdz3ps",
+  "snapshot_id": "AAAVvtnQx5enuMzr2fI4NIy93VYUNuVJ",
   "tracks": [
+    {
+      "added_at": "2026-09-11 14:20:04",
+      "album": {
+        "name": "Cry Myself To Sleep",
+        "url": "https://open.spotify.com/album/4LZcpO73HsxrlgsgV1d9vW"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Cry Myself To Sleep",
+      "url": "https://open.spotify.com/track/5r8tPHvnNHWbOruuOsWE4b"
+    },
     {
       "added_at": "2026-09-10 15:09:02",
       "album": {

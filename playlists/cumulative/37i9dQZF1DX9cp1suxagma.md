@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Elsay Elmar
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Camilo
 
-367 songs - 19 hr 16 min
+370 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-02-17 |  |
 | [2302](https://open.spotify.com/track/6UxAsUuceX0sVgWtITnM7b) | [De Narvaez](https://open.spotify.com/artist/7MutscQk35q3QHOJ8mYGWT) | [2302](https://open.spotify.com/album/6IobrkF6VQcLuBgeWlTCnM) | 2:21 | 2025-05-30 | 2026-02-28 |
 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 | 2024-04-19 | 2024-06-29 |
-| [4:40](https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [4:40](https://open.spotify.com/album/23cWA1ibGkP5VStAh5RRob) | 2:37 | 2023-06-23 |  |
+| [4:40](https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [4:40](https://open.spotify.com/album/23cWA1ibGkP5VStAh5RRob) | 2:37 | 2023-06-23 | 2026-09-12 |
 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 | 2023-10-06 | 2024-02-17 |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2023-02-17 | 2026-02-14 |
 | [53 mensajes](https://open.spotify.com/track/1sWlwaQjyEn8yFUedRJ1ru) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Fragmentos](https://open.spotify.com/album/2B43Igtwcqi0G7FPph7bEQ) | 3:05 | 2025-07-04 | 2025-12-06 |
@@ -60,6 +60,7 @@
 | [Casa En El Aire](https://open.spotify.com/track/1j0a4dRwOwFMKul897zhE2) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Casa En El Aire](https://open.spotify.com/album/7xh37rpO1dVzU9XAJUEGqX) | 3:01 | 2023-02-17 | 2023-08-26 |
 | [Casi](https://open.spotify.com/track/4MJS2cxqpRbwn9G88X3w0j) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Casi](https://open.spotify.com/album/0f5a0neVTzB1SxXr21FCl0) | 3:10 | 2023-08-11 | 2023-11-25 |
 | [Celebrar](https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Celebrar](https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l) | 3:15 | 2025-11-21 |  |
+| [Chiquita](https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:28 | 2026-09-11 |  |
 | [Cinco Letras](https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 2:49 | 2023-11-03 | 2023-12-16 |
 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-08 | 2023-11-04 |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-09 |  |
@@ -107,6 +108,7 @@
 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 | 2026-02-27 |  |
 | [El Amor Es Perfecto](https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [El Amor Es Perfecto](https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa) | 2:58 | 2023-02-17 | 2024-05-04 |
 | [El Avión](https://open.spotify.com/track/20Mt9BQVdMWNSyekweMvrc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Avión](https://open.spotify.com/album/67356fVytMStWRzKLej6bl) | 3:22 | 2026-03-27 | 2026-08-28 |
+| [El Baile](https://open.spotify.com/track/0MbKlrKTF6UoUiGoGKclk3) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [El Baile](https://open.spotify.com/album/6kBf6ECHvQFuQjpxpIHIZM) | 2:56 | 2026-09-11 |  |
 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 | 2024-07-27 |
 | [El Canto Del Olvido](https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [El Canto Del Olvido](https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH) | 2:52 | 2024-09-06 | 2024-10-12 |
 | [El Equivocado](https://open.spotify.com/track/25Qow1XsQiXi0v2C8cxhwL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Equivocado](https://open.spotify.com/album/0DKMuyi55HlxjQONKbt1xl) | 3:39 | 2023-02-17 |  |
@@ -144,6 +146,7 @@
 | [GUERRA DE ALMOHADAS](https://open.spotify.com/track/5SDxtXN8aPNlkEMSj4iEPH) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [GUERRA DE ALMOHADAS](https://open.spotify.com/album/59TX39k20TTWKzpCSfBKx6) | 3:01 | 2024-06-28 | 2024-09-27 |
 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 | 2026-01-23 |  |
 | [Hasta El Fin Del Mundo](https://open.spotify.com/track/3YTLDgIPG7AmwyPbSWUajQ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Hasta El Fin Del Mundo](https://open.spotify.com/album/57rQjR93zofRBceA9e3th3) | 2:55 | 2026-05-29 |  |
+| [Hotter Than Hot](https://open.spotify.com/track/1DcRZgk0OzhN9Fhxj0GiFs) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Callaita Nunca](https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd) | 3:10 | 2026-09-11 |  |
 | [Idiota](https://open.spotify.com/track/7IXKGPuB0D0yFvfLoJFFWo) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Idiota](https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J) | 2:29 | 2023-04-28 | 2023-05-20 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2023-02-17 |  |
 | [Inevitable \- Cinco de Mil Pedazos](https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Inevitable \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe) | 2:24 | 2023-11-10 | 2026-02-28 |
@@ -173,7 +176,7 @@
 | [Lego](https://open.spotify.com/track/3IJVpV8WRXZMNqd6gJ1zhD) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Lego](https://open.spotify.com/album/5yZ7kFnXA8MCHeOmn6zsMu) | 3:34 | 2024-11-26 | 2025-05-17 |
 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 | 2025-05-09 |  |
 | [Limón y Sal](https://open.spotify.com/track/7wNfal52dQo119tcZJRQ9d) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Limón y Sal](https://open.spotify.com/album/39A3cA2Y2FiElRTSy0m1kR) | 3:14 | 2024-02-16 | 2024-03-16 |
-| [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 | 2026-05-29 |  |
+| [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 | 2026-05-29 | 2026-09-12 |
 | [Llamada](https://open.spotify.com/track/4hPaJPc5kH10oVGkEMFmX4) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Llamada](https://open.spotify.com/album/73sOoQbDORrAbgNjtU6h4F) | 2:25 | 2025-07-25 | 2026-05-02 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2023-02-17 |  |
 | [Lo Que Falta De Mí](https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Lo Que Falta De Mí](https://open.spotify.com/album/60wOFQr0bZZjerxuioYEqA) | 3:41 | 2023-09-22 | 2023-10-30 |
@@ -240,7 +243,7 @@
 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 | 2023-11-03 |  |
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-09-23 |
 | [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 | 2025-05-16 | 2026-03-28 |
-| [Otros Ojos Te Ven](https://open.spotify.com/track/7JgYtaM1AN23ZhdmhYowYm) | [Gregorio](https://open.spotify.com/artist/5nyxxX1YUpHqeq1q1HFYtJ) | [¿Y si no es para siempre?](https://open.spotify.com/album/41QlWOIDLYx2XjEEDhYS3z) | 3:22 | 2026-05-15 |  |
+| [Otros Ojos Te Ven](https://open.spotify.com/track/7JgYtaM1AN23ZhdmhYowYm) | [Gregorio](https://open.spotify.com/artist/5nyxxX1YUpHqeq1q1HFYtJ) | [¿Y si no es para siempre?](https://open.spotify.com/album/41QlWOIDLYx2XjEEDhYS3z) | 3:22 | 2026-05-15 | 2026-09-12 |
 | [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 | 2026-02-13 |  |
 | [Pa Olvidarte \(feat\. Manuel Turizo\) \- Remix](https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa Olvidarte \(feat\. Manuel Turizo\) \[Remix\]](https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0) | 4:16 | 2023-02-17 | 2023-08-26 |
 | [Palabras](https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Canto Pa No Llorar](https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf) | 3:02 | 2026-02-13 |  |

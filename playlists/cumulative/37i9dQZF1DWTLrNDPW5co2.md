@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Pabllo Vittar.
+> Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Hercules & Love Affair.
 
-501 songs - 1 day 6 hr 30 min
+502 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Expression](https://open.spotify.com/track/6w2zYfgGelViF375QM0mQr) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Expression](https://open.spotify.com/album/7Lo2WFhRHf96MDvvndLOEB) | 4:12 | 2025-06-13 | 2026-03-14 |
 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-13 | 2025-10-18 |
 | [F.F.F.T.DJ](https://open.spotify.com/track/7yzo7xOGnvUZviEawNz5sL) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [F.F.F.T.DJ](https://open.spotify.com/album/60GqhNB2MM7l9wwmsUDNOR) | 3:21 | 2025-01-31 | 2025-08-10 |
-| [Famous](https://open.spotify.com/track/5wmJB8AJl5whV6ku8puLsU) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Famous / Talk Sh!t](https://open.spotify.com/album/2MSDdpOJGms3cP65kGDc9m) | 3:03 | 2025-06-06 |  |
+| [Famous](https://open.spotify.com/track/5wmJB8AJl5whV6ku8puLsU) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Famous / Talk Sh!t](https://open.spotify.com/album/2MSDdpOJGms3cP65kGDc9m) | 3:03 | 2025-06-06 | 2026-09-12 |
 | [Famous](https://open.spotify.com/track/3LjF42Ne65ATRVPXP08FJx) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Famous](https://open.spotify.com/album/3116zZrQebOYroE5EWYdsG) | 3:06 | 2025-06-20 | 2025-10-25 |
 | [Far Away \(with The Knocks\)](https://open.spotify.com/track/19tCu2OR7zl5vXrmSRVOOi) | [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Time and Space](https://open.spotify.com/album/35Adds1vrUAuB3HWJ6Bzj0) | 3:45 | 2024-10-04 | 2025-03-15 |
 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 | 2025-09-12 | 2026-01-18 |
@@ -200,6 +200,7 @@
 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 | 2021-10-15 | 2024-05-25 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-14 | 2026-07-18 |
 | [Heatwave](https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2) | [Cougar](https://open.spotify.com/artist/75DcASVacTXkCzbP0eWUZ2) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:37 | 2024-06-01 | 2025-03-01 |
+| [Heaven \(feat\. Faris Badwan\)](https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Faris Badwan](https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup) | [Danseur](https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx) | 4:06 | 2026-09-11 |  |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2023-03-31 | 2024-06-29 |
 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 | 2021-10-15 | 2024-03-02 |
 | [Hit and Run.mp3](https://open.spotify.com/track/5ihL5YFrkiy6CYMxWJCKKC) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Hit and Run.mp3](https://open.spotify.com/album/5ulI6BTs0oAKVJtCGK3jup) | 2:51 | 2025-08-08 | 2025-09-13 |

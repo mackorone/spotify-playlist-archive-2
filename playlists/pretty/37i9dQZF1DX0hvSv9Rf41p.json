@@ -1,32 +1,28 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 with HerShe",
-  "num_followers": 995766,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Viperactive",
+  "num_followers": 995794,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKux3BmUsS2z8nCKCbYSTIyY8Qz",
+  "snapshot_id": "AAAAAM3GKPwsI6b2FKTKCmiiO+Dn3DEc",
   "tracks": [
     {
-      "added_at": "2026-09-04 04:02:02",
+      "added_at": "2026-09-11 04:02:00",
       "album": {
-        "name": "MAXIMUM SHELLA",
-        "url": "https://open.spotify.com/album/4vI3Jat9BQ5oGUCUeHw8rq"
+        "name": "Snakepit",
+        "url": "https://open.spotify.com/album/6PNhLb06FOlSkRtApeADEu"
       },
       "artists": [
         {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        },
-        {
-          "name": "Bass Ventura",
-          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 154285,
-      "name": "MAXIMUM SHELLA",
-      "url": "https://open.spotify.com/track/3c3U56j8F1rb6yt3kKe40J"
+      "duration_ms": 137379,
+      "name": "Snakepit Anthem",
+      "url": "https://open.spotify.com/track/25ZeuwUZtEkpKiWyn3ythT"
     },
     {
       "added_at": "2026-08-28 04:02:39",
@@ -65,6 +61,26 @@
       "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
     },
     {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "I'll Never Know",
+        "url": "https://open.spotify.com/album/3C3Epwul5bfKqQWdguZM7u"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "I'll Never Know",
+      "url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4"
+    },
+    {
       "added_at": "2026-08-07 04:02:19",
       "album": {
         "name": "Fux With Us (feat. TiaCorine)",
@@ -85,6 +101,58 @@
       "url": "https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb"
     },
     {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "ALL THE TIME [GorillaT Remix]",
+        "url": "https://open.spotify.com/album/1E7th5SrXGmfa4j2RzgtKk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "duration_ms": 182422,
+      "name": "ALL THE TIME - GorillaT Remix",
+      "url": "https://open.spotify.com/track/11On2zeQqlgsZD2QwesDuo"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "F WHAT U HEARD",
+        "url": "https://open.spotify.com/album/2tnTwKysfYdVFQDxLO7LQJ"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "SHIVERZ",
+          "url": "https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "F WHAT U HEARD",
+      "url": "https://open.spotify.com/track/1BFSAaGL91tAFRedx1KvXJ"
+    },
+    {
       "added_at": "2026-08-28 04:02:39",
       "album": {
         "name": "I Need",
@@ -103,6 +171,186 @@
       "duration_ms": 189937,
       "name": "I Need",
       "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
+    },
+    {
+      "added_at": "2026-09-04 04:02:02",
+      "album": {
+        "name": "MAXIMUM SHELLA",
+        "url": "https://open.spotify.com/album/4vI3Jat9BQ5oGUCUeHw8rq"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Bass Ventura",
+          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "MAXIMUM SHELLA",
+      "url": "https://open.spotify.com/track/3c3U56j8F1rb6yt3kKe40J"
+    },
+    {
+      "added_at": "2026-09-11 18:30:57",
+      "album": {
+        "name": "Essa Ta Quente (feat. Skrillex)",
+        "url": "https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 166270,
+      "name": "Essa Ta Quente (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "WHATEVER HAPPENED TO DUBSTEP",
+        "url": "https://open.spotify.com/album/4D9Yp6XGuC6RO6xwWn58qd"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "WHATEVER HAPPENED TO DUBSTEP",
+      "url": "https://open.spotify.com/track/2emabNibRllH5L6CvwX8tP"
+    },
+    {
+      "added_at": "2026-09-04 04:02:02",
+      "album": {
+        "name": "in my dreams",
+        "url": "https://open.spotify.com/album/0Mg01R2oTPFnSAYnFMXQFP"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "in my dreams",
+      "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "MAXED OUT",
+        "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+        "url": "https://open.spotify.com/album/18FCcZlQyBRvKEqyzEo7oq"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+      "url": "https://open.spotify.com/track/7e2zNm90ULXbzAm1NXfbac"
+    },
+    {
+      "added_at": "2026-09-04 04:02:02",
+      "album": {
+        "name": "Birds Eye View",
+        "url": "https://open.spotify.com/album/0Tvxn4wEIycuxmIahZkmCg"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "Eligh",
+          "url": "https://open.spotify.com/artist/2eHvc7bebwUbjDw4SZkubY"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Birds Eye View",
+      "url": "https://open.spotify.com/track/6YuxB2UdQl6feU3sgFsyix"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "A Void",
+        "url": "https://open.spotify.com/album/3aBbAamOkFehpGWjgMFP5G"
+      },
+      "artists": [
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "A Void",
+      "url": "https://open.spotify.com/track/0sz41VsHu2tgWdiQOt7bd4"
+    },
+    {
+      "added_at": "2026-08-28 04:02:39",
+      "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/4zM9FQhfEmgILqLxxvEaPp"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/2DKj0J1FaMYe4LRIyk5Sya"
     },
     {
       "added_at": "2026-08-21 04:02:23",
@@ -133,68 +381,20 @@
       "url": "https://open.spotify.com/track/4goygFQQW67Jfg83OhGsol"
     },
     {
-      "added_at": "2026-08-07 04:02:19",
-      "album": {
-        "name": "WHATEVER HAPPENED TO DUBSTEP",
-        "url": "https://open.spotify.com/album/4D9Yp6XGuC6RO6xwWn58qd"
-      },
-      "artists": [
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        },
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "WHATEVER HAPPENED TO DUBSTEP",
-      "url": "https://open.spotify.com/track/2emabNibRllH5L6CvwX8tP"
-    },
-    {
       "added_at": "2026-09-04 04:02:02",
       "album": {
-        "name": "Birds Eye View",
-        "url": "https://open.spotify.com/album/0Tvxn4wEIycuxmIahZkmCg"
+        "name": "Play With It",
+        "url": "https://open.spotify.com/album/3bZ8uEjzLEdfMdYD319pCt"
       },
       "artists": [
         {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        },
-        {
-          "name": "SubDocta",
-          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
-        },
-        {
-          "name": "Eligh",
-          "url": "https://open.spotify.com/artist/2eHvc7bebwUbjDw4SZkubY"
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Birds Eye View",
-      "url": "https://open.spotify.com/track/6YuxB2UdQl6feU3sgFsyix"
-    },
-    {
-      "added_at": "2026-08-28 04:02:39",
-      "album": {
-        "name": "Play With Fire",
-        "url": "https://open.spotify.com/album/4zM9FQhfEmgILqLxxvEaPp"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Play With Fire",
-      "url": "https://open.spotify.com/track/2DKj0J1FaMYe4LRIyk5Sya"
+      "duration_ms": 179049,
+      "name": "play with it",
+      "url": "https://open.spotify.com/track/4T0RLGcVQV62SR51Qx38KS"
     },
     {
       "added_at": "2026-08-28 04:02:39",
@@ -231,6 +431,22 @@
       "duration_ms": 249257,
       "name": "Working The Plan",
       "url": "https://open.spotify.com/track/7kuz44CehBRSs1POMUEJUL"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/2kdnCvXhqJx8I9oa95s7PC"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z"
     },
     {
       "added_at": "2026-08-14 04:01:38",
@@ -273,6 +489,26 @@
       "url": "https://open.spotify.com/track/3WSDoGL8yrK4xq0bBJQgbp"
     },
     {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "Beat Goes Boom",
+        "url": "https://open.spotify.com/album/4fHMOiOH0O4dhqlaDQ8F3A"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Beat Goes Boom",
+      "url": "https://open.spotify.com/track/77JRsNPS931vefQldOjsnT"
+    },
+    {
       "added_at": "2026-09-04 04:02:02",
       "album": {
         "name": "NOISE COMPLAINT",
@@ -295,6 +531,22 @@
       "duration_ms": 211862,
       "name": "NOISE COMPLAINT",
       "url": "https://open.spotify.com/track/6mh1IlyyKhqKDftgMyPyio"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/2QwjskRhaeXWvHsp6GgnxA"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/1DpeeIO6Zss9gruenZbteu"
     },
     {
       "added_at": "2026-08-21 04:02:23",
@@ -337,6 +589,26 @@
       "url": "https://open.spotify.com/track/3qovS8NlY3yFMySV2028Il"
     },
     {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/7ntAZErhCh4BevWYRZWSNO"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        },
+        {
+          "name": "DRAxZ",
+          "url": "https://open.spotify.com/artist/58rm2G6jN3TzRGi5UFwhaj"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/08xyYI3ZsSUNNLm3EGy0fC"
+    },
+    {
       "added_at": "2026-09-04 04:02:02",
       "album": {
         "name": "808",
@@ -357,6 +629,26 @@
       "url": "https://open.spotify.com/track/0r8iGm1w5lPfQsYJ1xwEq6"
     },
     {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "SHADOW EP",
+        "url": "https://open.spotify.com/album/1A1SKZGzGYX1BoptJEXotl"
+      },
+      "artists": [
+        {
+          "name": "Lektrique",
+          "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+        },
+        {
+          "name": "RANKZ",
+          "url": "https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/6TwjhuPi6OnVQTBvTHPyNs"
+    },
+    {
       "added_at": "2026-08-21 04:02:23",
       "album": {
         "name": "You Got Me",
@@ -375,26 +667,6 @@
       "duration_ms": 153803,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/6r0FI24st9dtMgDxqiF5Cy"
-    },
-    {
-      "added_at": "2026-09-04 04:02:02",
-      "album": {
-        "name": "in my dreams",
-        "url": "https://open.spotify.com/album/0Mg01R2oTPFnSAYnFMXQFP"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "in my dreams",
-      "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
     },
     {
       "added_at": "2026-08-28 04:02:39",
@@ -443,22 +715,6 @@
       "duration_ms": 165517,
       "name": "SUFFOCATING (with Adalaide Adams)",
       "url": "https://open.spotify.com/track/48Uh86xRi2vWHwh47e5hOn"
-    },
-    {
-      "added_at": "2026-09-04 04:02:02",
-      "album": {
-        "name": "Play With It",
-        "url": "https://open.spotify.com/album/3bZ8uEjzLEdfMdYD319pCt"
-      },
-      "artists": [
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
-        }
-      ],
-      "duration_ms": 179049,
-      "name": "play with it",
-      "url": "https://open.spotify.com/track/4T0RLGcVQV62SR51Qx38KS"
     },
     {
       "added_at": "2026-08-28 04:02:39",
@@ -1437,30 +1693,6 @@
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
     },
     {
-      "added_at": "2026-07-03 04:16:11",
-      "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
-    },
-    {
       "added_at": "2026-07-17 04:01:43",
       "album": {
         "name": "THE GIRLS ARE MAKING RIDDIM (TYNAN Remix)",
@@ -1633,26 +1865,6 @@
       "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
     },
     {
-      "added_at": "2026-04-03 04:03:08",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "A.F.B.1.",
@@ -1771,22 +1983,6 @@
       "duration_ms": 158620,
       "name": "All The Things She Said (Culture Shock Version)",
       "url": "https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9"
-    },
-    {
-      "added_at": "2025-09-19 04:00:42",
-      "album": {
-        "name": "THE DARK SiDE OF THE TRASH",
-        "url": "https://open.spotify.com/album/2DDv1U1A1ipoeySQl6bRYI"
-      },
-      "artists": [
-        {
-          "name": "YOOKiE",
-          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
-        }
-      ],
-      "duration_ms": 104115,
-      "name": "COME AS YOU ARE",
-      "url": "https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW"
     },
     {
       "added_at": "2025-09-05 04:00:28",

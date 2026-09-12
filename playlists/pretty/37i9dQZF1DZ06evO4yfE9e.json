@@ -1,29 +1,13 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2955,
+  "num_followers": 2957,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAD+PAe6vl7O2Pgrn87FGK9R",
+  "snapshot_id": "aqHzAAAAAABFmssR00NX7MN04v/spl3K",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "nympho",
-        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 136810,
-      "name": "call me daddy",
-      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "nympho",
+        "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 136810,
+      "name": "call me daddy",
+      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/37vgBMo74D1PpPK8p3ME2q"
       },
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SQUEAK",
-        "url": "https://open.spotify.com/album/2DxCAkR3SnD8qUm21bRiXY"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 123041,
-      "name": "SQUEAK",
-      "url": "https://open.spotify.com/track/3KyZhI9sVuqVZZWce3PJVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORAL HEX (spell on you)",
         "url": "https://open.spotify.com/album/3LAWMvJxRd4uQFJiyQQIbN"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 194545,
       "name": "ORAL HEX (spell on you)",
       "url": "https://open.spotify.com/track/24GULBTSEbv8y8mKgF3IhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SQUEAK",
+        "url": "https://open.spotify.com/album/2DxCAkR3SnD8qUm21bRiXY"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 123041,
+      "name": "SQUEAK",
+      "url": "https://open.spotify.com/track/3KyZhI9sVuqVZZWce3PJVJ"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "polyam\u00f3re",
-        "url": "https://open.spotify.com/album/5duXJIxJ2tM7ARjibBSZeo"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 185851,
-      "name": "polyam\u00f3re",
-      "url": "https://open.spotify.com/track/53cmIX8FN9o7hMd6Vog75D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart",
         "url": "https://open.spotify.com/album/2uCwKi5lViWMVTCCwp2JwL"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 97272,
       "name": "Mozart",
       "url": "https://open.spotify.com/track/4EISOJDYezvr8UtIeOy3sj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "polyam\u00f3re",
+        "url": "https://open.spotify.com/album/5duXJIxJ2tM7ARjibBSZeo"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 185851,
+      "name": "polyam\u00f3re",
+      "url": "https://open.spotify.com/track/53cmIX8FN9o7hMd6Vog75D"
     },
     {
       "added_at": null,

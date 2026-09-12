@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Vanita Leo\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,862 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,897 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 50 | [F2J](https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8) | [F2J](https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy) | 2:43 |
 
-Snapshot ID: `AAAAADv7wD28lpF0atMF2BqXj3Oly42s`
+Snapshot ID: `AAAAALRfyAaeILbm+2q9MzE8zs4jiYcM`

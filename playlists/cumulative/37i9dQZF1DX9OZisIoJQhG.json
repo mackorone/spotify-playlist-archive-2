@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "the gentle undoing (solo piano)",
+        "url": "https://open.spotify.com/album/1LbSQ4JGHZ07HyGVlTsXZJ"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "the gentle undoing - solo piano",
+      "url": "https://open.spotify.com/track/60PAUYtZrIlSZSUl9hVtda"
+    },
+    {
+      "album": {
         "name": "Cello Bouquet",
         "url": "https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W"
       },

@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-803 songs - 3 day 5 hr 5 min
+804 songs - 3 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Great Are You Lord \- Live](https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 8:46 | 2025-10-27 |  |
 | [Greater Than All](https://open.spotify.com/track/24MA5bhZEAYE7LCfMsAXds) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [High And Lifted Up](https://open.spotify.com/album/1k4ZHVEfti3visyGQ2lneQ) | 6:08 | 2022-02-25 | 2022-04-05 |
 | [Greatly To Be Praised \- Live](https://open.spotify.com/track/1B1KmVRWu3WBcSHLKRqam7) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Greatly To Be Praised \(Live\)](https://open.spotify.com/album/4faSNgl5Ir0qLz4WIUEyFn) | 8:58 | 2025-04-04 | 2025-09-06 |
+| [Guest Of Honor](https://open.spotify.com/track/71fJVu0dAaGqfJvq8zFjI0) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [Guest Of Honor](https://open.spotify.com/album/4BN4Wt3b1BmbEnpHlGBsvq) | 5:52 | 2026-09-11 |  |
 | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/track/5u3lEROF6PYAItJ7nPUPHS) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/album/18Hct0jByiTdj11FOGwCir) | 3:11 | 2025-03-20 | 2026-02-07 |
 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 5:32 | 2022-05-27 | 2023-01-05 |
 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 | 2026-05-29 |  |

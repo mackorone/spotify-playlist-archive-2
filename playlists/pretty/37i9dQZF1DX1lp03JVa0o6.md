@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Chris Lake, Chris Lorenzo, Kenny Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,467 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,465 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [She's A Devil](https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [She's A Devil](https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb) | 3:24 |
 | 75 | [HOTS 4 U](https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [aMo \(um\)](https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0) | [HOTS 4 U](https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9) | 3:34 |
 
-Snapshot ID: `AAAAAHXG2qD44FubGct1B7tRg3SDPpin`
+Snapshot ID: `AAAAALwhevFYRJPdpJgcePj+CVXE1It3`

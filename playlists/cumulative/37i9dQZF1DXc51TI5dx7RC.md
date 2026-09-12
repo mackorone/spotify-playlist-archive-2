@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LISA
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BLVCKHEART
 
-288 songs - 17 hr 16 min
+289 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 | 2025-03-16 | 2025-04-17 |
 | [สาธุ \(Sathu\) \[feat\. ปลาย กนกพร\]](https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz), [ปลาย กนกพร](https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN) | [DEEPMIND](https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF) | 3:38 | 2026-01-23 | 2026-03-06 |
 | [สายไป](https://open.spotify.com/track/45VmbHRJywi2mNaIGvHs44) | [9tokyo](https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [สายไป](https://open.spotify.com/album/3pnYrlNhLlMwkV9gDSXphN) | 3:18 | 2026-08-21 |  |
-| [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/track/5TO9QdzAiAw9fBTiDpiNcg) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63), [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/album/2F17kjFk8JiLBO9cf4WLji) | 4:18 | 2026-06-11 |  |
+| [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/track/5TO9QdzAiAw9fBTiDpiNcg) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63), [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/album/2F17kjFk8JiLBO9cf4WLji) | 4:18 | 2026-06-11 | 2026-09-12 |
 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 | 2024-09-26 | 2025-04-04 |
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-31 | 2026-01-23 |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-06-20 | 2025-04-11 |
@@ -288,6 +288,7 @@
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-12-05 | 2025-03-24 |
 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 | 2026-04-23 |  |
+| [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL) | 4:31 | 2026-09-11 |  |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-16 | 2025-02-07 |
 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 | 2026-06-26 |  |
 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 | 2026-08-21 |  |

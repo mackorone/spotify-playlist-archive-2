@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,273 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,268 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [BLESSED](https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:51 |
 | 24 | [blair waldorf \#mag mich](https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [blair waldorf \#mag mich](https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM) | 2:22 |
 | 25 | [vvm](https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [vvm](https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG) | 2:50 |
-| 26 | [CHROME H<3RTS](https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [CHROME H<3RTS](https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi) | 2:30 |
-| 27 | [Drin \(prod\. by Dilla\)](https://open.spotify.com/track/51sOqS7mxHUpgmhlwfD25k) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Drin \(prod\. by Dilla\)](https://open.spotify.com/album/2ZRfbjo6OeezAjMsaXJ5dd) | 2:46 |
+| 26 | [Drin \(prod\. by Dilla\)](https://open.spotify.com/track/51sOqS7mxHUpgmhlwfD25k) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Drin \(prod\. by Dilla\)](https://open.spotify.com/album/2ZRfbjo6OeezAjMsaXJ5dd) | 2:46 |
+| 27 | [CHROME H<3RTS](https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [CHROME H<3RTS](https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi) | 2:30 |
 | 28 | [MANGO STICKY](https://open.spotify.com/track/0vGVmBNoa6njbKZikFqLXn) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [MANGO STICKY](https://open.spotify.com/album/4zxqMioxbCnSuKUNKtGycP) | 2:06 |
 | 29 | [ATNB](https://open.spotify.com/track/2Oowgh4qE0lH94bisFFFm8) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [All Tits, No Brains](https://open.spotify.com/album/7IIScJwanB6jSm0Wo9ssks) | 2:41 |
 | 30 | [Keine Tränen](https://open.spotify.com/track/0TExrpemmt9Yt9GkOTzwJf) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode](https://open.spotify.com/album/7hCDEPx9vObaxVQi8UJQx0) | 2:11 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Little Silver](https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Little Silver](https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN) | 3:26 |
 | 33 | [ADRENALIN](https://open.spotify.com/track/40uLIxGcvydremPOVvcasV) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [ADRENALIN](https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ) | 2:27 |
 | 34 | [chameleon](https://open.spotify.com/track/6CHBHzPUxiFKcHNmWrpe1n) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chameleon](https://open.spotify.com/album/5jzR0Rqvd7IZp6XWVKWipm) | 2:48 |
-| 35 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
-| 36 | [TEST](https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [TEST](https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84) | 2:41 |
+| 35 | [TEST](https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [TEST](https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84) | 2:41 |
+| 36 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
 | 37 | [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 |
 | 38 | [dumme sachen fühlen](https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [dumme sachen fühlen](https://open.spotify.com/album/5HM7AXjuIlmShkoOom3PcD) | 3:02 |
 | 39 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |

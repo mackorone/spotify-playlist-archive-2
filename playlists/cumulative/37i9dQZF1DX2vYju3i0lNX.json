@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 194405,
       "name": "A guests of honor",
       "url": "https://open.spotify.com/track/6M1N1OoyGvXUFRTiC6oBiX"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218806,
       "name": "Before so long",
       "url": "https://open.spotify.com/track/3b5w7yFYkaPMsBl7tqpDMq"
@@ -8177,6 +8177,24 @@
     },
     {
       "album": {
+        "name": "Green Line",
+        "url": "https://open.spotify.com/album/6fLzK3N3UvqjszxCSha0ez"
+      },
+      "artists": [
+        {
+          "name": "The Sterling Room",
+          "url": "https://open.spotify.com/artist/0I5siWjbRQ0XDGgN6Cdc7d"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Green Line",
+      "url": "https://open.spotify.com/track/1QR7K68TIXBZSnitijwVWq"
+    },
+    {
+      "album": {
         "name": "Guess I'll Hang My Tears Out To Dry",
         "url": "https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf"
       },
@@ -10769,6 +10787,24 @@
     },
     {
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/3mNmV2h5wyfCXKrf98ojUp"
+      },
+      "artists": [
+        {
+          "name": "PLG Trio",
+          "url": "https://open.spotify.com/artist/4O5GhFI3cTykc9QgWTnsSL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174965,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/4wHNsQwRYpnBPZxa3jALIk"
+    },
+    {
+      "album": {
         "name": "It Could Happen To You",
         "url": "https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa"
       },
@@ -11140,7 +11176,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 213584,
       "name": "I\u2019ll Walk You Home",
       "url": "https://open.spotify.com/track/6vJxR139KoSQow9QK2KVwn"
@@ -18744,6 +18780,24 @@
       "duration_ms": 191700,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB"
+    },
+    {
+      "album": {
+        "name": "Some Time",
+        "url": "https://open.spotify.com/album/2P46SCCyNkFZDoE5iMZE3U"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205603,
+      "name": "Some Time",
+      "url": "https://open.spotify.com/track/7nDyb4C7wymx1pNHeD6b82"
     },
     {
       "album": {

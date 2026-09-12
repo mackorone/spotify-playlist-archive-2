@@ -1,12 +1,12 @@
 {
   "description": "Your Disneyland soundtrack is here all in one place.",
-  "num_followers": 29487,
+  "num_followers": 29530,
   "original_name": "Disneyland Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4Hf6Q3edjknceFkRb6PmPlSRMP",
+  "snapshot_id": "AAAAAHNX+uQLRyQtSc6QIGpFGvXVptIJ",
   "tracks": [
     {
       "added_at": "2026-06-01 13:00:25",
@@ -1299,6 +1299,22 @@
       "duration_ms": 218434,
       "name": "After Hours at Oga's",
       "url": "https://open.spotify.com/track/4Rbx4CAWecY7RYprGfRNqj"
+    },
+    {
+      "added_at": "2026-09-11 04:00:24",
+      "album": {
+        "name": "Horseshoe Stomp (From \"Jessie's Roundup: A Rip Roarin' Revue!\")",
+        "url": "https://open.spotify.com/album/5xPWFO6UyKEiZ8UrqFKbYw"
+      },
+      "artists": [
+        {
+          "name": "Jessie's Roundup - Cast",
+          "url": "https://open.spotify.com/artist/3qOjep5TBGPO9aGZMEA3gE"
+        }
+      ],
+      "duration_ms": 157183,
+      "name": "Horseshoe Stomp - From \"Jessie's Roundup: A Rip Roarin' Revue!\"",
+      "url": "https://open.spotify.com/track/0Etr3ZmvsCk5mh4qVaJWD2"
     },
     {
       "added_at": "2026-06-01 13:00:25",

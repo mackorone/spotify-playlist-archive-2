@@ -4492,7 +4492,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 178846,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD"
@@ -10412,6 +10412,24 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/6JZe3sy9UXaYVysRTHss6l"
+    },
+    {
+      "album": {
+        "name": "THE AGITATOR",
+        "url": "https://open.spotify.com/album/10PqV1ciuTmqMfs0hsSh5E"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "THE AGITATOR",
+      "url": "https://open.spotify.com/track/4jA4C5rdRwYYsZbfqsiswk"
     },
     {
       "album": {

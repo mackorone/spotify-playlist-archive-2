@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-1,428 songs - 3 day 2 hr 16 min
+1,430 songs - 3 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-10-21 | 2023-02-16 |
 | [I Don't Care](https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD) | 3:03 | 2023-02-07 | 2023-05-20 |
 | [I DON'T CARE](https://open.spotify.com/track/3EnVKiQKyDtyPVOmk2Zm1E) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [I DON'T CARE](https://open.spotify.com/album/7tFFOyEEGpedQr8NC0gEh9) | 2:14 | 2025-02-14 | 2025-05-17 |
+| [I don't feel like myself](https://open.spotify.com/track/1JAMP5hKVnp7YO7gDYOH8s) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [I don't feel like myself](https://open.spotify.com/album/1GFAiGSYv3y6wQAKniaqUz) | 2:49 | 2026-09-11 |  |
 | [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-04 | 2025-03-01 |
 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 | 2026-05-15 | 2026-05-28 |
 | [i hate this place](https://open.spotify.com/track/6OmjE8o1vrrASrHii5SQlt) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ) | [i hate this place](https://open.spotify.com/album/4ATQQ3U9I9eqkUj3oN5VvG) | 3:02 | 2025-07-18 | 2026-02-21 |
@@ -600,7 +601,7 @@
 | [i have a crush on you](https://open.spotify.com/track/5zyy6rCsnG4OMxL2VLDAoM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [before & after](https://open.spotify.com/album/539HN7fgdZv9lVCCG1zVGG) | 3:13 | 2025-10-10 | 2026-02-14 |
 | [I Imagine \(with Hope Tala\)](https://open.spotify.com/track/430rbHunIAZUcA9Cy2ymU5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Imagine \(with Hope Tala\)](https://open.spotify.com/album/0piQOFAI3t9FjSP3re0Bp9) | 2:23 | 2025-06-30 | 2025-07-19 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2024-02-24 |
-| [I know you](https://open.spotify.com/track/2Qnl7loD3A37dzheDhwFVF) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [I know you](https://open.spotify.com/album/49WQZeN3ERKEZhkvCW4FZr) | 2:42 | 2026-08-07 |  |
+| [I know you](https://open.spotify.com/track/2Qnl7loD3A37dzheDhwFVF) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [I know you](https://open.spotify.com/album/49WQZeN3ERKEZhkvCW4FZr) | 2:42 | 2026-08-07 | 2026-09-12 |
 | [i know you know](https://open.spotify.com/track/3WyZ7dK3zospzqBdVeIVlF) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know \(sped up\)](https://open.spotify.com/album/2SKGm8OPhvVFT8ZSz5nJ92) | 4:24 | 2024-02-23 | 2024-08-31 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2025-06-20 |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2022-05-27 | 2023-08-12 |
@@ -1095,6 +1096,7 @@
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-08 | 2026-05-09 |
 | [So Familiar](https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [So Familiar](https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb) | 3:58 | 2024-04-19 | 2024-08-03 |
 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 | 2024-07-12 | 2024-09-21 |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-11 |  |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 | 2024-08-17 |
 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 | 2022-05-27 | 2023-11-11 |
 | [So Valentina](https://open.spotify.com/track/4iSrwEafJenKr7hbunxNas) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [So Valentina](https://open.spotify.com/album/4MpNBUEIRyW0jlsBGPgEDE) | 2:38 | 2025-10-17 | 2026-05-09 |
@@ -1393,7 +1395,7 @@
 | [Ya Ya](https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0) | [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Ya Ya](https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V) | 3:33 | 2023-08-25 | 2024-01-27 |
 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-20 |  |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-18 | 2024-01-27 |
-| [YHYH](https://open.spotify.com/track/5k8jvV99sd6UKyw2f46CZj) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Time / YHYH](https://open.spotify.com/album/32JmbjOtKeFbF8twTuvP3F) | 3:02 | 2026-02-13 |  |
+| [YHYH](https://open.spotify.com/track/5k8jvV99sd6UKyw2f46CZj) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Time / YHYH](https://open.spotify.com/album/32JmbjOtKeFbF8twTuvP3F) | 3:02 | 2026-02-13 | 2026-09-12 |
 | [Ylang Ylang](https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [Ylang Ylang EP](https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1) | 3:33 | 2023-09-01 | 2023-09-23 |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-05-27 | 2023-08-12 |
 | [You](https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [You](https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5) | 3:33 | 2022-07-22 | 2022-09-10 |

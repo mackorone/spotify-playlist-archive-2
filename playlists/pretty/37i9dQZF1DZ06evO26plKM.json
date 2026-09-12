@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33770,
+  "num_followers": 33773,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAADjQsui4gCiOmg1ZaT1WK9H",
+  "snapshot_id": "aqHzAAAAAABks8LUJqPjM8ui+adY1J/C",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn the Maps",
-        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 239386,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Longitude",
         "url": "https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m"
       },
@@ -635,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+        "name": "Burn the Maps",
+        "url": "https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu"
       },
       "artists": [
         {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 213853,
-      "name": "In These Arms",
-      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
+      "duration_ms": 239386,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo"
     },
     {
       "added_at": null,
@@ -679,6 +655,30 @@
       "duration_ms": 231546,
       "name": "Stuck In Reverse",
       "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "In These Arms",
+      "url": "https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Grace Beneath the Pines",
+      "url": "https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cost",
         "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 206413,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Grace Beneath the Pines",
-      "url": "https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm"
     },
     {
       "added_at": null,

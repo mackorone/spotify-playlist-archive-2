@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Jeanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,397 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,422 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [M'en veux pas](https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz), [Bosco](https://open.spotify.com/artist/5e0dt4ubHmVg4Ds1EhYTy8) | [M'en veux pas](https://open.spotify.com/album/20pqrl78xUu2rxIEsY40Vb) | 2:46 |
 | 50 | [Los Angeles](https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Los Angeles](https://open.spotify.com/album/5zQKqBsuShCcKgCMe6gHnW) | 2:54 |
 
-Snapshot ID: `AAAAAMFoNNIbAxGQCrWZ5fifGBBN2QMS`
+Snapshot ID: `AAAAAGTOh1ZLACqhbzE42BJsufl5TwXr`

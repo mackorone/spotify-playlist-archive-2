@@ -5835,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "FROGZ",
+        "url": "https://open.spotify.com/album/3SKSI8gj01y5JdEO1Pprrq"
+      },
+      "artists": [
+        {
+          "name": "SPLATA",
+          "url": "https://open.spotify.com/artist/73Neq5huRsY2YnBj979vgv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "FROGZ",
+      "url": "https://open.spotify.com/track/47GWZ2LdkRi7RNUPuWWIQ4"
+    },
+    {
+      "album": {
         "name": "FRUI7Y LOOPS S7UDIO",
         "url": "https://open.spotify.com/album/7wO2WPoBoNW8zMUoanhHW4"
       },
@@ -9924,7 +9942,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 249016,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/5UZqcRnKWhmFtoC0aRKzSr"
@@ -12698,7 +12716,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 260000,
       "name": "Put The Lights Out",
       "url": "https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp"
@@ -16320,6 +16338,24 @@
       "duration_ms": 215183,
       "name": "The Elephant",
       "url": "https://open.spotify.com/track/3xGPQcTd1HRvQOcEZIWgKP"
+    },
+    {
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/2kdnCvXhqJx8I9oa95s7PC"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z"
     },
     {
       "album": {

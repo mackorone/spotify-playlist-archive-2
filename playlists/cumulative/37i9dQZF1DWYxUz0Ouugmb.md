@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: Betrand Putra Onsu
 
-345 songs - 22 hr 9 min
+346 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 | 2023-04-14 |
 | [Love Me Like You Say You Do](https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Love Me Like You Say You Do](https://open.spotify.com/album/6eUwL9LXbgvh0zaNPjRZV8) | 3:40 | 2024-03-29 | 2025-04-16 |
 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 | 2025-09-09 | 2025-11-14 |
+| [Maju Satu Satu](https://open.spotify.com/track/3jBlb7ZMXQHOBLipWeXIDW) | [Tsaqib](https://open.spotify.com/artist/2o1sa27U08Oa7jRLrZrFlx) | [Maju Satu Satu](https://open.spotify.com/album/2kAboCQpVrE808rfLHEQmJ) | 3:13 | 2026-09-11 |  |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |
 | [Makna](https://open.spotify.com/track/2FPYnKqvSmYUBk1YE8q31E) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 3:44 | 2026-02-20 | 2026-04-07 |
 | [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-22 | 2024-03-29 |

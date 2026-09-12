@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Yukun en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Dalex en portada.",
   "name": "sentimiento r&b.",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169684,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
@@ -1164,6 +1164,24 @@
       "duration_ms": 227266,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM"
+    },
+    {
+      "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa"
     },
     {
       "album": {
@@ -2997,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "La Rosa",
+        "url": "https://open.spotify.com/album/4xKOvUzeVuIqETqZRNjPns"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Fueras",
+      "url": "https://open.spotify.com/track/0TTIzlZr17jqSfdgxQHEcO"
+    },
+    {
+      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL"
       },
@@ -4740,7 +4780,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 224800,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
@@ -5294,6 +5334,28 @@
       "duration_ms": 192533,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/6x9R4S1aazZdd40qO4PMFa"
+    },
+    {
+      "album": {
+        "name": "Pa que buscar?",
+        "url": "https://open.spotify.com/album/7fLGpX6ToOBWjLcauN8XRq"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Pa que buscar?",
+      "url": "https://open.spotify.com/track/6uuo5JomROvw6c9By2ElMU"
     },
     {
       "album": {
@@ -7410,7 +7472,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"

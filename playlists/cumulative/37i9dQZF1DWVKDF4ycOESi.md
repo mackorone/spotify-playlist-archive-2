@@ -4,7 +4,7 @@
 
 > Nuovi brani di Marracash e Guè,  BLANCO, Geolier e Achille Lauro, prima stanza a destra e Angelica Bove, Elisa e tanti altri.
 
-10,325 songs - 21 day 18 hr 52 min
+10,327 songs - 21 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8329,6 +8329,7 @@
 | [So](https://open.spotify.com/track/3Meh830NxXhLpEFD9GMnDR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [So](https://open.spotify.com/album/3BFw4nu743hg3NE3BkuJ1n) | 3:09 | 2026-04-23 | 2026-05-01 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2025-10-03 |
 | [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-03 | 2026-09-11 |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-11 |  |
 | [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 | 2026-02-12 | 2026-02-20 |
 | [So Many Things To Say](https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [So Many Things To Say](https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn) | 2:59 | 2026-09-04 | 2026-09-11 |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-20 | 2026-03-27 |
@@ -9077,6 +9078,7 @@
 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 | 2024-09-05 | 2024-09-13 |
 | [The Hell](https://open.spotify.com/track/5uY16QfcaCRG3muBnQ0kbz) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [The Hell](https://open.spotify.com/album/26uIolW6gbqi3w4XHcpfTa) | 2:18 | 2025-05-29 | 2025-06-06 |
 | [The Karate Kid](https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 2:55 | 2024-10-10 | 2024-10-18 |
+| [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 | 2026-09-11 |  |
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-04 | 2025-09-12 |
 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 | 2026-07-24 | 2026-07-31 |
 | [The Lighthouse Ghost](https://open.spotify.com/track/4Wag4Eaqsw24qg5L6mgMvX) | [Ciro Vitiello](https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s), [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw), [Heith](https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy) | [The Lighthouse Ghost](https://open.spotify.com/album/4A0xBclXXqLgbo81EOseHi) | 3:15 | 2026-02-05 | 2026-02-13 |

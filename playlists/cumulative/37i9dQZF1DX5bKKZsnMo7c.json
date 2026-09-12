@@ -4919,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377003,
+      "name": "I Know You're Hurting.",
+      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+    },
+    {
+      "album": {
         "name": "I Lit The Fire",
         "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212791,
       "name": "Jax Toy",
       "url": "https://open.spotify.com/track/2VQdlLE28peS0ZxTu2fakd"
@@ -7296,7 +7314,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 202989,
       "name": "On Wires",
       "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
@@ -8196,7 +8214,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 186426,
       "name": "Safe For Another Day",
       "url": "https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ"
@@ -9037,6 +9055,24 @@
     },
     {
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
         "name": "Stormy Weather",
         "url": "https://open.spotify.com/album/7xMXAX8IEa8HqGu7fWNUNc"
       },
@@ -9158,9 +9194,27 @@
           "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
         }
       ],
-      "date_added": "2026-03-13",
+      "date_added": "2026-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 114992,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/0GYC0TTILK7gGBNUdt5Erj"
+    },
+    {
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-12",
       "duration_ms": 238664,
       "name": "Symphony For A Queen",
       "url": "https://open.spotify.com/track/3FiyxlxC6t1PX0DE74z5ig"
@@ -10838,6 +10892,28 @@
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+    },
+    {
+      "album": {
+        "name": "Voices in my Head",
+        "url": "https://open.spotify.com/album/7AdI5TEaemKr3LT2l4jVTf"
+      },
+      "artists": [
+        {
+          "name": "Liel Bar-Z",
+          "url": "https://open.spotify.com/artist/51svmPczJYMw3kR6gFdG1Y"
+        },
+        {
+          "name": "Benjamin Sturley",
+          "url": "https://open.spotify.com/artist/7lk5vB8MaIKyGciAQO3AFs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129398,
+      "name": "Voices in my Head",
+      "url": "https://open.spotify.com/track/6nAKHdO2c4ehzzThwTnb1u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: IU\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,823 likes - 111 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,125 likes - 111 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 110 | [+82](https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [dinnermode](https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW) | 3:30 |
 | 111 | [Last bus](https://open.spotify.com/track/22g0phblhI57wSMjRcjQZ6) | [Splayit](https://open.spotify.com/artist/6dO5cb6LNYGs5Ob5JCY4un) | [SPLAY : CHAPTER 01](https://open.spotify.com/album/6sPKB4Cl0uad4i9sKYMhZp) | 3:26 |
 
-Snapshot ID: `AAAAAEDKIIZb7TtFzrl5FaQt5FBtqlUt`
+Snapshot ID: `AAAAADaxMR2hV0UQLTCV/e5/2MWHDzOB`

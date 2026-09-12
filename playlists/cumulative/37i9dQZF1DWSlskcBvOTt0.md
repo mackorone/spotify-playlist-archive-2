@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,190 songs - 4 day 0 hr 5 min
+1,191 songs - 4 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [3 Sense](https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [3 Sense](https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ) | 2:43 | 2023-10-13 | 2024-05-11 |
 | [330x14](https://open.spotify.com/track/78qfZj2HSRWc0NMeg4PDAu) | [Amber Stomp](https://open.spotify.com/artist/5UXTcKe1xNl00TwtbFDn7z) | [330x14 EP](https://open.spotify.com/album/24wON0xCTJaEUWnblqyUuw) | 3:17 | 2026-06-08 | 2026-06-14 |
 | [4ME](https://open.spotify.com/track/3nhnlHjoxX5gIkmWbqtnVc) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [4ME](https://open.spotify.com/album/2HzzCotu4tcdeUh0Jqls36) | 3:56 | 2026-03-13 | 2026-07-19 |
+| [90s](https://open.spotify.com/track/1CwrN5BNPIySxCi5U7CIm4) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [90s](https://open.spotify.com/album/5tKWPasCrfGbUCOB2bvx8D) | 3:38 | 2026-09-11 |  |
 | [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/track/50xyYrPZV6rs5pmAIozDMt) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx), [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/album/1bWqcGWKy1C7yQ5XFbZ4OP) | 3:30 | 2026-02-06 | 2026-08-18 |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |
@@ -148,7 +149,7 @@
 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 | 2024-01-05 | 2024-10-26 |
 | [Beyond The Maps](https://open.spotify.com/track/0KFNu8NLtJYsMuhwXce8CH) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Beyond The Maps](https://open.spotify.com/album/513KOBWnhqx1MIQsnqjs55) | 4:00 | 2026-03-13 | 2026-04-11 |
 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 | 2024-04-26 | 2025-03-01 |
-| [BIG DRIP](https://open.spotify.com/track/54kjuFG2o22RrtAlCSwDdJ) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw) | [BIG DRIP](https://open.spotify.com/album/3GtsCwOjMOKhWMv8AKRmTu) | 3:20 | 2026-07-03 |  |
+| [BIG DRIP](https://open.spotify.com/track/54kjuFG2o22RrtAlCSwDdJ) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw) | [BIG DRIP](https://open.spotify.com/album/3GtsCwOjMOKhWMv8AKRmTu) | 3:20 | 2026-07-03 | 2026-09-12 |
 | [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 | 2025-05-07 |
 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 | 2025-09-12 | 2026-04-04 |
 | [Bilmirem](https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Metty](https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs) | [Bilmirem](https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0) | 2:42 | 2026-01-16 |  |

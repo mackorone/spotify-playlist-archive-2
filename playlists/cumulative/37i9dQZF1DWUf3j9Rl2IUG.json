@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "It's Yemi Alade",
+        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Alhaja",
+      "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
+    },
+    {
+      "album": {
         "name": "Alhaji",
         "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
       },
@@ -13232,24 +13250,6 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "album": {
-        "name": "It's Yemi Alade",
-        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "date_added": "2026-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
     },
     {
       "album": {

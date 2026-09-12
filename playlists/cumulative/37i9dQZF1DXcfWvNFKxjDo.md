@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: David Guetta, Hypaton
 
-6,853 songs - 13 day 17 hr 55 min
+6,854 songs - 13 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4407,7 +4407,7 @@
 | [ON MY WAY](https://open.spotify.com/track/2Hu6TCze05jFXOPED8VGXI) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G) | [ON MY WAY](https://open.spotify.com/album/6jRFiAXmtJ7I9UgPQCIuXk) | 2:26 | 2026-07-09 | 2026-07-24 |
 | [On My Way](https://open.spotify.com/track/27m2IDNWx3V5svRJ7SyV12) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [On My Way](https://open.spotify.com/album/3Dhik8xyYDmapjOxyzxqxk) | 2:59 | 2025-02-13 | 2025-02-21 |
 | [On My Way \(feat\. Faouzia\)](https://open.spotify.com/track/4PWa6qBgxmkjtBqLB5UqAZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [On My Way \(feat\. Faouzia\)](https://open.spotify.com/album/5oc81W3rwebwe9Xw1dvWxE) | 3:15 | 2023-10-05 | 2023-10-24 |
-| [On My Way Up](https://open.spotify.com/track/5JweDNx0x3fHCtIOLblv7f) | [Sirin Inci](https://open.spotify.com/artist/1D6SOEMomVjGnVkKyN60dR), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [On My Way Up](https://open.spotify.com/album/7yQfZ0dlSjXMnwTnG66oZ5) | 2:40 | 2026-09-10 |  |
+| [On My Way Up \(feat\. Milaa\)](https://open.spotify.com/track/5JweDNx0x3fHCtIOLblv7f) | [Sirin Inci](https://open.spotify.com/artist/1D6SOEMomVjGnVkKyN60dR), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [On My Way Up \(feat\. Milaa\)](https://open.spotify.com/album/7yQfZ0dlSjXMnwTnG66oZ5) | 2:40 | 2026-09-10 |  |
 | [On or Off \(feat\. RUG\)](https://open.spotify.com/track/0ZzbnOgEWjJ0XLIuNYZzsz) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [RUG](https://open.spotify.com/artist/01QFGC1QsaQBzXOzthLN0g) | [On or Off \(feat\. RUG\)](https://open.spotify.com/album/6X3g3RpntqMvmK8G5IOMUi) | 2:46 | 2024-06-20 | 2024-07-05 |
 | [On Repeat](https://open.spotify.com/track/4E0enjuoNyPLUflNXwq3sU) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Crudu](https://open.spotify.com/artist/58i6H6pmhpdSqKhDzW94xY) | [On Repeat](https://open.spotify.com/album/1dOVQ1aApCq0v6S4YWurIt) | 2:51 | 2026-07-16 | 2026-07-24 |
 | [On Repeat](https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [On Repeat](https://open.spotify.com/album/4shvqvbwtI2KQQyw3T9aK2) | 3:10 | 2025-09-12 | 2025-09-26 |
@@ -5224,6 +5224,7 @@
 | [SEHT IHR NICHT?!](https://open.spotify.com/track/0puFzqu5emT0SWTc0x4k6u) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [SEHT IHR NICHT?!](https://open.spotify.com/album/5VX51bVbNxIiqVjdluIJh0) | 4:25 | 2025-11-27 | 2025-12-05 |
 | [Seifenblasen aus Beton](https://open.spotify.com/track/0rwyrEKkYlSF2qQRJBU3XB) | [Black Chai Stevia](https://open.spotify.com/artist/4OhPEl43tTpH5EXmGhgpzv), [BLVTH](https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e) | [Seifenblasen aus Beton](https://open.spotify.com/album/4TiEapY5MX9EnRaGZ9edBO) | 2:57 | 2024-01-11 | 2024-01-19 |
 | [Selecta](https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Selecta](https://open.spotify.com/album/4H1B4mRc03rk9rt8R6swPA) | 3:25 | 2026-04-16 | 2026-05-01 |
+| [Self Aware](https://open.spotify.com/track/0i6IwA0yEGjxHaY7O2PKMH) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Self Aware](https://open.spotify.com/album/4YoqCYgLKOIinTpZ0fK14p) | 2:41 | 2026-09-11 |  |
 | [Self Control](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Self Control](https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni) | 2:52 | 2025-06-26 | 2025-07-11 |
 | [Self Control](https://open.spotify.com/track/2OgXqA5XJcrc5duK7nF3qd) | [Pachanta](https://open.spotify.com/artist/6JJbKj7rr0akgMZ9gBevrU), [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Self Control](https://open.spotify.com/album/7hgfhxgbUKVFSNSCbEfpR8) | 2:08 | 2023-11-09 | 2023-11-18 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-13 | 2025-02-21 |

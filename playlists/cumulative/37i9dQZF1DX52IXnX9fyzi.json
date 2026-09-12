@@ -7939,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "Soft Whisper",
+        "url": "https://open.spotify.com/album/1aXz3nrGaA5oUt4YFAusRc"
+      },
+      "artists": [
+        {
+          "name": "Rosenkalla",
+          "url": "https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140072,
+      "name": "Soft Whisper",
+      "url": "https://open.spotify.com/track/5aCXHw7fImrrsVbZL7ktK2"
+    },
+    {
+      "album": {
         "name": "Solemn Resolve",
         "url": "https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM"
       },

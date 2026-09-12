@@ -1,48 +1,28 @@
 {
-  "description": "Chill r&b. Cover: Masego",
-  "num_followers": 2369543,
+  "description": "Chill r&b. Cover: John Legend",
+  "num_followers": 2369424,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALY3TegDga3w6vMf5H8Q8zFm4nP7",
+  "snapshot_id": "AAAAAEVEeGZEmATQGRtPv5dqX8pPrZOa",
   "tracks": [
     {
-      "added_at": "2026-07-17 04:02:08",
+      "added_at": "2026-09-11 04:02:15",
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
-    },
-    {
-      "added_at": "2026-07-31 06:18:01",
-      "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "HONEYBUTTER",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
+      "duration_ms": 197637,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
     },
     {
       "added_at": "2026-08-07 16:16:15",
@@ -77,6 +57,58 @@
       "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
     },
     {
+      "added_at": "2026-07-31 06:18:01",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "HONEYBUTTER",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "added_at": "2026-07-17 04:02:08",
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
       "added_at": "2026-09-04 04:02:31",
       "album": {
         "name": "Fly (Someone You Love)",
@@ -97,6 +129,22 @@
       "url": "https://open.spotify.com/track/46FIsUouswpvnkTOWcdvH6"
     },
     {
+      "added_at": "2026-09-04 04:02:31",
+      "album": {
+        "name": "HONEYMOON",
+        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
+    },
+    {
       "added_at": "2026-08-21 04:40:58",
       "album": {
         "name": "Summer Nights",
@@ -111,6 +159,54 @@
       "duration_ms": 168279,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2c1JvWrJI8vQN89BcnKVtg"
+    },
+    {
+      "added_at": "2026-09-11 15:26:25",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 207555,
+      "name": "Ceiling (Freestyle)",
+      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
+    },
+    {
+      "added_at": "2026-09-04 04:02:31",
+      "album": {
+        "name": "Fly U Out (ALL DAYE)",
+        "url": "https://open.spotify.com/album/6hfK85xCTDLKiCbkxBclEZ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out - OPEN",
+      "url": "https://open.spotify.com/track/1lQ8RVpGs23UjeP8keDZjM"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Wassup (Ouu Girl)",
+        "url": "https://open.spotify.com/album/39XgG8V1ZgTaFs08inXW6e"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "Wassup (Ouu Girl)",
+      "url": "https://open.spotify.com/track/3to2dYUxGNmZ10HfPF3gLK"
     },
     {
       "added_at": "2026-08-28 05:35:46",
@@ -155,54 +251,6 @@
       "duration_ms": 289071,
       "name": "They Ain't You - feat. Thundercat",
       "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
-    },
-    {
-      "added_at": "2026-09-04 04:02:31",
-      "album": {
-        "name": "Fly U Out (ALL DAYE)",
-        "url": "https://open.spotify.com/album/6hfK85xCTDLKiCbkxBclEZ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Fly U Out - OPEN",
-      "url": "https://open.spotify.com/track/1lQ8RVpGs23UjeP8keDZjM"
-    },
-    {
-      "added_at": "2026-09-04 04:02:31",
-      "album": {
-        "name": "HONEYMOON",
-        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
-      },
-      "artists": [
-        {
-          "name": "Parisalexa",
-          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "HONEYMOON",
-      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
-    },
-    {
-      "added_at": "2026-08-14 04:39:15",
-      "album": {
-        "name": "LIMBO",
-        "url": "https://open.spotify.com/album/5qbQkQWRnf9indYNWMfC0E"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "Just Like Everybody",
-      "url": "https://open.spotify.com/track/7yhRcS28n3vvzwLHT3MR8l"
     },
     {
       "added_at": "2026-07-10 06:53:21",
@@ -257,6 +305,54 @@
       "url": "https://open.spotify.com/track/6emvr4vNOck2zPPup4XjHj"
     },
     {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "He Belongs",
+      "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "WONDERMAN",
+        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 244783,
+      "name": "WONDERMAN",
+      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "ATTITUDE ERA!",
+        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 224325,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/19ZrG4Cis8tZWQBCjGc5ob"
+    },
+    {
       "added_at": "2026-08-14 04:39:15",
       "album": {
         "name": "Starrgirl",
@@ -277,20 +373,20 @@
       "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
-      "added_at": "2026-07-31 06:18:01",
+      "added_at": "2026-08-14 04:39:15",
       "album": {
-        "name": "Mood 2",
-        "url": "https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY"
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/5qbQkQWRnf9indYNWMfC0E"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
-      "duration_ms": 216971,
-      "name": "Accuse Me",
-      "url": "https://open.spotify.com/track/0BXnPAxnP7xytdQ4doCMqq"
+      "duration_ms": 149090,
+      "name": "Just Like Everybody",
+      "url": "https://open.spotify.com/track/7yhRcS28n3vvzwLHT3MR8l"
     },
     {
       "added_at": "2026-07-24 06:54:12",
@@ -307,6 +403,22 @@
       "duration_ms": 159493,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
+    {
+      "added_at": "2026-07-31 06:18:01",
+      "album": {
+        "name": "Mood 2",
+        "url": "https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 216971,
+      "name": "Accuse Me",
+      "url": "https://open.spotify.com/track/0BXnPAxnP7xytdQ4doCMqq"
     },
     {
       "added_at": "2026-07-31 06:18:01",
@@ -429,6 +541,22 @@
       "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
     },
     {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 190044,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/2qUz7lMpIegCFos7LjxQWn"
+    },
+    {
       "added_at": "2026-08-21 04:40:58",
       "album": {
         "name": "Rollin",
@@ -459,6 +587,22 @@
       "duration_ms": 179800,
       "name": "Fumble",
       "url": "https://open.spotify.com/track/0wTG3NUBZPE87UO9Ow5hmB"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/1XgYT2GT7VDQIIbyevEJ4T"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/3Hmf6mXacl4M8Z939wMH9Y"
     },
     {
       "added_at": "2026-08-21 04:40:58",
@@ -528,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 442506,
-      "name": "Echos",
-      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
+      "duration_ms": 253145,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/5jM84z7GdWJ7Ce6O3iySgQ"
     },
     {
       "added_at": "2026-09-04 04:02:31",
@@ -833,26 +977,6 @@
       "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
-      "added_at": "2026-08-28 05:35:46",
-      "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 253145,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/5jM84z7GdWJ7Ce6O3iySgQ"
-    },
-    {
       "added_at": "2026-06-29 00:00:48",
       "album": {
         "name": "and all pride aside",
@@ -1099,22 +1223,6 @@
       "duration_ms": 210461,
       "name": "Slow Jamz (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf"
-    },
-    {
-      "added_at": "2026-08-14 04:39:15",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Can You Stay",
-      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
     },
     {
       "added_at": "2026-04-24 04:58:49",
@@ -2019,22 +2127,6 @@
       "duration_ms": 148680,
       "name": "Snatch",
       "url": "https://open.spotify.com/track/5famRydIsYoaDClTcHDi82"
-    },
-    {
-      "added_at": "2026-06-05 04:01:35",
-      "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 125278,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "added_at": "2026-06-20 04:00:17",
@@ -3553,22 +3645,6 @@
       "url": "https://open.spotify.com/track/6Mki5yWEUPg5r25b4fJh7O"
     },
     {
-      "added_at": "2026-01-23 07:39:49",
-      "album": {
-        "name": "Break Me In",
-        "url": "https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Break Me In",
-      "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
-    },
-    {
       "added_at": "2026-01-16 05:00:35",
       "album": {
         "name": "100",
@@ -3937,26 +4013,6 @@
       "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
-      "added_at": "2026-01-09 06:03:04",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "History",
-      "url": "https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6"
-    },
-    {
       "added_at": "2025-12-19 05:00:40",
       "album": {
         "name": "On The Floor",
@@ -4217,38 +4273,6 @@
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
-      "added_at": "2025-09-05 04:33:13",
-      "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 212941,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
-    },
-    {
-      "added_at": "2025-09-05 04:33:13",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 194700,
-      "name": "I Love Lucy",
-      "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
-    },
-    {
       "added_at": "2025-10-24 08:57:48",
       "album": {
         "name": "Down Payment",
@@ -4279,22 +4303,6 @@
       "duration_ms": 157992,
       "name": "I Need Her",
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
-    },
-    {
-      "added_at": "2025-10-03 04:00:53",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 123770,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
     },
     {
       "added_at": "2025-07-18 04:51:03",
@@ -4383,22 +4391,6 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": "2025-08-15 06:14:03",
-      "album": {
-        "name": "be careful",
-        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 203940,
-      "name": "be careful",
-      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
     }
   ],
   "unique_name": "Chilled R&B",

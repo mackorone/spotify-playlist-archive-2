@@ -5332,7 +5332,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159750,
       "name": "camping trip",
       "url": "https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c"
@@ -7756,6 +7756,24 @@
       "duration_ms": 103943,
       "name": "Creek",
       "url": "https://open.spotify.com/track/24lu4bbwxA8OCxn7pvl6aX"
+    },
+    {
+      "album": {
+        "name": "crescent",
+        "url": "https://open.spotify.com/album/5H0s3HBlOkJu7gh0smo8V2"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121855,
+      "name": "crescent",
+      "url": "https://open.spotify.com/track/3S5BaJGrOEpbwJErUzRVG0"
     },
     {
       "album": {
@@ -13344,7 +13362,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 160304,
       "name": "Flowhaven",
       "url": "https://open.spotify.com/track/4ntwIVXn4O1Chq697xZ1Cx"
@@ -22103,6 +22121,24 @@
     },
     {
       "album": {
+        "name": "Luna\u2019s Cleft",
+        "url": "https://open.spotify.com/album/0kRYKUcsRghH6MwUKy0ZY4"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142358,
+      "name": "Luna\u2019s Cleft",
+      "url": "https://open.spotify.com/track/0UzuPRSwujJwFYP0TBs2vz"
+    },
+    {
+      "album": {
         "name": "Lunch Break Mantra",
         "url": "https://open.spotify.com/album/1v4Ao73yYn6S5spJOXlUmz"
       },
@@ -23300,7 +23336,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 96000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0zTPWJ63MIYzuox9NbBAvd"
@@ -27365,6 +27401,28 @@
     },
     {
       "album": {
+        "name": "passing hours",
+        "url": "https://open.spotify.com/album/5Rtp1j0SGhcHGTY2OilZUS"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "Maple Sleep",
+          "url": "https://open.spotify.com/artist/69fsNsWG9WfmYwyLgt2ARu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "passing hours",
+      "url": "https://open.spotify.com/track/4dY3vuyx7wKy4maFikjxAp"
+    },
+    {
+      "album": {
         "name": "Past Love",
         "url": "https://open.spotify.com/album/0HY8vMkvzOWwF47ByAntHR"
       },
@@ -28864,7 +28922,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 139824,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/1tohhzzzJ1ADQvHvL4xxxd"
@@ -29810,7 +29868,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 136125,
       "name": "Road 0679",
       "url": "https://open.spotify.com/track/24o7vNN4RFlGEgurIAHcRg"
@@ -35273,6 +35331,24 @@
     },
     {
       "album": {
+        "name": "sweet dreams",
+        "url": "https://open.spotify.com/album/6vnczTdm5Dg9njoaW03bNk"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "sweet dreams",
+      "url": "https://open.spotify.com/track/619DTJHekaPS1w8NkvQnLA"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/1VTPVRg1pJif9YIFQHdFMG"
       },
@@ -39872,7 +39948,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 120458,
       "name": "watercolour",
       "url": "https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt"

@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Miles Caton",
-  "num_followers": 60130,
+  "description": "R&B of the moment by the artists of the future. Cover: JEDSOUL",
+  "num_followers": 60139,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFN8QGqTVKis7FCpjI03rSAlqLtc",
+  "snapshot_id": "AAAAAIlAmlr71QO2gbVGT7w+zIAKfy5L",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:02:25",
+      "album": {
+        "name": "WONDERMAN",
+        "url": "https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 244783,
+      "name": "WONDERMAN",
+      "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
+    },
     {
       "added_at": "2026-08-21 04:58:28",
       "album": {
@@ -61,36 +77,20 @@
       "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
     },
     {
-      "added_at": "2026-09-04 04:02:39",
+      "added_at": "2026-09-11 04:02:25",
       "album": {
-        "name": "Cry When I'm Alone",
-        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
+        "name": "ATTITUDE ERA!",
+        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
         }
       ],
-      "duration_ms": 167226,
-      "name": "Cry When I'm Alone",
-      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
-    },
-    {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "NIGHTMARES",
-        "url": "https://open.spotify.com/album/790MlEtQqX2QZbkq3W0Ezn"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "NIGHTMARES",
-      "url": "https://open.spotify.com/track/35geEuEIgzwrVVYsVb3roE"
+      "duration_ms": 224325,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/19ZrG4Cis8tZWQBCjGc5ob"
     },
     {
       "added_at": "2026-08-28 04:08:27",
@@ -113,24 +113,24 @@
       "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
-      "added_at": "2026-07-31 05:44:34",
+      "added_at": "2026-09-11 04:02:25",
       "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+        "name": "Please Come Home (feat. CARRTOONS)",
+        "url": "https://open.spotify.com/album/24jFP6RaGwwoyicCj8e7Ye"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
         },
         {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
         }
       ],
-      "duration_ms": 157168,
-      "name": "PLAY YA CARDS",
-      "url": "https://open.spotify.com/track/7wcYegXaOifWGzNQyhIHg5"
+      "duration_ms": 225904,
+      "name": "Please Come Home (feat. CARRTOONS)",
+      "url": "https://open.spotify.com/track/6HW3RQBJdMrebmV4MEFNds"
     },
     {
       "added_at": "2026-09-04 04:02:39",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/5MeDN4LNfsWh5HLGD6xDQv"
     },
     {
+      "added_at": "2026-09-11 04:02:25",
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/1XgYT2GT7VDQIIbyevEJ4T"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/3Hmf6mXacl4M8Z939wMH9Y"
+    },
+    {
       "added_at": "2026-09-04 04:02:39",
       "album": {
         "name": "Crash",
@@ -167,6 +183,26 @@
       "duration_ms": 152660,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0SqZYUwMBFQYTrfHPMER6J"
+    },
+    {
+      "added_at": "2026-07-31 05:44:34",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "PLAY YA CARDS",
+      "url": "https://open.spotify.com/track/7wcYegXaOifWGzNQyhIHg5"
     },
     {
       "added_at": "2026-08-28 04:08:27",
@@ -207,6 +243,42 @@
       "duration_ms": 239666,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
+    },
+    {
+      "added_at": "2026-09-11 04:02:25",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/7tlGLdSdyFELrIg46B0l57"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/7i1azjPqOXiMzNOs7Two0A"
+    },
+    {
+      "added_at": "2026-09-04 04:02:39",
+      "album": {
+        "name": "NIGHTMARES",
+        "url": "https://open.spotify.com/album/790MlEtQqX2QZbkq3W0Ezn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "NIGHTMARES",
+      "url": "https://open.spotify.com/track/35geEuEIgzwrVVYsVb3roE"
     },
     {
       "added_at": "2026-09-04 04:02:39",
@@ -255,6 +327,42 @@
       "duration_ms": 178819,
       "name": "I Didn't Want It This Way",
       "url": "https://open.spotify.com/track/3VISSZwf0nc2m9cfbdKdVA"
+    },
+    {
+      "added_at": "2026-09-11 04:02:25",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        },
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 170811,
+      "name": "Safe (feat. Savannah R\u00e9)",
+      "url": "https://open.spotify.com/track/03NddMz8erSpjjioDecBh4"
+    },
+    {
+      "added_at": "2026-09-04 04:02:39",
+      "album": {
+        "name": "Cry When I'm Alone",
+        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Cry When I'm Alone",
+      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
     },
     {
       "added_at": "2026-08-21 04:58:28",
@@ -2567,22 +2675,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "DON'T ASK!",
-        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 182395,
-      "name": "DON'T ASK!",
-      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "stuck",
         "url": "https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK"
       },
@@ -2631,22 +2723,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Fall Short",
-        "url": "https://open.spotify.com/album/4os1vlAQZarDJKzfQ8GmtN"
-      },
-      "artists": [
-        {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Fall Short",
-      "url": "https://open.spotify.com/track/6rMWA9rnobnMm68zka6UwC"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "I WANT YOU BACK",
         "url": "https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H"
       },
@@ -2659,22 +2735,6 @@
       "duration_ms": 198720,
       "name": "I WANT YOU BACK",
       "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 191809,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2799,26 +2859,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Lights Down Low",
-        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        }
-      ],
-      "duration_ms": 220222,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "State Of Emergency Vol 1.",
         "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
       },
@@ -2831,22 +2871,6 @@
       "duration_ms": 152727,
       "name": "Critical Condition",
       "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Soundtrack 2 Get Her Back",
-        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "True 2 Me",
-      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2931,38 +2955,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "MEMORIA, in blue",
-        "url": "https://open.spotify.com/album/4oVZVw7nDN256d6Zm5YUId"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "GREEN VOWS",
-      "url": "https://open.spotify.com/track/5yGxrxtSMNFYCOpEfdWgvV"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "worst",
-        "url": "https://open.spotify.com/album/1UTOeZvAysxKZHp2NWHXw0"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 166883,
-      "name": "worst",
-      "url": "https://open.spotify.com/track/67IUHgy0EDJcWX2UWTG7Oz"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
@@ -2979,22 +2971,6 @@
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "We're Losing Recipes",
-        "url": "https://open.spotify.com/album/5gR7DKqt9jmrhqd5rvFKL3"
-      },
-      "artists": [
-        {
-          "name": "Markus & The Outskrt",
-          "url": "https://open.spotify.com/artist/5iUHICy4k2GcMK33e4ot5v"
-        }
-      ],
-      "duration_ms": 156875,
-      "name": "We're Losing Recipes",
-      "url": "https://open.spotify.com/track/4qGAalUpNKYTkkueGs1WQ1"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3063,30 +3039,6 @@
       "duration_ms": 148815,
       "name": "580",
       "url": "https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "I Don\u2019t Wanna Lose (Palagi)",
-        "url": "https://open.spotify.com/album/02PpywDRWGEEke2Ou8Imp1"
-      },
-      "artists": [
-        {
-          "name": "Pino",
-          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
-        },
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        },
-        {
-          "name": "kyleaux",
-          "url": "https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "I Don\u2019t Wanna Lose (Palagi)",
-      "url": "https://open.spotify.com/track/3dBgZkgEXpcywNmg760wKS"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3175,22 +3127,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Sweet Persuasion",
-        "url": "https://open.spotify.com/album/234KhgpsAdOiRRKHPlKRTz"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 168299,
-      "name": "Sweet Persuasion",
-      "url": "https://open.spotify.com/track/2VdVyxlj2B9ivNAluQZorZ"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "PRAY FOR ME",
         "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
       },
@@ -3267,22 +3203,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "badman",
-        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 174612,
-      "name": "badman",
-      "url": "https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Ordinary Feelings",
         "url": "https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb"
       },
@@ -3295,22 +3215,6 @@
       "duration_ms": 234293,
       "name": "Ordinary Feelings",
       "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Miss That",
-        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Miss That",
-      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3411,22 +3315,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Show You Right",
-        "url": "https://open.spotify.com/album/24d2ySFBxwZdMOoLBoktPV"
-      },
-      "artists": [
-        {
-          "name": "Vikter",
-          "url": "https://open.spotify.com/artist/65ydOnRlyOCY3VQ0UdpgF9"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Show You Right",
-      "url": "https://open.spotify.com/track/5ijXwObKBcZZMigcwrevoC"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "feels like love",
         "url": "https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq"
       },
@@ -3439,22 +3327,6 @@
       "duration_ms": 275333,
       "name": "feels like love",
       "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Feline's Return",
-        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 192192,
-      "name": "On Ur Time",
-      "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3511,22 +3383,6 @@
       "duration_ms": 108609,
       "name": "gutta child",
       "url": "https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/3coobmbIsiyA7O8K3PIEYQ"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu"
     },
     {
       "added_at": "2026-05-29 04:02:53",

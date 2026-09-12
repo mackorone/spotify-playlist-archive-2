@@ -1,13 +1,37 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 171464,
+  "num_followers": 171479,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN4x4fGVBKv3V3jgqzypPZn2rZUe",
+  "snapshot_id": "AAAAADvXdzQXnnblAAiGc7NaOqxqWV12",
   "tracks": [
+    {
+      "added_at": "2026-09-11 12:07:38",
+      "album": {
+        "name": "Srilatha (From \"Idupu Kayitham\")",
+        "url": "https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT"
+      },
+      "artists": [
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Shankarr Babu Kandukoori",
+          "url": "https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB"
+        },
+        {
+          "name": "Thabitha Sukumar",
+          "url": "https://open.spotify.com/artist/4uqxGHM1RqF4cm5rlND2DT"
+        }
+      ],
+      "duration_ms": 242765,
+      "name": "Srilatha (From \"Idupu Kayitham\")",
+      "url": "https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo"
+    },
     {
       "added_at": "2026-08-18 08:00:06",
       "album": {
@@ -1219,30 +1243,6 @@
     {
       "added_at": "2026-06-22 07:48:51",
       "album": {
-        "name": "Ajanta Garu (From \"Gossip\")",
-        "url": "https://open.spotify.com/album/77XHYM5Y3z1JSlU38yBD9i"
-      },
-      "artists": [
-        {
-          "name": "Shakthikanth Karthick",
-          "url": "https://open.spotify.com/artist/6riFF3Iw8FPGnfzPcIVDmr"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Suresh Banisetti",
-          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "Ajanta Garu (From \"Gossip\")",
-      "url": "https://open.spotify.com/track/30JMtMNkdpv5OOAR9i4SmX"
-    },
-    {
-      "added_at": "2026-06-22 07:48:51",
-      "album": {
         "name": "Jigithara (From \"Chennai Love Story\")",
         "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
       },
@@ -1263,30 +1263,6 @@
       "duration_ms": 252074,
       "name": "Jigithara (From \"Chennai Love Story\")",
       "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
-    },
-    {
-      "added_at": "2026-06-19 12:43:05",
-      "album": {
-        "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-      "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
     }
   ],
   "unique_name": "Latest Romance Telugu",

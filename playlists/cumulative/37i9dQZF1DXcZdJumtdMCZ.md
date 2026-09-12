@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-376 songs - 19 hr 39 min
+378 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arrival](https://open.spotify.com/track/4norMr5Qt05nxvnX42m1N7) | [Treple A](https://open.spotify.com/artist/0y1kNEwY0TQP6Nt9U5g0Qr), [Rapkid 02](https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA) | [Arrival](https://open.spotify.com/album/7Hk71HhbEu0yhYE08YGedL) | 3:15 | 2026-04-23 | 2026-05-16 |
 | [ATOM](https://open.spotify.com/track/2oGN7VRt86jpbXw1F04lXU) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f) | [ATOM](https://open.spotify.com/album/52z0wrTgxBrD4agu7ymHc0) | 3:08 | 2025-11-14 | 2026-04-14 |
 | [Aura 10/10 \(From "Meesaya Murukku 2"\)](https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Thamizh Aadhavan](https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb) | [Aura 10/10 \(From "Meesaya Murukku 2"\)](https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC) | 2:09 | 2026-03-27 |  |
+| [Babes](https://open.spotify.com/track/2x4hL8nbIk39enKK0GuPT0) | [Umarkhan](https://open.spotify.com/artist/3okJiew3lsAkRBovskCmUG), [Pranaav GV](https://open.spotify.com/artist/0qzc0xvrX2WqNiVlON1LhO) | [Babes](https://open.spotify.com/album/6b4rvZdz6BFFi1n2DlbEvG) | 2:15 | 2026-09-11 |  |
 | [Bangoma](https://open.spotify.com/track/7ywASFRTukqg9kzX3gMfa6) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Bangoma](https://open.spotify.com/album/2HcXRfcsvwne1GQeSIIeTV) | 2:15 | 2025-09-29 | 2026-07-01 |
 | [Bhagavan Rap](https://open.spotify.com/track/1BkIQxD8RsyKCKOHNGbTFm) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9) | 3:42 | 2022-02-08 | 2024-04-19 |
 | [Bhagavan Rap](https://open.spotify.com/track/1UPPDUrCYljlxigBScBWdY) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3hBtdA6JRSFzEGjOM11ZDm) | 3:42 | 2022-02-08 | 2023-11-11 |
@@ -362,6 +363,7 @@
 | [Vanakam Bro](https://open.spotify.com/track/1ht8Aj20RuS4ZKq8bL2pwR) | [Black King](https://open.spotify.com/artist/7mtre7fyZvAgT8sIFGkQrM) | [Vanakam Bro](https://open.spotify.com/album/1B0dnCjXUw0oRPc1TTia50) | 2:51 | 2026-09-07 |  |
 | [Vanakkam Madras](https://open.spotify.com/track/3habgrnSxHyyxbg5lkziBC) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vanakkam Madras](https://open.spotify.com/album/4SzAiM2ix064kXH6YjU5xn) | 2:02 | 2025-09-02 | 2026-05-23 |
 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 | 2022-02-08 | 2023-12-14 |
+| [Ve.Now Intro](https://open.spotify.com/track/1HbJIKuARoPOwT8doyZ2OB) | [Ve.Now](https://open.spotify.com/artist/6lhnCpAyrgmcGWZUO48MuA), [Pravin Vasanth](https://open.spotify.com/artist/1Ks3vVDG02IKW85BJ4W2XF) | [Ve.Now Intro](https://open.spotify.com/album/26FBT60HS2ZboycRpyE3gT) | 2:51 | 2026-09-11 |  |
 | [Veedhikor Jaadhi \- From "Natpe Thunai"](https://open.spotify.com/track/1nupIUIFv3cJmZloaWX9rO) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sollisai Selvandhar](https://open.spotify.com/artist/3HWueXpw8CKWo62I1C7HDB) | [Veedhikor Jaadhi \(From "Natpe Thunai"\)](https://open.spotify.com/album/40mnu36jraziDXUVeAM7DR) | 2:41 | 2022-02-08 | 2023-05-13 |
 | [Veera Thurandhara](https://open.spotify.com/track/09WgwgVEQa7X76FG7VapUE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Lawrence R](https://open.spotify.com/artist/0t5cyU3mZ0SYVzt7vD4Xrq), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Kabali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mEvf2kdNHrtGQu5AJixQc) | 3:17 | 2022-02-08 | 2023-05-13 |
 | [Vena](https://open.spotify.com/track/4eRTJ0RLrZPUl2VdduSUhp) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Vbreak](https://open.spotify.com/artist/1Rgi8SgT5uIsPSiP8jLxzr) | [Vena](https://open.spotify.com/album/5PZCNR0RQPhetP2G0bMVia) | 2:44 | 2024-12-29 | 2025-03-20 |

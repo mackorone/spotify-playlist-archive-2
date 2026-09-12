@@ -4,7 +4,7 @@
 
 > Stank face activated\. Cover: Ryan Shepherd
 
-1,055 songs - 2 day 8 hr 44 min
+1,056 songs - 2 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 | 2022-04-01 | 2022-07-29 |
 | [THE POWER!](https://open.spotify.com/track/253hNdYwpTLBlMpgm2RYIQ) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [THE POWER!](https://open.spotify.com/album/7Ewjy1z4p5QKz0EFrgXskf) | 2:44 | 2023-03-31 | 2023-07-03 |
 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 | 2022-12-02 | 2023-06-06 |
+| [The Reason Why](https://open.spotify.com/track/5oeLiExtNw3reNUs3aPuYE) | [Thomas Anthony](https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI) | [The Reason Why](https://open.spotify.com/album/30pMMmvU8vSfncXkhPGogw) | 3:57 | 2026-09-11 |  |
 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 | 2024-08-30 | 2026-01-24 |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-07 | 2023-02-11 |
 | [The Throne](https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [The Throne](https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA) | 3:15 | 2023-05-12 | 2023-08-19 |

@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-595 songs - 1 day 9 hr 13 min
+596 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2025-07-18 | 2026-02-19 |
 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 | 2025-07-18 | 2025-08-23 |
 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 | 2026-05-29 |  |
+| [Kissing you away](https://open.spotify.com/track/1bMBYi2vwf7zDhbakuH9KO) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Kissing you away](https://open.spotify.com/album/0OUFRebnrsegnjiN0bfM2n) | 3:18 | 2026-09-11 |  |
 | [Kitchen](https://open.spotify.com/track/4PWtpQYpRtMgcGBrI2Pxf5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/0xWgd5MBL46v6Qu2qOwR6G) | 2:52 | 2025-07-18 |  |
 | [Know You've Been Loved](https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Know You've Been Loved](https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI) | 3:36 | 2025-07-18 | 2026-05-30 |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 | 2025-08-23 |
@@ -366,7 +367,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-07-18 | 2025-08-23 |
 | [Northern Lights \- stripped](https://open.spotify.com/track/5GaIUszbX4qTATZaptbF6V) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Northern Lights \- Stripped](https://open.spotify.com/album/5PDEZDX6YgfXIWsxMUFEgP) | 2:19 | 2026-01-23 |  |
 | [Nostalgia](https://open.spotify.com/track/2efi0WZFFNF41nmC2DMlkr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 | 2025-07-18 | 2026-09-10 |
-| [Not Enough](https://open.spotify.com/track/39WDrEnMPnUMyL6VXsMHqD) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Castle Hill](https://open.spotify.com/album/6QVGukkHZkBkL59DFfLKHX) | 3:21 | 2026-09-09 |  |
+| [Not Enough](https://open.spotify.com/track/39WDrEnMPnUMyL6VXsMHqD) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Castle Hill](https://open.spotify.com/album/6QVGukkHZkBkL59DFfLKHX) | 3:21 | 2026-09-09 | 2026-09-12 |
 | [Not Enough](https://open.spotify.com/track/59VWVBr0dMHL5JQTnYVC7m) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Not Enough](https://open.spotify.com/album/75KlvQHAuditOEGyQShRiL) | 3:21 | 2026-07-17 |  |
 | [not my job anymore](https://open.spotify.com/track/51RvOW8yfIQriPwXWlQPZW) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:08 | 2025-07-18 | 2026-02-20 |
 | [Not the One](https://open.spotify.com/track/4MLmchSA5LdynGpnWPuTuN) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Not the One](https://open.spotify.com/album/1EcFLIT8Qu1ElLGFM1VHSz) | 3:00 | 2025-08-25 | 2026-02-19 |

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Aron Can, Ásgeir og mörgum fleirum!
 
-12,179 songs - 27 day 6 hr 0 min
+12,180 songs - 27 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,6 +861,7 @@
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Backspegeln](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 | 2025-08-22 | 2025-08-30 |
 | [Backstage](https://open.spotify.com/track/2vPhCRIczC4KBEQuBdpfeH) | [Jay\-Jay Johanson](https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4) | [Backstage](https://open.spotify.com/album/0tq0qvEejqs0d9mvRYdSSE) | 4:45 | 2025-05-23 | 2025-05-30 |
+| [Backwards \(feat\. T.I.\)](https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Backwards \(feat\. T.I.\)](https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg) | 3:11 | 2026-09-11 |  |
 | [BAD](https://open.spotify.com/track/1W40DqcO7u0WRC1Cn3CS4K) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [BAD](https://open.spotify.com/album/0e3U9hFXcAqtFyJN8Mk7rt) | 2:15 | 2026-01-23 | 2026-01-30 |
 | [Bad](https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Bad](https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct) | 2:15 | 2026-04-10 | 2026-04-17 |
 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 | 2026-04-10 | 2026-04-17 |
@@ -7209,6 +7210,7 @@
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-05 | 2025-09-12 |
 | [Mystery Of Love](https://open.spotify.com/track/5CuWULrznCaEQn6AIWszFB) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Mystery Of Love](https://open.spotify.com/album/2t3fofrXdoBzWxG250eSDb) | 6:13 | 2024-08-30 | 2024-09-06 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-25 | 2025-05-02 |
+| [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 | 2026-09-11 |  |
 | [Mythic \- Sensation Mix](https://open.spotify.com/track/4KwyQoSSWiThLGIQ7dE6Vx) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Relics](https://open.spotify.com/album/0bxoLHLJ45SaNSya9hLXwU) | 5:44 | 2025-12-12 | 2025-12-19 |
 | [MYTHOLOGY \- VVV \[Trippin'you\] Remix](https://open.spotify.com/track/4MXNt72gdwySamw9cp5gbY) | [Xiupill](https://open.spotify.com/artist/7A4lk7YkhOKFzcuVfWoTlB), [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [MYTHOLOGY REBORN](https://open.spotify.com/album/2LmDOk3xw79jOL6Ydxoaq8) | 4:33 | 2024-08-30 | 2024-09-06 |
 | [Má ég snúza meir?](https://open.spotify.com/track/65lDvHZ3Sv2HHeukKq6U3D) | [Biggi Maus](https://open.spotify.com/artist/4ZcujIXX2Rr65EKvs2ykGu) | [Litli dauði / Stóri hvellur](https://open.spotify.com/album/19WjyvBmtqnFks44daKdrv) | 3:13 | 2024-06-07 | 2024-06-14 |
@@ -10919,7 +10921,6 @@
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-05-01 | 2026-05-08 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 | 2026-06-05 |
-| [Track 5](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 0:00 | 2026-09-11 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |

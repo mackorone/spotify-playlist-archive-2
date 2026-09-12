@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Jason Derulo, The Second Voice, Qing Madi
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Albi
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,761 likes - 299 songs - 14 hr 47 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,754 likes - 299 songs - 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 |
 | 2 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
 | 3 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
-| 4 | [Jungle](https://open.spotify.com/track/2OMNBRV1lUlVbtY40PFwQG) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Jungle](https://open.spotify.com/album/0xvCGIbXcQOuhOXZrDL2Qw) | 2:51 |
-| 5 | [Dancing With Your Ghost](https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Dancing With Your Ghost](https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm) | 2:26 |
+| 4 | [Dancing With Your Ghost](https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Dancing With Your Ghost](https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm) | 2:26 |
+| 5 | [Jungle](https://open.spotify.com/track/2OMNBRV1lUlVbtY40PFwQG) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Jungle](https://open.spotify.com/album/0xvCGIbXcQOuhOXZrDL2Qw) | 2:51 |
 | 6 | [Bette Davis Eyes](https://open.spotify.com/track/1kq25Me0b361sS3GRyVfgD) | [Chase Maverix](https://open.spotify.com/artist/5yBWt5sObZOnI1XCsNCWfC) | [Bette Davis Eyes](https://open.spotify.com/album/0IhNrkbGWOmyNjD78KedX4) | 2:57 |
 | 7 | [Breathless](https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Breathless](https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO) | 2:26 |
 | 8 | [Love You Better \(feat\. Caroline Byrne\)](https://open.spotify.com/track/7FaO06Mz257zOEa8PZJudY) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Love You Better \(feat\. Caroline Byrne\)](https://open.spotify.com/album/2IoAPKsUzG073Jbj1SmUeM) | 3:05 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 298 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 | 299 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
 
-Snapshot ID: `AAAh8iQB6XSZvK4tqJJY57g0zYpMCkqx`
+Snapshot ID: `AAAh9CbBpNHADBN9uNAj9gTgOQ+oniWm`

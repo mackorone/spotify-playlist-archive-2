@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Rashmeet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,104 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,113 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Yaari](https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [Lucas](https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:19 |
 | 50 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 
-Snapshot ID: `AAAAADKkVhgpARhTHIFH2Ly9qlvF6cwc`
+Snapshot ID: `AAAAABbeNwr+oiOaOwdBnFmcgdLugFZV`

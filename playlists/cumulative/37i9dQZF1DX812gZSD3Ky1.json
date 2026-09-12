@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEON BROCCO from GELBOYS 2",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KRIST, \u0e1b\u0e31\u0e4a\u0e1a Potato",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2lmihlrOT7fNGU0fDQsxmE"
+      },
+      "artists": [
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        },
+        {
+          "name": "\u0e1b\u0e31\u0e4a\u0e1a Potato",
+          "url": "https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U"
+    },
+    {
+      "album": {
         "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7"
       },
@@ -2774,6 +2796,24 @@
       "duration_ms": 181333,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4AmoMRrcDyu4NbDLmHwyAs"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/0ivQgbDxfrPHOhj3RyqBD7"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/1dRGIAZOqJsaFgYpIMD1Hn"
     },
     {
       "album": {
@@ -3200,6 +3240,24 @@
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
+      "album": {
+        "name": "CHECKLIST",
+        "url": "https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227983,
+      "name": "CHECKLIST",
+      "url": "https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG"
     },
     {
       "album": {
@@ -5874,7 +5932,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 184347,
       "name": "Flowers for u",
       "url": "https://open.spotify.com/track/3317ol0zcjngV5nlhewYxk"
@@ -13774,7 +13832,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -17896,7 +17954,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -22023,6 +22081,28 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5u4Ym8kpxNAyNTIW69TTEJ"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "Ref PURPEECH",
+          "url": "https://open.spotify.com/artist/7hnYEQCM1kvdwR9qsznKIB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "\u0e02\u0e2d\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/4aMAa266XcIMVxP1jBLs0v"
+    },
+    {
+      "album": {
         "name": "While I'm away",
         "url": "https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W"
       },
@@ -22158,6 +22238,24 @@
       "duration_ms": 285000,
       "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
       "url": "https://open.spotify.com/track/59g67XSLvrQG4AXDGjylK8"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e32\u0e23\u0e32\u0e42\u0e2d\u0e40\u0e01\u0e30 (Karaoke)",
+        "url": "https://open.spotify.com/album/3GyIu3P9gdxUUFCf7ovveh"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e04\u0e32\u0e23\u0e32\u0e42\u0e2d\u0e40\u0e01\u0e30 (Karaoke)",
+      "url": "https://open.spotify.com/track/17h2gVR109XfFX0q7xdsyL"
     },
     {
       "album": {
@@ -22555,6 +22653,28 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e31\u0e49\u0e07\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/36v78SDVDg6X2Ro6RENBSI"
+      },
+      "artists": [
+        {
+          "name": "MASKETEER",
+          "url": "https://open.spotify.com/artist/6rHUnRq5IiPNgP32J1BkpC"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "\u0e14\u0e31\u0e49\u0e07\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/3Lu2Kn9MAb7mIXaRDZBZWG"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
         "url": "https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE"
       },
@@ -22894,7 +23014,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 255294,
       "name": "\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e14\u0e27\u0e07",
       "url": "https://open.spotify.com/track/13ooJdWo9mm0KsBBw1ToBf"
@@ -23202,10 +23322,32 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 196666,
       "name": "\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e1b\u0e49\u0e32 (LOCK PAO)",
       "url": "https://open.spotify.com/track/2Cdz4c8sEn6IEmtyBjGlZA"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e19\u0e27\u0e32\u0e22 ;(",
+        "url": "https://open.spotify.com/album/49nvVWujZaPRqsejJhKM0j"
+      },
+      "artists": [
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174199,
+      "name": "\u0e27\u0e19\u0e27\u0e32\u0e22 ;(",
+      "url": "https://open.spotify.com/track/4DlLZVEkw1XY2LjzyaLDcL"
     },
     {
       "album": {
@@ -23532,7 +23674,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 307840,
       "name": "\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/6mGIzdCMlkuvBpZ8LhXmJS"
@@ -23590,7 +23732,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 196000,
       "name": "\u0e2e\u0e35\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e07\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e2b\u0e49\u0e32\u0e21 (His Angel) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/73uCzdWUHRVsoFvX3hdZoZ"
@@ -23644,7 +23786,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 227315,
       "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32? (Was I Just a Lie?) - From \u0e2d\u0e22\u0e48\u0e32\u0e02\u0e2d\u0e1e\u0e35\u0e48\u0e40\u0e08\u0e19 Don't Be Too Emotional",
       "url": "https://open.spotify.com/track/6PHhzzGOYOdhz1jY6u3Bo3"
@@ -23760,6 +23902,24 @@
       "duration_ms": 242000,
       "name": "\u0e40\u0e1e\u0e25\u0e34\u0e14\u0e40\u0e1e\u0e25\u0e34\u0e19 (Loop)",
       "url": "https://open.spotify.com/track/6B7ggklMW5LcAuly1jIAXF"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e30\u0e15\u0e34\u0e4b\u0e21\u0e23\u0e31\u0e01\u0e40\u0e04\u0e30\u0e01\u0e25\u0e49\u0e32\u0e21 (Uke-Seme) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/6YBrhd1euR8agUvsRH11Rn"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199310,
+      "name": "\u0e40\u0e21\u0e30\u0e15\u0e34\u0e4b\u0e21\u0e23\u0e31\u0e01\u0e40\u0e04\u0e30\u0e01\u0e25\u0e49\u0e32\u0e21 (Uke-Seme) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/0FaODv61T7CZGfEECPW9W4"
     },
     {
       "album": {
@@ -24028,7 +24188,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206341,
       "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
       "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
@@ -24050,6 +24210,24 @@
       "duration_ms": 164005,
       "name": "\u0e44\u0e21\u0e48\u0e0a\u0e31\u0e27\u0e23\u0e4c (Not Sure)",
       "url": "https://open.spotify.com/track/1H99TrJbwr4790x1MxwTe9"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e19\u0e25\u0e33\u0e1e\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/0myDA3wNrNcUX12Q9AtMql"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e19\u0e25\u0e33\u0e1e\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/0F9ObI9vjZ6ywBydkMb1LK"
     },
     {
       "album": {

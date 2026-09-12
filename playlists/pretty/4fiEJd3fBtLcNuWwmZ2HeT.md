@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 523 songs - 1 day 6 hr 4 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 528 songs - 1 day 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,5 +531,10 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 521 | [Record Red](https://open.spotify.com/track/63be4fLJ60vW9xpDLEM1pa) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Utatane Piko](https://open.spotify.com/artist/1gU8DM5jfekks0NlNm0oNn) | [Record Red](https://open.spotify.com/album/6dujauPhtha0oFyApoi6mg) | 3:16 |
 | 522 | [生きてるおばけは生きている](https://open.spotify.com/track/2sWdQfVWACeiCfE0rK6Gf7) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GALAPAGOS](https://open.spotify.com/album/2SbwUk0WexA476H2UklLhe) | 3:21 |
 | 523 | [Last day](https://open.spotify.com/track/3GNMBhzzro7DQwLIPYDmHa) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:11 |
+| 524 | [salt\-wound routine](https://open.spotify.com/track/1rdmppq2igDDsYEqyQ0oAR) | [11vein](https://open.spotify.com/artist/7D0Fbe6pUOLYAyVZBdjSTZ) | [salt\-wound routine](https://open.spotify.com/album/5t8DUyoxLVqa1zc0MZ1Jx9) | 3:58 |
+| 525 | [I can't take medicine if I drink alcohol\. \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/2A1j0XlycAww8Zh1hbYjN5) | [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [I can't take medicine if I drink alcohol\. \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/5AcW0hmoP1JkLlc0ZoZR3W) | 0:57 |
+| 526 | [ダークヒーローアンニュイ](https://open.spotify.com/track/4Qp4ZeSwmDuxfCMq4D9Y9D) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 COMPILATION ALBUM パラノーマル \(vol.4 空想のパラノーマル\)](https://open.spotify.com/album/5aST7gW3dbKksIxqI7QwK6) | 3:04 |
+| 527 | [Lovely Mine Girl](https://open.spotify.com/track/3EusRqi3A00rP3HR8d2kNh) | [litmus\*](https://open.spotify.com/artist/4grBe27LTKdzWxm1YCiF84), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Lovely Mine Girl](https://open.spotify.com/album/64WY7FPC7KePBg5B5yVhVR) | 3:15 |
+| 528 | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/track/4H5yS7hAdspvJ99wConp95) | [ki\-you](https://open.spotify.com/artist/5jaTqsboVvCuvp8QXaOXjc), [Ui](https://open.spotify.com/artist/3QffMjj7uwfV2xqGhHiIZq), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/album/2he6vKNJgpSofmf8jQXNTy) | 2:40 |
 
-Snapshot ID: `AAAKbVaan5pGFZo0QFgrib6+p58kpmWk`
+Snapshot ID: `AAAKcskgOE5Yve5JQxN0U/enku+OcAFD`

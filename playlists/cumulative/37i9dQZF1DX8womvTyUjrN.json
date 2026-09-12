@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Andry Kiddos",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Ela Taubert",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 153899,
       "name": "Baile",
       "url": "https://open.spotify.com/track/67r9j0N4Jl5Uu2hJQAHjbm"
@@ -2790,6 +2790,24 @@
       "duration_ms": 147711,
       "name": "BENDITA SEA LA HORA",
       "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
+    },
+    {
+      "album": {
+        "name": "Berl\u00edn",
+        "url": "https://open.spotify.com/album/1AQmeupkRUvsHtKCRzg3Mh"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200427,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/1SUGOWZuixBXBUEDYN6hMu"
     },
     {
       "album": {
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 172762,
       "name": "crush",
       "url": "https://open.spotify.com/track/58JHQSju4UT64HNwialsZ9"
@@ -5933,6 +5951,28 @@
     },
     {
       "album": {
+        "name": "De Sue\u00f1o en Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Ar\u00f3n Piper",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "De Sue\u00f1o en Sue\u00f1o",
+      "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
+    },
+    {
+      "album": {
         "name": "DEBER\u00cdAS QUEDARTE",
         "url": "https://open.spotify.com/album/6krtjB6U1cwL8bB9siMD99"
       },
@@ -6278,6 +6318,28 @@
       "duration_ms": 200842,
       "name": "Destrucci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
+    },
+    {
+      "album": {
+        "name": "Detective",
+        "url": "https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ"
+      },
+      "artists": [
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165786,
+      "name": "Detective",
+      "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
     },
     {
       "album": {
@@ -9880,7 +9942,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189000,
       "name": "HELADO DE VAINILLA",
       "url": "https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3"
@@ -11821,6 +11883,28 @@
     },
     {
       "album": {
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138839,
+      "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
+    },
+    {
+      "album": {
         "name": "Las Cosas Simples",
         "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
       },
@@ -13074,7 +13158,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 188533,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/6QZqFThttq1Kka1KhBDAwh"
@@ -16562,7 +16646,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 166586,
       "name": "Obvio",
       "url": "https://open.spotify.com/track/6wOORh5XMD4bahyFz2A7Dm"
@@ -16790,7 +16874,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169431,
       "name": "okay",
       "url": "https://open.spotify.com/track/71OAYyXOwpQjSae86GBSLe"
@@ -17686,6 +17770,24 @@
       "duration_ms": 155306,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT"
+    },
+    {
+      "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
     },
     {
       "album": {
@@ -22421,6 +22523,24 @@
     },
     {
       "album": {
+        "name": "si escribo, no contestes",
+        "url": "https://open.spotify.com/album/1NHW9hoXLNAhWyfte9Z6Qu"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210111,
+      "name": "todo va a estar bien",
+      "url": "https://open.spotify.com/track/6iTviu0qySOiZRD1lfqkMT"
+    },
+    {
+      "album": {
         "name": "todo y nada",
         "url": "https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS"
       },
@@ -23110,6 +23230,24 @@
       "duration_ms": 171113,
       "name": "TuTuRu",
       "url": "https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe"
+    },
+    {
+      "album": {
+        "name": "Tuve que irme",
+        "url": "https://open.spotify.com/album/7kfK3XFO18IbKLlHN1Y0LF"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147552,
+      "name": "Tuve que irme",
+      "url": "https://open.spotify.com/track/4aa1Lx2MeRgFaAudgrYX3i"
     },
     {
       "album": {
@@ -24422,7 +24560,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 162663,
       "name": "Ya Est\u00e1s Con \u00c9l",
       "url": "https://open.spotify.com/track/6bMOV6xDU5qpOoQGr5QVpX"

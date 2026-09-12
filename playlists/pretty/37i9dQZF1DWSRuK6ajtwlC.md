@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Maquinaria Norteña, Keith Nieto en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,340 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,356 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 84 | [Actos De Un Tonto](https://open.spotify.com/track/6cJzRkCxgWikIKAsJCkoQL) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Dejando Huella..\. El Final](https://open.spotify.com/album/6aVJmHZtdMWZxj88L7oWJI) | 3:47 |
 | 85 | [Sedúceme](https://open.spotify.com/track/3JPPq8FtQsQojTi1gCcgeY) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Sedúceme](https://open.spotify.com/album/5MsmolKgYmtyC6ZhwOFFEZ) | 3:41 |
 
-Snapshot ID: `AAAAAN0W+9XvRjopOzMBqYsSJsKoPTy7`
+Snapshot ID: `AAAAAME3wR47fRec8erdoYAcxNV6GVh6`

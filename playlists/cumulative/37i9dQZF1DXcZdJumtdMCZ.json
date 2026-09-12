@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Babes",
+        "url": "https://open.spotify.com/album/6b4rvZdz6BFFi1n2DlbEvG"
+      },
+      "artists": [
+        {
+          "name": "Umarkhan",
+          "url": "https://open.spotify.com/artist/3okJiew3lsAkRBovskCmUG"
+        },
+        {
+          "name": "Pranaav GV",
+          "url": "https://open.spotify.com/artist/0qzc0xvrX2WqNiVlON1LhO"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Babes",
+      "url": "https://open.spotify.com/track/2x4hL8nbIk39enKK0GuPT0"
+    },
+    {
+      "album": {
         "name": "Bangoma",
         "url": "https://open.spotify.com/album/2HcXRfcsvwne1GQeSIIeTV"
       },
@@ -8330,6 +8352,28 @@
       "duration_ms": 235224,
       "name": "Varlaam Varlaam Vaa",
       "url": "https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn"
+    },
+    {
+      "album": {
+        "name": "Ve.Now Intro",
+        "url": "https://open.spotify.com/album/26FBT60HS2ZboycRpyE3gT"
+      },
+      "artists": [
+        {
+          "name": "Ve.Now",
+          "url": "https://open.spotify.com/artist/6lhnCpAyrgmcGWZUO48MuA"
+        },
+        {
+          "name": "Pravin Vasanth",
+          "url": "https://open.spotify.com/artist/1Ks3vVDG02IKW85BJ4W2XF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Ve.Now Intro",
+      "url": "https://open.spotify.com/track/1HbJIKuARoPOwT8doyZ2OB"
     },
     {
       "album": {

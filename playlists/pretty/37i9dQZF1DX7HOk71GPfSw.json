@@ -1,12 +1,12 @@
 {
   "description": "Rebecca Black is an Anaheim star \ud83c\udf1f",
-  "num_followers": 520481,
+  "num_followers": 520614,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1tb7NIvtiniP8zG2n0zulw0Jr4",
+  "snapshot_id": "AAAAAPSulG7ki7CzxN67Tuk9uJEsT66O",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:01",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
     },
     {
-      "added_at": "2026-08-28 04:02:31",
-      "album": {
-        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 252461,
-      "name": "Unlimited Love",
-      "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
-    },
-    {
       "added_at": "2026-08-21 04:01:32",
       "album": {
         "name": ".com",
@@ -77,6 +61,22 @@
       "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
+    },
+    {
       "added_at": "2026-07-03 04:02:01",
       "album": {
         "name": "Satellites",
@@ -91,22 +91,6 @@
       "duration_ms": 211000,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
-    },
-    {
-      "added_at": "2026-08-07 04:02:03",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
-      },
-      "artists": [
-        {
-          "name": "aftrr!",
-          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
     },
     {
       "added_at": "2026-06-19 04:01:32",
@@ -131,6 +115,54 @@
     {
       "added_at": "2026-08-28 04:02:31",
       "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 252461,
+      "name": "Unlimited Love",
+      "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
+    },
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
+      },
+      "artists": [
+        {
+          "name": "aftrr!",
+          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Creamy",
+        "url": "https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Creamy",
+      "url": "https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW"
+    },
+    {
+      "added_at": "2026-08-28 04:02:31",
+      "album": {
         "name": "Everyday, Everything Is At Stake",
         "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
       },
@@ -143,6 +175,74 @@
       "duration_ms": 165600,
       "name": "I'm Going Back to Lebanon",
       "url": "https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ"
+    },
+    {
+      "added_at": "2026-07-17 04:02:03",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "SAME LA",
+        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:31",
+      "album": {
+        "name": "Bangs N Braces",
+        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "duration_ms": 165708,
+      "name": "Tiger Tiger",
+      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
+    },
+    {
+      "added_at": "2026-08-28 04:02:31",
+      "album": {
+        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 236043,
+      "name": "The Peace - Frost Children Remix",
+      "url": "https://open.spotify.com/track/5JYnDZ4TbzXbWeKu7gkVTj"
     },
     {
       "added_at": "2026-09-04 04:01:50",
@@ -177,58 +277,6 @@
       "url": "https://open.spotify.com/track/5V0MbUqdi6rSRbJMn8Crrv"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "SAME LA",
-        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 224661,
-      "name": "SAME LA",
-      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
-    },
-    {
-      "added_at": "2026-07-17 04:02:03",
-      "album": {
-        "name": "Pop Sound",
-        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171172,
-      "name": "Pop Sound",
-      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
-    },
-    {
-      "added_at": "2026-08-28 04:02:31",
-      "album": {
-        "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 236043,
-      "name": "The Peace - Frost Children Remix",
-      "url": "https://open.spotify.com/track/5JYnDZ4TbzXbWeKu7gkVTj"
-    },
-    {
       "added_at": "2026-08-21 04:01:32",
       "album": {
         "name": "strong emotion",
@@ -243,6 +291,26 @@
       "duration_ms": 220352,
       "name": "strong emotion",
       "url": "https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Pa-ti-",
+        "url": "https://open.spotify.com/album/78uvrZLrSRUHsvcDHj9Ly1"
+      },
+      "artists": [
+        {
+          "name": "mediopicky",
+          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+        },
+        {
+          "name": "Ekstra Bonus",
+          "url": "https://open.spotify.com/artist/7HhjQ7M6KloGuoUB4ruvSq"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Activa",
+      "url": "https://open.spotify.com/track/5CD5ZtaCukObMsFAPs10eR"
     },
     {
       "added_at": "2026-09-01 21:51:02",
@@ -285,6 +353,22 @@
       "url": "https://open.spotify.com/track/5qlnDQV1xjZl5HwHJuiROh"
     },
     {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "soliloquy",
+        "url": "https://open.spotify.com/album/6hOiB7F1TAR3gNccw7lX8e"
+      },
+      "artists": [
+        {
+          "name": "Cosette",
+          "url": "https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf"
+        }
+      ],
+      "duration_ms": 148431,
+      "name": "right",
+      "url": "https://open.spotify.com/track/2wAvaqPNqREQ8bB7RIOom9"
+    },
+    {
       "added_at": "2026-08-21 04:01:32",
       "album": {
         "name": "Reborn",
@@ -317,6 +401,22 @@
       "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
     },
     {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Motion Sick",
+        "url": "https://open.spotify.com/album/4v90RmR3tgqSsdFdncFAoG"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Motion Sick",
+      "url": "https://open.spotify.com/track/5d7o5oyQJi0U77NQvDtOZB"
+    },
+    {
       "added_at": "2026-09-04 04:01:50",
       "album": {
         "name": "BLOND",
@@ -347,6 +447,22 @@
       "duration_ms": 204995,
       "name": "Deadtome",
       "url": "https://open.spotify.com/track/0LrXxKKEgB6zVA1MbwQBks"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "LAG",
+        "url": "https://open.spotify.com/album/7xeuI3Yv4XDz3sszzrnTdr"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "LAG",
+      "url": "https://open.spotify.com/track/6BrTch4uARKm6kqxgYwtM2"
     },
     {
       "added_at": "2026-08-14 04:02:27",
@@ -383,22 +499,6 @@
       "duration_ms": 191666,
       "name": "MP3 SUMMER",
       "url": "https://open.spotify.com/track/5lbMJDXuaOxZZRlzwrTjrA"
-    },
-    {
-      "added_at": "2026-08-28 04:02:31",
-      "album": {
-        "name": "Bangs N Braces",
-        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
-      },
-      "artists": [
-        {
-          "name": "iKeda",
-          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
-        }
-      ],
-      "duration_ms": 165708,
-      "name": "Tiger Tiger",
-      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
     },
     {
       "added_at": "2026-08-25 19:58:32",
@@ -594,6 +694,14 @@
         {
           "name": "Peterparker69",
           "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Jeter",
+          "url": "https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm"
+        },
+        {
+          "name": "Y ohtrixpointnever",
+          "url": "https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ"
         }
       ],
       "duration_ms": 120827,
@@ -1029,26 +1137,6 @@
       "url": "https://open.spotify.com/track/506xhVfs30IMH4TVrhISh3"
     },
     {
-      "added_at": "2026-08-14 04:02:27",
-      "album": {
-        "name": "Drive (MSCS Remix)",
-        "url": "https://open.spotify.com/album/43ROiGmYHrfDv3AW8GV5Sj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Lamb",
-          "url": "https://open.spotify.com/artist/1fLl0QDFau1trbJkpjvyEt"
-        },
-        {
-          "name": "MsChickenSandwich",
-          "url": "https://open.spotify.com/artist/2DkPq2KQ93LHAIqAX9j5Y5"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Drive - MSCS Remix",
-      "url": "https://open.spotify.com/track/3L49MkR5N8NcQ0NjcQGVkY"
-    },
-    {
       "added_at": "2026-07-10 04:02:12",
       "album": {
         "name": "U&ME",
@@ -1063,22 +1151,6 @@
       "duration_ms": 159424,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/4Ng4JMlg97GYcW7eDZ0ij0"
-    },
-    {
-      "added_at": "2026-08-07 04:02:03",
-      "album": {
-        "name": "Michael.",
-        "url": "https://open.spotify.com/album/6ET1VwT31ELDYXzUgY19n2"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 212239,
-      "name": "Michael.",
-      "url": "https://open.spotify.com/track/3NHZQ0Nty9E5Nqj7o3Ot6h"
     },
     {
       "added_at": "2026-07-08 20:17:28",
@@ -1329,22 +1401,6 @@
       "url": "https://open.spotify.com/track/7qRmZMqzUtv6oUsKuU24Pb"
     },
     {
-      "added_at": "2026-06-19 04:01:32",
-      "album": {
-        "name": "I GET WHAT I WANT",
-        "url": "https://open.spotify.com/album/1BoVSPa1M4Mxvt4RJYa1Ha"
-      },
-      "artists": [
-        {
-          "name": "soma",
-          "url": "https://open.spotify.com/artist/4tRJBnwPRhJ4BHHJBN3sAE"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "I GET WHAT I WANT",
-      "url": "https://open.spotify.com/track/2LaB9c5odTQj5KZyth4lWQ"
-    },
-    {
       "added_at": "2026-06-12 04:01:44",
       "album": {
         "name": "CAIRO (I Like That...)",
@@ -1501,22 +1557,6 @@
       "url": "https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2"
     },
     {
-      "added_at": "2026-05-15 04:02:23",
-      "album": {
-        "name": "front row",
-        "url": "https://open.spotify.com/album/3OKlAffdLNrxzLMbLD3DGy"
-      },
-      "artists": [
-        {
-          "name": "whyhaze",
-          "url": "https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE"
-        }
-      ],
-      "duration_ms": 117577,
-      "name": "front row",
-      "url": "https://open.spotify.com/track/4tx4UcIntYBpKS5OOoT4Iu"
-    },
-    {
       "added_at": "2026-05-08 04:03:55",
       "album": {
         "name": "8 forever",
@@ -1585,26 +1625,6 @@
       "url": "https://open.spotify.com/track/0He9B1l2riXW9P1BvBJyxO"
     },
     {
-      "added_at": "2026-04-03 17:24:19",
-      "album": {
-        "name": "magic",
-        "url": "https://open.spotify.com/album/7Hhd8WM9WqX0kxXMFqvZpS"
-      },
-      "artists": [
-        {
-          "name": "girl_irl",
-          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "magic",
-      "url": "https://open.spotify.com/track/3AvL90uEQrYKH5WbuPyKGY"
-    },
-    {
       "added_at": "2026-05-01 04:02:14",
       "album": {
         "name": "TIMESNEWROMAN",
@@ -1635,22 +1655,6 @@
       "duration_ms": 218685,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2eqIYvwLkyGGBWEf6q9EHZ"
-    },
-    {
-      "added_at": "2026-04-03 17:24:19",
-      "album": {
-        "name": "Deja a tu novia",
-        "url": "https://open.spotify.com/album/2kdPU9e2uoss2FFxHLHYUV"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 117432,
-      "name": "Deja a tu novia",
-      "url": "https://open.spotify.com/track/5XX7ssVKWgbkgifbcAXPXY"
     },
     {
       "added_at": "2026-03-27 04:00:20",

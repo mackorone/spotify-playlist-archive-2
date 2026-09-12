@@ -7661,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "Looking Ahead",
+        "url": "https://open.spotify.com/album/5DCoHnw2doe4USAfpyc92B"
+      },
+      "artists": [
+        {
+          "name": "Mindweather",
+          "url": "https://open.spotify.com/artist/3mdeibd7mERBfhEqmkmSrc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111710,
+      "name": "Looking Ahead",
+      "url": "https://open.spotify.com/track/5bBrwQrXKsVPzCx9QiaFkn"
+    },
+    {
+      "album": {
         "name": "Los Viejos Tiempos",
         "url": "https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA"
       },
@@ -15882,6 +15900,24 @@
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "album": {
+        "name": "White Feathers",
+        "url": "https://open.spotify.com/album/4vJkzEWyLOsJVal8c2UaZu"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "White Feathers",
+      "url": "https://open.spotify.com/track/666dzizDwqsYbRWE7JWLdK"
     },
     {
       "album": {

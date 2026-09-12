@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-338 songs - 21 hr 0 min
+339 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Football Season is Over](https://open.spotify.com/track/3nAmNBPglbB7vPqjxYqBDj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 1:55 | 2022-03-08 | 2024-04-10 |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4iyoHJe8kA4ZmDhHxwVdz7) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/album/2ZWveWbeFhlWv7O0TEC8eI) | 4:41 | 2021-08-20 |  |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4oLzeTsQpM0sW6TXXxlyfw) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:41 | 2022-09-21 | 2023-01-04 |
+| [Forever Young](https://open.spotify.com/track/7vBcocExdRT5KsLMorLYUt) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Forever Young](https://open.spotify.com/album/2Ijt2x8YLBXeRWCrUDaLir) | 2:29 | 2026-09-11 |  |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-24 | 2024-04-10 |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2021-08-20 |  |
 | [FREEFALL \(feat\. Chris Daughtry\)](https://open.spotify.com/track/2gjgAWkkeM8u849gkTV9ow) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [CARNAL \(Deluxe\)](https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj) | 3:46 | 2025-03-28 |  |

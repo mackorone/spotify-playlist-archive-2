@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Skilla Baby",
+  "description": "The Midwest is always on time. Cover: EST Gee",
   "name": "CST",
   "tracks": [
     {
@@ -180,6 +180,24 @@
       "duration_ms": 186534,
       "name": "100 Yrs",
       "url": "https://open.spotify.com/track/4KCIIUBjU0mfYQmZGnGg5o"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/66x1wyPjR7v3aLbUlPSdQ4"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148554,
+      "name": "100% Alcohol",
+      "url": "https://open.spotify.com/track/0OTxGGdHGFbX8BqXWqdAl9"
     },
     {
       "album": {
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159091,
       "name": "Back Ina Yams",
       "url": "https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP"
@@ -8352,7 +8370,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 175412,
       "name": "Episode 6",
       "url": "https://open.spotify.com/track/1h8HakcxIVVpCv32QH9gw7"
@@ -9250,7 +9268,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189252,
       "name": "Finna Drop (Tour)",
       "url": "https://open.spotify.com/track/5qAwvMQsGQnBCicP2vcCRg"
@@ -19647,6 +19665,24 @@
     },
     {
       "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "NEVER MADE STATEMENTS",
+      "url": "https://open.spotify.com/track/21UCPgtPVNKShxcDxg1uaK"
+    },
+    {
+      "album": {
         "name": "Never Put You First",
         "url": "https://open.spotify.com/album/1AdEXeSKXuUHmBeNQ8n4Hz"
       },
@@ -20502,6 +20538,28 @@
       "duration_ms": 146116,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/7CRwGeKhIQTsbtcvHp2eRE"
+    },
+    {
+      "album": {
+        "name": "NOWHERE NEAR YOU",
+        "url": "https://open.spotify.com/album/1m81PjXthGaa9HDqMWaihx"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "Love Matt",
+          "url": "https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116871,
+      "name": "NOWHERE NEAR YOU",
+      "url": "https://open.spotify.com/track/7KjzZjfmVmoZtkUygVof9m"
     },
     {
       "album": {
@@ -23221,6 +23279,28 @@
     },
     {
       "album": {
+        "name": "QUEEN [THE WHACK VERSION]",
+        "url": "https://open.spotify.com/album/5xflxmgfN5O2FSZE1dwP4Z"
+      },
+      "artists": [
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125680,
+      "name": "QUEEN [THE WHACK VERSION]",
+      "url": "https://open.spotify.com/track/6H6bBK59BXJKvWH0omXHyI"
+    },
+    {
+      "album": {
         "name": "Ms. Put It On - 2 Pack",
         "url": "https://open.spotify.com/album/2RekXhWBbOPkLsYQ2lZC4s"
       },
@@ -23338,6 +23418,32 @@
       "duration_ms": 170145,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180784,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
     },
     {
       "album": {
@@ -28315,6 +28421,28 @@
     },
     {
       "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/66x1wyPjR7v3aLbUlPSdQ4"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121389,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4TT0XGOuFUcOiHfrWimqBW"
+    },
+    {
+      "album": {
         "name": "Supreme Sanders",
         "url": "https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la"
       },
@@ -32071,6 +32199,24 @@
     },
     {
       "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "WAY MORE",
+      "url": "https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3"
+    },
+    {
+      "album": {
         "name": "Way Too Hot (feat. DCG Msavv)",
         "url": "https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP"
       },
@@ -33558,7 +33704,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 145830,
       "name": "WYDT (What You Do Today?)",
       "url": "https://open.spotify.com/track/5rupynBZMGZwdHVGifikfE"
@@ -33664,7 +33810,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168648,
       "name": "YA DIGG (feat. EST SkiMike)",
       "url": "https://open.spotify.com/track/6JknNJZvYjuuzAbdgIsOrg"
@@ -33774,7 +33920,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208000,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/6wkWD9G2xROqooidrc0Cye"

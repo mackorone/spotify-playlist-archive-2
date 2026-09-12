@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Dells TMX and Holy Drill",
-  "num_followers": 65823,
+  "num_followers": 65938,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXLu2BRL5CNnmWl9peidIanNxUm",
+  "snapshot_id": "AAAAAEJcKWDVNF5gdl3vLo/khLBOMwZH",
   "tracks": [
     {
       "added_at": "2026-09-11 00:01:50",
@@ -459,6 +459,22 @@
       "duration_ms": 340081,
       "name": "Consolation Invisible",
       "url": "https://open.spotify.com/track/3AT5qJ9a7s1oivSEV5hsPY"
+    },
+    {
+      "added_at": "2026-09-11 00:01:50",
+      "album": {
+        "name": "Nguva(Time)",
+        "url": "https://open.spotify.com/album/61DMd8fNQcRYrngNcyDA5Z"
+      },
+      "artists": [
+        {
+          "name": "Sir Odilo",
+          "url": "https://open.spotify.com/artist/5t0wFDlLTd8luZ6i5ugfR4"
+        }
+      ],
+      "duration_ms": 174944,
+      "name": "Nguva(Time)",
+      "url": "https://open.spotify.com/track/0YO4XQCrzldvIDFsZX5jZu"
     },
     {
       "added_at": "2026-09-04 00:01:07",
@@ -986,10 +1002,14 @@
         {
           "name": "Petra Odubayo",
           "url": "https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 644571,
+      "name": "King of Glory",
       "url": "https://open.spotify.com/track/3uQgEbPTAe2KXBCzMvfUe6"
     },
     {

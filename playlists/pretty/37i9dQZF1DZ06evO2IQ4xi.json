@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 107929,
+  "num_followers": 107946,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAA8N5QC1fIKratKkP3VUThi",
+  "snapshot_id": "aqHzAAAAAACkjj9DY3MBjKW+ZLAGusFm",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 317257,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Off With Her Head",
         "url": "https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 143829,
       "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
       "url": "https://open.spotify.com/track/7bgYrlMU0S1wfNPPD4A91Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 317257,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
     },
     {
       "added_at": null,

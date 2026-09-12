@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Elsay Elmar",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Camilo",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 157500,
       "name": "4:40",
       "url": "https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa"
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
+    },
+    {
+      "album": {
         "name": "Si Te Soy M\u00e1s Sincera",
         "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
       },
@@ -1911,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/6kBf6ECHvQFuQjpxpIHIZM"
+      },
+      "artists": [
+        {
+          "name": "Flor de Lava",
+          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176251,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/0MbKlrKTF6UoUiGoGKclk3"
+    },
+    {
+      "album": {
         "name": "El Big Bang",
         "url": "https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz"
       },
@@ -2621,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Callaita Nunca",
+        "url": "https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd"
+      },
+      "artists": [
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190086,
+      "name": "Hotter Than Hot",
+      "url": "https://open.spotify.com/track/1DcRZgk0OzhN9Fhxj0GiFs"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J"
       },
@@ -3178,7 +3232,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 143914,
       "name": "Linda",
       "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
@@ -4460,7 +4514,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 202727,
       "name": "Otros Ojos Te Ven",
       "url": "https://open.spotify.com/track/7JgYtaM1AN23ZhdmhYowYm"

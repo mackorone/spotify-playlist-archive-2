@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Jason Derulo, The Second Voice, Qing Madi
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Albi
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,370 likes - 351 songs - 18 hr 2 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,367 likes - 351 songs - 18 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 |
 | 2 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
-| 3 | [He The Best](https://open.spotify.com/track/5E5QDIjHCy7FNZ4KBhGz76) | [CIS](https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P) | [He The Best](https://open.spotify.com/album/0BV0YFbIEuEuxsXKGmgamX) | 2:51 |
-| 4 | [Jungle](https://open.spotify.com/track/2OMNBRV1lUlVbtY40PFwQG) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Jungle](https://open.spotify.com/album/0xvCGIbXcQOuhOXZrDL2Qw) | 2:51 |
-| 5 | [Subra](https://open.spotify.com/track/2gN6xtF82P2A4D4gnVLpJc) | [HERMEN](https://open.spotify.com/artist/5yRS1xEuvKgVcF3ZbKgPQ7) | [Subra](https://open.spotify.com/album/4oCk272vs6PdtMhEZoEqSH) | 3:53 |
-| 6 | [Dancing With Your Ghost](https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Dancing With Your Ghost](https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm) | 2:26 |
-| 7 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 |
-| 8 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
+| 3 | [Dancing With Your Ghost](https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Dancing With Your Ghost](https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm) | 2:26 |
+| 4 | [He The Best](https://open.spotify.com/track/5E5QDIjHCy7FNZ4KBhGz76) | [CIS](https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P) | [He The Best](https://open.spotify.com/album/0BV0YFbIEuEuxsXKGmgamX) | 2:51 |
+| 5 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 |
+| 6 | [Subra](https://open.spotify.com/track/2gN6xtF82P2A4D4gnVLpJc) | [HERMEN](https://open.spotify.com/artist/5yRS1xEuvKgVcF3ZbKgPQ7) | [Subra](https://open.spotify.com/album/4oCk272vs6PdtMhEZoEqSH) | 3:53 |
+| 7 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
+| 8 | [Jungle](https://open.spotify.com/track/2OMNBRV1lUlVbtY40PFwQG) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Jungle](https://open.spotify.com/album/0xvCGIbXcQOuhOXZrDL2Qw) | 2:51 |
 | 9 | [Vaelor](https://open.spotify.com/track/474v81fZYLnYuTnaTosfsY) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn) | [Vaelor](https://open.spotify.com/album/4EPeL1sEMkznkXQu0zRbIx) | 1:48 |
 | 10 | [Breathless](https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Breathless](https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO) | 2:26 |
 | 11 | [LOXOXO](https://open.spotify.com/track/32cD7ANJ0mcLv8lThivNo0) | [Fenrick](https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3) | [LOXOXO](https://open.spotify.com/album/3gsB7UO5LLi0Nj5m7DtNpG) | 2:42 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 350 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 351 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
 
-Snapshot ID: `AAAxANDlUHh8dYwMk1VUP4LPuxI6P32f`
+Snapshot ID: `AAAxCRtqAKWUPoJ9KJ0FoYTklujDAdWr`

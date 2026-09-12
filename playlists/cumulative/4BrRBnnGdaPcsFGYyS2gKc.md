@@ -4,7 +4,7 @@
 
 > the best &amp; new rock\. all the beloved tracks &amp; artists
 
-229 songs - 14 hr 12 min
+230 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Wherever You Go](https://open.spotify.com/track/3rWA4kT3SbD40nTKpaAulm) | [Tempus Frayed](https://open.spotify.com/artist/6Ak1x2ZMV0PYFzAXptS8vY) | [Wherever You Go](https://open.spotify.com/album/4DS4xRX26gUaE14SpFHk1n) | 4:30 | 2025-07-28 |  |
 | [Why Not Take A Chance](https://open.spotify.com/track/5VbkEow0zwAFtG8uNCnblM) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:42 | 2025-09-09 |  |
 | [Why would you never ever phone me love?](https://open.spotify.com/track/48kQcJKWVdbtwvZ3fbeNaZ) | [Doli's](https://open.spotify.com/artist/1Dg2JkbXBlITLko7IMbRLo) | [Why would you never ever phone me love?](https://open.spotify.com/album/55begBJivUd0R7OPBL0yNE) | 5:07 | 2024-09-02 |  |
+| [Years on Repeat](https://open.spotify.com/track/5sVyoO742cfGEKXBfKuM3U) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Collecting Sentiments of a Derailed Past](https://open.spotify.com/album/56f6wLJonym6oaNLP0prrD) | 4:25 | 2026-09-11 |  |
 | [You, drugs, little crimes and love songs](https://open.spotify.com/track/2Tm8LfMrolSOS0UaLLmcDq) | [goodafternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [You, drugs, little crimes and love songs](https://open.spotify.com/album/1f5xBBJ3PAtBLWobUZnS5c) | 3:51 | 2025-07-07 |  |
 | [Досягай](https://open.spotify.com/track/5VANrQsosqkcpOac6Dj3gK) | [Sergii Garant](https://open.spotify.com/artist/33MiRqyIqk1f2Q7qs4hEYi) | [Досягай](https://open.spotify.com/album/6a2LdQnEbZ6DI1V6qgkcV3) | 3:37 | 2025-08-13 |  |
 | [Искренность \(remaster 2025\)](https://open.spotify.com/track/3Fr5ibBN355iP08vIyOiiL) | [VICE GUYS](https://open.spotify.com/artist/0pL6RfszleaWOgNV5FrCQu), [Ideя Fix](https://open.spotify.com/artist/1l9VY8hffCjyUUUfAGpepq) | [Симулякр](https://open.spotify.com/album/1ZFElawjH9od2EAKMBvIUb) | 3:34 | 2025-07-28 |  |

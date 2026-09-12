@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,524 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,531 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 14 | [幸せな結末](https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [幸せな結末](https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf) | 4:36 |
 | 15 | [恋は流星 SHOOTING STAR OF LOVE](https://open.spotify.com/track/7DwgrtlxProoKzcjgW95Hs) | [米光 美保](https://open.spotify.com/artist/15asL053CFbu0Yd8l1z6Xr) | [FOREVER](https://open.spotify.com/album/40LzeiD8n5G9OddvHBu00H) | 5:48 |
 | 16 | [素直になりたい](https://open.spotify.com/track/67dgiLbwMnKvey0fy4rJgW) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [DRAWING](https://open.spotify.com/album/1yLXjq2T0UZdk2iCY1Qor5) | 4:38 |
-| 17 | [New Precious World](https://open.spotify.com/track/5EUDwzWHx2yvTn7Dz2dNom) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/6NjHw8VCh2sIqF4vqNkyNO) | 3:41 |
+| 17 | [New Precious World](https://open.spotify.com/track/5EUDwzWHx2yvTn7Dz2dNom) | [Amii Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/6NjHw8VCh2sIqF4vqNkyNO) | 3:41 |
 | 18 | [DEEP FRENCH KISS](https://open.spotify.com/track/3840uavKqiGjuWZ32vu1b6) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [LOVE! LOVE! & LOVE!](https://open.spotify.com/album/2sbXsIxF3TUIuc4iVhSs1c) | 4:39 |
 | 19 | [あの時計の下で](https://open.spotify.com/track/4wIymiEYbe6NjVImxf7pcP) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Soul Kiss](https://open.spotify.com/album/36EqCqcP50LkutBwk5xA5f) | 4:24 |
 | 20 | [陽の当たる大通り](https://open.spotify.com/track/5sKcnKSG99NlP0mahUAwx8) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [THE BAND OF 20TH CENTURY: Nippon Columbia Years 1991\-2001](https://open.spotify.com/album/6XXYHc8PtLy885hQNeA4gC) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [Summer's Gone](https://open.spotify.com/track/6ba2rP5GlBGvf6iGre793z) | [GREAT3](https://open.spotify.com/artist/30J6mBcyUPnaFvosCbwril) | [Richmondo High](https://open.spotify.com/album/23Va8dFffSGu9AmvygAtff) | 5:16 |
 | 50 | [双子座グラフィティ](https://open.spotify.com/track/4a7fOYlDAiskqEgmeQsAQh) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [ペイパードライヴァーズミュージック](https://open.spotify.com/album/3mukrXkwtuUnV4HTA0yqQ4) | 4:50 |
 
-Snapshot ID: `AAAAAAYTK0WE/HSZz0D4JBSWMXkyn5ty`
+Snapshot ID: `AAAAANlocKbtVklbv94WyP1kR2ThX5in`

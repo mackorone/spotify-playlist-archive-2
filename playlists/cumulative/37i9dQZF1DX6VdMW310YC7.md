@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,926 songs - 5 day 10 hr 43 min
+1,927 songs - 5 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1665,7 +1665,7 @@
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/4gSIbyOjmtFOYgJYax0xpy) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/7kl5K9V6DTpbD00kXn6t9K) | 5:17 | 2021-07-09 | 2022-07-29 |
 | [Temptation](https://open.spotify.com/track/1qRSmPYphBuAZR7RjbfaCa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Temptation](https://open.spotify.com/album/5dG49c8MhEyWmZ7ukcrQmu) | 4:53 | 2022-11-11 | 2022-12-29 |
 | [The Act of Hesitation](https://open.spotify.com/track/787zdEiofzLaXxMX0HXVPI) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Krrum](https://open.spotify.com/artist/1qxSVLNqRcdhXPkE6suUlN) | [The Act of Hesitation](https://open.spotify.com/album/7taf75ZPSE9Aai4yN7xeSI) | 3:31 | 2020-05-18 | 2020-10-09 |
-| [the art of letting go](https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [the art of letting go](https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG) | 4:34 | 2026-04-17 |  |
+| [the art of letting go](https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [the art of letting go](https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG) | 4:34 | 2026-04-17 | 2026-09-12 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2021-07-16 | 2025-08-30 |
 | [The Blues](https://open.spotify.com/track/0v1XJjO4PXdfNMGqjKewsf) | [Niklas Ibach](https://open.spotify.com/artist/2LyxhWXFqUt5Zbe0KSW38j), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [The Blues](https://open.spotify.com/album/6lyKa86myArsLsix1mxe26) | 3:43 | 2020-05-22 | 2020-07-03 |
 | [The Bulldog](https://open.spotify.com/track/7iYlacahYFEKx8cpRNC2Tx) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [The Bulldog](https://open.spotify.com/album/3HIV2UOXcao1UrJKAEgAcb) | 3:04 | 2020-05-18 | 2021-01-11 |
@@ -1683,6 +1683,7 @@
 | [The Frowner](https://open.spotify.com/track/49T23jJvNLh5BjSAnyMmRf) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Frowner](https://open.spotify.com/album/1ddDO0FzL6M6CB9mF0ALbL) | 3:08 | 2021-10-22 | 2022-12-29 |
 | [The Future](https://open.spotify.com/track/5KTHurbkWElVh4KkOmGn7S) | [Tom Flynn](https://open.spotify.com/artist/3lSeZGCmgYasoeYml0hQY8), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [The Future](https://open.spotify.com/album/2qn2rf4ZYjyNhNP4eOPAY8) | 5:59 | 2020-03-20 | 2020-10-09 |
 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 | 2024-06-14 | 2025-08-30 |
+| [The Ladder](https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [The Ladder](https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs) | 4:09 | 2026-09-04 |  |
 | [The last dance...](https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The last dance...](https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN) | 3:04 | 2026-07-03 |  |
 | [The Last Dinosaur](https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [The Last Dinosaur](https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U) | 3:30 | 2022-10-14 | 2023-02-04 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |

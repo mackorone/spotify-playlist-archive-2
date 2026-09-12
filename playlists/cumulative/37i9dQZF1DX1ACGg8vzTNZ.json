@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Before the World Sings",
+        "url": "https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185185,
+      "name": "Before the World Sings",
+      "url": "https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU"
+    },
+    {
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },

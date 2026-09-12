@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Wilbert Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,891 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,943 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Lasang Seryoso](https://open.spotify.com/track/2t4x9AVN7boGiLX6ALLCqd) | [Andrew Ramos](https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI) | [Lasang Seryoso](https://open.spotify.com/album/3kbESAcAfZ1cr1709q6cii) | 3:24 |
 | 100 | [Atin Lang](https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD) | [STEF](https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD), [Joseph Ama](https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz) | [Atin Lang](https://open.spotify.com/album/7EJJ736dZpyEsSZzaOwWyY) | 2:44 |
 
-Snapshot ID: `AAAAAFFmbM69Jxbqp60APri8hY/DfNqE`
+Snapshot ID: `AAAAAJOmMZoHF11yg96H/t1brz9Q6SqA`

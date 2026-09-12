@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Andrea Tichy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,758 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,766 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Schwimme \(ich ertrink\)](https://open.spotify.com/track/4kIeSEmVGZyl0F3Ar76R7y) | [FLORA](https://open.spotify.com/artist/3PwQjPnXlOS52LjbmSdNoG) | [Schwimme \(ich ertrink\)](https://open.spotify.com/album/3toyu7mPnFXqjzp2Cxrkm7) | 2:19 |
 | 50 | [Archive Folder](https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Archive Folder](https://open.spotify.com/album/19Ld6Z8NDFSvDfJbwZLsx7) | 2:44 |
 
-Snapshot ID: `AAAAAIYi0BHnjOCDdXe2V9d328WUzN0L`
+Snapshot ID: `AAAAADGFqDtICEEZIOVIUm+P0pctU8dH`

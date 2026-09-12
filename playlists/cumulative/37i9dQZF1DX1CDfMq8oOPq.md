@@ -4,7 +4,7 @@
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-396 songs - 18 hr 34 min
+397 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Mira Certeira](https://open.spotify.com/track/7yGz3U1uwTOKn5AT3BoW4T) | [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [Beatriz Denaro](https://open.spotify.com/artist/08dLjh5rmk0p3o562zICJ6), [DJ Yago](https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb) | [Mira Certeira](https://open.spotify.com/album/5xJL7PsThey7cljPF8sol1) | 2:29 | 2026-04-13 | 2026-04-28 |
 | [mlk me esquece](https://open.spotify.com/track/5KpOnRvxuYU18AQ0HVoQg8) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [mlk me esquece](https://open.spotify.com/album/5IFvarnHQmfiqGQxhVhxnb) | 1:53 | 2024-03-29 | 2024-04-19 |
 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 | 2022-07-08 | 2023-08-05 |
+| [Modo Baddie](https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx) | [Emilly Guedes](https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Modo Baddie](https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb) | 2:03 | 2026-09-11 |  |
 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 | 2022-03-11 | 2023-01-21 |
 | [Monopólio Das Gostosas](https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [Monopólio Das Gostosas](https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW) | 3:09 | 2026-08-13 |  |
 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 | 2022-06-17 | 2023-08-26 |
@@ -358,7 +359,7 @@
 | [SUA FAVORITA](https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [SUA FAVORITA](https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e) | 2:33 | 2026-05-22 |  |
 | [Suck My Dick](https://open.spotify.com/track/0EyYzHLDjjOz4Y583sti4c) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Suck My Dick](https://open.spotify.com/album/4t61DdUu0REe02zjWqtq2x) | 2:36 | 2024-12-13 | 2025-03-06 |
 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 | 2023-07-28 | 2023-08-19 |
-| [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 | 2025-09-26 |  |
+| [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 | 2025-09-26 | 2026-09-12 |
 | [Susuave](https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:38 | 2022-03-11 | 2022-08-13 |
 | [SÍNDROME DE REF](https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd) | [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Vitonez](https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL) | [SÍNDROME DE REF](https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0) | 2:56 | 2026-07-27 |  |
 | [Só](https://open.spotify.com/track/21zml0AVaufInHzJZ74ZZa) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:11 | 2024-10-11 | 2025-10-04 |

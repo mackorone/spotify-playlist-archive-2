@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-87 songs - 4 hr 36 min
+88 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 | 2022-01-25 |  |
 | [Recercada primera, quarta, ottava](https://open.spotify.com/track/5fbYLFJEKXvTNvSnIfy72B) | [Diego Oritz](https://open.spotify.com/artist/65LRM6rDPPJzIYrG30zVqa), [Margaret Little](https://open.spotify.com/artist/2xkEmapUx3x47gd2JcObk3), [Sylvain Bergeron](https://open.spotify.com/artist/3YfP4eVkdTnydP5DBOkzxV) | [Doulce Mémoire](https://open.spotify.com/album/5uBn33NFgBKv02ujBNT4W6) | 4:33 | 2022-07-11 | 2024-04-19 |
 | [Ricercar \(13\)](https://open.spotify.com/track/4v2r8KdQKYWYd6RBGXATmQ) | [Francesco da Milano](https://open.spotify.com/artist/4MF2Z1s9xx6vo3QA9VZ1bz), [Christopher Wilson](https://open.spotify.com/artist/13U6np0LvIVvrGltTbhNZh) | [Milano: Fantasias, Ricercars and Duets](https://open.spotify.com/album/6NoWl8vCGDlLj6ujLJRL9n) | 1:38 | 2022-01-25 |  |
+| [Riches d’amour](https://open.spotify.com/track/3Ko9NKqIOhYVhDW9TS1G9k) | [Guillaume de Machaut](https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd), [Tim Keeler](https://open.spotify.com/artist/027v3Yqn168mUkTYWKptif), [Matthew Mazzola](https://open.spotify.com/artist/7MFPYEwk08WeTSPkpPm746) | [Machaut](https://open.spotify.com/album/0Kdzd5BTd4S9cwcRZ0IzYM) | 6:15 | 2026-09-11 |  |
 | [Road to Camelot](https://open.spotify.com/track/48nl5zt51TsK1wX86MjMWL) | [Enaid](https://open.spotify.com/artist/2SCjnxZujs0rLuH1ByLPP1), [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [Avalon \- a Celtic Legend](https://open.spotify.com/album/3Y4Qo7O9n5qCKPuOIQKKaE) | 3:40 | 2022-01-25 | 2022-07-12 |
 | [Saltarello \- Guillaume Dufay / Jordi Savall](https://open.spotify.com/track/5BHAKNY4j859CUXlCjsgaP) | [Guillaume Dufay](https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [La Capella Reial De Catalunya](https://open.spotify.com/artist/4dKYKf1IgHr64LifxxBVHM), [Hespèrion XXI](https://open.spotify.com/artist/6P09QK8EvzRliYA86yl6nt) | [The Borgia Dynasty](https://open.spotify.com/album/4dhdC05gC54Fmd52058w8I) | 2:12 | 2022-01-25 |  |
 | [Saltarello I & II](https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp) | [Giacomo Gorzanis](https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3), [Marc Lewon](https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV) | [Bis an der Welt ihr Ende](https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd) | 3:24 | 2022-01-25 |  |

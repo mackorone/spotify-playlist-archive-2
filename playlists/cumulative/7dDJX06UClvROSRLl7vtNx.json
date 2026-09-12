@@ -21155,6 +21155,28 @@
     },
     {
       "album": {
+        "name": "oceanside",
+        "url": "https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t"
+      },
+      "artists": [
+        {
+          "name": "XYSM",
+          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
+        },
+        {
+          "name": "Obren",
+          "url": "https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "oceanside",
+      "url": "https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb"
+    },
+    {
+      "album": {
         "name": "Off Limits",
         "url": "https://open.spotify.com/album/7eirDTfq1w5AAuJvVlLaOP"
       },
@@ -25042,6 +25064,32 @@
       "duration_ms": 146000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3gg8YRPZzx20SBnkbzN3ED"
+    },
+    {
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/4tRhcvod59P4Wt7Fv7HSsz"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Mallou",
+          "url": "https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196756,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/1Dh3bwCPqlAdgALAP5mUB5"
     },
     {
       "album": {

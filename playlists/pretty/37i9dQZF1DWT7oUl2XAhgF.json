@@ -1,13 +1,65 @@
 {
   "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 404985,
+  "num_followers": 405040,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+FrkO9WhU+U4oltLa4fQ4RA7Bl",
+  "snapshot_id": "AAAAAKIqHKYWKQgbx4czgUVNSa9JIEsd",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:00:58",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/6N7cSa014rQVqnRtd497o3"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 202110,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/4akuf0PPq62BsriUW7m2rJ"
+    },
+    {
+      "added_at": "2026-09-11 04:00:58",
+      "album": {
+        "name": "God of You",
+        "url": "https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 220428,
+      "name": "God of You",
+      "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
+    },
+    {
+      "added_at": "2026-09-11 04:00:58",
+      "album": {
+        "name": "Song Of You",
+        "url": "https://open.spotify.com/album/0oO65X3lkJTkASBFe5zJfl"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 169557,
+      "name": "Song Of You",
+      "url": "https://open.spotify.com/track/5s2qlmLKRIymjggsMeQI7H"
+    },
     {
       "added_at": "2026-08-14 04:01:05",
       "album": {
@@ -25,6 +77,22 @@
       "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
     },
     {
+      "added_at": "2026-09-11 04:00:58",
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m"
+    },
+    {
       "added_at": "2026-09-04 04:00:33",
       "album": {
         "name": "The Cure",
@@ -39,6 +107,26 @@
       "duration_ms": 232333,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/4aJxB28TaJFnGQTQ76kbJo"
+    },
+    {
+      "added_at": "2026-09-11 04:00:58",
+      "album": {
+        "name": "Getting There",
+        "url": "https://open.spotify.com/album/0EqVfbxkWrQpSO7jJJ1n9D"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        },
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 260005,
+      "name": "One Man\u2019s Trash (Is Another Man\u2019s Treasure)",
+      "url": "https://open.spotify.com/track/5zrKi3K4zVq3hivIlxEwRe"
     },
     {
       "added_at": "2026-09-04 04:00:33",
@@ -331,22 +419,6 @@
       "duration_ms": 231496,
       "name": "You Bring Me Joy",
       "url": "https://open.spotify.com/track/1FkP9zQJAPKJaW2RCR9LLg"
-    },
-    {
-      "added_at": "2026-03-27 04:00:06",
-      "album": {
-        "name": "365 Flavors",
-        "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 238410,
-      "name": "365 Flavors",
-      "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
     },
     {
       "added_at": "2026-03-20 04:00:30",
@@ -1525,22 +1597,6 @@
       "url": "https://open.spotify.com/track/0ip8o1lEyLkuG6M4HieVpq"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Love Moves Slow",
-        "url": "https://open.spotify.com/album/3MIhVa0KSPskdm8ZxgZRhN"
-      },
-      "artists": [
-        {
-          "name": "Eddie 9V",
-          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Love Moves Slow",
-      "url": "https://open.spotify.com/track/7Dtm1JGVXnXksAhyx3bPhV"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Nobody Knows",
@@ -1577,22 +1633,6 @@
       "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Your Team",
-        "url": "https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX"
-      },
-      "artists": [
-        {
-          "name": "Nia Wyn",
-          "url": "https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH"
-        }
-      ],
-      "duration_ms": 186274,
-      "name": "Your Team",
-      "url": "https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Won't Be Lonely",
@@ -1607,26 +1647,6 @@
       "duration_ms": 225522,
       "name": "Won't Be Lonely",
       "url": "https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Grow Old Together",
-        "url": "https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2"
-      },
-      "artists": [
-        {
-          "name": "Revel Day",
-          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
-        },
-        {
-          "name": "Anna Dellaria",
-          "url": "https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Grow Old Together",
-      "url": "https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1659,22 +1679,6 @@
       "duration_ms": 208325,
       "name": "Bad Advice - The Pool Sessions",
       "url": "https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Never Learnt To Pray",
-        "url": "https://open.spotify.com/album/26zH5zth76DXIT1qGYyVE8"
-      },
-      "artists": [
-        {
-          "name": "1ST VOWS",
-          "url": "https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Never Learnt To Pray",
-      "url": "https://open.spotify.com/track/4qKGMdTVoDhKnq1JCHvAAH"
     }
   ],
   "unique_name": "Retro Soul",

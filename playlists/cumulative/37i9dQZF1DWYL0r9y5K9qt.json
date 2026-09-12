@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: KATSEYE",
+  "description": "time to strike a couple of poses. cover: New Lore",
   "name": "poses",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "album": {
+        "name": "5/9",
+        "url": "https://open.spotify.com/album/7eo1Fqkj2MbyjWxXZh7apz"
+      },
+      "artists": [
+        {
+          "name": "Goy Arachaporn",
+          "url": "https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "5/9",
+      "url": "https://open.spotify.com/track/37lGk86yeOKZhwnm6SHylE"
     },
     {
       "album": {
@@ -124,7 +142,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183373,
       "name": "Angel(s)",
       "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 214045,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
@@ -804,7 +822,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 238180,
       "name": "Haru Ni Mau",
       "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
@@ -844,6 +862,24 @@
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
+    },
+    {
+      "album": {
+        "name": "Hit and Run",
+        "url": "https://open.spotify.com/album/4XYA6GKi56VFiF2PQcB4Gk"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213488,
+      "name": "Hit and Run",
+      "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
     },
     {
       "album": {
@@ -991,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "I Ruin, I Love",
+        "url": "https://open.spotify.com/album/1IsJ3QqUFODnouxPnao6w3"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "I Ruin, I Love",
+      "url": "https://open.spotify.com/track/79Jw5owZrm5dJq8zyvDDjn"
+    },
+    {
+      "album": {
         "name": "ICONIC HEART",
         "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
       },
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 227184,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/742EtNLdFsrSGAZ1Dni3t5"
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 216000,
       "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK"
@@ -1234,6 +1288,24 @@
       "duration_ms": 207200,
       "name": "LUCID DREAM",
       "url": "https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos"
+    },
+    {
+      "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
       "album": {
@@ -1349,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Miss Chacheap",
+        "url": "https://open.spotify.com/album/6TlbcfICONKpurronl1MCj"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Miss Chacheap",
+      "url": "https://open.spotify.com/track/2p2uX6VDrDK79TnhD34Pd0"
+    },
+    {
+      "album": {
         "name": "MISUNDERSTANDING",
         "url": "https://open.spotify.com/album/0yura5TIyIlTbnc6l3mVKz"
       },
@@ -1403,6 +1493,42 @@
     },
     {
       "album": {
+        "name": "Moonride",
+        "url": "https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Moonride",
+      "url": "https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg"
+    },
+    {
+      "album": {
+        "name": "Ms Conceited",
+        "url": "https://open.spotify.com/album/4drod6IcoXpeZdm22HGdlE"
+      },
+      "artists": [
+        {
+          "name": "DAINASAURS",
+          "url": "https://open.spotify.com/artist/0zahECcaw4ZSw8flJ0CTmk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ms Conceited",
+      "url": "https://open.spotify.com/track/1pqGcpCJvbMvLOvWJtHgGN"
+    },
+    {
+      "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I"
       },
@@ -1414,7 +1540,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
@@ -1540,7 +1666,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 170181,
       "name": "Opening Line",
       "url": "https://open.spotify.com/track/4SYuHF6mkmOm9kMEhZYSLv"
@@ -1558,7 +1684,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 164120,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/02bN0E0c3yZscn7WZ104rD"
@@ -1594,7 +1720,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 187124,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"

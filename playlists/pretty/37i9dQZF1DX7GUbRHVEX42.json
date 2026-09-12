@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1094831,
+  "num_followers": 1094787,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Rotation",
-        "url": "https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 167097,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 167097,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F"
+      },
+      "artists": [
+        {
+          "name": "Bitty McLean",
+          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
+        },
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 291186,
+      "name": "Let's Make Up",
+      "url": "https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "The Kalling",
         "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 213977,
       "name": "The Kalling",
       "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F"
-      },
-      "artists": [
-        {
-          "name": "Bitty McLean",
-          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
-        },
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 291186,
-      "name": "Let's Make Up",
-      "url": "https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Hustling In My Blood",
         "url": "https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 255221,
       "name": "Hustling In My Blood",
       "url": "https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198362,
       "name": "My World",
       "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Too Late to Lie",
-        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 219622,
-      "name": "Too Late to Lie",
-      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 189530,
       "name": "Finally",
       "url": "https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "GOOD TIMES",
         "url": "https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7"
       },
@@ -935,18 +951,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+        "name": "Mi Deh Yah",
+        "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
       },
       "artists": [
         {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Mixing Finga",
+          "url": "https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx"
         }
       ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
+      "duration_ms": 227404,
+      "name": "Mi Deh Yah",
+      "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -975,26 +995,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Mi Deh Yah",
-        "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Mixing Finga",
-          "url": "https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx"
-        }
-      ],
-      "duration_ms": 227404,
-      "name": "Mi Deh Yah",
-      "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Rose Petal",
         "url": "https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Step by Step",
-        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
-      },
-      "artists": [
-        {
-          "name": "Jah Lil",
-          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
-        }
-      ],
-      "duration_ms": 225168,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Perfectly With You",
         "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "duration_ms": 225168,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
+      },
+      "artists": [
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
-      },
-      "artists": [
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Set up Shop, Vol. 4",
+        "url": "https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "40 Days & 40 Nights (Pt. 2)",
+      "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "Love Is In The House",
         "url": "https://open.spotify.com/album/1ybrLjKrHe95IrKOztYFqV"
       },
@@ -1251,42 +1271,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Set up Shop, Vol. 4",
-        "url": "https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0"
+        "name": "Born A Rebel",
+        "url": "https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY"
       },
       "artists": [
         {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+          "name": "Lion D",
+          "url": "https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz"
         },
         {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+          "name": "Bizzarri",
+          "url": "https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie"
         }
       ],
-      "duration_ms": 176000,
-      "name": "40 Days & 40 Nights (Pt. 2)",
-      "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Refund",
-        "url": "https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp"
-      },
-      "artists": [
-        {
-          "name": "Through The Roots",
-          "url": "https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 204809,
-      "name": "Refund",
-      "url": "https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq"
+      "duration_ms": 217114,
+      "name": "Born A Rebel",
+      "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
     }
   ],
   "unique_name": "Irie",

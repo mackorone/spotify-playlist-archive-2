@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Caiden Wallace, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,497 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,550 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Same Place, Same Time](https://open.spotify.com/track/1zd5lh1vqOYEZ1vWOfKBRL) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Same Place, Same Time](https://open.spotify.com/album/48SHfHcWq9EGKI1DhFwSNH) | 2:46 |
 | 75 | [You Were the Man](https://open.spotify.com/track/7jXX6xMAGlypdiMlJtvNuQ) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [You Were the Man](https://open.spotify.com/album/7r4UpAYwaEKh3o9u1VFZXL) | 3:41 |
 
-Snapshot ID: `AAAAAGwBuGGLs/wnkxpw9762QaxtsSZJ`
+Snapshot ID: `AAAAAEATtwRGM1aku43DNFodwqCdevui`

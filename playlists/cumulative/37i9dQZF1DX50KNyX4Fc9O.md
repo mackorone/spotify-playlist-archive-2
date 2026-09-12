@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Jack Gray
 
-3,033 songs - 6 day 13 hr 1 min
+3,034 songs - 6 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1664,6 +1664,7 @@
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2023-11-23 | 2023-12-22 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-07-18 |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2024-11-21 | 2025-02-14 |
+| [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 | 2026-09-11 |  |
 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-07 | 2026-06-12 |
 | [make it right](https://open.spotify.com/track/4cKDJ78EukkczxwWvM1EAx) | [Gracie Moller](https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs) | [make it right](https://open.spotify.com/album/5X92HwUHm4Y3nROYmbRx7j) | 3:13 | 2023-08-31 | 2023-10-06 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/5lf4yuducTx1RZdSevHGMO) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5MsuDSyzQYhuL1U3mzgFKw) | 2:31 | 2024-12-05 | 2025-02-14 |

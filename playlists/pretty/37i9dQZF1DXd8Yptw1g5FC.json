@@ -1,12 +1,12 @@
 {
   "description": "Sena \u015eener ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 324645,
+  "num_followers": 325588,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHUZBJ5Z+fHhRJoHAuVS4bIuYXO",
+  "snapshot_id": "AAAAAK1Or8dvLedQxQhe6puemZivIevC",
   "tracks": [
     {
       "added_at": "2026-09-10 21:00:12",
@@ -247,6 +247,22 @@
       "duration_ms": 201957,
       "name": "Fields of Love",
       "url": "https://open.spotify.com/track/4QdRyyWxOPXOqR6POkOT6V"
+    },
+    {
+      "added_at": "2026-09-11 06:41:58",
+      "album": {
+        "name": "diva",
+        "url": "https://open.spotify.com/album/0Hj88oviMLCSBKju97NHkT"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        }
+      ],
+      "duration_ms": 127187,
+      "name": "diva",
+      "url": "https://open.spotify.com/track/4uBPQy3fLP8t6XFRTMLmHT"
     },
     {
       "added_at": "2026-09-10 21:00:12",
@@ -871,6 +887,22 @@
       "duration_ms": 121479,
       "name": "Mail",
       "url": "https://open.spotify.com/track/2wPyrkcdsLNxeFynjZtr50"
+    },
+    {
+      "added_at": "2026-09-10 21:00:12",
+      "album": {
+        "name": "Ahlak Terazisi",
+        "url": "https://open.spotify.com/album/6RSBbuZ6FpuzPaqkqjPQJR"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Mungan",
+          "url": "https://open.spotify.com/artist/2xFH2zKZ3l7keEEv21tXKZ"
+        }
+      ],
+      "duration_ms": 165883,
+      "name": "Ahlak Terazisi",
+      "url": "https://open.spotify.com/track/65t6K2tK3NgmoA33xet0ZJ"
     },
     {
       "added_at": "2026-09-10 21:00:12",
@@ -2183,6 +2215,38 @@
       "duration_ms": 132439,
       "name": "Yans\u0131n Kalp",
       "url": "https://open.spotify.com/track/4BL5xBaYEfWI9EkL04TPsC"
+    },
+    {
+      "added_at": "2026-09-10 21:00:12",
+      "album": {
+        "name": "Birbirimizin En G\u00fczeli",
+        "url": "https://open.spotify.com/album/5VB7HyFNIse3D52LDxltYN"
+      },
+      "artists": [
+        {
+          "name": "Burcu Aslan",
+          "url": "https://open.spotify.com/artist/1qX5WqyVAW9oBybezQNjWj"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "Birbirimizin En G\u00fczeli",
+      "url": "https://open.spotify.com/track/5a1sBNy0JjS4n8yypCSOgA"
+    },
+    {
+      "added_at": "2026-09-10 21:00:12",
+      "album": {
+        "name": "Bira ya da Votka",
+        "url": "https://open.spotify.com/album/2F3KAnixCayIOO9qDLejeF"
+      },
+      "artists": [
+        {
+          "name": "Eren Can",
+          "url": "https://open.spotify.com/artist/2jIBadm6tmGbPKZxTy9ywp"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bira ya da Votka",
+      "url": "https://open.spotify.com/track/5rXSOVL8N7asDMcBxuNICa"
     },
     {
       "added_at": "2026-09-10 21:00:12",

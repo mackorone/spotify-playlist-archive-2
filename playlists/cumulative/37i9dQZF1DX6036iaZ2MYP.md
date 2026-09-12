@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-1,370 songs - 2 day 15 hr 39 min
+1,370 songs - 2 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Aime comme ça \(la cité\) \(feat\. kulturr\)](https://open.spotify.com/track/0MH3MfF49TMB4KDFgtmK6f) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Emma'a Part.II \(Deluxe\)](https://open.spotify.com/album/2CbjMk5spHU8e3qV4WVVne) | 2:26 | 2025-01-09 | 2025-04-18 |
 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 | 2025-06-05 | 2025-08-08 |
 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-09 | 2025-02-28 |
+| [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 | 2026-09-10 |  |
 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 | 2025-05-22 | 2025-07-25 |
 | [Ali Bomaye](https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Ali Bomaye](https://open.spotify.com/album/1B7xewToSrEgG5AtuISwdx) | 2:28 | 2025-01-23 | 2025-03-07 |
 | [Alinko](https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Alinko](https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne) | 2:29 | 2023-09-28 | 2023-10-14 |
@@ -1264,7 +1265,6 @@
 | [TOUT DROIT](https://open.spotify.com/track/6IKWFt2x3R7szTflWaeQiC) | [La Synesia](https://open.spotify.com/artist/1xAkr1syMoClC66pHMk2Eq) | [TOUT DROIT](https://open.spotify.com/album/0TD72f1ncze2skY9yu6kfi) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [Toxic Love](https://open.spotify.com/track/7gldh8ogRFJliHUvVxJYho) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Toxic Love](https://open.spotify.com/album/5CnL5be3oL7LLwlR0mK6rm) | 2:28 | 2022-12-08 | 2023-05-19 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-12-01 | 2023-06-09 |
-| [Track 1](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 0:00 | 2026-09-10 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-14 | 2025-01-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-24 | 2025-05-16 |
 | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/track/294RbcQMqf9cbFelweoVMB) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/album/3ATu4GjZWHIEfldJduxQ4g) | 5:01 | 2023-06-22 | 2023-08-25 |

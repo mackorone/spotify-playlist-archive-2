@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "A Case of You (Arr. Osborne for Piano)",
+        "url": "https://open.spotify.com/album/6GqWEiG7xcQsKiYuSdUuMY"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "A Case of You (Arr. Osborne for Piano)",
+      "url": "https://open.spotify.com/track/0epa1JlvGlpKXFMG1A828N"
+    },
+    {
+      "album": {
         "name": "Uncharted",
         "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
       },
@@ -252,6 +274,40 @@
       "duration_ms": 264000,
       "name": "All Alone on Christmas",
       "url": "https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb"
+    },
+    {
+      "album": {
+        "name": "All by myself",
+        "url": "https://open.spotify.com/album/4JQ7i8FXeKignJoYO4t537"
+      },
+      "artists": [
+        {
+          "name": "Eric Howard Carmen",
+          "url": "https://open.spotify.com/artist/1lkhYCFpi5uj7g2EKhUt4e"
+        },
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198616,
+      "name": "All by myself",
+      "url": "https://open.spotify.com/track/6dCG0irIkoPq9Qjr2L6vrM"
     },
     {
       "album": {

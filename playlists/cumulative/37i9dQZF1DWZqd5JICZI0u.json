@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163434,
       "name": "Astray",
       "url": "https://open.spotify.com/track/1YDn3bachGQc2hZATanMH9"
@@ -1292,6 +1292,24 @@
       "duration_ms": 132500,
       "name": "Beautiful Light",
       "url": "https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ"
+    },
+    {
+      "album": {
+        "name": "Where The Light Begins",
+        "url": "https://open.spotify.com/album/0madwmALualJrqSwo9OFtb"
+      },
+      "artists": [
+        {
+          "name": "Vindviska",
+          "url": "https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Before The Warmth",
+      "url": "https://open.spotify.com/track/2g3yW6ZLhWl2rD4EtID6Dq"
     },
     {
       "album": {
@@ -8500,7 +8518,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 193179,
       "name": "Memory in Still Air",
       "url": "https://open.spotify.com/track/2DHFpmwkPtc7Uq6iFIM9eN"
@@ -9566,6 +9584,24 @@
       "duration_ms": 157261,
       "name": "Night Traveller",
       "url": "https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB"
+    },
+    {
+      "album": {
+        "name": "Night Under Branches",
+        "url": "https://open.spotify.com/album/7GgPwljZerRPJRNU5SaLs0"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Night Under Branches",
+      "url": "https://open.spotify.com/track/47k4WhHkbSVG76TMOLhohD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-621 songs - 1 day 12 hr 46 min
+622 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Muscle In](https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [Muscle In](https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT) | 4:04 | 2026-04-23 |  |
 | [Musiken som hörs från Rival](https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Revalution Club](https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D) | 4:29 | 2026-06-15 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
+| [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 | 2026-09-10 |  |
 | [Månen](https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Månen](https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2) | 2:39 | 2025-06-26 | 2026-03-15 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |
 | [Natten är ljus](https://open.spotify.com/track/2RLTQWWwXqDCB90BlBc8lR) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Natten är ljus](https://open.spotify.com/album/3FHIDROzjdjxwr3rwZFz3I) | 3:16 | 2025-08-14 | 2025-08-22 |
@@ -455,7 +456,7 @@
 | [Rädda mig](https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig](https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz) | 3:00 | 2025-02-14 | 2025-03-21 |
 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 | 2025-04-24 | 2025-06-13 |
 | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 | 2026-04-21 |
-| [Rök i dina ögon](https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx), [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza), [Popkollo](https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL) | [Rök i dina ögon](https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6) | 5:33 | 2026-06-11 |  |
+| [Rök i dina ögon](https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx), [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza), [Popkollo](https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL) | [Rök i dina ögon](https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6) | 5:33 | 2026-06-11 | 2026-09-12 |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 | 2025-03-11 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-05-30 |
 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 | 2026-03-12 |  |

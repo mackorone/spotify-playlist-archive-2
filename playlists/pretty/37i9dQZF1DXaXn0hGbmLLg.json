@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnhqOSlOxGW5rbdSLu9VZaTv/SB",
+  "snapshot_id": "AAAAADP+FteatjEUn3zRkxSRZq5vR29w",
   "tracks": [
     {
       "added_at": "2026-09-01 22:00:06",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "you did not sign up for this",
+        "url": "https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl"
+      },
+      "artists": [
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "you did not sign up for this",
+      "url": "https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "Bad Gurl Summah",
         "url": "https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 154392,
       "name": "Bad Gurl Summah",
       "url": "https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "you did not sign up for this",
-        "url": "https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl"
-      },
-      "artists": [
-        {
-          "name": "Judith",
-          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "you did not sign up for this",
-      "url": "https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "1 Keer Jong",
-        "url": "https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9"
-      },
-      "artists": [
-        {
-          "name": "Ceder",
-          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "1 Keer Jong",
-      "url": "https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Stoute schoenen",
         "url": "https://open.spotify.com/album/22GyytvsV4azUTmKLMi3bm"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Witte Vlag",
-        "url": "https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR"
+        "name": "1 Keer Jong",
+        "url": "https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9"
       },
       "artists": [
         {
-          "name": "Puck",
-          "url": "https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V"
+          "name": "Ceder",
+          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Witte Vlag",
-      "url": "https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM"
+      "duration_ms": 140540,
+      "name": "1 Keer Jong",
+      "url": "https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -443,18 +427,18 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Oh Zo Hopeloos",
-        "url": "https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik"
+        "name": "Witte Vlag",
+        "url": "https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR"
       },
       "artists": [
         {
-          "name": "Renee Rose",
-          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+          "name": "Puck",
+          "url": "https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V"
         }
       ],
-      "duration_ms": 166693,
-      "name": "Oh Zo Hopeloos",
-      "url": "https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH"
+      "duration_ms": 173714,
+      "name": "Witte Vlag",
+      "url": "https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -471,6 +455,22 @@
       "duration_ms": 156183,
       "name": "Rode Roos",
       "url": "https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "Oh Zo Hopeloos",
+        "url": "https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik"
+      },
+      "artists": [
+        {
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Oh Zo Hopeloos",
+      "url": "https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Alleen",
+        "url": "https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz"
+      },
+      "artists": [
+        {
+          "name": "SkyeIndy",
+          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Alleen",
-        "url": "https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz"
+        "name": "Mag ik vanavond bij je blijven?",
+        "url": "https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P"
       },
       "artists": [
         {
-          "name": "SkyeIndy",
-          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu"
+      "duration_ms": 195094,
+      "name": "Mag ik vanavond bij je blijven?",
+      "url": "https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -603,22 +619,6 @@
       "duration_ms": 191756,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Mag ik vanavond bij je blijven?",
-        "url": "https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "Mag ik vanavond bij je blijven?",
-      "url": "https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "The Different Lives of Lucy",
         "url": "https://open.spotify.com/album/6o3xGchVNgD8OmrwGByYls"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 227903,
       "name": "Lucy (Acoustic)",
       "url": "https://open.spotify.com/track/20SeS0DB6vYwf3z0muFz45"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Glow-Up Era",
-        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 136368,
-      "name": "Glow-Up Era",
-      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
     }
   ],
   "unique_name": "EQUAL Benelux",

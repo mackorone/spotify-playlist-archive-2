@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:17e35Wp915ZK8I2wCBT1Kd">Tommy WÁ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,503 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,528 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [Options](https://open.spotify.com/track/4fVMoYg7Rc2gHbFZEtHDKE) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [Options](https://open.spotify.com/album/1JaUoC4yYfc8PxZ76PY3FZ) | 3:40 |
 | 50 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 |
 
-Snapshot ID: `AAAAAHrZGfxsklHS7uvw9ywBPGerYuRv`
+Snapshot ID: `AAAAAALT/+DbbLC9BlvxTPpUHqiE6+OC`

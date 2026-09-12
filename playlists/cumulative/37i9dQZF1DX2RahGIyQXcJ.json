@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Karan Aujla\n",
+  "description": "Best of Desi Hip-Hop! Cover: Dhanda Nyoliwala\n",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 203076,
       "name": "2AM IN LONDON",
       "url": "https://open.spotify.com/track/6nMJpnzN1ZyasWXhL1GtEI"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169500,
       "name": "3AM AT FALLS",
       "url": "https://open.spotify.com/track/6AGm17Vuh8SSIw0UjOFDWA"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 210731,
       "name": "Apology",
       "url": "https://open.spotify.com/track/5bCsUQ7BryZTzNDKb9xBy8"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 184035,
       "name": "Bin Ranjha",
       "url": "https://open.spotify.com/track/5CP93fEfxJjqtAyCAGTAGR"
@@ -2255,6 +2255,28 @@
     },
     {
       "album": {
+        "name": "BOMBARI",
+        "url": "https://open.spotify.com/album/0sXf1Xa6O5kT72GjNZogOf"
+      },
+      "artists": [
+        {
+          "name": "SAIKEN",
+          "url": "https://open.spotify.com/artist/0MfYgzUcjm5sFLXcHWK7xF"
+        },
+        {
+          "name": "Sanom J",
+          "url": "https://open.spotify.com/artist/67A0RIVLMItqhjEiecU3IX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "BOMBARI",
+      "url": "https://open.spotify.com/track/1i4aBA0Wl8kv1bjt4htDYy"
+    },
+    {
+      "album": {
         "name": "Bombay",
         "url": "https://open.spotify.com/album/3uFYTqyJjHzgT2uzPdvOMV"
       },
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 221798,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/2c8Zgbc9RBI7rw1Pk3e3Py"
@@ -3251,6 +3273,28 @@
     },
     {
       "album": {
+        "name": "DESIGNERR",
+        "url": "https://open.spotify.com/album/0JhrOKVtgRifBE8FbX6q0f"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118867,
+      "name": "DESIGNERR",
+      "url": "https://open.spotify.com/track/3KJ0fn6X0q02CYNjEsOuuW"
+    },
+    {
+      "album": {
         "name": "Devil Crying On The Floor",
         "url": "https://open.spotify.com/album/3igHkfUtR1tPPtKzDXm3dK"
       },
@@ -3417,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Din Guzra",
+        "url": "https://open.spotify.com/album/1g3vu7INCJiG91az4q1cxk"
+      },
+      "artists": [
+        {
+          "name": "JANI",
+          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+        },
+        {
+          "name": "Rithmetic",
+          "url": "https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184390,
+      "name": "Din Guzra",
+      "url": "https://open.spotify.com/track/0dBcYWFoL41WqYFoBQE0tl"
+    },
+    {
+      "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
       },
@@ -3432,6 +3498,24 @@
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
+    },
+    {
+      "album": {
+        "name": "Do Numbari (From \u201cMirzapur The Movie\u201d)",
+        "url": "https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163695,
+      "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
     },
     {
       "album": {
@@ -4420,7 +4504,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177446,
       "name": "Galiyon Ke Ghalib",
       "url": "https://open.spotify.com/track/3l8GKFbkD1dRhAmzw6fInB"
@@ -4626,10 +4710,44 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 231044,
       "name": "GOAT SHIT",
       "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
+    },
+    {
+      "album": {
+        "name": "DESIGNERR",
+        "url": "https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215937,
+      "name": "GOD KNOWS",
+      "url": "https://open.spotify.com/track/2f6oDSkaNP3CG697R3tNtR"
     },
     {
       "album": {
@@ -4820,6 +4938,28 @@
       "duration_ms": 211480,
       "name": "Haryana Hood",
       "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
+    },
+    {
+      "album": {
+        "name": "Hashbrown",
+        "url": "https://open.spotify.com/album/6YwBfiShsJScT5nxvBbwzp"
+      },
+      "artists": [
+        {
+          "name": "Kim The Beloved",
+          "url": "https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC"
+        },
+        {
+          "name": "Kartik",
+          "url": "https://open.spotify.com/artist/0WzZnHBlbrOE7MpcN2AGhh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148578,
+      "name": "Hashbrown",
+      "url": "https://open.spotify.com/track/5pRmOLFfqEybt2C2hfmglZ"
     },
     {
       "album": {
@@ -5470,6 +5610,32 @@
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155820,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9"
     },
     {
       "album": {
@@ -6702,7 +6868,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181682,
       "name": "Living In The City",
       "url": "https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV"
@@ -6724,7 +6890,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 175200,
       "name": "Lock",
       "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
@@ -7005,6 +7171,40 @@
     },
     {
       "album": {
+        "name": "DESIGNERR",
+        "url": "https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Rap Demon",
+          "url": "https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243380,
+      "name": "MAFIA",
+      "url": "https://open.spotify.com/track/4wVdrxzPLkVM1MaVcGpbrr"
+    },
+    {
+      "album": {
         "name": "Maharani",
         "url": "https://open.spotify.com/album/6da96K6wuRyf61We22UBPe"
       },
@@ -7242,6 +7442,36 @@
       "duration_ms": 159456,
       "name": "Mary jane",
       "url": "https://open.spotify.com/track/6QYzfWI71FO0NattlD1GPa"
+    },
+    {
+      "album": {
+        "name": "Mehmaan",
+        "url": "https://open.spotify.com/album/5be6spawAi0nrGm8yzbcHo"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Marzi",
+      "url": "https://open.spotify.com/track/2mmA9toRZsgxte9kzB87YN"
     },
     {
       "album": {
@@ -8346,7 +8576,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 195692,
       "name": "OBVIOUS (feat. Hasan Raheem)",
       "url": "https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp"
@@ -9552,7 +9782,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189677,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/63CuNulGOZLL2whzNfnq5u"
@@ -9749,6 +9979,36 @@
     },
     {
       "album": {
+        "name": "Saade Tan Vehre (From \"Mitti De Putt\")",
+        "url": "https://open.spotify.com/album/1YGsk9QfaejeNLcOa4iFm2"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Tanvi Sharma",
+          "url": "https://open.spotify.com/artist/3n8g62X5MiJLU2PTUuknN2"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Saade Tan Vehre (From \"Mitti De Putt\")",
+      "url": "https://open.spotify.com/track/6Yu2ebGMpUwrkNDliGDL8W"
+    },
+    {
+      "album": {
         "name": "Saari Raat Ni Sona - Lofi",
         "url": "https://open.spotify.com/album/29bV3obLxm6AtVHMg416pn"
       },
@@ -9872,6 +10132,32 @@
       "duration_ms": 290360,
       "name": "Same Beef",
       "url": "https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC"
+    },
+    {
+      "album": {
+        "name": "Sargoshi",
+        "url": "https://open.spotify.com/album/1ANUXBw3AUVUUXfFpbIcY7"
+      },
+      "artists": [
+        {
+          "name": "CGF",
+          "url": "https://open.spotify.com/artist/09b4lIrEt7y51tHKvpKtFK"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Mustafa Ansary",
+          "url": "https://open.spotify.com/artist/5vDKZEJxntFg7beb1Dul8z"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "Sargoshi",
+      "url": "https://open.spotify.com/track/0ykymzQ4wnbXn6URdABwfN"
     },
     {
       "album": {
@@ -10542,7 +10828,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212000,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/23vGmoyXzr1R1Hjh0jTU5v"

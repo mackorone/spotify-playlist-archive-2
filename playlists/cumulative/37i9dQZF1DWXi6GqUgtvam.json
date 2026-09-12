@@ -1333,6 +1333,32 @@
     },
     {
       "album": {
+        "name": "Machaut",
+        "url": "https://open.spotify.com/album/0Kdzd5BTd4S9cwcRZ0IzYM"
+      },
+      "artists": [
+        {
+          "name": "Guillaume de Machaut",
+          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+        },
+        {
+          "name": "Tim Keeler",
+          "url": "https://open.spotify.com/artist/027v3Yqn168mUkTYWKptif"
+        },
+        {
+          "name": "Matthew Mazzola",
+          "url": "https://open.spotify.com/artist/7MFPYEwk08WeTSPkpPm746"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375826,
+      "name": "Riches d\u2019amour",
+      "url": "https://open.spotify.com/track/3Ko9NKqIOhYVhDW9TS1G9k"
+    },
+    {
+      "album": {
         "name": "Avalon - a Celtic Legend",
         "url": "https://open.spotify.com/album/3Y4Qo7O9n5qCKPuOIQKKaE"
       },

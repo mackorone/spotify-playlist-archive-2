@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,506 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,500 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
 | 100 | [Sonya](https://open.spotify.com/track/7ELeq4ReJcL4tlafps77OW) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Sonya](https://open.spotify.com/album/3csU0vNyY7fBrFnZdVYTCr) | 2:37 |
 
-Snapshot ID: `AAAAABnfFeTpNwW+IjWz38h8J4JlwyfB`
+Snapshot ID: `AAAAAGAwSNOL7Bwyur42RNg906wYuEG3`

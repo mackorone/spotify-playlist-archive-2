@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Sindika
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,617 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,688 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [F I R S T S T E P](https://open.spotify.com/track/0Jw8XVoDNyQmtrxpMFNHvb) | [Le JK](https://open.spotify.com/artist/2Tcb87jvCwuGVmXkUS6jSA), [Toto le Banzou](https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh) | [F I R S T S T E P](https://open.spotify.com/album/7HMEdomw55BQeBlr8T2aEO) | 4:10 |
 | 50 | [BÉNI](https://open.spotify.com/track/6PzGPwx1VtsEOg5q1FjSGr) | [Mh](https://open.spotify.com/artist/3la0Pjyy2jaYw2cvMXuc4V) | [ROOKIE](https://open.spotify.com/album/7imy9waZqVteDr9wprZdre) | 2:41 |
 
-Snapshot ID: `AAAAAI4F0w9MRLHhuP7IUl1fe55V1aJu`
+Snapshot ID: `AAAAABAT0T7Fz49P8ABJLlt0XaDcHxAh`

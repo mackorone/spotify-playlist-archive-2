@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Maz B from Winnipeg, MB.",
+  "description": "Your guide to R&B in Canada, with Andye & Savannah R\u00e9 from Toronto, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -110,6 +110,32 @@
       "duration_ms": 137732,
       "name": "1 Room",
       "url": "https://open.spotify.com/track/5yHNaGpYlw0DKhd178cHaZ"
+    },
+    {
+      "album": {
+        "name": "Burd's Eye View",
+        "url": "https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd"
+      },
+      "artists": [
+        {
+          "name": "Burd & Keyz",
+          "url": "https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W"
+        },
+        {
+          "name": "HRTBRKFEVER",
+          "url": "https://open.spotify.com/artist/06GLPi98waSpe7XKMjFfUe"
+        },
+        {
+          "name": "Devont\u00e9e Woe",
+          "url": "https://open.spotify.com/artist/3NpKc1xLhkWG0kDKiM3MPH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "1 Strike",
+      "url": "https://open.spotify.com/track/3E7n7acI76jQujE2iCs26Q"
     },
     {
       "album": {
@@ -1849,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/4ex21PDNsSdsyGgPiaUOEg"
+      },
+      "artists": [
+        {
+          "name": "TEAL",
+          "url": "https://open.spotify.com/artist/5NytFJvO3EADsrWT0KWufj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/0qypuARp05aHkuPOdYlHTM"
+    },
+    {
+      "album": {
         "name": "Another",
         "url": "https://open.spotify.com/album/2wS9q6nJ6AL1KhRaD3JDc7"
       },
@@ -2558,7 +2602,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 144951,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1tgtF6WzgYOPaIWKKhoBgC"
@@ -4250,6 +4294,28 @@
       "duration_ms": 216953,
       "name": "BULLSEYE",
       "url": "https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k"
+    },
+    {
+      "album": {
+        "name": "Burd's Eye View",
+        "url": "https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd"
+      },
+      "artists": [
+        {
+          "name": "Burd & Keyz",
+          "url": "https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W"
+        },
+        {
+          "name": "Tarik Henry",
+          "url": "https://open.spotify.com/artist/6dde3QkHvS1qojzrx9JBJf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113632,
+      "name": "Burdy's Prayer (I Want To Love You)",
+      "url": "https://open.spotify.com/track/6Q9cZA8S9zBsNNUbZwJqAi"
     },
     {
       "album": {
@@ -8306,7 +8372,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 158666,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
@@ -9378,7 +9444,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189127,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/51YwDNOHSWcg8tsuWURW6H"
@@ -10848,6 +10914,24 @@
       "duration_ms": 138374,
       "name": "Give Your All",
       "url": "https://open.spotify.com/track/192Sf8js0BacEgSV3tMfI2"
+    },
+    {
+      "album": {
+        "name": "CHASING / STILL",
+        "url": "https://open.spotify.com/album/6n2zC1TWHfkVCw6ABAmD6A"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jose",
+          "url": "https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291677,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/1WstmAB4dxpyd6KQsws06R"
     },
     {
       "album": {
@@ -12676,7 +12760,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183189,
       "name": "HOPE THIS FINDS U WELL",
       "url": "https://open.spotify.com/track/6omhGSjnKBfb0WIV9OnPhg"
@@ -14434,6 +14518,24 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/49Lx6HWlrTecKrmIwpbvmv"
+      },
+      "artists": [
+        {
+          "name": "EB3N",
+          "url": "https://open.spotify.com/artist/3BwAAR1uCuMrml0o8WnjNu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136334,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/3SA9HfNfs5qAWXCuSl2593"
     },
     {
       "album": {
@@ -18888,7 +18990,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 161254,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/16usyTcUKnWBduD3R2PPlG"
@@ -19950,6 +20052,24 @@
       "duration_ms": 168675,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
+    },
+    {
+      "album": {
+        "name": "nobody else matters",
+        "url": "https://open.spotify.com/album/2XXqrCSbVdPPhhLR8d8tNZ"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "nobody else matters",
+      "url": "https://open.spotify.com/track/1ZYkn14gTBCiu3tN5LnzSN"
     },
     {
       "album": {
@@ -24660,7 +24780,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 127386,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/1pI9fT4KIqDMP3yAUzX1Rp"
@@ -24754,6 +24874,28 @@
       "duration_ms": 214738,
       "name": "Sad on Ac*d",
       "url": "https://open.spotify.com/track/2Q0dpr3plHBqHDlSmugXhj"
+    },
+    {
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        },
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170811,
+      "name": "Safe (feat. Savannah R\u00e9)",
+      "url": "https://open.spotify.com/track/03NddMz8erSpjjioDecBh4"
     },
     {
       "album": {
@@ -30620,7 +30762,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168000,
       "name": "TOP TIER",
       "url": "https://open.spotify.com/track/2rlBN7HTusitO9uyDB3qrl"

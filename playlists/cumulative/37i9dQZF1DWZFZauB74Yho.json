@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 158250,
       "name": "3AM (Trucker's Cattle Call)",
       "url": "https://open.spotify.com/track/1quxeFdz67ZPXPZoPXLWfM"
@@ -1231,6 +1231,48 @@
     },
     {
       "album": {
+        "name": "Bound to Ride",
+        "url": "https://open.spotify.com/album/4ZgqycIjE4EAjdF3j7PyLR"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "The First Ladies of Bluegrass",
+          "url": "https://open.spotify.com/artist/3ZZGP49joWefo1U7xCsDqt"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Becky Buller",
+          "url": "https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202408,
+      "name": "Bound to Ride",
+      "url": "https://open.spotify.com/track/4EwWlhWmjoFleJ3H8SEaz9"
+    },
+    {
+      "album": {
         "name": "Look Up",
         "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
       },
@@ -1656,6 +1698,24 @@
       "duration_ms": 236560,
       "name": "Clothesline",
       "url": "https://open.spotify.com/track/5VEekUUajbBcWFbNMddk1L"
+    },
+    {
+      "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/2bt4opht5uTewM4NduOLmr"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Coal Mining Town",
+      "url": "https://open.spotify.com/track/7MfKkPcYg6Ge4DOj8F7QTe"
     },
     {
       "album": {
@@ -5422,7 +5482,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 199648,
       "name": "Let 'em Know I'm From Virginia",
       "url": "https://open.spotify.com/track/4SW9UpD2l0lXDPkK1JrvUL"
@@ -6094,7 +6154,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 268294,
       "name": "Madison",
       "url": "https://open.spotify.com/track/2I8QAyimjFMSY6MjCEXjp8"
@@ -6112,7 +6172,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 231874,
       "name": "Magic Accident",
       "url": "https://open.spotify.com/track/5vypHtcvQNHK2TNFaednYJ"
@@ -7911,6 +7971,28 @@
     },
     {
       "album": {
+        "name": "Red Dirt Girl",
+        "url": "https://open.spotify.com/album/1Z3Ss91bGsPWgcvWAaSb5p"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268738,
+      "name": "Red Dirt Girl",
+      "url": "https://open.spotify.com/track/04Vym9v5RfBIGDDe39SpLQ"
+    },
+    {
+      "album": {
         "name": "Red River Valley",
         "url": "https://open.spotify.com/album/7F8mu93dUAs2W40tSEaZzM"
       },
@@ -8188,6 +8270,24 @@
       "duration_ms": 289445,
       "name": "Rocky Mountain High (with Trampled by Turtles)",
       "url": "https://open.spotify.com/track/1UEXIRnE5xqYZ5nU3yXuVu"
+    },
+    {
+      "album": {
+        "name": "Rocky Top Bottom",
+        "url": "https://open.spotify.com/album/18G0mdGOO5GzHa7hs6Kdiu"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Rocky Top Bottom",
+      "url": "https://open.spotify.com/track/1THG9yEQmGtdjCEp6en9Rw"
     },
     {
       "album": {
@@ -9398,7 +9498,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 302000,
       "name": "The Devil Went Down to Deep Gap",
       "url": "https://open.spotify.com/track/0pUBXgIdM27fY0qFx7eq5o"
@@ -10834,6 +10934,24 @@
       "duration_ms": 253482,
       "name": "Whiskey Drinking Man (Single Version) [Live]",
       "url": "https://open.spotify.com/track/5jnBy8HmRXrG3PttGsFJm9"
+    },
+    {
+      "album": {
+        "name": "White Liar",
+        "url": "https://open.spotify.com/album/0GsZimByYRgvlaPIm8zuTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "White Liar",
+      "url": "https://open.spotify.com/track/1y2PWigJdmBy3miAXaA9g3"
     },
     {
       "album": {

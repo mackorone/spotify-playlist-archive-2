@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5r3Eh3JqYWnSCIW21AxFm2"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264976,
+      "name": "If",
+      "url": "https://open.spotify.com/track/5792Q5zjlNaQS6d9qG9J0q"
+    },
+    {
+      "album": {
         "name": "Awai / Ikoi",
         "url": "https://open.spotify.com/album/7Av6OIQIXPtfvjLLwZsRiS"
       },
@@ -3345,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis Two",
+        "url": "https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416384,
+      "name": "Metamorphosis Two",
+      "url": "https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },
@@ -3562,6 +3598,24 @@
       "duration_ms": 165247,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX"
+    },
+    {
+      "album": {
+        "name": "Inward",
+        "url": "https://open.spotify.com/album/03Fj6xSYUyPAlxz1xJqeLC"
+      },
+      "artists": [
+        {
+          "name": "Dan Lambert",
+          "url": "https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202481,
+      "name": "Morning Static",
+      "url": "https://open.spotify.com/track/5HLPj5YMgw1v75AEYe42kA"
     },
     {
       "album": {

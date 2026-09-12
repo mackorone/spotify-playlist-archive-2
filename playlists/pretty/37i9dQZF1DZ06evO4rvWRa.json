@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635943,
+  "num_followers": 1635959,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAC/6P9Iog1Z8rj7PnAISrV9",
+  "snapshot_id": "aqHzAAAAAABxF3oheoZVUBt0eXOYmVZ/",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slowed",
+        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Faded - Slowed Remix",
+      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 123624,
       "name": "Fire!",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slowed",
-        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Faded - Slowed Remix",
-      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
     },
     {
       "added_at": null,

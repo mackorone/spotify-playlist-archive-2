@@ -1,12 +1,12 @@
 {
   "description": "New music from your favorite women.  Cover: Kelela",
-  "num_followers": 233154,
+  "num_followers": 233169,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMwgPVk53cFEA+OoqbzHFY8pUObk",
+  "snapshot_id": "AAAAAHBroZVR3jYteGsVg2SWF8DTYXq+",
   "tracks": [
     {
       "added_at": "2026-09-04 04:00:06",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
     },
     {
+      "added_at": "2026-09-11 04:27:47",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 207555,
+      "name": "Ceiling (Freestyle)",
+      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
+    },
+    {
       "added_at": "2026-07-04 13:00:20",
       "album": {
         "name": "MORNING DEW (DONK)",
@@ -79,6 +95,22 @@
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
+      "added_at": "2026-09-11 04:27:47",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-08-21 05:11:39",
@@ -117,6 +149,22 @@
       "url": "https://open.spotify.com/track/6MbYmJ1oLDZ34LkqnyRrS2"
     },
     {
+      "added_at": "2026-09-11 04:27:47",
+      "album": {
+        "name": "ATTITUDE ERA!",
+        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 198142,
+      "name": "SHOW ME RIGHT!",
+      "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
+    },
+    {
       "added_at": "2026-09-04 04:00:06",
       "album": {
         "name": "I Miss The City / Gymnastics",
@@ -131,6 +179,22 @@
       "duration_ms": 180986,
       "name": "I Miss The City",
       "url": "https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc"
+    },
+    {
+      "added_at": "2026-09-11 04:27:47",
+      "album": {
+        "name": "Pillow Fight / I\u2019d Rather Be Alone",
+        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 141315,
+      "name": "Pillow Fight",
+      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
     },
     {
       "added_at": "2026-08-14 05:27:37",
@@ -223,6 +287,22 @@
       "duration_ms": 240466,
       "name": "Gentlewoman",
       "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
+    },
+    {
+      "added_at": "2026-09-11 04:27:47",
+      "album": {
+        "name": "God of You",
+        "url": "https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 220428,
+      "name": "God of You",
+      "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
     },
     {
       "added_at": "2026-08-28 04:47:31",
@@ -1001,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3v5zEJ439BTtSUZQoAMUDi"
     },
     {
-      "added_at": "2026-07-31 05:36:39",
-      "album": {
-        "name": "onyx",
-        "url": "https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI"
-      },
-      "artists": [
-        {
-          "name": "halima",
-          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
-        }
-      ],
-      "duration_ms": 213180,
-      "name": "onyx",
-      "url": "https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX"
-    },
-    {
       "added_at": "2026-07-24 05:11:08",
       "album": {
         "name": "THE NAIJAMERICAN DREAM",
@@ -1543,26 +1607,6 @@
       "duration_ms": 162000,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7uKoJBYPqduAuuxmduQYse"
-    },
-    {
-      "added_at": "2026-06-19 08:20:06",
-      "album": {
-        "name": "baby, can we?",
-        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 246422,
-      "name": "baby, can we?",
-      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -2731,22 +2775,6 @@
       "duration_ms": 179146,
       "name": "Things We Do",
       "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
     },
     {
       "added_at": "2025-11-21 11:20:02",

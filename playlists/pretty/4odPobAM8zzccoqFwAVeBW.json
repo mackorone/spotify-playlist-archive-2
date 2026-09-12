@@ -6,8 +6,436 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABNz8qIAYPSPlz/zKRYdkQHPc7gIJiq",
+  "snapshot_id": "AABN/EvGb0Y/JXEU9HDMQr5J3fMCwrnf",
   "tracks": [
+    {
+      "added_at": "2026-09-11 15:01:42",
+      "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/1w2ebE8brQybkAVoxf1Vtd"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        }
+      ],
+      "duration_ms": 218294,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/5rKw5CvbIU0tqP7S8tuOBD"
+    },
+    {
+      "added_at": "2026-09-11 14:57:12",
+      "album": {
+        "name": "Speed Demon",
+        "url": "https://open.spotify.com/album/74gndeTlN8vrnGt3T4qbGe"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Speed Demon",
+      "url": "https://open.spotify.com/track/3KMYdSspfjUAHskDd1yNuq"
+    },
+    {
+      "added_at": "2026-09-11 14:59:38",
+      "album": {
+        "name": "Nothing to Teach",
+        "url": "https://open.spotify.com/album/1aS5W0IXSsxLEiSJmPFVOU"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Nothing to Teach",
+      "url": "https://open.spotify.com/track/4dGWDxdFBeXQsS70rPqhBw"
+    },
+    {
+      "added_at": "2026-09-11 15:00:14",
+      "album": {
+        "name": "Linens Should Be Freshly Pressed",
+        "url": "https://open.spotify.com/album/6okp7Nj2uhceG5ykct7KNo"
+      },
+      "artists": [
+        {
+          "name": "The Van Pelt",
+          "url": "https://open.spotify.com/artist/3EhFI2URDazN3fp9PqHLrt"
+        }
+      ],
+      "duration_ms": 261344,
+      "name": "Linens Should Be Freshly Pressed",
+      "url": "https://open.spotify.com/track/4F7Gmb5YgLk51Oy0nTXnTA"
+    },
+    {
+      "added_at": "2026-09-11 14:59:57",
+      "album": {
+        "name": "Old Gold",
+        "url": "https://open.spotify.com/album/17dl2ybBZrmOxDVrcsh9na"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 460506,
+      "name": "Old Gold",
+      "url": "https://open.spotify.com/track/1euHTcLzGTIOJa3iraTqyn"
+    },
+    {
+      "added_at": "2026-09-11 14:52:09",
+      "album": {
+        "name": "#ITSOVER",
+        "url": "https://open.spotify.com/album/7zsSqBg4UixvI5NpsVAPh4"
+      },
+      "artists": [
+        {
+          "name": "Starkey",
+          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "#ITSOVER",
+      "url": "https://open.spotify.com/track/2n8FYa1ywqUB28RuaxDwu1"
+    },
+    {
+      "added_at": "2026-09-11 14:53:12",
+      "album": {
+        "name": "aura (oqbqbo Remix)",
+        "url": "https://open.spotify.com/album/3gP8hrGCWPfDNdr4xAJpof"
+      },
+      "artists": [
+        {
+          "name": "oqbqbo",
+          "url": "https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw"
+        },
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "aura - oqbqbo Remix",
+      "url": "https://open.spotify.com/track/1JH9nIrDJlHWOz6M7ArHBB"
+    },
+    {
+      "added_at": "2026-09-11 15:01:05",
+      "album": {
+        "name": "Scary Movies",
+        "url": "https://open.spotify.com/album/3cZ1sOdZsTXaVwdDcsrhqe"
+      },
+      "artists": [
+        {
+          "name": "British Birds",
+          "url": "https://open.spotify.com/artist/3qeG4iaWZCauchpE2pgHfx"
+        }
+      ],
+      "duration_ms": 206951,
+      "name": "Scary Movies",
+      "url": "https://open.spotify.com/track/7u9fKK5XGNMuTvIn3dd5w2"
+    },
+    {
+      "added_at": "2026-09-11 14:52:34",
+      "album": {
+        "name": "Northern Earth",
+        "url": "https://open.spotify.com/album/191B730Nvt4DBuxpelLUkc"
+      },
+      "artists": [
+        {
+          "name": "Dean McPhee",
+          "url": "https://open.spotify.com/artist/03e5fOAlIihf7ZwVG3OkQE"
+        }
+      ],
+      "duration_ms": 321812,
+      "name": "Indica Fields",
+      "url": "https://open.spotify.com/track/6MSxtPT6WBFIoaBonXlzDp"
+    },
+    {
+      "added_at": "2026-09-11 14:54:05",
+      "album": {
+        "name": "Thrice Around the Witches Stone",
+        "url": "https://open.spotify.com/album/3usmTuotDA1Ee2FlEC20Sl"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 231423,
+      "name": "Thrice Around the Witches Stone",
+      "url": "https://open.spotify.com/track/5OoJAL0UbolqiKQtRWWIsG"
+    },
+    {
+      "added_at": "2026-09-11 14:51:52",
+      "album": {
+        "name": "Death Exhibition",
+        "url": "https://open.spotify.com/album/0vFCnIdQlbCb4B1VL8sR42"
+      },
+      "artists": [
+        {
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/5slrzsoL6Evq0jTM1dr6pL"
+        }
+      ],
+      "duration_ms": 246337,
+      "name": "Mental Butchery",
+      "url": "https://open.spotify.com/track/4tiRQ0UCxOG8ezumPO3SWg"
+    },
+    {
+      "added_at": "2026-09-11 14:53:31",
+      "album": {
+        "name": "Good Attention",
+        "url": "https://open.spotify.com/album/5dSl3tt6dgzypYNohXShK8"
+      },
+      "artists": [
+        {
+          "name": "Apology Kink",
+          "url": "https://open.spotify.com/artist/1XZVkjalUDl9SsU8yHYeBT"
+        }
+      ],
+      "duration_ms": 224005,
+      "name": "Good Attention",
+      "url": "https://open.spotify.com/track/6r6vh89kOdZsnP6TzgSf9r"
+    },
+    {
+      "added_at": "2026-09-11 14:53:49",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/6CpkLgakn6JmbCPhkPzxIO"
+      },
+      "artists": [
+        {
+          "name": "The Ovines",
+          "url": "https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n"
+        }
+      ],
+      "duration_ms": 148542,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/5oMpudurhFIcZzzZrP1gdG"
+    },
+    {
+      "added_at": "2026-09-11 15:00:43",
+      "album": {
+        "name": "Gouge",
+        "url": "https://open.spotify.com/album/2DAqVqu5zFe3yTLhzm5hr3"
+      },
+      "artists": [
+        {
+          "name": "Guillotine",
+          "url": "https://open.spotify.com/artist/1OGpVR0fRZj44099uDj3Sg"
+        },
+        {
+          "name": "Will Gould",
+          "url": "https://open.spotify.com/artist/6BNEcEIvdvbPM5GqKQ0wuv"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Gouge",
+      "url": "https://open.spotify.com/track/5nz7G2OyWBe8vhXWD2jE09"
+    },
+    {
+      "added_at": "2026-09-11 14:54:24",
+      "album": {
+        "name": "Goon Club Allstars & Friends Volume 3",
+        "url": "https://open.spotify.com/album/3VPRZjZSvijNAzV3KiRnBA"
+      },
+      "artists": [
+        {
+          "name": "Surreal Sessions",
+          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
+        }
+      ],
+      "duration_ms": 226197,
+      "name": "Dragon Warrior",
+      "url": "https://open.spotify.com/track/63A5y9w3tPliujoBhamAYI"
+    },
+    {
+      "added_at": "2026-09-11 15:01:26",
+      "album": {
+        "name": "Irene",
+        "url": "https://open.spotify.com/album/2ByQRnLGFpQn8fDpepduHk"
+      },
+      "artists": [
+        {
+          "name": "The Baby Seals",
+          "url": "https://open.spotify.com/artist/6dPxlBjTjehWM4VRwl2bmw"
+        }
+      ],
+      "duration_ms": 390266,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/2Ed3OHkXvYtlaJwkFJUqb9"
+    },
+    {
+      "added_at": "2026-09-11 14:54:52",
+      "album": {
+        "name": "Valmistaudu sotaan",
+        "url": "https://open.spotify.com/album/4QS7jCFhoettyshVNzC88l"
+      },
+      "artists": [
+        {
+          "name": "Kohti Tuhoa",
+          "url": "https://open.spotify.com/artist/0lZWMjVWFHrSulpGmIqUXf"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Valmistaudu sotaan",
+      "url": "https://open.spotify.com/track/1KEglfjAWflSPzT5BpYqex"
+    },
+    {
+      "added_at": "2026-09-11 14:55:11",
+      "album": {
+        "name": "becoming tardigrade",
+        "url": "https://open.spotify.com/album/1UsbdafIZQRpoE6f6z70JD"
+      },
+      "artists": [
+        {
+          "name": "Big Flowers",
+          "url": "https://open.spotify.com/artist/0NhPSg4BoR15rey1i0orN9"
+        }
+      ],
+      "duration_ms": 167737,
+      "name": "becoming tardigrade",
+      "url": "https://open.spotify.com/track/5kSkj2rTZCsMNqb7wYRGy4"
+    },
+    {
+      "added_at": "2026-09-11 14:58:32",
+      "album": {
+        "name": "Bj\u00e4rtr\u00e5 Tv\u00e5",
+        "url": "https://open.spotify.com/album/35ZJwivzWUkyp1kKdFfMSo"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 311415,
+      "name": "Bj\u00e4rtr\u00e5 Tv\u00e5",
+      "url": "https://open.spotify.com/track/1WZ5oEaCTLUw5ZsfCF2upX"
+    },
+    {
+      "added_at": "2026-09-11 14:58:12",
+      "album": {
+        "name": "Outlier (Edit)",
+        "url": "https://open.spotify.com/album/4qKlKlog4OxYRRIVjDEyy0"
+      },
+      "artists": [
+        {
+          "name": "Ye Gods",
+          "url": "https://open.spotify.com/artist/2zyltGXZo5v2S42ucaGJFx"
+        }
+      ],
+      "duration_ms": 310696,
+      "name": "Outlier - Edit",
+      "url": "https://open.spotify.com/track/7MTEyth4c7v6vDlmTKUmGz"
+    },
+    {
+      "added_at": "2026-09-11 14:55:31",
+      "album": {
+        "name": "Ghostwriter I",
+        "url": "https://open.spotify.com/album/4RlRK8B4SNExzFlaPUf1Tv"
+      },
+      "artists": [
+        {
+          "name": "Raz Mesinai",
+          "url": "https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y"
+        }
+      ],
+      "duration_ms": 422225,
+      "name": "Ghostwriter I",
+      "url": "https://open.spotify.com/track/3aDL41Xq0QAy8X7hF8QfjU"
+    },
+    {
+      "added_at": "2026-09-11 14:55:54",
+      "album": {
+        "name": "Hemorrhoid / Sequestrum- Split",
+        "url": "https://open.spotify.com/album/2POUeoBpywrQgrJezBmYYh"
+      },
+      "artists": [
+        {
+          "name": "Hemorrhoid",
+          "url": "https://open.spotify.com/artist/1MPDiabKkyc5TwZebLEikV"
+        }
+      ],
+      "duration_ms": 102800,
+      "name": "Desecrated Cavity",
+      "url": "https://open.spotify.com/track/64AgCfae6fFtFhdZngolVC"
+    },
+    {
+      "added_at": "2026-09-11 14:59:22",
+      "album": {
+        "name": "Was It Just A Dream?",
+        "url": "https://open.spotify.com/album/6mIE4jkxPilYhFHGWWGn5J"
+      },
+      "artists": [
+        {
+          "name": "Talulah Gosh",
+          "url": "https://open.spotify.com/artist/3twRxnjZrSKByPGQErO6V8"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "Talulah Gosh",
+      "url": "https://open.spotify.com/track/0mhiRVYz3cremvtoolEMuh"
+    },
+    {
+      "added_at": "2026-09-11 14:56:11",
+      "album": {
+        "name": "Going Through",
+        "url": "https://open.spotify.com/album/1J1MHpPHONiDXgC6nArMQJ"
+      },
+      "artists": [
+        {
+          "name": "Sofftness",
+          "url": "https://open.spotify.com/artist/1YjWGmLZpholGUwgCf38tk"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Going Through",
+      "url": "https://open.spotify.com/track/36OYegU6DfijLaihqxxvfM"
+    },
+    {
+      "added_at": "2026-09-11 14:57:51",
+      "album": {
+        "name": "Giga",
+        "url": "https://open.spotify.com/album/3BLhfI4eiqQRrIxXSafL6T"
+      },
+      "artists": [
+        {
+          "name": "Renato Grieco",
+          "url": "https://open.spotify.com/artist/6z6HOPiwpYTFdSRWGvyYHk"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Giga",
+      "url": "https://open.spotify.com/track/5sj3yzjsd2e2RDjqtDanFW"
+    },
+    {
+      "added_at": "2026-09-11 14:51:33",
+      "album": {
+        "name": "Red Sulphur",
+        "url": "https://open.spotify.com/album/34WuQ3HR45VyfJtknqWpJz"
+      },
+      "artists": [
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        },
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/5TokO3SV9TPaGArsR5nyYa"
+        }
+      ],
+      "duration_ms": 2366000,
+      "name": "Red Sulphur",
+      "url": "https://open.spotify.com/track/1hB5Me4FuJaqSwnRlUAM2L"
+    },
     {
       "added_at": "2026-08-28 09:43:57",
       "album": {

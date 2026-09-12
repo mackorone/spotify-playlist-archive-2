@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47361,
+  "num_followers": 47364,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAC9Yed5PnHMNMG240e5Nrcu",
+  "snapshot_id": "aqHzAAAAAACvNalw5vG/JSH5pjD5xYH9",
   "tracks": [
     {
       "added_at": null,
@@ -174,11 +174,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 148000,
-      "name": "scrape",
-      "url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
+      "duration_ms": 160000,
+      "name": "roxy reynolds (with Destroy Lonely)",
+      "url": "https://open.spotify.com/track/2Wc9hiOkdfsqRssISuG1Gw"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 160000,
-      "name": "roxy reynolds (with Destroy Lonely)",
-      "url": "https://open.spotify.com/track/2Wc9hiOkdfsqRssISuG1Gw"
+      "duration_ms": 148000,
+      "name": "scrape",
+      "url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
     },
     {
       "added_at": null,

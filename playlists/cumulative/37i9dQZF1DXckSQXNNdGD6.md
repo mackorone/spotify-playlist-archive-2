@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Yoly Saa.
 
-367 songs - 17 hr 56 min
+368 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Santo](https://open.spotify.com/track/0f9jzpBVwDhaOIHH8SRRUw) | [Kadriana Massri](https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz) | [Santo](https://open.spotify.com/album/0iClGLoYQyJtqoYmAUq7dB) | 2:37 | 2025-10-01 | 2025-11-05 |
 | [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 | 2025-03-04 | 2025-04-07 |
 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 | 2025-12-02 | 2026-09-08 |
+| [Se siente fuerte](https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Se siente fuerte](https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt) | 2:52 | 2026-09-11 |  |
 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 | 2025-07-01 |  |
 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 | 2025-08-05 | 2026-08-11 |
 | [se te ve feliz](https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ) | [Farga](https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7) | [ex/cusas](https://open.spotify.com/album/5jHtHGicQinajiAzIcjd5j) | 2:31 | 2026-07-13 | 2026-09-08 |
@@ -356,7 +357,7 @@
 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 | 2026-01-28 | 2026-07-14 |
 | [una chica buena de manual](https://open.spotify.com/track/7A0bfUrsnuc1JgIz6y5EMR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [una chica buena de manual](https://open.spotify.com/album/2Ujaf4ZyGp4u3hSTCXNfVY) | 1:45 | 2025-11-04 | 2025-12-11 |
 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 | 2025-11-04 | 2025-12-03 |
-| [V.I.P](https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [V.I.P](https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6) | 2:17 | 2026-06-08 |  |
+| [V.I.P](https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [V.I.P](https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6) | 2:17 | 2026-06-08 | 2026-09-12 |
 | [veranos condenados](https://open.spotify.com/track/11joCLIPoBebavpMolW8wi) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [veranos condenados](https://open.spotify.com/album/32eCS8SR02sBKjvx6qMtKd) | 2:56 | 2026-09-07 |  |
 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 | 2024-11-05 | 2025-10-05 |
 | [viii\. Fake Alas · muert3](https://open.spotify.com/track/2SYKCcL64Gp5WtTR5qR8EB) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [viii\. Fake Alas · muert3](https://open.spotify.com/album/7ssyUlml3EZyHfHdKViU7r) | 2:43 | 2025-11-04 | 2025-12-07 |

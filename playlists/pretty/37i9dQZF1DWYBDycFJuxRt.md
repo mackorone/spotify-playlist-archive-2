@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 緑黄色社会 \*👉 <a href="https://spice.eplus.jp/articles/348853">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,270 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,305 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 95 | [一番星](https://open.spotify.com/track/65orIk1QcUw5fIi7LHtyqU) | [EXILE TAKAHIRO](https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4) | [一番星](https://open.spotify.com/album/16wW1BuOZlD7n84L5mVfyL) | 4:20 |
 | 96 | [笑えれば](https://open.spotify.com/track/5jfEvfQ9smTAM7EJ45JD6s) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Sing in Blue](https://open.spotify.com/album/5iVv7cpS1RQkZoOo6rMu5X) | 5:09 |
 
-Snapshot ID: `AAAAAHwsL2kUsw0/OhAcOiNPkXu2lhPy`
+Snapshot ID: `AAAAAPIQKno4T/DWl5lIDszWO+6jZz+s`

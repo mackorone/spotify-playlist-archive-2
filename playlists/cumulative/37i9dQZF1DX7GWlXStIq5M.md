@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Glória Groove
 
-1,209 songs - 2 day 11 hr 56 min
+1,210 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Aditivada](https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Aditivada](https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU) | 2:29 | 2024-12-13 | 2025-02-08 |
 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 | 2023-07-22 |
 | [AFF](https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [AFF](https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv) | 2:26 | 2025-10-24 | 2026-01-31 |
-| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 |  |
+| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 | 2026-09-12 |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2024-06-15 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2020-10-20 | 2023-02-15 |
 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 | 2025-08-15 |  |
@@ -1069,6 +1069,7 @@
 | [Tbt](https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo) | [Tbt](https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr) | 3:15 | 2024-02-23 | 2024-03-30 |
 | [Te Amar](https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Te Amar](https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat) | 2:58 | 2026-07-31 |  |
 | [Te Amar Me Dá Asas](https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Te Amar Me Dá Asas](https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ) | 3:15 | 2026-06-19 |  |
+| [Te Amar É Fácil](https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Te Amar É Fácil](https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40) | 3:24 | 2026-09-04 |  |
 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 | 2023-04-14 | 2023-08-19 |
 | [Te espero ou fujo?](https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Te espero ou fujo?](https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr) | 2:14 | 2024-09-06 | 2025-08-23 |
 | [TE LEVO PRA BOA](https://open.spotify.com/track/361zcwWReUYhkK57P3TZYG) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [TE LEVO PRA BOA](https://open.spotify.com/album/4zr25xmX0ZteRG64Pb8o15) | 2:34 | 2023-07-07 | 2023-08-05 |

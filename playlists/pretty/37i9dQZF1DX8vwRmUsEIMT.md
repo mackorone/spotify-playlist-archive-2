@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,743 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,193 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
 | 79 | [Promise](https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Promise](https://open.spotify.com/album/3EoYDo2Kxva9WXrk4iRN5O) | 2:40 |
 
-Snapshot ID: `AAAAACY3Wcl/nTy4Nfv0hxPcDIQgC0hF`
+Snapshot ID: `AAAAAEZbGiXsQgypymK4ycpbMiSjvSxI`

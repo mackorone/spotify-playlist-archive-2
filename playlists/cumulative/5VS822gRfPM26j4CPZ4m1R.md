@@ -4,7 +4,7 @@
 
 > Playlist
 
-658 songs - 1 day 14 hr 53 min
+660 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Dark Wall](https://open.spotify.com/track/2D97mrnXsqOJIuvTPJjhU2) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:31 | 2023-10-25 |  |
 | [Daydream](https://open.spotify.com/track/2budGANfflOJebjUFoIQeA) | [Coral Pink](https://open.spotify.com/artist/4tBONWiDXvYt42kbXueDdY) | [Daydream](https://open.spotify.com/album/7lg30VacocDtXNzLFOgo92) | 3:30 | 2023-10-25 |  |
 | [Deber Ser](https://open.spotify.com/track/0uC3Z9GkPKRTwZev1bvrFf) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Deber Ser](https://open.spotify.com/album/1J3QNTqNdPw5FQl0YS9YvH) | 4:35 | 2026-03-19 |  |
+| [Deber Ser](https://open.spotify.com/track/1wCFEGw98XpwvlZ3QS1QgD) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 4:35 | 2026-09-11 |  |
 | [Deer Island](https://open.spotify.com/track/7yLe9IEg8mhzhJndZycKwA) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:10 | 2023-10-25 |  |
 | [Delay](https://open.spotify.com/track/6qkxabFsTPxgVYjQcawOyi) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 2:52 | 2023-10-25 |  |
 | [Derby Daze](https://open.spotify.com/track/2WNy0AZsFinL8qtwdK58Ao) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 3:53 | 2023-10-25 |  |
@@ -448,6 +449,7 @@
 | [Personal](https://open.spotify.com/track/08FefK6TTh7nYc8Msz3QAe) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Personal](https://open.spotify.com/album/7v08wTf4uniHE4yfH71QFF) | 4:45 | 2023-10-25 |  |
 | [Pessimistic](https://open.spotify.com/track/0s1JpJwkYR054MgELU5HT6) | [Martha Mudtoter](https://open.spotify.com/artist/59VCmQsqQFAom1vKuguzbE) | [Pessimistic](https://open.spotify.com/album/4X6HCo3AyuTz6y0pKlKeht) | 4:01 | 2023-10-25 |  |
 | [Petit garçon](https://open.spotify.com/track/4tprBg1FpCBNkWboh1S0YU) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Petit garçon](https://open.spotify.com/album/600fXCrQMVlPBC230hfyD1) | 3:24 | 2023-10-25 |  |
+| [Pipedream](https://open.spotify.com/track/5eZXJ4OuBZP08jrOkI0mja) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Pipedream](https://open.spotify.com/album/18u27uu0a9ka6PgSIophdt) | 4:43 | 2026-09-11 |  |
 | [Playground Love](https://open.spotify.com/track/6Wx4SuTKdSraDXP14xquZc) | [Dad Bod](https://open.spotify.com/artist/1f3XFmBNO92iugGTYWGRn8), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 3:33 | 2023-10-25 |  |
 | [Please Don't Be Mad](https://open.spotify.com/track/5m3Ff3FcrEftuS0td6qdEv) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Kurrajong Hotel](https://open.spotify.com/album/2itmOik0wtA5yj1AQMexBM) | 3:06 | 2023-10-25 |  |
 | [Plus le même](https://open.spotify.com/track/4TJXuMm2pA6sCmhAkk5xcF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:05 | 2023-10-25 |  |

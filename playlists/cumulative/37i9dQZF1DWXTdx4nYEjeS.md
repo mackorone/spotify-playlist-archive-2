@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,056 songs - 2 day 16 hr 8 min
+1,057 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2021-12-24 | 2023-03-04 |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2021-12-24 | 2022-07-19 |
 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 | 2022-05-03 | 2022-05-07 |
-| [Cómo Eran las Cosas \- En Vivo](https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:57 | 2021-12-24 |  |
+| [Cómo Eran las Cosas \- En Vivo](https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:57 | 2021-12-24 | 2026-09-12 |
 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 | 2022-01-28 | 2022-07-25 |
 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 | 2022-04-08 | 2022-07-20 |
 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 | 2022-03-24 | 2022-04-15 |
@@ -594,6 +594,7 @@
 | [Malibu \- Acoustic](https://open.spotify.com/track/2UpFox08IH0MzS7Q3iklBL) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Malibu \(Acoustic\)](https://open.spotify.com/album/0wM958tbqrru8Nf07KWsEm) | 4:04 | 2022-04-13 | 2022-04-20 |
 | [Mambeado](https://open.spotify.com/track/5VmoRnclAlBtbt1Icr0PY1) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Fuerte Y Caliente](https://open.spotify.com/album/0p7UqQIXTkyTKcDVsL1cyy) | 3:41 | 2022-03-24 | 2022-04-21 |
 | [Maneater](https://open.spotify.com/track/3YFRV4FKybqglIQ6yqlJUD) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Maneater](https://open.spotify.com/album/1pd0aIiQIsLXC8ya6YFARz) | 2:51 | 2022-04-08 | 2022-04-10 |
+| [Manos de Cristal](https://open.spotify.com/track/3hVYjEJGpvtHGLDcbuAO4I) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Carisma Secreto](https://open.spotify.com/album/7kPvkm0UJSOxrL9EA7TjxP) | 3:50 | 2026-09-11 |  |
 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-02-20 | 2025-07-19 |
 | [Marce por Oito](https://open.spotify.com/track/7szAcmwZRBvjAFzQHBN6Vo) | [Amanda Mara](https://open.spotify.com/artist/3V9lgrqOiBjzGXRHq6D3Ul) | [Marce por Oito](https://open.spotify.com/album/3KJUqgwZPdL8VEAAQQzWka) | 2:56 | 2022-03-28 | 2022-04-09 |
 | [Maremagnum](https://open.spotify.com/track/5W3eEy8Igr1vFThLOvdzZC) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 4:03 | 2022-04-13 | 2022-06-29 |

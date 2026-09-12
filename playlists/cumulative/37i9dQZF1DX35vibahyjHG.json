@@ -6803,6 +6803,28 @@
     },
     {
       "album": {
+        "name": "By The Time I Wake Up",
+        "url": "https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        },
+        {
+          "name": "Iam6teen",
+          "url": "https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172152,
+      "name": "Lunchbox",
+      "url": "https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF"
+    },
+    {
+      "album": {
         "name": "Ma Jo Lo",
         "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
@@ -12464,24 +12486,6 @@
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
-    },
-    {
-      "album": {
-        "name": "By The Time I Wake Up",
-        "url": "https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu"
-      },
-      "artists": [
-        {
-          "name": "Lusanda",
-          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
-        }
-      ],
-      "date_added": "2026-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF"
     },
     {
       "album": {

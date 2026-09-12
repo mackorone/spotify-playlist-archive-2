@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: يوليو
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 69 | [TAB EH?](https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [TAB EH?](https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8) | 2:24 |
 | 70 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
 
-Snapshot ID: `AAAAAD8xszo14DT2sNjvBzMVJx0JHZQU`
+Snapshot ID: `AAAAAL3iIZEk3oABUrTHJLgS0YsJcgYB`

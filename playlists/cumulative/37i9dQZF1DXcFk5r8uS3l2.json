@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -6862,7 +6862,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
@@ -8616,6 +8616,24 @@
       "duration_ms": 185984,
       "name": "Trouble (Sunday Version)",
       "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
+    },
+    {
+      "album": {
+        "name": "Trouble In Mind",
+        "url": "https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189119,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc"
     },
     {
       "album": {

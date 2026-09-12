@@ -4,7 +4,7 @@
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: SNACKTIME Artwork by Paola Saliby
 
-4,620 songs - 9 day 19 hr 25 min
+4,621 songs - 9 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [Easier Said](https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1) | [Aint Afraid](https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5) | [Easier Said](https://open.spotify.com/album/4hKZOqBRw4EhTIQRvbwCd8) | 3:40 | 2022-03-16 | 2022-04-28 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-07-03 | 2025-01-09 |
 | [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 | 2025-05-07 | 2026-01-15 |
+| [East Coast Summers](https://open.spotify.com/track/6WfKXUXkTM96NQ43NgxD7U) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:41 | 2026-09-11 |  |
 | [EASTSIDE](https://open.spotify.com/track/7CSHeLzcZ2UlmyqtWNaVRU) | [CHYLD](https://open.spotify.com/artist/7CCDzcz8u2Cs5c8Az35Gud), [ANOU](https://open.spotify.com/artist/6oaikwZAsCzY95X5K14MdW) | [EASTSIDE](https://open.spotify.com/album/3aynZ4Bt5in256XfJ2hfZ1) | 2:56 | 2021-09-30 | 2021-11-11 |
 | [Easy](https://open.spotify.com/track/6Jd1Erx95ihRcoagGOqSDK) | [flora](https://open.spotify.com/artist/31ohn2UPLQEQ3qmQMqeeNc) | [Easy](https://open.spotify.com/album/1fdeDIYlFZcjC1nVX71nZo) | 2:36 | 2023-08-09 | 2023-10-12 |
 | [Easy](https://open.spotify.com/track/4R8V0QRbPWNdirPk7OsM2Y) | [Freida Mari](https://open.spotify.com/artist/5RqPuMbbZResDnQbhyFIae) | [Easy](https://open.spotify.com/album/7n7mMi5tpqc8YTWyK08LLe) | 3:46 | 2021-02-04 | 2021-03-06 |
@@ -1222,7 +1223,7 @@
 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-08 |  |
 | [Enemies to Lovers](https://open.spotify.com/track/4FWg99k7Xsj2K6eqtZIloo) | [Katie Wood](https://open.spotify.com/artist/7ci95fFQpxNt1BwgrGQT9I) | [Enemies to Lovers](https://open.spotify.com/album/2RCeVT6l0pCkZ39EEA7l5z) | 3:06 | 2021-07-29 | 2021-09-16 |
 | [Enemy](https://open.spotify.com/track/42FfXCh2osVbPBaxaXYQz1) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Enemy](https://open.spotify.com/album/4sPYzIi5CSUqDuTsExkplJ) | 2:46 | 2023-06-14 | 2023-08-31 |
-| [ENERGIZE](https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN) | [JEWELS](https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd) | [ENERGIZE](https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4) | 2:48 | 2026-06-24 |  |
+| [ENERGIZE](https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN) | [JEWELS](https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd) | [ENERGIZE](https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4) | 2:48 | 2026-06-24 | 2026-09-12 |
 | [energy](https://open.spotify.com/track/3IRMKQhcfU7dpqc92Gqmlm) | [Peter Ho](https://open.spotify.com/artist/6mi5wwGEAiXfLPLxunNLaf) | [energy](https://open.spotify.com/album/3nlJzursBsbnl9K9S4mZf5) | 2:46 | 2021-07-16 | 2021-09-16 |
 | [Enough](https://open.spotify.com/track/1D5HxtuRyWR6cbNOY7iRdy) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [Enough](https://open.spotify.com/album/57dXcWWN9sd7gtTGQwfBfr) | 3:31 | 2023-04-19 | 2023-06-08 |
 | [Enough](https://open.spotify.com/track/5C8Y0e4YnmWUcKwWFAHnZ6) | [Joe Avio](https://open.spotify.com/artist/3QegvPZ8QZhhJbNGaaZiXI) | [Whatever Will We Do](https://open.spotify.com/album/0OgwlrS2flxZ0hnmLKKgTh) | 3:50 | 2020-11-18 | 2020-12-08 |

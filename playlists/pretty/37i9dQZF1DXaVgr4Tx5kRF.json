@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666298,
+  "num_followers": 666280,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANi9gdNjcj5QswSZV7PyR8gRz/0f",
+  "snapshot_id": "AAAAABDkIC4jAHNfqD2h+nr7FBVmz1Pw",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+        "name": "Different Class / Deluxe Edition",
+        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 322946,
-      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
+      "duration_ms": 273733,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -827,50 +827,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Different Class / Deluxe Edition",
-        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 273733,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "In It For The Money",
-        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
+      "duration_ms": 322946,
+      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -907,6 +875,38 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "In It For The Money",
+        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "His 'N' Hers",
         "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 265133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -975,22 +991,6 @@
       "duration_ms": 215986,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Gold Mother",
-        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
     },
     {
       "added_at": "2024-03-18 22:10:08",

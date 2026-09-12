@@ -2,9 +2,9 @@
 
 ### [RADAR México](https://open.spotify.com/playlist/37i9dQZF1DXbpJNWtkXDpL)
 
-> Descubre el futuro de la música en México en compañía de Mosmo y Billy Manhattan
+> Descubre el futuro de la música en México en compañía de 8uno y DENNA LA PORRI
 
-570 songs - 1 day 5 hr 13 min
+571 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 | 2023-04-18 | 2023-07-04 |
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2022-05-13 | 2022-07-29 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-20 | 2023-04-19 |
-| [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 | 2026-06-22 |  |
+| [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 | 2026-06-22 | 2026-09-12 |
 | [LOBO](https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LOBO](https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb) | 2:27 | 2026-08-28 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 | 2023-04-18 | 2023-07-01 |
 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 | 2023-06-23 | 2023-07-04 |
@@ -284,6 +284,7 @@
 | [mal hábito](https://open.spotify.com/track/1AzlfoYVmdcbEVd3vrHeAm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [mal hábito](https://open.spotify.com/album/1g97X142nn80EasWdLzSY0) | 2:43 | 2021-10-01 | 2022-05-12 |
 | [Mala](https://open.spotify.com/track/3zJzmTv0WxHCXIT5GT84S3) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Mala](https://open.spotify.com/album/13IbL92WpR5qUSkcATB6f9) | 2:57 | 2021-10-01 | 2022-05-12 |
 | [Mala Manía](https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mala Manía](https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs) | 3:23 | 2022-06-07 | 2023-04-19 |
+| [Malas Amistades \- RADAR México](https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG) | [Malas Amistades \- RADAR México](https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh) | 3:39 | 2026-09-11 |  |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-18 | 2025-04-23 |
 | [Malvada \(feat\. Jae S\)](https://open.spotify.com/track/5GnQqzBpCR13XRsmAolJLk) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg) | [Malvada \(feat\. Jae S\)](https://open.spotify.com/album/7fNNajuPo4mkxRfvAwUpIR) | 4:00 | 2022-05-13 | 2022-07-25 |
 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 | 2025-05-30 | 2026-04-18 |

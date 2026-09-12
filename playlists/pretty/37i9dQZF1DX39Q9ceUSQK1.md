@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,953 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,978 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Fireproof](https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2 \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci) | 1:49 |
 | 100 | [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 |
 
-Snapshot ID: `AAAAAFLlUMRzsdE7T6oEpci95sVnw2NM`
+Snapshot ID: `AAAAALWzcK79P1UniIUA5JiEj+9Z3FRx`

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11907687,
+  "num_followers": 11909176,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMs1BTA2//Y0UFBa4NFuhacecnJT",
+  "snapshot_id": "AAAAAHd0oFO/hqPYRPBLJzKJo8wZB+0x",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:29",
@@ -301,26 +301,6 @@
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
-      "added_at": "2025-08-01 17:05:50",
-      "album": {
-        "name": "MONTAGEM COMA",
-        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
-      },
-      "artists": [
-        {
-          "name": "ANDROMEDA",
-          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
-        },
-        {
-          "name": "elysian.",
-          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
-        }
-      ],
-      "duration_ms": 73480,
-      "name": "MONTAGEM COMA",
-      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
-    },
-    {
       "added_at": "2026-07-17 04:04:29",
       "album": {
         "name": "MONTAGEM DEL\u00cdRIO",
@@ -335,6 +315,22 @@
       "duration_ms": 125051,
       "name": "MONTAGEM DEL\u00cdRIO - Super Slowed",
       "url": "https://open.spotify.com/track/1O6LIybBwZr2q9YoveyLWf"
+    },
+    {
+      "added_at": "2026-08-21 16:19:07",
+      "album": {
+        "name": "Raya (Versions)",
+        "url": "https://open.spotify.com/album/51DHF9OrbqPNHZp666YID0"
+      },
+      "artists": [
+        {
+          "name": "Zericxxn",
+          "url": "https://open.spotify.com/artist/4mhYvxWXU1KTZsZr9g6aKS"
+        }
+      ],
+      "duration_ms": 109783,
+      "name": "Raya - Slowed",
+      "url": "https://open.spotify.com/track/0z85gew8SrMCbKobMWvSCL"
     },
     {
       "added_at": "2026-07-24 15:50:04",
@@ -355,6 +351,26 @@
       "duration_ms": 132990,
       "name": "Party Funk",
       "url": "https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX"
+    },
+    {
+      "added_at": "2025-08-01 17:05:50",
+      "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
       "added_at": "2025-08-29 15:35:59",
@@ -773,22 +789,6 @@
       "url": "https://open.spotify.com/track/2cbxj8sawxD8tIz4IARGWA"
     },
     {
-      "added_at": "2026-08-21 16:19:07",
-      "album": {
-        "name": "Raya (Versions)",
-        "url": "https://open.spotify.com/album/51DHF9OrbqPNHZp666YID0"
-      },
-      "artists": [
-        {
-          "name": "Zericxxn",
-          "url": "https://open.spotify.com/artist/4mhYvxWXU1KTZsZr9g6aKS"
-        }
-      ],
-      "duration_ms": 109783,
-      "name": "Raya - Slowed",
-      "url": "https://open.spotify.com/track/0z85gew8SrMCbKobMWvSCL"
-    },
-    {
       "added_at": "2025-02-28 15:27:21",
       "album": {
         "name": "PASSO BEM SOLTO",
@@ -803,6 +803,26 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "added_at": "2026-09-11 03:07:20",
+      "album": {
+        "name": "ENTITY.096",
+        "url": "https://open.spotify.com/album/11gFYpK4EY9cog6QoMR3A3"
+      },
+      "artists": [
+        {
+          "name": "KLEAVE",
+          "url": "https://open.spotify.com/artist/2q4PUtVw3ihgeswR2Lgurd"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        }
+      ],
+      "duration_ms": 100208,
+      "name": "ENTITY.096",
+      "url": "https://open.spotify.com/track/5AEu8NXniMOgVdZO6lfSux"
     },
     {
       "added_at": "2024-07-05 13:50:01",
@@ -843,6 +863,30 @@
       "duration_ms": 159000,
       "name": "YALA - Slowed",
       "url": "https://open.spotify.com/track/0h4kC7ZNJZDEYDlYQTlDoB"
+    },
+    {
+      "added_at": "2026-09-11 03:07:20",
+      "album": {
+        "name": "MONTAGEM GLORIA",
+        "url": "https://open.spotify.com/album/2XxmqQFk28rhue5lcFDlAr"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "Avenxir",
+          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
+        },
+        {
+          "name": "MONTAGEM",
+          "url": "https://open.spotify.com/artist/6gzkhdNfpMIPg91TnzlcCh"
+        }
+      ],
+      "duration_ms": 91705,
+      "name": "MONTAGEM GLORIA - Slowed",
+      "url": "https://open.spotify.com/track/0Y1Vb6vNwQz9VhInGVdMO8"
     },
     {
       "added_at": "2024-10-04 13:19:49",
@@ -1573,34 +1617,6 @@
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
-      "added_at": "2025-11-17 15:48:56",
-      "album": {
-        "name": "LUA NA PRA\u00c7A",
-        "url": "https://open.spotify.com/album/7sytxO6xA7Jo5Eb4mwwh92"
-      },
-      "artists": [
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        },
-        {
-          "name": "DJ Zarek",
-          "url": "https://open.spotify.com/artist/52lpdjLJdAUK3iICFUEnH2"
-        },
-        {
-          "name": "DJ DUDA",
-          "url": "https://open.spotify.com/artist/6OcITHnHngr5sVr0IF6Xvl"
-        },
-        {
-          "name": "LUNxdiE",
-          "url": "https://open.spotify.com/artist/1k23djrShJgm3XQTMuzY1X"
-        }
-      ],
-      "duration_ms": 88641,
-      "name": "LUA NA PRA\u00c7A",
-      "url": "https://open.spotify.com/track/4iRGOPSFgEFOphkqY6ryCC"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Murder In My Mind",
@@ -1615,22 +1631,6 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "AUTOMOTIVO MANGOS",
-        "url": "https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC"
-      },
-      "artists": [
-        {
-          "name": "DJ BRZ 013",
-          "url": "https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8"
-        }
-      ],
-      "duration_ms": 95111,
-      "name": "AUTOMOTIVO MANGOS",
-      "url": "https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE"
     },
     {
       "added_at": "2025-05-23 14:25:30",
@@ -1811,26 +1811,6 @@
       "duration_ms": 68312,
       "name": "NADA DE NADA",
       "url": "https://open.spotify.com/track/397jCX8wRPKsSZTDcAUccg"
-    },
-    {
-      "added_at": "2024-12-13 05:45:00",
-      "album": {
-        "name": "MAZKO",
-        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
-      },
-      "artists": [
-        {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
-        },
-        {
-          "name": "MC LyC4N",
-          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
-        }
-      ],
-      "duration_ms": 75692,
-      "name": "MAZKO",
-      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "added_at": "2026-03-06 14:00:09",

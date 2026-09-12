@@ -3913,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9raison",
+        "url": "https://open.spotify.com/album/7nf7iVj9lLkBM7V5LYvZJ1"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148013,
+      "name": "V\u00e9raison",
+      "url": "https://open.spotify.com/track/5O1uC5BKuDD9Kfm4KAxsku"
+    },
+    {
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8"
       },

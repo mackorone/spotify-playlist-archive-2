@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg?si=5c31513e7d804261">Kahuti</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,931 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,990 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Missing Part](https://open.spotify.com/track/2jBKzKOovoIDLS9QfRhQYW) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Missing Part](https://open.spotify.com/album/4HfzfzEEATWOUn0b6OdKyR) | 3:54 |
 | 50 | [seeking happiness](https://open.spotify.com/track/1yiyq1dizTIrMNTyvdPxjH) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 4:26 |
 
-Snapshot ID: `AAAAAMmKTDqHsRRT0fLNLUsZsVsy+pte`
+Snapshot ID: `AAAAAE/5GcyU9wARo7cpPnhCmR4gSOgH`

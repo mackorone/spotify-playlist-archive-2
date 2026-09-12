@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "One night only. Cover: MILLI",
-  "name": "On Tour Singapore: MILLI",
+  "description": "One night only. Cover: Firdhaus",
+  "name": "On Tour Singapore: Firdhaus",
   "tracks": [
     {
       "album": {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 268563,
       "name": "AEIOU (Feat. Loco) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/1IOb9H50dKN0amB8LChG31"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212863,
       "name": "ARMSTRONG",
       "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147027,
       "name": "BLUES BLURRY (feat. Gong H 3 F)",
       "url": "https://open.spotify.com/track/6MsuQCN0WJI5RrEJWE5lrv"
@@ -4692,7 +4692,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 164627,
       "name": "DANCE or DEAD",
       "url": "https://open.spotify.com/track/45DDQu6PXpxsrvF1Chzams"
@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 133561,
       "name": "DRANKEINNIT (feat. Hugo)",
       "url": "https://open.spotify.com/track/5mgMpv114kAwMPtAYAEMrZ"
@@ -9098,7 +9098,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 132312,
       "name": "HEAVYWEIGHT",
       "url": "https://open.spotify.com/track/6N5RxcqbKoZ30ijQmQZ3mH"
@@ -9138,7 +9138,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 176486,
       "name": "HELL YES (feat. BewhY)",
       "url": "https://open.spotify.com/track/5ti8EBfP9P2VTFAi8dCvxT"
@@ -9286,10 +9286,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 229500,
       "name": "HEY HEY (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
       "url": "https://open.spotify.com/track/2TJTtCcuOikQ0jSKrtswHI"
+    },
+    {
+      "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "Hey, I Like You A Lot",
+      "url": "https://open.spotify.com/track/01VpOGgJFf1kNaR0Xr8pvY"
     },
     {
       "album": {
@@ -9686,7 +9704,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 268037,
       "name": "HP",
       "url": "https://open.spotify.com/track/5m38DYwttgULPLu54uPLFY"
@@ -10273,6 +10291,24 @@
     },
     {
       "album": {
+        "name": "If I Die, Please Tell My Mom I Love Her.",
+        "url": "https://open.spotify.com/album/7g6Hx75SY34cIVm4czHb6L"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89200,
+      "name": "If I Die, Please Tell My Mom I Love Her.",
+      "url": "https://open.spotify.com/track/3XawG4yXxz9Ws7PZru7wnR"
+    },
+    {
+      "album": {
         "name": "Nothing's About to Happen to Me",
         "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
       },
@@ -10772,7 +10808,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183246,
       "name": "INVISIBLE TEARS",
       "url": "https://open.spotify.com/track/537pH6hRQYZ0pGAjpxzycN"
@@ -10960,7 +10996,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 128659,
       "name": "JAA EHH (peekaboo) [feat. Awich]",
       "url": "https://open.spotify.com/track/1lqGFDvBjPHGM3ORQXjGYC"
@@ -11960,6 +11996,24 @@
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
+    },
+    {
+      "album": {
+        "name": "kyoto.",
+        "url": "https://open.spotify.com/album/7FBqllBp2WIAEaK86okdNt"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "kyoto.",
+      "url": "https://open.spotify.com/track/1sVlmkf6AoCZEYEsyAoWLV"
     },
     {
       "album": {
@@ -13300,7 +13354,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 89087,
       "name": "Mango Sticky Rice",
       "url": "https://open.spotify.com/track/1R4b7tmxnDdnT9jjuzVq3l"
@@ -13690,7 +13744,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 154577,
       "name": "MENACE",
       "url": "https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb"
@@ -14006,7 +14060,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 232000,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3"
@@ -14386,7 +14440,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 228046,
       "name": "MSG (Feat. Omega Sapien) (Prod. by Spatchies, PapZilla, KIRWAV, Sawat)",
       "url": "https://open.spotify.com/track/6zLEtJTbYfDI8Kn3ubSB5S"
@@ -14488,6 +14542,24 @@
       "duration_ms": 226613,
       "name": "My Page",
       "url": "https://open.spotify.com/track/63oREMsb7uCqgVztE72Pyv"
+    },
+    {
+      "album": {
+        "name": "My \u83dc",
+        "url": "https://open.spotify.com/album/6IGrgL1b9J2oPINL6oZri2"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "My \u83dc",
+      "url": "https://open.spotify.com/track/0Qw6T2cOILFqqeJPgNfqEH"
     },
     {
       "album": {
@@ -14726,7 +14798,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 283100,
       "name": "NEVER (Feat. Wonstein, lIlBOI) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/46CRlyiQ9Z4GrxQrKgHIyh"
@@ -14964,7 +15036,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 53095,
       "name": "NO HEAVEN",
       "url": "https://open.spotify.com/track/3g492kj0mHpsKu3K4uYlUT"
@@ -15494,7 +15566,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 135542,
       "name": "ONE PUNCH",
       "url": "https://open.spotify.com/track/641wc6152Ju9qH5UeDmjVf"
@@ -17632,7 +17704,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168000,
       "name": "SAD AEROBIC",
       "url": "https://open.spotify.com/track/1fNBoi6eboos35LDL1z9XE"
@@ -18612,7 +18684,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 194640,
       "name": "SICK WITH IT",
       "url": "https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH"
@@ -19358,7 +19430,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 188437,
       "name": "Squad Shit (feat. 1-Flow)",
       "url": "https://open.spotify.com/track/36eiekf6sdAguJ8gTNzZfV"
@@ -19396,7 +19468,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
@@ -19934,6 +20006,24 @@
       "duration_ms": 195866,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/7M97bveNtmOH81lo1Ad0VN"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320406,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/7LllQtUStOSoGpsfwYImT5"
     },
     {
       "album": {
@@ -23850,7 +23940,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 184342,
       "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/65wjkTPdu7GZInkMlUsy7b"
@@ -23908,7 +23998,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 173062,
       "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e27\u0e49\u0e22 (feat. NAMEMT)",
       "url": "https://open.spotify.com/track/3YgVRnMZS4d0F0LLS8t1AW"
@@ -24042,7 +24132,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200000,
       "name": "\u0e2a\u0e32\u0e18\u0e38 (feat. TangBadVoice)",
       "url": "https://open.spotify.com/track/75WoVa8g30bDbUiFfXVAjC"
@@ -24078,7 +24168,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 176000,
       "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
       "url": "https://open.spotify.com/track/3yFFMbk6JqprCQp9B26vDJ"
@@ -24853,6 +24943,60 @@
     },
     {
       "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265890,
+      "name": "\u4e0a\u5929\u554a",
+      "url": "https://open.spotify.com/track/0VhK02gTZ4LLyFmHG4qShc"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u662f\u53ea\u662f",
+        "url": "https://open.spotify.com/album/4OrkvAz3cPPYBw2wcUD7U2"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220334,
+      "name": "\u4e0d\u662f\u53ea\u662f",
+      "url": "https://open.spotify.com/track/0QkCceNWQkd7TcwCYdwnva"
+    },
+    {
+      "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335513,
+      "name": "\u4e5f\u8a31\u662f\u6211\u5beb\u7d66\u4f60\u7684\u6700\u5f8c\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/3KIW75aUkooLJBLa6ah5y1"
+    },
+    {
+      "album": {
         "name": "our hope",
         "url": "https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id"
       },
@@ -24868,6 +25012,96 @@
       "duration_ms": 347280,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/5PFbzASR1TwmMokf63iAIh"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254067,
+      "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+      "url": "https://open.spotify.com/track/1VqdJfu2R0jnR1VGrTpqEB"
+    },
+    {
+      "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "\u4f60\u53ef\u4ee5\u628a\u9f3b\u6d95\u64e6\u5728\u6211\u8863\u670d\u4e0a",
+      "url": "https://open.spotify.com/track/1DjqKLaUCZ1gNsISadM5rv"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u597d\uff0c\u5c31\u8db3\u77e3",
+        "url": "https://open.spotify.com/album/3nrxLJqisNuN80ypx9Q8p8"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336896,
+      "name": "\u4f60\u597d\uff0c\u5c31\u8db3\u77e3",
+      "url": "https://open.spotify.com/track/50BsxaRhKQZUUkkS3xB2ck"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u60f3\u5f97\u7f8e",
+        "url": "https://open.spotify.com/album/3hMtMbMa4YjCkwWMKbroAV"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "\u4f60\u60f3\u5f97\u7f8e",
+      "url": "https://open.spotify.com/track/1RYbcLbJyuHKSueohqPiEi"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221073,
+      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
     },
     {
       "album": {
@@ -24890,6 +25124,28 @@
       "duration_ms": 211003,
       "name": "\u505a\u7231\u505a\u7684\u4e8b",
       "url": "https://open.spotify.com/track/1jrHPa1MM06xfzRkHDqtZH"
+    },
+    {
+      "album": {
+        "name": "\u50cf\u6c34\u4e00\u6a23",
+        "url": "https://open.spotify.com/album/06snrmDNg7ZVSuDeOUL7DG"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        },
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "\u50cf\u6c34\u4e00\u6a23",
+      "url": "https://open.spotify.com/track/2ertU0G948DJAvaASQ7LXU"
     },
     {
       "album": {
@@ -24947,6 +25203,100 @@
     },
     {
       "album": {
+        "name": "\u53cb\u8c0a\u957f\u5b58",
+        "url": "https://open.spotify.com/album/0teughBYfffqo1RhvAX51S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319838,
+      "name": "\u53cb\u8c0a\u957f\u5b58",
+      "url": "https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2"
+    },
+    {
+      "album": {
+        "name": "\u5408\u7167",
+        "url": "https://open.spotify.com/album/6XB3fTpQU93OCvLhMRhVqm"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "\u5408\u7167",
+      "url": "https://open.spotify.com/track/1imPxyJ2Dq03wqbIwpPGFk"
+    },
+    {
+      "album": {
+        "name": "A Letter.",
+        "url": "https://open.spotify.com/album/34746CcFVXWEK2UcH47OUH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197041,
+      "name": "\u54e5\u54e5",
+      "url": "https://open.spotify.com/track/2p65f1l8p0m8j0Ny6tJBAe"
+    },
+    {
+      "album": {
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u662f\u5e73\u7684",
+        "url": "https://open.spotify.com/album/5Ui8o2k4DUUs2bTG0TmQxP"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "\u5730\u7403\u662f\u5e73\u7684",
+      "url": "https://open.spotify.com/track/4YtJDKz317y9NNKFqT3yJT"
+    },
+    {
+      "album": {
         "name": "\u591c\u3092\u8d8a\u3048\u3066",
         "url": "https://open.spotify.com/album/41KGfrpRPfhT7SxUC7fSnS"
       },
@@ -24987,6 +25337,28 @@
     },
     {
       "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "Jeryl Lee",
+          "url": "https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221551,
+      "name": "\u597d\u597d\u5403\u98ef",
+      "url": "https://open.spotify.com/track/0xkOAdcy8W1WXFpmYBc2EU"
+    },
+    {
+      "album": {
         "name": "\u7dd1\u9ec4\u8272\u793e\u4f1a",
         "url": "https://open.spotify.com/album/0PKZt1TnqMbhy52cSAeV3T"
       },
@@ -25023,6 +25395,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176673,
+      "name": "\u5b89",
+      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
+    },
+    {
+      "album": {
         "name": "\u946b",
         "url": "https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw"
       },
@@ -25042,6 +25432,24 @@
       "duration_ms": 240000,
       "name": "\u5c0f\u767d\u96f2",
       "url": "https://open.spotify.com/track/1nREpjbvKCLyJjcqonVaWH"
+    },
+    {
+      "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255525,
+      "name": "\u5dee\u4e00\u9ede",
+      "url": "https://open.spotify.com/track/1QwnRiT6r8ZZiEnoUW7S1h"
     },
     {
       "album": {
@@ -25135,6 +25543,60 @@
     },
     {
       "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280392,
+      "name": "\u6211\u4e0d\u662f\u4e00\u500b\u5b8c\u7f8e\u7684\u4eba - \u7535\u5f71\u300a\u96e8\u57ce\u300b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/1W6Mk0QPqIjUhLV7GIVuzp"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u90fd\u662f\u7b2c\u4e00\u6b21\u505a\u4eba",
+        "url": "https://open.spotify.com/album/6AdEJdHLUEHKfvroD4YqDY"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218969,
+      "name": "\u6211\u5011\u90fd\u662f\u7b2c\u4e00\u6b21\u505a\u4eba",
+      "url": "https://open.spotify.com/track/4hZXOzYgbNKndzLlFGrgSp"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6c92\u60f3\u904e\u6703\u9019\u6a23\u5931\u53bb\u4f60",
+        "url": "https://open.spotify.com/album/2Obx8SoJK10heR616d83GH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327300,
+      "name": "\u6211\u6c92\u60f3\u904e\u6703\u9019\u6a23\u5931\u53bb\u4f60",
+      "url": "https://open.spotify.com/track/3f4ZXh0lePQvXk1yfdSjEb"
+    },
+    {
+      "album": {
         "name": "\u6211\u7684\u5988\u5440",
         "url": "https://open.spotify.com/album/5sWxwGw3OIkYik8rdjGIXP"
       },
@@ -25150,6 +25612,42 @@
       "duration_ms": 215004,
       "name": "\u6211\u7684\u5988\u5440",
       "url": "https://open.spotify.com/track/0PEZwFHWGiURu2HRyl5jRq"
+    },
+    {
+      "album": {
+        "name": "\u62f3\u738b\u963f\u91cc",
+        "url": "https://open.spotify.com/album/3aXFOdQumKeELs8qyCiQGu"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227718,
+      "name": "\u62f3\u738b\u963f\u91cc",
+      "url": "https://open.spotify.com/track/5doEgBL50h0qxf4xh2CELV"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279803,
+      "name": "\u65e9\u9ede\u56de\u5bb6",
+      "url": "https://open.spotify.com/track/33HQZb5yMqtHmmJ0kLrO3l"
     },
     {
       "album": {
@@ -25204,6 +25702,42 @@
       "duration_ms": 297440,
       "name": "\u6df1\u547c\u5438",
       "url": "https://open.spotify.com/track/5kOHq7CXky7tGq0MELDvC7"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182696,
+      "name": "\u7570\u5730\u6200",
+      "url": "https://open.spotify.com/track/3BLDDDkS5CyjjpoSILN46J"
+    },
+    {
+      "album": {
+        "name": "\u597d\u597d\u5403\u98ef",
+        "url": "https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260727,
+      "name": "\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1",
+      "url": "https://open.spotify.com/track/41pTHJgiE6RK8ptyGz2WLp"
     },
     {
       "album": {
@@ -25265,6 +25799,24 @@
     },
     {
       "album": {
+        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228686,
+      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -25280,6 +25832,24 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183180,
+      "name": "\u88ab\u559c\u6b61\u771f\u7684\u6709\u90a3\u9ebc\u91cd\u8981\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/5eMmL4m4VwWYyo5mpYfGPD"
     },
     {
       "album": {
@@ -25373,6 +25943,24 @@
     },
     {
       "album": {
+        "name": "A Letter.",
+        "url": "https://open.spotify.com/album/34746CcFVXWEK2UcH47OUH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u7063",
+      "url": "https://open.spotify.com/track/1QUkVUJiQGR0bNe7aS8Mfb"
+    },
+    {
+      "album": {
         "name": "pink blue",
         "url": "https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0"
       },
@@ -25406,6 +25994,24 @@
       "duration_ms": 183917,
       "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
       "url": "https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ"
+    },
+    {
+      "album": {
+        "name": "\u516d\u4e00\u4e5d",
+        "url": "https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244586,
+      "name": "\u98db\u86fe\u64b2\u706b",
+      "url": "https://open.spotify.com/track/0CKaY4qY9dRC6wf9jfbbrk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: +plusamari
 
-255 songs - 11 hr 7 min
+255 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Reaching](https://open.spotify.com/track/6Kjgp8Fcmyvqn2sfZcs0nN) | [IMVN](https://open.spotify.com/artist/0zvjAHqFkgoiQb5y5EBF6w) | [Reaching](https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj) | 2:37 | 2026-07-09 |  |
 | [rectangles](https://open.spotify.com/track/25roMo7yEbFbyt6vlbUlQ4) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [rectangles](https://open.spotify.com/album/6J3ygrQ3WnVyiQEb6hcQKm) | 2:32 | 2026-01-09 | 2026-04-03 |
 | [Risk](https://open.spotify.com/track/5isXNs4Awya0ljdBIA6De7) | [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Risk](https://open.spotify.com/album/6toqV2qKyH0oG4dMDYSUSB) | 1:49 | 2026-03-20 | 2026-08-29 |
+| [Run It Up](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 2:22 | 2026-09-10 |  |
 | [Rust Bucket](https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Rust Bucket](https://open.spotify.com/album/3t36VFJZEVIaViy3c5i53x) | 2:53 | 2026-08-28 |  |
 | [SADAM](https://open.spotify.com/track/2kUnhPF2WzafNnXxKy925t) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh), [N4T](https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz) | [SADAM](https://open.spotify.com/album/6ff20s7O9nwOySdtwTP63A) | 1:37 | 2026-08-14 |  |
 | [Saka \(Lemme Know\)](https://open.spotify.com/track/756gzynJpXp7przV0xrnHv) | [Nicole Blakk](https://open.spotify.com/artist/5HnkBZ2fxKMj6yE2DagFiP) | [Saka \(Lemme Know\)](https://open.spotify.com/album/5N8uPd0h59Xkzp5hr9YaFN) | 2:18 | 2026-06-18 |  |
@@ -231,7 +232,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-05-16 |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-10-23 | 2025-11-07 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-06-19 |
-| [Track 12](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 0:00 | 2026-09-10 |  |
 | [TREASON](https://open.spotify.com/track/2mGMvxq2oVALHZHPGgMi1e) | [KIRBS](https://open.spotify.com/artist/1ZzoRMK01oIoH21Rim84Rf) | [TREASON](https://open.spotify.com/album/5tUus2ON9GAfqn4o9hpKG0) | 2:00 | 2026-09-10 |  |
 | [Trippin'](https://open.spotify.com/track/22sUkuhndJu54imupWXb6p) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Trippin'](https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib) | 2:53 | 2025-10-23 | 2026-02-06 |
 | [trust in u](https://open.spotify.com/track/6zytMRFFNCcXR1P5SYBXhn) | [Trtl](https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32) | [trust in u](https://open.spotify.com/album/6FLmKsftSYNQgK3B1FUIr5) | 2:50 | 2026-07-09 |  |

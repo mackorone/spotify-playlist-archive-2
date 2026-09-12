@@ -5394,7 +5394,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212857,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
@@ -17816,6 +17816,24 @@
       "duration_ms": 243586,
       "name": "Llora Llora",
       "url": "https://open.spotify.com/track/3fgScn3fp098tqIVgVosd5"
+    },
+    {
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/77xDjdwYz3oY1Vv2hSv3Gy"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/0oYhhckOA2JrLprhgPV3Ot"
     },
     {
       "album": {

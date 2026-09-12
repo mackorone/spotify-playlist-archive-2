@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Paul Partohap",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Farrel Hilal",
   "name": "JIVVA",
   "tracks": [
     {
@@ -3539,6 +3539,28 @@
     },
     {
       "album": {
+        "name": "No One Else (Only You)",
+        "url": "https://open.spotify.com/album/7y1XDVCyDEIsKPR8Tie2MS"
+      },
+      "artists": [
+        {
+          "name": "Wizzow",
+          "url": "https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq"
+        },
+        {
+          "name": "Anggun Dae",
+          "url": "https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199682,
+      "name": "No One Else (Only You)",
+      "url": "https://open.spotify.com/track/4M2Vf0ET3YJ8MWj3PbHTwW"
+    },
+    {
+      "album": {
         "name": "NONA",
         "url": "https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V"
       },
@@ -5342,6 +5364,24 @@
       "duration_ms": 207600,
       "name": "Under the Silver Moon",
       "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
+    },
+    {
+      "album": {
+        "name": "Untuk Apa",
+        "url": "https://open.spotify.com/album/6kIoOcxerEzMpbA2b7OuLA"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Untuk Apa",
+      "url": "https://open.spotify.com/track/3i87OzeSLGTuIagcZBQ1g2"
     },
     {
       "album": {

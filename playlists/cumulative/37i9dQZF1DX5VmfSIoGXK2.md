@@ -4,12 +4,12 @@
 
 > the wonderful sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-277 songs - 17 hr 12 min
+278 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [35k](https://open.spotify.com/track/2zetGr1iFeihczuZ4IxmS3) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [35k](https://open.spotify.com/album/5zt1HJWzyBrXpbbjPvuxs2) | 2:56 | 2025-05-09 | 2026-01-17 |
-| [@ tha jazz club](https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [@ tha jazz club](https://open.spotify.com/album/0TlTqm0js7xR8p0NsBToQS) | 3:46 | 2025-02-21 |  |
+| [@ tha jazz club](https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [@ tha jazz club](https://open.spotify.com/album/0TlTqm0js7xR8p0NsBToQS) | 3:46 | 2025-02-21 | 2026-09-12 |
 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 | 2025-05-09 | 2026-09-05 |
 | [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 | 2025-05-24 |
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 | 2025-08-02 |
@@ -176,6 +176,7 @@
 | [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 | 2025-04-29 |
 | [My Worth](https://open.spotify.com/track/22hAYuBmT7JyNi7904WF3q) | [Yasin Hazim](https://open.spotify.com/artist/1zQG3HG2ikVmCzRetpDS5k) | [My Worth](https://open.spotify.com/album/5TZ5oHRgcwt4KMbDaj6HEL) | 4:04 | 2026-07-10 |  |
 | [Nectar](https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Nectar](https://open.spotify.com/album/2e7fjwbhErSDkxjs2WQP4p) | 2:15 | 2025-03-07 | 2025-08-02 |
+| [Need Your Love to Live](https://open.spotify.com/track/5DZZX7eikqDuUNlFLXDFVw) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Need Your Love to Live](https://open.spotify.com/album/1F6IqgZJlqc0pTz2dG9pU4) | 3:10 | 2026-09-11 |  |
 | [Newness](https://open.spotify.com/track/2lcakwd3OkGq63LW9lfZMv) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Newness](https://open.spotify.com/album/0klrfwgPj1Yxed3OuOYmRE) | 6:02 | 2025-02-21 | 2026-06-13 |
 | [nice to meet u](https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [untitled](https://open.spotify.com/album/3zuMVGJKBDFOehhzatUuV7) | 3:50 | 2025-02-21 | 2026-01-17 |
 | [night lights.](https://open.spotify.com/track/07apeE8lbjEm4KQQGDXzw6) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [St\-Amour](https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96) | [night lights.](https://open.spotify.com/album/4qwisNZ7OKOmuy4CUTAlKN) | 2:12 | 2025-08-01 |  |

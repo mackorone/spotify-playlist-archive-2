@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-1,186 songs - 2 day 15 hr 58 min
+1,187 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Band Theke](https://open.spotify.com/track/0fmYXWzzqFYD6knpZK0Jal) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Band Theke](https://open.spotify.com/album/5oSCmWYXzDRAf0LGdCSRgw) | 3:07 | 2022-09-01 | 2023-02-04 |
 | [Bande Banjo](https://open.spotify.com/track/3XcS6alWOBfANFmLdm6Sah) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [PRIME](https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY) | 2:17 | 2025-03-26 | 2026-02-05 |
 | [Bari Bari Barsi](https://open.spotify.com/track/035zpldhfoOyyprs860zNp) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Tren D](https://open.spotify.com/artist/6V8eYCPda6zJq0PHiXMK7H), [Haricharanpreet](https://open.spotify.com/artist/7eOqLY143etr0rbhMxXAJN) | [Bari Bari Barsi](https://open.spotify.com/album/6CUmGQ80qLWHs3um0uv02C) | 3:01 | 2025-03-05 | 2025-03-24 |
-| [Barkat](https://open.spotify.com/track/6OdZThO7vgt6jjW2Z8BbC3) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Barkat](https://open.spotify.com/album/5VPpaSMokUAYHJVWJThV0l) | 3:09 | 2025-01-28 |  |
+| [Barkat](https://open.spotify.com/track/6OdZThO7vgt6jjW2Z8BbC3) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Barkat](https://open.spotify.com/album/5VPpaSMokUAYHJVWJThV0l) | 3:09 | 2025-01-28 | 2026-09-12 |
 | [Bas](https://open.spotify.com/track/1NfnyCDpRMTso2ow5fcfTL) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Bas](https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX) | 2:30 | 2022-03-18 | 2022-05-11 |
 | [Battiyan](https://open.spotify.com/track/4DHK5LbsQErwvi2Rtj288z) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK) | [Battiyan](https://open.spotify.com/album/5aqKAXAol6AQyV00T33dh5) | 3:12 | 2022-06-16 | 2022-07-06 |
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2024-08-02 |  |
@@ -182,6 +182,7 @@
 | [Choodhe Wali](https://open.spotify.com/track/7EpBW8ix608NfhLh86wclH) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn) | [Choodhe Wali](https://open.spotify.com/album/1UxPVWhAlJFxzaiyAxqmld) | 3:21 | 2022-04-08 | 2022-04-29 |
 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 | 2024-06-15 | 2024-08-31 |
 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 | 2022-03-08 | 2022-04-06 |
+| [Churai Janda Eh](https://open.spotify.com/track/7LsDlVM8bResEZ0aR2P5IN) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Valentine Hits 2019](https://open.spotify.com/album/6aMe4FeVVChCwBVwL5mxwZ) | 4:15 | 2026-09-11 |  |
 | [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 | 2022-05-11 |
 | [Closer](https://open.spotify.com/track/14kDPgrfj2jv6z4FmAZd4Q) | [Anirudh Sharma](https://open.spotify.com/artist/4lMtdJMEHNQok5YLbgUBEz) | [Closer](https://open.spotify.com/album/0b5hxi1Nqhy6Qq0EnlYqVJ) | 3:59 | 2022-08-17 | 2022-09-01 |
 | [Coffee](https://open.spotify.com/track/5CNSivEohUlVq9bd10y3pn) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Coffee](https://open.spotify.com/album/05mO6VNsgSVF5xQRsnpa3I) | 2:44 | 2026-06-30 |  |

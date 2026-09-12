@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Dystopian",
+        "url": "https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Among a Hundred Faces",
+      "url": "https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ"
+    },
+    {
+      "album": {
         "name": "Transcendental Youth",
         "url": "https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS"
       },
@@ -15160,6 +15178,24 @@
       "duration_ms": 60232,
       "name": "Prologue (feat. Jordon Ellis)",
       "url": "https://open.spotify.com/track/3pu7cPzTVatpVAyUdvPhtX"
+    },
+    {
+      "album": {
+        "name": "Tours",
+        "url": "https://open.spotify.com/album/3OgsCbhoLkWuOB1j8ZmO8G"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237543,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/2jOpG7454PS9H6WoichjzN"
     },
     {
       "album": {

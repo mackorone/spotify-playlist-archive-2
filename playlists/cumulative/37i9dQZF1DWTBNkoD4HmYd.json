@@ -2799,6 +2799,36 @@
     },
     {
       "album": {
+        "name": "Antonio Vivaldi - Cello Sonatas",
+        "url": "https://open.spotify.com/album/1xXB2xhjFG4NMTdhLcrwwb"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Rosana Lanzelotte",
+          "url": "https://open.spotify.com/artist/2ICIftO5D2JUyQmIxfh81Y"
+        },
+        {
+          "name": "Antonio Meneses",
+          "url": "https://open.spotify.com/artist/71ZkFRxbUaC9OFrTHTYHPh"
+        },
+        {
+          "name": "David Chew",
+          "url": "https://open.spotify.com/artist/3ppooRNHqE7rGZuq1Y7p1k"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 746365,
+      "name": "Sonata No. 1, Si Bemol Maior (B Flat Major), RV 47: Largo - Allegro - Largo - Allegro",
+      "url": "https://open.spotify.com/track/0KXIgkNDXa8JNP6bTBchzk"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Pastor Fido (Il), Op. 13, Nos. 1-6",
         "url": "https://open.spotify.com/album/1xmUfzUBuy0DtduoVhWGpp"
       },

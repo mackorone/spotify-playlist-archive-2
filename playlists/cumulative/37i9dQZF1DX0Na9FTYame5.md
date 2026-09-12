@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-416 songs - 18 hr 47 min
+417 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Du liebst mich nicht](https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Du liebst mich nicht](https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC) | 2:40 | 2024-06-28 | 2024-10-31 |
 | [DUBAI](https://open.spotify.com/track/5K9x7Npbq2swS3XSmQjFtZ) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [DUBAI](https://open.spotify.com/album/73rMNDoChpSjFrI7WvpSTW) | 2:44 | 2026-08-31 |  |
 | [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 | 2024-09-23 |
-| [Dunya](https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Dunya](https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz) | 2:54 | 2025-07-03 |  |
+| [Dunya](https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Dunya](https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz) | 2:54 | 2025-07-03 | 2026-09-12 |
 | [DVD](https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [DVD](https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa) | 2:18 | 2026-02-12 | 2026-03-31 |
 | [Edamame](https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Edamame](https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2) | 1:55 | 2025-07-03 | 2025-08-10 |
 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 | 2024-10-24 | 2024-11-12 |
@@ -274,6 +274,7 @@
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
 | [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 | 2025-08-11 |
+| [NICHT PERFEKT](https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN) | [vic](https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY), [Matterz](https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP), [ducato](https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK), [enna](https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC) | [NICHT PERFEKT](https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8) | 2:27 | 2026-09-08 |  |
 | [Nie](https://open.spotify.com/track/1U6z6GfdQDnRrnI6LpjARI) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Nie](https://open.spotify.com/album/6KurEcolD2okUE6NWoNt7o) | 2:49 | 2026-08-31 |  |
 | [Nie wieder](https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Nie wieder](https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC) | 2:59 | 2025-07-17 | 2026-06-12 |
 | [Nie wieder](https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Nie wieder](https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY) | 2:36 | 2026-01-30 | 2026-05-01 |

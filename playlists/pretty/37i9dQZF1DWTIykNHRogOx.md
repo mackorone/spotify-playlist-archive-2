@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,548 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,557 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [wow](https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [wow](https://open.spotify.com/album/2KpveXuktDa0smRM2rgh7P) | 1:40 |
 | 50 | [ENTRE TON ÉPAULE ET TON COEUR](https://open.spotify.com/track/6qoMOknWFZt2fQt22iyzgZ) | [RAVAGE](https://open.spotify.com/artist/2nzJoceQS5bcczyqPolHq6), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh), [Gaspard Royant](https://open.spotify.com/artist/4TYLelqEy8Fy7dJrNPOmN4) | [ENTRE TON ÉPAULE ET TON COEUR](https://open.spotify.com/album/0L0axrxsQTpVgMs6aLWRP0) | 3:22 |
 
-Snapshot ID: `AAAAALEOfGVfvEOoP/VS5oXwk3Upf5eX`
+Snapshot ID: `AAAAABx/woMbR8nVGlWsklovKK6YJM0H`

@@ -4,7 +4,7 @@
 
 > Powerful Classical 💅
 
-92 songs - 7 hr 19 min
+93 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [8 Slavonic Dances, Op\. 72, B\. 147: 2\. Dumka\. Allegretto grazioso](https://open.spotify.com/track/1mVW84IVH1adjsp4jiU4Cf) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Dvorák: Slavonic Dances Opp\. 46 & 72](https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu) | 5:41 | 2026-06-12 |  |
 | [A Night On The Bare Mountain](https://open.spotify.com/track/7ziy9EUNCwYgXQsqxyW7pb) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 11:50 | 2026-06-12 |  |
 | [Abdelazer: Rondeau](https://open.spotify.com/track/2Pjkku2SZrbCTygKVBxUM3) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Essential Baroque](https://open.spotify.com/album/2ptb27zRmcc2Iu9NlG5URO) | 1:37 | 2026-06-12 |  |
+| [Aida, Act I: Ritorna vincitor!](https://open.spotify.com/track/4U7f0ckgBtGwTenjg9SsRu) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Lise Davidsen](https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [Verdi](https://open.spotify.com/album/362crzd2HjuCyhduir7Pwv) | 7:23 | 2026-09-11 |  |
 | [Andrea Chénier / Act III: "La mamma morta"](https://open.spotify.com/track/45EO4JXAFZTGn1ag7SxyBH) | [Umberto Giordano](https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj), [Anna Netrebko](https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Verismo](https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ) | 4:58 | 2026-06-12 |  |
 | [Avant la suite](https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Avant la suite](https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0) | 3:37 | 2026-06-12 |  |
 | [Bangalter: Mythologies: XIX\. Circonvolutions \(Remix\)](https://open.spotify.com/track/4QPIQzF0LRwBCMaciXdMm3) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Circonvolutions](https://open.spotify.com/album/2g5hOpZPsIImvo3d4ITFbQ) | 2:10 | 2026-06-12 |  |

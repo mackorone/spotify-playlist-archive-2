@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,292 likes - 90 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,241 likes - 90 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [wie du liebst](https://open.spotify.com/track/4bydS9c1vpLXjyg79TOyb4) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [wie du liebst](https://open.spotify.com/album/3351R1TgdmIoBJlWqeQVgK) | 2:52 |
 | 90 | [SO FÜHLT SICH LIEBE AN](https://open.spotify.com/track/5GTVtAPY9Fe6Fb2UyI9vR6) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [BIS ICH NICHTS MEHR BRAUCHE](https://open.spotify.com/album/52TCsqZtacS55hf6mbkMwc) | 3:21 |
 
-Snapshot ID: `AAAAAJNFJUj/jJrKbMuUI2kziDvMhNGO`
+Snapshot ID: `AAAAAJQnAoldKCeapaoAUOjR2JWtAEOn`

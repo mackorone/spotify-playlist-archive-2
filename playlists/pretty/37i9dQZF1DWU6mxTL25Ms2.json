@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 64785,
+  "num_followers": 64800,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 12 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/4HNVJm3wzVxLYkVl9KVb2d"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u30ab\u30d5\u30a7 (CV. \u5c0f\u5009 \u552f)",
+          "url": "https://open.spotify.com/artist/2d98ZLHWDouB08EmvIk6qi"
+        },
+        {
+          "name": "\u30a8\u30a2\u30b7\u30e3\u30ab\u30fc\u30eb (CV. \u6d25\u7530\u7f8e\u6ce2)",
+          "url": "https://open.spotify.com/artist/7eTEcU3EfoTM1VQzSYOYs5"
+        },
+        {
+          "name": "\u30ca\u30a4\u30b9\u30cd\u30a4\u30c1\u30e3 (CV. \u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/0YcfowlzLQVZ9SKqIxjGZu"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "Go This Way - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3GZ4KCsozZaVEokIUiuY5w"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
         "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
       },
@@ -1091,22 +1115,6 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "SEVEN - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/5FniCiUjF8HwNRd157hLpK"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
         "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
       },
@@ -1135,6 +1143,22 @@
       "duration_ms": 287800,
       "name": "Ms. VICTORIA",
       "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "SEVEN - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/5FniCiUjF8HwNRd157hLpK"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -1207,6 +1231,22 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.3 Original Sound Track",
+        "url": "https://open.spotify.com/album/4tP334SVrbkBUAn9fOWAbj"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "\u9858\u3044\u306e\u30ab\u30bf\u30c1",
+      "url": "https://open.spotify.com/track/1Nw64nB9cnVTA3VvuvkA3r"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
         "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
       },
@@ -1247,22 +1287,6 @@
       "duration_ms": 295000,
       "name": "RUN\u00d7RUN\uff01",
       "url": "https://open.spotify.com/track/2S0bS3tTV8jqz0WxZel9AG"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.3 Original Sound Track",
-        "url": "https://open.spotify.com/album/4tP334SVrbkBUAn9fOWAbj"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
-          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "\u9858\u3044\u306e\u30ab\u30bf\u30c1",
-      "url": "https://open.spotify.com/track/1Nw64nB9cnVTA3VvuvkA3r"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -1467,26 +1491,26 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 12 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/4HNVJm3wzVxLYkVl9KVb2d"
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 09 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi"
       },
       "artists": [
         {
-          "name": "\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u30ab\u30d5\u30a7 (CV. \u5c0f\u5009 \u552f)",
-          "url": "https://open.spotify.com/artist/2d98ZLHWDouB08EmvIk6qi"
+          "name": "\u30d5\u30a1\u30a4\u30f3\u30e2\u30fc\u30b7\u30e7\u30f3 (CV. \u6a4b\u672c\u3061\u306a\u307f)",
+          "url": "https://open.spotify.com/artist/3IdkZCpsf4FpZoZm9IDlJw"
         },
         {
-          "name": "\u30a8\u30a2\u30b7\u30e3\u30ab\u30fc\u30eb (CV. \u6d25\u7530\u7f8e\u6ce2)",
-          "url": "https://open.spotify.com/artist/7eTEcU3EfoTM1VQzSYOYs5"
+          "name": "\u30e1\u30b8\u30ed\u30e9\u30a4\u30a2\u30f3 (CV. \u571f\u5e2b\u4e9c\u6587)",
+          "url": "https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz"
         },
         {
-          "name": "\u30ca\u30a4\u30b9\u30cd\u30a4\u30c1\u30e3 (CV. \u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/0YcfowlzLQVZ9SKqIxjGZu"
+          "name": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a1\u30eb\u30b3\u30f3 (CV. \u5927\u548c\u7530\u4ec1\u7f8e)",
+          "url": "https://open.spotify.com/artist/083XOxhruihHWXyNpxX9bV"
         }
       ],
-      "duration_ms": 299840,
-      "name": "Go This Way - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3GZ4KCsozZaVEokIUiuY5w"
+      "duration_ms": 247080,
+      "name": "\u9752\u6625\u304c\u5f85\u3063\u3066\u308b - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/4fD65gwG4jMFx8KgxeaIGp"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -1527,30 +1551,6 @@
       "duration_ms": 320546,
       "name": "\u6625\u7a7aBLUE - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3FZh65SbdE0zQpoE3ebtDo"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 09 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30a1\u30a4\u30f3\u30e2\u30fc\u30b7\u30e7\u30f3 (CV. \u6a4b\u672c\u3061\u306a\u307f)",
-          "url": "https://open.spotify.com/artist/3IdkZCpsf4FpZoZm9IDlJw"
-        },
-        {
-          "name": "\u30e1\u30b8\u30ed\u30e9\u30a4\u30a2\u30f3 (CV. \u571f\u5e2b\u4e9c\u6587)",
-          "url": "https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz"
-        },
-        {
-          "name": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a1\u30eb\u30b3\u30f3 (CV. \u5927\u548c\u7530\u4ec1\u7f8e)",
-          "url": "https://open.spotify.com/artist/083XOxhruihHWXyNpxX9bV"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "\u9752\u6625\u304c\u5f85\u3063\u3066\u308b - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/4fD65gwG4jMFx8KgxeaIGp"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -1828,6 +1828,22 @@
       },
       "artists": [
         {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "unbreakable - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/2Pt4kU6x2nAV5xjr0kdnaW"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
+      },
+      "artists": [
+        {
           "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
           "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
         }
@@ -1851,22 +1867,6 @@
       "duration_ms": 256825,
       "name": "EMPRESS GAME - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/4G8Dngt0twioqFZvA6gNWe"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "unbreakable - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/2Pt4kU6x2nAV5xjr0kdnaW"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
-      },
-      "artists": [
-        {
-          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
-          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "\u624b\u7db1\u3068\u7d46 - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3ccWvbuxDmvuhU6dWrRLoJ"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 238480,
       "name": "WINNING MELODY - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/2qIamn3Cgk49M2337j32qQ"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
+      },
+      "artists": [
+        {
+          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "\u624b\u7db1\u3068\u7d46 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3ccWvbuxDmvuhU6dWrRLoJ"
     },
     {
       "added_at": "2026-09-08 16:35:28",

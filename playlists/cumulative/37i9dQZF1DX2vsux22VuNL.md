@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz, Sotam
 
-533 songs - 1 day 3 hr 40 min
+534 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Coração Pisciano](https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Rapha Renó](https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh) | [Coração Pisciano](https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK) | 2:01 | 2023-02-04 | 2023-07-08 |
 | [Cores](https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Cores](https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt) | 2:28 | 2023-12-08 | 2024-01-20 |
 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 | 2026-05-22 |  |
-| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 |  |
+| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 | 2026-09-12 |
 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 | 2024-03-08 | 2024-10-12 |
 | [CÉU](https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 4:26 | 2024-07-26 | 2024-09-14 |
 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 | 2022-09-02 | 2022-09-21 |
@@ -287,6 +287,7 @@
 | [MINHA CURA](https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:34 | 2022-12-24 | 2023-07-15 |
 | [MINHA CURA \- REMIX](https://open.spotify.com/track/3LxUi6dRPOza6BFcM6xXdW) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:34 | 2023-05-05 | 2023-09-09 |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-03-31 | 2023-11-18 |
+| [Miragem](https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Curiosidadista](https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN) | 2:52 | 2026-09-11 |  |
 | [Modo Avião](https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:59 | 2023-03-10 | 2023-10-14 |
 | [Modo Avião](https://open.spotify.com/track/4vNG9tDYPHdTdkglVwtGc5) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Modo Avião](https://open.spotify.com/album/3fOkKmTjhXTY15t5iZVT3I) | 2:31 | 2025-02-14 | 2025-05-03 |
 | [Movimento](https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Movimento](https://open.spotify.com/album/6NKzLG2NXWDb8wUShu2xyB) | 3:18 | 2023-03-31 | 2023-06-24 |

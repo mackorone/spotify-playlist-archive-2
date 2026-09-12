@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 144162,
+  "num_followers": 144161,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Bello Espejismo",
+        "url": "https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Bello Espejismo",
+      "url": "https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Bello Espejismo",
-        "url": "https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Bello Espejismo",
-      "url": "https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Mas Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 241640,
       "name": "T\u00fa Pasaje al Olvido",
       "url": "https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
         }
       ],
-      "duration_ms": 184424,
-      "name": "Tu Hora Pas\u00f3",
-      "url": "https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo"
+      "duration_ms": 168986,
+      "name": "Mi Gran Secreto",
+      "url": "https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Mi Gran Secreto",
-      "url": "https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn"
+      "duration_ms": 184424,
+      "name": "Tu Hora Pas\u00f3",
+      "url": "https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Se Me Perdio La Cadenita",
-      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Grandes Exitos de Odilio Gonz\u00e1lez: Vol. 7",
         "url": "https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl"
       },
@@ -663,18 +647,38 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
       "artists": [
         {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 156177,
-      "name": "De Lejos Tierras",
-      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
+      "duration_ms": 157866,
+      "name": "Se Me Perdio La Cadenita",
+      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 156177,
+      "name": "De Lejos Tierras",
+      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
     },
     {
       "added_at": "2026-02-23 16:04:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,518,070 likes - 230 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,519,638 likes - 230 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 229 | [Fast Phenomena](https://open.spotify.com/track/0e5TeLV9V1bDBIvgspIhse) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Fast Phenomena](https://open.spotify.com/album/6DX3zXZZZPBiCokCRMBXmr) | 2:59 |
 | 230 | [Wavelength](https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly) | [LOOKMØR](https://open.spotify.com/artist/1Lz1w52i8Ogfeb6FA9VCyg) | [Wavelength](https://open.spotify.com/album/2eNGFUEpUf6qdhxohWxwfW) | 2:45 |
 
-Snapshot ID: `AAAAACTlcp0mGYG+Y6l5+hJWQGsTHebj`
+Snapshot ID: `AAAAAPUjCJpjcr8T2KNxIVvOehyB8Q4F`

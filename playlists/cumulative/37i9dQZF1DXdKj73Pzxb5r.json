@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Jinan Lakeisha",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Maseta",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 180000,
       "name": "Beautiful Youth",
       "url": "https://open.spotify.com/track/0vVfH3S5gvJPDA2nKYyoN7"
+    },
+    {
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/1Hmkit4XQjy665ZmGmqdkJ"
+      },
+      "artists": [
+        {
+          "name": "The Candle Light Children",
+          "url": "https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239202,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2lJLsTZK6fe83NjJzT6cQS"
     },
     {
       "album": {
@@ -3434,6 +3452,24 @@
       "duration_ms": 143831,
       "name": "Hassled Out!",
       "url": "https://open.spotify.com/track/5BGKmoJMcFM5uK0HgiYuY9"
+    },
+    {
+      "album": {
+        "name": "Hawa",
+        "url": "https://open.spotify.com/album/3SLWNWor3ibLWQHy5BkRiE"
+      },
+      "artists": [
+        {
+          "name": "Havva",
+          "url": "https://open.spotify.com/artist/7eawPAKLgohJE8qtLGP014"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221543,
+      "name": "Hawa",
+      "url": "https://open.spotify.com/track/0Q7p2SEgilFWbZvqbQf9ra"
     },
     {
       "album": {
@@ -6212,7 +6248,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 257000,
       "name": "Merana di Atas Cahaya",
       "url": "https://open.spotify.com/track/6mqPpg5suvfUEIuiMV6TJd"
@@ -8203,6 +8239,24 @@
     },
     {
       "album": {
+        "name": "SAYANG (I Can't Lie)",
+        "url": "https://open.spotify.com/album/0ZAtfdWuB0K2FxDlesYRAW"
+      },
+      "artists": [
+        {
+          "name": "Maseta",
+          "url": "https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "SAYANG (I Can't Lie)",
+      "url": "https://open.spotify.com/track/76vXDOIkOXTOWHTxrDYexm"
+    },
+    {
+      "album": {
         "name": "Sebentar",
         "url": "https://open.spotify.com/album/0yN9p4tirnp9mIbCPQ4YWv"
       },
@@ -8460,6 +8514,24 @@
       "duration_ms": 240995,
       "name": "Sembunyi Dulu",
       "url": "https://open.spotify.com/track/2ZKB9tTGEIvDxxRTRb9eo7"
+    },
+    {
+      "album": {
+        "name": "Semesta X Nirvana",
+        "url": "https://open.spotify.com/album/7AF66oleVbwgqvtmZdhW67"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Semesta",
+      "url": "https://open.spotify.com/track/3UGFBisKkqo58s1DQfisQP"
     },
     {
       "album": {
@@ -8997,6 +9069,28 @@
     },
     {
       "album": {
+        "name": "FASHION INTERNET",
+        "url": "https://open.spotify.com/album/6Lzf4X9qYoeaZ1QOLJQ1Fy"
+      },
+      "artists": [
+        {
+          "name": "Atlesta",
+          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
+        },
+        {
+          "name": "barirul",
+          "url": "https://open.spotify.com/artist/6FeOcgDYAhTks0YpxSTr3h"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214941,
+      "name": "Special Section",
+      "url": "https://open.spotify.com/track/0jgfPId0BHxisoqvMcLxz6"
+    },
+    {
+      "album": {
         "name": "special wishes 3",
         "url": "https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP"
       },
@@ -9455,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "Cowabunga Deluxe",
+        "url": "https://open.spotify.com/album/7zbaCpKnFcDRxCvA6Srh7e"
+      },
+      "artists": [
+        {
+          "name": "Sajama Cut",
+          "url": "https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340145,
+      "name": "Tak Kutemukan Lagi Apa Yang Dapat Dicintai Dari Hidup Ini - Super Sad Version",
+      "url": "https://open.spotify.com/track/08EbgBWdf8BgVNEIBVqxqy"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
       },
@@ -9716,6 +9828,24 @@
       "duration_ms": 236212,
       "name": "Terdiasi",
       "url": "https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6"
+    },
+    {
+      "album": {
+        "name": "Zzuf",
+        "url": "https://open.spotify.com/album/7q975qcq1XsO3uwj0pxiFm"
+      },
+      "artists": [
+        {
+          "name": "ZZUF",
+          "url": "https://open.spotify.com/artist/3bAPJlYXp3xosM0se7sttr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192887,
+      "name": "Terjaga Lagi",
+      "url": "https://open.spotify.com/track/7bkJLI3IM5ZG0iDq9XOO4j"
     },
     {
       "album": {

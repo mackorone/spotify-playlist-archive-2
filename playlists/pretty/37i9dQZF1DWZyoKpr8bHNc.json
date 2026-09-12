@@ -1,12 +1,12 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 122185,
+  "num_followers": 122287,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDNtd5pdHUFj4DLSM8OkzFjw8u/",
+  "snapshot_id": "AAAAAANXvaIaLU0YUz8V6AK7OKyLTsDD",
   "tracks": [
     {
       "added_at": "2025-09-15 06:53:21",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Rege'et Wahdi",
-        "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
-      },
-      "artists": [
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "Al Yadi El Yadi",
-      "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Best of Sayed Darwish",
         "url": "https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 141280,
       "name": "Zourouni Kouli Sanah Marah",
       "url": "https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Rege'et Wahdi",
+        "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "Al Yadi El Yadi",
+      "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -595,22 +595,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Best of Salwa El Katrib, Vol. 1",
-        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
+        "name": "Agmal Aghany Laila Mourad",
+        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
       },
       "artists": [
         {
-          "name": "Salwa El Katrib",
-          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
-        },
-        {
-          "name": "Romeo Lahoud",
-          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
+          "name": "Laila Mourad",
+          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Khedni Maak Aa Darb Bi'ldi",
-      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
+      "duration_ms": 332291,
+      "name": "Ana Alby Daleely",
+      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -631,18 +627,22 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Agmal Aghany Laila Mourad",
-        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
+        "name": "Best of Salwa El Katrib, Vol. 1",
+        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
       },
       "artists": [
         {
-          "name": "Laila Mourad",
-          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
+          "name": "Salwa El Katrib",
+          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        },
+        {
+          "name": "Romeo Lahoud",
+          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
         }
       ],
-      "duration_ms": 332291,
-      "name": "Ana Alby Daleely",
-      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
+      "duration_ms": 254640,
+      "name": "Khedni Maak Aa Darb Bi'ldi",
+      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Issam Raggi",
-        "url": "https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq"
-      },
-      "artists": [
-        {
-          "name": "Issam Raggi",
-          "url": "https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD"
-        }
-      ],
-      "duration_ms": 325917,
-      "name": "Ya Samra Ya Tamr Hindi",
-      "url": "https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 666840,
       "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
       "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Issam Raggi",
+        "url": "https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq"
+      },
+      "artists": [
+        {
+          "name": "Issam Raggi",
+          "url": "https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD"
+        }
+      ],
+      "duration_ms": 325917,
+      "name": "Ya Samra Ya Tamr Hindi",
+      "url": "https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx"
     },
     {
       "added_at": "2025-09-15 06:53:21",

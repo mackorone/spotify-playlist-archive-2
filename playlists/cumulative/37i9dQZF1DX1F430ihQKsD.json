@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 198883,
       "name": "Aucune fleur",
       "url": "https://open.spotify.com/track/1JydHvzhSmrHsxoTOYhog7"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200820,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/2SKqmrk4SfW1OAfwsnvfyD"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206574,
       "name": "Cloudless Sky Of None",
       "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Compostelle",
+        "url": "https://open.spotify.com/album/507iCB8XXIF5aQvDUpPRo6"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Compostelle",
+      "url": "https://open.spotify.com/track/0pbvZVvgGWvKnKXKRYurm5"
+    },
+    {
+      "album": {
         "name": "Contemplating You",
         "url": "https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 117624,
       "name": "copacabana",
       "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169722,
       "name": "Down To The Wire",
       "url": "https://open.spotify.com/track/0DagKFYImY7OibkxGqaG5E"
@@ -6308,7 +6326,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 150097,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4eEf5z1N58Hs8iZEBuer7J"
@@ -6634,7 +6652,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 198848,
       "name": "Hazel",
       "url": "https://open.spotify.com/track/0aHT3nFDOFI4naacMUieko"
@@ -6838,7 +6856,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 227160,
       "name": "Hikikomori",
       "url": "https://open.spotify.com/track/5JhwoTvO5bF1n7dOzt6Lk3"
@@ -9777,6 +9795,24 @@
     },
     {
       "album": {
+        "name": "Losing at Life",
+        "url": "https://open.spotify.com/album/2kLurua2JzVvVrfV3Z0daT"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188471,
+      "name": "Losing at Life",
+      "url": "https://open.spotify.com/track/5eNvFQipAM17w7fVD7ZKcY"
+    },
+    {
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/1MNlElK1BLXdfKR3H3vGo7"
       },
@@ -10116,7 +10152,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 207333,
       "name": "Magicienne, Vol. 2",
       "url": "https://open.spotify.com/track/4vpjHwMigWK8RcF80poTuS"
@@ -11204,7 +11240,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177104,
       "name": "Ne me fais pas mal",
       "url": "https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm"
@@ -15078,7 +15114,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 140229,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2TLb79LetSbufGAbKDBqEg"
@@ -15198,6 +15234,28 @@
       "duration_ms": 237500,
       "name": "something about u",
       "url": "https://open.spotify.com/track/64nIdozlLMcpxGHXjVA0jf"
+    },
+    {
+      "album": {
+        "name": "something is wrong with you",
+        "url": "https://open.spotify.com/album/2xjlrgXMTnuUnHQCHADfHL"
+      },
+      "artists": [
+        {
+          "name": "distantiate",
+          "url": "https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej"
+        },
+        {
+          "name": "Bruxely!",
+          "url": "https://open.spotify.com/artist/4bs5KFkRGyQdgyAq9lK2Hy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87293,
+      "name": "something is wrong with you",
+      "url": "https://open.spotify.com/track/7cN5i7m6C1vx4F0GRQymNB"
     },
     {
       "album": {
@@ -15390,6 +15448,24 @@
       "duration_ms": 207928,
       "name": "Spring Bug",
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "album": {
+        "name": "St-Misanthrope",
+        "url": "https://open.spotify.com/album/1q02FZFSjCqVKW2pjyr3Ya"
+      },
+      "artists": [
+        {
+          "name": "Max D Tremblay",
+          "url": "https://open.spotify.com/artist/5lteMIhzAiVNqYvcoKZK2N"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163676,
+      "name": "St-Misanthrope",
+      "url": "https://open.spotify.com/track/2RGlA5KcrwSGH1nmLn0Glr"
     },
     {
       "album": {
@@ -17524,7 +17600,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 131250,
       "name": "Viva la vida Aviva",
       "url": "https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC"
@@ -18020,7 +18096,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183306,
       "name": "Worldwide Luv!",
       "url": "https://open.spotify.com/track/0xC9C5hsVMhxNJc8hBKTeM"
@@ -18234,7 +18310,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 172350,
       "name": "Your mother from the nineties",
       "url": "https://open.spotify.com/track/64yzYx98ZpbTFsEDFFTWj9"
@@ -18260,6 +18336,24 @@
       "duration_ms": 224000,
       "name": "Your Music",
       "url": "https://open.spotify.com/track/59bznsm4D5jlntVHw2rUsN"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
     },
     {
       "album": {

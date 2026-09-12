@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 172800,
       "name": "AIRTIGHT",
       "url": "https://open.spotify.com/track/1qj61whYOdC2Mg2nINaLN5"
@@ -998,6 +998,36 @@
       "duration_ms": 186206,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0B2NXI85NABXRoUcNNtceE"
+    },
+    {
+      "album": {
+        "name": "ALL THE TIME [GorillaT Remix]",
+        "url": "https://open.spotify.com/album/1E7th5SrXGmfa4j2RzgtKk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182422,
+      "name": "ALL THE TIME - GorillaT Remix",
+      "url": "https://open.spotify.com/track/11On2zeQqlgsZD2QwesDuo"
     },
     {
       "album": {
@@ -1448,7 +1478,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -2572,6 +2602,24 @@
       "duration_ms": 186206,
       "name": "Bassface",
       "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
+    },
+    {
+      "album": {
+        "name": "BASSHEAD (VIP)",
+        "url": "https://open.spotify.com/album/1ALISqWEoxPS31k7LYT4fM"
+      },
+      "artists": [
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "BASSHEAD - VIP",
+      "url": "https://open.spotify.com/track/1Zvt5p46tXYl1pf6wi484o"
     },
     {
       "album": {
@@ -6267,6 +6315,28 @@
     },
     {
       "album": {
+        "name": "MAXED OUT",
+        "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
+    },
+    {
+      "album": {
         "name": "Computah",
         "url": "https://open.spotify.com/album/7M3gNOkxKn5ra9Kwxc9Cx1"
       },
@@ -8966,7 +9036,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 153103,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/3uuBJlejBBFhRMWAcsZdS3"
@@ -10158,6 +10228,32 @@
       "duration_ms": 243380,
       "name": "Eyes Cut Deeper - Crankdat Remix",
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
+    },
+    {
+      "album": {
+        "name": "F WHAT U HEARD",
+        "url": "https://open.spotify.com/album/2tnTwKysfYdVFQDxLO7LQJ"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "SHIVERZ",
+          "url": "https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "F WHAT U HEARD",
+      "url": "https://open.spotify.com/track/1BFSAaGL91tAFRedx1KvXJ"
     },
     {
       "album": {
@@ -11637,6 +11733,24 @@
     },
     {
       "album": {
+        "name": "FROGZ",
+        "url": "https://open.spotify.com/album/3SKSI8gj01y5JdEO1Pprrq"
+      },
+      "artists": [
+        {
+          "name": "SPLATA",
+          "url": "https://open.spotify.com/artist/73Neq5huRsY2YnBj979vgv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "FROGZ",
+      "url": "https://open.spotify.com/track/47GWZ2LdkRi7RNUPuWWIQ4"
+    },
+    {
+      "album": {
         "name": "From My Grave",
         "url": "https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ"
       },
@@ -12442,7 +12556,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 268732,
       "name": "Giant Caterpillar",
       "url": "https://open.spotify.com/track/5o6WdlikuiRQaWxnHTPxZ4"
@@ -13566,7 +13680,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208695,
       "name": "HEAVYWEIGHT (feat. Space Laces)",
       "url": "https://open.spotify.com/track/6VphpbVkmB65W5EHwPpNrx"
@@ -14732,6 +14846,28 @@
       "duration_ms": 194571,
       "name": "I Need You - Champagne Drip Remix",
       "url": "https://open.spotify.com/track/1EWLeVwvL6fQyNAdI2bf8i"
+    },
+    {
+      "album": {
+        "name": "I'll Never Know",
+        "url": "https://open.spotify.com/album/3C3Epwul5bfKqQWdguZM7u"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "I'll Never Know",
+      "url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4"
     },
     {
       "album": {
@@ -17980,7 +18116,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -18586,7 +18722,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 188671,
       "name": "MINDBREAKER",
       "url": "https://open.spotify.com/track/1Eie6FiTFVdY6Pho1kbThI"
@@ -18770,7 +18906,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197464,
       "name": "Mosh",
       "url": "https://open.spotify.com/track/1b23fNsN2Xdm42fZgfdSaq"
@@ -19460,6 +19596,24 @@
       "duration_ms": 181098,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw"
+    },
+    {
+      "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/2QwjskRhaeXWvHsp6GgnxA"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/1DpeeIO6Zss9gruenZbteu"
     },
     {
       "album": {
@@ -20330,7 +20484,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181324,
       "name": "OBSESSED",
       "url": "https://open.spotify.com/track/1eV4FSoEZKN7eIkAM8RzDQ"
@@ -25007,6 +25161,24 @@
     },
     {
       "album": {
+        "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+        "url": "https://open.spotify.com/album/18FCcZlQyBRvKEqyzEo7oq"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+      "url": "https://open.spotify.com/track/7e2zNm90ULXbzAm1NXfbac"
+    },
+    {
+      "album": {
         "name": "Scouts Honor",
         "url": "https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI"
       },
@@ -25923,6 +26095,28 @@
     },
     {
       "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/7ntAZErhCh4BevWYRZWSNO"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        },
+        {
+          "name": "DRAxZ",
+          "url": "https://open.spotify.com/artist/58rm2G6jN3TzRGi5UFwhaj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175306,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/08xyYI3ZsSUNNLm3EGy0fC"
+    },
+    {
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/3RH3p20romGgGgkp4G18Bo"
       },
@@ -26800,7 +26994,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212571,
       "name": "SOUNDBOY KILLA",
       "url": "https://open.spotify.com/track/1ZMThGlkCbuqem8pQnoWND"
@@ -28825,6 +29019,24 @@
     },
     {
       "album": {
+        "name": "THE AGITATOR",
+        "url": "https://open.spotify.com/album/10PqV1ciuTmqMfs0hsSh5E"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "THE AGITATOR",
+      "url": "https://open.spotify.com/track/4jA4C5rdRwYYsZbfqsiswk"
+    },
+    {
+      "album": {
         "name": "The Banana Song",
         "url": "https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs"
       },
@@ -29090,6 +29302,24 @@
       "duration_ms": 178758,
       "name": "THE FUNK",
       "url": "https://open.spotify.com/track/4ANKIna0NVJ9hayUbv8mRQ"
+    },
+    {
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/2kdnCvXhqJx8I9oa95s7PC"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z"
     },
     {
       "album": {
@@ -32520,7 +32750,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 125418,
       "name": "Windfall of Resonance",
       "url": "https://open.spotify.com/track/1adcQaTVllcf5Hgvarc2is"

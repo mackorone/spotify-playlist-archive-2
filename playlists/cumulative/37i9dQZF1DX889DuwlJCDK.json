@@ -10453,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/3FYSobSc1vMDUmqPkp8eTX"
+      },
+      "artists": [
+        {
+          "name": "Sezko",
+          "url": "https://open.spotify.com/artist/23nBdACF9zHkfIGpuTNshj"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186166,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/0aBZ3io7XpDtQZ4ZJeoRhM"
+    },
+    {
+      "album": {
         "name": "peanut butters II",
         "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
       },
@@ -10860,7 +10878,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208815,
       "name": "prism",
       "url": "https://open.spotify.com/track/7BQrTH7VOfFAU6yU7c6iDT"
@@ -13518,6 +13536,24 @@
       "duration_ms": 266483,
       "name": "super_mirror",
       "url": "https://open.spotify.com/track/6VkKQNN7AtBBBcNdiceCcx"
+    },
+    {
+      "album": {
+        "name": "supermarket love",
+        "url": "https://open.spotify.com/album/6K39Q5a4HZRvWhBJrBXDf8"
+      },
+      "artists": [
+        {
+          "name": "ponytailmama",
+          "url": "https://open.spotify.com/artist/5IQlEyjvQlDqGQdFUkZIE0"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "supermarket love",
+      "url": "https://open.spotify.com/track/3Z4O4Tfz68cLm0BKWj6TSk"
     },
     {
       "album": {
@@ -35050,7 +35086,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 241660,
       "name": "\u9b54\u6cd5\u304c\u3068\u3051\u308b\u524d\u306b",
       "url": "https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH"

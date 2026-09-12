@@ -1,12 +1,12 @@
 {
   "description": "Cover: Shaw",
-  "num_followers": 441666,
+  "num_followers": 441748,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPC0pTF291K7VO19G22FJVqNewb4",
+  "snapshot_id": "AAAAAIHVbEZ3Qoe7NSAMGh8t7991Ts1j",
   "tracks": [
     {
       "added_at": "2026-09-11 00:02:05",
@@ -253,6 +253,26 @@
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
     },
     {
+      "added_at": "2026-09-11 08:46:00",
+      "album": {
+        "name": "BE-11",
+        "url": "https://open.spotify.com/album/1Xj5QVfHsCIpXJjER4tuOk"
+      },
+      "artists": [
+        {
+          "name": "Marouane",
+          "url": "https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Zahri",
+      "url": "https://open.spotify.com/track/24TlSSYXhVl0emKRYAvhFS"
+    },
+    {
       "added_at": "2026-09-11 00:02:05",
       "album": {
         "name": "Khssara",
@@ -407,22 +427,6 @@
       "duration_ms": 162197,
       "name": "Ghalta",
       "url": "https://open.spotify.com/track/6vBzvcFgcTLY8ON2pg1qFK"
-    },
-    {
-      "added_at": "2026-09-11 00:02:05",
-      "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/4EyoWcWJpxoldLndzZlinn"
     },
     {
       "added_at": "2026-09-11 00:02:05",

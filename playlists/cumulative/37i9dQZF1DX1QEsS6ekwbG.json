@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "LOS DIOSES SE TIENEN QUE VESTIR",
+        "url": "https://open.spotify.com/album/0djTV4RsUYQohJ9QIFhCpk"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        },
+        {
+          "name": "Polska",
+          "url": "https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114038,
+      "name": "Bien as\u00ed",
+      "url": "https://open.spotify.com/track/0tZwEbdfugOBrGijID4Dul"
+    },
+    {
+      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -656,6 +678,24 @@
       "duration_ms": 140714,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5VuD8P5uxdmMtEqilaD9ei"
+    },
+    {
+      "album": {
+        "name": "Crecer",
+        "url": "https://open.spotify.com/album/3zhlCNC7vEDx2fSrnrYLKh"
+      },
+      "artists": [
+        {
+          "name": "Mia Zeta",
+          "url": "https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215256,
+      "name": "Crecer",
+      "url": "https://open.spotify.com/track/7GR2RzUYQr2ZK2IB67ktaA"
     },
     {
       "album": {
@@ -2042,7 +2082,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 157857,
       "name": "ni una foto juntos",
       "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
@@ -2456,7 +2496,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"

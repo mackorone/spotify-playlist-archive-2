@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Want to Miss a Thing (Acoustic)",
+        "url": "https://open.spotify.com/album/0e0xqnfcMEkccUrFigb7tE"
+      },
+      "artists": [
+        {
+          "name": "Gavern",
+          "url": "https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "I Don\u2019t Want to Miss a Thing - Acoustic",
+      "url": "https://open.spotify.com/track/3w44zEve2ugL5fFDhERh1W"
+    },
+    {
+      "album": {
         "name": "I Forgot That You Existed (Acoustic)",
         "url": "https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276"
       },

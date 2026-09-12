@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-895 songs - 1 day 20 hr 30 min
+896 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-07-26 | 2023-04-28 |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 | 2023-04-28 |
 | [Nothing at All](https://open.spotify.com/track/0fsEdr0Fwq0YN7aKY2elcZ) | [The Arc](https://open.spotify.com/artist/1wEt2WqHchpbKIY2TsctFF) | [Nothing at All](https://open.spotify.com/album/2QTpt0kCQuTtZsb6bXH78u) | 4:50 | 2023-07-12 | 2023-08-10 |
+| [Nothing Left To Lose](https://open.spotify.com/track/3Vy1o1wCqE5G2jOHaqitXo) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C) | [Nothing Left To Lose](https://open.spotify.com/album/1Z4mOBDTjmcnudNIkRvjk1) | 2:43 | 2026-09-11 |  |
 | [Notice That](https://open.spotify.com/track/5l4Q9LoOoHf0Ps0JAsf1X3) | [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Notice That](https://open.spotify.com/album/1eEvBrp0xdo2FZ1TwyCg28) | 2:03 | 2024-10-17 | 2024-11-20 |
 | [Now I'm Broken](https://open.spotify.com/track/4OLocUfu6pPMK6DMDkgD08) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Now I'm Broken](https://open.spotify.com/album/7lVoBX0YV4Vz1rIaBL4Xeu) | 3:32 | 2023-12-13 | 2024-05-01 |
 | [Numb The Pain](https://open.spotify.com/track/4vAze2mrHQgy44qRuz1rCm) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Anikdote](https://open.spotify.com/artist/41LqrhKD3Hs6MOOFPhb59G), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Catas](https://open.spotify.com/artist/5LL0y7lH7nboYRCcuexnkB), [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [Numb The Pain](https://open.spotify.com/album/50QTFc40vMqXyYAwVJXNnR) | 2:33 | 2023-08-08 | 2024-01-13 |

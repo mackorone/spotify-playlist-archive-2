@@ -1,12 +1,12 @@
 {
   "description": "The newest arrivals. Cover: Rema",
-  "num_followers": 69424,
+  "num_followers": 69445,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEU7v8rJthngFJAGlYQ6twr6XAGr",
+  "snapshot_id": "AAAAAMJApxnm0hmnky/aB2Gov/Ya5F8R",
   "tracks": [
     {
       "added_at": "2026-09-10 23:00:31",
@@ -39,6 +39,26 @@
       "duration_ms": 136000,
       "name": "NO GOOD",
       "url": "https://open.spotify.com/track/4GkE15Y2zlM05q2NbutbWb"
+    },
+    {
+      "added_at": "2026-09-10 23:00:31",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "added_at": "2026-09-10 23:00:31",
@@ -88,8 +108,8 @@
           "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 142608,
+      "name": "Run It Up",
       "url": "https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA"
     },
     {

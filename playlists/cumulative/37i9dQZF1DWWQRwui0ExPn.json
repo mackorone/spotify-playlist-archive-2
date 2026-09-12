@@ -10281,6 +10281,24 @@
     },
     {
       "album": {
+        "name": "back to you",
+        "url": "https://open.spotify.com/album/08hW3HzasyjvrhKeUxYSHI"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118734,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/7h2GLHkRjw8FIQE77vigfL"
+    },
+    {
+      "album": {
         "name": "Backdoor",
         "url": "https://open.spotify.com/album/0oTpLBc7LZFiASLq70BFGi"
       },
@@ -31803,6 +31821,24 @@
     },
     {
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4MilsFQg1TutRb6qMvlI9B"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "day by day",
+      "url": "https://open.spotify.com/track/5MqXGF2ziSq7abznUXIWoo"
+    },
+    {
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/1xQEQJ9Of2JNPy8u6KsZQB"
       },
@@ -34254,6 +34290,24 @@
       "duration_ms": 118588,
       "name": "Distune",
       "url": "https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51"
+    },
+    {
+      "album": {
+        "name": "ditto",
+        "url": "https://open.spotify.com/album/6vPm1y3WQS0DJw7JxKiENf"
+      },
+      "artists": [
+        {
+          "name": "Collinsworthy",
+          "url": "https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "ditto",
+      "url": "https://open.spotify.com/track/0z4hZnfyYaI62mrPMqvFid"
     },
     {
       "album": {
@@ -39972,7 +40026,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 123428,
       "name": "engine",
       "url": "https://open.spotify.com/track/7AuPss1RirDdnHfacZxcEP"
@@ -46092,7 +46146,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 99200,
       "name": "Floating Memory",
       "url": "https://open.spotify.com/track/6lhGZ8H1CKtwfF4eF8CQQQ"
@@ -46390,7 +46444,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 164210,
       "name": "florescence",
       "url": "https://open.spotify.com/track/5fkCAtInX2jfSvYJWGqRMu"
@@ -91933,6 +91987,24 @@
     },
     {
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/42IOPI4tahXw41ou3MUyO3"
+      },
+      "artists": [
+        {
+          "name": "Samuraj",
+          "url": "https://open.spotify.com/artist/72Gb3H2siajreDrN35NFW9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/4YQ9eduJmOszd4pqiU6u5Z"
+    },
+    {
+      "album": {
         "name": "Maugre's Vinyl",
         "url": "https://open.spotify.com/album/7vGnIx373qLE1BbPn9tpet"
       },
@@ -94024,6 +94096,24 @@
       "duration_ms": 146093,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/73fXaOFA8ouhNK5EniQkPN"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7DnXSWir7QontgtVFGTn3W"
+      },
+      "artists": [
+        {
+          "name": "tatsuo",
+          "url": "https://open.spotify.com/artist/0yW4uPjl7S5Rk0sjOzVRTb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154025,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/6hE5xBJMukLD5uHiru5C3K"
     },
     {
       "album": {
@@ -99730,6 +99820,28 @@
       "duration_ms": 114352,
       "name": "Passing By",
       "url": "https://open.spotify.com/track/24y3w64c2yjFxso3jdleTu"
+    },
+    {
+      "album": {
+        "name": "passing hours",
+        "url": "https://open.spotify.com/album/5Rtp1j0SGhcHGTY2OilZUS"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        },
+        {
+          "name": "Maple Sleep",
+          "url": "https://open.spotify.com/artist/69fsNsWG9WfmYwyLgt2ARu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "passing hours",
+      "url": "https://open.spotify.com/track/4dY3vuyx7wKy4maFikjxAp"
     },
     {
       "album": {
@@ -130252,7 +130364,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 175238,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/2vvchTffl0AYOwTHvBGOMv"
@@ -135390,7 +135502,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 141692,
       "name": "tilt house",
       "url": "https://open.spotify.com/track/2urjUN5KyLQ30Fz1J3fSJY"
@@ -136026,7 +136138,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 137778,
       "name": "to go",
       "url": "https://open.spotify.com/track/4NnTxf68T7ZeLCk7r3C6CL"

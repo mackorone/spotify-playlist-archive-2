@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ocevne",
-  "num_followers": 202516,
+  "num_followers": 202603,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADAXVCWZ63wv6kaLNYA4wvd62ks6",
+  "snapshot_id": "AAAAAFTnnTAnm/6SS31nweOygZZFGJIO",
   "tracks": [
     {
       "added_at": "2026-09-10 22:00:35",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
     },
     {
-      "added_at": "2026-09-10 22:00:35",
+      "added_at": "2026-09-11 08:32:50",
       "album": {
         "name": "Studio Session",
         "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
@@ -50,11 +50,15 @@
         {
           "name": "Lestin",
           "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        },
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm"
+      "duration_ms": 158000,
+      "name": "Textile",
+      "url": "https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR"
     },
     {
       "added_at": "2026-09-10 22:00:35",

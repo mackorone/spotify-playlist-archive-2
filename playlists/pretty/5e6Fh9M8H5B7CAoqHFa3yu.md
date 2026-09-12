@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,608 songs - 6 day 9 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,609 songs - 6 day 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2616,5 +2616,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2606 | [tranquil](https://open.spotify.com/track/6MsZlMRkU4uBSWBH7WDaOK) | [frost nova](https://open.spotify.com/artist/5i1EACMINlQwRWbgp8Qb5Y) | [pruina](https://open.spotify.com/album/12cm1rxD7RTkul4gT8zdHj) | 2:03 |
 | 2607 | [Flute Flow](https://open.spotify.com/track/5QtuudLFZi6gr8aFDLLbJ6) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Flute Flow](https://open.spotify.com/album/6NK0cRmWPB4Dbz8Yqor9mw) | 2:29 |
 | 2608 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
+| 2609 | [Es Inevitable \- Latin Version](https://open.spotify.com/track/2zj2SWesJDCoo8k2fRTZMa) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:35 |
 
-Snapshot ID: `AAALJv/z68iomVl5fxLCx3NtqdpjqzjS`
+Snapshot ID: `AAALJ0t2+sAL1LHjWO1vM8AZGXwaijIP`

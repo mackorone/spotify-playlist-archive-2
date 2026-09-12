@@ -392,6 +392,24 @@
     {
       "album": {
         "name": "Now That Everything's Been Said",
+        "url": "https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj"
+      },
+      "artists": [
+        {
+          "name": "The City",
+          "url": "https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/2lPsuqRn4QBvBnyGcbTeVm"
+    },
+    {
+      "album": {
+        "name": "Now That Everything's Been Said",
         "url": "https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op"
       },
       "artists": [
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197733,
       "name": "All My Time",
       "url": "https://open.spotify.com/track/2zi3yUv881emZtNSXmmBZz"
@@ -3442,6 +3460,24 @@
     {
       "album": {
         "name": "Now That Everything's Been Said",
+        "url": "https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj"
+      },
+      "artists": [
+        {
+          "name": "The City",
+          "url": "https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163306,
+      "name": "I Don't Believe It",
+      "url": "https://open.spotify.com/track/01o53SZ4unDVxPgDqlp8g0"
+    },
+    {
+      "album": {
+        "name": "Now That Everything's Been Said",
         "url": "https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op"
       },
       "artists": [
@@ -3452,7 +3488,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163306,
       "name": "I Don't Believe It",
       "url": "https://open.spotify.com/track/4frZ34NLaDBpJe0UQzxNKa"
@@ -8554,6 +8590,24 @@
     {
       "album": {
         "name": "Now That Everything's Been Said",
+        "url": "https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj"
+      },
+      "artists": [
+        {
+          "name": "The City",
+          "url": "https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Victim Of Circumstance",
+      "url": "https://open.spotify.com/track/2c2m4pEvp03PdFUDBGgYmz"
+    },
+    {
+      "album": {
+        "name": "Now That Everything's Been Said",
         "url": "https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op"
       },
       "artists": [
@@ -8564,7 +8618,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 156666,
       "name": "Victim Of Circumstance",
       "url": "https://open.spotify.com/track/7jEQx0Bfy3aQF98m1PISHS"
@@ -9234,10 +9288,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218706,
       "name": "Why Are You Leaving",
       "url": "https://open.spotify.com/track/4P9rAdHYFnYNbrISPudQx3"
+    },
+    {
+      "album": {
+        "name": "Now That Everything's Been Said",
+        "url": "https://open.spotify.com/album/16DoSXQIUBTR4CR8rc69sj"
+      },
+      "artists": [
+        {
+          "name": "The City",
+          "url": "https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Why Are You Leaving",
+      "url": "https://open.spotify.com/track/6LAZ6NrfsXXJ435QJt64So"
     },
     {
       "album": {

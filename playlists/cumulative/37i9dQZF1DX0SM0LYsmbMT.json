@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 120000,
       "name": "Beach Bars",
       "url": "https://open.spotify.com/track/0AZWFFaznQQBh3COx61Nce"
@@ -10788,7 +10788,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 105542,
       "name": "Brightly",
       "url": "https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j"
@@ -12152,7 +12152,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 114929,
       "name": "Calm Winds",
       "url": "https://open.spotify.com/track/22x6TxJlGxZfQjJbAN4cQY"
@@ -20475,6 +20475,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/3SBkKYJmkWo3lt3QHWvwtK"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104099,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/7fi1XoGDgnI0WHUSK0zAoU"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/72ATUQpd6NMmdAwyeE6M8z"
       },
@@ -24698,6 +24716,24 @@
       "duration_ms": 173240,
       "name": "Fading Mist",
       "url": "https://open.spotify.com/track/6Zjsl9f98ywJ1T6yvMNFaZ"
+    },
+    {
+      "album": {
+        "name": "Fading Sunlight",
+        "url": "https://open.spotify.com/album/1TyWcm8cliKPoLEiPW7FPW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115324,
+      "name": "Fading Sunlight",
+      "url": "https://open.spotify.com/track/7xm5AAqhagjl1dVbyvViHI"
     },
     {
       "album": {
@@ -48676,7 +48712,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 99512,
       "name": "MIA",
       "url": "https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG"
@@ -56102,7 +56138,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 94594,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/617zXIHQjwQI0FS1oSczGV"
@@ -61034,6 +61070,28 @@
       "duration_ms": 114503,
       "name": "Pictures of Your Face",
       "url": "https://open.spotify.com/track/4ki79MKEPGeMNP6xuEqtkc"
+    },
+    {
+      "album": {
+        "name": "Coastlines",
+        "url": "https://open.spotify.com/album/3blTvmgTpVLMMpVAppaYNi"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/2sl1c5gaRYFU3PjSRyZhYr"
     },
     {
       "album": {

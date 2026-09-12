@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Kayode
 
-824 songs - 1 day 14 hr 31 min
+825 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [I DEY ABUJA](https://open.spotify.com/track/6AAKc2ijypXA3aAGvL40i7) | [Toocoldbaby](https://open.spotify.com/artist/7IsbSKYoGSIWo0NMqxjOCM) | [I DEY ABUJA](https://open.spotify.com/album/1B3he5xpzSAlAsUevQ2P2V) | 1:51 | 2026-02-27 | 2026-03-13 |
 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-22 | 2024-11-22 |
 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 | 2026-05-29 | 2026-06-19 |
+| [I Knoww II](https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [I Knoww II](https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7) | 2:15 | 2026-09-11 |  |
 | [I LOOK GOOD](https://open.spotify.com/track/5hSiM6ctEOTsQAMBjidq2r) | [Eva Alordiah](https://open.spotify.com/artist/3Fys2rzPCbp6tDzQ7YO3Pq) | [I LOOK GOOD](https://open.spotify.com/album/3LaVxJ3gAcD59h3piZ5kAM) | 2:25 | 2024-02-16 | 2024-02-23 |
 | [I Met Nas in a Dream](https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [I Met Nas in a Dream](https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT) | 2:42 | 2024-11-22 | 2024-11-30 |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2025-09-28 |
@@ -436,7 +437,7 @@
 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 | 2022-11-15 | 2024-07-19 |
 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 | 2025-07-18 | 2026-08-20 |
 | [Life](https://open.spotify.com/track/6Dp8euvdKfYV2cn79TcXkF) | [Adaramati](https://open.spotify.com/artist/2JiCHOM2COZnUj5KHMDbcF), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Life](https://open.spotify.com/album/7k6q3bGku5wd0jaUhv0Ggw) | 2:21 | 2026-05-18 | 2026-05-22 |
-| [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 | 2025-07-18 |  |
+| [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 | 2025-07-18 | 2026-09-12 |
 | [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 | 2026-07-31 |  |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2024-11-16 |
 | [Lifestyle](https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Lifestyle](https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq) | 2:45 | 2025-12-12 | 2026-01-15 |

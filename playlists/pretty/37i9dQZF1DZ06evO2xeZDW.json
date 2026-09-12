@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18584,
+  "num_followers": 18583,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAD8pJc3nkvHTZkV+rZwEBmI",
+  "snapshot_id": "aqHzAAAAAAAzQt4h3zStZpvStrborR01",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mission: Impossible III (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 51800,
-      "name": "Mission: Impossible Theme",
-      "url": "https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 59293,
       "name": "Free Skating",
       "url": "https://open.spotify.com/track/31uN5FqfJYubT9t7vqZRiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mission: Impossible III (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 51800,
+      "name": "Mission: Impossible Theme",
+      "url": "https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 84173,
+      "name": "Life's Incredible Again",
+      "url": "https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Homecoming (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 156466,
       "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
       "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 84173,
-      "name": "Life's Incredible Again",
-      "url": "https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 374066,
-      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jurassic World (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 128864,
       "name": "Welcome to Jurassic World",
       "url": "https://open.spotify.com/track/3aDH2C8MwdlxlFSI0B7f0F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 374066,
+      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/2IE9mgjkkk7Lfj9wgzz8MT"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Quick as a Flashback - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 219293,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Quick as a Flashback - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW"
     },
     {
       "added_at": null,
@@ -392,25 +392,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 118800,
-      "name": "Special Order",
-      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
+      "duration_ms": 116693,
+      "name": "A New Deal",
+      "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 213240,
       "name": "Carl Goes Up",
       "url": "https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 69400,
+      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 69400,
-      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 458933,
       "name": "Up With End Credits",
       "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 55093,
       "name": "Zootopening",
       "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 260360,
-      "name": "Nomanisone Island/National Movers",
-      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Trek Into Darkness (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 144720,
       "name": "Sub Prime Directive",
       "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 260360,
+      "name": "Nomanisone Island/National Movers",
+      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
     },
     {
       "added_at": null,

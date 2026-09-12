@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,702 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,746 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [French Touch](https://open.spotify.com/track/5RG5fRGUGyrC76QpvrGC0r) | [Phxraon](https://open.spotify.com/artist/3tUnRlUyujMAPx4u2QhVXi), [3Lettres](https://open.spotify.com/artist/1bV39nWuL5NWO6NwjvsQll) | [French Touch](https://open.spotify.com/album/5iGGJufnFytQitR99MkWDh) | 2:11 |
 | 50 | [SHE WANT](https://open.spotify.com/track/0Ya0h6lvK6YLC1OlLXEMuQ) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [SHE WANT](https://open.spotify.com/album/5zF6H9JYSjdO2ACQfsqWJn) | 2:45 |
 
-Snapshot ID: `AAAAAKMdU8xXpUYH7HoIt7YqosTad0/G`
+Snapshot ID: `AAAAAHP3lzHd6PUhZJVxKg0QeKBssqj7`

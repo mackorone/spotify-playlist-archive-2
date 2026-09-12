@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton HARON.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton SDM.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 510382,
       "name": "207",
       "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/2AdP0LwBuxGAKr2Wo4Chlw"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149477,
+      "name": "25",
+      "url": "https://open.spotify.com/track/1Y9V9dPUT7dw23Asjoqwhl"
     },
     {
       "album": {
@@ -680,6 +702,24 @@
       "duration_ms": 141710,
       "name": "Animation FR",
       "url": "https://open.spotify.com/track/5e7VKePa6T6zsBLmW5gtb3"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7dSlhxMmZmUz3vVlQQYsbQ"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kabuya",
+          "url": "https://open.spotify.com/artist/3Zmh5GdaglToFwXEyXzxEV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157923,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/0uS1htvgOy9ZGVGFP29RT5"
     },
     {
       "album": {
@@ -3091,6 +3131,28 @@
     },
     {
       "album": {
+        "name": "It's Yemi Alade",
+        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Coco na Yam",
+      "url": "https://open.spotify.com/track/7rMJWzRdUHwoIQD06GR5QE"
+    },
+    {
+      "album": {
         "name": "COD 243",
         "url": "https://open.spotify.com/album/2jVRRPQ9RO15gm4mt4j5ri"
       },
@@ -4744,6 +4806,24 @@
       "duration_ms": 286267,
       "name": "Eloko Oyo",
       "url": "https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj"
+    },
+    {
+      "album": {
+        "name": "Elombe",
+        "url": "https://open.spotify.com/album/1DblrlN3RUHGv44etZIwix"
+      },
+      "artists": [
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237300,
+      "name": "Elombe",
+      "url": "https://open.spotify.com/track/00C0uTpEsxL2b2A3smUYg2"
     },
     {
       "album": {
@@ -10672,7 +10752,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 156278,
       "name": "Natacha",
       "url": "https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj"
@@ -11192,6 +11272,24 @@
       "duration_ms": 181894,
       "name": "Nyonga",
       "url": "https://open.spotify.com/track/3NthrOhvKorMzs4Mle09vP"
+    },
+    {
+      "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
     },
     {
       "album": {
@@ -13102,6 +13200,24 @@
       "duration_ms": 264594,
       "name": "Sala Sala",
       "url": "https://open.spotify.com/track/4ds8dnIqgWtzuxrnFrkS7q"
+    },
+    {
+      "album": {
+        "name": "Samedi Soir",
+        "url": "https://open.spotify.com/album/4Q7Qh0kWzHMnBOC1wV7Ho5"
+      },
+      "artists": [
+        {
+          "name": "Notche",
+          "url": "https://open.spotify.com/artist/3N9OZlrjMVMRNyXAtiHytF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Samedi Soir",
+      "url": "https://open.spotify.com/track/6vuQTVtmkcFaMbB6v6hEbQ"
     },
     {
       "album": {

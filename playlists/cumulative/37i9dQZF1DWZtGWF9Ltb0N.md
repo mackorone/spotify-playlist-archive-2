@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-944 songs - 2 day 12 hr 40 min
+946 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Forest Creature](https://open.spotify.com/track/1av7ANQCAb4mizrrUko4Pc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 4:20 | 2022-07-08 | 2022-10-23 |
 | [Forest Creature](https://open.spotify.com/track/24FFTMGz9qesaHsQY2N6Y9) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/5vAEBOXanr6tB799kZ6vtA) | 4:20 | 2022-07-08 | 2024-04-19 |
 | [French Love Poem](https://open.spotify.com/track/527QAJEQwKLM4utnk5dwrA) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [French Love Poem](https://open.spotify.com/album/5NhSh6tzk9V4Sv6udUMWOZ) | 3:08 | 2025-01-04 | 2025-12-07 |
+| [FROGZ](https://open.spotify.com/track/47GWZ2LdkRi7RNUPuWWIQ4) | [SPLATA](https://open.spotify.com/artist/73Neq5huRsY2YnBj979vgv) | [FROGZ](https://open.spotify.com/album/3SKSI8gj01y5JdEO1Pprrq) | 3:53 | 2026-09-11 |  |
 | [FRUI7Y LOOPS S7UDIO](https://open.spotify.com/track/1AfgsioMSu97wbnxOltPCq) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [SVZZ](https://open.spotify.com/artist/17lyqybZlHlh5QKCRYMvUv) | [FRUI7Y LOOPS S7UDIO](https://open.spotify.com/album/7wO2WPoBoNW8zMUoanhHW4) | 2:18 | 2024-10-04 | 2024-10-12 |
 | [Fryst \- Original Mix](https://open.spotify.com/track/4koiKX3qu8B1ENF1mICkak) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Positive Energy](https://open.spotify.com/album/0Syi76rGMdgXiHzzYUfkcO) | 6:53 | 2022-02-17 | 2023-01-14 |
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
@@ -510,7 +511,7 @@
 | [Luxurious](https://open.spotify.com/track/14mkG82JIFJi9CQnFfy6Rc) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Luxurious](https://open.spotify.com/album/57t09L0jx9NrkfMtyRA2hC) | 4:17 | 2022-02-17 | 2022-06-10 |
 | [Mad](https://open.spotify.com/track/22K0u5Gi1oDmdc4dc8BL9D) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Mad](https://open.spotify.com/album/2PpbW6Cdh5DK2RYIro6jMr) | 4:01 | 2025-05-16 | 2025-10-31 |
 | [Mad Cow Bell](https://open.spotify.com/track/3jD5FuCLtBjYSYrIEHSVXn) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Mad Cow Bell](https://open.spotify.com/album/6lelyt8mSpFoLtrtDnN7Nx) | 3:15 | 2024-03-15 | 2024-06-27 |
-| [Maelstrom](https://open.spotify.com/track/5UZqcRnKWhmFtoC0aRKzSr) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Maelstrom](https://open.spotify.com/album/32xArxkRR6UNMuFrpioMC5) | 4:09 | 2026-03-20 |  |
+| [Maelstrom](https://open.spotify.com/track/5UZqcRnKWhmFtoC0aRKzSr) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Maelstrom](https://open.spotify.com/album/32xArxkRR6UNMuFrpioMC5) | 4:09 | 2026-03-20 | 2026-09-12 |
 | [Mage](https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Mage](https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H) | 3:18 | 2022-02-17 | 2025-04-02 |
 | [mail](https://open.spotify.com/track/0nqUMg3fRJCwCn21rSFlbb) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [TYNAN TIME](https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5) | 2:31 | 2026-02-13 |  |
 | [Make Em Watch](https://open.spotify.com/track/1Nc61cKRCFiFSSKUEJSRce) | [Gallium](https://open.spotify.com/artist/6qkl6b1N8RnkqJCvOIxBxi) | [Make 'Em Watch](https://open.spotify.com/album/20Pnk6RgPb7iywOnYxKqSv) | 2:10 | 2025-10-17 | 2026-01-24 |
@@ -653,7 +654,7 @@
 | [Purple City](https://open.spotify.com/track/7cPr0rlA6vu7fFsTec87zT) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/3nY7U4GYnt2hEqE4P7ycrN) | 4:24 | 2022-02-17 | 2022-07-29 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 |  |
 | [PUSHSTART](https://open.spotify.com/track/24mLkGZ3q8OKqOgHwDFZFq) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [PUSHSTART](https://open.spotify.com/album/5q5ksdoWl9xUj1CgdhhSFk) | 2:49 | 2024-09-13 | 2025-01-19 |
-| [Put The Lights Out](https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw) | 4:20 | 2024-08-09 |  |
+| [Put The Lights Out](https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw) | 4:20 | 2024-08-09 | 2026-09-12 |
 | [Queens](https://open.spotify.com/track/0kCh1ZKXHekYP0pAXBaCDv) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Queens](https://open.spotify.com/album/0iLgPTOT0zXu8owQc7vyDo) | 3:05 | 2024-05-17 | 2024-08-20 |
 | [Quickness](https://open.spotify.com/track/3sSD12MZkrsQItdYAfWt9c) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Quickness](https://open.spotify.com/album/4EtKUgNlhDyILgIsPqYm01) | 2:35 | 2023-02-06 | 2024-08-24 |
 | [R.A.V.E.](https://open.spotify.com/track/0wztpcU585JTnviRQwftah) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [R.A.V.E.](https://open.spotify.com/album/2sDjn0yWlegGQDvyL486vp) | 3:09 | 2022-10-14 | 2024-09-14 |
@@ -837,6 +838,7 @@
 | [The Damned](https://open.spotify.com/track/5kFJdv7Y9hnvsNL2Pupppv) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Breaker of Chains EP](https://open.spotify.com/album/7qQ8QiQGIPlznXlRaWKRoz) | 3:53 | 2022-02-17 | 2022-07-30 |
 | [The District](https://open.spotify.com/track/3qFvZUHZLvmteCZ7xiFWhZ) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [The District](https://open.spotify.com/album/6AsKRNHMHq60OmEln8caL1) | 3:47 | 2025-04-18 | 2025-08-30 |
 | [The Elephant](https://open.spotify.com/track/3xGPQcTd1HRvQOcEZIWgKP) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu), [Ashez](https://open.spotify.com/artist/4EmkjZuqatnvAygxt3a3tC) | [The Elephant](https://open.spotify.com/album/4NirALCaz8cMmJUpDXOSGI) | 3:35 | 2024-03-01 | 2026-05-10 |
+| [The Gate](https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Translucent](https://open.spotify.com/album/2kdnCvXhqJx8I9oa95s7PC) | 2:48 | 2026-09-11 |  |
 | [The Illuminated](https://open.spotify.com/track/4H50oh3c8CQEIPGW0a1rLj) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [The Illuminated](https://open.spotify.com/album/5RtrKuR7roSFebmE0w7D8c) | 4:37 | 2024-12-03 |  |
 | [The Insider](https://open.spotify.com/track/4POD1Ir5sArXd1EzkntC5E) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [The Insider](https://open.spotify.com/album/7gYxfavNEV31JRSrkxwv6a) | 3:42 | 2022-12-23 | 2023-03-29 |
 | [The Main Rule](https://open.spotify.com/track/1B462XFyDg7Qi5O7CLVFTu) | [Bukez Finezt](https://open.spotify.com/artist/7lpT19TLWJN0pPEmUF9FTH) | [The Main Rule / Unknown Force](https://open.spotify.com/album/34CPw35X2P1E7Q54TniCKO) | 4:09 | 2022-07-08 | 2022-09-03 |

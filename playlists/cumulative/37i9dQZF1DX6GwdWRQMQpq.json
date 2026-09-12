@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -11392,7 +11392,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
@@ -12910,6 +12910,28 @@
       "duration_ms": 179476,
       "name": "Putting Ya Dine",
       "url": "https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r"
+    },
+    {
+      "album": {
+        "name": "QUEEN [THE WHACK VERSION]",
+        "url": "https://open.spotify.com/album/5xflxmgfN5O2FSZE1dwP4Z"
+      },
+      "artists": [
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125680,
+      "name": "QUEEN [THE WHACK VERSION]",
+      "url": "https://open.spotify.com/track/6H6bBK59BXJKvWH0omXHyI"
     },
     {
       "album": {
@@ -17378,7 +17400,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155876,
       "name": "Young Ho",
       "url": "https://open.spotify.com/track/2cm9PdoJ7kZtqhDJohQPSV"

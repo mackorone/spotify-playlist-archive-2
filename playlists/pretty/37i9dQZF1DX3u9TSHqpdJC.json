@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SNACKTIME Artwork by Paola Saliby",
-  "num_followers": 242796,
+  "num_followers": 242832,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMc/PZ7ewt2SheHlF96KLtSvhong",
+  "snapshot_id": "AAAAABCoY5zcE+Fy1QiM3d//JK3OJipQ",
   "tracks": [
     {
       "added_at": "2026-09-09 04:00:32",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
     },
     {
+      "added_at": "2026-09-11 19:41:21",
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 221927,
+      "name": "East Coast Summers",
+      "url": "https://open.spotify.com/track/6WfKXUXkTM96NQ43NgxD7U"
+    },
+    {
       "added_at": "2026-07-15 04:00:28",
       "album": {
         "name": "Pieces",
@@ -1195,22 +1211,6 @@
       "duration_ms": 236413,
       "name": "made for love",
       "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
-    },
-    {
-      "added_at": "2026-06-24 06:43:25",
-      "album": {
-        "name": "ENERGIZE",
-        "url": "https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4"
-      },
-      "artists": [
-        {
-          "name": "JEWELS",
-          "url": "https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "ENERGIZE",
-      "url": "https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN"
     }
   ],
   "unique_name": "Fresh Finds Pop",

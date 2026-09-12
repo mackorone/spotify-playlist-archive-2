@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd"
+      },
+      "artists": [
+        {
+          "name": "Amor y Vida",
+          "url": "https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268320,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K"
+    },
+    {
+      "album": {
         "name": "Porch Light",
         "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
       },

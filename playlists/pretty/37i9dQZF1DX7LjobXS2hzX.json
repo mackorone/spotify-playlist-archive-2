@@ -1,12 +1,12 @@
 {
   "description": "Voici les hits du moment avec Gabriel Fredette",
-  "num_followers": 142342,
+  "num_followers": 142340,
   "original_name": "La Hit Liste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJhdK8gk+gZE+jCCsiPEhOXEG2Rt",
+  "snapshot_id": "AAAAAKTIeOLGCEN/4yS/6vHJa8frn0us",
   "tracks": [
     {
       "added_at": "2026-09-04 04:03:28",
@@ -23,26 +23,6 @@
       "duration_ms": 120000,
       "name": "SPIN",
       "url": "https://open.spotify.com/track/1dUvysCwz1rpDYC4dB4LQ2"
-    },
-    {
-      "added_at": "2026-09-04 04:03:28",
-      "album": {
-        "name": "L'amour",
-        "url": "https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5"
-      },
-      "artists": [
-        {
-          "name": "William Cloutier",
-          "url": "https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "O\u00f9 on dansait autrefois",
-      "url": "https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH"
     },
     {
       "added_at": "2026-09-04 04:03:28",
@@ -199,6 +179,26 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
+    {
+      "added_at": "2026-09-04 04:03:28",
+      "album": {
+        "name": "L'amour",
+        "url": "https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5"
+      },
+      "artists": [
+        {
+          "name": "William Cloutier",
+          "url": "https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "O\u00f9 on dansait autrefois",
+      "url": "https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH"
     },
     {
       "added_at": "2026-09-04 04:03:28",

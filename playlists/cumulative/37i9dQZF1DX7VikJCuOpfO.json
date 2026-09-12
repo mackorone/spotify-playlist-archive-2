@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
   "name": "Mariachi 2026",
   "tracks": [
     {
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Jalisco",
+        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
+    },
+    {
+      "album": {
         "name": "Cuando Yo Quiera Has De Volver",
         "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 222068,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218752,
       "name": "El Conejo De La Luna",
       "url": "https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189884,
       "name": "El Hielo Est\u00e1 Quemando",
       "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
@@ -3513,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
+    },
+    {
+      "album": {
         "name": "Es Mejor Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
       },
@@ -3658,7 +3694,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 199887,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177891,
       "name": "Finjamos",
       "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
@@ -4494,6 +4530,24 @@
       "duration_ms": 171392,
       "name": "La Catedral",
       "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
+    },
+    {
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180865,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
     },
     {
       "album": {
@@ -6064,7 +6118,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 146060,
       "name": "Mi M\u00e9xico Mestizo",
       "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
@@ -7056,6 +7110,24 @@
       "duration_ms": 150426,
       "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/2tkBIKLriT26NcWptFfJon"
+    },
+    {
+      "album": {
+        "name": "No Supe Decirte Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5fffhFRgu2sU3atARR08OX"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/0ZurpDmerVE3LO5T03umQx"
     },
     {
       "album": {
@@ -10494,6 +10566,24 @@
       "duration_ms": 189791,
       "name": "Un Vals",
       "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
+    },
+    {
+      "album": {
+        "name": "Una Derrota As\u00ed",
+        "url": "https://open.spotify.com/album/3r2keczpuKZSXyq2Qxz097"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Una Derrota As\u00ed",
+      "url": "https://open.spotify.com/track/11TFR26C3CFhkWmRhvH8je"
     },
     {
       "album": {

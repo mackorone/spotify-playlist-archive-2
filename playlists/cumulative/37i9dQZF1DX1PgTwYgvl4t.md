@@ -2,9 +2,9 @@
 
 ### [Naija Worship](https://open.spotify.com/playlist/37i9dQZF1DX1PgTwYgvl4t)
 
-> Strictly Nigerian worship songs\. Cover: Sunmisola Agbebi
+> Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-452 songs - 2 day 8 hr 31 min
+453 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
 | [Totally Available](https://open.spotify.com/track/7u5PJy1meljL8c5xXhZ0Ta) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 14 \- Ogayoloo](https://open.spotify.com/album/2il35SOSddOGws33OLG1UI) | 6:30 | 2025-05-30 | 2025-07-04 |
 | [Unlimited God \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/0qJqsIsDqChAyXneeHsLdp) | [Olumide Iyun](https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Unlimited God, Vol\. 1](https://open.spotify.com/album/6y4l8GyQ5admjdTNt32XNw) | 6:00 | 2026-04-01 | 2026-04-07 |
+| [Unseen](https://open.spotify.com/track/7t9P8auS1hqsQWEMT2watl) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Joshua Artono](https://open.spotify.com/artist/2CsQjrxOjnKlQlJ0zBOyuG) | [Unseen](https://open.spotify.com/album/01422x7wGqTnEt5epX6G7E) | 5:27 | 2026-09-11 |  |
 | [Unto The Lord](https://open.spotify.com/track/2Gzy8qkrlxYl95ZBKd73ux) | [Adikamusic](https://open.spotify.com/artist/15GQmLUP6pqPjWqpR0s6dx) | [Unto The Lord](https://open.spotify.com/album/7kMctVUZKzrcsCBSJD4z6s) | 8:24 | 2026-04-10 | 2026-05-08 |
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 | 2025-09-19 |
 | [War Room Worship, Pt\. 4](https://open.spotify.com/track/64XhCvtsgCAJbOWxsUe5Wh) | [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK) | [War Room Worship, Pt\. 4](https://open.spotify.com/album/2hZvzNbOJWmtp8ufg9U26j) | 9:54 | 2024-08-23 | 2025-02-14 |

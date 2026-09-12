@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Callaita Nunca",
+        "url": "https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd"
+      },
+      "artists": [
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185100,
+      "name": "Callaita Nunca",
+      "url": "https://open.spotify.com/track/4PoxLQG5P9ljEPeDvd0Amg"
+    },
+    {
+      "album": {
         "name": "Can't Stand It",
         "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
       },
@@ -4845,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "LA SAPI\u00d3",
+        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117391,
+      "name": "LA SAPI\u00d3",
+      "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
+    },
+    {
+      "album": {
         "name": "La Suite (feat. Kevin Roldan) [Remix]",
         "url": "https://open.spotify.com/album/0ksdLjn5S8vyuSKtN2IPWt"
       },
@@ -5524,6 +5560,36 @@
       "duration_ms": 116635,
       "name": "Malory",
       "url": "https://open.spotify.com/track/3ppbP8uBOpIWU1mq9zXu3i"
+    },
+    {
+      "album": {
+        "name": "MALOS Y CUEROS",
+        "url": "https://open.spotify.com/album/5H8nuEVle7DGq6tQtUVj9d"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Jaime El King",
+          "url": "https://open.spotify.com/artist/7xiOYD4GFS278j40P4ZB8K"
+        },
+        {
+          "name": "Omarion King Beat",
+          "url": "https://open.spotify.com/artist/1oAlzZnNbtVFo6tzeUA281"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180824,
+      "name": "MALOS Y CUEROS",
+      "url": "https://open.spotify.com/track/2rPqLg8A2nswqPScK4pi9s"
     },
     {
       "album": {

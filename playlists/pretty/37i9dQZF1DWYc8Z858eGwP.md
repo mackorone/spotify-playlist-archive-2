@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Best new African artists to have on your radar
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,077 likes - 68 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,078 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 28 | [Excellent](https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Excellent](https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ) | 3:07 |
 | 29 | [Dance With Me](https://open.spotify.com/track/0K79p0MsYPr5G2N7BbuUfS) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Dance With Me](https://open.spotify.com/album/0LRtmL1W38YeU446puOrcT) | 1:42 |
 | 30 | [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 |
-| 31 | [Track 3](https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 0:00 |
-| 32 | [Track 6](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 0:00 |
+| 31 | [One Life](https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:38 |
+| 32 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
 | 33 | [REVIVAL](https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [REVIVAL](https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH) | 3:11 |
 | 34 | [365 Days](https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [365 Days](https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH) | 3:08 |
 | 35 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |

@@ -1,12 +1,12 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 362787,
+  "num_followers": 362804,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1o+fJz+Yh/hCEJfKDcaOLKnl3i",
+  "snapshot_id": "AAAAAPEtusguIdAS+x4+apmIw6EMzDWA",
   "tracks": [
     {
       "added_at": "2026-09-11 01:27:31",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
+        "name": "Noite Fria",
+        "url": "https://open.spotify.com/album/0yt126mT5JDuWRtCRI3M3J"
+      },
+      "artists": [
+        {
+          "name": "Banda Os Brothers",
+          "url": "https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE"
+        },
+        {
+          "name": "Banda AR-15",
+          "url": "https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86"
+        }
+      ],
+      "duration_ms": 154540,
+      "name": "Noite Fria",
+      "url": "https://open.spotify.com/track/6YngOrALVp1l4GZ1FsJ1BD"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
         "name": "Latino Brega Love",
         "url": "https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 163832,
       "name": "Itamaraty",
       "url": "https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
-        "name": "Noite Fria",
-        "url": "https://open.spotify.com/album/0yt126mT5JDuWRtCRI3M3J"
-      },
-      "artists": [
-        {
-          "name": "Banda Os Brothers",
-          "url": "https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE"
-        },
-        {
-          "name": "Banda AR-15",
-          "url": "https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86"
-        }
-      ],
-      "duration_ms": 154540,
-      "name": "Noite Fria",
-      "url": "https://open.spotify.com/track/6YngOrALVp1l4GZ1FsJ1BD"
     },
     {
       "added_at": "2026-09-11 01:27:31",

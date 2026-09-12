@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10496,
+  "num_followers": 10504,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAAUsrs+65LGBJ3eqWKJwPGA",
+  "snapshot_id": "aqHzAAAAAABZDvApK/cxDx+j7zvtHsIg",
   "tracks": [
     {
       "added_at": null,
@@ -75,70 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dissolve Me",
-        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Separate",
-        "url": "https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 236692,
-      "name": "Separate",
-      "url": "https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 231121,
-      "name": "III at Ease",
-      "url": "https://open.spotify.com/track/7G2uBd0CDs4RFgRH118CgW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -180,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+      "duration_ms": 204786,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
     },
     {
       "added_at": null,
@@ -196,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237278,
-      "name": "Flowerbed",
-      "url": "https://open.spotify.com/track/1qRAtQjuQdABlBLi9W8dOc"
+      "duration_ms": 231121,
+      "name": "III at Ease",
+      "url": "https://open.spotify.com/track/7G2uBd0CDs4RFgRH118CgW"
     },
     {
       "added_at": null,
@@ -244,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 226360,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "added_at": null,
@@ -260,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 207324,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/0y7psOQPFGBxLSkABDtmVx"
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8"
     },
     {
       "added_at": null,
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 284626,
-      "name": "Suffer Through",
-      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+      "duration_ms": 226360,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
     },
     {
       "added_at": null,
@@ -324,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 67170,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/0LuRD7PTDVxzdZQhXk1Zz6"
+      "duration_ms": 237278,
+      "name": "Flowerbed",
+      "url": "https://open.spotify.com/track/1qRAtQjuQdABlBLi9W8dOc"
     },
     {
       "added_at": null,
@@ -372,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Deadly Dull",
-      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+      "duration_ms": 284626,
+      "name": "Suffer Through",
+      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
     },
     {
       "added_at": null,
@@ -388,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 243286,
-      "name": "Back in My Ways",
-      "url": "https://open.spotify.com/track/7jNZ1uFDBLId4BpyCgCx6i"
+      "duration_ms": 207324,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/0y7psOQPFGBxLSkABDtmVx"
     },
     {
       "added_at": null,
@@ -427,6 +363,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Deadly Dull",
+      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 67170,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/0LuRD7PTDVxzdZQhXk1Zz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "I Hope You Choke!",
-      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbed Wire Body",
         "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },
@@ -487,6 +455,22 @@
       "duration_ms": 208023,
       "name": "Barbed Wire Body",
       "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48"
     },
     {
       "added_at": null,
@@ -523,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Studio 4",
         "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 185841,
       "name": "Banquet - Live at Studio 4",
       "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 230590,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 230590,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Protection (Demo)",
         "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 209967,
       "name": "Protection - Demo",
       "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 281022,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
     },
     {
       "added_at": null,
@@ -647,22 +631,6 @@
       "duration_ms": 218160,
       "name": "Vacant Home",
       "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 281022,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
     },
     {
       "added_at": null,

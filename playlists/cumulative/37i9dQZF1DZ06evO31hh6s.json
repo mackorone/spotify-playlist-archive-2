@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 197086,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2djI4NaLOiIv6EaWHPGwqI"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 288338,
       "name": "Attempted Suicide",
       "url": "https://open.spotify.com/track/2xo0kr1FqAXZIyeTfLwJnx"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 425664,
       "name": "EUTHANASIA",
       "url": "https://open.spotify.com/track/6QGf4VLfZARAD4ZlMeUIUg"
@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Noble Justice",
+        "url": "https://open.spotify.com/album/67kCSP1gVssHpc0z0Kqets"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "I Ride U Ride",
+      "url": "https://open.spotify.com/track/6dlZSMyLqEK7yglVPCQuGH"
+    },
+    {
+      "album": {
         "name": "Noble Justice: The Lost Songs",
         "url": "https://open.spotify.com/album/6bjW7AymdOPfmO3Ve1CGXz"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/3tBfJhM8BLYcEmKaczxV5d"
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 304553,
       "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
       "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -5736,7 +5754,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 281687,
       "name": "Vibe About (feat. E.D.I MEAN & Young Noble)",
       "url": "https://open.spotify.com/track/6xPkFjiZlh7XiF31olTvoV"

@@ -1,13 +1,65 @@
 {
   "description": "Tus canciones favoritas de pop te acompa\u00f1an a donde quiera que vayas. ",
-  "num_followers": 241323,
+  "num_followers": 241313,
   "original_name": "Mamivan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKoQ7YDM2HN5cT5QOTCVug8kpp4",
+  "snapshot_id": "AAAAAN6oFKIBbHTalUCnu3OeDHCPrCCy",
   "tracks": [
+    {
+      "added_at": "2026-09-11 19:14:42",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-09-11 19:14:42",
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/3bC3bDsOujnr3WoCJdzH46"
+    },
+    {
+      "added_at": "2026-09-11 19:14:42",
+      "album": {
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 214198,
+      "name": "EN LA MISMA CIUDAD.",
+      "url": "https://open.spotify.com/track/2Q9rXVj8oiRW4P0J8By3sY"
+    },
     {
       "added_at": "2025-02-28 06:45:57",
       "album": {

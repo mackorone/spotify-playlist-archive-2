@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-594 songs - 1 day 1 hr 34 min
+595 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 | 2026-02-11 |
 | [Snow\-Bound](https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Snow\-Bound](https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V) | 2:36 | 2025-01-07 |  |
 | [Soft Dew](https://open.spotify.com/track/1OQQzO52qgdM3wkD0h9et4) | [Velmora](https://open.spotify.com/artist/5UPMIMP5cczZfoZoq6gtVC) | [Soft Dew](https://open.spotify.com/album/3fPqIJyqKdLX2ctJHAjUSI) | 2:58 | 2026-07-17 |  |
+| [Soft Whisper](https://open.spotify.com/track/5aCXHw7fImrrsVbZL7ktK2) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [Soft Whisper](https://open.spotify.com/album/1aXz3nrGaA5oUt4YFAusRc) | 2:20 | 2026-09-11 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-14 | 2024-04-23 |
 | [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-04-14 | 2024-03-20 |

@@ -5969,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/2qd5izIarXTxKcg6WPtlGM"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/6jTIWwR0PRX4aLp5e2z0yK"
+    },
+    {
+      "album": {
         "name": "Mr. Sun",
         "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
       },

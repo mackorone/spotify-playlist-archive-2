@@ -12583,6 +12583,24 @@
     },
     {
       "album": {
+        "name": "Es Inevitable",
+        "url": "https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155114,
+      "name": "Es Inevitable - Latin Version",
+      "url": "https://open.spotify.com/track/2zj2SWesJDCoo8k2fRTZMa"
+    },
+    {
+      "album": {
         "name": "Puzzles",
         "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
       },

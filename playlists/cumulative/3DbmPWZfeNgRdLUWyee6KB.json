@@ -16643,6 +16643,24 @@
     },
     {
       "album": {
+        "name": "Noir et blanc",
+        "url": "https://open.spotify.com/album/4S88do91neHjL30FaUXFPA"
+      },
+      "artists": [
+        {
+          "name": "Virgil Segal",
+          "url": "https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241174,
+      "name": "Noir et blanc",
+      "url": "https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL"
+    },
+    {
+      "album": {
         "name": "Non ho niente d'intelligente da dire",
         "url": "https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ"
       },
@@ -17858,6 +17876,24 @@
       "duration_ms": 209482,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/7mEI3CpUWf7LdEah1QWYyW"
+    },
+    {
+      "album": {
+        "name": "Parasite (Remix)",
+        "url": "https://open.spotify.com/album/6T9XH1XLjR6pfRsFahSdw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Lawrence",
+          "url": "https://open.spotify.com/artist/6UgJu34MLxR5sbUI4Ng2OT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Parasite - Remix",
+      "url": "https://open.spotify.com/track/4c5ek2h43NOgpF8xDBhi3Z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Young 05
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,176 likes - 80 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,251 likes - 80 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 7 | [Geeked Shit \- remix](https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH) | [Luh Nae](https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Geeked Shit \(remix\)](https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y) | 2:45 |
 | 8 | [Go Get Some Money \( GGSM \)](https://open.spotify.com/track/3Zswafjaed0TW5FZkgQvc8) | [oksurf](https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM) | [Go Get Some Money \( GGSM \)](https://open.spotify.com/album/4mL2oUsid5qWnsmFYLOWpe) | 1:52 |
 | 9 | [Literally Doe](https://open.spotify.com/track/4Apwb0CmqWn00TMzjqMyaA) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Literally Doe](https://open.spotify.com/album/5xmWlklFLEue1Fx3tY1xjs) | 1:47 |
-| 10 | [Vibin](https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs) | [Wxoda](https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG) | [Vibin](https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx) | 1:33 |
+| 10 | [Vibin](https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs) | [Wxoda](https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG) | [Vibin](https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx) | 1:34 |
 | 11 | [AUCTION BLOCK \(BONUS\)](https://open.spotify.com/track/176epegtPc44XSfD8WkWZc) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [ROPE BURN](https://open.spotify.com/album/0GteknooF28InvAmZjGUx9) | 2:13 |
 | 12 | [Lihh Slyy](https://open.spotify.com/track/3LBkvemAiSxfKokDEBA98D) | [Yoko](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Lihh Slyy](https://open.spotify.com/album/714N19Is8NbuLQlGIv6KFI) | 2:13 |
 | 13 | [Tryna Get Witchu](https://open.spotify.com/track/79Hd0rEdjmwlsV40RL98jD) | [CR](https://open.spotify.com/artist/3s1NH27HjdIbCFlkzBezio) | [Tryna Get Witchu](https://open.spotify.com/album/3PTRXsV6g84tlzSmwbD1iV) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Mari Glock](https://open.spotify.com/track/4tcerjzYYVUdIcfcYfuvRa) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h), [Lil Sy](https://open.spotify.com/artist/72CLkm7zXfuBxvLU9hjmsi) | [51 Days & 54 Nights Walkin](https://open.spotify.com/album/3oLF2NLYR1s77uIxtU0cTF) | 2:00 |
 | 80 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAABM7VHCqE1RBP1PwAxeSNBs7StLg`
+Snapshot ID: `AAAAAMdN6Mu7s9L+IuIRuQFeEOWGUYMw`

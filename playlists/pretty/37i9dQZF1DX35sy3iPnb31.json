@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: BAMBII",
-  "num_followers": 2565,
+  "num_followers": 2569,
   "original_name": "Editors' Picks: Best Canadian Songs of August",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Now I've Got A Lot You Know",
-        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 310596,
-      "name": "Now I've Got A Lot You Know",
-      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "INFINITE LOVE",
         "url": "https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 244533,
       "name": "INFINITE LOVE",
       "url": "https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "This Feels Electric",
-        "url": "https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Outside Is Nice",
-      "url": "https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 193600,
       "name": "Failing",
       "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "This Feels Electric",
+        "url": "https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Outside Is Nice",
+      "url": "https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -831,34 +831,22 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "100 raccourcis",
-        "url": "https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q"
+        "name": "Sunna",
+        "url": "https://open.spotify.com/album/6ydEzBduSvCvKIho2NumU2"
       },
       "artists": [
         {
-          "name": "Kanda Gang",
-          "url": "https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5"
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
         },
         {
-          "name": "ANA\u00cfS.",
-          "url": "https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej"
-        },
-        {
-          "name": "Papi Jay",
-          "url": "https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI"
-        },
-        {
-          "name": "ANJXLXE",
-          "url": "https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb"
-        },
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
         }
       ],
-      "duration_ms": 214320,
-      "name": "100 raccourcis",
-      "url": "https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn"
+      "duration_ms": 194224,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/7p8mo1LlK73GzZtUGlYGvd"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of August",

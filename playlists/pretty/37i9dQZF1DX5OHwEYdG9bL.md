@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: EVAN\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,916 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,918 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 199 | [Fly Up](https://open.spotify.com/track/1WWA3ljyRLRbVNdwbKcJXn) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fly Up](https://open.spotify.com/album/2Di00emQl50yWqpPuJhaFh) | 3:07 |
 | 200 | [Simple dance](https://open.spotify.com/track/5GeI3416Huzl7hK8n597CL) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Simple dance](https://open.spotify.com/album/35w2F2OP5juEOAkMuICwsa) | 3:34 |
 
-Snapshot ID: `AAAAAETucA0MClVNUVUKOdIgfkt9BpTi`
+Snapshot ID: `AAAAAKzqbs/A9oqlY/MG4OakwZaQBm+O`

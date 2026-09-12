@@ -1,29 +1,13 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 64341,
+  "num_followers": 64355,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAA4nU+OCo9xcTthd3RPhAZW",
+  "snapshot_id": "aqHzAAAAAABNyiiW/NiR6JqwqGEaPhDS",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Ruins",
-        "url": "https://open.spotify.com/album/7a1CEuXEMOLoO9HVHSxqH6"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 337503,
-      "name": "In the Ruins",
-      "url": "https://open.spotify.com/track/3mJ58zxE8PT1j2tnpGLcA0"
-    },
     {
       "added_at": null,
       "album": {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 314205,
-      "name": "They're Coming For You",
-      "url": "https://open.spotify.com/track/4IYnrlAKQ7TSPnTX2YDQ8P"
+      "duration_ms": 337503,
+      "name": "In the Ruins",
+      "url": "https://open.spotify.com/track/0dM2ITdvGQT2yZUXQB1vUN"
     },
     {
       "added_at": null,
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 339315,
-      "name": "Golden Spires",
-      "url": "https://open.spotify.com/track/7GunJUfMn0WFZASAaD3yy0"
+      "duration_ms": 314205,
+      "name": "They're Coming For You",
+      "url": "https://open.spotify.com/track/4IYnrlAKQ7TSPnTX2YDQ8P"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cold Dark Place",
         "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 359400,
       "name": "Cold Dark Place",
       "url": "https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 327480,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cold Dark Place",
+        "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 370160,
+      "name": "North Side Star",
+      "url": "https://open.spotify.com/track/5BLSVhMrtqVBjKREM6rY1z"
     },
     {
       "added_at": null,

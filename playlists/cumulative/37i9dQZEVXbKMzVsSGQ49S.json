@@ -21777,6 +21777,24 @@
     },
     {
       "album": {
+        "name": "F\u00e6ddur til \u00feess a\u00f0 vera \u00feinn",
+        "url": "https://open.spotify.com/album/38Tyw3AWAHGy2MCN4SKRTs"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "F\u00e6ddur til \u00feess a\u00f0 vera \u00feinn",
+      "url": "https://open.spotify.com/track/4uUuzqYK8VMSHm8Ugf0BQx"
+    },
+    {
+      "album": {
         "name": "F\u00edla'essa lykt",
         "url": "https://open.spotify.com/album/6cI81x0v9wEDbxTLmLFznu"
       },
@@ -27774,6 +27792,28 @@
       "duration_ms": 211675,
       "name": "Hva\u00f0 er satt",
       "url": "https://open.spotify.com/track/1w4YR7iRoveiAbeCuwyNuB"
+    },
+    {
+      "album": {
+        "name": "Hva\u00f0 er \u00fea\u00f0 versta sem g\u00e6ti gerst?",
+        "url": "https://open.spotify.com/album/3yRO9dZUnfpPKYKDD5A8qf"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        },
+        {
+          "name": "SinfoniaNord",
+          "url": "https://open.spotify.com/artist/2wyAa4WC10hLoq4ye80EUd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167079,
+      "name": "Hva\u00f0 er \u00fea\u00f0 versta sem g\u00e6ti gerst?",
+      "url": "https://open.spotify.com/track/2D6Svonh8ZLrdmx26GOgS1"
     },
     {
       "album": {
@@ -35256,7 +35296,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -43006,7 +43046,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 170584,
       "name": "oh yeah?",
       "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
@@ -47938,7 +47978,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -48688,7 +48728,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 115853,
       "name": "Rokk T\u00f3nlist",
       "url": "https://open.spotify.com/track/5Urju4hVP9wVbiXRjs6c7k"
@@ -55376,7 +55416,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
@@ -62814,7 +62854,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 122600,
       "name": "Vertex Sharp Transients",
       "url": "https://open.spotify.com/track/6QEQTNUnx4mMdPfofxkYY8"
@@ -63332,7 +63372,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 292199,
       "name": "Vi\u00f0 Gr\u00f3ttu",
       "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"
@@ -63528,7 +63568,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 200106,
       "name": "Vopn",
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"

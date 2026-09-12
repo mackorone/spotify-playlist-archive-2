@@ -1,13 +1,61 @@
 {
-  "description": "Tseba says it's LOVE \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25  metropolis is your home for the best indie dance",
-  "num_followers": 868491,
+  "description": "just two silly brothers from France \ud83c\uddeb\ud83c\uddf7 metropolis is your home for the best indie dance",
+  "num_followers": 868460,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEJX33ib5iqzRCOJ1xvX5Idnwfs",
+  "snapshot_id": "AAAAAPonH5noZ4s4ZHIepaHzv/lNb6sm",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0reCuoSpZMDrx2LX87wsXS"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4DB3WKwPy7POy94JYZ5Jrs"
+    },
+    {
+      "added_at": "2026-07-24 04:02:32",
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-08-21 04:02:03",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
     {
       "added_at": "2026-09-04 04:26:07",
       "album": {
@@ -29,20 +77,64 @@
       "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
-      "added_at": "2026-07-24 04:02:32",
+      "added_at": "2026-09-11 04:02:15",
       "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+        "name": "moln (Finally Version)",
+        "url": "https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+      "duration_ms": 232727,
+      "name": "moln - Finally Version",
+      "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
+    },
+    {
+      "added_at": "2026-09-04 04:26:07",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/3595NnBUCIliBl17nLoPYT"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4cluYSm11ohFV5WPkU7Feq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:03",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "added_at": "2026-09-04 04:26:07",
@@ -61,20 +153,40 @@
       "url": "https://open.spotify.com/track/3MjEbRdF6BYrscL4TPbxkW"
     },
     {
-      "added_at": "2026-08-21 04:02:03",
+      "added_at": "2026-09-11 04:02:15",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
       },
       "artists": [
         {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+      "duration_ms": 192855,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Jersey (feat. Jam City)",
+        "url": "https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        }
+      ],
+      "duration_ms": 210028,
+      "name": "Jersey (feat. Jam City)",
+      "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
     },
     {
       "added_at": "2026-08-07 04:01:55",
@@ -99,42 +211,38 @@
     {
       "added_at": "2026-08-14 04:02:00",
       "album": {
-        "name": "Jersey (feat. Jam City)",
-        "url": "https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h"
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 210028,
-      "name": "Jersey (feat. Jam City)",
-      "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
     },
     {
-      "added_at": "2026-09-04 04:26:07",
+      "added_at": "2026-09-11 04:02:15",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/3595NnBUCIliBl17nLoPYT"
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
       },
       "artists": [
         {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         },
         {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4cluYSm11ohFV5WPkU7Feq"
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
     },
     {
       "added_at": "2026-08-28 04:02:12",
@@ -153,22 +261,6 @@
       "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
     },
     {
-      "added_at": "2026-08-14 04:02:00",
-      "album": {
-        "name": "When The Rain Begins To Fall",
-        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 214016,
-      "name": "When The Rain Begins To Fall",
-      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
-    },
-    {
       "added_at": "2026-09-04 04:26:07",
       "album": {
         "name": "Dreamtime Karaoke",
@@ -183,6 +275,22 @@
       "duration_ms": 186240,
       "name": "Dreamtime Karaoke",
       "url": "https://open.spotify.com/track/6pqjris6hPIl026GVtwb0j"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/1G4hwUVAXggwkICFWsN9uw"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 257366,
+      "name": "Melt Away",
+      "url": "https://open.spotify.com/track/6Rc9FVl12zdXTpLC6yZUXB"
     },
     {
       "added_at": "2026-08-07 04:01:55",
@@ -217,6 +325,38 @@
       "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
     },
     {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5yZ0Lu6xeVSYpwOSBeOFr6"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        }
+      ],
+      "duration_ms": 202592,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/1owOxAl3RKXuGJZXJ7RT8w"
+    },
+    {
+      "added_at": "2026-08-14 04:02:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
       "added_at": "2026-09-04 04:26:07",
       "album": {
         "name": "What I Feel Inside ?",
@@ -239,6 +379,30 @@
       "duration_ms": 162589,
       "name": "What I Feel Inside ?",
       "url": "https://open.spotify.com/track/6nlDAEfDNoySCKHdWBPAoQ"
+    },
+    {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
     },
     {
       "added_at": "2026-08-28 04:02:12",
@@ -345,22 +509,6 @@
       "url": "https://open.spotify.com/track/0rhWe6AnzLyusled6mZJHP"
     },
     {
-      "added_at": "2026-08-14 04:02:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
-    },
-    {
       "added_at": "2026-08-28 04:02:12",
       "album": {
         "name": "Talk to Me",
@@ -399,22 +547,6 @@
       "duration_ms": 219015,
       "name": "espiral",
       "url": "https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY"
-    },
-    {
-      "added_at": "2026-08-21 04:02:03",
-      "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "added_at": "2026-09-04 04:26:07",
@@ -771,46 +903,6 @@
     {
       "added_at": "2026-08-14 04:02:00",
       "album": {
-        "name": "PERMANENTE",
-        "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
-      },
-      "artists": [
-        {
-          "name": "Diego Raposo",
-          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
-        },
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 142275,
-      "name": "PERMANENTE",
-      "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
-    },
-    {
-      "added_at": "2026-08-07 04:01:55",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-08-14 04:02:00",
-      "album": {
         "name": "All Summer Long",
         "url": "https://open.spotify.com/album/2KNQ9Cu1sfi9eUESuhOLHJ"
       },
@@ -911,22 +1003,6 @@
       "duration_ms": 152533,
       "name": "U&I",
       "url": "https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c"
-    },
-    {
-      "added_at": "2026-07-31 04:02:21",
-      "album": {
-        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
-        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 109461,
-      "name": "LONGING",
-      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
     },
     {
       "added_at": "2026-07-24 04:02:32",
@@ -1037,26 +1113,6 @@
       "url": "https://open.spotify.com/track/4Hoj7nOogsyeeqoJbiCWcA"
     },
     {
-      "added_at": "2026-07-17 04:01:59",
-      "album": {
-        "name": "Little Delights",
-        "url": "https://open.spotify.com/album/6xFDoQXi8Z4cTL8pJvgvha"
-      },
-      "artists": [
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        },
-        {
-          "name": "Tema Siegel",
-          "url": "https://open.spotify.com/artist/0JX4luvyVkqNf8H4KsSFFK"
-        }
-      ],
-      "duration_ms": 175438,
-      "name": "Little Delights",
-      "url": "https://open.spotify.com/track/6tvEgeB8PIxhefgX3s8379"
-    },
-    {
       "added_at": "2026-07-10 04:02:03",
       "album": {
         "name": "only one",
@@ -1133,38 +1189,6 @@
       "url": "https://open.spotify.com/track/12q7nog4QsQdtvjVDBWZV2"
     },
     {
-      "added_at": "2026-07-10 04:02:03",
-      "album": {
-        "name": "99 Dimensional",
-        "url": "https://open.spotify.com/album/6OwpXwjCZ4TIeF9gcAPE1t"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "99 Dimensional",
-      "url": "https://open.spotify.com/track/5c8aUoKjOyeUalxWqR4RSs"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Fcukers - Spotify RADAR",
-        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 149270,
-      "name": "L.U.C.K.Y - (Live) | Spotify RADAR",
-      "url": "https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX"
-    },
-    {
       "added_at": "2026-07-03 04:02:04",
       "album": {
         "name": "Molly In The Club",
@@ -1179,26 +1203,6 @@
       "duration_ms": 216138,
       "name": "Molly In The Club",
       "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
-    },
-    {
-      "added_at": "2026-06-12 04:02:04",
-      "album": {
-        "name": "Every Single Weekend (feat. Jamie xx)",
-        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 130133,
-      "name": "Every Single Weekend (feat. Jamie xx)",
-      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
     },
     {
       "added_at": "2026-06-19 04:16:01",

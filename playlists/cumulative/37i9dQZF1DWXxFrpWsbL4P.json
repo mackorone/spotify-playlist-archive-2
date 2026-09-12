@@ -76,10 +76,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 264000,
       "name": "303 Reasons to Live",
       "url": "https://open.spotify.com/track/31jbcT4YAYhLj6wUXcxh2X"
+    },
+    {
+      "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
     },
     {
       "album": {
@@ -192,7 +210,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 243934,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/04awbijDXjm4Fs6cDfahLb"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 121846,
       "name": "Blackberries",
       "url": "https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi"
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Landlords Nightmare",
+        "url": "https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295487,
+      "name": "Landlords Nightmare",
+      "url": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6h9qFmLi7k6c1l2gowI0pI"
       },
@@ -1210,7 +1246,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147857,
       "name": "Masal",
       "url": "https://open.spotify.com/track/4up3rD60VO1Irn5D45WTax"
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183636,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn"
@@ -1280,6 +1316,32 @@
       "duration_ms": 210000,
       "name": "Mojave Mirage",
       "url": "https://open.spotify.com/track/3AoqjN3ZGLeiSWuovSkDdb"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/5hIJ30q6Zg5rYj9Tu4xxVk"
+      },
+      "artists": [
+        {
+          "name": "KIDY",
+          "url": "https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG"
+        },
+        {
+          "name": "RAVANO",
+          "url": "https://open.spotify.com/artist/110rF4W6xAaPg64b7VM6RZ"
+        },
+        {
+          "name": "Cem Egemen",
+          "url": "https://open.spotify.com/artist/3VDGWb8lb16GUZe4ntCwZK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/5rnQPQ86eYx4heLnEyPnPW"
     },
     {
       "album": {
@@ -1448,7 +1510,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147786,
       "name": "Panjab",
       "url": "https://open.spotify.com/track/5lXfwFlQywqVHvLsjdRWnu"
@@ -1488,6 +1550,28 @@
       "duration_ms": 250434,
       "name": "Puppet's Call",
       "url": "https://open.spotify.com/track/2J1SxoYU8EndVsPZzyfw5C"
+    },
+    {
+      "album": {
+        "name": "Push It UP",
+        "url": "https://open.spotify.com/album/288KRBkM0UvzxYLGZ2s28o"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        },
+        {
+          "name": "Orhan Aydin",
+          "url": "https://open.spotify.com/artist/75QfTuyGZaTSC1yc0DiD8j"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252947,
+      "name": "Push It UP",
+      "url": "https://open.spotify.com/track/0zxEnjFDMNbSGUZOXO7oKs"
     },
     {
       "album": {
@@ -1561,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Rudeboy Ali",
+        "url": "https://open.spotify.com/album/1593hb5WT0jJhKlYljuXFj"
+      },
+      "artists": [
+        {
+          "name": "Murteza",
+          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+        },
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205246,
+      "name": "Rudeboy Ali",
+      "url": "https://open.spotify.com/track/0YFYzQ1EieCx4LxfkXhTgm"
+    },
+    {
+      "album": {
         "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
       },
@@ -1598,7 +1704,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
@@ -1686,6 +1792,28 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
+    },
+    {
+      "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/5I11kwV1LQt8hnIRrP4beC"
+      },
+      "artists": [
+        {
+          "name": "Hakan Akkus",
+          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
+        },
+        {
+          "name": "SUER",
+          "url": "https://open.spotify.com/artist/1rDU02wIRYl8HsfyOTEs4I"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2a9tCgOmN6riOrMO8BGc0V"
     },
     {
       "album": {
@@ -1781,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Love.exe",
+        "url": "https://open.spotify.com/album/1gJyfKAvntI0MU18nrsQ2a"
+      },
+      "artists": [
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194624,
+      "name": "Sweat Drip",
+      "url": "https://open.spotify.com/track/7spOWFsvDJITKHB0AuCd7Z"
+    },
+    {
+      "album": {
         "name": "Takutam",
         "url": "https://open.spotify.com/album/55OCq0TfxZ7x74PEIctGhY"
       },
@@ -1854,6 +2000,32 @@
       "duration_ms": 214903,
       "name": "The Monster You Adore",
       "url": "https://open.spotify.com/track/6ybaRgzmTVtXqVzzJXoy1d"
+    },
+    {
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/6Ru1NQn19EmYDMG8dGiy37"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        },
+        {
+          "name": "OZBEK",
+          "url": "https://open.spotify.com/artist/3oirDQR9QcyQvqjEZSMLFu"
+        },
+        {
+          "name": "Zafer Atabey",
+          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180019,
+      "name": "The Sound - Edit",
+      "url": "https://open.spotify.com/track/5p2WCbrxJtGIyGQU1wm22c"
     },
     {
       "album": {
@@ -1978,7 +2150,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"

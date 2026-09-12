@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/241M4y81cqsEXb5xRCHS0B"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63400,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/5qMs7tvw6eH7FffSmSdogR"
+    },
+    {
+      "album": {
         "name": "Ask me why (II)",
         "url": "https://open.spotify.com/album/69Ikb0v1pjo7gTVCS7ZNcL"
       },

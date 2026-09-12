@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJl8Wddz+rpqBE3Rh3W1HtnYLj/ady",
+  "snapshot_id": "AAAJm+sCbMyOAarQptUvJqplFtifMW3o",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12903,6 +12903,38 @@
       "duration_ms": 120546,
       "name": "For Thee I Sing",
       "url": "https://open.spotify.com/track/1wmbj9YzoWzc1VPSf5Enrs"
+    },
+    {
+      "added_at": "2026-09-11 15:47:49",
+      "album": {
+        "name": "Tours",
+        "url": "https://open.spotify.com/album/3OgsCbhoLkWuOB1j8ZmO8G"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 237543,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/2jOpG7454PS9H6WoichjzN"
+    },
+    {
+      "added_at": "2026-09-11 15:47:53",
+      "album": {
+        "name": "Dystopian",
+        "url": "https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Among a Hundred Faces",
+      "url": "https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ"
     }
   ],
   "unique_name": "Zacklog",

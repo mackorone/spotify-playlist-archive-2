@@ -8623,6 +8623,24 @@
     },
     {
       "album": {
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB"
+      },
+      "artists": [
+        {
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258613,
+      "name": "January 12th",
+      "url": "https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/1y7UiqKO85WebeGfFnIuYX"
       },
@@ -16734,24 +16752,6 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
-    },
-    {
-      "album": {
-        "name": "Love, At The End Of The World",
-        "url": "https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB"
-      },
-      "artists": [
-        {
-          "name": "SEREN",
-          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
-        }
-      ],
-      "date_added": "2026-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ"
     },
     {
       "album": {

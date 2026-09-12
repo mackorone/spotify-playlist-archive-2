@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Against the Current
 
-1,091 songs - 2 day 14 hr 10 min
+1,092 songs - 2 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-12 | 2025-07-25 |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-27 | 2025-11-01 |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-08 | 2026-03-30 |
+| [Arsenal](https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Arsenal](https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP) | 3:41 | 2026-09-11 |  |
 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2024-06-27 | 2024-12-20 |
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 | 2026-06-26 |
 | [ASHAMED \[FEAT\. LAUREN MAYBERRY\]](https://open.spotify.com/track/6hzB661UwvHzs4ewpeaGCj) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:01 | 2026-04-09 | 2026-04-17 |
@@ -733,7 +734,7 @@
 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-06-27 | 2024-07-19 |
 | [Paralyzed](https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Paralyzed](https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi) | 3:12 | 2026-05-21 | 2026-06-19 |
 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 | 2024-07-18 | 2024-07-27 |
-| [Paranoia](https://open.spotify.com/track/5qL9ry43j5LQDpnkEa8rV6) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Paranoia](https://open.spotify.com/album/1QYU4ioKR2IAHS3ilb5RVr) | 4:06 | 2026-08-27 | 2026-09-04 |
+| [Paranoia](https://open.spotify.com/track/5qL9ry43j5LQDpnkEa8rV6) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Paranoia](https://open.spotify.com/album/1QYU4ioKR2IAHS3ilb5RVr) | 4:06 | 2026-08-27 |  |
 | [Parasites](https://open.spotify.com/track/1Vd4mXEiqnPuT64nGqfCgy) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [Parasites](https://open.spotify.com/album/2OkrURjRPLak3YZT6EgLyn) | 3:51 | 2025-11-20 | 2025-11-28 |
 | [Partisan](https://open.spotify.com/track/2E3tLNPJRD6weoob4n9qpi) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Rite of Passage](https://open.spotify.com/album/5q2JX9rGpFhShtwDtjrtKY) | 1:41 | 2026-05-21 | 2026-05-29 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 | 2025-11-08 |
@@ -750,7 +751,7 @@
 | [Poor Boy](https://open.spotify.com/track/6bRfGqzCq84E0sCk2NMnxR) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Poor Boy](https://open.spotify.com/album/6LDXkDZ8UuSoNIkK5cywHn) | 3:11 | 2024-09-26 | 2024-10-04 |
 | [Potential](https://open.spotify.com/track/0PXZHf9zoHTJhohJyK6jcO) | [SENNA](https://open.spotify.com/artist/5qq0OWzsawAVBlf63FPU22) | [Stranger To Love](https://open.spotify.com/album/7ethkIDLKAbEKJGCzTJd63) | 3:27 | 2025-05-22 | 2025-05-30 |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-06-27 | 2025-03-28 |
-| [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 | 2025-09-18 |  |
+| [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 | 2025-09-18 | 2026-09-12 |
 | [Prequel](https://open.spotify.com/track/3ZdwCZtXWJjMqHlSFgYfIg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:53 | 2024-08-19 | 2025-12-05 |
 | [Pressure](https://open.spotify.com/track/5vBJF9zAYFeWxqkGXF583A) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN) | [Pressure](https://open.spotify.com/album/024pztg1UNFjSuXdwfIQTx) | 3:10 | 2024-07-18 | 2024-07-27 |
 | [Pretend](https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Pretend](https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6) | 3:05 | 2024-09-26 | 2025-03-27 |
@@ -896,7 +897,7 @@
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2024-06-27 | 2024-12-20 |
 | [Stuck in a Room](https://open.spotify.com/track/7zUudzEPpK93hOltp7N66J) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Stuck in a Room](https://open.spotify.com/album/4X4Le64UYlb1t4zPwkSqlX) | 2:50 | 2025-07-17 | 2025-07-25 |
 | [Stuck On You](https://open.spotify.com/track/0NgakQZaK9pAEC5qIBAvGy) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB) | [Stuck On You](https://open.spotify.com/album/5QhuMkiS9jBVzqh2IXsslO) | 2:44 | 2024-11-28 | 2024-12-13 |
-| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-19 |  |
+| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-19 | 2026-09-12 |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 | 2025-11-07 |
 | [Suffer](https://open.spotify.com/track/15iV4qIK87w0xWJZQc2vun) | [The Art Of Boys](https://open.spotify.com/artist/5iid1YYLkrRxV59dww7EtS) | [Suffer](https://open.spotify.com/album/25nuF8vaXRRDnxlFCkvdnU) | 3:19 | 2026-02-05 | 2026-02-13 |
 | [Suffocate](https://open.spotify.com/track/2XyMqXoCief3SnnNxEMJ9s) | [About Monsters](https://open.spotify.com/artist/3MgpEbOPTYbUAOt9uyn5pb) | [Suffocate](https://open.spotify.com/album/79H6WwnwmCS9KQdBrakLW6) | 3:17 | 2025-03-27 | 2025-04-04 |

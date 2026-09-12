@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Chloé Caillet .
+> Celebrating women at the center of innovation in electronic music\. Featuring Helena Gao.
 
-908 songs - 2 day 7 hr 52 min
+911 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 | 2026-06-26 |  |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2024-12-20 | 2025-11-22 |
 | [Bad Dream](https://open.spotify.com/track/6UTQKc4s4UVSiEVHSdgRhB) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Bad Dream](https://open.spotify.com/album/5zfJPZUTL7A9B5tQTuT3Zs) | 3:42 | 2024-04-19 | 2024-06-29 |
-| [Bad Love](https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Bad Love](https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB) | 2:43 | 2026-03-30 |  |
+| [Bad Love](https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Bad Love](https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB) | 2:43 | 2026-03-30 | 2026-09-12 |
 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 | 2025-08-01 | 2025-10-04 |
 | [Baewatch](https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Piratebae](https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA) | 3:27 | 2026-04-17 | 2026-08-28 |
 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-04-18 | 2026-02-21 |
@@ -159,6 +159,7 @@
 | [Clouded](https://open.spotify.com/track/5H6q2mrgtsDtw4yD1NU97T) | [Rose Holland](https://open.spotify.com/artist/0s1kTVN40AkTa0ABb0lvJh) | [Clouded](https://open.spotify.com/album/5dfjvvyLcrEMN9WEbyFkg5) | 3:15 | 2025-10-24 | 2026-06-11 |
 | [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-11 | 2024-11-16 |
 | [Coconut Water](https://open.spotify.com/track/2DSWwPZYH00L6NYQBxe6Uf) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Coconut Water](https://open.spotify.com/album/5NghVRPpgs6d7GXEBsk22G) | 3:24 | 2024-12-06 | 2025-02-01 |
+| [COKETA](https://open.spotify.com/track/3zFG1PDHnVUnv2cj5dQO2A) | [ELLA](https://open.spotify.com/artist/2wP1AJJUJKhLk5k4agvujz), [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [TU LATINA MAMI](https://open.spotify.com/album/1EQE8QO2nsb1qiKN6KSiNF) | 3:15 | 2026-09-11 |  |
 | [Cola](https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Cola](https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX) | 2:13 | 2026-01-30 | 2026-05-30 |
 | [Come Back Home](https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Come Back Home](https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot) | 4:03 | 2024-03-01 | 2024-04-19 |
 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 | 2025-08-01 | 2025-10-04 |
@@ -380,7 +381,7 @@
 | [Higher](https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr) | [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Higher](https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ) | 2:49 | 2024-04-19 | 2024-06-29 |
 | [Higher](https://open.spotify.com/track/1hAcMSQaEwMpO2SV4tiStj) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Get Up](https://open.spotify.com/album/1Ynu1lN1FE4mBO1JjKsg0j) | 5:12 | 2025-05-09 | 2025-06-07 |
 | [Higher](https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Higher](https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD) | 3:32 | 2024-04-26 | 2024-08-17 |
-| [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 | 2026-03-20 |  |
+| [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 | 2026-03-20 | 2026-09-12 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 | 2025-04-19 |
 | [Holding Back](https://open.spotify.com/track/3PY4LMTRDGzg9wXq4tB9cE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Holding Back](https://open.spotify.com/album/7vH5NAAUkYccDgk37OZcmc) | 3:45 | 2025-02-07 | 2025-03-29 |
 | [Hollow](https://open.spotify.com/track/1AL3QYWKnoUWHD8IvXx72j) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/6DIDW3h9nsJgVkWiCM3H4x) | 3:36 | 2021-03-01 | 2022-07-29 |
@@ -409,6 +410,7 @@
 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-23 | 2026-04-21 |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-28 | 2025-09-13 |
 | [I Didn't Feel Like Singing](https://open.spotify.com/track/6buL8Y9okXMqTj8HfT3KSo) | [Analu \(BR\)](https://open.spotify.com/artist/7eL1mVS0252oWwJTXb74EI) | [Lady of the House: Brazil Winners EP](https://open.spotify.com/album/6EbiSQfXOD1TBv5fuDbizD) | 3:29 | 2025-12-17 | 2026-02-07 |
+| [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 | 2026-09-11 |  |
 | [I Don't Know Why I'm Sad About It](https://open.spotify.com/track/6XDFHhnPcsR6XtGuraEL4o) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Tell Me Everything's Gonna Be Alright](https://open.spotify.com/album/5as4f2ygq71TkG9hPzIFRs) | 2:09 | 2025-05-30 | 2025-08-24 |
 | [I Go Dance](https://open.spotify.com/track/5YdMBvsr5rLpgi5euODejU) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [I Go Dance](https://open.spotify.com/album/455CmcER7FNeMwmpN4ND4n) | 2:56 | 2024-03-22 | 2024-05-18 |
 | [I Guess I Don't](https://open.spotify.com/track/6Ms2tZmplrFast9JUvee3N) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [I Guess I Don't](https://open.spotify.com/album/6yjBXEhA3rN1WGbNEPxfu5) | 4:34 | 2025-07-11 | 2025-09-13 |
@@ -560,6 +562,7 @@
 | [Mysterious World](https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Softest Chyl](https://open.spotify.com/artist/3UFeSCo9XJzKNt0Y2Yq1Hb) | [Mysterious World](https://open.spotify.com/album/2B5aEC063CNyJD2l2M2fhb) | 3:00 | 2024-05-31 | 2024-08-10 |
 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 | 2025-03-07 | 2025-05-10 |
 | [Nails](https://open.spotify.com/track/5ZYiAB57ZQRF2fbgvt5yRp) | [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Nails](https://open.spotify.com/album/5LlizxlYAeo1aJOXZRTkj7) | 2:10 | 2025-11-21 | 2026-07-11 |
+| [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 | 2026-09-11 |  |
 | [Need You](https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Need You](https://open.spotify.com/album/1ZCDNZ42SoSukKI4QPebqA) | 2:54 | 2024-06-28 | 2025-02-15 |
 | [Neuromancer](https://open.spotify.com/track/18VlAbo4c4NLA82SXapfgs) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 6:16 | 2025-11-14 | 2026-02-14 |
 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
@@ -622,7 +625,7 @@
 | [Perfume](https://open.spotify.com/track/4vNtM0pqzltQXaSAd4Dj61) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Perfume](https://open.spotify.com/album/0nYNEtTraLb8gQDf7uOVIg) | 3:36 | 2026-03-20 |  |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-03-07 | 2024-03-02 |
 | [Picante](https://open.spotify.com/track/2GlkQgQwmB8ViK8UhEtfME) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [OG009](https://open.spotify.com/album/7rSB4RbLgqR6pnkEUCcxfJ) | 3:13 | 2026-08-14 |  |
-| [Pingers](https://open.spotify.com/track/5H6hs8cw8QDcqWlyy2ifXH) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Pingers](https://open.spotify.com/album/7KCeEhwf6JElhbfuNxfPgf) | 2:53 | 2026-04-17 |  |
+| [Pingers](https://open.spotify.com/track/5H6hs8cw8QDcqWlyy2ifXH) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Pingers](https://open.spotify.com/album/7KCeEhwf6JElhbfuNxfPgf) | 2:53 | 2026-04-17 | 2026-09-12 |
 | [Pink Beluga](https://open.spotify.com/track/66gjsQi1En9ZSyjiTr0gSQ) | [Aldonna](https://open.spotify.com/artist/3EPcykAa9mr5CBXcDBQCxS) | [Pink Beluga](https://open.spotify.com/album/2MGyLrcYSN5zMKLBWQ61Oq) | 6:22 | 2025-08-29 | 2025-11-22 |
 | [Planet Blue](https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Planet Blue](https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL) | 2:55 | 2024-06-18 | 2024-09-14 |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 | 2025-04-19 |

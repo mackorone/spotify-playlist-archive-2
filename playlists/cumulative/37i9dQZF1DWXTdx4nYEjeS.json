@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177066,
       "name": "C\u00f3mo Eran las Cosas - En Vivo",
       "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
@@ -11406,6 +11406,24 @@
       "duration_ms": 171031,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/3YFRV4FKybqglIQ6yqlJUD"
+    },
+    {
+      "album": {
+        "name": "Carisma Secreto",
+        "url": "https://open.spotify.com/album/7kPvkm0UJSOxrL9EA7TjxP"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230848,
+      "name": "Manos de Cristal",
+      "url": "https://open.spotify.com/track/3hVYjEJGpvtHGLDcbuAO4I"
     },
     {
       "album": {

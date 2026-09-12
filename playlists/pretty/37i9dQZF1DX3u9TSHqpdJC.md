@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: SNACKTIME Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,796 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,832 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 66 | [Magic](https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60) | [D'Leesa](https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a) | [Magic](https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7) | 3:33 |
 | 67 | [Go Wild](https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Go Wild](https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj) | 3:26 |
 | 68 | [No Narcotics](https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [No Narcotics](https://open.spotify.com/album/1XyWbK9QroIJngVcDJAFi1) | 2:48 |
-| 69 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
-| 70 | [The Drugs Don't Work Anymore](https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D) | [Josephine Genais](https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC) | [The Drugs Don't Work Anymore](https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch) | 3:31 |
-| 71 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
-| 72 | [somethingsdontsitright](https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [somethingsdontsitright](https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4) | 2:53 |
-| 73 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
-| 74 | [made for love](https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [we're all in love](https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF) | 3:56 |
-| 75 | [ENERGIZE](https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN) | [JEWELS](https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd) | [ENERGIZE](https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4) | 2:48 |
+| 69 | [East Coast Summers](https://open.spotify.com/track/6WfKXUXkTM96NQ43NgxD7U) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:41 |
+| 70 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
+| 71 | [The Drugs Don't Work Anymore](https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D) | [Josephine Genais](https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC) | [The Drugs Don't Work Anymore](https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch) | 3:31 |
+| 72 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
+| 73 | [somethingsdontsitright](https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [somethingsdontsitright](https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4) | 2:53 |
+| 74 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
+| 75 | [made for love](https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [we're all in love](https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF) | 3:56 |
 
-Snapshot ID: `AAAAAMc/PZ7ewt2SheHlF96KLtSvhong`
+Snapshot ID: `AAAAABCoY5zcE+Fy1QiM3d//JK3OJipQ`

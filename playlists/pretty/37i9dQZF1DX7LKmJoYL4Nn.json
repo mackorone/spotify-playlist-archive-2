@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63325,
+  "num_followers": 63328,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMkBF0GcQmWeeIT7M1y2glVJ4h4",
+  "snapshot_id": "AAAAADGZl5YriwkTtzQo4NPhQOpCw9bY",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
-      },
-      "artists": [
-        {
-          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300c\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/6b9EPx8j0LIjKGOVrfVqPc"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
+      },
+      "artists": [
+        {
+          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Silent Oath",
+      "url": "https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD Crazy:B",
         "url": "https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
-        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
-      },
-      "artists": [
-        {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Unstoppable Love!",
-      "url": "https://open.spotify.com/track/1QhndrR36fcCzw4JbqevL4"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
         "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+      },
+      "artists": [
+        {
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Unstoppable Love!",
+      "url": "https://open.spotify.com/track/1QhndrR36fcCzw4JbqevL4"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Eve\u300cRuby Love\u300d (Game Edit)",
         "url": "https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 157846,
       "name": "Ruby Love - Game Edit",
       "url": "https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d5\u30e9\u30bf\u30cb\u30c6\u30a3\u300c\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7\u300d (Game Edit)",
-        "url": "https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30e9\u30bf\u30cb\u30c6\u30a3/\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)",
-          "url": "https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 - Game Edit",
-      "url": "https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

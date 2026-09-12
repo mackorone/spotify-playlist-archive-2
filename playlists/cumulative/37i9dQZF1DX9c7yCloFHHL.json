@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Emily A. Sprague",
+  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: aus",
   "name": "New Ambient",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 266197,
       "name": "19 Tones",
       "url": "https://open.spotify.com/track/3V00BjlVRWZVwQlO9pNtql"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 184201,
       "name": "2.22pm wishyouwerestillhere",
       "url": "https://open.spotify.com/track/0guXPm7tAdyI4sFypu0zYM"
@@ -5995,6 +5995,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Lover",
+        "url": "https://open.spotify.com/album/4DOy4JZ95yqTwegBYRscoN"
+      },
+      "artists": [
+        {
+          "name": "Flor van Myller",
+          "url": "https://open.spotify.com/artist/3SCQO1fe6hHBh51RYiupMH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160032,
+      "name": "Butterfly Lover",
+      "url": "https://open.spotify.com/track/1wYOslGmJkqbHun50MxKIE"
+    },
+    {
+      "album": {
         "name": "Full Moon Over Monument Valley",
         "url": "https://open.spotify.com/album/7z52h4ZNFzfRXQwmjPgSnd"
       },
@@ -8386,7 +8404,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 353278,
       "name": "Conversation 3",
       "url": "https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP"
@@ -9773,6 +9791,24 @@
     },
     {
       "album": {
+        "name": "Distancia Necesaria",
+        "url": "https://open.spotify.com/album/6iub02Aof73Pk8GqfWs4A4"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Distancia Necesaria",
+      "url": "https://open.spotify.com/track/1GHxzj8KLRiUsVq5B9jgoY"
+    },
+    {
+      "album": {
         "name": "distorted memories",
         "url": "https://open.spotify.com/album/1WChIlXaop1njMZQghuhw5"
       },
@@ -9966,7 +10002,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 304368,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/71p4RoTQY7hTjeaI6ML7O2"
@@ -13996,7 +14032,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 230350,
       "name": "From Kinosaki",
       "url": "https://open.spotify.com/track/20XVOGHynT49SuCdAQhGBH"
@@ -15133,6 +15169,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Is a Temporary Word",
+        "url": "https://open.spotify.com/album/27c3NFCKeq6x0dLmoJZXND"
+      },
+      "artists": [
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Goodbye Is a Temporary Word",
+      "url": "https://open.spotify.com/track/7ciBH0dMVseCdxlCia3cIb"
+    },
+    {
+      "album": {
         "name": "Goth",
         "url": "https://open.spotify.com/album/2bfcLG8UCxwrelA3ukFBa5"
       },
@@ -16064,6 +16118,24 @@
       "duration_ms": 613980,
       "name": "Hill Blocks View",
       "url": "https://open.spotify.com/track/3uOW5j1bSslTwy0ajoFhfc"
+    },
+    {
+      "album": {
+        "name": "Hiris (Bonus Track)",
+        "url": "https://open.spotify.com/album/6RwFQHLwuVk0snzdE5LdCa"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Hiris - Bonus Track",
+      "url": "https://open.spotify.com/track/55KIdhlMkHe9Kp1KwsELuY"
     },
     {
       "album": {
@@ -18118,7 +18190,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 86352,
       "name": "interiors",
       "url": "https://open.spotify.com/track/3FVGz6K4LIvDREdeOTRuxy"
@@ -18368,7 +18440,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 600200,
       "name": "Isle Peaks",
       "url": "https://open.spotify.com/track/0XwXfIbWdyYFsOkNbwwj6A"
@@ -19215,6 +19287,28 @@
     },
     {
       "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/4PpgnkPhHa5F6REtPuONcT"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        },
+        {
+          "name": "Hora Lunga",
+          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293080,
+      "name": "la noche m\u00e1s larga del mundo",
+      "url": "https://open.spotify.com/track/5Rq1nL3AV5zrsrV44APExr"
+    },
+    {
+      "album": {
         "name": "La r\u00e9volte du coeur (Joseph Schiano di Lombo Remix)",
         "url": "https://open.spotify.com/album/2u8brVmr6s7n6K1lp6Xp2g"
       },
@@ -19386,7 +19480,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218181,
       "name": "Lambi",
       "url": "https://open.spotify.com/track/4ILpdi4eqjLedMDZKfjJSI"
@@ -20242,6 +20336,24 @@
       "duration_ms": 180000,
       "name": "Lilt",
       "url": "https://open.spotify.com/track/2gd8P00D31fJWs56DEcez1"
+    },
+    {
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0XKh6BLHbUhNLgx5FNwTf2"
+      },
+      "artists": [
+        {
+          "name": "James Bright",
+          "url": "https://open.spotify.com/artist/7JcxJ3BRljo49dQVZ5tCFs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/5BrWSSFgcRkNSrD8jcrwT1"
     },
     {
       "album": {
@@ -24553,6 +24665,24 @@
     },
     {
       "album": {
+        "name": "NUNC STANS",
+        "url": "https://open.spotify.com/album/4go5pxsmgdkRkleIuAX1iv"
+      },
+      "artists": [
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286626,
+      "name": "NUNC STANS",
+      "url": "https://open.spotify.com/track/0eqzbjtMMgzi873cCrFMeq"
+    },
+    {
+      "album": {
         "name": "Nutrition",
         "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
@@ -25286,6 +25416,24 @@
       "duration_ms": 283093,
       "name": "Open Day",
       "url": "https://open.spotify.com/track/7pRuoZ6srxvHQOVXMZa9Qn"
+    },
+    {
+      "album": {
+        "name": "Open Ended",
+        "url": "https://open.spotify.com/album/5NpqTTWsN7QpBl7OnNaQAG"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256686,
+      "name": "Open Ended",
+      "url": "https://open.spotify.com/track/6V2Y3mohQ0ktuXES6EsKrm"
     },
     {
       "album": {
@@ -27784,6 +27932,28 @@
       "duration_ms": 113933,
       "name": "Preface",
       "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
+    },
+    {
+      "album": {
+        "name": "presence",
+        "url": "https://open.spotify.com/album/2WNXEnEGnrKWBPlVgW8Un5"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Silver Ley",
+          "url": "https://open.spotify.com/artist/7FIhQWkHHjD6r2FzZe4EIT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223434,
+      "name": "presence",
+      "url": "https://open.spotify.com/track/6zuUbjk1vXvOoGv5TVdOa0"
     },
     {
       "album": {
@@ -30896,7 +31066,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 277000,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0"
@@ -30972,7 +31142,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 210420,
       "name": "She Goes Where I Go",
       "url": "https://open.spotify.com/track/4ZSiarz9TgIFJGW8X83Vso"
@@ -35831,6 +36001,24 @@
     },
     {
       "album": {
+        "name": "The Unspoken Layer",
+        "url": "https://open.spotify.com/album/00CR6NgEll8LzclVR4Ge55"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "The Unspoken Layer",
+      "url": "https://open.spotify.com/track/0kPwPHy8x4eRRwNmbiGkH0"
+    },
+    {
+      "album": {
         "name": "The Way of the Wind (Rework)",
         "url": "https://open.spotify.com/album/3nZE7xM3ausnWxWtbMOmlS"
       },
@@ -35958,6 +36146,24 @@
       "duration_ms": 176000,
       "name": "The World Until Yesterday",
       "url": "https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs"
+    },
+    {
+      "album": {
+        "name": "Psychick Youth",
+        "url": "https://open.spotify.com/album/4L7DNXZntuiA379FulMvXM"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379801,
+      "name": "Theme 1",
+      "url": "https://open.spotify.com/track/2NrqLkS1x30MkwFrhM5X2F"
     },
     {
       "album": {
@@ -40750,7 +40956,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 174707,
       "name": "Yakushima",
       "url": "https://open.spotify.com/track/2i8qPYZ3vRuLFEgkQB10SD"

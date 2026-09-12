@@ -1,13 +1,45 @@
 {
-  "description": "sweet. sharp. unbothered - Zolita on the cover",
-  "num_followers": 523019,
+  "description": "sweet. sharp. unbothered - Wafia on the cover",
+  "num_followers": 522994,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQGMebMUkvGcop682jzGLofMRjQ",
+  "snapshot_id": "AAAAAAdyYP2pUwfvrYxcH1d7WOBBkfBM",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:01:36",
+      "album": {
+        "name": "GIRL IS A GUN",
+        "url": "https://open.spotify.com/album/7DccwurSFYdhiTIJQZgDDT"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "GIRL IS A GUN",
+      "url": "https://open.spotify.com/track/6WyV54hJy2cDTG0TUYzKcL"
+    },
+    {
+      "added_at": "2026-09-11 04:01:36",
+      "album": {
+        "name": "kingpin",
+        "url": "https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "kingpin",
+      "url": "https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex"
+    },
     {
       "added_at": "2026-08-28 04:22:45",
       "album": {
@@ -267,22 +299,6 @@
       "duration_ms": 101172,
       "name": "NINE-ONE-ONE",
       "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
-    },
-    {
-      "added_at": "2026-07-17 04:02:08",
-      "album": {
-        "name": "Bad Ones",
-        "url": "https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "Bad Ones",
-      "url": "https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6"
     },
     {
       "added_at": "2026-07-01 18:49:47",
@@ -807,22 +823,6 @@
       "duration_ms": 133941,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3XJseRquEY7iBYLSvDIl5Q"
-    },
-    {
-      "added_at": "2026-04-17 04:02:49",
-      "album": {
-        "name": "god forbid a girl spits out her feelings!",
-        "url": "https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 142626,
-      "name": "dumbest girl in the world",
-      "url": "https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u"
     }
   ],
   "unique_name": "SALT",

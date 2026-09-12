@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Tailtiu
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,721 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,734 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Feeling It All](https://open.spotify.com/track/4QvE2zr6HWLZ0SCW4JPzKP) | [smythy](https://open.spotify.com/artist/0VbunCzHQjZW1JfkA9smBp) | [Feeling It All](https://open.spotify.com/album/3t9kxmfp13QYD7aBBNihWF) | 3:54 |
 | 50 | [Clip Empty](https://open.spotify.com/track/71tXfgTNTxwVMZRM6wEm0K) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Clip Empty](https://open.spotify.com/album/2YLNzEcDE3v8rE2T121RHA) | 4:14 |
 
-Snapshot ID: `AAAAAFuqMTzsZV/N2PX4Yl2bjFCs2zu1`
+Snapshot ID: `AAAAAMAaYi3xvOj5ghIQsgO2cYMAO+hS`

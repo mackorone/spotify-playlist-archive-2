@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183360,
       "name": "Bebey",
       "url": "https://open.spotify.com/track/4Ou0OxFHU88pEl3S8KBzLR"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 151384,
       "name": "Bless",
       "url": "https://open.spotify.com/track/4qbgqXqDEmkjbFIltxD6HY"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 151892,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/2UDPH0y7P5Rb9JtCQKWOd3"
@@ -1814,6 +1814,28 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+    },
+    {
+      "album": {
+        "name": "Stress Selects: Endless Summer (Mixed)",
+        "url": "https://open.spotify.com/album/4xhdwEcc4u8NuO9WeJo4n9"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138375,
+      "name": "Bring Me Up (feat. Sian-Lee) - Mixed",
+      "url": "https://open.spotify.com/track/2hwennAKvw1W5OWSI09zGo"
     },
     {
       "album": {
@@ -2178,7 +2200,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 158385,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Tq7TFuDgq2PykzxqK9Hmm"
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 366193,
       "name": "Da Fonk (feat. Joni) - Marco Carola Bass Mix",
       "url": "https://open.spotify.com/track/6Nd2wMOkBCLoLjJNzRPjY1"
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 217680,
       "name": "Dance Dance Dance! - Cassius Remix",
       "url": "https://open.spotify.com/track/2rb5q4tXodkWanetnyVFBW"
@@ -3663,6 +3685,28 @@
     },
     {
       "album": {
+        "name": "Escandalosa",
+        "url": "https://open.spotify.com/album/227lfMVK6f8Nd1FPpsbOmp"
+      },
+      "artists": [
+        {
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
+        },
+        {
+          "name": "Valeria Vix",
+          "url": "https://open.spotify.com/artist/656cRBmIQevcYvL7rOxKXX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Escandalosa",
+      "url": "https://open.spotify.com/track/3lQVGhXLYLS0VkVhzZU0Nd"
+    },
+    {
+      "album": {
         "name": "eternal life",
         "url": "https://open.spotify.com/album/35B3JXlJi4OCZ83NHrSGp2"
       },
@@ -4142,7 +4186,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 178104,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/6OCEEdG1Fg2X5lyBvLUYbh"
@@ -4262,7 +4306,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 229090,
       "name": "Freak Your Mind",
       "url": "https://open.spotify.com/track/6Or6juFizgu87eLvgKnHUP"
@@ -4552,6 +4596,28 @@
       "duration_ms": 169846,
       "name": "Gets Like That",
       "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/4VMa9lHHl30qClKILclUIK"
+      },
+      "artists": [
+        {
+          "name": "Johneiker Barajas",
+          "url": "https://open.spotify.com/artist/5X7YJ71kiNq3cBrlsGIo7d"
+        },
+        {
+          "name": "Ele Producer",
+          "url": "https://open.spotify.com/artist/38sRFcWk7fAedaDqPvOuVg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/5DpILC0XnKdzvKonByeI4j"
     },
     {
       "album": {
@@ -5032,7 +5098,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 143225,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/2OnEIYs6lE6yLRG7yWARmw"
@@ -5215,6 +5281,32 @@
     },
     {
       "album": {
+        "name": "Holding Onto Life",
+        "url": "https://open.spotify.com/album/7471WJvbkbM8CFE1ryrDnY"
+      },
+      "artists": [
+        {
+          "name": "Dee Montero",
+          "url": "https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr"
+        },
+        {
+          "name": "Jim Rider",
+          "url": "https://open.spotify.com/artist/4zb1c7hwyu6K3397ybW3GC"
+        },
+        {
+          "name": "Elu",
+          "url": "https://open.spotify.com/artist/54rNOPNGgUMjJeEARNZvU0"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Holding Onto Life",
+      "url": "https://open.spotify.com/track/71pKWtN8bQY58anDPSbDFC"
+    },
+    {
+      "album": {
         "name": "Holding Your Hand",
         "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
@@ -5394,7 +5486,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 255483,
       "name": "Hypnotic Frequency",
       "url": "https://open.spotify.com/track/43Gn4ckk30LMceZbmU8lFt"
@@ -5434,6 +5526,28 @@
       "duration_ms": 189499,
       "name": "I Cannot",
       "url": "https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn"
+    },
+    {
+      "album": {
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
     },
     {
       "album": {
@@ -5550,7 +5664,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 225017,
       "name": "i need u",
       "url": "https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L"
@@ -5759,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Imaginary Voyage / Red Lining",
+        "url": "https://open.spotify.com/album/5E2CWc7yXvQK7ZvIQuNwW7"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245877,
+      "name": "Imaginary Voyage",
+      "url": "https://open.spotify.com/track/26zhoQD32eQRV84iLpD2c5"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4CbJHegXLXOGBYFZoH62m3"
       },
@@ -5770,7 +5902,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169383,
       "name": "In Love",
       "url": "https://open.spotify.com/track/2AUO9jEy8aqHBTzyuxy5fr"
@@ -6034,6 +6166,28 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/2wzLOH37lVouGQprmX43w1"
+      },
+      "artists": [
+        {
+          "name": "MAGNVM!",
+          "url": "https://open.spotify.com/artist/5qnRFpi2e87QUZzI5VGljB"
+        },
+        {
+          "name": "ProOne79",
+          "url": "https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336750,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4rfSFIDzv2liWfG0JRbtjO"
     },
     {
       "album": {
@@ -6946,7 +7100,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 220986,
       "name": "Loophole",
       "url": "https://open.spotify.com/track/47F179dpKeo8P1DTrikPFg"
@@ -7108,6 +7262,28 @@
       "duration_ms": 158095,
       "name": "Love Hurt Repeat (feat. Mae Muller)",
       "url": "https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx"
+    },
+    {
+      "album": {
+        "name": "Love In Recife (feat. KAMAE)",
+        "url": "https://open.spotify.com/album/3ZE0oYjHDXT4ekwJ5N7R4P"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        },
+        {
+          "name": "KAMAE",
+          "url": "https://open.spotify.com/artist/3OZ93p3KH47vZorLi7mVvk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Love In Recife (feat. KAMAE)",
+      "url": "https://open.spotify.com/track/4cLcHgZoBtjBFhIASn3lLh"
     },
     {
       "album": {
@@ -7333,6 +7509,24 @@
     },
     {
       "album": {
+        "name": "Margin Of Error",
+        "url": "https://open.spotify.com/album/6Tx47IkbAcKsgiQchU5Jh7"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320597,
+      "name": "Margin Of Error",
+      "url": "https://open.spotify.com/track/7eKpoTbb8rMp8WTmFFOUtl"
+    },
+    {
+      "album": {
         "name": "Same Day Cleaning",
         "url": "https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT"
       },
@@ -7451,6 +7645,24 @@
     },
     {
       "album": {
+        "name": "Mind Moves On",
+        "url": "https://open.spotify.com/album/7psSTCdgYN5kvpTdP7t3lZ"
+      },
+      "artists": [
+        {
+          "name": "Eir.M",
+          "url": "https://open.spotify.com/artist/52sOHJArx54yZwutWpNLR1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290671,
+      "name": "Mind Moves On",
+      "url": "https://open.spotify.com/track/5u4zceZCc9U4pTVNFDiG9I"
+    },
+    {
+      "album": {
         "name": "Mind Still (feat. blythe)",
         "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
       },
@@ -7524,6 +7736,28 @@
       "duration_ms": 187365,
       "name": "Misleading",
       "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+    },
+    {
+      "album": {
+        "name": "Missin' U",
+        "url": "https://open.spotify.com/album/0hWb5kJLm74N1Xb5ieKYyg"
+      },
+      "artists": [
+        {
+          "name": "JustHooks",
+          "url": "https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Missin' U",
+      "url": "https://open.spotify.com/track/3AdMdGb2JqQ5I7umlBSw0v"
     },
     {
       "album": {
@@ -8876,7 +9110,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 198764,
       "name": "Precious Diamond",
       "url": "https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr"
@@ -8974,7 +9208,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 185806,
       "name": "Pushin' On (feat. Slikk Tim)",
       "url": "https://open.spotify.com/track/6Zglj2MJWMiBcVMd1jeCDz"
@@ -9256,7 +9490,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 209000,
       "name": "Rolling Dice (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/4hpXK81aOCdJQhpSM5LfNB"
@@ -11629,6 +11863,24 @@
     },
     {
       "album": {
+        "name": "This Feelin EP",
+        "url": "https://open.spotify.com/album/2cUz29nh2FpfPEs02Qpatq"
+      },
+      "artists": [
+        {
+          "name": "Harry Oliver",
+          "url": "https://open.spotify.com/artist/71uUuiyHCG6I6eKvS8YQ9V"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167367,
+      "name": "This Feelin",
+      "url": "https://open.spotify.com/track/02c4ESvsaRingzibOl3732"
+    },
+    {
+      "album": {
         "name": "This Rhythm (feat. RAHH)",
         "url": "https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px"
       },
@@ -11670,6 +11922,28 @@
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
+    },
+    {
+      "album": {
+        "name": "Tik Tak",
+        "url": "https://open.spotify.com/album/6CQ7Vjo1qHSYaqp1TFzktb"
+      },
+      "artists": [
+        {
+          "name": "Provi",
+          "url": "https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo"
+        },
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "Tik Tak",
+      "url": "https://open.spotify.com/track/37tdjAx4ZlHoit0yt7sI1x"
     },
     {
       "album": {
@@ -12217,6 +12491,28 @@
     },
     {
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4d9sG01UpXomhq2HsDf6aX"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/1BBJd8Q3MFNCsExmWAcB71"
+    },
+    {
+      "album": {
         "name": "Wale Wale (feat. Sofiya Nzau) [Remixes]",
         "url": "https://open.spotify.com/album/0G3QQ5ugmQwGgGnMJJAh7R"
       },
@@ -12266,6 +12562,24 @@
       "duration_ms": 208166,
       "name": "Wale Wale (feat. Sofiya Nzau) [WITH U Remix Radio Edit]",
       "url": "https://open.spotify.com/track/2tQ6QpWVuiSFQ5k9X3Qn0Y"
+    },
+    {
+      "album": {
+        "name": "Walk In The Light",
+        "url": "https://open.spotify.com/album/4LNuzDhMDbFxvI496HhlT7"
+      },
+      "artists": [
+        {
+          "name": "Danny Sanchez",
+          "url": "https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Walk In The Light",
+      "url": "https://open.spotify.com/track/16ncTjsceifUCWlUBickgS"
     },
     {
       "album": {
@@ -12522,7 +12836,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 730826,
       "name": "We Wanna Live - DSS Remix",
       "url": "https://open.spotify.com/track/0OxcwAyWvqGKKFZJfmZ5P9"
@@ -13028,6 +13342,32 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
+    },
+    {
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
     },
     {
       "album": {

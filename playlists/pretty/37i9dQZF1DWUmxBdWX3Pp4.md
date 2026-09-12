@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Blessd y Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,780 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,776 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 89 | [Polaroid](https://open.spotify.com/track/0JvBiJKZuJRl3wKDwGxJBV) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Polaroid](https://open.spotify.com/album/6nRkR4C2MCnIGpagBypyIU) | 2:57 |
 | 90 | [Amor Eterno](https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 4:07 |
 | 91 | [Preso Sin Papeles](https://open.spotify.com/track/7k3uKUs0J4kDwW5gfo30Fy) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Preso Sin Papeles](https://open.spotify.com/album/4aNGsLVF5X8gjokPZxd87F) | 2:57 |
-| 92 | [OCTAVIO MESA](https://open.spotify.com/track/5yG18XCvRoSgNtANYyebCD) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [JACO](https://open.spotify.com/artist/4rFCvCfbsr2UndLFsVX2If) | [OCTAVIO MESA](https://open.spotify.com/album/0FMYkJfkAwAqRofPkQD8Fg) | 3:46 |
+| 92 | [OCTAVIO MESA](https://open.spotify.com/track/5yG18XCvRoSgNtANYyebCD) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [Jaco](https://open.spotify.com/artist/1O2HxSAoO2wURAX3AZjfJE) | [OCTAVIO MESA](https://open.spotify.com/album/0FMYkJfkAwAqRofPkQD8Fg) | 3:46 |
 | 93 | [TUSSI](https://open.spotify.com/track/735b3AKwQfuX1DQdUQmTs2) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Be Gang](https://open.spotify.com/artist/7fulJmTM8SPJRPrvePGUoT) | [TUSSI](https://open.spotify.com/album/169JfihSNvwtcCLsdQNWcX) | 4:05 |
 | 94 | [Aquafina](https://open.spotify.com/track/2vuZfUFN38mttO3yLf6dhM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Aquafina](https://open.spotify.com/album/39WFaIKRbYqoLtT8FAkKxj) | 3:02 |
 | 95 | [Alley Oop](https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Alley Oop](https://open.spotify.com/album/7zdLY5YF5DfG096Th62ipi) | 3:20 |

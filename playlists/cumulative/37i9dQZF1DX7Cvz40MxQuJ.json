@@ -1419,6 +1419,36 @@
     },
     {
       "album": {
+        "name": "Ravel: Ma m\u00e8re l'Oye: Pavane de la Belle au bois dormant",
+        "url": "https://open.spotify.com/album/4QUlWmZiv2ELJyjnpr2TPG"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        },
+        {
+          "name": "Timothy Ridout",
+          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
+        },
+        {
+          "name": "Adam Walker",
+          "url": "https://open.spotify.com/artist/3nA5eiHOCzRHRqzSBW5A5b"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88533,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: I. Pavane de la Belle au bois dormant (Arr. Wouter Lenaerts for Harp, Viola and Flute)",
+      "url": "https://open.spotify.com/track/1U1up30UmJXHN58hFuUlyG"
+    },
+    {
+      "album": {
         "name": "Ravel: Pavane pour une infante d\u00e9funte",
         "url": "https://open.spotify.com/album/07tVnBuVpav8OYVmCotKah"
       },
@@ -2056,6 +2086,24 @@
       "duration_ms": 127560,
       "name": "Water Music Suite No. 1 in F Major, HWV 348: VII. Bourr\u00e9e",
       "url": "https://open.spotify.com/track/52LP8tg1v41rSf5O0sbbmz"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/6GazCEgM8IKurGYNW3NqI4"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165553,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7Fg3NUgJZSix6zoIBSczq8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7Cvz40MxQuJ"

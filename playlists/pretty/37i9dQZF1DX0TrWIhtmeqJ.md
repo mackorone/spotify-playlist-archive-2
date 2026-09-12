@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: +plusamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,701 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,708 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 3 | [YOU ONLY LIVE TWICE](https://open.spotify.com/track/56nTpzMJPbqcSBZF4AzDjz) | [N4T](https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz), [Ace](https://open.spotify.com/artist/0eOY3TiF4rCJ4n8ihAs5VQ) | [YOU ONLY LIVE TWICE](https://open.spotify.com/album/75PkzOCGTYf5vtz0AONszI) | 2:25 |
 | 4 | [SHOW ME RIGHT!](https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [ATTITUDE ERA!](https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5) | 3:18 |
 | 5 | [mitcham mint](https://open.spotify.com/track/2CaXYXIyrhAVT0LFoQfftL) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [mitcham mint](https://open.spotify.com/album/3LE08B4y2oliaeEaXVKEih) | 3:40 |
-| 6 | [Track 12](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 0:00 |
+| 6 | [Run It Up](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 2:22 |
 | 7 | [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 |
 | 8 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 |
 | 9 | [Rust Bucket](https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Rust Bucket](https://open.spotify.com/album/3t36VFJZEVIaViy3c5i53x) | 2:53 |

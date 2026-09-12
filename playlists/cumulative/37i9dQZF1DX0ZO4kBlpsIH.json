@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "La Voie Du Soleil",
+        "url": "https://open.spotify.com/album/3NtK1uJhJShpGLVJUjOPqi"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159845,
+      "name": "La Voie Du Soleil",
+      "url": "https://open.spotify.com/track/2sdMgOTSJ0T98VybEifg7L"
+    },
+    {
+      "album": {
         "name": "Dancing On the Moon",
         "url": "https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x"
       },
@@ -2636,6 +2654,24 @@
       "duration_ms": 108047,
       "name": "Little Waltz",
       "url": "https://open.spotify.com/track/5bes1P1ZmbICTHoLkyK8VJ"
+    },
+    {
+      "album": {
+        "name": "L\u00b4amour est bleu",
+        "url": "https://open.spotify.com/album/4MnUbUDxLGvCQja6MlUzuP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167308,
+      "name": "L\u00b4amour est bleu",
+      "url": "https://open.spotify.com/track/598ZgzOT1riMyLVoHekqJC"
     },
     {
       "album": {

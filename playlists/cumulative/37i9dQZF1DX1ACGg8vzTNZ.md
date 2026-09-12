@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-138 songs - 8 hr 12 min
+139 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Awakening \(Piano and Strings\)](https://open.spotify.com/track/12x83XKUdnT5nXXo9bn7LT) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Awakening \(Piano and Strings\)](https://open.spotify.com/album/41hc3CYrNqplZqeo4FA0pj) | 4:03 | 2026-08-21 |  |
 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 | 2022-07-11 | 2023-02-02 |
 | [Azure](https://open.spotify.com/track/5afWiVFi9xhtHOmYeLtNXi) | [Disjoint Square](https://open.spotify.com/artist/3d1cJoUqbmWCYxRh8Ac7YC) | [Azure](https://open.spotify.com/album/2L5knPw1XVvdu3ZbVPqgvA) | 3:36 | 2022-01-10 | 2022-10-29 |
+| [Before the World Sings](https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Before the World Sings](https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q) | 3:05 | 2026-09-11 |  |
 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 | 2022-01-10 |  |
 | [Beyond](https://open.spotify.com/track/08gIemaUaTeWgblinBA5pt) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Dreamer in the Dark](https://open.spotify.com/album/1M1wCDbEfCSzC6dqrmrRBi) | 2:59 | 2023-02-01 |  |
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-07-11 | 2023-02-02 |

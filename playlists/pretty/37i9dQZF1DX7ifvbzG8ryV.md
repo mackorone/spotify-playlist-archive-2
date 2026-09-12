@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:7uMh23xWiuR7zsNkuNcm2G">MNEK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,999 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,000 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [JOY](https://open.spotify.com/track/3AAcfI872QECsygDOQSwBS) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [JOY](https://open.spotify.com/album/5PLNFCrdaoInB5NU92M38x) | 3:22 |
 | 50 | [GRITS](https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [GRITS](https://open.spotify.com/album/2MMOnzcdK4oGgi9esE0gKV) | 2:53 |
 
-Snapshot ID: `AAAAAKk6WZDNm/DAuKpUlIW79uET1tZW`
+Snapshot ID: `AAAAAOj/JHT3vZANrQXU01tcTKe8b+fg`

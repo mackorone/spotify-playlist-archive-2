@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 192990,
       "name": "C\u00d3MO QUIERES",
       "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
@@ -6364,7 +6364,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147386,
       "name": "LOBO",
       "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
@@ -6762,7 +6762,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 160000,
       "name": "mAldito",
       "url": "https://open.spotify.com/track/5lzzIQiRMy37c90TFzXocj"
@@ -7306,6 +7306,42 @@
       "duration_ms": 165298,
       "name": "MITOTE",
       "url": "https://open.spotify.com/track/0hE7e0EJMAWgC2KHVqD1Yk"
+    },
+    {
+      "album": {
+        "name": "TEOR\u00cdA DE CONSPIRACI\u00d3N",
+        "url": "https://open.spotify.com/album/3MT1JUhjHYo9gnGWKpWoMZ"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134124,
+      "name": "MK ULTRA",
+      "url": "https://open.spotify.com/track/26Dm8lQH8EI2QM08lzEFYe"
+    },
+    {
+      "album": {
+        "name": "modo avi\u00f3n",
+        "url": "https://open.spotify.com/album/2Cznt4TJygEYcD3kZ4DujA"
+      },
+      "artists": [
+        {
+          "name": "Clara Luna",
+          "url": "https://open.spotify.com/artist/6J50g2avhNLHeZcMcYSKJi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "modo avi\u00f3n",
+      "url": "https://open.spotify.com/track/69pSiwDPhES4RkVIloawsj"
     },
     {
       "album": {
@@ -8739,6 +8775,28 @@
     },
     {
       "album": {
+        "name": "Pa que buscar?",
+        "url": "https://open.spotify.com/album/7fLGpX6ToOBWjLcauN8XRq"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Pa que buscar?",
+      "url": "https://open.spotify.com/track/6uuo5JomROvw6c9By2ElMU"
+    },
+    {
+      "album": {
         "name": "Si ma\u00f1ana me muero me voy contento",
         "url": "https://open.spotify.com/album/1Sqvk2EQnFkTqNbnvMNISk"
       },
@@ -9648,6 +9706,24 @@
       "duration_ms": 212706,
       "name": "Qui\u00e9n Pensar\u00eda",
       "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme as\u00ed",
+        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211611,
+      "name": "Qui\u00e9reme as\u00ed",
+      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
     },
     {
       "album": {
@@ -10640,7 +10716,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 167208,
       "name": "Six Seven",
       "url": "https://open.spotify.com/track/5nLIxNiYYkC0HAXt4VTCyq"

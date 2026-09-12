@@ -851,6 +851,36 @@
     },
     {
       "album": {
+        "name": "Ice Dance (From \"Edward Scissorhands\")",
+        "url": "https://open.spotify.com/album/75PrlvtIAjYpwzzP3oQYog"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166226,
+      "name": "Elfman: Edward Scissorhands: Ice Dance",
+      "url": "https://open.spotify.com/track/6FZuJB31jbNspkaH5xBAI8"
+    },
+    {
+      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -2309,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Now We Can Sing",
+        "url": "https://open.spotify.com/album/5Blf72Q1N733tuYzdTZW6B"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422446,
+      "name": "Now We Can Sing - Edit",
+      "url": "https://open.spotify.com/track/0At4AalfZgPoB5RttSXs2g"
+    },
+    {
+      "album": {
         "name": "Okinawa River",
         "url": "https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY"
       },
@@ -2574,6 +2622,36 @@
       "duration_ms": 158731,
       "name": "Premi\u00e8re Lumi\u00e8re",
       "url": "https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t"
+    },
+    {
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/6fRoaCjamzrFeKuLcqw5AO"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Dresdner Philharmonie",
+          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
+        },
+        {
+          "name": "Jonathan Stockhammer",
+          "url": "https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224213,
+      "name": "Prokofiev: Flute Sonata in D Major, Op. 94: III. Andante (Orch. Koncz)",
+      "url": "https://open.spotify.com/track/1eaIQ66zcgMONEsD20hY2Y"
     },
     {
       "album": {

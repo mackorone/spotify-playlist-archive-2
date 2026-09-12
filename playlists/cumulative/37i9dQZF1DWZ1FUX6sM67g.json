@@ -4257,6 +4257,40 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1equita Hot",
+        "url": "https://open.spotify.com/album/19iASberIrjxeIddlajdOO"
+      },
+      "artists": [
+        {
+          "name": "Trapical",
+          "url": "https://open.spotify.com/artist/1akovilveREPmx1E535jJU"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Happy Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3898WV1xLkvtQzd7CFWVTo"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Mu\u00f1equita Hot",
+      "url": "https://open.spotify.com/track/6tD3SsabfsMq4aWKFy2HXv"
+    },
+    {
+      "album": {
         "name": "M\u00eda",
         "url": "https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT"
       },

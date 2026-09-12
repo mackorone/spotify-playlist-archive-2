@@ -1,196 +1,144 @@
 {
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Mar Solis",
-  "num_followers": 575206,
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Jeaneth Valenzuela",
+  "num_followers": 575193,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6dMkV7Esw8RFePd9A3RApuQrVk",
+  "snapshot_id": "AAAAAFjHs983a3dcBFHt3rcfhv6QxX97",
   "tracks": [
     {
-      "added_at": "2026-09-04 04:02:07",
+      "added_at": "2026-09-11 05:46:14",
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
+        "name": "Aqu\u00ed Est\u00e1 Tu Reina",
+        "url": "https://open.spotify.com/album/4TBYpRuCpUSlQWeUHwV8VV"
       },
       "artists": [
         {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 208174,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
+      "duration_ms": 208531,
+      "name": "Aqu\u00ed Est\u00e1 Tu Reina",
+      "url": "https://open.spotify.com/track/5amwCXZB6gTgMgk1nAOjP9"
     },
     {
-      "added_at": "2026-09-04 04:02:07",
+      "added_at": "2026-09-11 05:46:14",
       "album": {
-        "name": "Perderte",
-        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
+        "name": "Cero Tolerancia",
+        "url": "https://open.spotify.com/album/6G1JFQvH9oGYNsjjeySVWF"
       },
       "artists": [
         {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "Cero Tolerancia",
+      "url": "https://open.spotify.com/track/2oQ4b2PClVb9R7MVMlNOng"
+    },
+    {
+      "added_at": "2026-09-11 05:46:14",
+      "album": {
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+    },
+    {
+      "added_at": "2026-09-11 05:46:14",
+      "album": {
+        "name": "Y Punto.",
+        "url": "https://open.spotify.com/album/5XEh8XvpBMQpHxwzqExsHQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Y Punto.",
+      "url": "https://open.spotify.com/track/3e5gBBiB1iwX7PiTePbR2f"
+    },
+    {
+      "added_at": "2026-09-11 05:46:14",
+      "album": {
+        "name": "Modo Guerra",
+        "url": "https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "Modo Guerra",
+      "url": "https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY"
+    },
+    {
+      "added_at": "2026-09-11 05:46:14",
+      "album": {
+        "name": "Las Mismas Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/5jLggk2hT5zcvrnJW1vvft"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
         },
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Perderte",
-      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
+      "duration_ms": 190332,
+      "name": "Las Mismas Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
     },
     {
-      "added_at": "2026-09-04 04:02:07",
+      "added_at": "2026-09-11 05:46:14",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+        "name": "Ecos del Mar",
+        "url": "https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
         }
       ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+      "duration_ms": 186000,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/7Ijnd1FHjQcerU4kmYURjb"
     },
     {
-      "added_at": "2026-09-04 04:02:07",
+      "added_at": "2026-09-11 05:46:14",
       "album": {
-        "name": "\u00bfCu\u00e1ndo Nos Vemos?",
-        "url": "https://open.spotify.com/album/0dBDGTV21XafpJU2Uc0hET"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 266854,
-      "name": "\u00bfCu\u00e1ndo Nos Vemos?",
-      "url": "https://open.spotify.com/track/5uxC2ED41ci4o0D0SIlzxA"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Vatos",
-        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
-      },
-      "artists": [
-        {
-          "name": "Vanita Leo",
-          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
-        }
-      ],
-      "duration_ms": 146511,
-      "name": "Vatos",
-      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Yo Era Atea",
-        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Yo Era Atea",
-      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Mejor Nadota",
-        "url": "https://open.spotify.com/album/3KtJ57ysOdCv4PJQp80hgP"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 155446,
-      "name": "Mejor Nadota",
-      "url": "https://open.spotify.com/track/3WY7zAL1enGMklGApkGcyJ"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Brillas",
-        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 179302,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Ven Dev\u00f3rame Otra Vez",
-        "url": "https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -243,6 +191,26 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "Fuertes Declaraciones",
         "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
       },
@@ -287,6 +255,58 @@
       "duration_ms": 176741,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "duration_ms": 208174,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "\u00bfCu\u00e1ndo Nos Vemos?",
+        "url": "https://open.spotify.com/album/0dBDGTV21XafpJU2Uc0hET"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 266854,
+      "name": "\u00bfCu\u00e1ndo Nos Vemos?",
+      "url": "https://open.spotify.com/track/5uxC2ED41ci4o0D0SIlzxA"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -403,6 +423,22 @@
       "duration_ms": 176093,
       "name": "Ese Morrito",
       "url": "https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -699,6 +735,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Yo Era Atea",
+        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Yo Era Atea",
+      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -715,6 +767,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Mejor Nadota",
+        "url": "https://open.spotify.com/album/3KtJ57ysOdCv4PJQp80hgP"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 155446,
+      "name": "Mejor Nadota",
+      "url": "https://open.spotify.com/track/3WY7zAL1enGMklGApkGcyJ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "C\u00f3mo se baila",
         "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
       },
@@ -727,6 +795,22 @@
       "duration_ms": 193285,
       "name": "C\u00f3mo se baila",
       "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -779,6 +863,38 @@
       "duration_ms": 125491,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Ven Dev\u00f3rame Otra Vez",
+        "url": "https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Brillas",
+        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -851,22 +967,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+        "name": "El Adi\u00f3s Ranchero",
+        "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
       "artists": [
         {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
         }
       ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
+      "duration_ms": 170997,
+      "name": "El Adi\u00f3s Ranchero",
+      "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -887,18 +999,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "El Adi\u00f3s Ranchero",
-        "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
       },
       "artists": [
         {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 170997,
-      "name": "El Adi\u00f3s Ranchero",
-      "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -939,6 +1055,26 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "Besitos Al Contado",
         "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
       },
@@ -971,38 +1107,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Mirando desde afuera",
-        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
       },
       "artists": [
         {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Agley",
-          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
         }
       ],
-      "duration_ms": 203750,
-      "name": "Mirando desde afuera",
-      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Baby You Already Know",
-        "url": "https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq"
-      },
-      "artists": [
-        {
-          "name": "Jaime Carrasco Y Su 37",
-          "url": "https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf"
-        }
-      ],
-      "duration_ms": 164315,
-      "name": "Baby You Already Know",
-      "url": "https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy"
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1023,6 +1139,22 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Baby You Already Know",
+        "url": "https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq"
+      },
+      "artists": [
+        {
+          "name": "Jaime Carrasco Y Su 37",
+          "url": "https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf"
+        }
+      ],
+      "duration_ms": 164315,
+      "name": "Baby You Already Know",
+      "url": "https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1203,22 +1335,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Cap\u00edtulo 8 (La Historia Completa)",
-        "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ni Al 50",
-      "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Dec\u00edas",
         "url": "https://open.spotify.com/album/4qbGlRLvzWKjqrBHU1WPJ9"
       },
@@ -1235,6 +1351,22 @@
       "duration_ms": 174631,
       "name": "Dec\u00edas",
       "url": "https://open.spotify.com/track/4PfYbfUpKZMcS4yR83Ruuj"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Cap\u00edtulo 8 (La Historia Completa)",
+        "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ni Al 50",
+      "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1287,22 +1419,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "A Mi Modo, Pt. 2",
         "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
       },
@@ -1319,6 +1435,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "A Pierna Suelta",
         "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
       },
@@ -1331,6 +1463,22 @@
       "duration_ms": 177840,
       "name": "A Pierna Suelta",
       "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Se Fue Con Ella",
+        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
+      },
+      "artists": [
+        {
+          "name": "Silvia Y Los Gomez",
+          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Se Fue Con Ella",
+      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1367,22 +1515,6 @@
       "duration_ms": 186203,
       "name": "Completamente Yo",
       "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Se Fue Con Ella",
-        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
-      },
-      "artists": [
-        {
-          "name": "Silvia Y Los Gomez",
-          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Se Fue Con Ella",
-      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1855,22 +1987,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Ll\u00e1mame",
         "url": "https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X"
       },
@@ -1883,6 +1999,22 @@
       "duration_ms": 192000,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     }
   ],
   "unique_name": "Women of M\u00fasica Mexicana",

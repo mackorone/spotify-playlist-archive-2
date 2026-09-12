@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 11952,
+  "num_followers": 11954,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvzZ4bKJy6hVWm/tDfaeVAUN+b1",
+  "snapshot_id": "AAAAAI8I7qkcH+b8yWsyC9vzewJmrMNf",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -391,26 +391,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 256133,
       "name": "On To The Next One",
       "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
     },
     {
       "added_at": "2022-10-01 16:43:03",

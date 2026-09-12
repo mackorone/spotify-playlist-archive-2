@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484096,
+  "num_followers": 484085,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIZ5RrOzOr4B+JB0FtBe13p86Ym",
+  "snapshot_id": "AAAAAGpWjTmMIMvBHstKm8mqlvmRQXne",
   "tracks": [
     {
       "added_at": "2026-04-09 14:00:34",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 226235,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
-      },
-      "artists": [
-        {
-          "name": "Peach Fur",
-          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
-        }
-      ],
-      "duration_ms": 233999,
-      "name": "Preloved",
-      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
+      },
+      "artists": [
+        {
+          "name": "Peach Fur",
+          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
+        }
+      ],
+      "duration_ms": 233999,
+      "name": "Preloved",
+      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 212490,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
-      },
-      "artists": [
-        {
-          "name": "The Terrys",
-          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Thrift Store",
         "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 134408,
       "name": "Thrift Store",
       "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
-      },
-      "artists": [
-        {
-          "name": "Offthewally",
-          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Riding the Wind",
-      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "LONG LIVE THE WILDERNESS",
         "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 286209,
       "name": "LONG LIVE THE WILDERNESS",
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
+      },
+      "artists": [
+        {
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
+        }
+      ],
+      "duration_ms": 171884,
+      "name": "Riding the Wind",
+      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
     },
     {
       "added_at": "2026-04-09 14:00:34",

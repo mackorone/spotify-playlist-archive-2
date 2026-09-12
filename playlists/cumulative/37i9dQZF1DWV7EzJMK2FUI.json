@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 233321,
       "name": "A Line of Air",
       "url": "https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf"
@@ -7797,6 +7797,24 @@
     },
     {
       "album": {
+        "name": "Evening In The North",
+        "url": "https://open.spotify.com/album/0rbx9KiHkNTlx1QCflKN0b"
+      },
+      "artists": [
+        {
+          "name": "Chris Memento",
+          "url": "https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Evening In The North",
+      "url": "https://open.spotify.com/track/1o4CVlbtO7s0EHf3IpVlqY"
+    },
+    {
+      "album": {
         "name": "A Simple Book",
         "url": "https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt"
       },
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155243,
       "name": "Fading light",
       "url": "https://open.spotify.com/track/2GAdbfgaUBYIIPDoWPxvSO"
@@ -14112,6 +14130,24 @@
       "duration_ms": 221149,
       "name": "Keeping Records",
       "url": "https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr"
+    },
+    {
+      "album": {
+        "name": "Keeping the Promises",
+        "url": "https://open.spotify.com/album/4deWsHZBt6HsiLE0Ztsd9K"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Keeping The Promises",
+      "url": "https://open.spotify.com/track/0fswN3BXxEMpHt0FMFkee5"
     },
     {
       "album": {
@@ -22532,7 +22568,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 228750,
       "name": "Saties Attire",
       "url": "https://open.spotify.com/track/3HT9EM3gVfAxrTuqe7Owjq"
@@ -23310,6 +23346,24 @@
       "duration_ms": 164440,
       "name": "Silky Smooth",
       "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
+    },
+    {
+      "album": {
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/5VTdbOAUTm7Kzs5iMbhDAe"
+      },
+      "artists": [
+        {
+          "name": "Trio Apertura",
+          "url": "https://open.spotify.com/artist/4NAmtCdBLrmzr5avVCNhzF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260588,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/1KD8BEsmmsVxsRym5tiL0P"
     },
     {
       "album": {
@@ -25682,7 +25736,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 296193,
       "name": "Sweet And Lonely",
       "url": "https://open.spotify.com/track/5xjfiCZOJpUCV0VwOGXjGp"
@@ -28080,7 +28134,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197374,
       "name": "This Foolishness",
       "url": "https://open.spotify.com/track/7I1to4DYaO3BoMe79SPLBi"
@@ -30899,6 +30953,24 @@
     },
     {
       "album": {
+        "name": "When You're Done",
+        "url": "https://open.spotify.com/album/6MpA5fX3dAHm7iroQxK0Ai"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309852,
+      "name": "When You're Done",
+      "url": "https://open.spotify.com/track/34g5Flffr597kesFfa0BVr"
+    },
+    {
+      "album": {
         "name": "When You're Near",
         "url": "https://open.spotify.com/album/1AfSswzeUZp98XWmslxzI6"
       },
@@ -31688,6 +31760,24 @@
       "duration_ms": 169353,
       "name": "Wrap Your Troubles In Dreams",
       "url": "https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL"
+    },
+    {
+      "album": {
+        "name": "Yard Rat's Waltz",
+        "url": "https://open.spotify.com/album/7jcy83culknyCHVAA5Pjht"
+      },
+      "artists": [
+        {
+          "name": "Soma Sessions",
+          "url": "https://open.spotify.com/artist/6OIJTfJNs1jw1vbDohxqci"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188366,
+      "name": "Yard Rat's Waltz",
+      "url": "https://open.spotify.com/track/3xtweVNI6RwkJzgcWL0jKD"
     },
     {
       "album": {
@@ -32617,6 +32707,24 @@
     },
     {
       "album": {
+        "name": "You\u2019re mine",
+        "url": "https://open.spotify.com/album/6FdikNo5uf1hngs1oH0kAc"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227883,
+      "name": "You\u2019re mine",
+      "url": "https://open.spotify.com/track/07r7d7jwJ6lW0USQ0aqWmd"
+    },
+    {
+      "album": {
         "name": "You\u2019re Very Wrong",
         "url": "https://open.spotify.com/album/4dMgmvB8aDCh0JxHUulswQ"
       },
@@ -32628,7 +32736,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 187529,
       "name": "You\u2019re Very Wrong",
       "url": "https://open.spotify.com/track/0FNRVItw10U6D10rdQLce6"

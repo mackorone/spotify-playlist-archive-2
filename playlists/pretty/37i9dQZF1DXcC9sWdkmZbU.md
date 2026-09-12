@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,836 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,856 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 69 | [Love Is Like A Boomerang](https://open.spotify.com/track/30W2CEzQzicMWAs8aTlfpm) | [The Chosen Adventures](https://open.spotify.com/artist/2AkqD7bEpLLiDg4Zl8we3O), [Romy Fay](https://open.spotify.com/artist/7hzx8b64VBVeUH1nLapE1c) | [The Chosen Adventures \(Vol\. 1\)](https://open.spotify.com/album/2X2HR8yvDmDYqIxtCfRnq7) | 1:56 |
 | 70 | [The Arky Arky Song](https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl) | [Sticky Kids](https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD) | [Praise God: Worship Songs for Kids](https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA) | 2:57 |
 | 71 | [Love So Great](https://open.spotify.com/track/0dKsTy9t85RfvmtK8t9OJo) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Love So Great](https://open.spotify.com/album/5QXuusGluuzLPOWwAetnFL) | 3:01 |
-| 72 | [For God So Loved the World \(John 3:16\)](https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [For God So Loved the World \(John 3:16\)](https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq) | 2:05 |
-| 73 | [His Great Love](https://open.spotify.com/track/55Rk4T54NLxF0QujZSiv68) | [Lifetree Kids](https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW) | [His Great Love](https://open.spotify.com/album/6rnRR6eVeVNAPbYHVzWGlR) | 2:30 |
+| 72 | [His Great Love](https://open.spotify.com/track/55Rk4T54NLxF0QujZSiv68) | [Lifetree Kids](https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW) | [His Great Love](https://open.spotify.com/album/6rnRR6eVeVNAPbYHVzWGlR) | 2:30 |
+| 73 | [For God So Loved the World \(John 3:16\)](https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [For God So Loved the World \(John 3:16\)](https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq) | 2:05 |
 | 74 | [He’s Alive](https://open.spotify.com/track/3lIvkEtf41IW9GDtGJVPhA) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9), [The Dead Sea Squirrels](https://open.spotify.com/artist/1BwiYrbAUlk61IA7Tl4OOC) | [The Dead Sea Squirrels: He’s Alive!](https://open.spotify.com/album/6s4GeJmlMXQ1lmVYCzc2LN) | 3:08 |
 | 75 | [Everyone Should Know](https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Everyone Should Know](https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh) | 2:24 |
 | 76 | [Superhero \- Reimagined](https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Superhero](https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT) | 2:44 |

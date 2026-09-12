@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: THE U.D. & Aadduz",
+  "description": "Best of Hindi Hip-Hop! Cover: Raga",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "ONE OF A KIND",
+        "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226067,
+      "name": "CRIP WALK",
+      "url": "https://open.spotify.com/track/0PWh95IYr88se8vGlJNr1o"
+    },
+    {
+      "album": {
         "name": "DSP",
         "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
       },
@@ -2176,7 +2202,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 130750,
       "name": "DURGHATNA",
       "url": "https://open.spotify.com/track/0ZX0lJF6BPlwyG7zHWOP4l"
@@ -2417,6 +2443,32 @@
     },
     {
       "album": {
+        "name": "ONE OF A KIND",
+        "url": "https://open.spotify.com/album/1Y2detzyQYRx6mp9RVe64H"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "Calm",
+          "url": "https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184071,
+      "name": "GANG & HOODIES",
+      "url": "https://open.spotify.com/track/0ThCEz3hZpBTftDPKh2XUp"
+    },
+    {
+      "album": {
         "name": "Shikwa (Side A)",
         "url": "https://open.spotify.com/album/4LOiX1sDjXW8yw5pEA9m1G"
       },
@@ -2484,7 +2536,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169591,
       "name": "Ghanni Khamma",
       "url": "https://open.spotify.com/track/03ir0OfqWZWHCCSnqw0A4v"
@@ -4112,7 +4164,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159073,
       "name": "Like That (From \"ONE OF A KIND\") [Feat. Fijiana]",
       "url": "https://open.spotify.com/track/2Zvta2GvYPX2dpyMMkZIYb"
@@ -5764,6 +5816,28 @@
       "duration_ms": 214588,
       "name": "Saath Ya Khilaaf",
       "url": "https://open.spotify.com/track/6t871hnKtXAqYjkRUjN7FY"
+    },
+    {
+      "album": {
+        "name": "NO FORMULA",
+        "url": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Sab Set Hai",
+      "url": "https://open.spotify.com/track/4EY4BcpAYDfcTb2ljrDc14"
     },
     {
       "album": {

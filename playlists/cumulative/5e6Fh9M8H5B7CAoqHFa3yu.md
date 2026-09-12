@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,539 songs - 6 day 5 hr 5 min
+2,540 songs - 6 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Eres \(cumbia\)](https://open.spotify.com/track/5n8PeHHXQl9Rchj1Qlw7Kn) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [Eres \(cumbia\)](https://open.spotify.com/album/37xqG4vHBHGfn7Kgb6LfTL) | 3:45 | 2026-05-02 |  |
 | [Erre](https://open.spotify.com/track/6XiSGjgMN2XHI3oqSxDgW9) | [Proyecto VTK](https://open.spotify.com/artist/4Sjjd7GLD7xgroQkOg3Vxb) | [Erre](https://open.spotify.com/album/3NN7ahka8MpJVz4mnv1s1L) | 3:57 | 2025-07-20 |  |
 | [es el amor \(interludio\)](https://open.spotify.com/track/5eKOlVbQJpohZpmStrqAKB) | [patito pena](https://open.spotify.com/artist/1d64pDNrzyaJEK0yfuJI7x) | [retocado](https://open.spotify.com/album/4EOaiVuo5mqxLeftiPKpyJ) | 1:26 | 2025-09-13 |  |
+| [Es Inevitable \- Latin Version](https://open.spotify.com/track/2zj2SWesJDCoo8k2fRTZMa) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:35 | 2026-09-11 |  |
 | [Es ser](https://open.spotify.com/track/1zHN8roXBJPDgzyqbCf6Mw) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:40 | 2026-03-15 |  |
 | [Escuchar al Corazón](https://open.spotify.com/track/7fiS9EXmshmwnJooHo8EBM) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Escuchar al Corazón](https://open.spotify.com/album/2BTRNrdxtTxAJBXSoWEn2J) | 4:22 | 2026-05-26 |  |
 | [Ese 50 por Ciento de Tí](https://open.spotify.com/track/3zd6Dwc501K5MpMsGHfXkh) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese 50 por Ciento de Tí](https://open.spotify.com/album/47apSpjxWLbQqeo0xZqfFQ) | 3:23 | 2026-04-10 |  |

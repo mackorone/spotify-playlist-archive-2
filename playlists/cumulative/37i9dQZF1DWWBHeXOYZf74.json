@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Cyst",
+  "description": "Genre-less. Quality first always. Cover: Shygirl",
   "name": "POLLEN",
   "tracks": [
     {
@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336624,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
+    },
+    {
+      "album": {
         "name": "2am (Dan Carey Dub)",
         "url": "https://open.spotify.com/album/0D6wy8ZGxbyDpMYvAtf6Hb"
       },
@@ -998,7 +1020,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 215481,
       "name": "2late",
       "url": "https://open.spotify.com/track/72uQrCNSvA8TViHajPbMH9"
@@ -4165,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "ANGEL / WALLS",
+        "url": "https://open.spotify.com/album/3qWcCk3BFYlnRk9evpr38j"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/1Cr8nfjheWB9QuMzgkN0s6"
+    },
+    {
+      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -6844,7 +6884,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 128888,
       "name": "Besito",
       "url": "https://open.spotify.com/track/0SzVrwgjmTI6iZ4Llsk7J0"
@@ -12908,7 +12948,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206456,
       "name": "Coldest Day of the Year",
       "url": "https://open.spotify.com/track/3bHAy4WNUOCZPVMoGv1oGs"
@@ -20891,6 +20931,32 @@
     },
     {
       "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
+    },
+    {
+      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1"
       },
@@ -23860,10 +23926,28 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 120827,
       "name": "gaga",
       "url": "https://open.spotify.com/track/0vS87q256EOA3p80doMehD"
+    },
+    {
+      "album": {
+        "name": "Galvarino",
+        "url": "https://open.spotify.com/album/4Yymz91W8frSAWj1eqOD0q"
+      },
+      "artists": [
+        {
+          "name": "Ciar\u00e1n",
+          "url": "https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305448,
+      "name": "Galvarino",
+      "url": "https://open.spotify.com/track/4gjvW6WlvGgGGHE0PhfmJK"
     },
     {
       "album": {
@@ -27473,6 +27557,28 @@
     },
     {
       "album": {
+        "name": "Danseur",
+        "url": "https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Faris Badwan",
+          "url": "https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Heaven (feat. Faris Badwan)",
+      "url": "https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs"
+    },
+    {
+      "album": {
         "name": "Heaven (feat. Tinashe)",
         "url": "https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly"
       },
@@ -30055,6 +30161,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213537,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
+    },
+    {
+      "album": {
         "name": "I Do, I Do",
         "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
       },
@@ -31106,7 +31230,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 137984,
       "name": "I Wonder (feat. Phoelix)",
       "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
@@ -31458,6 +31582,24 @@
       "duration_ms": 147368,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
+    },
+    {
+      "album": {
+        "name": "iCRY",
+        "url": "https://open.spotify.com/album/18sHfVIrHzqIxMQ7VLrmaR"
+      },
+      "artists": [
+        {
+          "name": "Daiela",
+          "url": "https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "iCRY",
+      "url": "https://open.spotify.com/track/7qGCzQrvxMWXN8tENuoYGI"
     },
     {
       "album": {
@@ -35025,6 +35167,32 @@
     },
     {
       "album": {
+        "name": "KNOCK",
+        "url": "https://open.spotify.com/album/0L0sz7yXh4q0FWU5wEVvAk"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225845,
+      "name": "KNOCK",
+      "url": "https://open.spotify.com/track/0idGJz40xztZf3amTmEKax"
+    },
+    {
+      "album": {
         "name": "Kumbia",
         "url": "https://open.spotify.com/album/5vREJ1BuD8QgzDcy2rVIWr"
       },
@@ -35040,7 +35208,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 193500,
       "name": "Kumbia",
       "url": "https://open.spotify.com/track/7FjbyzA8QQeWVxOoaMUbKy"
@@ -38554,6 +38722,24 @@
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
+    },
+    {
+      "album": {
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "album": {
@@ -42374,7 +42560,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 421219,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF"
@@ -43976,7 +44162,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 342634,
       "name": "No One Lasts Forever featuring David Cronenberg",
       "url": "https://open.spotify.com/track/1BPpJdD11gsDQno045HBz0"
@@ -44324,6 +44510,24 @@
       "duration_ms": 199420,
       "name": "Not In Surrender",
       "url": "https://open.spotify.com/track/1RP8ezSFLQ3hIDQ3GqKbw7"
+    },
+    {
+      "album": {
+        "name": "Not Likely",
+        "url": "https://open.spotify.com/album/4tzPkWNXFukd4VVJgeb32X"
+      },
+      "artists": [
+        {
+          "name": "Alana Markel",
+          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Not Likely",
+      "url": "https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k"
     },
     {
       "album": {
@@ -44880,7 +45084,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197052,
       "name": "ODO",
       "url": "https://open.spotify.com/track/25dTZ7S2yHlQgRwZmb4NK0"
@@ -47450,7 +47654,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189797,
       "name": "Peas In A Pod",
       "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"
@@ -52812,7 +53016,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 252680,
       "name": "Running",
       "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
@@ -55163,6 +55367,28 @@
     },
     {
       "album": {
+        "name": "Sick again",
+        "url": "https://open.spotify.com/album/00agVi4AYN4Wtsmen9xWWe"
+      },
+      "artists": [
+        {
+          "name": "Mad Rey",
+          "url": "https://open.spotify.com/artist/1RPMb5s6cee0xfgR8XNvyx"
+        },
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196542,
+      "name": "Sick again",
+      "url": "https://open.spotify.com/track/6PJ9u82k284uF1rURQUgxU"
+    },
+    {
+      "album": {
         "name": "Sickle Walk",
         "url": "https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7"
       },
@@ -56636,6 +56862,28 @@
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
+      "album": {
+        "name": "so sw33t",
+        "url": "https://open.spotify.com/album/4USxRVTkM8mfBtwL4QJrRI"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184018,
+      "name": "so sw33t",
+      "url": "https://open.spotify.com/track/378092rayF0zj1fy1181LW"
     },
     {
       "album": {
@@ -63748,7 +63996,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 239648,
       "name": "Time Will Help",
       "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"

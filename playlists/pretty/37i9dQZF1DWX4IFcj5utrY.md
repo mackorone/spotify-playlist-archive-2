@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Young Jonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,952 likes - 65 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,979 likes - 65 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 6 | [jozi to paris \- Radio Edit](https://open.spotify.com/track/7BWJYw0FwLzXM0zO51Mikx) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [jozi to paris](https://open.spotify.com/album/7gROzhixSvNP6YUihNiLgk) | 3:32 |
 | 7 | [For The Night](https://open.spotify.com/track/77AOMNQWP346mMAOf1vkcQ) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [For The Night](https://open.spotify.com/album/4qVBgqbLWOpWwhVfZiUI7S) | 3:57 |
 | 8 | [Makuhia](https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Makuhia](https://open.spotify.com/album/2sr4rRlKlSxFTHGF44gKRB) | 3:08 |
-| 9 | [uMoya \- Tycoon Remix](https://open.spotify.com/track/4iQGPl0iUSUJiAlHPNRkdJ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Soulful Disciple](https://open.spotify.com/artist/6gmMSMt9vm3YYJ5JoBG5my) | [uMoya \(Tycoon Remix\)](https://open.spotify.com/album/48pXjU8aOvXbV56KFCeY5C) | 8:38 |
+| 9 | [uMoya 2.0 \- Tycoon Remix](https://open.spotify.com/track/4iQGPl0iUSUJiAlHPNRkdJ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Soulful Disciple](https://open.spotify.com/artist/6gmMSMt9vm3YYJ5JoBG5my) | [uMoya 2.0 \(Tycoon Remix\)](https://open.spotify.com/album/48pXjU8aOvXbV56KFCeY5C) | 8:38 |
 | 10 | [Dida Bani](https://open.spotify.com/track/0HqSuF33Sgu3JQ4tJt9xkX) | [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Mr Abie](https://open.spotify.com/artist/2E9wJRxjbBSg472ieXxTB3) | [The Light](https://open.spotify.com/album/1b52Ha9jbhHiivdrM50MUg) | 5:56 |
 | 11 | [Bring On The Night \(feat\. King Dashnote\) \- Radio Edit](https://open.spotify.com/track/49akaIZyoq4hqfdGS3axYt) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG), [King Dashnote](https://open.spotify.com/artist/0KnYzoIhK5UbkXSed9d0VC) | [Bring On The Night \(feat\. King Dashnote\)](https://open.spotify.com/album/4GnRsTugLh7WL2CejlC312) | 5:09 |
 | 12 | [Sunmomi](https://open.spotify.com/track/0EcaDZI13CJ85e8XBP8kYP) | [KEVIN LNDN](https://open.spotify.com/artist/66P93mCmzVSDZr0JkS1BpO), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [AYOTEE](https://open.spotify.com/artist/20GkerNFdzs8fbCkyRhhsw) | [Sunmomi](https://open.spotify.com/album/0fosUq4DWu6Z9DXP6HFJFS) | 6:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 64 | [Kokareku](https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o) | [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kokareku](https://open.spotify.com/album/5QaJDPZpKXsqM7ZG40npIl) | 4:19 |
 | 65 | [I’ll Be There \(For You\)](https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Under The Sun](https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq) | 4:43 |
 
-Snapshot ID: `AAAAACREYLhg/Yrx8QP0Ap3OMAK/z1fW`
+Snapshot ID: `AAAAAN1qEMb/IuAhK6dU2sIyJOHMuw9Z`

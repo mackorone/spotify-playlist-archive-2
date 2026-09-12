@@ -1195,6 +1195,36 @@
     },
     {
       "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/6fRRpgdHRHPO6S77L5LSMr"
+      },
+      "artists": [
+        {
+          "name": "Acko",
+          "url": "https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi"
+        },
+        {
+          "name": "Afrostylez",
+          "url": "https://open.spotify.com/artist/08WyXpzbDDBScIIUIc5F2P"
+        },
+        {
+          "name": "Mysterie",
+          "url": "https://open.spotify.com/artist/0IWvKSaHUqwAATNheZP4VJ"
+        },
+        {
+          "name": "one more cig",
+          "url": "https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/7m6CgOAZF09VhsxVh59T2m"
+    },
+    {
+      "album": {
         "name": "Cloud Number Five",
         "url": "https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB"
       },
@@ -2055,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/3BW3ULAYqTWegEVj4A179K"
+      },
+      "artists": [
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7"
+        },
+        {
+          "name": "John Von Dusk",
+          "url": "https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz"
+        },
+        {
+          "name": "Skylet",
+          "url": "https://open.spotify.com/artist/5uhspOrIjx5ZHNBsWBiWZT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138256,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3rYhORkMQshMl3u74ws5Xc"
+    },
+    {
+      "album": {
         "name": "End of Story",
         "url": "https://open.spotify.com/album/1me7BXh024dO5wsWukirT4"
       },
@@ -2596,6 +2652,24 @@
       "duration_ms": 122016,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3jO4c2efUMnWeZVfJfmb4t"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/0dg4zS7TAd55FF5dBz262i"
+      },
+      "artists": [
+        {
+          "name": "Milo",
+          "url": "https://open.spotify.com/artist/0KATTUM55k4x92ee2J70a9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/6Mo3ht2tGr3szm09GzvYaL"
     },
     {
       "album": {
@@ -3861,6 +3935,28 @@
     },
     {
       "album": {
+        "name": "Love Me Harder",
+        "url": "https://open.spotify.com/album/43GMJn48MP487Sxrn3HlsQ"
+      },
+      "artists": [
+        {
+          "name": "Mave & Zac",
+          "url": "https://open.spotify.com/artist/7izexKgTEgGeE5CpN7uXW0"
+        },
+        {
+          "name": "TRANIFIQUE",
+          "url": "https://open.spotify.com/artist/7bfiq1GVRl2X6lMc1fInqp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/0nbVU7UYOCE6iaRE6FBknS"
+    },
+    {
+      "album": {
         "name": "Love Nature",
         "url": "https://open.spotify.com/album/4sCJ1lgSBqUS5FsYVdFgXM"
       },
@@ -4128,6 +4224,28 @@
       "duration_ms": 187056,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/528FLI8KzcnKoedVS3o6WG"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/7KAC6BYwSlA48LacliXF9q"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/4CQsnPIjOXVmKgUJeXMxCw"
     },
     {
       "album": {
@@ -5165,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "Propeller",
+        "url": "https://open.spotify.com/album/56BpQ5590ihzhsWFRZ4Q2E"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137547,
+      "name": "Propeller",
+      "url": "https://open.spotify.com/track/1QHW6Co8UJqccxtQa3fvzc"
+    },
+    {
+      "album": {
         "name": "Pulse Avenue",
         "url": "https://open.spotify.com/album/0gR7XKOciN05c1V8IhZud9"
       },
@@ -5252,6 +5388,24 @@
       "duration_ms": 141428,
       "name": "Rainfall",
       "url": "https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2"
+    },
+    {
+      "album": {
+        "name": "Recumbere Solis",
+        "url": "https://open.spotify.com/album/4rx56vT4Tadshs2QuWQydq"
+      },
+      "artists": [
+        {
+          "name": "Skymmer",
+          "url": "https://open.spotify.com/artist/4E9zfur3RPXEUxsKoVabD5"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Recumbere Solis",
+      "url": "https://open.spotify.com/track/6APME164u7unKF4tcv5V2S"
     },
     {
       "album": {
@@ -6241,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "Stillwater Cabin",
+        "url": "https://open.spotify.com/album/31rQQJVe3h8rX5VkyHO7CO"
+      },
+      "artists": [
+        {
+          "name": "Air Department",
+          "url": "https://open.spotify.com/artist/0wQlA1BmCS2UW36SkMgK6L"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Stillwater Cabin",
+      "url": "https://open.spotify.com/track/3aqqEzR0vAggbp32CdkKi3"
+    },
+    {
+      "album": {
         "name": "Straight Curves",
         "url": "https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt"
       },
@@ -6861,6 +7033,28 @@
     },
     {
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/50lAg85CgDhL6VFTZvfXzu"
+      },
+      "artists": [
+        {
+          "name": "Jaker",
+          "url": "https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY"
+        },
+        {
+          "name": "November Lights",
+          "url": "https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159504,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/7twRSDDGfA7J73EhgzaOSV"
+    },
+    {
+      "album": {
         "name": "The Two of Us (We Only Need)",
         "url": "https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b"
       },
@@ -7450,6 +7644,24 @@
       "duration_ms": 340645,
       "name": "Water",
       "url": "https://open.spotify.com/track/6CD5nbE9zvNOdJbnwfQyVM"
+    },
+    {
+      "album": {
+        "name": "Water Leisure",
+        "url": "https://open.spotify.com/album/2q4YFTwHQ0IPn1iYvrYVLh"
+      },
+      "artists": [
+        {
+          "name": "Mare",
+          "url": "https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Water Leisure",
+      "url": "https://open.spotify.com/track/6wNORcsRWcuhisPqOsJZhA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > back roads up loud with Fox N' Vead
 
-88 songs - 4 hr 53 min
+89 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2025-09-05 |  |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2025-09-05 |  |
 | [But Me](https://open.spotify.com/track/59YllCm05PmwGE05i7NpXf) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Best of Me](https://open.spotify.com/album/1AZCl8H5vq5cVpLNRYkwd2) | 3:55 | 2025-09-05 |  |
+| [Can of Worms](https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Can of Worms](https://open.spotify.com/album/30LMtgFfBNLziQmAgSZOCd) | 4:14 | 2026-09-11 |  |
 | [Can't Live Without](https://open.spotify.com/track/6deNzdi49NdTqyVtgVuQw6) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Can't Live Without](https://open.spotify.com/album/7yUsPsUryggm1KeEZQmDRi) | 2:53 | 2026-01-09 |  |
 | [Contagious](https://open.spotify.com/track/2cfjKoRvAdT7jOfTLAyIwq) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [Contagious](https://open.spotify.com/album/3hgvAfSpFJe4X2gdpoaLUE) | 3:25 | 2026-02-13 |  |
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2025-09-05 |  |

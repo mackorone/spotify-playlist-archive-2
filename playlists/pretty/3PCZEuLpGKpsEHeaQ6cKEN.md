@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 256,547 likes - 475 songs - 1 day 0 hr 57 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 256,515 likes - 475 songs - 1 day 0 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,7 +384,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 374 | [Day 'N' Night](https://open.spotify.com/track/1nXJn2Sy4d1fdu1VHeJOnd) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Day 'N' Night](https://open.spotify.com/album/0yxi7JGZDcbRFgIv6GzOsZ) | 3:36 |
 | 375 | [Sound of You](https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG) | 3:24 |
 | 376 | [Marama \(Moon & Stars\)](https://open.spotify.com/track/5dVw9ZFGFuNuKQrl7Lh9xi) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Saskia Lie\-Atjam](https://open.spotify.com/artist/6KnfZXg7Cg5eIMMLHy7TNJ) | [Marama \(Moon & Stars\)](https://open.spotify.com/album/3Uz5kXthMmPqTxdJwwKT17) | 3:51 |
-| 377 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
+| 377 | [Wrap Yourself Around Me](https://open.spotify.com/track/2a864kcI07gkk2sNMpW4tD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [North De Fay](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Wrap Yourself Around Me](https://open.spotify.com/album/3tVEnCdypxOfjpyv7G6Fo4) | 3:15 |
 | 378 | [In The Moment](https://open.spotify.com/track/5cA9YRrpjRUaK3Xxbu36zc) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [In The Moment](https://open.spotify.com/album/7CA8KPGl9QSVKV4b42BHqt) | 3:36 |
 | 379 | [Keep On Jumpin'](https://open.spotify.com/track/3qKC19wsOYDu0KaaemVixP) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Keep On Jumpin'](https://open.spotify.com/album/3ZFp3zXTE5q697phu1sQ94) | 3:00 |
 | 380 | [Heat](https://open.spotify.com/track/0areojbnyM4jm0jQ6fU6ko) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Heat](https://open.spotify.com/album/2kYla7qUsfm8fHbS2ODxP0) | 2:30 |

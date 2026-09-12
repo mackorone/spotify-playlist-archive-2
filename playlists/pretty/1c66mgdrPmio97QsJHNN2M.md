@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,941 likes - 191 songs - 10 hr 12 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,939 likes - 208 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,5 +199,22 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 189 | [Just a lie](https://open.spotify.com/track/1YuU9k2LKuEdoZHVo6wmjX) | [Gadir](https://open.spotify.com/artist/5OETPu2nXzwWkBbabbissm) | [Just a lie](https://open.spotify.com/album/0lj8QmIA8QKFv6YrhO4jIl) | 2:38 |
 | 190 | [Born To Create \- Acoustic Version](https://open.spotify.com/track/6DglhaCZZzazyteXhiV25j) | [Diego Federico](https://open.spotify.com/artist/56N7gi3qQbmNOr1H35vZRj) | [Born To Create \(Acoustic Version\)](https://open.spotify.com/album/0SgJzKTkTAXIBMHdQHbX1B) | 2:18 |
 | 191 | [Confessing](https://open.spotify.com/track/18H1KNefGu8vS6VxGoTESI) | [Aryan Nair](https://open.spotify.com/artist/0srr2ktacQYrZNOxG7Y0lS) | [Confessing](https://open.spotify.com/album/4J8nmJuw8lxb8jD3EpuwRm) | 2:18 |
+| 192 | [Driven by the Echoes](https://open.spotify.com/track/4xpSeB7na4ONybnW7GMexM) | [jesse...](https://open.spotify.com/artist/1oUY7VlfjBrtJbCx7LPBD2) | [Driven by the Echoes](https://open.spotify.com/album/74TdRKYucnKXjDzIg9Isqg) | 2:55 |
+| 193 | [SUNSHINE](https://open.spotify.com/track/7IorP2kK0WSmeuL5yi3gL7) | [Andrea Botwin](https://open.spotify.com/artist/308U2TBu8HPaijy2dto9Cp) | [SUNSHINE](https://open.spotify.com/album/2m1MwjSHxeks6p8KVsaPMd) | 3:01 |
+| 194 | [Defy the Time \- Live](https://open.spotify.com/track/5tf8Sz325qjipi5jJu0xly) | [Stone Fruit](https://open.spotify.com/artist/40xTbkkCNyoMyBbuXc01mX) | [Live in the Studio](https://open.spotify.com/album/55aBzVkpce9gpn3B8BNvyg) | 3:29 |
+| 195 | [Take me in your Arms](https://open.spotify.com/track/4YRVJ5pBUW6nGpFrvFuVoX) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n) | [Take me in your Arms](https://open.spotify.com/album/66UxbCq7t9iWJt1WM39Bc5) | 3:57 |
+| 196 | [Pretty Wings](https://open.spotify.com/track/5tR2w78xV17M5q1nea5zyw) | [Nini Uppuluri](https://open.spotify.com/artist/13XNrE7VNUoipQC30YNyHA) | [Relentless](https://open.spotify.com/album/3DF0JkBT0PTsIsrT5NYtUV) | 3:56 |
+| 197 | [Cold Summer](https://open.spotify.com/track/2WfTGIQfz1H0O7n31rLSUr) | [Khallil](https://open.spotify.com/artist/7qu2bxmXLOP3Jz5djDHdi9) | [Cold Summer](https://open.spotify.com/album/6AKA80SzsTEy743vHT3K11) | 2:37 |
+| 198 | [OVERFLOW](https://open.spotify.com/track/3VBymBc0l8kKIQh40xwMNU) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt), [Jenasis](https://open.spotify.com/artist/1m5tM87HoGL5ePg8IddymH) | [OVERFLOW](https://open.spotify.com/album/3dfFbEOIzozYum3WyCg2GG) | 3:30 |
+| 199 | [Your Kingdom](https://open.spotify.com/track/3Fgkt32z9qsNjugkpYMHr1) | [Art Papan Hope](https://open.spotify.com/artist/1nVTbgFyQ1Y77CrX1D6jzf) | [Sacred Horizons](https://open.spotify.com/album/0GpKtq3B3dv0mJacBjMpcs) | 3:43 |
+| 200 | [Home](https://open.spotify.com/track/3RzJRKgS870c6XwP0Ow7os) | [RE\-Ø](https://open.spotify.com/artist/5x2a6iMK54Btph1Aqdaig2) | [Home](https://open.spotify.com/album/2vnVqoOG7YRfircDeGmChB) | 2:33 |
+| 201 | [I Know Who I Am](https://open.spotify.com/track/2Qk1RHHLL8QgevQgUJGOIr) | [RunvAi](https://open.spotify.com/artist/3wNnJh1hmOuhUG0au3NNj0) | [I Know Who I Am](https://open.spotify.com/album/2PkNTnLZLMNHBD24akg9oZ) | 3:17 |
+| 202 | [Stupid!!](https://open.spotify.com/track/14NNskKv4O1zDHFdvwFBL4) | [Noa Dear](https://open.spotify.com/artist/22pvoqQ30AljyB7Vxi0F0U) | [Stupid!!](https://open.spotify.com/album/2ck5HS36qSJr6JQcjURKQm) | 3:30 |
+| 203 | [After the Lights](https://open.spotify.com/track/5YgHEY3xZJdH5zNEsMCGGP) | [Emi Horo](https://open.spotify.com/artist/62pscLCCTKJFKCUjKhRVJB) | [After the lights](https://open.spotify.com/album/0spjuK3xISMeSdZJZ87sS8) | 4:09 |
+| 204 | [Mind in The message](https://open.spotify.com/track/0efYMhywgS5PiTyUf2ciZk) | [Emi Horo](https://open.spotify.com/artist/62pscLCCTKJFKCUjKhRVJB) | [From Dirt](https://open.spotify.com/album/6yLo1cbciz026Egab9r4Jf) | 3:20 |
+| 205 | [Be Yours](https://open.spotify.com/track/0ZfdAcF5Zfz4gcbIcCTGZn) | [ilzworld](https://open.spotify.com/artist/2I9yuzxB5QtGRHA5TJl0wh) | [Be Yours](https://open.spotify.com/album/12cDfkQvFUDgcQvPuMY15f) | 2:36 |
+| 206 | [Never Before](https://open.spotify.com/track/43LdtBioTky5GqajCjsCn2) | [maxbrent](https://open.spotify.com/artist/3QLkBSe5t2YEyO8zmJdW0z) | [Never Before](https://open.spotify.com/album/6asB25P0QVhLh4lzjra6d6) | 2:19 |
+| 207 | [A Nowhere Place](https://open.spotify.com/track/3Tfhkl0qDEAbPBdn9bWG8M) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Neon Paranoia Vol.2](https://open.spotify.com/album/4yBa9LO1pWhOZWALb2ibcA) | 3:47 |
+| 208 | [Land Of Enchantment](https://open.spotify.com/track/3zpgeVEymPY2KPmGQs5HqI) | [Lucian Lacewing](https://open.spotify.com/artist/0JvXwWR26x3ZHYnhMM9Uoq) | [Land Of Enchantment](https://open.spotify.com/album/1qQqlxHiXqip8TG3ec7sLX) | 3:40 |
 
-Snapshot ID: `AAA8JoK56IF2VxvgCVU6mwz/NiWWUt5S`
+Snapshot ID: `AAA8N2Xg+AKU+rGJtiizIT/PGFxcCkNk`

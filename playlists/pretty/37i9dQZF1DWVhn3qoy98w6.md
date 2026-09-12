@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Julia Sabaté.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,200 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,207 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Diablo](https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Diablo](https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL) | 2:27 |
 | 50 | [AUTÓMATA](https://open.spotify.com/track/5oik3K9Zah7EUZkMMRZAim) | [Martes Mal](https://open.spotify.com/artist/55kgOTb4zLb5sHTZJ49mVR) | [LAS INCREÍBLES AVENTURAS DE TOÑO TERREMOTO](https://open.spotify.com/album/20CcwSEJkwFWqR7WATrpQl) | 2:31 |
 
-Snapshot ID: `AAAAAN9jVBuT85rvoRLjmXYo6StTkcOE`
+Snapshot ID: `AAAAAAuQFnZWOHtL21AVva7QXlbQkqP8`

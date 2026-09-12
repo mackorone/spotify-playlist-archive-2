@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 116000,
       "name": "12 Concertos, Op. 3 \"L'estro armonico\" / Concerto No. 4 in E Minor for 4 Violins, RV 550: IV. Allegro",
       "url": "https://open.spotify.com/track/3tT9ZOjUzYkM87F7IlXvL9"
@@ -5659,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "Arch of the Sky",
+        "url": "https://open.spotify.com/album/5E6vD691GoT9FiOBNDtpLa"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375186,
+      "name": "Arch of the Sky",
+      "url": "https://open.spotify.com/track/3DKsTUnDggVCg1swPYZ76q"
+    },
+    {
+      "album": {
         "name": "Harmonium (2008)",
         "url": "https://open.spotify.com/album/7jPdyl2wFeXUxuzyd7c2gN"
       },
@@ -5901,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Arsenal",
+        "url": "https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221489,
+      "name": "Arsenal",
+      "url": "https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j"
+    },
+    {
+      "album": {
         "name": "Artificial Gods",
         "url": "https://open.spotify.com/album/2m9BtKQVtxIDvyrqpeyrRx"
       },
@@ -6018,7 +6054,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 428620,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/1RrLt4E4pCOd9FEb1OuB7F"
@@ -11209,6 +11245,28 @@
     },
     {
       "album": {
+        "name": "\"Great Classical Recordings\" Volume II",
+        "url": "https://open.spotify.com/album/2q9ptGFishPtdhROhyXK7A"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Anatol Ugorski",
+          "url": "https://open.spotify.com/artist/7JJ6q1xkNvce4kNwrEuJRr"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64546,
+      "name": "Cantabile In B Flat",
+      "url": "https://open.spotify.com/track/4ZWb5AryPgGypBJw0TGJ8i"
+    },
+    {
+      "album": {
         "name": "The Hope Of A Spark",
         "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
       },
@@ -13246,6 +13304,40 @@
       "duration_ms": 160633,
       "name": "Como un Rayo",
       "url": "https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle"
+    },
+    {
+      "album": {
+        "name": "Vivaldi - 30 Most Popular Pieces",
+        "url": "https://open.spotify.com/album/4zjreH0NnLxQLuNJoIzkWR"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Julian Lloyd Webber",
+          "url": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
+        },
+        {
+          "name": "Jiaxin Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4UxVKRFFn96O4m2VDkoXSw"
+        },
+        {
+          "name": "European Union Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16QiQnPIen1llsJLqQKyxR"
+        },
+        {
+          "name": "Hanspeter Hofmann",
+          "url": "https://open.spotify.com/artist/0EFuR1ucytxvaPypD1sXxL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "Concerto for 2 Mandolins in G Major, RV 532: I. Allegro",
+      "url": "https://open.spotify.com/track/7bKSlrtodr4TdsAoDPqgrX"
     },
     {
       "album": {
@@ -15704,7 +15796,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 202000,
       "name": "Desirable",
       "url": "https://open.spotify.com/track/5qK8JyV5oyL7E3Jso9Jm4Z"
@@ -18876,7 +18968,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 208997,
       "name": "El Crack - Ac\u00fastica",
       "url": "https://open.spotify.com/track/4E3EKFoYpFkwvvxlpo2BNY"
@@ -20438,7 +20530,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 63027,
       "name": "Esto Si Es Punk Rock",
       "url": "https://open.spotify.com/track/3o7FmXzpfgt25KDlDBb2Ga"
@@ -23014,6 +23106,24 @@
       "duration_ms": 195386,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2Ijt2x8YLBXeRWCrUDaLir"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149501,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7vBcocExdRT5KsLMorLYUt"
     },
     {
       "album": {
@@ -25834,6 +25944,24 @@
       "duration_ms": 315007,
       "name": "Got To Get To You",
       "url": "https://open.spotify.com/track/176d7hzG7P17GfzZU0L3oF"
+    },
+    {
+      "album": {
+        "name": "Graceless",
+        "url": "https://open.spotify.com/album/4SusDW04vQsSdhT0yt06ek"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113558,
+      "name": "Graceless",
+      "url": "https://open.spotify.com/track/6hmDWLpg9foHG9duUBpDyd"
     },
     {
       "album": {
@@ -32271,6 +32399,28 @@
     },
     {
       "album": {
+        "name": "Incubus Succubus",
+        "url": "https://open.spotify.com/album/5NjoXy6xBp7fj2TRm1PU8z"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        },
+        {
+          "name": "Thunder Bae",
+          "url": "https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302063,
+      "name": "Incubus Succubus",
+      "url": "https://open.spotify.com/track/0UtaYJ5IcAJKuJGwFi3L5e"
+    },
+    {
+      "album": {
         "name": "Indian Summer",
         "url": "https://open.spotify.com/album/7GppzVps2cmaJUJ5pvGMIp"
       },
@@ -32958,6 +33108,24 @@
       "duration_ms": 241820,
       "name": "Intruder",
       "url": "https://open.spotify.com/track/2iJQDtuxqOeaLIo5J15EFN"
+    },
+    {
+      "album": {
+        "name": "INVADER",
+        "url": "https://open.spotify.com/album/4pCWDAIdUIRnsAr2xk6PDS"
+      },
+      "artists": [
+        {
+          "name": "Saves The Day",
+          "url": "https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272443,
+      "name": "INVADER",
+      "url": "https://open.spotify.com/track/4aPC5VnoEgFsd5cUs9XRIa"
     },
     {
       "album": {
@@ -34027,6 +34195,24 @@
     },
     {
       "album": {
+        "name": "Just Be Honest",
+        "url": "https://open.spotify.com/album/5iuRdw0K02hz5oNkLKcUhW"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Just Be Honest",
+      "url": "https://open.spotify.com/track/3vJOqcerQowFqJjzNtzKpH"
+    },
+    {
+      "album": {
         "name": "Just Be Mine",
         "url": "https://open.spotify.com/album/1EomlwRboXk162AA1B1uVN"
       },
@@ -34266,6 +34452,24 @@
       "duration_ms": 320000,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/0KyOqeVAPYVKcryHhqrGPU"
+    },
+    {
+      "album": {
+        "name": "Kalika's Tongue",
+        "url": "https://open.spotify.com/album/18GUrqfzThhDdf8jiw50Vh"
+      },
+      "artists": [
+        {
+          "name": "Firtan",
+          "url": "https://open.spotify.com/artist/1fevQX8HS898wns7GKH3pR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349832,
+      "name": "Kalika's Tongue",
+      "url": "https://open.spotify.com/track/4rIpFdWbeQdIlRRRIhtZPa"
     },
     {
       "album": {
@@ -36734,7 +36938,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 82000,
       "name": "Les Sylphides: 1. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/00MwZmkUUtmeaIkOoDiy7Z"
@@ -37458,6 +37662,24 @@
       "duration_ms": 260680,
       "name": "Liars & Thieves",
       "url": "https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL"
+    },
+    {
+      "album": {
+        "name": "Liars Linger",
+        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367063,
+      "name": "Liars Linger",
+      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
     },
     {
       "album": {
@@ -38702,10 +38924,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 514599,
       "name": "Looking for the Happy - Bright-Side Mix",
       "url": "https://open.spotify.com/track/4Fia44xhsPjGBzlddpOYYk"
+    },
+    {
+      "album": {
+        "name": "Looking for the Happy (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/5ZU4YO8jwCcuj9e7I2bwnh"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518162,
+      "name": "Looking for the Happy - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/33HkvFMDSPSgs1TSCmg3Fz"
     },
     {
       "album": {
@@ -43259,6 +43499,24 @@
     },
     {
       "album": {
+        "name": "My Sacrifice (Radio Edit / Remastered 2026)",
+        "url": "https://open.spotify.com/album/2hIqzZYM0lnrG2qQ6w83jc"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259204,
+      "name": "My Sacrifice - Radio Edit / Remastered 2026",
+      "url": "https://open.spotify.com/track/2lExOd6RZGDUSJPe7AIGuC"
+    },
+    {
+      "album": {
         "name": "My Valentine (with Paul McCartney)",
         "url": "https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo"
       },
@@ -44801,6 +45059,28 @@
     },
     {
       "album": {
+        "name": "SOBREVIVIENTE",
+        "url": "https://open.spotify.com/album/4wcREi3NMculvlcniPjPhu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Meneses",
+          "url": "https://open.spotify.com/artist/2NGxwPmrBXlH3bGem7O45B"
+        },
+        {
+          "name": "Jorge Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "No hay vuelta atr\u00e1s",
+      "url": "https://open.spotify.com/track/7jQzHydmfkVlAWOVD0BEP3"
+    },
+    {
+      "album": {
         "name": "Los Bunkers (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
@@ -45132,6 +45412,24 @@
       "duration_ms": 179680,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/17PrhKHUPE1jQCXICSK0n0"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows What It\u2019s Like To Be Lonely",
+        "url": "https://open.spotify.com/album/2utgiUYgcEDnmWpv4zgCvr"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357493,
+      "name": "Nobody Knows What It\u2019s Like To Be Lonely",
+      "url": "https://open.spotify.com/track/4J9SHAyEWZK8CdUe3zg9TY"
     },
     {
       "album": {
@@ -49163,6 +49461,28 @@
     },
     {
       "album": {
+        "name": "\"'Dark Academia\" - Piano",
+        "url": "https://open.spotify.com/album/5KYvKjdCavdMI2j8BNDdyy"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Angela Hewitt",
+          "url": "https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98413,
+      "name": "Piano Sonata No. 11 in A Major, K. 331: Ib. Var. 1",
+      "url": "https://open.spotify.com/track/0Gl5dV5oAAmsxKQ32kz7t6"
+    },
+    {
+      "album": {
         "name": "Lunaris",
         "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
       },
@@ -52531,6 +52851,24 @@
     },
     {
       "album": {
+        "name": "Reina Tormenta / Enlazan Las Tinieblas",
+        "url": "https://open.spotify.com/album/3HkAevFHNkE3ttoBANfTeZ"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257958,
+      "name": "Reina Tormenta / Enlazan Las Tinieblas",
+      "url": "https://open.spotify.com/track/1puutb4W7QL93d412EIBEt"
+    },
+    {
+      "album": {
         "name": "Relaxing Sound 4.0",
         "url": "https://open.spotify.com/album/1L0ogoECwH28aSk0iNoKTO"
       },
@@ -53672,6 +54010,50 @@
       "duration_ms": 209901,
       "name": "Rocket (from \"Dr. Stone Science Future\") - Spanish Version",
       "url": "https://open.spotify.com/track/0XarlODHwGeElMYEQhyBSW"
+    },
+    {
+      "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/1llb7uWMsBBhCgAQfzt7Qu"
+      },
+      "artists": [
+        {
+          "name": "Mimi Leclercq",
+          "url": "https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Rojo Rub\u00ed",
+      "url": "https://open.spotify.com/track/3lAKkXgItWdAFMzoSyb0fN"
+    },
+    {
+      "album": {
+        "name": "Roll On (Bonus Track)",
+        "url": "https://open.spotify.com/album/0tyqG6ramLxMTIs5oQkHjd"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Roll On - Bonus Track",
+      "url": "https://open.spotify.com/track/3mjgkuj8wciSefuP9m0RXi"
     },
     {
       "album": {
@@ -55961,6 +56343,32 @@
     },
     {
       "album": {
+        "name": "Self Afflicted REDUX",
+        "url": "https://open.spotify.com/album/6Pf3pbO2aoQ8MtUqsRbpjK"
+      },
+      "artists": [
+        {
+          "name": "Attraction to Tragedy",
+          "url": "https://open.spotify.com/artist/6BHAFT046BrDy5gjOJmzr5"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        },
+        {
+          "name": "Lindsey Vogt",
+          "url": "https://open.spotify.com/artist/3OpLeEuaI3qUVWNaRnGuFQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191975,
+      "name": "Self Afflicted REDUX",
+      "url": "https://open.spotify.com/track/0ZEvop9hTIAKruV77r1Xpx"
+    },
+    {
+      "album": {
         "name": "Let The Bedtimes Roll: Lullaby renditions of The Offspring",
         "url": "https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ"
       },
@@ -58213,6 +58621,24 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/4RdLdqnpHxSUebslUYsEOe"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/0OQyjfbBALTIYeeCt8xvoK"
+    },
+    {
+      "album": {
         "name": "Rock 'n' Roll Star!",
         "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
       },
@@ -58824,7 +59250,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206502,
       "name": "Someone",
       "url": "https://open.spotify.com/track/24wjPkwGu0dLJugZvUYfak"
@@ -59148,6 +59574,28 @@
       "duration_ms": 248016,
       "name": "Song Of Darkness",
       "url": "https://open.spotify.com/track/4S3eOwn7QFbBTeSTgQepBt"
+    },
+    {
+      "album": {
+        "name": "Song of the Robbers",
+        "url": "https://open.spotify.com/album/20uyQy7h9GpuCKOVW6dMoP"
+      },
+      "artists": [
+        {
+          "name": "The Orthodox Singers Male Choir",
+          "url": "https://open.spotify.com/artist/2BltsoVQwJa3kZleF9u152"
+        },
+        {
+          "name": "The Red Army Choir",
+          "url": "https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218450,
+      "name": "Song of the Robbers",
+      "url": "https://open.spotify.com/track/0O8F2wnLDmE58eMidXuEHj"
     },
     {
       "album": {
@@ -60932,7 +61380,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 342333,
       "name": "String Quintet in C Major, K. 515: II. Menuetto. Allegretto \u2013 Trio",
       "url": "https://open.spotify.com/track/1V2W71OU2EcZbEla1qctaF"
@@ -61852,7 +62300,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 87000,
       "name": "Swan Lake Suite, Op. 20a: III. Danse des cygnes. Allegro moderato",
       "url": "https://open.spotify.com/track/2H4RNRwF3jvxY2eovhp7VR"
@@ -61878,6 +62326,32 @@
       "duration_ms": 221000,
       "name": "Swan Lake, op. 20",
       "url": "https://open.spotify.com/track/7ohCWZyiY8IZ5Q8YdDQ25B"
+    },
+    {
+      "album": {
+        "name": "\"Summer's Coda: Classical Works\"",
+        "url": "https://open.spotify.com/album/0xs56PSoiFBvLeiBWEkYgq"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89320,
+      "name": "Swan Lake, Op. 20, TH 12 / Act II: No. 13d Danse des petits cygnes (Allegro moderato)",
+      "url": "https://open.spotify.com/track/1mS5F1b1mDljXIMDSNPcYv"
     },
     {
       "album": {
@@ -67617,6 +68091,24 @@
     },
     {
       "album": {
+        "name": "They Said Your Ghost Was A Promise",
+        "url": "https://open.spotify.com/album/3depTJduhdr8LqQov8JTPn"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226954,
+      "name": "They Said Your Ghost Was A Promise",
+      "url": "https://open.spotify.com/track/1MeWB5g6XOpi5MN1DSMYPG"
+    },
+    {
+      "album": {
         "name": "Live In Berlin 1985 (Remastered 2025, Live)",
         "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
       },
@@ -68912,6 +69404,24 @@
       "duration_ms": 230066,
       "name": "Too Hot To Handle - Live, Blind Melon's, Buffalo, NY, USA, 11 September 1995",
       "url": "https://open.spotify.com/track/7qMSo3gtxYwZvqWU3EekKs"
+    },
+    {
+      "album": {
+        "name": "Gaudi (Sessions)",
+        "url": "https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253400,
+      "name": "Too Late - Eric Woolfson Rough Guide Vocal",
+      "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"
     },
     {
       "album": {

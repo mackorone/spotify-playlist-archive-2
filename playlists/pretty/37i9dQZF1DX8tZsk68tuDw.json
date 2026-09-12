@@ -1,28 +1,28 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Azzecca",
-  "num_followers": 1815272,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with J. Worra",
+  "num_followers": 1815206,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrzLETADV5J6n7EU+lGhw9w922l",
+  "snapshot_id": "AAAAAIB9dhsL3rfqvKjxPFQB/HthWeR0",
   "tracks": [
     {
-      "added_at": "2026-08-28 04:01:30",
+      "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+        "name": "Get Up And Dance",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 156015,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+      "duration_ms": 155081,
+      "name": "Get Up And Dance",
+      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -45,24 +45,40 @@
       "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
     },
     {
-      "added_at": "2026-09-04 04:00:58",
+      "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "So Many Things To Say",
-        "url": "https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6tcN6c8uhrzzlqdLeyn5nt"
       },
       "artists": [
         {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
         }
       ],
-      "duration_ms": 179500,
-      "name": "So Many Things To Say",
-      "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
+      "duration_ms": 186301,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "Music Don't Stop",
+        "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Music Don't Stop",
+      "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -99,6 +115,46 @@
       "duration_ms": 243692,
       "name": "dissolve",
       "url": "https://open.spotify.com/track/3aKeZ75NMlUdk75F3N8mix"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 156015,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "Not A Problem",
+        "url": "https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "Not A Problem",
+      "url": "https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw"
     },
     {
       "added_at": "2026-08-21 04:02:40",
@@ -139,6 +195,22 @@
       "duration_ms": 174924,
       "name": "Sun is Shining (Lovelee Dae)",
       "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/6P6AwBzv5ESD3DohicXvV5"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/7nxu4fQ4ediLKWl8IdMVJ2"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -189,40 +261,24 @@
       "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
     },
     {
-      "added_at": "2026-08-21 04:02:40",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1PXtEEJrxxag7sv4ZSrMA7"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        },
-        {
-          "name": "sawayaka",
-          "url": "https://open.spotify.com/artist/5HuvcfCJB7wsXIFVWA2e0F"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4Ei2huAv185ZuCuhWcfyE9"
-    },
-    {
       "added_at": "2026-09-04 04:00:58",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/6P6AwBzv5ESD3DohicXvV5"
+        "name": "So Many Things To Say",
+        "url": "https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/7nxu4fQ4ediLKWl8IdMVJ2"
+      "duration_ms": 179500,
+      "name": "So Many Things To Say",
+      "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -243,6 +299,22 @@
       "duration_ms": 203222,
       "name": "HOLD DA PHONE",
       "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "How Ya Feelin\u2019",
+        "url": "https://open.spotify.com/album/0XdbLaKmYsKg0AmDLWo2yV"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "How Ya Feelin\u2019",
+      "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -295,6 +367,22 @@
       "duration_ms": 149516,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "Legacy (Assanssan)",
+        "url": "https://open.spotify.com/album/0pMsmJy7aupQNtWicJZGUV"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 209765,
+      "name": "Legacy (Assanssan)",
+      "url": "https://open.spotify.com/track/2i1aetB4r2OfsJ73ZC86dh"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -365,44 +453,20 @@
       "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
     },
     {
-      "added_at": "2026-08-28 04:01:30",
+      "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5YS69Tkbi6ckLICj96wQVi"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
         }
       ],
-      "duration_ms": 284093,
-      "name": "LOOK OUT FOR ME: KETTAMA VERSION",
-      "url": "https://open.spotify.com/track/0eT45WSj6OD4HoSZWq6uMQ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:44",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/4Ca3BtmO41F1EvydCfcoOw"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 291971,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/45Q7gfiscW28MWPY9VvebZ"
+      "duration_ms": 173048,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6CGoaZLiqf6fSvTRGf7X9J"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -427,6 +491,26 @@
       "duration_ms": 142615,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/7K4xmQ87a8CFPZSTaIB93z"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "KISS (feat. Ragga Twins)",
+        "url": "https://open.spotify.com/album/2tyO9VWVgispJpRbPJkRYS"
+      },
+      "artists": [
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        },
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "KISS (feat. Ragga Twins)",
+      "url": "https://open.spotify.com/track/1QX4y0HykrENj1NTjzmXub"
     },
     {
       "added_at": "2026-08-07 04:01:05",
@@ -621,22 +705,6 @@
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
-    },
-    {
       "added_at": "2026-08-07 04:01:05",
       "album": {
         "name": "Beat Goes On",
@@ -729,20 +797,24 @@
       "url": "https://open.spotify.com/track/2GlkQgQwmB8ViK8UhEtfME"
     },
     {
-      "added_at": "2026-08-21 04:02:40",
+      "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "where_the_drummer_at?",
-        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+        "name": "I'll Never Know",
+        "url": "https://open.spotify.com/album/3C3Epwul5bfKqQWdguZM7u"
       },
       "artists": [
         {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
         }
       ],
-      "duration_ms": 195208,
-      "name": "where_the_drummer_at?",
-      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
+      "duration_ms": 226285,
+      "name": "I'll Never Know",
+      "url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4"
     },
     {
       "added_at": "2026-08-07 04:01:05",
@@ -783,6 +855,22 @@
       "duration_ms": 163537,
       "name": "Fux With Us (feat. TiaCorine)",
       "url": "https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:40",
+      "album": {
+        "name": "where_the_drummer_at?",
+        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 195208,
+      "name": "where_the_drummer_at?",
+      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
     },
     {
       "added_at": "2026-07-31 04:01:37",
@@ -919,26 +1007,6 @@
       "duration_ms": 179311,
       "name": "soul reply",
       "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
-    },
-    {
-      "added_at": "2026-07-17 04:00:45",
-      "album": {
-        "name": "Comes and Goes (Dom Dolla Remix)",
-        "url": "https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Comes and Goes - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3"
     },
     {
       "added_at": "2026-08-07 04:01:05",
@@ -1081,30 +1149,6 @@
       "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
     },
     {
-      "added_at": "2026-07-17 04:00:45",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        },
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        },
-        {
-          "name": "Nate Katz",
-          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "The Bridge",
-      "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
-    },
-    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
         "name": "Criminal EP",
@@ -1181,60 +1225,24 @@
       "url": "https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih"
     },
     {
-      "added_at": "2026-08-21 04:02:40",
+      "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": ".com",
-        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+        "name": "MAXED OUT",
+        "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
       },
       "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
-    },
-    {
-      "added_at": "2026-08-14 04:00:44",
-      "album": {
-        "name": "Bird Phone",
-        "url": "https://open.spotify.com/album/2Zuif5HUfMU2YMb8GuHLtE"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Bird Phone",
-      "url": "https://open.spotify.com/track/7DxoMYqZk3vWFJZ5rX3H4k"
-    },
-    {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/43RbSseg8UTZ9Ypy8NwHxp"
-      },
-      "artists": [
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        },
         {
           "name": "Jiqui",
           "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/72cOiHaGs0N7JSHcJiMzi7"
+      "duration_ms": 182535,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
     },
     {
       "added_at": "2026-07-31 04:01:37",
@@ -1297,30 +1305,6 @@
       "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
     },
     {
-      "added_at": "2026-07-10 04:01:25",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "KIMI",
-          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
-        }
-      ],
-      "duration_ms": 211928,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
-    },
-    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
         "name": "Show Me",
@@ -1353,6 +1337,26 @@
       "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
     },
     {
+      "added_at": "2026-08-21 04:02:40",
+      "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
+    },
+    {
       "added_at": "2026-08-14 04:00:44",
       "album": {
         "name": "Context",
@@ -1367,22 +1371,6 @@
       "duration_ms": 266277,
       "name": "Floo",
       "url": "https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:25",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/75ryCp9ayoj6rMVrT3ecQe"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/0zlkI2TtbVQf3gGMDTZYWs"
     },
     {
       "added_at": "2026-05-29 04:01:19",

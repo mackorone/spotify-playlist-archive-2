@@ -1,47 +1,15 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 765411,
+  "num_followers": 765606,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMhG1WRlgJpkdXkhkUjl2DU4laK",
+  "snapshot_id": "AAAAAE0n5XDObTHvRQhZm2q8xfAjqoEf",
   "tracks": [
     {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -61,23 +29,55 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Music is Life",
+        "url": "https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Music is Life",
+      "url": "https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "When You Smile",
         "url": "https://open.spotify.com/album/7n29Ak1v8crsUb5JOH6WU1"
@@ -93,39 +93,39 @@
       "url": "https://open.spotify.com/track/1mhTX06itPHKN5cWj5fIVj"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+      "duration_ms": 176698,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "U GO",
         "url": "https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W"
@@ -141,23 +141,23 @@
       "url": "https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Return To Bhibo",
-        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 157840,
-      "name": "Return To Bhibo",
-      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
@@ -177,7 +177,39 @@
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
@@ -221,7 +253,43 @@
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Dreamliner",
+        "url": "https://open.spotify.com/album/4l8jVKBn6h1bH7Z988DbUP"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Roel",
+          "url": "https://open.spotify.com/artist/0EfrGgT7wHNdI1QmUhgxU3"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Dreamliner",
+      "url": "https://open.spotify.com/track/7aMGiwy3Ujvtf3Vbkv3CDV"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
@@ -245,7 +313,23 @@
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Waiting4luv",
+        "url": "https://open.spotify.com/album/3CzNN5bkRKzWWkI7JvZXCn"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Waiting4luv",
+      "url": "https://open.spotify.com/track/6HMKMe4k5nUCpZRZhCAGTa"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
@@ -261,23 +345,23 @@
       "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Love\u2019s Theme",
-        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+        "name": "Do It All",
+        "url": "https://open.spotify.com/album/3RtDonrV5rYwIZGe2NW55T"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
         }
       ],
-      "duration_ms": 174081,
-      "name": "Love\u2019s Theme",
-      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
+      "duration_ms": 164501,
+      "name": "Do It All",
+      "url": "https://open.spotify.com/track/4yVHLQaD6wmTRhlONyC4K5"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Music is Better",
         "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
@@ -293,7 +377,7 @@
       "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
@@ -313,23 +397,7 @@
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Waiting4luv",
-        "url": "https://open.spotify.com/album/3CzNN5bkRKzWWkI7JvZXCn"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Waiting4luv",
-      "url": "https://open.spotify.com/track/6HMKMe4k5nUCpZRZhCAGTa"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
@@ -345,7 +413,7 @@
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
@@ -377,7 +445,7 @@
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Want You In My Soul (Radio Edit)",
         "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
@@ -397,7 +465,7 @@
       "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
@@ -413,7 +481,7 @@
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
         "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
@@ -437,7 +505,7 @@
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "When Will We Land?",
         "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
@@ -453,7 +521,7 @@
       "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "4 us",
         "url": "https://open.spotify.com/album/5DAhKKgBkWq1RPGrBDgSVB"
@@ -485,7 +553,7 @@
       "url": "https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Cult Classics",
         "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
@@ -501,7 +569,55 @@
       "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "You Don't Want To Think About It",
         "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
@@ -521,55 +637,7 @@
       "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Kimbara",
-        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189816,
-      "name": "Kimbara",
-      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
@@ -609,7 +677,7 @@
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Everything Will Be Alright",
         "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
@@ -641,7 +709,7 @@
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Return to Ojai",
         "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
@@ -661,7 +729,7 @@
       "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Ultramoon",
         "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
@@ -677,27 +745,7 @@
       "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Sound of You (ft TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
@@ -717,7 +765,27 @@
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Fara",
         "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
@@ -769,7 +837,7 @@
       "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2"
@@ -789,7 +857,7 @@
       "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "mr useless",
         "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
@@ -813,7 +881,7 @@
       "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Feelings Gone (feat. London Grammar)",
         "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
@@ -833,7 +901,7 @@
       "url": "https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi"
     },
     {
-      "added_at": "2026-08-27 15:27:36",
+      "added_at": "2026-09-11 08:02:27",
       "album": {
         "name": "Into Dust (Still Falling)",
         "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
@@ -847,78 +915,6 @@
       "duration_ms": 333779,
       "name": "Into Dust (Still Falling)",
       "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "TANZPARTEI II (Mixtape)",
-        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 151599,
-      "name": "Friday (Alone Right Now)",
-      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2026-08-27 15:27:36",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 227934,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     }
   ],
   "unique_name": "Serotonin",

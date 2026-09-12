@@ -15433,6 +15433,24 @@
     },
     {
       "album": {
+        "name": "Everything's Coming Up Roses",
+        "url": "https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv"
+      },
+      "artists": [
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Myth Of You",
+      "url": "https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk"
+    },
+    {
+      "album": {
         "name": "M\u00e4nniskobarn",
         "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
       },
@@ -23370,24 +23388,6 @@
       "duration_ms": 162224,
       "name": "Totally",
       "url": "https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp"
-    },
-    {
-      "album": {
-        "name": "Everything's Coming Up Roses",
-        "url": "https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv"
-      },
-      "artists": [
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "date_added": "2026-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk"
     },
     {
       "album": {

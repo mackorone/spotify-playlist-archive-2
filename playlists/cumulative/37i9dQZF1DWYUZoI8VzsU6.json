@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Can of Worms",
+        "url": "https://open.spotify.com/album/30LMtgFfBNLziQmAgSZOCd"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254319,
+      "name": "Can of Worms",
+      "url": "https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD"
+    },
+    {
+      "album": {
         "name": "Can't Live Without",
         "url": "https://open.spotify.com/album/7yUsPsUryggm1KeEZQmDRi"
       },

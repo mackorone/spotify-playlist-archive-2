@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Meek Mill",
+  "description": "Up and down I-95. Cover: Cash Cobain",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 100645,
       "name": "a love song for u",
       "url": "https://open.spotify.com/track/0qBw4RrX1AajcdVauDv2ED"
@@ -4714,6 +4714,28 @@
       "duration_ms": 202500,
       "name": "Bet it All",
       "url": "https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN"
+    },
+    {
+      "album": {
+        "name": "Betcha Can\u2019t",
+        "url": "https://open.spotify.com/album/3gIEFKQ4GM911VAUIUwCdR"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202465,
+      "name": "Betcha Can\u2019t",
+      "url": "https://open.spotify.com/track/6EARKaEpV7JnCCwVtR8Gfm"
     },
     {
       "album": {
@@ -9986,7 +10008,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 260040,
       "name": "Dark Nights - remix",
       "url": "https://open.spotify.com/track/05mU8pZ5AIaxyC45dteVyv"
@@ -10004,7 +10026,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -13017,6 +13039,28 @@
     },
     {
       "album": {
+        "name": "EW",
+        "url": "https://open.spotify.com/album/1K3ZUEe6BgzQlVT4vAMefV"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167616,
+      "name": "EW",
+      "url": "https://open.spotify.com/track/251hJE4Zf1E8WyeUBTsSAS"
+    },
+    {
+      "album": {
         "name": "Black Samson, the Bastard Swordsman",
         "url": "https://open.spotify.com/album/6SUyR6VCy646Z285Rimny3"
       },
@@ -15235,6 +15279,24 @@
     },
     {
       "album": {
+        "name": "FUNNY GAMES",
+        "url": "https://open.spotify.com/album/6PR5Y2akOwN6cjk9agPQxu"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113271,
+      "name": "FUNNY GAMES",
+      "url": "https://open.spotify.com/track/6Ec9cAVMJPqw7FfpSSEtGH"
+    },
+    {
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -16468,7 +16530,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 213034,
       "name": "Goin Down",
       "url": "https://open.spotify.com/track/72WJHJ1ktgtrOdDZZUSSGa"
@@ -17452,6 +17514,24 @@
       "duration_ms": 189152,
       "name": "Hard To Find",
       "url": "https://open.spotify.com/track/23bcfKipPSnWI4ftEteRud"
+    },
+    {
+      "album": {
+        "name": "Harlem Nights",
+        "url": "https://open.spotify.com/album/1sHKfZPF3Wb9kIicU65EtM"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Harlem Nights",
+      "url": "https://open.spotify.com/track/7M0VTVh4Zt4zMPdhKjMFqZ"
     },
     {
       "album": {
@@ -27642,7 +27722,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 195130,
       "name": "NO TRESPASSING",
       "url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
@@ -32041,6 +32121,36 @@
     },
     {
       "album": {
+        "name": "Rabbit",
+        "url": "https://open.spotify.com/album/46w322n0Rl8yGZiVtTCWtB"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "MAC SHAWN 100",
+          "url": "https://open.spotify.com/artist/5Kts0PTxYYY47DRxMq5iKQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206152,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/6ejYa5BRCvtggFmszLmojK"
+    },
+    {
+      "album": {
         "name": "Radioactive",
         "url": "https://open.spotify.com/album/047ykT34pfdijw5HeU02cy"
       },
@@ -36175,6 +36285,28 @@
     },
     {
       "album": {
+        "name": "SOLDIER",
+        "url": "https://open.spotify.com/album/44jOWpwxDWslB23CljxCEv"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Fire Choir",
+          "url": "https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126486,
+      "name": "SOLDIER",
+      "url": "https://open.spotify.com/track/2NmD5Hr101CZC5e7fqS7Fn"
+    },
+    {
+      "album": {
         "name": "Soldier of Fortune",
         "url": "https://open.spotify.com/album/4LxoLvOolBTN7Mp5NKsoOJ"
       },
@@ -39916,7 +40048,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 193613,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3KYi5b6Veee4Rgrety87ij"
@@ -40418,7 +40550,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 275959,
       "name": "Trippin on a Yacht",
       "url": "https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9"

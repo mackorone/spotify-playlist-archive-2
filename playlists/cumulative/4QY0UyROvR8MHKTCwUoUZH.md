@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨
 
-298 songs - 16 hr 45 min
+300 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-24 | 2026-01-31 |
 | [Heaven](https://open.spotify.com/track/0nOf80Plej41Dkmeoo8Rv7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:26 | 2026-05-27 |  |
 | [Hello Darlin](https://open.spotify.com/track/4RzLqL2zvMPj1BkRHWtH0G) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Hello Darlin](https://open.spotify.com/album/1RIyJXwicQDu3Nn2zJmENv) | 2:51 | 2025-07-18 | 2025-12-13 |
+| [Hers](https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Hers](https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5) | 3:32 | 2026-09-11 |  |
 | [Hoe je naar morgen kijkt](https://open.spotify.com/track/3zVTa00TojCTBF9SSNRq15) | [The Gunnies](https://open.spotify.com/artist/2KMJDmZmWFaVanDyUD9sZq) | [Hoe je naar morgen kijkt](https://open.spotify.com/album/7LfHscY8nyzHc4eco1DCU1) | 4:29 | 2026-03-20 | 2026-05-28 |
 | [holes](https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ) | [Colin Vincent](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [holes](https://open.spotify.com/album/0JO4jUHwMOmA2io1tUw4be) | 2:47 | 2025-07-18 | 2025-09-20 |
 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2026-04-10 |  |
@@ -229,6 +230,7 @@
 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-02-06 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-04-10 |  |
 | [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-04 |  |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/1U5UY674wcDu0FisO7SXXp) | 3:57 | 2026-09-11 |  |
 | [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 | 2025-08-09 |
 | [Socrates Smiled](https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq) | 3:07 | 2025-09-26 | 2026-02-07 |
 | [Somebody New](https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/7nPAHt752Iqi3noSMr9YcW) | 2:52 | 2025-07-18 | 2025-09-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: SEU Worship",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tasha Cobbs Leonard",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -5806,7 +5806,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183812,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5QSHsty6a2FdYP91iiBScF"
@@ -5998,6 +5998,28 @@
       "duration_ms": 202241,
       "name": "Faith Hope Love",
       "url": "https://open.spotify.com/track/1KpuHYjrDPTkAjaxxsSVDQ"
+    },
+    {
+      "album": {
+        "name": "FAITH OVER FAME",
+        "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        },
+        {
+          "name": "ALEX JEAN",
+          "url": "https://open.spotify.com/artist/7brYgBTh3JAtoer7kkxGY8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263930,
+      "name": "FAITH OVER FAME",
+      "url": "https://open.spotify.com/track/1CQt9JMSmVot3LHVvFIPMt"
     },
     {
       "album": {
@@ -18649,6 +18671,24 @@
     },
     {
       "album": {
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385109,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/7IPCuaIn3V5jgwQ0uly8rb"
+    },
+    {
+      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
       },
@@ -20834,6 +20874,24 @@
       "duration_ms": 252093,
       "name": "Run",
       "url": "https://open.spotify.com/track/0YRMoVqvnAGzDlnYF2yIWq"
+    },
+    {
+      "album": {
+        "name": "The Evergreen Season",
+        "url": "https://open.spotify.com/album/7vTRCOz0d6jK4bzGXgOh2I"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168091,
+      "name": "Runaway Heart",
+      "url": "https://open.spotify.com/track/0rs9AALYmrjP1vQarBJkPl"
     },
     {
       "album": {
@@ -25556,7 +25614,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 225666,
       "name": "There Is a God",
       "url": "https://open.spotify.com/track/7yRA2d7Cc6XjhfKNy95DBX"
@@ -29380,7 +29438,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 521360,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/6RhbpIePM17MPqCqDAtOrS"

@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 210234,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
@@ -2066,6 +2066,24 @@
       "duration_ms": 138039,
       "name": "Can't Stop Thinking",
       "url": "https://open.spotify.com/track/3fy44RQilkDlnq8uW7NLI0"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/1eztpMSRzNKtH7Zv941WaI"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "CARE FOR YOU",
+      "url": "https://open.spotify.com/track/1eK2PNpHBSp3ByGJ8jmKSK"
     },
     {
       "album": {
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
@@ -8891,6 +8909,24 @@
     },
     {
       "album": {
+        "name": "Never Get Enough",
+        "url": "https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235337,
+      "name": "Never Get Enough",
+      "url": "https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR"
+    },
+    {
+      "album": {
         "name": "Visage 6 (Never Loved)",
         "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
       },
@@ -10888,7 +10924,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 149428,
       "name": "Say No Prayer",
       "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
@@ -12498,6 +12534,28 @@
       "duration_ms": 236270,
       "name": "Tears (with Paige Cavell)",
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "album": {
+        "name": "Tears from Heaven",
+        "url": "https://open.spotify.com/album/7yEAQXN4HnmdwKulsMGElL"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Tears From Heaven (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3xEZUwiQQPV1jAxEx65dIp"
     },
     {
       "album": {

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
+      "album": {
         "name": "4Get The Girl",
         "url": "https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 160630,
       "name": "A Sunset In San Francisco",
       "url": "https://open.spotify.com/track/35FhdbTFTNjwL8lgJ8BHx2"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 203671,
       "name": "For You (Assiove)",
       "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Freak Like You",
+        "url": "https://open.spotify.com/album/6kBQGy0AC718gTnM7YZBWX"
+      },
+      "artists": [
+        {
+          "name": "ESSNCE",
+          "url": "https://open.spotify.com/artist/69VhscT7ZUKA4VcD5gjz7S"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Freak Like You",
+      "url": "https://open.spotify.com/track/4g3hwBUn3Q0OfLtQ48CeLp"
+    },
+    {
+      "album": {
         "name": "Freak No More",
         "url": "https://open.spotify.com/album/7CQd9RZt0pfon0nYZEMAtr"
       },
@@ -1914,7 +1950,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
@@ -2454,7 +2490,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 174633,
       "name": "Hause Muzica",
       "url": "https://open.spotify.com/track/2LLX5En5Wnpc2gWMEU2Ola"
@@ -2746,6 +2782,24 @@
       "duration_ms": 172470,
       "name": "I Got Bad Habits",
       "url": "https://open.spotify.com/track/6TNORJCPXK5P7OrXJ83rdi"
+    },
+    {
+      "album": {
+        "name": "I Need It",
+        "url": "https://open.spotify.com/album/65j6pmarVf8DkgT0u7q3Zs"
+      },
+      "artists": [
+        {
+          "name": "Mike Vale",
+          "url": "https://open.spotify.com/artist/7lBH4OmyQmpmrbp0Tl95pk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "I Need It",
+      "url": "https://open.spotify.com/track/1qNuWqyMOwQXpBoNPkiojK"
     },
     {
       "album": {
@@ -3144,7 +3198,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197419,
       "name": "Ke Tu Kiere",
       "url": "https://open.spotify.com/track/5e41siARVudhUUgs2e0Gkl"
@@ -4153,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/107PT5bOByEVIJHiJ2Z2s5"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/09aWumz1OqvfYYXRXIzHtX"
+    },
+    {
+      "album": {
         "name": "No Pares Sigue",
         "url": "https://open.spotify.com/album/22iju7e4JQZ69ibyQnSoC7"
       },
@@ -4444,7 +4516,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 202810,
       "name": "Party People - Basement Mix",
       "url": "https://open.spotify.com/track/72utzaDwnNKAGSZiWT75fy"
@@ -6549,6 +6621,28 @@
     },
     {
       "album": {
+        "name": "Werk It",
+        "url": "https://open.spotify.com/album/4PS2Ljot5CJDGmLdEGNjXo"
+      },
+      "artists": [
+        {
+          "name": "Sam Frandisco",
+          "url": "https://open.spotify.com/artist/2B9jyxYt9jWkqKTCJrVoz7"
+        },
+        {
+          "name": "Yomanda",
+          "url": "https://open.spotify.com/artist/1PyczlWcgtczHvUkXtUFdL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149523,
+      "name": "Werk It",
+      "url": "https://open.spotify.com/track/15tNFHKEeHrVbcuzeLpV6d"
+    },
+    {
+      "album": {
         "name": "WHAT?!",
         "url": "https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U"
       },
@@ -6658,6 +6752,28 @@
       "duration_ms": 164250,
       "name": "Words",
       "url": "https://open.spotify.com/track/6lDoavtdRl2cJqBUv4JKz4"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/6OzBSa3bIaJIfKpSKJPNVh"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "KTLN",
+          "url": "https://open.spotify.com/artist/0rdzYW8fvUupLSaZACd3lg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0aEgvwGnDTqKvgjqZHJlwN"
     },
     {
       "album": {

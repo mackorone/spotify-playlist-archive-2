@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> MC Iguinho CT, DJ Aladin GDB, DU'L, MC LUUCKY, MC Willian, MC GP  o e os maiores hits do país\. O que tá bombando tá aqui.
+> João Gustavo e Murilo, Grelo o e os maiores hits do país\. O que tá bombando tá aqui.
 
 764 songs - 1 day 14 hr 23 min
 

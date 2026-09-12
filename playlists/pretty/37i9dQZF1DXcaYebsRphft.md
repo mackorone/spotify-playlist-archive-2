@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 LE SSERAFIM TOUR 'PUREFLOW' IN JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,343 likes - 29 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,336 likes - 29 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 28 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
 | 29 | [Message from KIM CHAEWON](https://open.spotify.com/track/0mKieVUGL9I18jWtIEU8nz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Message from LE SSERAFIM](https://open.spotify.com/album/0sc8NAK6HGx4KxuMTMbsCO) | 0:14 |
 
-Snapshot ID: `AAAAAN/FiXZ5TwuEfk/s3q+MhM/oyv8v`
+Snapshot ID: `AAAAAMbh2OoWQN9jltyCLEPO1ewksmjS`

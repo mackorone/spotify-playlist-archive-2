@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "bailando en el antro con Pabllo Vittar y Urias hasta el amanecer ",
+  "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
   "name": "ANTRO ",
   "tracks": [
     {
@@ -1785,6 +1785,28 @@
     },
     {
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2cHAkos7LRbFde5mSLKh75"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163344,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1pRygbXXVJDGKeWHBdT9TE"
+    },
+    {
+      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -2838,7 +2860,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181782,
       "name": "CUANDO LLUEVA",
       "url": "https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE"
@@ -3981,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "ESTAS MELOD\u00cdAS",
+        "url": "https://open.spotify.com/album/2xJmqV3PVcUlBszisBGLWm"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "ESTAS MELOD\u00cdAS",
+      "url": "https://open.spotify.com/track/3PA4Pcq5zFNowx7KLPPE0I"
+    },
+    {
+      "album": {
         "name": "(((REXX)))",
         "url": "https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw"
       },
@@ -4120,7 +4160,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 123840,
       "name": "F MY X (I'M A MESS)",
       "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
@@ -4588,6 +4628,28 @@
       "duration_ms": 158013,
       "name": "Gr\u00e1bate",
       "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
+    },
+    {
+      "album": {
+        "name": "HAVE UR FUN",
+        "url": "https://open.spotify.com/album/5Czjl0CMoMN92CofexwWIN"
+      },
+      "artists": [
+        {
+          "name": "Molly Ritz",
+          "url": "https://open.spotify.com/artist/7gQWrhzKwjFfuN64k2bvVh"
+        },
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179972,
+      "name": "HAVE UR FUN",
+      "url": "https://open.spotify.com/track/2y81y5PhY0vNS5IddfunZQ"
     },
     {
       "album": {
@@ -11900,7 +11962,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 245669,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"

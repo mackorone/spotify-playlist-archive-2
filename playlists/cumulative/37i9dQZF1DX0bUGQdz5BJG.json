@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "HANDCRAFTED",
+        "url": "https://open.spotify.com/album/5Dgu5kZVxpaI7J3yt5zlv1"
+      },
+      "artists": [
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206407,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/4okE1ocHrjsflJe2wAGriy"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/6SRLvZFZUdLEtTUbY6cD6l"
       },
@@ -6237,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "Beer Wants Me",
+        "url": "https://open.spotify.com/album/4DVFYLiPuoo8I1eJmWj94G"
+      },
+      "artists": [
+        {
+          "name": "Ryan and Rory",
+          "url": "https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Beer Wants Me",
+      "url": "https://open.spotify.com/track/5HCOnb3OZMS6yn6UGFm161"
+    },
+    {
+      "album": {
         "name": "Beers In It",
         "url": "https://open.spotify.com/album/19ypgDTLia9odLCVsFYtHk"
       },
@@ -6392,7 +6428,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 220100,
       "name": "Beneath The Pines",
       "url": "https://open.spotify.com/track/45NQCPM939nOTrPqxiR9N3"
@@ -7956,6 +7992,24 @@
       "duration_ms": 188855,
       "name": "Blue Collar",
       "url": "https://open.spotify.com/track/2VgDL5lHAlfANZWX62t84S"
+    },
+    {
+      "album": {
+        "name": "Blue Collar",
+        "url": "https://open.spotify.com/album/4oLMGPMxKuw1Ag5JJpcmZy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169246,
+      "name": "Blue Collar",
+      "url": "https://open.spotify.com/track/0tGdlyVYmwrpgwRijjR3jv"
     },
     {
       "album": {
@@ -10150,7 +10204,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 227287,
       "name": "Busy",
       "url": "https://open.spotify.com/track/6zK1TQihx5yCWtGpHduJh1"
@@ -10586,7 +10640,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 195933,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2QhXhl57QFUgrbzCXcKmvy"
@@ -11730,7 +11784,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 193703,
       "name": "Chasing Clouds",
       "url": "https://open.spotify.com/track/1qnFlL4r260iNvGRcKgmgY"
@@ -13536,7 +13590,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 195300,
       "name": "Couldn't Be Us",
       "url": "https://open.spotify.com/track/5DQ7e8lC1AetTUI9jcUDoG"
@@ -13822,6 +13876,24 @@
       "duration_ms": 140430,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP"
+    },
+    {
+      "album": {
+        "name": "Country Girl",
+        "url": "https://open.spotify.com/album/3IqsXX1VKs3vtJMMATVBR4"
+      },
+      "artists": [
+        {
+          "name": "Callie Twisselman",
+          "url": "https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/0cszuEHWRp8spiv6wX47eL"
     },
     {
       "album": {
@@ -16138,7 +16210,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177640,
       "name": "Did I Stutter?",
       "url": "https://open.spotify.com/track/04OZ0pAQsi1ZTkCSkzNM0o"
@@ -16762,7 +16834,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 295243,
       "name": "Distance to Close",
       "url": "https://open.spotify.com/track/64KQdbkSWBRTLtj2O3Geoj"
@@ -18691,6 +18763,24 @@
     },
     {
       "album": {
+        "name": "Drink Drink Drink",
+        "url": "https://open.spotify.com/album/4Da98Hysz2nXZmjDLDVab9"
+      },
+      "artists": [
+        {
+          "name": "Will Moseley",
+          "url": "https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181094,
+      "name": "Drink Drink Drink",
+      "url": "https://open.spotify.com/track/0gJDjjCcbJovwyeB3W9qxO"
+    },
+    {
+      "album": {
         "name": "Drink Em Up",
         "url": "https://open.spotify.com/album/3wgOnaECqpgR1vGJ894llo"
       },
@@ -19462,7 +19552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 238495,
       "name": "Dusty Boots",
       "url": "https://open.spotify.com/track/2Bihu3SURmuhoprSSbAlDA"
@@ -20172,6 +20262,24 @@
       "duration_ms": 215331,
       "name": "Even the Stars",
       "url": "https://open.spotify.com/track/4VUI8ZaB2FxFvFYhG2XOO7"
+    },
+    {
+      "album": {
+        "name": "Even the Stars Burn Out",
+        "url": "https://open.spotify.com/album/24JcPXEB6HaIhVJM7TCczN"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "Even the Stars Burn Out",
+      "url": "https://open.spotify.com/track/5gGiMbN3lxmnrQJtVEG1kJ"
     },
     {
       "album": {
@@ -29757,6 +29865,24 @@
     },
     {
       "album": {
+        "name": "Hey Honey",
+        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193679,
+      "name": "Hey Honey",
+      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
+    },
+    {
+      "album": {
         "name": "Life Upside Down EP",
         "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
       },
@@ -29934,6 +30060,24 @@
       "duration_ms": 220905,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/4Cy2wN2lXiNC9lS7DoqGaW"
+    },
+    {
+      "album": {
+        "name": "High Ground",
+        "url": "https://open.spotify.com/album/7iBQz5AGfm6v7wYTcNasLU"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187277,
+      "name": "High Ground",
+      "url": "https://open.spotify.com/track/3iLrncdOg9k7ktYBwnTtlZ"
     },
     {
       "album": {
@@ -36707,6 +36851,24 @@
     },
     {
       "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/6rRwiHrY6xxXSOLK3O9mDC"
+      },
+      "artists": [
+        {
+          "name": "Logan Crosby",
+          "url": "https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "it doesn't matter, i don't care!",
+      "url": "https://open.spotify.com/track/5bA6bx9Hi3yRJ6gJ6ZCEgP"
+    },
+    {
+      "album": {
         "name": "It Only Takes One",
         "url": "https://open.spotify.com/album/0CWYQOypJsplWjMvGr8AwA"
       },
@@ -38398,7 +38560,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 223851,
       "name": "Know It All",
       "url": "https://open.spotify.com/track/0GY6UR9Hz21w9fYL1bVhma"
@@ -38586,6 +38748,24 @@
       "duration_ms": 164973,
       "name": "Last Man In Tennessee",
       "url": "https://open.spotify.com/track/1aU5rf7B7LJgp6oKqKwZPM"
+    },
+    {
+      "album": {
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/3tN49lrP5tezTbGWPr1zaO"
+      },
+      "artists": [
+        {
+          "name": "Luke Rob",
+          "url": "https://open.spotify.com/artist/6xVnksnC8qln4WUd7Y3muQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188277,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/1X8YL8YDZPNhO81QHHNfJF"
     },
     {
       "album": {
@@ -40073,6 +40253,24 @@
     },
     {
       "album": {
+        "name": "Lie Like That",
+        "url": "https://open.spotify.com/album/1iTRu9sGdHXxW5xNiY4vMg"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "Lie Like That",
+      "url": "https://open.spotify.com/track/661jaBk2jO8xrQfkCK5oNo"
+    },
+    {
+      "album": {
         "name": "LIE TO ME",
         "url": "https://open.spotify.com/album/6IjYkGUSlK9x0GH4DBbHeE"
       },
@@ -40958,7 +41156,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 259527,
       "name": "Little Bit More",
       "url": "https://open.spotify.com/track/2FI7pSm8iAfgZ3T3ZJug2K"
@@ -42252,7 +42450,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 165056,
       "name": "Looks That Follow",
       "url": "https://open.spotify.com/track/0kyZnosT01Su5Vwih6qALE"
@@ -48220,7 +48418,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 197343,
       "name": "Never a Right Time",
       "url": "https://open.spotify.com/track/34HdbAuj9p9zEEXfsXTu0N"
@@ -48524,6 +48722,24 @@
       "duration_ms": 152761,
       "name": "NEVER TELL YOU NO",
       "url": "https://open.spotify.com/track/2ulgNwGM87DfrzLO1Qywbw"
+    },
+    {
+      "album": {
+        "name": "Never Think About the Morning",
+        "url": "https://open.spotify.com/album/1cR09HRRfP4yKbSrwrFYmU"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224210,
+      "name": "Never Think About the Morning",
+      "url": "https://open.spotify.com/track/1g6d3zLtdsejoXT3RBLO7W"
     },
     {
       "album": {
@@ -49372,6 +49588,24 @@
       "duration_ms": 183816,
       "name": "No One\u2019s Gonna Love You (Like I Do)",
       "url": "https://open.spotify.com/track/77tIVr0Viqh6jUyNdW5XEz"
+    },
+    {
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/5X6xbh6sj11fbmXeZIxudZ"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189352,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/7vb8bUKIjSvxnb97EmQxAI"
     },
     {
       "album": {
@@ -51718,6 +51952,24 @@
       "duration_ms": 182013,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt"
+    },
+    {
+      "album": {
+        "name": "ONE STORY HOUSE",
+        "url": "https://open.spotify.com/album/6TyHDo1RoeD2ineKighQ6H"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203860,
+      "name": "ONE STORY HOUSE",
+      "url": "https://open.spotify.com/track/28YEKsksvX8B6C7DmUZ0D4"
     },
     {
       "album": {
@@ -56546,7 +56798,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181519,
       "name": "Right By The River",
       "url": "https://open.spotify.com/track/2sXdlZ6KopSjoWuiLOjmg4"
@@ -57884,7 +58136,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 214666,
       "name": "same God",
       "url": "https://open.spotify.com/track/7pbYNGwAh7FhyTIEYDznXD"
@@ -65418,7 +65670,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177695,
       "name": "Take A Drink",
       "url": "https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm"
@@ -65624,7 +65876,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159725,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6kAdDYiyfO2giSqyrQ9mYq"
@@ -66878,6 +67130,24 @@
       "duration_ms": 241686,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
+    },
+    {
+      "album": {
+        "name": "Texas Angel",
+        "url": "https://open.spotify.com/album/3WkNVOx6QXbKzMyQ41Znb1"
+      },
+      "artists": [
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226525,
+      "name": "Texas Angel",
+      "url": "https://open.spotify.com/track/7BRiliFWes3v23LifgS5MN"
     },
     {
       "album": {
@@ -68620,7 +68890,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177200,
       "name": "The Rough",
       "url": "https://open.spotify.com/track/4T0xKQwYGUBNL2fK3yZCDZ"
@@ -69362,6 +69632,24 @@
       "duration_ms": 169551,
       "name": "THERE SHE GOES",
       "url": "https://open.spotify.com/track/19xmfew0zk0WMUIT0Ciltb"
+    },
+    {
+      "album": {
+        "name": "There Was A Time",
+        "url": "https://open.spotify.com/album/6IhfYbVjUxPFx2O3mpnJ9s"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244251,
+      "name": "There Was A Time",
+      "url": "https://open.spotify.com/track/4397Y7iZG3TYB6Xu5Ayus3"
     },
     {
       "album": {
@@ -71366,6 +71654,24 @@
       "duration_ms": 198199,
       "name": "Tonight I Need You",
       "url": "https://open.spotify.com/track/1X35vAv8UkaCx7iuu0gRfd"
+    },
+    {
+      "album": {
+        "name": "Country With Heart (Part Two)",
+        "url": "https://open.spotify.com/album/1WGkMAwadlQ8eSEcVg3G2v"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207671,
+      "name": "Tonight Talkin'",
+      "url": "https://open.spotify.com/track/2vLoAW519vrNeOIXvkAIlw"
     },
     {
       "album": {
@@ -74036,6 +74342,24 @@
       "duration_ms": 206674,
       "name": "Wasting My Time",
       "url": "https://open.spotify.com/track/5R2hi83zLeptlrrXrK8XgZ"
+    },
+    {
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/3g2YIJRTtqyPhDcUPTgIrT"
+      },
+      "artists": [
+        {
+          "name": "Austin Mackay",
+          "url": "https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/0v3NVNmc2OTq1jrXYvW6R0"
     },
     {
       "album": {

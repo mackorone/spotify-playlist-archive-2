@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 137,170 likes - 236 songs - 10 hr 11 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 137,262 likes - 238 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,5 +244,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 234 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 235 | [Rhythm Of Your Soul](https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Rhythm Of Your Soul](https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14) | 2:29 |
 | 236 | [Long Night](https://open.spotify.com/track/4dXWQ5ND3H6EKhdaB5vHmY) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Wherever I Roam](https://open.spotify.com/album/38DIyr3PYlMEHoqMdOtavi) | 2:24 |
+| 237 | [Show Me How](https://open.spotify.com/track/1Dh3bwCPqlAdgALAP5mUB5) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Show Me How](https://open.spotify.com/album/4tRhcvod59P4Wt7Fv7HSsz) | 3:16 |
+| 238 | [oceanside](https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Obren](https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB) | [oceanside](https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t) | 3:02 |
 
-Snapshot ID: `AABV1mNuChEzz4hUtzsLVcdKgRhHM0xI`
+Snapshot ID: `AABV2BnHeswheWWI51+s/JQjftqyEkjW`

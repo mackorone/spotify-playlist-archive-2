@@ -15087,6 +15087,24 @@
     },
     {
       "album": {
+        "name": "QUIET HOURS",
+        "url": "https://open.spotify.com/album/31uKmMXQhrMdRkz6mMNxGv"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154842,
+      "name": "QUIET HOURS",
+      "url": "https://open.spotify.com/track/4UjxY6tCUTkgidvgNlNCOV"
+    },
+    {
+      "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
       },
@@ -19382,24 +19400,6 @@
       "duration_ms": 115654,
       "name": "Toy",
       "url": "https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K"
-    },
-    {
-      "album": {
-        "name": "QUIET HOURS",
-        "url": "https://open.spotify.com/album/31uKmMXQhrMdRkz6mMNxGv"
-      },
-      "artists": [
-        {
-          "name": "OLIIVER",
-          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
-        }
-      ],
-      "date_added": "2026-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4UjxY6tCUTkgidvgNlNCOV"
     },
     {
       "album": {

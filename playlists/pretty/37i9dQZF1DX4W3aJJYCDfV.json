@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Ezra Collective, Rachel Chinouriri, Slayyyter, Unknown T and more! ",
-  "num_followers": 1036383,
+  "num_followers": 1037135,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHelrlUhAoZM3MMmozyoFYJm0Y6n",
+  "snapshot_id": "AAAAACg5T4a3WZ2/Nm4wWD8kChUxggzY",
   "tracks": [
     {
       "added_at": "2026-09-10 23:00:29",
@@ -55,6 +55,26 @@
       "duration_ms": 199696,
       "name": "crank 2",
       "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE"
+    },
+    {
+      "added_at": "2026-09-10 23:00:29",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "added_at": "2026-09-10 23:00:29",
@@ -329,6 +349,22 @@
       "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
+      "added_at": "2026-09-11 08:55:35",
+      "album": {
+        "name": "Bird On The Wire",
+        "url": "https://open.spotify.com/album/11OO2KVwuisZSnJ2ead4Xn"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 244925,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/48ZszrgXVC0llXhFGt5v8a"
+    },
+    {
       "added_at": "2026-09-10 23:00:29",
       "album": {
         "name": "Arsenal",
@@ -395,6 +431,22 @@
       "duration_ms": 166270,
       "name": "Essa Ta Quente (feat. Skrillex)",
       "url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4"
+    },
+    {
+      "added_at": "2026-09-11 08:51:47",
+      "album": {
+        "name": "Fire In The Booth",
+        "url": "https://open.spotify.com/album/4nJoo0KMh4ALT2UL57f6D8"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Fire In The Booth",
+      "url": "https://open.spotify.com/track/1yIuPXnyODACJxaX9DjCuY"
     },
     {
       "added_at": "2026-09-10 23:00:29",
@@ -532,8 +584,8 @@
           "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 142608,
+      "name": "Run It Up",
       "url": "https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA"
     },
     {
@@ -1071,6 +1123,22 @@
     {
       "added_at": "2026-09-10 23:00:29",
       "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+    },
+    {
+      "added_at": "2026-09-10 23:00:29",
+      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
       },
@@ -1164,8 +1232,8 @@
           "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 13",
+      "duration_ms": 201015,
+      "name": "Another thing that I'm supposed to do (and I don't want to)",
       "url": "https://open.spotify.com/track/2wZdXJPisaJpclbl9jQLMJ"
     },
     {
@@ -1384,8 +1452,8 @@
           "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 232760,
+      "name": "Real Life",
       "url": "https://open.spotify.com/track/5KM9Ngv60m6z4doNnGEGP0"
     },
     {

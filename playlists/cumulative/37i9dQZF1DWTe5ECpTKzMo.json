@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Russo, Luis R Conriquez, Millonario y Esau Ortiz dominando.",
+  "description": "La tierra del Rap de oro puro. Angel Almaguer y Omar Camacho dominando.",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 325714,
       "name": "6 en Mi Rollie",
       "url": "https://open.spotify.com/track/1I2Wp33s75Kq0qeAyjdqkl"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 396705,
       "name": "Alzypher Alzada x Rich Vagos",
       "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
@@ -676,6 +676,28 @@
       "duration_ms": 165714,
       "name": "Categor\u00eda 5 / Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj"
+    },
+    {
+      "album": {
+        "name": "Cayman",
+        "url": "https://open.spotify.com/album/3I3CMQq9XKxOmPQoBgkKf8"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "LOBO66",
+          "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Cayman",
+      "url": "https://open.spotify.com/track/58tJeVJ1pwwCnzPCefB7FX"
     },
     {
       "album": {
@@ -1952,7 +1974,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 170000,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/2axhW4wllSrMM9yRIRjGdE"
@@ -2040,6 +2062,24 @@
       "duration_ms": 200869,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/1VjnloX6zB43pXp7QehKvT"
+    },
+    {
+      "album": {
+        "name": "MARTINI",
+        "url": "https://open.spotify.com/album/5IoggXrJ0Yor4nccvXEEOz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "MARTINI",
+      "url": "https://open.spotify.com/track/6GB0q7h7UzxWwmSq7SifoU"
     },
     {
       "album": {
@@ -2927,6 +2967,28 @@
     },
     {
       "album": {
+        "name": "Quema y Quema",
+        "url": "https://open.spotify.com/album/2h6iKRTJLv0iVB954wxgLw"
+      },
+      "artists": [
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        },
+        {
+          "name": "Angel Vega",
+          "url": "https://open.spotify.com/artist/0oRS41S5koQFWikYV5EKrZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "Quema y Quema",
+      "url": "https://open.spotify.com/track/7LnBXKDTzNdxZQXf2aDYYV"
+    },
+    {
+      "album": {
         "name": "Qui\u00faboles Que!",
         "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
@@ -2968,6 +3030,28 @@
       "duration_ms": 260631,
       "name": "Roberto G\u00f3mez Bola\u00f1os",
       "url": "https://open.spotify.com/track/7pXwx7adDm53P1mHDcz21Y"
+    },
+    {
+      "album": {
+        "name": "Romstar",
+        "url": "https://open.spotify.com/album/2nQ3FI7rCyPAKmwQIMMEu9"
+      },
+      "artists": [
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Romstar",
+      "url": "https://open.spotify.com/track/6jgmFf28xTkAVBWzciMD8C"
     },
     {
       "album": {
@@ -3044,7 +3128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 171655,
       "name": "SAYAYIN",
       "url": "https://open.spotify.com/track/2MQ3Ufa4AMZeaAuyxlH3wE"

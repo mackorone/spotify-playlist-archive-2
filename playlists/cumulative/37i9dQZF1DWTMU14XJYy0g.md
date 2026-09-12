@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> 📸 Mujer Cebra
+> Emblemas de nuestro rock 📸 Las Pelotas
 
-465 songs - 1 day 4 hr 45 min
+468 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bendiciones](https://open.spotify.com/track/6lZg6VriCg04QHGVH3Oby4) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Zafarrancho](https://open.spotify.com/album/2surQhX9d3UqSZ2LW4ZhUb) | 2:44 | 2026-07-31 |  |
 | [Bicho de Ciudad \- Spotify Sessions](https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 4:46 | 2026-02-04 | 2026-08-01 |
 | [Bigote](https://open.spotify.com/track/1UH9NTgFF6woodUUm8uqPF) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Bigote](https://open.spotify.com/album/45lR1Wb5koRQjb0P0WoRkL) | 3:31 | 2024-09-12 | 2024-10-19 |
+| [Bolsillo de Atrás](https://open.spotify.com/track/6iGmKuwZPvWNagnNGi2RRq) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Bolsillo de Atrás](https://open.spotify.com/album/51lqhPU90nJYagSOsCZXXa) | 3:32 | 2026-09-11 |  |
 | [Botella](https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Botella](https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi) | 2:12 | 2024-08-23 | 2025-05-06 |
 | [BOTÓN DE PÁNICO](https://open.spotify.com/track/1s9gjm76CMBiiiBhXLOoGj) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Pruebas de Contacto](https://open.spotify.com/album/6UMI4aH8659Xm0U4Bg0us1) | 4:37 | 2026-07-31 |  |
 | [Buen dia otra vez](https://open.spotify.com/track/0ltdWScdZexaPqkpmYlzp9) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Ladrones del Silencio](https://open.spotify.com/album/28ziAOccefr5GomoW4YoVV) | 3:20 | 2025-03-28 | 2025-05-17 |
@@ -99,6 +100,7 @@
 | [Cotillón](https://open.spotify.com/track/34raiVdzCIF5JvhHidN6mN) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:39 | 2025-05-16 | 2026-08-01 |
 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 | 2025-01-31 | 2025-03-08 |
 | [Cuando Me Muera](https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame](https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP) | 2:57 | 2025-07-11 |  |
+| [Cuando Ves Alrededor](https://open.spotify.com/track/074a6TTcnTwOtdkwYsbNRA) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Cuando Ves Alrededor](https://open.spotify.com/album/0V2zNNIXFnSlhdfjVpJtuq) | 4:04 | 2026-09-11 |  |
 | [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 | 2024-04-12 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 | 2025-05-17 |
 | [Dale Angelito](https://open.spotify.com/track/3oEGswg4NkoxtoDyDshBCn) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Dale Angelito](https://open.spotify.com/album/45H9ccDS5ocqhQU75km44B) | 4:10 | 2024-12-20 | 2025-04-26 |
@@ -393,6 +395,7 @@
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 | 2023-09-27 |
 | [SIBERIA](https://open.spotify.com/track/4FUbTQsBDmoO99i1TXwKeK) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 3:54 | 2022-06-24 | 2023-04-01 |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-07 | 2024-09-13 |
+| [Sin la Piel](https://open.spotify.com/track/5qPNGxwfatEJmtISRGErwP) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin La Piel](https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP) | 3:41 | 2026-09-11 |  |
 | [Sin Rumbo](https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 3:24 | 2025-02-21 | 2025-09-13 |
 | [Sinoca](https://open.spotify.com/track/4NydZzgr1kCGWgUggqdwGH) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/57XHrKuNCRX2NEVx3RcsoX) | 3:35 | 2024-09-20 |  |
 | [Sola en los Bares](https://open.spotify.com/track/0xajGYgwjkBTz2rFAQlFkN) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Sola en los Bares](https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9) | 3:26 | 2022-12-02 | 2025-09-13 |

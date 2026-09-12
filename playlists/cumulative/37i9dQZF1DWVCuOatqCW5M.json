@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Noor Chahal, Amit Trivedi, Anurag Saikia and more.",
+  "description": "Latest music from Prateeksha Srivastava, Jubin Nautiyal, Neeti Mohan and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 175942,
       "name": "Aadat",
       "url": "https://open.spotify.com/track/2qnZVR8W9RiWIk43Gc609b"
@@ -2700,6 +2700,32 @@
       "duration_ms": 240000,
       "name": "Asar Tera Kaisa",
       "url": "https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6"
+    },
+    {
+      "album": {
+        "name": "Asha Forever",
+        "url": "https://open.spotify.com/album/61ToZYnDCszMR9m9JNoDZF"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304756,
+      "name": "Asha Forever",
+      "url": "https://open.spotify.com/track/1ur1Ez1nwu7JOB9H9Dg6qk"
     },
     {
       "album": {
@@ -6382,7 +6408,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 226807,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6gEokWAxetyVwWUTKKp20g"
@@ -7850,6 +7876,28 @@
       "duration_ms": 169011,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/5qCJMsO0GDpk0q6uN3bsmH"
+    },
+    {
+      "album": {
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el"
+      },
+      "artists": [
+        {
+          "name": "POPCORN Inc.",
+          "url": "https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
     },
     {
       "album": {
@@ -12372,7 +12420,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 164745,
       "name": "Gaya Kaam Se",
       "url": "https://open.spotify.com/track/5K3KAyvqE82rQ7Y4Fz18DM"
@@ -12626,6 +12674,36 @@
       "duration_ms": 183915,
       "name": "Ghumakkad",
       "url": "https://open.spotify.com/track/5Be4TYOKBAIIhMImPWNDgO"
+    },
+    {
+      "album": {
+        "name": "Ghumela",
+        "url": "https://open.spotify.com/album/07McxXJglDnQPt4svK5qWE"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Arun rao",
+          "url": "https://open.spotify.com/artist/04uRq6vq7OOAIrcFYAy1S5"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158584,
+      "name": "Ghumela",
+      "url": "https://open.spotify.com/track/19uPKWgnHUFkceh9fQUn21"
     },
     {
       "album": {
@@ -16160,7 +16238,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 289411,
       "name": "Ishq Tamasha",
       "url": "https://open.spotify.com/track/4xp2oaVZ4gjhV5wKepTilN"
@@ -16294,7 +16372,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 199205,
       "name": "Iss Baarish Mein",
       "url": "https://open.spotify.com/track/45SRRK89L134g875lh5cn4"
@@ -18698,7 +18776,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163066,
       "name": "Jooti Kasoori",
       "url": "https://open.spotify.com/track/20F3X1hXZNmJ46CuTSudJm"
@@ -25559,6 +25637,32 @@
     },
     {
       "album": {
+        "name": "Mere Saath Chal",
+        "url": "https://open.spotify.com/album/33S35JKey4JmAKdFVx44mn"
+      },
+      "artists": [
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Nivedita Bhargava",
+          "url": "https://open.spotify.com/artist/4CDYuIl8Pz3WwHkUcr9AiB"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Mere Saath Chal",
+      "url": "https://open.spotify.com/track/3Msr7VieCCUeCqKQxZw3oS"
+    },
+    {
+      "album": {
         "name": "Mere Sanam Ke Khwaab",
         "url": "https://open.spotify.com/album/2XoOzgwVUgujp5pgdZo707"
       },
@@ -26538,6 +26642,28 @@
       "duration_ms": 189666,
       "name": "Mulaqat Baki Hai",
       "url": "https://open.spotify.com/track/3uIH2zctyh263EVMj7u9UI"
+    },
+    {
+      "album": {
+        "name": "Mulaqatein",
+        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243851,
+      "name": "Mulaqatein",
+      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
     },
     {
       "album": {
@@ -36962,7 +37088,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 224285,
       "name": "Tera Naam",
       "url": "https://open.spotify.com/track/239bznfUwyrrkXf2hLiTjz"
@@ -37344,6 +37470,32 @@
       "duration_ms": 209777,
       "name": "Tere Bin Laage",
       "url": "https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9"
+    },
+    {
+      "album": {
+        "name": "Tere Bin Mera Haal",
+        "url": "https://open.spotify.com/album/48L6tIMyePacVc5VNR6w65"
+      },
+      "artists": [
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Vish Music",
+          "url": "https://open.spotify.com/artist/3NH2atUk3dZzUFOKqeqduj"
+        },
+        {
+          "name": "Sushant Shankar",
+          "url": "https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Tere Bin Mera Haal",
+      "url": "https://open.spotify.com/track/0EPnm2wKGt43fyTFGMV3zP"
     },
     {
       "album": {
@@ -38238,6 +38390,24 @@
       "duration_ms": 185684,
       "name": "Tevar",
       "url": "https://open.spotify.com/track/0nnykIyXZzwPJYhiJBw4hN"
+    },
+    {
+      "album": {
+        "name": "Tham Jaa",
+        "url": "https://open.spotify.com/album/7CFGrIL73FppET5Jf9kote"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321664,
+      "name": "Tham Jaa",
+      "url": "https://open.spotify.com/track/6pUuLW4SsEWg6KSFUQdTwC"
     },
     {
       "album": {
@@ -41918,6 +42088,32 @@
       "duration_ms": 208945,
       "name": "Waade",
       "url": "https://open.spotify.com/track/67OAbfn2fUMsVWQX8sWbUC"
+    },
+    {
+      "album": {
+        "name": "Waade Saare",
+        "url": "https://open.spotify.com/album/7FGpdKc4qUCbhmDUbMxJEK"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Shubham Srivastava",
+          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248031,
+      "name": "Waade Saare",
+      "url": "https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi"
     },
     {
       "album": {

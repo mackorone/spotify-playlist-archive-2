@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 124554,
       "name": "I'm Never Gonna R.I.P.",
       "url": "https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0"
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Miami For The Weekend",
+        "url": "https://open.spotify.com/album/3ieZMVI0MkSnHS5eIacQs7"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204663,
+      "name": "Miami For The Weekend",
+      "url": "https://open.spotify.com/track/3oRSvIPju1cKeATnqRNeoJ"
+    },
+    {
+      "album": {
         "name": "Michael Scott Hubiera Entendido Exactamente C\u00f3mo Me Siento En Este Momento",
         "url": "https://open.spotify.com/album/2OAjGoxV48ezoPgFjJCjM5"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 274061,
       "name": "Mr Charm",
       "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
@@ -2003,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
+    },
+    {
+      "album": {
         "name": "Paranoid (2009 Remastered Version)",
         "url": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
       },
@@ -2018,6 +2058,24 @@
       "duration_ms": 168440,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV"
+    },
+    {
+      "album": {
+        "name": "Patito Feo",
+        "url": "https://open.spotify.com/album/45IPQiM0fxJAxskPj19AFg"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154715,
+      "name": "Patito Feo",
+      "url": "https://open.spotify.com/track/0gcP9NuauYDnzE85BOBbCd"
     },
     {
       "album": {
@@ -2936,7 +2994,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 151052,
       "name": "Viste Mister",
       "url": "https://open.spotify.com/track/149dGPibHqV1ypIQWcXjim"

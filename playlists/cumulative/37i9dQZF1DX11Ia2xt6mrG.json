@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276585,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
+    },
+    {
+      "album": {
         "name": "All Nite",
         "url": "https://open.spotify.com/album/3Vo5jZyPTCs1iBW9eZhetu"
       },
@@ -532,7 +554,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 297230,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
@@ -4375,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Into Fire",
+        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
+      },
+      "artists": [
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190593,
+      "name": "Into Fire",
+      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
+    },
+    {
+      "album": {
         "name": "Inv\u00edtame A Un Caf\u00e9",
         "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
       },
@@ -5408,7 +5448,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 170314,
       "name": "Luces Rojas",
       "url": "https://open.spotify.com/track/560CojbXKvoTbT3rgdkzeH"
@@ -5766,7 +5806,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 211903,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
@@ -8482,6 +8522,32 @@
       "duration_ms": 198515,
       "name": "Si ma\u00f1ana me muero",
       "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"
+    },
+    {
+      "album": {
+        "name": "Silence After You",
+        "url": "https://open.spotify.com/album/2PxOgFvT9zQiV9InDN1HL1"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "BELCAST",
+          "url": "https://open.spotify.com/artist/4fSRUQ3o9t33hv8MFyGo7Z"
+        },
+        {
+          "name": "Velabeats",
+          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275625,
+      "name": "Silence After You",
+      "url": "https://open.spotify.com/track/1Nsia6EMyJzRK5kPB1xisj"
     },
     {
       "album": {

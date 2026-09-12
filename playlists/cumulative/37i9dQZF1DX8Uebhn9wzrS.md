@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,528 songs - 4 day 0 hr 9 min
+2,529 songs - 4 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2464,6 +2464,7 @@
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-22 | 2022-11-12 |
 | [Where are we now??](https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Where are we now??](https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi) | 1:10 | 2023-11-24 | 2025-11-26 |
 | [Where Is My Coffee](https://open.spotify.com/track/4rXf8PFJS58qtHpqo3BMZD) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Where Is My Coffee](https://open.spotify.com/album/0sNbkS3kL6ustJVGnEs8ss) | 3:10 | 2023-01-06 | 2023-04-04 |
+| [Where We Wander](https://open.spotify.com/track/5zQHpd8xbB4JfEpelH0PEZ) | [Second Cup](https://open.spotify.com/artist/6K4cUa3X1A8IxOyuzwYlBz) | [Where We Wander](https://open.spotify.com/album/0ad90ri8Zih5XANHdfIAs5) | 2:09 | 2026-09-11 |  |
 | [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2022-10-28 | 2024-01-10 |
 | [wherever you go](https://open.spotify.com/track/5gTRMe7rtIMxFRVMzJuP3T) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [wherever you go](https://open.spotify.com/album/1qaGcGJNOSjLCQxUrJrOWG) | 1:55 | 2024-12-06 |  |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2022-04-15 | 2022-07-22 |

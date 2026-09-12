@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-597 songs - 1 day 8 hr 36 min
+598 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Missing You](https://open.spotify.com/track/6KSo1lI5GUtlvksaDWM7ZO) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Missing You](https://open.spotify.com/album/71EAlAtXWnvR0bFAZE2Lv2) | 3:27 | 2020-09-13\* | 2021-08-14 |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2021-12-17 | 2022-07-23 |
 | [Moment \- Mahmut Orhan Remix](https://open.spotify.com/track/3M6U1RZt2xU6GuVk80pIO0) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Moment \(Mahmut Orhan Remix\)](https://open.spotify.com/album/5aBDwb8E9GJvQruSw0eyrx) | 3:50 | 2022-07-22 | 2026-08-22 |
+| [Moments](https://open.spotify.com/track/0WiiZJv9f9LE8j3P1g0gLf) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Moments](https://open.spotify.com/album/6mZfDXJIe1CdRQ5PmsSMZL) | 3:34 | 2026-09-11 |  |
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Moments \(Ben Böhmer & Nils Hoffmann Remix\)](https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc) | 4:10 | 2021-03-06 |  |
 | [Mood Song](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo) | [Why U So](https://open.spotify.com/artist/4oxwokKRwskQbaEFsCHyeS), [Lua Sola](https://open.spotify.com/artist/66uLLued7K4dTOOnUQ3Knl) | [Mood Song](https://open.spotify.com/album/0NQgDxmm1VEk9WQqwx1875) | 2:24 | 2025-09-12 |  |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2021-11-11 | 2025-07-31 |

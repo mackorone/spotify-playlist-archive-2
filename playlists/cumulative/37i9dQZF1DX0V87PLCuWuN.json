@@ -161,6 +161,36 @@
     },
     {
       "album": {
+        "name": "Verdi",
+        "url": "https://open.spotify.com/album/362crzd2HjuCyhduir7Pwv"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443360,
+      "name": "Aida, Act I: Ritorna vincitor!",
+      "url": "https://open.spotify.com/track/4U7f0ckgBtGwTenjg9SsRu"
+    },
+    {
+      "album": {
         "name": "Verismo",
         "url": "https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ"
       },

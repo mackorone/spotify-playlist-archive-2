@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 177333,
       "name": "Ando (bye, ya me voy\u2026)",
       "url": "https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 170056,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds"
@@ -984,6 +984,24 @@
       "duration_ms": 226500,
       "name": "El Amor Se Fue de Repente",
       "url": "https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m"
+    },
+    {
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/6kBf6ECHvQFuQjpxpIHIZM"
+      },
+      "artists": [
+        {
+          "name": "Flor de Lava",
+          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176251,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/0MbKlrKTF6UoUiGoGKclk3"
     },
     {
       "album": {

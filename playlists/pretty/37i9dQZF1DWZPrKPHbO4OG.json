@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39100,
+  "num_followers": 39117,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFLA7kGGTO6IS7RRi4SSWSs8bDK",
+  "snapshot_id": "AAAAAKlOgg8SAMy9yK3JZuZsDIS7oto2",
   "tracks": [
     {
       "added_at": "2026-08-04 09:03:36",
@@ -143,26 +143,18 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Madanmanjiri (From \"Phullwanti\")",
-        "url": "https://open.spotify.com/album/65IiH0e1yYb7dFzL9l4rEV"
+        "name": "Natarang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0bbVCC53O6wV2nMLHfoo8I"
       },
       "artists": [
         {
-          "name": "Vaishali Made",
-          "url": "https://open.spotify.com/artist/3eD8Whpe2NYdslFWQfKnQl"
-        },
-        {
-          "name": "Avinash Vishwajeet",
-          "url": "https://open.spotify.com/artist/2iwsLM6ElwZhvevHv4N6gg"
-        },
-        {
-          "name": "Vishwajeet Joshi",
-          "url": "https://open.spotify.com/artist/6pZC32UwCkacYrMSTOJY2B"
+          "name": "Bela Shende",
+          "url": "https://open.spotify.com/artist/60f431EIEmwOfJJOJhdyQR"
         }
       ],
-      "duration_ms": 359848,
-      "name": "Madanmanjiri - From \"Phullwanti\"",
-      "url": "https://open.spotify.com/track/6kB4DcotytyuuwzJPIJpTb"
+      "duration_ms": 398080,
+      "name": "Wajle Ki Bara",
+      "url": "https://open.spotify.com/track/5se64jXNVjK96bNOBxBkX7"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -191,18 +183,26 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Natarang (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0bbVCC53O6wV2nMLHfoo8I"
+        "name": "Madanmanjiri (From \"Phullwanti\")",
+        "url": "https://open.spotify.com/album/65IiH0e1yYb7dFzL9l4rEV"
       },
       "artists": [
         {
-          "name": "Bela Shende",
-          "url": "https://open.spotify.com/artist/60f431EIEmwOfJJOJhdyQR"
+          "name": "Vaishali Made",
+          "url": "https://open.spotify.com/artist/3eD8Whpe2NYdslFWQfKnQl"
+        },
+        {
+          "name": "Avinash Vishwajeet",
+          "url": "https://open.spotify.com/artist/2iwsLM6ElwZhvevHv4N6gg"
+        },
+        {
+          "name": "Vishwajeet Joshi",
+          "url": "https://open.spotify.com/artist/6pZC32UwCkacYrMSTOJY2B"
         }
       ],
-      "duration_ms": 398080,
-      "name": "Wajle Ki Bara",
-      "url": "https://open.spotify.com/track/5se64jXNVjK96bNOBxBkX7"
+      "duration_ms": 359848,
+      "name": "Madanmanjiri - From \"Phullwanti\"",
+      "url": "https://open.spotify.com/track/6kB4DcotytyuuwzJPIJpTb"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -487,6 +487,30 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Jaal Jaal (From \"Chowk\")",
+        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
+      },
+      "artists": [
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        },
+        {
+          "name": "Dr. Vinayak Pawar",
+          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
+        },
+        {
+          "name": "Onkarswaroop",
+          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
+        }
+      ],
+      "duration_ms": 289680,
+      "name": "Jaal Jaal - From \"Chowk\"",
+      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Jaal Jaal (From \"Chowk\")",
-        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
-      },
-      "artists": [
-        {
-          "name": "Nagesh Morwekar",
-          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
-        },
-        {
-          "name": "Dr. Vinayak Pawar",
-          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
-        },
-        {
-          "name": "Onkarswaroop",
-          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
-        }
-      ],
-      "duration_ms": 289680,
-      "name": "Jaal Jaal - From \"Chowk\"",
-      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
     },
     {
       "added_at": "2026-08-04 09:03:36",

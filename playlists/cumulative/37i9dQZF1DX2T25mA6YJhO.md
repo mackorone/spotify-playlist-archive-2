@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Interferencias.
 
-787 songs - 1 day 16 hr 48 min
+788 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [6 Puñales](https://open.spotify.com/track/7uFc45CVhlEoZ3priKhCxa) | [Tatuaje](https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8) | [6 Puñales](https://open.spotify.com/album/5MSvDzxgLIZIP9scNp7OHF) | 3:19 | 2025-03-06 | 2025-04-04 |
 | [A la luz de la luna](https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Si molesto, os vais](https://open.spotify.com/album/41EFYkiiDgiOg44Ekx2fg0) | 4:11 | 2024-10-24 | 2024-11-29 |
 | [A la Mierda](https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [A tomar por culo](https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB) | 1:58 | 2024-10-17 | 2025-01-24 |
-| [Abrazos al fallo](https://open.spotify.com/track/0jBV2OWWcJbCWcHeJMpUHg) | [Wakame](https://open.spotify.com/artist/1CXObwF2RSRz8OW5RQaL73) | [Abrazos al Fallo](https://open.spotify.com/album/4Mw4Uxa6wuIFuTUU0ExEr0) | 3:43 | 2026-08-28 |  |
+| [Abrazos al fallo](https://open.spotify.com/track/0jBV2OWWcJbCWcHeJMpUHg) | [Wakame](https://open.spotify.com/artist/1CXObwF2RSRz8OW5RQaL73) | [Abrazos al Fallo](https://open.spotify.com/album/4Mw4Uxa6wuIFuTUU0ExEr0) | 3:43 | 2026-08-28 | 2026-09-12 |
 | [Adelante](https://open.spotify.com/track/1Bt7R4D2wOiKxi2JSceI4P) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Adelante](https://open.spotify.com/album/6r1wZRojNoLnMVA05lx7oH) | 2:04 | 2026-05-14 | 2026-07-03 |
 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 | 2024-06-27 | 2024-12-13 |
 | [Aftersun](https://open.spotify.com/track/4yUgg8iNXXSNpR6qLdW3Cq) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Mitos y leyendas](https://open.spotify.com/album/3j73rrBVZGr0smSUzB1Eal) | 3:40 | 2026-04-23 | 2026-05-08 |
@@ -186,6 +186,7 @@
 | [DESUBICAO](https://open.spotify.com/track/4dc6Bdv25xg0zztKbYjOcM) | [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [DESUBICAO](https://open.spotify.com/album/3I4v5BPwjGOo45mbTcC0Jm) | 2:19 | 2025-06-19 | 2025-11-21 |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
 | [Dientes rotos](https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Dientes rotos](https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ) | 2:31 | 2025-01-09 | 2025-05-09 |
+| [Diferente](https://open.spotify.com/track/4rW2A2t5zyaHRplgDFMmfr) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [Diferente](https://open.spotify.com/album/2jNDKmOryULNttDTzqCBAt) | 3:02 | 2026-09-11 |  |
 | [Dime baby](https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ), [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [Dime baby](https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g) | 2:56 | 2024-12-19 | 2025-01-10 |
 | [Dinero](https://open.spotify.com/track/02pvTwwSXCebarnipv3m9z) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Dinero](https://open.spotify.com/album/6cg5rXqnpSJoDhO4CvFwAu) | 3:36 | 2026-01-22 | 2026-02-13 |
 | [Diésel](https://open.spotify.com/track/0XJn6OIAYi0NRLl4U8wSqP) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Diésel](https://open.spotify.com/album/0B7OU9zyt4Abh6V7eIGdDG) | 2:57 | 2026-01-15 | 2026-03-20 |

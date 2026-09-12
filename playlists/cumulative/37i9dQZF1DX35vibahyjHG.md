@@ -4,7 +4,7 @@
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=9fdd1ea95ec84167">Lusanda</a>
 
-688 songs - 1 day 14 hr 19 min
+688 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-09-06 | 2024-02-07 |
 | [Loyal](https://open.spotify.com/track/3E7pxhlETrXc3lc03qSb67) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:21 | 2022-07-05 | 2022-07-21 |
 | [Lukaku](https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt) | [Nella](https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT) | [Lukaku](https://open.spotify.com/album/17ppUP83ffoLReW5NMdhaX) | 2:41 | 2026-03-08 | 2026-04-02 |
+| [Lunchbox](https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [By The Time I Wake Up](https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu) | 2:52 | 2026-09-11 |  |
 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 | 2024-02-07 | 2024-03-08 |
 | [Mad World \- Spotify Singles](https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:25 | 2025-06-03 | 2025-08-06 |
 | [MAGUDZUMELA \(feat\. Ego Slimflow, Mr Pilato, Dereal Lazi & Bontle Smith\)](https://open.spotify.com/track/37dLikIQuRvcVVSY6cA2lU) | [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Statik012](https://open.spotify.com/artist/0OrHxBryp2TSNndwOsyKW0), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Dereal Lazi](https://open.spotify.com/artist/7rlNOJmyMeSxP1W2y31d3F), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [YEHYEH](https://open.spotify.com/album/0Un2pClmsh1gsQiaLvFRyX) | 5:53 | 2025-12-03 | 2026-03-08 |
@@ -615,7 +616,6 @@
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-07-10 |  |
 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 | 2026-04-01 | 2026-05-06 |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-04-05 | 2023-05-04 |
-| [Track 3](https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [By The Time I Wake Up](https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu) | 0:00 | 2026-09-11 |  |
 | [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 | 2026-07-10 |  |
 | [Tribal Love](https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [4PLAY](https://open.spotify.com/album/565GXl4uD52IKCtX4Vo4nU) | 2:26 | 2026-08-06 | 2026-09-04 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-11-02 | 2022-12-01 |

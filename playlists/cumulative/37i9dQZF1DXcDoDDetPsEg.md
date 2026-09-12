@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist\. Cover: Wretch 32
 
-1,854 songs - 3 day 20 hr 43 min
+1,855 songs - 3 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1483,6 +1483,7 @@
 | [Snow](https://open.spotify.com/track/0Zb9vkrjY81bdGEzGeGIsD) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Snow](https://open.spotify.com/album/2DSRtV2qVx3DMoI5h9por7) | 2:50 | 2022-12-16 | 2023-01-27 |
 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 | 2023-03-08 | 2023-03-09 |
 | [So Easy](https://open.spotify.com/track/4wHhHmgtd6IORNd0X5zTmK) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 2:31 | 2025-07-29 | 2025-11-28 |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-10 |  |
 | [So it Goes](https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So it Goes](https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC) | 3:43 | 2025-01-31 | 2025-05-02 |
 | [So LDN](https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [So LDN](https://open.spotify.com/album/7v1RIDQubIyrZRm5nqNRaL) | 2:40 | 2026-04-30 | 2026-08-07 |
 | [SOBER](https://open.spotify.com/track/011Ml1UGGO7TxHzklnRTLy) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [ESC](https://open.spotify.com/album/4s0XNRusbQvskdQbu2SHcY) | 2:32 | 2024-11-08 | 2025-02-14 |

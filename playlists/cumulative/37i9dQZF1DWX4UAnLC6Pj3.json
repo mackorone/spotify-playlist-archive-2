@@ -2551,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222910,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
+    },
+    {
+      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 182376,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
@@ -4367,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "El Mejor Pretexto",
+        "url": "https://open.spotify.com/album/6wYzaVj8foAacMu9E59Qnz"
+      },
+      "artists": [
+        {
+          "name": "Cristian Maga\u00f1a",
+          "url": "https://open.spotify.com/artist/5R4mG4Hu2dY3f2NmJ0fNUQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155997,
+      "name": "El Mejor Pretexto",
+      "url": "https://open.spotify.com/track/42AcHdRWYpWqzOAgqu5Amb"
+    },
+    {
+      "album": {
         "name": "El Mentecato",
         "url": "https://open.spotify.com/album/7rszyGkJC8ZIu1Rk0JqD84"
       },
@@ -4756,7 +4792,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 204396,
       "name": "El secuestro del cachorro - En Vivo",
       "url": "https://open.spotify.com/track/5vRXMsQS8lVlscTZarrMP3"
@@ -6941,6 +6977,28 @@
     },
     {
       "album": {
+        "name": "Las Mismas Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/5jLggk2hT5zcvrnJW1vvft"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190332,
+      "name": "Las Mismas Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
+    },
+    {
+      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -7584,7 +7642,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 199066,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/1yGk4QwKxCHS5iXssJnvKE"
@@ -7792,6 +7850,28 @@
       "duration_ms": 186335,
       "name": "Me la Pelan",
       "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
+    },
+    {
+      "album": {
+        "name": "Me Llamo Mujeriego",
+        "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141094,
+      "name": "Me Llamo Mujeriego",
+      "url": "https://open.spotify.com/track/080yQbCS3z0n0vPvhtE9VW"
     },
     {
       "album": {
@@ -8023,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6xeDrNGwSZzs0A2b6phaDf"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/0BEuxUQzzgusv2G7R9PCfG"
+    },
+    {
+      "album": {
         "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
         "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
@@ -8074,6 +8172,28 @@
       "duration_ms": 159387,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
+    },
+    {
+      "album": {
+        "name": "Mi Amor Y Mi Agon\u00eda",
+        "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173928,
+      "name": "Mi Amor Y Mi Agon\u00eda",
+      "url": "https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1"
     },
     {
       "album": {
@@ -8470,6 +8590,24 @@
       "duration_ms": 175800,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/3ZwuE3d5mqAXVXTQ7Q9vA8"
+    },
+    {
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161384,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "album": {
@@ -9576,7 +9714,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 202936,
       "name": "Once de la Noche",
       "url": "https://open.spotify.com/track/1BTjYSTajiRIvCYUqAjl6c"
@@ -10084,7 +10222,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 176796,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
@@ -10408,6 +10546,24 @@
       "duration_ms": 192978,
       "name": "Por Qui\u00e9n Me Dejas - En vivo",
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+    },
+    {
+      "album": {
+        "name": "Por Salud Mental (Deluxe)",
+        "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Por Qu\u00e9 Me Cre\u00edste",
+      "url": "https://open.spotify.com/track/0NDGniyOhZzTzGTvLFf6WU"
     },
     {
       "album": {
@@ -10899,6 +11055,42 @@
     },
     {
       "album": {
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+    },
+    {
+      "album": {
+        "name": "Cantina Ambulante (En Vivo)",
+        "url": "https://open.spotify.com/album/7awJyiX8sxV6fkdk9ItJJM"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "Que No Se D\u00e9 Cuenta - En Vivo",
+      "url": "https://open.spotify.com/track/63BqSJThnN0iYkFsW9vCgC"
+    },
+    {
+      "album": {
         "name": "Que Risa Me Da",
         "url": "https://open.spotify.com/album/0kzCuy5xqdDISqvWOIrnU5"
       },
@@ -11030,7 +11222,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 213169,
       "name": "Quien De Los Dos Sera",
       "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
@@ -12016,7 +12208,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168000,
       "name": "Sentimental - En Vivo",
       "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
@@ -12342,7 +12534,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 263000,
       "name": "Si Te Vuelves a Enamorar",
       "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
@@ -12716,7 +12908,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 209000,
       "name": "Sonri\u00e9ndole A La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
@@ -12822,6 +13014,24 @@
       "duration_ms": 184938,
       "name": "Soy Un Diez (En Vivo)",
       "url": "https://open.spotify.com/track/5vFw8anqt5N2zf028MLw4w"
+    },
+    {
+      "album": {
+        "name": "10 de 10",
+        "url": "https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164937,
+      "name": "So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
     },
     {
       "album": {
@@ -13649,24 +13859,6 @@
     },
     {
       "album": {
-        "name": "10 de 10",
-        "url": "https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "date_added": "2026-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
-    },
-    {
-      "album": {
         "name": "Traguitos De Licor",
         "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
       },
@@ -14480,7 +14672,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"

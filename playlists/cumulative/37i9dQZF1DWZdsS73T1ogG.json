@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: GeezyDee, Kris R.",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Yan Block",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 167030,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 140307,
       "name": "666",
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 237545,
       "name": "ALCOBA",
       "url": "https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT"
@@ -3640,6 +3640,24 @@
       "duration_ms": 135003,
       "name": "ANGOLA",
       "url": "https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8"
+    },
+    {
+      "album": {
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/0EYgCkdTlXQdmCwwDFeh38"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163468,
+      "name": "Anitta",
+      "url": "https://open.spotify.com/track/2TLktzc4AxgJlzrxRDPhAQ"
     },
     {
       "album": {
@@ -8203,6 +8221,24 @@
     },
     {
       "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa"
+    },
+    {
+      "album": {
         "name": "Calentura",
         "url": "https://open.spotify.com/album/0BWKR99sP38uPNKeiubjMl"
       },
@@ -9212,6 +9248,24 @@
       "duration_ms": 157508,
       "name": "CheeseCake",
       "url": "https://open.spotify.com/track/2NLdEvHNcpGeCfrO6p0XnZ"
+    },
+    {
+      "album": {
+        "name": "CHEFFA",
+        "url": "https://open.spotify.com/album/60RwE4Ke5Vnne6NgXWJtmw"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122315,
+      "name": "CHEFFA",
+      "url": "https://open.spotify.com/track/6uj0LD8QVIrTxzq40hgGoW"
     },
     {
       "album": {
@@ -18883,6 +18937,24 @@
     },
     {
       "album": {
+        "name": "Firme Contigo",
+        "url": "https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO"
+      },
+      "artists": [
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125831,
+      "name": "Firme Contigo",
+      "url": "https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k"
+    },
+    {
+      "album": {
         "name": "FISHULERIA (INTERLUDE N.02)",
         "url": "https://open.spotify.com/album/7mMebbeTdVsX7dFgCrkzRa"
       },
@@ -19460,6 +19532,24 @@
       "duration_ms": 167565,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
+    },
+    {
+      "album": {
+        "name": "Freestyle 2",
+        "url": "https://open.spotify.com/album/4l4qCmFx2YQkkyUkGlD4Ch"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112088,
+      "name": "Freestyle 2",
+      "url": "https://open.spotify.com/track/1jvyEHvRg6AbWhoXhpTFsp"
     },
     {
       "album": {
@@ -20152,6 +20242,44 @@
       "duration_ms": 326746,
       "name": "GANAS REMIX",
       "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
+    },
+    {
+      "album": {
+        "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+        "url": "https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481955,
+      "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+      "url": "https://open.spotify.com/track/55knkuzL7hByREAumJcj3q"
     },
     {
       "album": {
@@ -26395,6 +26523,24 @@
     },
     {
       "album": {
+        "name": "LA SAPI\u00d3",
+        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117391,
+      "name": "LA SAPI\u00d3",
+      "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
+    },
+    {
+      "album": {
         "name": "Oversize",
         "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
       },
@@ -28496,7 +28642,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200618,
       "name": "LUNITA MIA REMIX",
       "url": "https://open.spotify.com/track/0k9Tew84eAe4JRRUPqrdIx"
@@ -29964,7 +30110,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 260970,
       "name": "Mas Mujeres",
       "url": "https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV"
@@ -30866,7 +31012,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 154442,
       "name": "MEDICINV",
       "url": "https://open.spotify.com/track/2yU7sS4ad50DR9lCW0hzgW"
@@ -31888,7 +32034,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 179354,
       "name": "MI QLONA",
       "url": "https://open.spotify.com/track/7AGi91KyuQAKgH9A8n8cT8"
@@ -32918,6 +33064,24 @@
       "duration_ms": 200000,
       "name": "MODO FLY",
       "url": "https://open.spotify.com/track/2KaUNmiAAnTTODP7SB6Dcq"
+    },
+    {
+      "album": {
+        "name": "Modo Oculto",
+        "url": "https://open.spotify.com/album/1pGjzQsGGQ7hHQgvxM8jll"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Modo Oculto",
+      "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
     },
     {
       "album": {
@@ -34704,7 +34868,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 137964,
       "name": "NO C DA",
       "url": "https://open.spotify.com/track/4TAKgzC4HLuiNnDkRJjqNo"
@@ -40968,7 +41132,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 224680,
       "name": "Ponte Bellaquita",
       "url": "https://open.spotify.com/track/0GuKR7Et03Ec5wucUbn7IM"
@@ -43591,6 +43755,24 @@
     },
     {
       "album": {
+        "name": "RACK$$",
+        "url": "https://open.spotify.com/album/4LDJNhufhmPlmppWNvCtel"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "RACK$$",
+      "url": "https://open.spotify.com/track/7jSQkMaRrLz6LDrlMOQTa7"
+    },
+    {
+      "album": {
         "name": "Racks On Me",
         "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
       },
@@ -44977,6 +45159,28 @@
     },
     {
       "album": {
+        "name": "R\u00edo De Janeiro",
+        "url": "https://open.spotify.com/album/2gPBe1PxJ4nDiKle8ODjKV"
+      },
+      "artists": [
+        {
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203921,
+      "name": "R\u00edo De Janeiro",
+      "url": "https://open.spotify.com/track/15t4fsrqnd5uL361MdnTrA"
+    },
+    {
+      "album": {
         "name": "SAHARA",
         "url": "https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk"
       },
@@ -45283,6 +45487,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/7xtQgvoHpB0JVCadeJHAFz"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "SATISFExXxO",
+      "url": "https://open.spotify.com/track/1Uc4BPi4PTGFDTHzCj8Nst"
+    },
+    {
+      "album": {
         "name": "SAUNA",
         "url": "https://open.spotify.com/album/0NVNcJlvgsrsdrJHixMBo8"
       },
@@ -45558,7 +45780,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189056,
       "name": "Se Monta",
       "url": "https://open.spotify.com/track/4pLxGn31NgZGni0YuEAtpg"
@@ -46497,6 +46719,28 @@
     },
     {
       "album": {
+        "name": "SI ME QUIERES...",
+        "url": "https://open.spotify.com/album/4HNjqlQN00QqOHl1lPgtQY"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240975,
+      "name": "SI ME QUIERES...",
+      "url": "https://open.spotify.com/track/70A0AekMvr4DdxaKa1tQE0"
+    },
+    {
+      "album": {
         "name": "Si Me Sobrara el Tiempo",
         "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
       },
@@ -47376,7 +47620,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163808,
       "name": "SINPANTY",
       "url": "https://open.spotify.com/track/1sfNcwnHouboxzKsuMqBEK"
@@ -54722,7 +54966,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 182113,
       "name": "VIN DIESEL",
       "url": "https://open.spotify.com/track/2ePnsVyQ5aqW4SygCnCyL0"

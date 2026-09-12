@@ -2709,6 +2709,36 @@
     },
     {
       "album": {
+        "name": "Insana",
+        "url": "https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206971,
+      "name": "Insana",
+      "url": "https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR"
+    },
+    {
+      "album": {
         "name": "Intens\u00e3o",
         "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
       },
@@ -5200,7 +5230,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 182455,
       "name": "RINGUE",
       "url": "https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n"

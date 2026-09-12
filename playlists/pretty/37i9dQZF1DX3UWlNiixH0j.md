@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 折坂悠太 Yuta Orisaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,401 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,423 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [サマーヘアー](https://open.spotify.com/track/3mXRqf3sdDEH9VvnpRZ2rH) | [窓際](https://open.spotify.com/artist/3yhZtZhm9aGVICP6SSLTci) | [サマーヘアー](https://open.spotify.com/album/3X2dDusnAd27Icr4vmLa9F) | 4:17 |
 | 100 | [CAN DO THAT](https://open.spotify.com/track/5Vo2gXdbP1dUPNlPYnIFSe) | [FNH](https://open.spotify.com/artist/5OIPvO1UgcqJ73v4zPg658) | [DELAY](https://open.spotify.com/album/5AV8lX7Saf7D9TO4IsCFpK) | 3:07 |
 
-Snapshot ID: `AAAAACH/kTpj6g33eQ12Oe5T+VYnWxgQ`
+Snapshot ID: `AAAAAM0U0bGhym4Uoy47ccANbGv+zGp0`

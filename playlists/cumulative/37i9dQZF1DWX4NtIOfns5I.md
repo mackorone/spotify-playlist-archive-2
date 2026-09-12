@@ -4,7 +4,7 @@
 
 > now all I know is the ending
 
-894 songs - 2 day 5 hr 58 min
+897 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-30 | 2025-03-13 |
 | [do you?](https://open.spotify.com/track/7kbTmNiLl8p50Nx6e4gPhK) | [chrysalis](https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS) | [do you?](https://open.spotify.com/album/1PmL65BWonMcjHPQTuAbGY) | 4:40 | 2025-01-17 | 2025-05-14 |
 | [dog with a bone](https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [dog with a bone](https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR) | 3:20 | 2026-03-10 | 2026-07-25 |
+| [Dog's Best Man](https://open.spotify.com/track/2ZrWP6HDMdUhtTxMNgCaM9) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Draw the Outline](https://open.spotify.com/album/0PauJqvrSVUHfzNAYp3lZZ) | 2:24 | 2026-09-11 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 | 2024-04-27 |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 | 2025-11-01 |
 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/2BwHHutoVzEoyTmsK5n6xa) | [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Sterling Point \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/6vpsu8PNe6zj4o7OiYNWWF) | 2:55 | 2026-08-11 |  |
@@ -432,6 +433,7 @@
 | [Just Because](https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Plateaus](https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo) | 3:46 | 2024-10-09 | 2025-03-13 |
 | [Just My Friend](https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Just My Friend](https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli) | 3:06 | 2026-05-22 | 2026-09-11 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 | 2026-02-21 |
+| [Keep You](https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Keep You](https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r) | 2:32 | 2026-09-11 |  |
 | [kid](https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [kid](https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa) | 3:11 | 2023-12-08 | 2024-10-19 |
 | [Kill Me](https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 4:41 | 2026-08-14 |  |
 | [Kitchen Flowers](https://open.spotify.com/track/3AnnOEoPNIX18poepK9kcw) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Kitchen Flowers](https://open.spotify.com/album/40nWV4tr80TjQsWE0AaeQU) | 2:23 | 2025-03-28 | 2025-09-20 |
@@ -542,6 +544,7 @@
 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 | 2024-01-26 | 2024-04-06 |
 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 | 2023-10-06 | 2025-01-18 |
 | [No Sudden Changes](https://open.spotify.com/track/29uDIxqSTN3NVNjmU6w6Dz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:44 | 2025-07-18 | 2026-01-24 |
+| [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 | 2026-09-11 |  |
 | [No Wonder](https://open.spotify.com/track/3Of5QKghuS7DanlkQgNW7g) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [More Than One Way Home](https://open.spotify.com/album/6txFFnAPZu1cLGAOvtLJ7s) | 3:09 | 2024-03-08 | 2025-01-18 |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 | 2024-02-10 |
 | [Northstar](https://open.spotify.com/track/2RMgDzKU002S6IcwWwG9i1) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Northstar](https://open.spotify.com/album/39pzlLbw6YFVbuguj9DFeI) | 2:59 | 2024-02-09 | 2024-04-06 |

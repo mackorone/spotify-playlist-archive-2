@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
+    },
+    {
+      "album": {
         "name": "True Blood: Music From The HBO\u00ae Original Series Volume 3",
         "url": "https://open.spotify.com/album/0kmWuDHYilq3PmEkfgD0Fu"
       },
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 287773,
       "name": "Lay This Body Down",
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
@@ -4370,6 +4388,24 @@
       "duration_ms": 221186,
       "name": "Troubled Waltz",
       "url": "https://open.spotify.com/track/4zwZZnlqLRkAQQwJ8P0KAa"
+    },
+    {
+      "album": {
+        "name": "Two Coats",
+        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299054,
+      "name": "Two Coats",
+      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
     },
     {
       "album": {

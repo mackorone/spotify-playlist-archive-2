@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-279 songs - 17 hr 48 min
+281 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Deliverance](https://open.spotify.com/track/37sx79W0cDhplMOyYJHwdX) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [Deliverance](https://open.spotify.com/album/4bxMMgnSfE4mH6OCziRBZI) | 4:32 | 2022-12-06 |  |
 | [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 | 2022-12-06 |  |
 | [Drang](https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr) | [Elv](https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu) | 2:41 | 2023-02-15 |  |
+| [Dream 12](https://open.spotify.com/track/1vZQqgj5v0f7QScznXa6ej) | [Aleksander Dębicz](https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad) | [12 Dreams for Piano](https://open.spotify.com/album/09TD8ZPsuS1sXi9s7uqhx0) | 2:34 | 2026-09-11 |  |
 | [Drifts](https://open.spotify.com/track/32tY6SIf2UO66rQntJ2BCI) | [Kevin Stahl](https://open.spotify.com/artist/6huLP9Wh5xl7Lbk0RmySKR) | [Drifts](https://open.spotify.com/album/4QjFpn5ObWEsy0vsjoQRZ2) | 4:36 | 2023-01-30 |  |
 | [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2026-06-12 |  |
 | [Duvet](https://open.spotify.com/track/6yX22QCxIC4Ghi5WIFo7HE) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Svalbard](https://open.spotify.com/album/41dLks2J6klak7H5YUh4cs) | 3:24 | 2022-01-05 | 2026-06-20 |
@@ -129,6 +130,7 @@
 | [Hold On Tight](https://open.spotify.com/track/3Kz0BP3qroWe9lgDXtQqFD) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu) | [Hold On Tight](https://open.spotify.com/album/2QjjHcxGnJbQdGvdlfIolD) | 5:43 | 2022-12-06 |  |
 | [Hope Again](https://open.spotify.com/track/1ceru7mAptFoWOb7sXDgoO) | [Chris Ami](https://open.spotify.com/artist/3NNU3ThoPVA8OpaXcfhcet) | [Hope Again](https://open.spotify.com/album/3SrXvkY4WKEFVjHkV0tXnb) | 5:04 | 2026-06-12 |  |
 | [i am a strange loop](https://open.spotify.com/track/0ulWqOBWo51hFYi5c44ZP4) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [i am a strange loop](https://open.spotify.com/album/3Sw6Unyy2oVR785BAn5mmO) | 4:37 | 2022-12-06 |  |
+| [Immersion](https://open.spotify.com/track/3g5k3DuczrXtyZmTizPQuY) | [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [Immersion](https://open.spotify.com/album/6gXXWxVIieGLDwm9Otfj0r) | 3:10 | 2026-09-11 |  |
 | [In All This Heavy Blue](https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [In All This Heavy Blue](https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM) | 4:36 | 2022-10-04 |  |
 | [In Cold Light \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Human Reworked](https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu) | 4:37 | 2022-01-05 | 2023-02-16 |
 | [In Love](https://open.spotify.com/track/0ySS0g7IJLwijoCQHWdOOO) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Love](https://open.spotify.com/album/4NqSB7ip9Wbaj3N4r8xRMv) | 3:24 | 2022-10-04 |  |

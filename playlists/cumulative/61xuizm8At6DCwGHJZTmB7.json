@@ -5695,6 +5695,28 @@
     },
     {
       "album": {
+        "name": "Guest Of Honor",
+        "url": "https://open.spotify.com/album/4BN4Wt3b1BmbEnpHlGBsvq"
+      },
+      "artists": [
+        {
+          "name": "MBL Worship",
+          "url": "https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO"
+        },
+        {
+          "name": "Brennan Joseph",
+          "url": "https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352021,
+      "name": "Guest Of Honor",
+      "url": "https://open.spotify.com/track/71fJVu0dAaGqfJvq8zFjI0"
+    },
+    {
+      "album": {
         "name": "Hallelujah (If Not For Your Love)",
         "url": "https://open.spotify.com/album/18Hct0jByiTdj11FOGwCir"
       },

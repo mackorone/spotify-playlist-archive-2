@@ -4,7 +4,7 @@
 
 > Sena Şener ve haftanın en iyi çıkışları!
 
-9,780 songs - 20 day 20 hr 34 min
+9,784 songs - 20 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Ahid \(no time to carry on\)](https://open.spotify.com/track/0BpToVjlgWWaLmoc8JnlKn) | [Umur Anil Gokdag](https://open.spotify.com/artist/6TE5uKxtwtgJ2kcUNRhzJP) | [Ahid \(no time to carry on\)](https://open.spotify.com/album/4c8RT8EuQpzukvsLcDly9J) | 3:11 | 2025-08-28 | 2025-09-05 |
 | [Ahir Zaman \(Yok Bir Telaşım\)](https://open.spotify.com/track/0JLLPcQFlnN3EZn3vA5PLJ) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Ahir Zaman \(Yok Bir Telaşım\)](https://open.spotify.com/album/10P4NYofFo7CmBdyOWZDpc) | 3:44 | 2026-01-23 | 2026-01-30 |
 | [Ahkam](https://open.spotify.com/track/5UcOBtBZazyyIpATXjA0d5) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:42 | 2026-04-09 | 2026-04-17 |
+| [Ahlak Terazisi](https://open.spotify.com/track/65t6K2tK3NgmoA33xet0ZJ) | [Ahmet Mungan](https://open.spotify.com/artist/2xFH2zKZ3l7keEEv21tXKZ) | [Ahlak Terazisi](https://open.spotify.com/album/6RSBbuZ6FpuzPaqkqjPQJR) | 2:45 | 2026-09-10 |  |
 | [Ahmet Abi](https://open.spotify.com/track/1IRiicMBNOeP8wj5cN2jzm) | [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw) | [Ahmet Abi](https://open.spotify.com/album/5RrRVp3W83naPZVHX8XpLA) | 3:01 | 2026-09-10 |  |
 | [Ahparig](https://open.spotify.com/track/0gEQu6hkw90o20tlyAeKIH) | [Hüsnü Arkan](https://open.spotify.com/artist/0Z0wQc5Y1kqVxgMgSXifZe), [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Ahparig](https://open.spotify.com/album/27TGVZn7HOSffxw3l1d28Y) | 4:19 | 2025-09-18 | 2025-09-27 |
 | [AHRAZ](https://open.spotify.com/track/0NbM6jtKwJzuoyNtBfpsyI) | [$hiro](https://open.spotify.com/artist/50grzYxbB2XSnESRfGI0O7), [MORTA](https://open.spotify.com/artist/4xrh5tYUrtaQ0AQC1fhCdU) | [34353](https://open.spotify.com/album/7GSvjbX0BoMNzfDonjE2be) | 1:50 | 2026-07-02 | 2026-07-10 |
@@ -1529,9 +1530,11 @@
 | [Bir Ömür](https://open.spotify.com/track/0g3qDyf95jFMulTNuk8xLD) | [Enes Karataş](https://open.spotify.com/artist/0eNDjrusXQ2XJj6gBB4dHe) | [Bir Ömür](https://open.spotify.com/album/3uJ52gyNNBZSelw4w1aWQI) | 3:58 | 2025-05-08 | 2025-05-16 |
 | [Bir Şansım Daha Olsa](https://open.spotify.com/track/0QhAsknTdlHJnx0YCgteDg) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Bir Şansım Daha Olsa](https://open.spotify.com/album/51sR6pNnpgV0uYkBzrJqAf) | 2:50 | 2026-08-27 | 2026-09-04 |
 | [Bir Şarkısın Sen](https://open.spotify.com/track/0Yvk0NhQILaVrLc4K9Oelq) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Bir Şarkısın Sen](https://open.spotify.com/album/5rRmSPHru0j2h6dTThR55l) | 3:06 | 2026-05-28 | 2026-06-05 |
+| [Bira ya da Votka](https://open.spotify.com/track/5rXSOVL8N7asDMcBxuNICa) | [Eren Can](https://open.spotify.com/artist/2jIBadm6tmGbPKZxTy9ywp) | [Bira ya da Votka](https://open.spotify.com/album/2F3KAnixCayIOO9qDLejeF) | 3:32 | 2026-09-10 |  |
 | [Biraz](https://open.spotify.com/track/61QyQoxkxcBLc67qgB6DVk) | [STVR](https://open.spotify.com/artist/0p8AsjpUmhwyKXYhSZuJNi) | [Biraz](https://open.spotify.com/album/4rpWpWP9sDZzt8ulHn6Bc3) | 2:19 | 2026-08-06 | 2026-08-14 |
 | [Biraz Daha Kal, Sabaha Kadar](https://open.spotify.com/track/02RWQC6fmsLry0U2ZLbhQM) | [Asimptot](https://open.spotify.com/artist/2O2aAFx3fTTbuQ4wTIOFjj) | [Biraz Daha Kal, Sabaha Kadar](https://open.spotify.com/album/2oyhfGrwOejSxfKodIj6Bx) | 4:10 | 2025-04-17 | 2025-04-25 |
 | [Biraz Değişseydin](https://open.spotify.com/track/06UGhiXlXzQ36CFkrS0TbA) | [rüyama girip hatırlatan kız](https://open.spotify.com/artist/2IVt4nkNcFAYHSBL6u9Hha) | [Biraz Değişseydin](https://open.spotify.com/album/0EPicUb5jthbUsXkxYCuYW) | 2:21 | 2025-11-27 | 2025-12-05 |
+| [Birbirimizin En Güzeli](https://open.spotify.com/track/5a1sBNy0JjS4n8yypCSOgA) | [Burcu Aslan](https://open.spotify.com/artist/1qX5WqyVAW9oBybezQNjWj) | [Birbirimizin En Güzeli](https://open.spotify.com/album/5VB7HyFNIse3D52LDxltYN) | 3:00 | 2026-09-10 |  |
 | [Bird](https://open.spotify.com/track/2OAxsvvHJX59hlb7ORbXnx) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Weaving](https://open.spotify.com/album/2b3HP0aL2Ae8Qf77M6PMxR) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Birden Düşerim Aklına](https://open.spotify.com/track/6fggbh8quUFD6str5U6Bha) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Birden Düşerim Aklına](https://open.spotify.com/album/4yMBP4vhvDO37tVF0HoyGp) | 2:49 | 2025-10-02 | 2025-10-10 |
 | [Birden Çıksan Karşıma](https://open.spotify.com/track/7rWJk9eWVvPnuC3KpEMcJP) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Birden Çıksan Karşıma](https://open.spotify.com/album/3uGgsp0qUFSru3puvZ6XfC) | 2:08 | 2025-03-13 | 2025-03-21 |
@@ -2456,6 +2459,7 @@
 | [DISSOSIYATIF](https://open.spotify.com/track/3Kumfedt08fadfTnlkMZtB) | [kaan4k](https://open.spotify.com/artist/7uwnJJz2jtar8HoOPBURii), [vxdqa](https://open.spotify.com/artist/3h9mgfQ83474BxqZalC9Sn) | [DISSOSIYATIF](https://open.spotify.com/album/0GibAqcgXBC6q19vA4Z48i) | 1:49 | 2026-09-10 |  |
 | [DISSTASYON](https://open.spotify.com/track/0CbrD1AQJo5TyAMblXMWgG) | [NAFTA](https://open.spotify.com/artist/3Pz4bsaurkO80gLzZakQwY), [B\-CASH](https://open.spotify.com/artist/4qHPFDar9i4AlMwxQQkHn1) | [DISSTASYON](https://open.spotify.com/album/3HhI186AiUFpGajaoAYy4b) | 2:27 | 2026-02-26 | 2026-03-06 |
 | [Distopya](https://open.spotify.com/track/1m3qcOSEVoQ4It1eyGt4LU) | [Kaldı 8](https://open.spotify.com/artist/5G0sEqmrtdGCXbEPCGGmqd) | [Distopya](https://open.spotify.com/album/2c54QYQnRvWqxZrKnwmSz0) | 3:17 | 2025-06-26 | 2025-07-04 |
+| [diva](https://open.spotify.com/track/4uBPQy3fLP8t6XFRTMLmHT) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [diva](https://open.spotify.com/album/0Hj88oviMLCSBKju97NHkT) | 2:07 | 2026-09-11 |  |
 | [Diva](https://open.spotify.com/track/1aUBUWQ20mgTvxWrAvxBaC) | [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt) | [Diva](https://open.spotify.com/album/1LxTCI46TCZnqtQjtiv0co) | 2:50 | 2026-06-04 | 2026-06-12 |
 | [DIVA](https://open.spotify.com/track/6ZrCv2fEKGt5lSLWIkH4wp) | [Rozz Kalliope](https://open.spotify.com/artist/4cKccE5LtINGKLAe0wd8pc) | [DIVA](https://open.spotify.com/album/0wLRJlIfHmjqJKPeuvXYOa) | 1:55 | 2026-01-15 | 2026-01-23 |
 | [Divan Edebiyatı](https://open.spotify.com/track/3NHgQWIzLoWPHTPsdpPSjy) | [İmpala Edebiyat](https://open.spotify.com/artist/4x7aGZMr1OcgMda53DibAU) | [İslamiyet Etkisinde Gelişen Türk Edebiyatı](https://open.spotify.com/album/2e3aIXRpONvSNwVGgsFC7U) | 3:45 | 2025-04-10 | 2025-04-18 |

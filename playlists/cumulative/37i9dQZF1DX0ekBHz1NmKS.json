@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208173,
       "name": "By and By",
       "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
@@ -42822,6 +42822,24 @@
       "duration_ms": 119449,
       "name": "White Wine in the Shower",
       "url": "https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/183mHqri6YpohJg6XLtr9C"
+      },
+      "artists": [
+        {
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/3XOPD2Hl2SJLNSyFRnSHDz"
     },
     {
       "album": {

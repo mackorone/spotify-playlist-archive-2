@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Maiyarap, Sexski",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -2142,6 +2142,36 @@
       "duration_ms": 173276,
       "name": "Doctor Strange",
       "url": "https://open.spotify.com/track/5WLpqZE16W5uPWmckES7TW"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/4R5zdU9TJbSVv0OUMlja13"
+      },
+      "artists": [
+        {
+          "name": "OZEEOOS",
+          "url": "https://open.spotify.com/artist/4hjAFpLZlqKZEJSCHhnWLc"
+        },
+        {
+          "name": "C-FLOW",
+          "url": "https://open.spotify.com/artist/3qoCChyHDyCdalNgl9013e"
+        },
+        {
+          "name": "JAMEBONG",
+          "url": "https://open.spotify.com/artist/5UYBjzUxuURakpYP3Xlb5N"
+        },
+        {
+          "name": "G-TOD",
+          "url": "https://open.spotify.com/artist/0GzGwxiOstr2tJLq1yP4dK"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/0ydJblhjjiwbOeYOARCe35"
     },
     {
       "album": {
@@ -5407,6 +5437,28 @@
     },
     {
       "album": {
+        "name": "No Introduction",
+        "url": "https://open.spotify.com/album/02aCKlu9mMEO2OMuz1SonS"
+      },
+      "artists": [
+        {
+          "name": "KHSD THAITAY",
+          "url": "https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj"
+        },
+        {
+          "name": "THAITANIUM",
+          "url": "https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "No Introduction",
+      "url": "https://open.spotify.com/track/4PEfatTvQbflklnsllmPaX"
+    },
+    {
+      "album": {
         "name": "No Joke",
         "url": "https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk"
       },
@@ -8098,7 +8150,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 142545,
       "name": "Verify",
       "url": "https://open.spotify.com/track/4stioVZBmCRQVb1xeTgxOH"
@@ -12240,6 +12292,24 @@
       "duration_ms": 187555,
       "name": "\u0e19\u0e32\u0e19\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
       "url": "https://open.spotify.com/track/0WzFWJ4P02zV5spmVwho6M"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e32\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/0Fg9OiB4V08gnUppnWogbh"
+      },
+      "artists": [
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u0e19\u0e32\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/6DLUrYQzRslBVyu0ZvTSYJ"
     },
     {
       "album": {
@@ -18460,7 +18530,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 240000,
       "name": "\u0e41\u0e1f\u0e19\u0e08\u0e49\u0e30\u0e41\u0e1f\u0e19\u0e08\u0e4b\u0e32 (Rain Gone)",
       "url": "https://open.spotify.com/track/1hjalEVNrP9x6GwbyrZwYF"
@@ -19108,7 +19178,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 234965,
       "name": "\u0e44\u0e01\u0e48\u0e08\u0e34\u0e01\u0e40\u0e14\u0e47\u0e01\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0b8lGHtpoP5bq6SZwArzRy"

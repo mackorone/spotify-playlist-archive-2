@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,502 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,527 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [Fig Smoke](https://open.spotify.com/track/1SzUveFBheIYBW1n758uTt) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Fig Smoke](https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab) | 3:55 |
 | 70 | [新女神](https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [新女神](https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0) | 3:03 |
 
-Snapshot ID: `AAAAAOQJp3We5nbK4I/8FjzP3MqFzb6E`
+Snapshot ID: `AAAAAClMR22uQqXQH4DpwRgyZUTb3bVm`

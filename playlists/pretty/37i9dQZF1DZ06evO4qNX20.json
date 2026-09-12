@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 349181,
+  "num_followers": 349229,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAADvgUpgX2J5mKBZap06RrDz",
+  "snapshot_id": "aqHzAAAAAAA3AoO+oluHe2vw9sjRv3AJ",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+        "name": "A Dueto: Amores Y Desenga\u00f1os",
+        "url": "https://open.spotify.com/album/2ZBloQpJXNqemDzm4yGxfP"
       },
       "artists": [
         {
@@ -488,13 +488,17 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
+          "name": "Juan Valentin",
+          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
+        },
+        {
           "name": "Los Amables Del Norte",
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 199045,
-      "name": "Corazoncito Tirano",
-      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+      "duration_ms": 178561,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/28Jag8vpyUlaxrbCy8RW9I"
     },
     {
       "added_at": null,
@@ -519,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Dueto: Amores Y Desenga\u00f1os",
-        "url": "https://open.spotify.com/album/2ZBloQpJXNqemDzm4yGxfP"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
@@ -528,17 +532,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Juan Valentin",
-          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
-        },
-        {
           "name": "Los Amables Del Norte",
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 178561,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/28Jag8vpyUlaxrbCy8RW9I"
+      "duration_ms": 199045,
+      "name": "Corazoncito Tirano",
+      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gallo de Sinaloa",
-        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "El Gallo de Sinaloa",
-      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros \u00c9xitos de Colecci\u00f3n!",
         "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 161373,
       "name": "El Branco Fajiado",
       "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gallo de Sinaloa",
+        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "El Gallo de Sinaloa",
+      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
     },
     {
       "added_at": null,

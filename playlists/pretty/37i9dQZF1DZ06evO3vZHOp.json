@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 380840,
+  "num_followers": 380862,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAAabvV4rP49IML4g+f+Cr1z",
+  "snapshot_id": "aqHzAAAAAACXAhXkqpbfj1CbZxPYu5w/",
   "tracks": [
     {
       "added_at": null,
@@ -1039,22 +1039,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/2POOBpENGAB9LDhnT3OSJ6"
       },
       "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Vetements",
-      "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"
+      "duration_ms": 261714,
+      "name": "Andando",
+      "url": "https://open.spotify.com/track/2AG1Rn7k5OPiiylRoGkOq2"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

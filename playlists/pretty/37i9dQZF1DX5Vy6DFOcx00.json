@@ -1,28 +1,52 @@
 {
   "description": "iykyk",
-  "num_followers": 4070968,
+  "num_followers": 4070716,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZSVL9VkEKkg4VxjBoTxkN5IVWG",
+  "snapshot_id": "AAAAALrz1BTzylVVlnJVXBYmbPd9yJA5",
   "tracks": [
     {
-      "added_at": "2026-09-04 15:57:47",
+      "added_at": "2026-09-11 04:42:20",
       "album": {
-        "name": "Dua Lipa - Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 220937,
-      "name": "Training Season (Live from the Royal Albert Hall)",
-      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-08-21 04:02:31",
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Talking Body",
+      "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
     },
     {
       "added_at": "2026-08-06 14:45:02",
@@ -41,6 +65,22 @@
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
+      "added_at": "2026-09-04 15:57:47",
+      "album": {
+        "name": "Dua Lipa - Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220937,
+      "name": "Training Season (Live from the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
+    },
+    {
       "added_at": "2026-08-04 01:43:44",
       "album": {
         "name": "Animal",
@@ -57,20 +97,20 @@
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-09-04 15:57:47",
+      "added_at": "2026-09-11 04:42:20",
       "album": {
-        "name": "Such Great Heights",
-        "url": "https://open.spotify.com/album/6VTLXgGbi8EDfYdPdoknnx"
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 267466,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/7xpypyK1hDruvMMpoyLU0y"
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/2XhmIDdUVi7f44eW5wZEO8"
     },
     {
       "added_at": "2026-08-21 04:02:31",
@@ -87,6 +127,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-09-11 04:42:20",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "In The Room Where You Sleep",
+      "url": "https://open.spotify.com/track/63ped7sDHMOrqMFMBCTPw5"
     },
     {
       "added_at": "2026-08-04 01:43:44",
@@ -109,6 +165,26 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
+      "added_at": "2026-09-11 04:42:20",
+      "album": {
+        "name": "WTF GOIN (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 184705,
+      "name": "WTF GOIN (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
+    },
+    {
       "added_at": "2026-09-04 15:57:47",
       "album": {
         "name": "American Idiot (Deluxe)",
@@ -123,6 +199,22 @@
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3479kk78dx3GFt048Udq54"
+    },
+    {
+      "added_at": "2026-09-11 04:42:20",
+      "album": {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 261849,
+      "name": "D>E>A>T>H>M>E>T>A>L",
+      "url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6"
     },
     {
       "added_at": "2026-09-02 18:56:49",
@@ -157,6 +249,38 @@
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
     },
     {
+      "added_at": "2026-09-11 04:42:20",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-08-21 04:02:31",
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+    },
+    {
       "added_at": "2026-08-04 01:43:44",
       "album": {
         "name": "Ain't In LA",
@@ -171,6 +295,22 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-09-04 15:57:47",
+      "album": {
+        "name": "Such Great Heights",
+        "url": "https://open.spotify.com/album/6VTLXgGbi8EDfYdPdoknnx"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/7xpypyK1hDruvMMpoyLU0y"
     },
     {
       "added_at": "2026-09-02 18:56:49",
@@ -205,22 +345,6 @@
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
-      "added_at": "2026-08-24 19:01:03",
-      "album": {
-        "name": "Pink Blush",
-        "url": "https://open.spotify.com/album/2PtSg7CQrVzHN5tU9dMwYc"
-      },
-      "artists": [
-        {
-          "name": "Dolly Babe",
-          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
-        }
-      ],
-      "duration_ms": 126686,
-      "name": "Pink Blush",
-      "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
-    },
-    {
       "added_at": "2026-07-22 04:13:02",
       "album": {
         "name": "FREAKED OUT",
@@ -241,6 +365,26 @@
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
     },
     {
+      "added_at": "2026-09-11 04:42:20",
+      "album": {
+        "name": "The Boatlift",
+        "url": "https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 245054,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW"
+    },
+    {
       "added_at": "2026-08-04 01:43:44",
       "album": {
         "name": "RMB (Ring My Bell)",
@@ -255,22 +399,6 @@
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
-    },
-    {
-      "added_at": "2026-08-21 04:02:31",
-      "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Talking Body",
-      "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
     },
     {
       "added_at": "2026-08-21 04:02:31",
@@ -325,6 +453,22 @@
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
+      "added_at": "2026-08-24 19:01:03",
+      "album": {
+        "name": "Pink Blush",
+        "url": "https://open.spotify.com/album/2PtSg7CQrVzHN5tU9dMwYc"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        }
+      ],
+      "duration_ms": 126686,
+      "name": "Pink Blush",
+      "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
+    },
+    {
       "added_at": "2026-08-06 14:45:02",
       "album": {
         "name": "Movin' To The Sun",
@@ -347,22 +491,6 @@
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
-    },
-    {
-      "added_at": "2026-08-21 04:02:31",
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": "2026-08-06 14:51:57",
@@ -935,22 +1063,6 @@
     {
       "added_at": "2026-07-08 04:50:48",
       "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Silver Jubilee",
-      "url": "https://open.spotify.com/track/5KjJYrM3UXmvhqtQntrsJM"
-    },
-    {
-      "added_at": "2026-07-08 04:50:48",
-      "album": {
         "name": "Blue Bell Knoll",
         "url": "https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa"
       },
@@ -963,22 +1075,6 @@
       "duration_ms": 226293,
       "name": "Cico Buff",
       "url": "https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM"
-    },
-    {
-      "added_at": "2026-07-22 04:13:02",
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     },
     {
       "added_at": "2026-07-03 04:02:28",

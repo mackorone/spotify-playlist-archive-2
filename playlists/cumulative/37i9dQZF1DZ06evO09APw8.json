@@ -1293,6 +1293,32 @@
     },
     {
       "album": {
+        "name": "PROLIFIC",
+        "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231020,
+      "name": "Vibe With Me (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0zqtucceflE4DfNRFUkASn"
+    },
+    {
+      "album": {
         "name": "Vibe With Me (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4QcWnqjIYlUy5EATXmKROm"
       },
@@ -1312,7 +1338,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 231020,
       "name": "Vibe With Me (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/693LQJYRGgnWWPYoD1XtWw"

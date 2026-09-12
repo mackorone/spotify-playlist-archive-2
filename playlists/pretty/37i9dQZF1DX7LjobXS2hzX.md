@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment avec Gabriel Fredette
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,342 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,340 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SPIN](https://open.spotify.com/track/1dUvysCwz1rpDYC4dB4LQ2) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [SPIN](https://open.spotify.com/album/3IwFRHsFLXMg4NrW2aU8Gv) | 2:00 |
-| 2 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
-| 3 | [Yukon](https://open.spotify.com/track/0Z8rYaE3DeqqBFFwzlmyWU) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Yukon](https://open.spotify.com/album/5TUvJELhpYWT9OsOsN2YQM) | 3:25 |
-| 4 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
-| 5 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
-| 6 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
-| 7 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
-| 8 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
-| 9 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
-| 10 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 11 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
+| 2 | [Yukon](https://open.spotify.com/track/0Z8rYaE3DeqqBFFwzlmyWU) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Yukon](https://open.spotify.com/album/5TUvJELhpYWT9OsOsN2YQM) | 3:25 |
+| 3 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 4 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
+| 5 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
+| 6 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
+| 7 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
+| 8 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
+| 9 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 10 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
+| 11 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
 | 12 | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/track/4dEdCP7SArFidN9tdqeTOr) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Lonesome Cowboy \(feat\. Trudy\)](https://open.spotify.com/album/1L3fyGhW08OhmNBlhKKWtU) | 2:35 |
 | 13 | [PLEURE BÉBÉ PLEURE](https://open.spotify.com/track/0APix62lflArQP8eXJQCdF) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 2:30 |
 | 14 | [À deux](https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [À deux](https://open.spotify.com/album/0I5ismsSKnFfl9LzEuMHHZ) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 49 | [Tant qu'on est toi et moi](https://open.spotify.com/track/5XEHDW9XdDosfI5pltNDq1) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [À quoi ça sert](https://open.spotify.com/album/2GWhOoUucN8TIpmKmTaKh9) | 2:49 |
 | 50 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
 
-Snapshot ID: `AAAAAJhdK8gk+gZE+jCCsiPEhOXEG2Rt`
+Snapshot ID: `AAAAAKTIeOLGCEN/4yS/6vHJa8frn0us`

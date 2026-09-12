@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Kaestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,313 likes - 78 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,439 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 0:00 |
+| 1 | [One Life](https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:38 |
 | 2 | [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 |
 | 3 | [SHON PE \(Count Your Money\)](https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [SHON PE \(Count Your Money\)](https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk) | 2:38 |
 | 4 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 26 | [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 |
 | 27 | [Know You](https://open.spotify.com/track/58nwReMJ5wix6IvUt78sya) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Know You](https://open.spotify.com/album/2O4HKK60xZkvArl0Il5fha) | 2:43 |
 | 28 | [Fluke](https://open.spotify.com/track/2e4OfrdRC8YiRqyLZzw8M9) | [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H), [2Shuus](https://open.spotify.com/artist/6Eo29tqff5IN3p06rBvjma) | [Fluke](https://open.spotify.com/album/1Tl1G4TJ6tOA3cNw6r5CiY) | 2:36 |
-| 29 | [Track 6](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 0:00 |
+| 29 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
 | 30 | [Anybody](https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Anybody](https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv) | 2:30 |
 | 31 | [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 |
 | 32 | [Pass By](https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC) | [Yan Yan](https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC) | [Pass By](https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye) | 3:09 |

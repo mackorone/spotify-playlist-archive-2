@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-591 songs - 1 day 15 hr 40 min
+592 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 | 2024-06-15 |
 | [Keep The Faith](https://open.spotify.com/track/5xuRJS8QBHVKiD7J1zkxFm) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/57IHF6KGGaZ9F8KcCahyh6) | 3:28 | 2022-04-05 | 2023-06-05 |
 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 | 2021-10-22 | 2023-05-20 |
-| [Keep Your Worries On the Dance Floor](https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Keep Your Worries On the Dance Floor / West Georgia Blues](https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup) | 2:49 | 2024-08-16 |  |
+| [Keep Your Worries On the Dance Floor](https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Keep Your Worries On the Dance Floor / West Georgia Blues](https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup) | 2:49 | 2024-08-16 | 2026-09-12 |
+| [Lady On The Rise](https://open.spotify.com/track/5PHQkUPR0b5Dhaf6KdU6RG) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Lady On The Rise](https://open.spotify.com/album/0AiUwhjyio00B25Pyf1VzE) | 3:17 | 2026-09-11 |  |
 | [Last Call](https://open.spotify.com/track/3VYsTcWT8Fpvk7buYRIOyK) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 3:13 | 2022-04-08 | 2024-02-17 |
 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 | 2023-12-24 |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |

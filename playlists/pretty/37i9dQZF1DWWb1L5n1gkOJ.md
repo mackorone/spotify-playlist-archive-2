@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,364 likes - 130 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,428 likes - 130 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 129 | [Nightfall Reflections](https://open.spotify.com/track/0xlKlIovlpqrVGurUvGfIU) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Nightfall Reflections](https://open.spotify.com/album/6lDpCUAfrqmhn3wERJe85D) | 2:30 |
 | 130 | [Changing Colors](https://open.spotify.com/track/0m5L3BRb1HtOxHVrBqxwYQ) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Changing Colors](https://open.spotify.com/album/7qIE5GdXlfEUvGgOWn1MOK) | 2:56 |
 
-Snapshot ID: `AAAAACT6lHuR9+EoIDlWlEbg9s1VKf1k`
+Snapshot ID: `AAAAANzC5SIYb4xyHgSUwL8U649QrerE`

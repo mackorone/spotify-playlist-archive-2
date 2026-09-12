@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 95111,
       "name": "AUTOMOTIVO MANGOS",
       "url": "https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE"
@@ -5349,6 +5349,28 @@
     },
     {
       "album": {
+        "name": "ENTITY.096",
+        "url": "https://open.spotify.com/album/11gFYpK4EY9cog6QoMR3A3"
+      },
+      "artists": [
+        {
+          "name": "KLEAVE",
+          "url": "https://open.spotify.com/artist/2q4PUtVw3ihgeswR2Lgurd"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100208,
+      "name": "ENTITY.096",
+      "url": "https://open.spotify.com/track/5AEu8NXniMOgVdZO6lfSux"
+    },
+    {
+      "album": {
         "name": "envy",
         "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
       },
@@ -8874,7 +8896,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 88641,
       "name": "LUA NA PRA\u00c7A",
       "url": "https://open.spotify.com/track/4iRGOPSFgEFOphkqY6ryCC"
@@ -9280,7 +9302,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 75692,
       "name": "MAZKO",
       "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
@@ -10782,6 +10804,32 @@
       "duration_ms": 225692,
       "name": "Montagem Game 196 e Nem Come\u00e7ou o Filme (feat. MC Morena de SP)",
       "url": "https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM GLORIA",
+        "url": "https://open.spotify.com/album/2XxmqQFk28rhue5lcFDlAr"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "Avenxir",
+          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
+        },
+        {
+          "name": "MONTAGEM",
+          "url": "https://open.spotify.com/artist/6gzkhdNfpMIPg91TnzlcCh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91705,
+      "name": "MONTAGEM GLORIA - Slowed",
+      "url": "https://open.spotify.com/track/0Y1Vb6vNwQz9VhInGVdMO8"
     },
     {
       "album": {

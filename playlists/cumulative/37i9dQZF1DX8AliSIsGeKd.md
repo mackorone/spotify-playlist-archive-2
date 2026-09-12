@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Pretty Pink
 
-7,567 songs - 25 day 11 hr 8 min
+7,568 songs - 25 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1807,6 +1807,7 @@
 | [Dreaming](https://open.spotify.com/track/4OGXxjYGveFSypbJ4RYIwe) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Mae Thorne](https://open.spotify.com/artist/1KHB5lWpzFAXQxmfW3Z1dj) | [Dreaming](https://open.spotify.com/album/4u08ZzxHnljHUvaQO40mZi) | 3:57 | 2024-11-21 | 2024-12-06 |
 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 | 2022-04-28 | 2022-05-20 |
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-05 | 2022-05-20 |
+| [Dreaming Ain't Enough](https://open.spotify.com/track/0tZPGQRwG9ONfAfVNBPVMy) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp) | [Dreaming Ain't Enough](https://open.spotify.com/album/5Jovp5l5xPEEfT84XEABMs) | 2:53 | 2026-09-11 |  |
 | [DREAMING ON](https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [DREAMING ON](https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN) | 3:50 | 2025-09-25 | 2025-10-24 |
 | [Dreams](https://open.spotify.com/track/4dP7We6ZGe4Yu4HwZrDgoh) | [Eva Koval](https://open.spotify.com/artist/5wBT4e6xjcmEMSy8TtyrE0) | [Dreams](https://open.spotify.com/album/3qj06TPxZp4fhWOvUPnYDT) | 2:50 | 2025-01-16 | 2025-02-07 |
 | [Dreams](https://open.spotify.com/track/3auek7MSZUmpBNdA8vArVL) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Dreams](https://open.spotify.com/album/61z68AIEA7ByGsgtUD9HEv) | 5:21 | 2022-09-16 | 2022-10-07 |
@@ -3315,6 +3316,7 @@
 | [Indoor Sunshine](https://open.spotify.com/track/7mHnTTfiFCrGytw2gFKQaZ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism Forever \(Anniversary Edition\)](https://open.spotify.com/album/3wNreMiNUtgfVKtezTLNRq) | 4:06 | 2024-04-18 | 2024-05-10 |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-03-09 | 2023-03-31 |
 | [Inert](https://open.spotify.com/track/3QQWH8Xf3iqErO7KzxGMxq) | [Arude](https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9), [KXNE](https://open.spotify.com/artist/4UK50f2AHGWTOFHbs8JuUs) | [Inert](https://open.spotify.com/album/3hgMIWROW86zBBWaH2C3Pr) | 3:13 | 2025-07-03 | 2025-07-25 |
+| [Inertia](https://open.spotify.com/track/6k9JjE7QHzXk4XU6fjESOU) | [PUCK](https://open.spotify.com/artist/3VbM995kwwzBzreprmmJXe), [Cary Crank](https://open.spotify.com/artist/43TvZ4ARP8NWlCy1x3KWt9) | [Inertia](https://open.spotify.com/album/4sBM2XmABgnlxceEppDck7) | 3:52 | 2026-09-10 |  |
 | [Infected](https://open.spotify.com/track/07okvQJeT4FuXAJg8etbNv) | [Konstantin Kobra](https://open.spotify.com/artist/3DrjwSO3TZCVxunzI4Uv4G) | [Infected](https://open.spotify.com/album/7Fw5iGKsPV6kfENkKNUh0M) | 4:01 | 2026-04-23 | 2026-05-15 |
 | [Infinite](https://open.spotify.com/track/4IJcNzKw1xhmo6EQUr7liN) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Infinite](https://open.spotify.com/album/7ernpwwQUGLrKdgLXR1YYA) | 5:23 | 2025-06-20 | 2025-07-11 |
 | [Infinite](https://open.spotify.com/track/7aseE2DrxujDONymJBgsM4) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Infinite](https://open.spotify.com/album/5QgnD3u99Qo6QHB7UcafKN) | 6:36 | 2022-04-14 | 2022-04-22 |
@@ -6817,7 +6819,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/6k9JjE7QHzXk4XU6fjESOU) | [PUCK](https://open.spotify.com/artist/3VbM995kwwzBzreprmmJXe) | [Inertia](https://open.spotify.com/album/4sBM2XmABgnlxceEppDck7) | 0:00 | 2026-09-10 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

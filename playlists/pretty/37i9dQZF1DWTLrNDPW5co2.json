@@ -1,32 +1,52 @@
 {
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Pabllo Vittar. ",
-  "num_followers": 260896,
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Hercules & Love Affair. ",
+  "num_followers": 260879,
   "original_name": "Club Resistance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2OKm3OK31Y27F3JzyrW+l5ZqAR",
+  "snapshot_id": "AAAAAPvX6QVVW3T+8eI81sVw5ogneoSX",
   "tracks": [
     {
-      "added_at": "2026-09-04 18:50:21",
+      "added_at": "2026-09-11 04:01:57",
       "album": {
-        "name": "BODY TYPE",
-        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
+        "name": "Danseur",
+        "url": "https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
         },
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "name": "Faris Badwan",
+          "url": "https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup"
         }
       ],
-      "duration_ms": 146500,
-      "name": "BODY TYPE",
-      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
+      "duration_ms": 246000,
+      "name": "Heaven (feat. Faris Badwan)",
+      "url": "https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs"
+    },
+    {
+      "added_at": "2026-09-04 18:50:21",
+      "album": {
+        "name": "Disc 1",
+        "url": "https://open.spotify.com/album/2YNN0P8mQwmN8PkSsi2qCp"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 381113,
+      "name": "Ladida - Honey Dijon Remix",
+      "url": "https://open.spotify.com/track/4cXe7WcwfwL0YKVwXI1pk4"
     },
     {
       "added_at": "2026-09-04 18:50:21",
@@ -47,6 +67,26 @@
       "duration_ms": 204000,
       "name": "Put4n4 (feat. Evissimax)",
       "url": "https://open.spotify.com/track/3fLZrTCsdpPmS2gHKHyP8m"
+    },
+    {
+      "added_at": "2026-09-04 18:50:21",
+      "album": {
+        "name": "BODY TYPE",
+        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "BODY TYPE",
+      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
     },
     {
       "added_at": "2026-09-04 18:50:21",
@@ -127,26 +167,6 @@
     {
       "added_at": "2026-09-04 18:50:21",
       "album": {
-        "name": "My Journey",
-        "url": "https://open.spotify.com/album/6YdEaSvHBeTVdzteLKe0hB"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Hips & Lips",
-          "url": "https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q"
-        }
-      ],
-      "duration_ms": 421219,
-      "name": "My Journey",
-      "url": "https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF"
-    },
-    {
-      "added_at": "2026-09-04 18:50:21",
-      "album": {
         "name": "3M",
         "url": "https://open.spotify.com/album/60COD3Xv8RiHYvaYSSWspF"
       },
@@ -179,6 +199,26 @@
     {
       "added_at": "2026-09-04 18:50:21",
       "album": {
+        "name": "My Journey",
+        "url": "https://open.spotify.com/album/6YdEaSvHBeTVdzteLKe0hB"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Hips & Lips",
+          "url": "https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q"
+        }
+      ],
+      "duration_ms": 421219,
+      "name": "My Journey",
+      "url": "https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF"
+    },
+    {
+      "added_at": "2026-09-04 18:50:21",
+      "album": {
         "name": "The Velvet Hour",
         "url": "https://open.spotify.com/album/1U99U1mLw51GmAhHG90pQX"
       },
@@ -191,26 +231,6 @@
       "duration_ms": 234666,
       "name": "Velvet Skin",
       "url": "https://open.spotify.com/track/1dIQeSeqf6fbrPSarwH8jZ"
-    },
-    {
-      "added_at": "2026-09-04 18:50:21",
-      "album": {
-        "name": "Disc 1",
-        "url": "https://open.spotify.com/album/2YNN0P8mQwmN8PkSsi2qCp"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 381113,
-      "name": "Ladida - Honey Dijon Remix",
-      "url": "https://open.spotify.com/track/4cXe7WcwfwL0YKVwXI1pk4"
     },
     {
       "added_at": "2026-09-04 18:50:21",
@@ -1379,22 +1399,6 @@
       "duration_ms": 121273,
       "name": "365 featuring shygirl",
       "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
-    },
-    {
-      "added_at": "2026-09-04 18:50:21",
-      "album": {
-        "name": "Famous / Talk Sh!t",
-        "url": "https://open.spotify.com/album/2MSDdpOJGms3cP65kGDc9m"
-      },
-      "artists": [
-        {
-          "name": "Chippy Nonstop",
-          "url": "https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS"
-        }
-      ],
-      "duration_ms": 183252,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/5wmJB8AJl5whV6ku8puLsU"
     },
     {
       "added_at": "2026-09-04 18:50:21",

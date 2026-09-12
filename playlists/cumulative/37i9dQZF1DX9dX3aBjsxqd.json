@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Cantique",
+        "url": "https://open.spotify.com/album/11K9KLYM6cu9eUCbhIT4pU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Boulanger",
+          "url": "https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7"
+        },
+        {
+          "name": "Anouchka Hack",
+          "url": "https://open.spotify.com/artist/0EF2Pnl3aFhj5mNb8GzKcq"
+        },
+        {
+          "name": "Katharina Hack",
+          "url": "https://open.spotify.com/artist/16A9jnAldDIuMCqc1j2arg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162175,
+      "name": "Cantique",
+      "url": "https://open.spotify.com/track/2e2m1p8oBdo2KyR7JAEXpJ"
+    },
+    {
+      "album": {
         "name": "Cello Encores",
         "url": "https://open.spotify.com/album/05gvTtnooqj9jvxlV7X0dI"
       },

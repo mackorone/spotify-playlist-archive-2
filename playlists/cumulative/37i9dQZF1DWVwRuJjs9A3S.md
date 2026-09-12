@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: DJ Suzy
 
-1,391 songs - 3 day 7 hr 58 min
+1,391 songs - 3 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [My Love Mine All Mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 | 2024-06-27 | 2024-08-23 |
 | [My Medicine](https://open.spotify.com/track/1GGjyOibu25zR9D5KZknT0) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [My Medicine](https://open.spotify.com/album/0emw0V77O3Z2bIpJJdwDY0) | 2:00 | 2025-01-02 | 2025-02-07 |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-10-16 | 2026-05-01 |
+| [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 | 2026-09-10 |  |
 | [Människobarn](https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7) | 3:38 | 2025-12-04 | 2026-05-01 |
 | [Naked](https://open.spotify.com/track/2mbLW5bfq7kwwGJfU8Zd6c) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Naked](https://open.spotify.com/album/5uQ7wGkeiE2czGZ9YirI0z) | 3:12 | 2026-01-22 | 2026-09-11 |
 | [naming you](https://open.spotify.com/track/6IY9hrzdfTJZm8eMtVfCp2) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [naming you / swim in illyria](https://open.spotify.com/album/1BmmcpsWMjkAFgLUSeplYp) | 3:21 | 2026-06-04 |  |
@@ -1258,7 +1259,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 | 2026-08-20 |  |
-| [Track 5](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 0:00 | 2026-09-10 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-09-11 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

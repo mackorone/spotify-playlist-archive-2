@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,378 songs - 3 day 14 hr 19 min
+1,384 songs - 3 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Blaze of Nihilism](https://open.spotify.com/track/1Gj7O01k7FbghPN0Pb2Odk) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [A Blaze of Nihilism](https://open.spotify.com/album/3ve1oUyQcEmazFTcB7voYD) | 2:52 | 2026-06-05 |  |
 | [A Brief Article Regarding Time Loops](https://open.spotify.com/track/7nBxfkl6GFczlHpUf1wetV) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [A Brief Article Regarding Time Loops](https://open.spotify.com/album/1YjnIyO6kAmGm2IhpaaU8o) | 3:17 | 2022-04-01 | 2023-07-15 |
 | [A CALL BEYOND](https://open.spotify.com/track/73IaIVb6CHiTFgvHyZdO1r) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [A CALL BEYOND](https://open.spotify.com/album/6fiS4XzEFlLvu9BZ7tb0pp) | 2:13 | 2025-07-18 | 2026-08-29 |
+| [A Congealed Miasma](https://open.spotify.com/track/0LmVFxVGtJEBq0oMxZua4l) | [Killing of a Sacred Deer](https://open.spotify.com/artist/3oCnbyLX60bL7JryfJlgKX) | [Encephalic Angels](https://open.spotify.com/album/2w7J40PnwZy5Jr38RAKKcK) | 2:41 | 2026-09-11 |  |
 | [A Decision](https://open.spotify.com/track/5BT95T4oqpHFyucEPB3RGu) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [A Glimpse Through the Lens](https://open.spotify.com/album/1O8PPgVoanU9dnpFBo8Btl) | 2:49 | 2022-02-18 | 2023-07-15 |
 | [A Display of Penance](https://open.spotify.com/track/5TSiAM9hkTPMcG3sChmbHA) | [Burial Path](https://open.spotify.com/artist/0H3OT5fRfWx8jFkLAEQOIb) | [A Display of Penance](https://open.spotify.com/album/7legvC7Eo0oDaeYQltpdSD) | 4:35 | 2026-04-10 |  |
 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:37 | 2024-01-19 | 2025-04-11 |
@@ -483,6 +484,7 @@
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 | 2023-07-15 |
 | [gore of being](https://open.spotify.com/track/7a7Sb9JRZzAabOotJ1e5Ww) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Gore Of Being](https://open.spotify.com/album/3Nns8PYQz8QGOQrveu25Up) | 3:52 | 2025-07-11 | 2026-08-29 |
 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 | 2024-07-19 | 2025-04-11 |
+| [Graceless](https://open.spotify.com/track/6hmDWLpg9foHG9duUBpDyd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Graceless](https://open.spotify.com/album/4SusDW04vQsSdhT0yt06ek) | 1:53 | 2026-09-11 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 | 2024-02-03 |
 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-10 | 2026-01-24 |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2023-07-15 |
@@ -615,6 +617,7 @@
 | [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 | 2024-02-03 |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 | 2023-07-15 |
 | [Just A Shadow](https://open.spotify.com/track/730L9hWMFO39zpAzLxrdDD) | [A.A\. Williams](https://open.spotify.com/artist/1D0MStnRzJeelcnDjeBo8O) | [Just A Shadow](https://open.spotify.com/album/12BtaLIDkNsfNwwM0WaNax) | 4:46 | 2025-12-12 |  |
+| [Just Be Honest](https://open.spotify.com/track/3vJOqcerQowFqJjzNtzKpH) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Just Be Honest](https://open.spotify.com/album/5iuRdw0K02hz5oNkLKcUhW) | 3:24 | 2026-09-11 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2023-07-15 |
 | [Karma Goddess](https://open.spotify.com/track/7nIq1nnF5MfihZqyNabpBz) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Bright as Blasphemy](https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt) | 4:11 | 2025-08-15 | 2026-08-29 |
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-06 |  |
@@ -728,6 +731,7 @@
 | [Morningstar](https://open.spotify.com/track/5kVrwKg7XiDQhUYkLVQ5IH) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Morningstar](https://open.spotify.com/album/4BVjV2GSsZGQ5uMsf5GlLd) | 4:26 | 2024-12-20 | 2025-04-11 |
 | [Moss Covered Bones on the Altar of the Moon](https://open.spotify.com/track/0De00dygLOh4RPiHiUxxXX) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [Moss Covered Bones on the Altar of the Moon](https://open.spotify.com/album/3roLrZFABeRPIVKWvntYZU) | 13:30 | 2023-05-05 | 2024-02-03 |
 | [Mother Fucking Liar](https://open.spotify.com/track/2iu3j0Gumnc0aTUhuGjJAR) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Mother Fucking Liar](https://open.spotify.com/album/5rIBeueszVxOFNhXulxiwb) | 3:12 | 2022-04-29 | 2023-07-15 |
+| [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 | 2026-09-11 |  |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 | 2023-07-15 |
 | [Mr\. God](https://open.spotify.com/track/6rlhXazIKGZCMnfrbSMr0Y) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Mr\. God](https://open.spotify.com/album/18I6V64mNbcuXVsHjJlezv) | 2:58 | 2026-04-03 |  |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 | 2023-07-15 |
@@ -792,6 +796,7 @@
 | [Nothing Left to Hate](https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Nothing Left to Hate](https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A) | 3:12 | 2026-01-09 |  |
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 | 2025-04-11 |
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-10-18 | 2025-04-11 |
+| [Nuclear God](https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nuclear God](https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH) | 5:08 | 2026-09-11 |  |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 | 2023-07-15 |
 | [Numb The Pain](https://open.spotify.com/track/0TD9zLvWImAZMbMaP132IW) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Numb The Pain](https://open.spotify.com/album/0CJSjtmDIHA8hvOiFNhvxW) | 2:57 | 2026-07-10 |  |
 | [Numb To What Is Real](https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone / Numb To What Is Real](https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9) | 2:49 | 2024-12-13 | 2025-04-11 |
@@ -1193,6 +1198,7 @@
 | [The Sword](https://open.spotify.com/track/05qT8gN3heAxK7Xl5gNtd9) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF) | [The Sword](https://open.spotify.com/album/0tVkqXRLaWHYAHaQXdGWx1) | 1:06 | 2026-05-08 |  |
 | [The Sword That Never Bends](https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Sword That Never Bends](https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR) | 3:46 | 2026-06-12 |  |
 | [The Tailor](https://open.spotify.com/track/4EJGQvPPAlgBE3Ti4zz6PA) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [HOLLOW](https://open.spotify.com/album/1LK444XZJ63RTtdU9Gmyfj) | 4:17 | 2026-08-07 |  |
+| [The Ultimate Weapon](https://open.spotify.com/track/4zcR7cOp2RfWCr3M2c83Kc) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [The Ultimate Weapon](https://open.spotify.com/album/3me9QAiuKGhj6032Btv834) | 4:14 | 2026-09-11 |  |
 | [The Undying](https://open.spotify.com/track/3xLm7lIQPEkCamsWhKzuum) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [The Undying](https://open.spotify.com/album/2bDfUonCv8iWbwgxJ3HPMo) | 5:04 | 2024-07-19 | 2025-04-11 |
 | [The Vigour of Evil](https://open.spotify.com/track/4cY10FaoZgYU5LkmgSYsqh) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [The Vigour of Evil](https://open.spotify.com/album/36XknJHEttZcRf0Q7812zX) | 4:29 | 2022-04-01 | 2023-07-15 |
 | [The Way Things Should End](https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1) | [Torn Open](https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX) | [The Way Things Should End](https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY) | 3:18 | 2026-03-27 |  |

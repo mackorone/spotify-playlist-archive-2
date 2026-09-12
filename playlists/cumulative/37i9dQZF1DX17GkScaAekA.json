@@ -1017,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/47It6NIjNCUHsL1J5MU3BZ"
+      },
+      "artists": [
+        {
+          "name": "Carl Czerny",
+          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
+        },
+        {
+          "name": "Justus Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107546,
+      "name": "Die Kunst der Fingerfertigkeit, Op. 740: No. 14 in G Minor (Arr. Eichhorn) - Upright Version",
+      "url": "https://open.spotify.com/track/0OMdtVVfQsWUuisDkLJUXI"
+    },
+    {
+      "album": {
         "name": "Liszt Complete Piano Music, Vol. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff",
         "url": "https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz"
       },

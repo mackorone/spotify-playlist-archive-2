@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,455 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,478 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 73 | [A Minha Menina](https://open.spotify.com/track/3CCGsOj2efotChiScMmCWg) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0gUoiZk9aWpg3HXaygDNp6) | 4:44 |
 | 74 | [Terry](https://open.spotify.com/track/2RGoQSyesiUe15WN5ybjKw) | [Twinkle](https://open.spotify.com/artist/3crDJ76ifWM4gBITlJjEsW) | [Golden Lights](https://open.spotify.com/album/4g4r84cgJiFNLevs491U0W) | 3:11 |
 | 75 | [Bonnie And Clyde](https://open.spotify.com/track/1XUfolhiz741z4WLMOnKmd) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bonnie And Clyde](https://open.spotify.com/album/4bUHEvMDSA8Y0uIDco133a) | 4:15 |
-| 76 | [Trouble Every Day](https://open.spotify.com/track/2j25bv2cpByJLaNZRKEBwR) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Freak Out!](https://open.spotify.com/album/6qfS5de8GAy1G5tk7tyiof) | 5:50 |
+| 76 | [Trouble Every Day](https://open.spotify.com/track/2j25bv2cpByJLaNZRKEBwR) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL), [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Freak Out!](https://open.spotify.com/album/6qfS5de8GAy1G5tk7tyiof) | 5:50 |
 | 77 | [21st Century Schizoid Man \- Written By King Crimson](https://open.spotify.com/track/0KXRsLgp4NTFJ0TDTwHGuW) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [We Hunt Buffalo](https://open.spotify.com/album/5mMxZftwa6QmocAteKTjoK) | 4:14 |
 | 78 | [Death Cab for Cutie \- 2007 Remaster](https://open.spotify.com/track/3pYM1COOgzTV1QUokz2BSX) | [The Bonzo Dog Band](https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx) | [Gorilla](https://open.spotify.com/album/6uFpUlhisObpcBkMevFrOo) | 2:54 |
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |

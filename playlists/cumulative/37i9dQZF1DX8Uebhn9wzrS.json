@@ -46173,6 +46173,24 @@
     },
     {
       "album": {
+        "name": "Where We Wander",
+        "url": "https://open.spotify.com/album/0ad90ri8Zih5XANHdfIAs5"
+      },
+      "artists": [
+        {
+          "name": "Second Cup",
+          "url": "https://open.spotify.com/artist/6K4cUa3X1A8IxOyuzwYlBz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129346,
+      "name": "Where We Wander",
+      "url": "https://open.spotify.com/track/5zQHpd8xbB4JfEpelH0PEZ"
+    },
+    {
+      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4"
       },

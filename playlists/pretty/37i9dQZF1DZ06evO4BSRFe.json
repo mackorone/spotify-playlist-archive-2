@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 70914,
+  "num_followers": 70925,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAADqihy27VCtnaHr+cuF+7+Z",
+  "snapshot_id": "aqHzAAAAAADGRhF3XSN8Sybt99V7AAH9",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+        "name": "Los corridos de los machos",
+        "url": "https://open.spotify.com/album/4pg7vvZ4bIwtDt4KTbyZ2v"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 185146,
-      "name": "No soy monedita de oro",
-      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+      "duration_ms": 190386,
+      "name": "Traficantes michoacanos",
+      "url": "https://open.spotify.com/track/66RcrbETM4dURNG2eGG860"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los corridos de los machos",
-        "url": "https://open.spotify.com/album/4pg7vvZ4bIwtDt4KTbyZ2v"
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 190386,
-      "name": "Traficantes michoacanos",
-      "url": "https://open.spotify.com/track/66RcrbETM4dURNG2eGG860"
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Grandes exitos Vol. 2",
-        "url": "https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "La suegra",
-      "url": "https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 188506,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        },
-        {
-          "name": "Pedro Magdaleno",
-          "url": "https://open.spotify.com/artist/5dhr9F9C2GXOeMqhMV9EfC"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Volver a empezar",
-      "url": "https://open.spotify.com/track/72TESm64s0W784aHoK4k0c"
+      "duration_ms": 153306,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Pedro Magdaleno",
+          "url": "https://open.spotify.com/artist/5dhr9F9C2GXOeMqhMV9EfC"
         }
       ],
-      "duration_ms": 153306,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0"
+      "duration_ms": 242333,
+      "name": "Volver a empezar",
+      "url": "https://open.spotify.com/track/72TESm64s0W784aHoK4k0c"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+        "name": "Las Estrellas de la Musica Mexicana (USA)",
+        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 153013,
-      "name": "En toda la chapa",
-      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
+      "duration_ms": 216306,
+      "name": "Mi guitarra y yo",
+      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Estrellas de la Musica Mexicana (USA)",
-        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 216306,
-      "name": "Mi guitarra y yo",
-      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
+      "duration_ms": 153013,
+      "name": "En toda la chapa",
+      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 215527,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/4v2pHWmKEn3L3OmptYIImz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Recu\u00e9rdame y ven",
-      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 141093,
       "name": "El pa\u00f1uelo",
       "url": "https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Recu\u00e9rdame y ven",
+      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
     },
     {
       "added_at": null,

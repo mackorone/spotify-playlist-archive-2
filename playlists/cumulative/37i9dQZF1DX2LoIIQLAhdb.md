@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Ocevne
 
-780 songs - 1 day 12 hr 38 min
+781 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 | 2024-09-19 | 2025-09-05 |
 | [Reviens \(feat\. Monsieur Nov\)](https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:35 | 2025-02-13 | 2025-06-27 |
 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 | 2024-10-10 | 2025-03-07 |
-| [Ride](https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:25 | 2026-09-10 |  |
+| [Ride](https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:25 | 2026-09-10 | 2026-09-12 |
 | [RIHANNA](https://open.spotify.com/track/74rFjKlYPfl4BNaayWbffi) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [RIHANNA](https://open.spotify.com/album/5I4dgy1hoY6sagt97wS6cj) | 2:32 | 2026-02-26 | 2026-04-24 |
 | [RODÉO](https://open.spotify.com/track/7MxQsNFwVSMfAE1ZCdu6es) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [RODÉO](https://open.spotify.com/album/0uNtBDNp16EMfJBFg8h8l5) | 2:22 | 2025-04-10 | 2025-05-09 |
 | [Ronaldinho](https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Ronaldinho](https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8) | 3:23 | 2025-07-24 | 2025-11-21 |
@@ -715,6 +715,7 @@
 | [Terminus](https://open.spotify.com/track/1PmqzAPW4ENj84hc2j2phd) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Deuxième pétale : Floraison](https://open.spotify.com/album/71WdeCo2ntxF6VKSEHnqKU) | 2:59 | 2025-10-16 | 2025-12-12 |
 | [Terminé](https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Terminé](https://open.spotify.com/album/6M6flSEBeH8E0ry91NrBKb) | 3:30 | 2026-06-11 |  |
 | [Terminé \- Summer Version](https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Terminé \(Summer Version\)](https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z) | 2:19 | 2025-07-10 | 2025-11-14 |
+| [Textile](https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:38 | 2026-09-11 |  |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
 | [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 | 2024-11-08 |
 | [Titanic](https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Titanic](https://open.spotify.com/album/76mqpNEK8FRHzOMZUxwDaK) | 2:59 | 2026-08-20 |  |

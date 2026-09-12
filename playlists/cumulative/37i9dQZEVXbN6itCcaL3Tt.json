@@ -15326,7 +15326,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 165335,
       "name": "Dr. Traphouse (feat. Belmondo)",
       "url": "https://open.spotify.com/track/4oTxydt59qd2UO9BcFLU9e"
@@ -38248,7 +38248,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 220000,
       "name": "NIC NIE MIJA",
       "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
@@ -44052,6 +44052,40 @@
       "duration_ms": 178862,
       "name": "Parostatek",
       "url": "https://open.spotify.com/track/1X60z5rwi3IkF5wVtmyjZY"
+    },
+    {
+      "album": {
+        "name": "Party Bus",
+        "url": "https://open.spotify.com/album/1L6HchetFe1zJYjuCdnrx4"
+      },
+      "artists": [
+        {
+          "name": "NEWGEN",
+          "url": "https://open.spotify.com/artist/6t1FWcWt56g45JgJcMd7wA"
+        },
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "Medusa",
+          "url": "https://open.spotify.com/artist/1rCqmy4pPtGmPMYnIzNEGK"
+        },
+        {
+          "name": "Wojtek Gola",
+          "url": "https://open.spotify.com/artist/1kq22wphL0Umj2xX6yz7Vq"
+        },
+        {
+          "name": "Postirol",
+          "url": "https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Party Bus",
+      "url": "https://open.spotify.com/track/11KuInpYyT6qldEJiNkrwX"
     },
     {
       "album": {
@@ -54542,7 +54576,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

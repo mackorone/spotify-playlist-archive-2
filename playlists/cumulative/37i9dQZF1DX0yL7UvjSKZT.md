@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Mountain Grass Unit
 
-547 songs - 1 day 9 hr 42 min
+548 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Afterlifer](https://open.spotify.com/track/5HW5jLtQTiwCIP7szHFogB) | [JD Pinkus](https://open.spotify.com/artist/3kjDglROBT39WUVvPtDSEX), [Tall Tall Trees](https://open.spotify.com/artist/7E4RVv4JRB5EkgWFBmlcKx) | [Afterlifer](https://open.spotify.com/album/17YbIbl57XahxyBP9pTcn7) | 5:01 | 2023-06-09 | 2024-03-09 |
 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 | 2021-10-01 | 2023-05-16 |
 | [All Around You](https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [All Around You](https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR) | 3:13 | 2025-03-03 |  |
-| [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2023-08-18 |  |
+| [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2023-08-18 | 2026-09-12 |
 | [All Day All Night](https://open.spotify.com/track/7fea0ovRcsLj0OkFNN6i8u) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [All Day All Night](https://open.spotify.com/album/5V9fvMfnhzIGCEmfAUjBvw) | 3:33 | 2021-10-01 | 2022-01-22 |
 | [All For the Song](https://open.spotify.com/track/2u7z8YKuEj4WzVGnooSKKs) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [All For the Song](https://open.spotify.com/album/1jQNrctvxHMZM0cuFYumiz) | 5:28 | 2022-04-22 | 2022-07-16 |
 | [all of me was you](https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [all of me was you](https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5) | 3:04 | 2026-03-06 |  |
@@ -488,6 +488,7 @@
 | [Traveler](https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Traveler](https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr) | 3:36 | 2022-07-08 | 2022-12-03 |
 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 | 2022-11-18 | 2025-02-15 |
 | [Tried to Ruin My Name](https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Tried to Ruin My Name](https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN) | 2:23 | 2023-05-26 | 2025-12-06 |
+| [Trouble In Mind](https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Trouble In Mind](https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR) | 3:09 | 2026-09-11 |  |
 | [Troubled Waltz](https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz) | [The Howlin' Brothers](https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl) | [Trouble](https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY) | 3:41 | 2021-10-01 | 2022-02-12 |
 | [Troubles](https://open.spotify.com/track/2X5t1KDWCRxiCJWKxoG0m8) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 2:14 | 2022-07-22 | 2023-01-14 |
 | [Troubles](https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U) | 2:14 | 2021-10-01 | 2022-07-29 |

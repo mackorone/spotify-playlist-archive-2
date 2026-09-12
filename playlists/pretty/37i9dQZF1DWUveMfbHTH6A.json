@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15140,
+  "num_followers": 15141,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyQmVVmRHgO0LLaRdqUb1lvxgrl",
+  "snapshot_id": "AAAAAFuz9j0EuoyamMYshgaErz+nNkSI",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:13",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 315619,
+      "name": "Racing Mount Pleasant",
+      "url": "https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Knock Me Off My Feet",
         "url": "https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Racing Mount Pleasant",
-        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
-      },
-      "artists": [
-        {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
-        }
-      ],
-      "duration_ms": 315619,
-      "name": "Racing Mount Pleasant",
-      "url": "https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "O\u2019 Kay Tamis",
-        "url": "https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE"
-      },
-      "artists": [
-        {
-          "name": "It All Started In May",
-          "url": "https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "O\u2019 Kay Tamis",
-      "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 242000,
       "name": "See You Around",
       "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "O\u2019 Kay Tamis",
+        "url": "https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE"
+      },
+      "artists": [
+        {
+          "name": "It All Started In May",
+          "url": "https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "O\u2019 Kay Tamis",
+      "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
     },
     {
       "added_at": "2025-12-03 12:16:13",

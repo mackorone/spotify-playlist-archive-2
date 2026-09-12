@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Sandro Malandro en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Big Semp\u00e1 en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 188273,
       "name": "Bandido Estrella",
       "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
@@ -5533,6 +5533,28 @@
     },
     {
       "album": {
+        "name": "Daytons",
+        "url": "https://open.spotify.com/album/4IHbD7KfEhbCWnMGEpjN1Z"
+      },
+      "artists": [
+        {
+          "name": "Kosmer Azufre Squad",
+          "url": "https://open.spotify.com/artist/2Ey4tRJ1hbrsMUn8GjhRn2"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161368,
+      "name": "Daytons",
+      "url": "https://open.spotify.com/track/1WhZrZcAM6sGJdGWZou5Js"
+    },
+    {
+      "album": {
         "name": "Luz & Sombra",
         "url": "https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8"
       },
@@ -6156,6 +6178,24 @@
       "duration_ms": 180532,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0FZ4Ip0RHj6PQm8Y3r74JN"
+    },
+    {
+      "album": {
+        "name": "Dolor y Fe",
+        "url": "https://open.spotify.com/album/62xQPRO3IBHezbqi44UThF"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Dolor y Fe",
+      "url": "https://open.spotify.com/track/4dEjMrg0ezloau9nJ6rYhr"
     },
     {
       "album": {
@@ -7700,7 +7740,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 156533,
       "name": "Estamos Listos",
       "url": "https://open.spotify.com/track/6ybJCiSbTxvLXWmgCIxtQJ"
@@ -9656,7 +9696,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 182748,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/47vYCMjh9YzQAvZSEFe7Uv"
@@ -13236,7 +13276,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 179210,
       "name": "Mictlan",
       "url": "https://open.spotify.com/track/4Jz8tdL3JAjbArCCA8CaMZ"
@@ -13630,7 +13670,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 160000,
       "name": "Mugrero",
       "url": "https://open.spotify.com/track/1Od0POBIdcvWbz7jLkJTZ8"
@@ -13652,7 +13692,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 169714,
       "name": "Mundo Cholo",
       "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
@@ -13754,6 +13794,28 @@
       "duration_ms": 196370,
       "name": "M\u00e1quina de escribir",
       "url": "https://open.spotify.com/track/3ZOjsCJn1IrMaUvhX4eDje"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Longeva",
+        "url": "https://open.spotify.com/album/7MXgvIXHi0EsvPxATY8bSQ"
+      },
+      "artists": [
+        {
+          "name": "Poofer",
+          "url": "https://open.spotify.com/artist/6KH83UCF9zwNaBi4IIJnjE"
+        },
+        {
+          "name": "Meny hitz",
+          "url": "https://open.spotify.com/artist/7prwVgrwN3G0ujb39ldsaO"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166963,
+      "name": "M\u00e1s de la Mitad",
+      "url": "https://open.spotify.com/track/37da8Bj8FCdjngya31BVjB"
     },
     {
       "album": {
@@ -15770,7 +15832,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 231529,
       "name": "Polite\u00edsmo",
       "url": "https://open.spotify.com/track/4bVosqBlT4HSKnnh1cq00V"
@@ -17113,6 +17175,44 @@
     },
     {
       "album": {
+        "name": "RapCypher (Vol.1)",
+        "url": "https://open.spotify.com/album/1Bn7bSvLDVzHEnx9VIg7fZ"
+      },
+      "artists": [
+        {
+          "name": "LeninMxs1",
+          "url": "https://open.spotify.com/artist/3qxLyncMPPEzDZYvcRljel"
+        },
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Andres Lunatic",
+          "url": "https://open.spotify.com/artist/5oBdNKFpF6Z2etQBknjSF7"
+        },
+        {
+          "name": "Sahagun",
+          "url": "https://open.spotify.com/artist/6WKmIUyrbxDwvrxNaIbXSs"
+        },
+        {
+          "name": "Noble Esquivel",
+          "url": "https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ"
+        },
+        {
+          "name": "FKN 333",
+          "url": "https://open.spotify.com/artist/2Ye0Pox0H5v7Id7sHI8XwS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274944,
+      "name": "RapCypher - Vol.1",
+      "url": "https://open.spotify.com/track/5uj6ha9GABjvbfxK58TLSR"
+    },
+    {
+      "album": {
         "name": "RCKY BALBOA",
         "url": "https://open.spotify.com/album/694zroK8Vzyk6Hyi6qQJtO"
       },
@@ -17652,6 +17752,28 @@
       "duration_ms": 186000,
       "name": "Sal\u00ed Del Barrio",
       "url": "https://open.spotify.com/track/2I6PoaMR4PT0K6udXeJRfF"
+    },
+    {
+      "album": {
+        "name": "San Grifo Ayudame",
+        "url": "https://open.spotify.com/album/4PuUONXPcaXFwv6bIEwib2"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Brujo",
+          "url": "https://open.spotify.com/artist/1LjUlFOtTxcvWZQldBMSOW"
+        },
+        {
+          "name": "Esencia Mx",
+          "url": "https://open.spotify.com/artist/7v2SrltkivyQAGV6So1JyR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "San Grifo Ayudame",
+      "url": "https://open.spotify.com/track/1RZ55r85syqb0FffXxxVwE"
     },
     {
       "album": {
@@ -20497,6 +20619,32 @@
     },
     {
       "album": {
+        "name": "un poco de nuestro barbecue",
+        "url": "https://open.spotify.com/album/6Iclcytx9FP6m7LGuIk3WB"
+      },
+      "artists": [
+        {
+          "name": "Clan de Clanes",
+          "url": "https://open.spotify.com/artist/4EHUIzbFvb51dH8hhSbZKW"
+        },
+        {
+          "name": "Papi Masta",
+          "url": "https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271046,
+      "name": "un poco de nuestro barbecue",
+      "url": "https://open.spotify.com/track/2qi2GynzM11Dnr2rpQRmn1"
+    },
+    {
+      "album": {
         "name": "Un Round M\u00e1s",
         "url": "https://open.spotify.com/album/2wwvq1xGzvYtu35TxwbD3S"
       },
@@ -20915,6 +21063,24 @@
     },
     {
       "album": {
+        "name": "Vida de Malandr\u00edn",
+        "url": "https://open.spotify.com/album/7dlHpsEhoDJq4UNDp3MyVw"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226463,
+      "name": "Vida de Malandr\u00edn",
+      "url": "https://open.spotify.com/track/3DDeZukdURaJSzg3icQOh4"
+    },
+    {
+      "album": {
         "name": "Vida Grifa",
         "url": "https://open.spotify.com/album/1nbWI0cSxFzXHqspDobMBA"
       },
@@ -20930,7 +21096,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 212998,
       "name": "Vida Grifa",
       "url": "https://open.spotify.com/track/5LRayfyzuwFUBo6OKGzgNt"
@@ -21018,6 +21184,28 @@
       "duration_ms": 157731,
       "name": "VIDATOPTEN",
       "url": "https://open.spotify.com/track/5H107hSe3BMZQfynnfFl5f"
+    },
+    {
+      "album": {
+        "name": "Viejo Gacho",
+        "url": "https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ"
+      },
+      "artists": [
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "Mun\u00e9",
+          "url": "https://open.spotify.com/artist/74Nrkmf527K4UyUHnaYbf7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Viejo Gacho",
+      "url": "https://open.spotify.com/track/4R8y4zZppFouGhJ824I6Rf"
     },
     {
       "album": {

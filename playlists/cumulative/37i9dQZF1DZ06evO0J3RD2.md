@@ -4,14 +4,14 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 39 min
+62 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 | 2023-08-19 |  |
 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-23 |  |
 | [Back in My Ways](https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Back in My Ways](https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec) | 4:03 | 2026-05-10 | 2026-09-10 |
-| [Back in My Ways](https://open.spotify.com/track/7jNZ1uFDBLId4BpyCgCx6i) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:03 | 2026-09-10 |  |
+| [Back in My Ways](https://open.spotify.com/track/7jNZ1uFDBLId4BpyCgCx6i) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:03 | 2026-09-10 | 2026-09-12 |
 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 | 2022-09-19 |  |
 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 |  |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-16 |  |
@@ -20,7 +20,8 @@
 | [Dance With Death](https://open.spotify.com/track/7AgM4wOE1gZrWSRvGDLNBf) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:23 | 2023-08-19 | 2023-09-10 |
 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 | 2022-09-16 |  |
 | [Deadly Dull](https://open.spotify.com/track/4qod43EImMolOovemD03is) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:47 | 2024-05-12 |  |
-| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-10 |  |
+| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-10 | 2026-09-12 |
+| [Dissolve Me](https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:27 | 2026-09-12 |  |
 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 | 2022-09-16 | 2026-02-11 |
 | [Everyone I've Ever Been](https://open.spotify.com/track/6WJzH3L0fS6a14wa8xC84c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 4:20 | 2026-09-06 | 2026-09-11 |
 | [Everything Is Fine](https://open.spotify.com/track/0y7psOQPFGBxLSkABDtmVx) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:27 | 2026-09-11 |  |
@@ -56,7 +57,7 @@
 | [Protection \- Demo](https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Protection \(Demo\)](https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl) | 3:29 | 2022-09-16 |  |
 | [Pulse](https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:21 | 2026-09-06 |  |
 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 | 2022-09-16 |  |
-| [Separate](https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Separate](https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx) | 3:56 | 2026-07-12 |  |
+| [Separate](https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Separate](https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx) | 3:56 | 2026-07-12 | 2026-09-12 |
 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-09-16 |  |
 | [Spellbound](https://open.spotify.com/track/0LuRD7PTDVxzdZQhXk1Zz6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 1:07 | 2026-09-06 |  |
 | [Suffer Through](https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 4:44 | 2023-09-15 |  |

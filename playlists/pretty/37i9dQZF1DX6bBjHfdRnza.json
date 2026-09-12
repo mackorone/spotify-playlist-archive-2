@@ -1,44 +1,28 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring SLAMM. Curated with love by human Spotify editors. \n",
-  "num_followers": 216185,
+  "description": "The best new dance tracks from independent artists & labels. Featuring HARTY (UK). Curated with love by human Spotify editors. \n",
+  "num_followers": 216246,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7i6aWCLxDKHXjizGC+SN3MhGUC",
+  "snapshot_id": "AAAAABRmHD46nNxiM85oZM0TVFRNihu6",
   "tracks": [
     {
-      "added_at": "2026-09-04 04:01:34",
+      "added_at": "2026-09-11 04:02:14",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
+        "name": "There's A Party Goin' On",
+        "url": "https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd"
       },
       "artists": [
         {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+          "name": "HARTY (UK)",
+          "url": "https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "Wait What",
-        "url": "https://open.spotify.com/album/2aRO3b2NJ2APsM9MhMn7Hp"
-      },
-      "artists": [
-        {
-          "name": "Amanda Simpson",
-          "url": "https://open.spotify.com/artist/6dXPtR6vh6nwAwFoXWxkoM"
-        }
-      ],
-      "duration_ms": 166867,
-      "name": "Wait What - Radio Edit",
-      "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
+      "duration_ms": 199114,
+      "name": "There's A Party Goin' On",
+      "url": "https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ"
     },
     {
       "added_at": "2026-09-04 04:01:34",
@@ -77,6 +61,22 @@
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
     },
     {
+      "added_at": "2026-09-11 14:23:52",
+      "album": {
+        "name": "SHE DOESN'T KNOW",
+        "url": "https://open.spotify.com/album/0D6Lp8GJRc25AUjPCjRWVk"
+      },
+      "artists": [
+        {
+          "name": "ANK",
+          "url": "https://open.spotify.com/artist/1s2AuO0OPGUh7ze9XM3BTW"
+        }
+      ],
+      "duration_ms": 197169,
+      "name": "SHE DOESN'T KNOW",
+      "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
+    },
+    {
       "added_at": "2026-09-10 03:17:50",
       "album": {
         "name": "When Love Takes Over (edit)",
@@ -93,24 +93,56 @@
       "url": "https://open.spotify.com/track/5Ouf4ITCDxrgrgcYrRxFoz"
     },
     {
-      "added_at": "2026-08-28 04:02:08",
+      "added_at": "2026-09-10 03:17:50",
       "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
+        "name": "Wait What",
+        "url": "https://open.spotify.com/album/2aRO3b2NJ2APsM9MhMn7Hp"
       },
       "artists": [
         {
-          "name": "Paqu\u00e9",
-          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
-        },
-        {
-          "name": "Sebastian Wibe",
-          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
+          "name": "Amanda Simpson",
+          "url": "https://open.spotify.com/artist/6dXPtR6vh6nwAwFoXWxkoM"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
+      "duration_ms": 166867,
+      "name": "Wait What - Radio Edit",
+      "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4TT5x7uZ3rSq5QOiNAqPYE"
+      },
+      "artists": [
+        {
+          "name": "Samson",
+          "url": "https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN"
+        },
+        {
+          "name": "Tommy Kimpton",
+          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7AmmvZoDLFmKXcDCGWVAGv"
     },
     {
       "added_at": "2026-07-17 17:46:34",
@@ -163,6 +195,42 @@
       "duration_ms": 169846,
       "name": "catch me if you can",
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "Keep Stepping!",
+        "url": "https://open.spotify.com/album/0RUPP9RVNyRTPKLPjqH4je"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "duration_ms": 302343,
+      "name": "Night After Night",
+      "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
+      },
+      "artists": [
+        {
+          "name": "Paqu\u00e9",
+          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
+        },
+        {
+          "name": "Sebastian Wibe",
+          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
     },
     {
       "added_at": "2026-09-10 03:17:50",
@@ -809,38 +877,6 @@
       "url": "https://open.spotify.com/track/2B46X2ntT6j1iTiQ8sso7u"
     },
     {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/1JePnDGDirpRQNpFNo42bm"
-      },
-      "artists": [
-        {
-          "name": "Capron",
-          "url": "https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Smash",
-      "url": "https://open.spotify.com/track/00mii3fmq53QiHirhoEIhy"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Honey, Drip Down",
-        "url": "https://open.spotify.com/album/2ws9YimechiQJjlsrPwnu3"
-      },
-      "artists": [
-        {
-          "name": "Axefield",
-          "url": "https://open.spotify.com/artist/6ov2mjV4oMELm0kUjTfUnB"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Honey, Drip Down",
-      "url": "https://open.spotify.com/track/3zXVt7y4i6iCnF0PBx1VrW"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "Are U Ready?",
@@ -903,46 +939,6 @@
       "duration_ms": 213893,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6EAKZOdXVffeCjp4uWH02J"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/0ptoMQx6GdtnCA2iSskv4h"
-      },
-      "artists": [
-        {
-          "name": "Avesie",
-          "url": "https://open.spotify.com/artist/0jueca4QlNT4O11qSNkuF8"
-        },
-        {
-          "name": "Cowlin",
-          "url": "https://open.spotify.com/artist/7iSLn4jgftaWtHq1ZQ27ed"
-        }
-      ],
-      "duration_ms": 215985,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/6zJCcwaS8ocHybnIv81NGU"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "can't take this",
-        "url": "https://open.spotify.com/album/4d3jcVA5RA8fMd28nRsIJK"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        },
-        {
-          "name": "Ben Thrasher",
-          "url": "https://open.spotify.com/artist/6nN4uX9HV5ZNWwskrUHOM3"
-        }
-      ],
-      "duration_ms": 206294,
-      "name": "can't take this",
-      "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
     },
     {
       "added_at": "2026-07-31 04:02:23",

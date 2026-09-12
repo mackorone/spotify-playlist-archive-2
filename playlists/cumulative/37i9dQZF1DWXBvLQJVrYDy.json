@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 233321,
       "name": "A Line of Air",
       "url": "https://open.spotify.com/track/70ECLM3lWEh7CmOdLgsdsf"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 289743,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3"
@@ -1188,6 +1188,24 @@
       "duration_ms": 201613,
       "name": "Evening In Paris",
       "url": "https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz"
+    },
+    {
+      "album": {
+        "name": "Evening In The North",
+        "url": "https://open.spotify.com/album/0rbx9KiHkNTlx1QCflKN0b"
+      },
+      "artists": [
+        {
+          "name": "Chris Memento",
+          "url": "https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Evening In The North",
+      "url": "https://open.spotify.com/track/1o4CVlbtO7s0EHf3IpVlqY"
     },
     {
       "album": {
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 230920,
       "name": "Paper Heart",
       "url": "https://open.spotify.com/track/15p2zGHUj44YbhdZ5W7dRt"
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200400,
       "name": "The Single Petal Of A Rose",
       "url": "https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb"
@@ -4610,6 +4628,24 @@
       "duration_ms": 191250,
       "name": "You\u00b4re My Everything",
       "url": "https://open.spotify.com/track/4Mxuicno48JqtIdh6ydQ1q"
+    },
+    {
+      "album": {
+        "name": "You\u2019re mine",
+        "url": "https://open.spotify.com/album/6FdikNo5uf1hngs1oH0kAc"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227883,
+      "name": "You\u2019re mine",
+      "url": "https://open.spotify.com/track/07r7d7jwJ6lW0USQ0aqWmd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXBvLQJVrYDy"

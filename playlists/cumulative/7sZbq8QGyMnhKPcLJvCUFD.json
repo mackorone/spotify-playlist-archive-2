@@ -11685,6 +11685,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/1Z4mOBDTjmcnudNIkRvjk1"
+      },
+      "artists": [
+        {
+          "name": "Lynxie",
+          "url": "https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/3Vy1o1wCqE5G2jOHaqitXo"
+    },
+    {
+      "album": {
         "name": "Notice That",
         "url": "https://open.spotify.com/album/1eEvBrp0xdo2FZ1TwyCg28"
       },

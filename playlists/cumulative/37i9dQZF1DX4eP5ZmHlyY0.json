@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -10697,6 +10697,24 @@
     },
     {
       "album": {
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/1vTNkJ8EUpq7Ju50nwKFBQ"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174740,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/1GiP26gz7ODqQ8dxweTPo7"
+    },
+    {
+      "album": {
         "name": "MY GENERATION",
         "url": "https://open.spotify.com/album/5Luh2bfSREqFZc54oFWZHY"
       },
@@ -11292,6 +11310,24 @@
       "duration_ms": 159533,
       "name": "Nova Flame ~One of the BE:ST-01 JUNON~",
       "url": "https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo"
+    },
+    {
+      "album": {
+        "name": "November 11th",
+        "url": "https://open.spotify.com/album/4ezGU843c91AcdpAazDldU"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "November 11th",
+      "url": "https://open.spotify.com/track/3WnEmdrwEvNMSv8rdTRfzA"
     },
     {
       "album": {
@@ -13588,7 +13624,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200000,
       "name": "RUN TO YOU",
       "url": "https://open.spotify.com/track/0ku6osTANoM57WO6LWAgwZ"

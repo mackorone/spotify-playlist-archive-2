@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97980,
+  "num_followers": 97997,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Por Ti Me Mato",
+        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo El Bueno",
+          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "Cien Vidas",
+      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Guachita Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 209126,
       "name": "Guachita Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "Por Ti Me Mato",
-        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo El Bueno",
-          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Cien Vidas",
-      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Soy Cukin",
-        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Soy Cukin",
-      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "No Traigo 45",
         "url": "https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 181202,
       "name": "No Traigo 45",
       "url": "https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Soy Cukin",
+        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Soy Cukin",
+      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Arpacumbiando: Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
-      },
-      "artists": [
-        {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Caliente Caliente",
-      "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 193882,
       "name": "Jefe Fresa",
       "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Arpacumbiando: Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
+      },
+      "artists": [
+        {
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Caliente Caliente",
+      "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Made in Michoacan",
-        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Para Que Vuelves",
         "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 132930,
       "name": "30 Cartas",
       "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Made in Michoacan",
+        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Casita de Adobe",
         "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
       "artists": [
         {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
         }
       ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1271,22 +1287,6 @@
       "duration_ms": 169466,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Al Mismo Nivel",
-        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
-      },
-      "artists": [
-        {
-          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Mi Presencia Cuenta",
         "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
+        "name": "Al Mismo Nivel",
+        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
         }
       ],
-      "duration_ms": 376181,
-      "name": "Mix de Sones #2",
-      "url": "https://open.spotify.com/track/69T73pmI6Ikpne4NHp4Px6"
+      "duration_ms": 163265,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1563,6 +1547,22 @@
       "duration_ms": 170733,
       "name": "La Grapa",
       "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 376181,
+      "name": "Mix de Sones #2",
+      "url": "https://open.spotify.com/track/69T73pmI6Ikpne4NHp4Px6"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Exitos en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 102609,
-      "name": "Carga Fina - En Vivo",
-      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "La Telara\u00f1a",
-        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
+        "name": "Exitos en Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
       },
       "artists": [
         {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 184945,
-      "name": "La Telara\u00f1a",
-      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
+      "duration_ms": 102609,
+      "name": "Carga Fina - En Vivo",
+      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1647,6 +1631,22 @@
       "duration_ms": 195640,
       "name": "Que Viva Tierra Caliente",
       "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "La Telara\u00f1a",
+        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 184945,
+      "name": "La Telara\u00f1a",
+      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
     },
     {
       "added_at": "2026-07-24 06:00:32",

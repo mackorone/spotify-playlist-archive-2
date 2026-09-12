@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,451 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,486 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 9 | [eternal](https://open.spotify.com/track/5dLvharTl10W8Vw958oOnN) | [dottie](https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY) | [eternal](https://open.spotify.com/album/62W3rJoLFAGVcvUTA6glce) | 3:25 |
 | 10 | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq) | 3:23 |
 | 11 | [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 |
-| 12 | [Too Far Gone](https://open.spotify.com/track/7BLPxgH9czQRbWLkLIIqpT) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Count The Clock](https://open.spotify.com/artist/3zJVj6smZ1DmBQNNeR5flg), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Too Far Gone](https://open.spotify.com/album/3Abk3HPBpVt8U8b5U8M7qA) | 4:24 |
+| 12 | [Too Far Gone](https://open.spotify.com/track/7BLPxgH9czQRbWLkLIIqpT) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2) | [Too Far Gone](https://open.spotify.com/album/3Abk3HPBpVt8U8b5U8M7qA) | 4:24 |
 | 13 | [Snow Club International](https://open.spotify.com/track/53rQU65iIdqigGfj514Xvd) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Snow Club International](https://open.spotify.com/album/6NCLlxwnMWAVWvY61LMb3r) | 3:45 |
 | 14 | [Numbers 31:17\-18](https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Numbers 31:17\-18](https://open.spotify.com/album/5sZ1NEQVwz1jizFMf4DuW9) | 5:44 |
 | 15 | [Happy](https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Happy](https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G) | 4:05 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 120 | [Paulie Bleeker](https://open.spotify.com/track/2MWpgaYQee0U6sKn1jJ2o8) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Paulie Bleeker](https://open.spotify.com/album/1jKpxJPohujeCGiEQfV3QI) | 3:19 |
 | 121 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 |
 
-Snapshot ID: `AAAAACbiGaTYBh62ghUc6ZVY1Pq5KWKA`
+Snapshot ID: `AAAAAGOEmYY86VNco4y3Nq6VSv8fRPvu`

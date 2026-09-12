@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 174745,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
@@ -5306,6 +5306,36 @@
       "duration_ms": 179411,
       "name": "Nicht Perfekt",
       "url": "https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN"
+    },
+    {
+      "album": {
+        "name": "NICHT PERFEKT",
+        "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
+      },
+      "artists": [
+        {
+          "name": "vic",
+          "url": "https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY"
+        },
+        {
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
+        },
+        {
+          "name": "ducato",
+          "url": "https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK"
+        },
+        {
+          "name": "enna",
+          "url": "https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147895,
+      "name": "NICHT PERFEKT",
+      "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
     },
     {
       "album": {

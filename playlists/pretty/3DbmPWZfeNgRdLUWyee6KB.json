@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1334,
+  "num_followers": 1333,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXuLs0koLTlnhrqcLh4VmlQUpUI6rk",
+  "snapshot_id": "AAAXukeQ/1qN3ROP4HrLLEzJE/jAVUhs",
   "tracks": [
     {
       "added_at": "2026-09-04 07:33:13",
@@ -171,6 +171,22 @@
       "duration_ms": 226559,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0w6id2oYcUA7YH7lChTi2h"
+    },
+    {
+      "added_at": "2026-09-11 09:32:40",
+      "album": {
+        "name": "Parasite (Remix)",
+        "url": "https://open.spotify.com/album/6T9XH1XLjR6pfRsFahSdw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Lawrence",
+          "url": "https://open.spotify.com/artist/6UgJu34MLxR5sbUI4Ng2OT"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "Parasite - Remix",
+      "url": "https://open.spotify.com/track/4c5ek2h43NOgpF8xDBhi3Z"
     },
     {
       "added_at": "2026-08-17 13:54:11",
@@ -2315,6 +2331,22 @@
       "duration_ms": 202799,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/2PdyOFzTq3LZH9WbUW9Of5"
+    },
+    {
+      "added_at": "2026-09-11 09:32:21",
+      "album": {
+        "name": "Noir et blanc",
+        "url": "https://open.spotify.com/album/4S88do91neHjL30FaUXFPA"
+      },
+      "artists": [
+        {
+          "name": "Virgil Segal",
+          "url": "https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy"
+        }
+      ],
+      "duration_ms": 241174,
+      "name": "Noir et blanc",
+      "url": "https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL"
     }
   ],
   "unique_name": "New Indie Music",

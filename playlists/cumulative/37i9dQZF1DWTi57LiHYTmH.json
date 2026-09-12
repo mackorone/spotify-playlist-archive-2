@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155800,
       "name": "4 Miniatures for Orchestra: No. 4, Dance to Your Daddy",
       "url": "https://open.spotify.com/track/0U7PlQ3DonEPRjB8BArPHj"
@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Forma",
+        "url": "https://open.spotify.com/album/5isqCcNoUKXw2zRVsS9y51"
+      },
+      "artists": [
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199103,
+      "name": "Forma",
+      "url": "https://open.spotify.com/track/4oii9raro7oRZUpnNORmqU"
+    },
+    {
+      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -4394,6 +4412,36 @@
       "duration_ms": 331933,
       "name": "M\u00e9ditation from Tha\u00efs",
       "url": "https://open.spotify.com/track/0XfFRLi9G87t57kqZAzeef"
+    },
+    {
+      "album": {
+        "name": "Glass: Naqoyqatsi: Religion",
+        "url": "https://open.spotify.com/album/1wVgYeTmDlZmfxBAvXuiuS"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Oscar Jockel",
+          "url": "https://open.spotify.com/artist/0aoA1OWyDRcpf0u6zh7bsw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248773,
+      "name": "Naqoyqatsi: Religion",
+      "url": "https://open.spotify.com/track/6YDep5Rct1MHh45KjBk4o1"
     },
     {
       "album": {
@@ -6472,7 +6520,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 228826,
       "name": "Sospiri, Op. 70 (Arr. Anon. for Violin & Piano)",
       "url": "https://open.spotify.com/track/30VtVGdul2vwY8Znwr5hc6"

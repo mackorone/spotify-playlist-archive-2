@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Babet
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,297 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,305 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [wat doe je nou](https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [wat doe je nou](https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n) | 2:48 |
-| 2 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
-| 3 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
-| 4 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
-| 5 | [Hij Geeft Alleen Om Mij](https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Hij Geeft Alleen Om Mij](https://open.spotify.com/album/5cyUHAY4WpHdHMt2PMfIvX) | 2:11 |
-| 6 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
-| 7 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
-| 8 | [Geen Rem](https://open.spotify.com/track/1EZTLVCni1vFwydultwvoX) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Geen Rem](https://open.spotify.com/album/4s55OHqLbK4xEl8PeW8dff) | 3:03 |
-| 9 | [Izakaya](https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Izakaya](https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx) | 2:24 |
-| 10 | [Groot](https://open.spotify.com/track/7dEimS0tnelfMqQkpnkWrn) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Groot](https://open.spotify.com/album/0qizT7ZCBpnlw6nfUgKS1S) | 3:30 |
-| 11 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
+| 2 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
+| 3 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
+| 4 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
+| 5 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
+| 6 | [Hij Geeft Alleen Om Mij](https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Hij Geeft Alleen Om Mij](https://open.spotify.com/album/5cyUHAY4WpHdHMt2PMfIvX) | 2:11 |
+| 7 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
+| 8 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 9 | [Geen Rem](https://open.spotify.com/track/1EZTLVCni1vFwydultwvoX) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Geen Rem](https://open.spotify.com/album/4s55OHqLbK4xEl8PeW8dff) | 3:03 |
+| 10 | [Izakaya](https://open.spotify.com/track/5KBiKj20CpdoV8gGGIUPj2) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Izakaya](https://open.spotify.com/album/7yXBPRj57bW9fqLiO48Xdx) | 2:24 |
+| 11 | [Groot](https://open.spotify.com/track/7dEimS0tnelfMqQkpnkWrn) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Groot](https://open.spotify.com/album/0qizT7ZCBpnlw6nfUgKS1S) | 3:30 |
 | 12 | [Jij Was Bij Mij](https://open.spotify.com/track/0VJfMgLKN0k9nspBSJMf3L) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Jij Was Bij Mij](https://open.spotify.com/album/3vLArpUpRq0SCBjbGhYw5x) | 3:16 |
 | 13 | [Zaterdag](https://open.spotify.com/track/3XqcbsV9bgzQZ04CvkR24Q) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Zaterdag](https://open.spotify.com/album/19ec04DLNOWCJ2Utf9O7Af) | 3:11 |
 | 14 | [Rijden Onder Invloed](https://open.spotify.com/track/4Ls8224Uo6Rd3npe9FRei2) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Rijden Onder Invloed](https://open.spotify.com/album/07vDbEeuOsnLfjjperIAoj) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Lekker Liedje](https://open.spotify.com/track/1xEGuvwku0VTWNqk5jTnNz) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Lekker Liedje](https://open.spotify.com/album/3uEfJJvJfnwz5Oe3FOEAmU) | 2:21 |
 | 80 | [Wat Blijft Er Over?](https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Wat Blijft Er Over?](https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0) | 2:45 |
 
-Snapshot ID: `AAAAAEDy6YrRowKudCs6p//Ubkj/K4PQ`
+Snapshot ID: `AAAAAJEHGznD2xxRl/gRShWjy1sZfJdq`

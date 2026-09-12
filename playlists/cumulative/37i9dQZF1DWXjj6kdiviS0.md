@@ -4,7 +4,7 @@
 
 > Classics from the Baroque era.
 
-111 songs - 7 hr 23 min
+112 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 5:01 | 2021-06-16 |  |
 | [Pachelbel: Canon and Gigue in D Major: Canon](https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Pachelbel: Canon in D Major](https://open.spotify.com/album/6c3t7n2DcojfdHIFXwhDwa) | 5:00 | 2023-10-13 | 2024-04-19 |
 | [Partita No\. 1 in B\-Flat Major, BWV 825: I\. Praeludium \- Recorded 2018](https://open.spotify.com/track/7wqHL8FiOtzuNuyDUYd2lQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Bach: 6 Partitas, BWV 825\-830 \(2018 Recording\)](https://open.spotify.com/album/4YdycODhOgbqHAtmLI78an) | 1:58 | 2025-07-04 |  |
+| [Pièces de clavecin, Livre IV Ordre 25: V\. Les ombres errantes](https://open.spotify.com/track/5m1QVDrXOH3mfM2SrvHBFE) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Mishka Rushdie Momen](https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab) | [Hall of Mirrors](https://open.spotify.com/album/3brNHZ4szlQLQW2v2PF4HL) | 4:55 | 2026-09-11 |  |
 | [Pièces de viole, Livre 2 \- Suite No\. 3 in D Major: No\. 63\. Les Voix Humaines \(Lentement\)](https://open.spotify.com/track/1b7Gui95FOHRRza7gh8KDf) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Philippe Pierlot](https://open.spotify.com/artist/02U08GYoxomDe3lyEmMvNp) | [Meditation](https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0) | 6:08 | 2022-01-28 |  |
 | [Pièces de viole, Livre 3 \- Suite No\. 7 in G Major: No\. 92\. Prélude\. Lentement](https://open.spotify.com/track/2uzur7yhtXRMIoMQqgqCbd) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pièces de viole](https://open.spotify.com/album/1U2A9ZPdjDpyeXVmsZWBSd) | 2:27 | 2023-01-20 | 2024-04-19 |
 | [Première Suite: Prélude](https://open.spotify.com/track/24FADyq2xFPud5AD4fDctm) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Ton Koopman](https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM), [Ariane Maurette](https://open.spotify.com/artist/4LnhtD584uyzKVtVjtFpPb) | [François Couperin: Pièces de violes 1728](https://open.spotify.com/album/6ZOLFFLtDLD2wCGOxGVuDm) | 4:26 | 2022-01-25 |  |

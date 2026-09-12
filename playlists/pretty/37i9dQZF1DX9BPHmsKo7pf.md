@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Grasu XXL
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,127 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,143 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [Mandarina](https://open.spotify.com/track/7HUuF7KJbxDUJfPkqDIhRL) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [Carrera](https://open.spotify.com/album/3XC80kZ0WERRETP0rlaemR) | 2:32 |
 | 50 | [Vb Frumos](https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [888](https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc) | 2:00 |
 
-Snapshot ID: `AAAAAPNNjf+u7sWSL5PMiwBGC940tw74`
+Snapshot ID: `AAAAAL0r40Fk00cgBD9s2TSXKAkkzkrt`

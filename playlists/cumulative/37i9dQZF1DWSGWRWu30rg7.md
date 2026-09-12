@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Nakhisa
+> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Havva
 
-5,582 songs - 14 day 5 hr 32 min
+5,586 songs - 14 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Anjing Bengkel](https://open.spotify.com/track/0zgTEOUUACVL7oNcp1ki5f) | [RAMPAS](https://open.spotify.com/artist/4kG6e1auJZqmYAJ5wQHZIK) | [Anjing Bengkel](https://open.spotify.com/album/5o2vR33e4fOVpylQMckDfp) | 2:02 | 2025-07-03 | 2025-08-08 |
 | [Anomalies/Full Moon](https://open.spotify.com/track/5rNXuKVx6cpYFtg156LAW2) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Anomalies/Full Moon](https://open.spotify.com/album/7sCEX2jwW6jV5sYwBWbE5H) | 1:59 | 2024-05-31 | 2024-06-21 |
 | [anotHER](https://open.spotify.com/track/5PhyYKfYCjfPsRaCdEFOuQ) | [RZD](https://open.spotify.com/artist/55tRW0ye0zaSJfQmjD8ZKq) | [Hiraeth](https://open.spotify.com/album/0lYMULmA0wk3ymXJP7Mexj) | 3:40 | 2025-11-28 | 2026-02-07 |
+| [Another Cycle](https://open.spotify.com/track/1OmcKSacKzDLDCGqhgupJX) | [Falaci](https://open.spotify.com/artist/0zXWDSbeg9bSIgJObMx7Yq) | [Another Cycle](https://open.spotify.com/album/6wssdKHPuMZL2MaQ11tbYi) | 4:04 | 2026-09-11 |  |
 | [Another Life](https://open.spotify.com/track/05CnnJTrWyZppUnZum1wtW) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Another Life](https://open.spotify.com/album/1QMFMjgJdqti57vWNZzdbk) | 4:17 | 2026-03-05 | 2026-05-07 |
 | [Another Life With You](https://open.spotify.com/track/3yiEKmyLU2Roktrjth5kIi) | [SOLVNA](https://open.spotify.com/artist/0Jx6glOGa2luzEtdls6Up5) | [Another Life With You](https://open.spotify.com/album/6DqXtOIzyp1vF1Xi8H68Jp) | 4:08 | 2023-08-03 | 2023-08-18 |
 | [Another Side](https://open.spotify.com/track/2xUrEtlodS8W2cpbyYMdqu) | [Nevermine](https://open.spotify.com/artist/6SXovcCZyiUcj8PhjMmQV9) | [Another Side](https://open.spotify.com/album/1a0VpWvj5o1PjfHprpDici) | 3:06 | 2025-10-09 | 2025-11-21 |
@@ -1858,6 +1859,7 @@
 | [Haunting Dreams](https://open.spotify.com/track/7DvKxy1fpz5d8riF1o6F5d) | [Fleeting Echo](https://open.spotify.com/artist/7bVJizir9RN4yN2pTmEasC) | [Haunting Dreams](https://open.spotify.com/album/0bSDwZtxhoyXCDCEu9sxAM) | 3:15 | 2024-08-01 | 2024-09-07 |
 | [Have Fun](https://open.spotify.com/track/4XvdxmUySf6dRrFiIfojoi) | [Steady Beat](https://open.spotify.com/artist/6KXI6iyIP9NQj1GDL5tU1d), [The Talking](https://open.spotify.com/artist/5qgU0ShizbWqZJaei0vPCf), [Jabar Lenon](https://open.spotify.com/artist/2aYtAcSKJXFNxKypuLGc0R) | [Have Fun](https://open.spotify.com/album/4RN2j4866CxDjvHawOgpCx) | 5:39 | 2024-04-18 | 2024-06-01 |
 | [Have I Ever Told You? \(Remember to Love\)](https://open.spotify.com/track/33deVQUImxcAnCRpkD2236) | [Kakek & Nenek](https://open.spotify.com/artist/4qEdTwWrqVn6JlblqJInZs) | [Have I Ever Told You? \(Remember to Love\)](https://open.spotify.com/album/0726srcQGdk491jTssy4bO) | 5:49 | 2022-01-13 | 2022-01-28 |
+| [Hawa](https://open.spotify.com/track/0Q7p2SEgilFWbZvqbQf9ra) | [Havva](https://open.spotify.com/artist/7eawPAKLgohJE8qtLGP014) | [Hawa](https://open.spotify.com/album/3SLWNWor3ibLWQHy5BkRiE) | 3:41 | 2026-09-11 |  |
 | [Hayalan dan Luka](https://open.spotify.com/track/7qRow3J9NYkRtVUFWQkc18) | [Pemuda Sinarmas](https://open.spotify.com/artist/3d3Wi3q4wpoIZdGDsjIlaQ), [Toxic Motel](https://open.spotify.com/artist/6KuPsxep7LgSjzjtAmuDcv) | [Hayalan dan Luka](https://open.spotify.com/album/5GcO1Dd0RcQPTTMrK7HzDn) | 5:23 | 2023-06-08 | 2023-06-23 |
 | [Haze in the Moonlight Dale](https://open.spotify.com/track/2h9GKfLAMPW7mlvGhPoEFm) | [Talking All Night](https://open.spotify.com/artist/3U9855KmF63ko5WPEr7ZYx) | [Haze in the Moonlight Dale](https://open.spotify.com/album/5C8FXFRmGzHNRpkR0r6Ntz) | 4:01 | 2023-01-12 | 2023-01-27 |
 | [Head's Tale](https://open.spotify.com/track/5FExmy6qtl1prWWAzi1rOY) | [Jay Vicols](https://open.spotify.com/artist/6wh1TVGsP4NH4K6RPfksuf) | [Head's Tale](https://open.spotify.com/album/3Eu0969yYBzp4CuHgP0paF) | 3:08 | 2024-11-07 | 2024-12-06 |
@@ -3906,6 +3908,7 @@
 | [Qomarun](https://open.spotify.com/track/0AHHs20rYHypGiqwTK7GjP) | [Adam](https://open.spotify.com/artist/6JRZmFTvQOz8l27UWqXqVI) | [Qomarun](https://open.spotify.com/album/0Fxuo7VgNGWedYY81VV5y9) | 3:59 | 2023-04-13 | 2023-04-28 |
 | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/track/6nI0uQ1bQDpn1SIf6N3Wuu) | [Ardetto](https://open.spotify.com/artist/4ui2mAcv3u153kPNdAWkub), [Ongker](https://open.spotify.com/artist/65KcpZKOHBbOlbsdF7Z8Jd), [MBXN](https://open.spotify.com/artist/3ObM5tIDrEcl9bPVCw61Vt), [Rocket Alif](https://open.spotify.com/artist/1tkCrIJJMO09E3WBvlagBz) | [QOQ \(Quality Of Quantity\)](https://open.spotify.com/album/2mIacip4PVyrbmVhvGpeTg) | 2:10 | 2022-07-28 | 2022-08-12 |
 | [Quantum Love Story](https://open.spotify.com/track/0IJXklyUAWAe6RyvfOtxCp) | [Saints Of March](https://open.spotify.com/artist/5V6VULW61srEPyFrdgS9qT) | [Quantum Love Story](https://open.spotify.com/album/6IvKITrGcqTltSVVi3R5hD) | 3:41 | 2022-01-06 | 2022-01-14 |
+| [Quarter Life Miris](https://open.spotify.com/track/4JjQQaVrIfpgJ55ohWlJrR) | [BOBSMAN X](https://open.spotify.com/artist/2TLLtFn3oshIGqGID493Gn) | [Quarter Life Miris](https://open.spotify.com/album/3Igtz0RrQgad6lacq68V4Z) | 3:34 | 2026-09-11 |  |
 | [Que Sera](https://open.spotify.com/track/5xOZMj2ipfd5GOurhALyra) | [Fufu Clan](https://open.spotify.com/artist/6M5wkLlaEjPBH7cHHuiINW) | [Que Sera](https://open.spotify.com/album/7hLpqi8Btevpxb4wvVVZ1q) | 4:06 | 2025-02-28 | 2025-04-18 |
 | [Queen Of Hearts](https://open.spotify.com/track/0DXUR5DC7DEXGPCCEu1dPW) | [Rick Karnadi](https://open.spotify.com/artist/4CVPQRzMqpa4OuSg2Vmg2d) | [Queen Of Hearts](https://open.spotify.com/album/0EABOXowLsvLrc5dzcO2rP) | 2:39 | 2025-08-07 | 2025-09-13 |
 | [Queen of the Afterlife](https://open.spotify.com/track/7dBDy3MmsvVN8zu5hYZuUE) | [Arya Machdi](https://open.spotify.com/artist/1dP23AzPTEdyPQhcKGcWZ1) | [Queen of the Afterlife](https://open.spotify.com/album/0kHb7cPSxD6Qvati7Y1aNN) | 4:30 | 2022-01-27 | 2022-02-11 |
@@ -4212,6 +4215,7 @@
 | [Say To You](https://open.spotify.com/track/6TzVlySQiD19ToP8nZAf1z) | [2N3RD](https://open.spotify.com/artist/2YXppeJYfVtkLyqLdQwozb) | [Say To You](https://open.spotify.com/album/3izelWOdse0OZUjJr89qLN) | 3:27 | 2022-07-14 | 2022-08-12 |
 | [Say Your Grace](https://open.spotify.com/track/55W1PHzb9OlSh2rxWbpyxa) | [JOSUA](https://open.spotify.com/artist/2QMEyW4sU9nxyxemnzTLzW) | [Say Your Grace](https://open.spotify.com/album/3n9S0AWe5QL7mvY242uUVE) | 3:00 | 2022-02-03 | 2022-02-18 |
 | [Saya](https://open.spotify.com/track/4EcwFRBT7v40LgryIJrFGp) | [JAKVEGAS](https://open.spotify.com/artist/3gBmOJiidNBPSdYaPimT4F) | [Saya](https://open.spotify.com/album/7L0YTOJzXnUf3m0vZjG4Ku) | 3:20 | 2025-10-24 | 2025-12-12 |
+| [SAYANG \(I Can't Lie\)](https://open.spotify.com/track/76vXDOIkOXTOWHTxrDYexm) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [SAYANG \(I Can't Lie\)](https://open.spotify.com/album/0ZAtfdWuB0K2FxDlesYRAW) | 4:04 | 2026-09-11 |  |
 | [Sayonara Goodbye](https://open.spotify.com/track/6OJN6sozwa2S1u3VDeJAeR) | [Shisekai](https://open.spotify.com/artist/11iZEJVRhf4d7h52JynD9C) | [Sayonara Goodbye](https://open.spotify.com/album/7kiblm6otCXOevZmrFEGEt) | 3:19 | 2024-01-11 | 2024-02-03 |
 | [Scars](https://open.spotify.com/track/6XgsJDpugg6gwx2z7RRumR) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Scars](https://open.spotify.com/album/1cHFtxR8snwuOQ3HflRyuv) | 3:20 | 2022-09-01 | 2022-09-16 |
 | [Scream](https://open.spotify.com/track/5xc3rHOtyUnkZpqIVm2KKa) | [Kol](https://open.spotify.com/artist/2B30Nyq8DkSK4MkUDlKSnd) | [Volatile](https://open.spotify.com/album/1ZlXcn8dRPkERsDbQkcG1z) | 2:58 | 2023-08-25 | 2023-09-08 |

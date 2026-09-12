@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: DJ Suzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,598 likes - 200 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,601 likes - 200 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 11 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 12 | [25k](https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [25k](https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe) | 3:57 |
 | 13 | [florence!](https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [florence!](https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl) | 2:45 |
-| 14 | [Track 5](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 0:00 |
+| 14 | [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 |
 | 15 | [Swedish Mermaid](https://open.spotify.com/track/5rpxjL5pKS1tRSCBj35tWo) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Swedish Mermaid](https://open.spotify.com/album/1cnTmCiFlz5Vak5tQLtS4v) | 3:29 |
 | 16 | [The More I Learn](https://open.spotify.com/track/3SUzsvoJYUSUr9JU0HH0pZ) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The More I Learn](https://open.spotify.com/album/2fmltVuNKPwB4ccYZRJ4nD) | 2:57 |
 | 17 | [Temporary](https://open.spotify.com/track/6eVEe7Q4SfiGgu1gkVwyCy) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Temporary](https://open.spotify.com/album/3KHfjyKSJcJbUSsZWhtbu9) | 4:03 |

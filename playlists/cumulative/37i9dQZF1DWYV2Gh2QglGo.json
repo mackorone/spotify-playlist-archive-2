@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Jessica Sevier",
+  "description": "The home of Canadian country music. Cover: Classe Moyenne",
   "name": "North Country",
   "tracks": [
     {
@@ -3459,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Drunk Text",
+        "url": "https://open.spotify.com/album/6KBvlefeCf23tyEjtdyTfv"
+      },
+      "artists": [
+        {
+          "name": "Paige Rutledge",
+          "url": "https://open.spotify.com/artist/4L5j4JbDdUfOd3NievouB1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "Drunk Text",
+      "url": "https://open.spotify.com/track/6cWBNPIJii8FA7cVX2ksT7"
+    },
+    {
+      "album": {
         "name": "Dublin Blues",
         "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
       },
@@ -4114,6 +4132,24 @@
       "duration_ms": 176786,
       "name": "Foraine",
       "url": "https://open.spotify.com/track/1tBoPHs23Y9lYSpikSj3dq"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2O0pPOikZ5zWGqj1FZ0cy4"
+      },
+      "artists": [
+        {
+          "name": "Brian John Harwood",
+          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212748,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/078cgiywLnMRtuLCAIf554"
     },
     {
       "album": {
@@ -4921,6 +4957,28 @@
     },
     {
       "album": {
+        "name": "Hanging Out In My Head",
+        "url": "https://open.spotify.com/album/08Z9eJMfUvyzNl0vTCGyaM"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        },
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Hanging Out In My Head",
+      "url": "https://open.spotify.com/track/5ValF3UWlU0MasMfGFXXle"
+    },
+    {
+      "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
       },
@@ -5298,6 +5356,24 @@
       "duration_ms": 161245,
       "name": "Here's Your Chance",
       "url": "https://open.spotify.com/track/48sINJHpSyiDRxhRVRse8L"
+    },
+    {
+      "album": {
+        "name": "Hey Honey",
+        "url": "https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193679,
+      "name": "Hey Honey",
+      "url": "https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn"
     },
     {
       "album": {
@@ -6705,6 +6781,44 @@
     },
     {
       "album": {
+        "name": "J'suis l\u00e0 pour rester",
+        "url": "https://open.spotify.com/album/2hnOqF41sxeU1EayOGUIp3"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Arpin L\u00e9pine",
+          "url": "https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "J'suis l\u00e0 pour rester (feat. Arpin L\u00e9pine)",
+      "url": "https://open.spotify.com/track/11hQS0642XDJAVn9asFh8w"
+    },
+    {
+      "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
       },
@@ -7044,6 +7158,28 @@
       "duration_ms": 173614,
       "name": "Kiss My Glass",
       "url": "https://open.spotify.com/track/2jvj8Ujx1atOIE7QIMCekC"
+    },
+    {
+      "album": {
+        "name": "Kiss My Glass (version fran\u00e7aise) [feat. Marie-Mai]",
+        "url": "https://open.spotify.com/album/2YazwcERQrgqYdMeOnOeCe"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        },
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Kiss My Glass (version fran\u00e7aise) [feat. Marie-Mai]",
+      "url": "https://open.spotify.com/track/2KENKXHWak667JKh1ulxKn"
     },
     {
       "album": {

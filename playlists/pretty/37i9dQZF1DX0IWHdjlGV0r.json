@@ -1,12 +1,12 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 129952,
+  "num_followers": 129961,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGjg6dAgSk7PEoZ5O2KHepG6kzHl",
+  "snapshot_id": "AAAAAAGOS3pMxozc39nTLzTp5/D8DzYi",
   "tracks": [
     {
       "added_at": "2026-08-26 22:01:25",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        },
+        {
+          "name": "Fashion Forty",
+          "url": "https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y"
+        }
+      ],
+      "duration_ms": 138869,
+      "name": "Stare Senza (feat. Fashion Forty)",
+      "url": "https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 190188,
       "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Northside Melodies",
-        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
-      },
-      "artists": [
-        {
-          "name": "Glocky",
-          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
-        },
-        {
-          "name": "Fashion Forty",
-          "url": "https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y"
-        }
-      ],
-      "duration_ms": 138869,
-      "name": "Stare Senza (feat. Fashion Forty)",
-      "url": "https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt"
     },
     {
       "added_at": "2026-08-26 22:01:25",

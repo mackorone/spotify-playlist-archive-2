@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 311981,
       "name": "El Boton del Pantalon",
       "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
@@ -1366,6 +1366,32 @@
       "duration_ms": 238648,
       "name": "Ese Dinero",
       "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
+    },
+    {
+      "album": {
+        "name": "FRUTTI",
+        "url": "https://open.spotify.com/album/7BC1dycMsk72yMpZ3cXnu9"
+      },
+      "artists": [
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        },
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160449,
+      "name": "Eso Vaa",
+      "url": "https://open.spotify.com/track/5wMoKneqcYJoHqHntkiLxd"
     },
     {
       "album": {
@@ -2635,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "NO SE DA (Bah\u00eda Aguacate)",
+        "url": "https://open.spotify.com/album/00IAfX3E8MwCxxyQy89hX9"
+      },
+      "artists": [
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180686,
+      "name": "NO SE DA (Bah\u00eda Aguacate)",
+      "url": "https://open.spotify.com/track/2AfAXREccYROY8IdG789VC"
+    },
+    {
+      "album": {
         "name": "No Se Dio",
         "url": "https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF"
       },
@@ -2658,6 +2702,24 @@
       "duration_ms": 168842,
       "name": "No Se Dio",
       "url": "https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs"
+    },
+    {
+      "album": {
+        "name": "Nunca Es Tarde",
+        "url": "https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G"
+      },
+      "artists": [
+        {
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161664,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof"
     },
     {
       "album": {
@@ -2760,6 +2822,24 @@
       "duration_ms": 238805,
       "name": "Parcerita - Remix",
       "url": "https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC"
+    },
+    {
+      "album": {
+        "name": "Partycito",
+        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
+      },
+      "artists": [
+        {
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Partycito",
+      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
     },
     {
       "album": {
@@ -3456,7 +3536,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"

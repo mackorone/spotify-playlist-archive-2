@@ -4,7 +4,7 @@
 
 > asia menor en portada.
 
-609 songs - 1 day 12 hr 38 min
+611 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Hola Qué Tal](https://open.spotify.com/track/58e7WaBoTfncrNn9AAoXTi) | [Sabina Odone](https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj), [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Hola Qué Tal](https://open.spotify.com/album/4Vm948eV7Cl64hm222UI0x) | 2:48 | 2025-09-05 | 2026-07-25 |
 | [Hollywood](https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Hollywood](https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl) | 3:20 | 2022-10-07 | 2023-01-28 |
 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 | 2023-03-10 | 2023-05-27 |
+| [Huella](https://open.spotify.com/track/4i99HAH4jsoatFXaafktzi) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Longitudinales](https://open.spotify.com/album/5gVtWqYnYjqHJ1jfjtpzPR) | 2:52 | 2026-09-11 |  |
 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-01-28 |
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-15 | 2022-07-26 |
 | [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2023-04-23 |
@@ -484,6 +485,7 @@
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |
 | [Se Vienen Cosas Pronto](https://open.spotify.com/track/66lfQAOmlh653RETZfhjmc) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Se Vienen Cosas Pronto](https://open.spotify.com/album/60SIHaSvtNa9GAE2zPHgCT) | 2:54 | 2025-09-05 | 2026-07-25 |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-04-15 | 2022-07-21 |
+| [Seis lagunas](https://open.spotify.com/track/04wliT6gpVz1prOXe19gXX) | [asia menor](https://open.spotify.com/artist/5yrd8vlGtyEsP3maoVqlkD) | [Vaho](https://open.spotify.com/album/7oE9J8ccrqYBwlygc5fYGe) | 4:08 | 2026-09-11 |  |
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-15 | 2022-07-28 |
 | [Sentir para Sanar](https://open.spotify.com/track/2bZmhBPdgcwtvheYHm8H03) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Sentir para Sanar](https://open.spotify.com/album/0MLh7QecBbb4oCMx0mg3Pe) | 3:48 | 2025-04-25 | 2026-07-25 |
 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 | 2023-08-04 | 2023-09-12 |

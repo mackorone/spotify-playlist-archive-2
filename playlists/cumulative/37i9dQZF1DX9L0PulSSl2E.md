@@ -4,11 +4,11 @@
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-101 songs - 4 hr 46 min
+102 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [666](https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [SoundsbyJeremy](https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ) | [666](https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm) | 2:47 | 2026-08-14 |  |
+| [666](https://open.spotify.com/track/1gZSbOKG32gpjVjy29TQGR) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [SoundsbyJeremy](https://open.spotify.com/artist/2lUHRrqFWCiW9Fv3GJsrwQ) | [666](https://open.spotify.com/album/11wizp7coeLp55KLgbdTLm) | 2:47 | 2026-08-14 | 2026-09-12 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2025-10-17 |  |
 | [Aadat \(Feat\. AP Dhillon\)](https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:40 | 2025-10-17 |  |
 | [Adore](https://open.spotify.com/track/4vz4lZFsbgVB7oZG126OyM) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh) | [Adore](https://open.spotify.com/album/0QeuPCHFhCzj9wRSvKTi47) | 2:10 | 2025-10-17 |  |
@@ -45,6 +45,7 @@
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2025-10-17 |  |
 | [Goriye](https://open.spotify.com/track/1FOPiw2HXNHmxg76vFfN4I) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Goriye](https://open.spotify.com/album/0QNTv6Cq8t4LaFRqDxfMVD) | 3:05 | 2025-10-17 | 2025-10-25 |
 | [Gustakhiyan \(From"Madhaniyan"\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ogj157TMEJugMZchWKscQ) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Gustakhiyan \(From"Madhaniyan"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rjHEHa2D2sIxaya1ciyxl) | 2:43 | 2025-10-17 | 2026-08-22 |
+| [Heater](https://open.spotify.com/track/0FI43BWpVXYhuAI2IO9pNH) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Shiiv](https://open.spotify.com/artist/1QNNJQV9fWB0o73y3fZAnj) | [Better Late Than Never](https://open.spotify.com/album/7LZj19MRlz22g0fdtzHspn) | 2:27 | 2026-09-11 |  |
 | [HeatWave](https://open.spotify.com/track/18Kbm07VKHPd5RJcPgI0rw) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [HeatWave](https://open.spotify.com/album/1MjTUCspk4VLjJUlBKZzjK) | 2:09 | 2026-06-12 | 2026-07-04 |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-10-17 | 2025-12-11 |
 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 | 2025-10-17 |  |

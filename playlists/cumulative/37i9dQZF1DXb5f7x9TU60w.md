@@ -4,7 +4,7 @@
 
 > Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
-140 songs - 6 hr 59 min
+141 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Endless Night \- Instrumental](https://open.spotify.com/track/3YYcp8Pjy8Q2wZLn2D6BM5) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Disney's Fairy Tale Weddings](https://open.spotify.com/album/6zDt4j28xSMo28ZfrjZese) | 4:26 | 2024-04-19 | 2026-04-24 |
 | [Ev'rybody Wants to Be a Cat](https://open.spotify.com/track/4SrKlLlBS4wv5kmz86Dpk5) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Happy](https://open.spotify.com/album/2UkATaVikmCtb4hjDpUbVo) | 4:02 | 2024-04-19 |  |
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2024-04-19 |  |
+| [Get Ready \(Guitar Version\)](https://open.spotify.com/track/5SQtZN2fhy96gQSYVHatfT) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Get Ready \(From "Camp Rock 3"\)](https://open.spotify.com/album/5CLdtYWFuvjLopeAw7ERQR) | 3:11 | 2026-09-11 |  |
 | [Go the Distance](https://open.spotify.com/track/3d5gx8mD8ucSU9IbgduWkM) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:25 | 2025-08-06 |  |
 | [Grim Grinning Ghosts](https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Grim Grinning Ghosts](https://open.spotify.com/album/054i6SZs6LCR7hn8iVKJ0s) | 2:59 | 2024-10-04 | 2026-04-24 |
 | [Happy Working Song](https://open.spotify.com/track/1hexIk0p8vamt9hoCh4Bcn) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spring Songs](https://open.spotify.com/album/498qNLR5BlSmQEmoJBU2xD) | 2:21 | 2025-03-21 |  |

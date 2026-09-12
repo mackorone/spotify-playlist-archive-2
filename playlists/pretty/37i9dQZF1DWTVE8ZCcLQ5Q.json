@@ -1,12 +1,12 @@
 {
   "description": "Kouth e e outros artistas diferenciados est\u00e3o no nosso RADAR.",
-  "num_followers": 389607,
+  "num_followers": 389597,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJXczV+bO3hZ4AjNdtzcrVbGPis",
+  "snapshot_id": "AAAAAD9BjPnNRzHpVSvYMYBPlKQnzl+l",
   "tracks": [
     {
       "added_at": "2026-09-09 16:46:49",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-09-09 16:46:49",
       "album": {
-        "name": "CORA\u00c7\u00c3O REBELDE",
-        "url": "https://open.spotify.com/album/1m7O4rS7Wa8pRY9Vx7Eozg"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 168673,
-      "name": "CORA\u00c7\u00c3O REBELDE",
-      "url": "https://open.spotify.com/track/2UQI7CWzx2eINYwVGXJ0fY"
-    },
-    {
-      "added_at": "2026-09-09 16:46:49",
-      "album": {
         "name": "Meu Ac\u00fastico",
         "url": "https://open.spotify.com/album/0cKDtsszY0XUWKLPoFwG8T"
       },
@@ -119,26 +103,6 @@
       "duration_ms": 166956,
       "name": "BARRIL DOBRADO",
       "url": "https://open.spotify.com/track/0DQFlLaV80oDoJCtI08sIV"
-    },
-    {
-      "added_at": "2026-09-09 16:46:49",
-      "album": {
-        "name": "BANDIDA SEXY",
-        "url": "https://open.spotify.com/album/2mUVhni8FKuf2neyT5XGH7"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "MELI",
-          "url": "https://open.spotify.com/artist/49oqWQXT56gZaO0wfpUhXl"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "BANDIDA SEXY",
-      "url": "https://open.spotify.com/track/77klMWEzPD6aSpYbYUQPAy"
     },
     {
       "added_at": "2026-09-09 16:46:49",
@@ -175,26 +139,6 @@
       "duration_ms": 171333,
       "name": "GORDINHA MAS TA BOM",
       "url": "https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO"
-    },
-    {
-      "added_at": "2026-09-09 16:46:49",
-      "album": {
-        "name": "Ainda \u00e9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        },
-        {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        }
-      ],
-      "duration_ms": 172484,
-      "name": "Ainda \u00e9 Ver\u00e3o",
-      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
     },
     {
       "added_at": "2026-09-09 16:46:49",
@@ -239,6 +183,62 @@
       "duration_ms": 203228,
       "name": "Experimenta ver",
       "url": "https://open.spotify.com/track/4q9t6Vmyipzfbddbt6KsbN"
+    },
+    {
+      "added_at": "2026-09-09 16:46:49",
+      "album": {
+        "name": "BANDIDA SEXY",
+        "url": "https://open.spotify.com/album/2mUVhni8FKuf2neyT5XGH7"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "MELI",
+          "url": "https://open.spotify.com/artist/49oqWQXT56gZaO0wfpUhXl"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BANDIDA SEXY",
+      "url": "https://open.spotify.com/track/77klMWEzPD6aSpYbYUQPAy"
+    },
+    {
+      "added_at": "2026-09-09 16:46:49",
+      "album": {
+        "name": "Ainda \u00e9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/07q14bTS307dpARQ1X9rg9"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "duration_ms": 172484,
+      "name": "Ainda \u00e9 Ver\u00e3o",
+      "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
+    },
+    {
+      "added_at": "2026-09-09 16:46:49",
+      "album": {
+        "name": "CORA\u00c7\u00c3O REBELDE",
+        "url": "https://open.spotify.com/album/1m7O4rS7Wa8pRY9Vx7Eozg"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 168673,
+      "name": "CORA\u00c7\u00c3O REBELDE",
+      "url": "https://open.spotify.com/track/2UQI7CWzx2eINYwVGXJ0fY"
     },
     {
       "added_at": "2026-09-09 16:46:49",

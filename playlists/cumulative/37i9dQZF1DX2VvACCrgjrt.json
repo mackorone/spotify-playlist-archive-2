@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190170,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
+    },
+    {
+      "album": {
         "name": "Baddies Going Out",
         "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
       },
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 139147,
       "name": "Bass Down Low (feat. DEV)",
       "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
@@ -3628,6 +3646,28 @@
       "duration_ms": 139687,
       "name": "Body To The Beat",
       "url": "https://open.spotify.com/track/01a8kndu3BGQOBvMJk9HHK"
+    },
+    {
+      "album": {
+        "name": "Body Work",
+        "url": "https://open.spotify.com/album/3LGHuK6BWfBh1KihjxAseB"
+      },
+      "artists": [
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        },
+        {
+          "name": "Shdws",
+          "url": "https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182431,
+      "name": "Body Work",
+      "url": "https://open.spotify.com/track/1a1f210GFksvkZzVkdIAzs"
     },
     {
       "album": {
@@ -7092,7 +7132,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
@@ -8436,6 +8476,24 @@
       "duration_ms": 186240,
       "name": "Education",
       "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
+    },
+    {
+      "album": {
+        "name": "Electro Level",
+        "url": "https://open.spotify.com/album/3EuqtTYizejUFZi6DVTtva"
+      },
+      "artists": [
+        {
+          "name": "Efim Kerbut",
+          "url": "https://open.spotify.com/artist/6KARnzxs9JGfFGoCeDaAGh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192069,
+      "name": "Electro Level",
+      "url": "https://open.spotify.com/track/2ESCJOThSYz9wuyVPaMP13"
     },
     {
       "album": {
@@ -10110,7 +10168,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 192000,
       "name": "Freeky",
       "url": "https://open.spotify.com/track/5wrq1OgoR7JMO4wImNj5xO"
@@ -13842,7 +13900,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 180004,
       "name": "In My System",
       "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
@@ -14146,7 +14204,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 140307,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/6x4S9I1v5zhcvhFhfC2Hvt"
@@ -16906,6 +16964,28 @@
       "duration_ms": 187976,
       "name": "Midnight Rumble",
       "url": "https://open.spotify.com/track/25PR0i7tuugQVqAppXiDPx"
+    },
+    {
+      "album": {
+        "name": "MilliON Me",
+        "url": "https://open.spotify.com/album/1RPbhHFqhrpq6kDnov57C4"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156069,
+      "name": "MilliON Me",
+      "url": "https://open.spotify.com/track/08AXTbBi7NgjAFoovjulPd"
     },
     {
       "album": {
@@ -20911,6 +20991,24 @@
     },
     {
       "album": {
+        "name": "Possession",
+        "url": "https://open.spotify.com/album/6nyfs6Brjj6wq3yP5KQ5K7"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/62v4o0MVbulgzmxMTxnb45"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2zlTmPIf2o7CohlDpe0KQH"
       },
@@ -21312,6 +21410,24 @@
       "duration_ms": 257342,
       "name": "Pump (AC Slater Remix)",
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
+    },
+    {
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/4jZSNIcMrlPVyvg98hRfBJ"
+      },
+      "artists": [
+        {
+          "name": "Carlo Giannico",
+          "url": "https://open.spotify.com/artist/74Nbq1eideEYDmQdz8ZXSf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/6vOqmr9UPWx9DtJCsfeOsP"
     },
     {
       "album": {
@@ -22020,7 +22136,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 217846,
       "name": "Renegade Master - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
@@ -23600,7 +23716,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181384,
       "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
@@ -24064,6 +24180,24 @@
       "duration_ms": 167131,
       "name": "Slay (feat. Leo St\u00e4r)",
       "url": "https://open.spotify.com/track/67xLMneUAysQMBWftRZvFF"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/4zOynfSa90vcZFFYuc3fQU"
+      },
+      "artists": [
+        {
+          "name": "Dirty Rush & Gregor Es",
+          "url": "https://open.spotify.com/artist/6jSW7sg56cdW32xIqgPKZy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196138,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5XlGPu8EtuILgLXBS2chVu"
     },
     {
       "album": {
@@ -24650,6 +24784,28 @@
       "duration_ms": 147619,
       "name": "Step One",
       "url": "https://open.spotify.com/track/0VSo5Y6SW2yvw1MBphgrVv"
+    },
+    {
+      "album": {
+        "name": "Step To The Floor",
+        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Step To The Floor",
+      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
     },
     {
       "album": {
@@ -26474,7 +26630,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
@@ -26806,7 +26962,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 145036,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
@@ -28676,6 +28832,24 @@
       "duration_ms": 171692,
       "name": "Volume",
       "url": "https://open.spotify.com/track/1FCeeddLf405PHVwwAAo1k"
+    },
+    {
+      "album": {
+        "name": "Walk The Walk",
+        "url": "https://open.spotify.com/album/2rA3mMmDtzqyTKTVaounv2"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Walk The Walk",
+      "url": "https://open.spotify.com/track/0DidaiKacGtHQhYvMCoSDZ"
     },
     {
       "album": {

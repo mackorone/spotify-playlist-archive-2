@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante como Ryan Castro y Feid. ",
-  "num_followers": 222951,
+  "num_followers": 222983,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnl2ujp3EZ86JaZeVXQlJlPYmwO",
+  "snapshot_id": "AAAAAH07J6v88cTjQD4z/j2vCHnTAY4z",
   "tracks": [
     {
       "added_at": "2026-08-07 04:59:13",
@@ -565,6 +565,50 @@
       "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
     },
     {
+      "added_at": "2026-09-11 04:59:20",
+      "album": {
+        "name": "MALOS Y CUEROS",
+        "url": "https://open.spotify.com/album/5H8nuEVle7DGq6tQtUVj9d"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Jaime El King",
+          "url": "https://open.spotify.com/artist/7xiOYD4GFS278j40P4ZB8K"
+        },
+        {
+          "name": "Omarion King Beat",
+          "url": "https://open.spotify.com/artist/1oAlzZnNbtVFo6tzeUA281"
+        }
+      ],
+      "duration_ms": 180824,
+      "name": "MALOS Y CUEROS",
+      "url": "https://open.spotify.com/track/2rPqLg8A2nswqPScK4pi9s"
+    },
+    {
+      "added_at": "2026-09-11 04:59:20",
+      "album": {
+        "name": "Callaita Nunca",
+        "url": "https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd"
+      },
+      "artists": [
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Callaita Nunca",
+      "url": "https://open.spotify.com/track/4PoxLQG5P9ljEPeDvd0Amg"
+    },
+    {
       "added_at": "2026-06-18 18:58:57",
       "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
@@ -583,6 +627,22 @@
       "duration_ms": 193386,
       "name": "D\u00d3NDE",
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
+    },
+    {
+      "added_at": "2026-09-11 04:59:20",
+      "album": {
+        "name": "LA SAPI\u00d3",
+        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 117391,
+      "name": "LA SAPI\u00d3",
+      "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
     },
     {
       "added_at": "2026-06-18 18:58:57",

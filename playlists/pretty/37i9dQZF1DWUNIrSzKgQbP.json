@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1636119,
+  "num_followers": 1635913,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGXBUPod/HFiNnHQGg49rNZ1m0M",
+  "snapshot_id": "AAAAABrnj4hFFdQkKc37VgE7AyIoZiD7",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
-      },
-      "artists": [
-        {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "The Old Pine E.P.",
         "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 257590,
       "name": "Old Pine - EP Version",
       "url": "https://open.spotify.com/track/3KdYkzww6dbqQ37bNQSODD"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Would It Kill Ya",
         "url": "https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165500,
       "name": "Would It Kill Ya",
       "url": "https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Let There Be Music",
-        "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
-      },
-      "artists": [
-        {
-          "name": "Bonny Doon",
-          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Let There Be Music",
-      "url": "https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "So Long Little Miss Sunshine",
         "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 288526,
       "name": "Summer of Love",
       "url": "https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Let There Be Music",
+        "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
+      },
+      "artists": [
+        {
+          "name": "Bonny Doon",
+          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Let There Be Music",
+      "url": "https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk"
     },
     {
       "added_at": "2026-07-09 23:27:48",

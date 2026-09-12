@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAAA7v2JRTE1NOc9qV24Ukj2L",
+  "snapshot_id": "aqHzAAAAAADlxlxhicbZRUfUly2Bf/GB",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire (Deluxe)",
         "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 172198,
       "name": "CHARTiANDO",
       "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nota de Pasion",
-        "url": "https://open.spotify.com/album/5IMNETxS7NHq8izdlrgdsm"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Nota de Pasion",
-      "url": "https://open.spotify.com/track/6WXOXKQ0pDfdGQvh5XT7dI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire (Deluxe)",
         "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 124368,
       "name": "Sata",
       "url": "https://open.spotify.com/track/4BuMXTg1nCzv5ubPhG1hd2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nota de Pasion",
+        "url": "https://open.spotify.com/album/5IMNETxS7NHq8izdlrgdsm"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Nota de Pasion",
+      "url": "https://open.spotify.com/track/6WXOXKQ0pDfdGQvh5XT7dI"
     },
     {
       "added_at": null,

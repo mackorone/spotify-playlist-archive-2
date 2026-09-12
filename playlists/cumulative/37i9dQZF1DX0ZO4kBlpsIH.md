@@ -4,7 +4,7 @@
 
 > A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
-261 songs - 12 hr 43 min
+263 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [La Valse Des Niglos](https://open.spotify.com/track/0M4bg3q6Cjb1kVIfQJEBUR) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 3:11 | 2022-11-25 |  |
 | [La vie en rose](https://open.spotify.com/track/5nMtd6QVWMv8tiYkPlPuD7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 2:14 | 2022-02-18 | 2023-03-22 |
 | [La Vie En Rose](https://open.spotify.com/track/2U0WWWzYhnFieMhO9ONB1F) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 3:02 | 2023-03-21 | 2025-11-04 |
+| [La Voie Du Soleil](https://open.spotify.com/track/2sdMgOTSJ0T98VybEifg7L) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [La Voie Du Soleil](https://open.spotify.com/album/3NtK1uJhJShpGLVJUjOPqi) | 2:39 | 2026-09-11 |  |
 | [La Vraie Valse Musette](https://open.spotify.com/track/2zrVAASEpNrRWCVtFHxMXM) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:01 | 2022-11-25 | 2023-08-19 |
 | [La Zingara](https://open.spotify.com/track/0MWobJTLASCpmQ2a3yrCWJ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:18 | 2022-02-18 | 2023-08-19 |
 | [Le bal de la marine](https://open.spotify.com/track/5nd1YmPZduCJkVljfecCms) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:10 | 2022-11-25 | 2026-03-13 |
@@ -151,6 +152,7 @@
 | [Les Yeux Ouverts](https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [Les Yeux Ouverts](https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y) | 2:49 | 2024-03-08 |  |
 | [Little French Bistro](https://open.spotify.com/track/6XRQ7rygcyL8NJhsfFxQl2) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 4:27 | 2023-03-07 | 2023-04-28 |
 | [Little Waltz](https://open.spotify.com/track/5bes1P1ZmbICTHoLkyK8VJ) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Little Waltz](https://open.spotify.com/album/3G0MEidJXd6KyVbAuhurSP) | 1:48 | 2025-06-16 |  |
+| [L´amour est bleu](https://open.spotify.com/track/598ZgzOT1riMyLVoHekqJC) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [L´amour est bleu](https://open.spotify.com/album/4MnUbUDxLGvCQja6MlUzuP) | 2:47 | 2026-09-11 |  |
 | [L´amour Facile](https://open.spotify.com/track/1jBwaHMkPzAGQV8S2U1iRg) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [L´amour Facile](https://open.spotify.com/album/3dXUhdR0VqnADAqgrsdChc) | 4:00 | 2024-11-12 | 2026-09-05 |
 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 | 2022-02-18 | 2025-06-17 |
 | [Mama Zouk](https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD) | [Velours Noir](https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w) | [Mama Zouk](https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK) | 2:33 | 2026-06-30 |  |

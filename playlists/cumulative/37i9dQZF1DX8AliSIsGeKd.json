@@ -35831,6 +35831,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Ain't Enough",
+        "url": "https://open.spotify.com/album/5Jovp5l5xPEEfT84XEABMs"
+      },
+      "artists": [
+        {
+          "name": "Merlin",
+          "url": "https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173953,
+      "name": "Dreaming Ain't Enough",
+      "url": "https://open.spotify.com/track/0tZPGQRwG9ONfAfVNBPVMy"
+    },
+    {
+      "album": {
         "name": "DREAMING ON",
         "url": "https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN"
       },
@@ -65932,6 +65950,28 @@
       "duration_ms": 193920,
       "name": "Inert",
       "url": "https://open.spotify.com/track/3QQWH8Xf3iqErO7KzxGMxq"
+    },
+    {
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/4sBM2XmABgnlxceEppDck7"
+      },
+      "artists": [
+        {
+          "name": "PUCK",
+          "url": "https://open.spotify.com/artist/3VbM995kwwzBzreprmmJXe"
+        },
+        {
+          "name": "Cary Crank",
+          "url": "https://open.spotify.com/artist/43TvZ4ARP8NWlCy1x3KWt9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/6k9JjE7QHzXk4XU6fjESOU"
     },
     {
       "album": {
@@ -136076,24 +136116,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/4sBM2XmABgnlxceEppDck7"
-      },
-      "artists": [
-        {
-          "name": "PUCK",
-          "url": "https://open.spotify.com/artist/3VbM995kwwzBzreprmmJXe"
-        }
-      ],
-      "date_added": "2026-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6k9JjE7QHzXk4XU6fjESOU"
     },
     {
       "album": {

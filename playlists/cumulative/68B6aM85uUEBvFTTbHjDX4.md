@@ -4,10 +4,11 @@
 
 > 
 
-171 songs - 13 hr 58 min
+174 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-09-11 |  |
 | [Alone](https://open.spotify.com/track/2u1qAHvRFfcpmbyF80BWES) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Primitive Technique](https://open.spotify.com/album/3sHuQny2bwcID8MnoXux5r) | 6:01 | 2019-06-08 |  |
 | [American Boy \- Lost Frequencies Remix / Extended](https://open.spotify.com/track/2vHzVBmg6UhJoFbHDPN6ZR) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [American Boy \(Lost Frequencies Remix\)](https://open.spotify.com/album/0D3UlBS76gEeNZQ4eAjTJe) | 5:26 | 2019-04-13 |  |
 | [Athena \- Alex Stein Remix](https://open.spotify.com/track/6G9Vd9vpT48Wavj2R2kmWy) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Athena Remixes](https://open.spotify.com/album/37OhMXLThf2Zxm2N5O9Mcq) | 6:05 | 2022-04-07 |  |
@@ -18,6 +19,7 @@
 | [Broken Pieces \(feat\. Nihils\) \- Culture Shock Remix](https://open.spotify.com/track/0fgAk9XxXI7ayA9IXDGzFg) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [MOSAIK REMIXED](https://open.spotify.com/album/5eKnogujRkuxGtHhXUEqWe) | 4:13 | 2019-11-03 |  |
 | [Broken Whisper](https://open.spotify.com/track/56ocGLqeGQshHCoKZJ6X2o) | [Mehen](https://open.spotify.com/artist/2lul0GfhMBNfd61GNqGFBs) | [Exhale VA001](https://open.spotify.com/album/0po0rc9aEPhTZG6yTgmHgn) | 6:11 | 2021-04-18 |  |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2023-08-23 |  |
+| [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 | 2026-09-11 |  |
 | [Chant Rush \- Dave Sinner Remix](https://open.spotify.com/track/2fvSehcoOX5pTSfeWpC5Gx) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Dave Sinner](https://open.spotify.com/artist/6ZR2XILLJ6y4cP6ttuBaRC) | [Chant Rush](https://open.spotify.com/album/4JIwIyc5U91KsfsQ6EozmZ) | 7:07 | 2026-05-13 |  |
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2023-05-30 |  |
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-09 |  |
@@ -79,6 +81,7 @@
 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Pure..\. 90s Dance Party](https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF) | 3:35 | 2018-10-25 |  |
 | [Insomnia \- Radio Edit](https://open.spotify.com/track/5YOCLjQEsrVA3khLJncZ2d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Essential \- One For The Lads](https://open.spotify.com/album/1bHf9HYi6rYYQlhS2iyLNT) | 3:36 | 2018-08-23 |  |
 | [Insomnia 2021 \- Epic Edit](https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia 2021](https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX) | 4:48 | 2021-06-16 |  |
+| [It Gets Better \- Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:12 | 2026-09-11 |  |
 | [It's Better When We Fake It](https://open.spotify.com/track/2YYTIL5bM9f72CZiVhMki8) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [It's Better When We Fake It](https://open.spotify.com/album/6C5zGGKbqzWO6N2dn9LbEC) | 6:58 | 2023-08-01 |  |
 | [Kammy \(like i do\)](https://open.spotify.com/track/1tOEEEM8DFyZq3CxSHeq5f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:58 | 2023-10-10 |  |
 | [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 | 2025-10-03 |  |

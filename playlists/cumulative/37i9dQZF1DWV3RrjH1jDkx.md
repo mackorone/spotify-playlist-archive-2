@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Marstein & Tobias Rahim, Alessandra, Stig Brenner og mange fler!! ♥️
 
-12,280 songs - 26 day 14 hr 37 min
+12,282 songs - 26 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9652,6 +9652,7 @@
 | [So Fine](https://open.spotify.com/track/4fWcqE5zqaaam4s5qiDWBu) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [So Fine](https://open.spotify.com/album/0OxrTAy27NMDQt7Fz5liwJ) | 2:20 | 2025-06-19 | 2025-06-27 |
 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 | 2025-05-29 | 2025-06-06 |
 | [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-03 | 2026-09-11 |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-10 |  |
 | [So Ironic](https://open.spotify.com/track/2lsI0tjFN2JF3GPc6fZRiu) | [Enilora](https://open.spotify.com/artist/002H6IvaLpzBcxtJLa9Ft5) | [So Ironic](https://open.spotify.com/album/3O6F2l3XsKiiBf2zVKLBZG) | 3:13 | 2024-08-22 | 2024-08-30 |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-19 | 2026-03-27 |
 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-13 | 2025-03-21 |
@@ -12020,6 +12021,7 @@
 | [Without You](https://open.spotify.com/track/7w2Aggk0McaSFn0qyJDmEz) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Without You](https://open.spotify.com/album/0a9rfPjwP0DtsqED3c1oBc) | 3:00 | 2025-02-20 | 2025-02-28 |
 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 | 2024-05-31 | 2024-06-07 |
 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 | 2026-06-25 | 2026-07-03 |
+| [WOAH](https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WOAH](https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM) | 2:25 | 2026-09-10 |  |
 | [Woke Up](https://open.spotify.com/track/3Pu6ami9THr2rDArjZ0Oqg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Woke Up / The Face](https://open.spotify.com/album/58M14WhzI5uN9Yg2jbII9L) | 2:13 | 2025-07-17 | 2025-07-25 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2024-06-01 |
 | [Wolfhour](https://open.spotify.com/track/2KxPjtlYKFQ8gvecsqtq18) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Wolfhour](https://open.spotify.com/album/3Wu4YbO9DXvTuAngf76GNI) | 4:17 | 2025-05-22 | 2025-05-30 |

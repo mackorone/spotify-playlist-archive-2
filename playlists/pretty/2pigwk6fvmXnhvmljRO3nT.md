@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,582 songs - 21 day 19 hr 47 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,583 songs - 21 day 19 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8590,5 +8590,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8580 | [Acid Tunnel of Love](https://open.spotify.com/track/5asZ6mI4gcw3tTG3wAsMve) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapter 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/4rdyH2luYP6J6k13P8aIm9) | 1:30 |
 | 8581 | [The Magic Never Ends](https://open.spotify.com/track/4rJlvRQgSFku3r1joXyJKg) | [Kwak Kilmun \(DEVSISTERS\)](https://open.spotify.com/artist/6d9T9XIlx1Gnjs8iRiJlZs) | [Cookie Run: Kingdom OST 1st Anniversary](https://open.spotify.com/album/6SavYu4OxD4MuJDKHCLfYA) | 1:12 |
 | 8582 | [Strolling Through the Kingdom](https://open.spotify.com/track/5yQEQknHmGZsSixxfa1WMo) | [Sohn Minsoo \(DEVSISTERS\)](https://open.spotify.com/artist/6uq8eAkxkQEGkbY7jRfhGD) | [Cookie Run: Kingdom OST 1st Anniversary](https://open.spotify.com/album/6SavYu4OxD4MuJDKHCLfYA) | 2:05 |
+| 8583 | [Zombie \- 2025 Remastered](https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 5:05 |
 
-Snapshot ID: `AAANAu8vU4VgN51oT8KUzlfiPMAhbmWe`
+Snapshot ID: `AAANA6dIa+5fF5epZiGD5xgGbzwr0hcF`

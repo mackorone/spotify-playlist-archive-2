@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 518010,
       "name": "Badila",
       "url": "https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F"
@@ -4335,6 +4335,28 @@
     },
     {
       "album": {
+        "name": "Chhathi Maiya (From \"The Vvaan\")",
+        "url": "https://open.spotify.com/album/1VvPRAsEV5fqG3HDzYJ9aL"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302875,
+      "name": "Chhathi Maiya - From \"The Vvaan\"",
+      "url": "https://open.spotify.com/track/0gHc3wIJfHx26WPtw5GSgf"
+    },
+    {
+      "album": {
         "name": "Chimna",
         "url": "https://open.spotify.com/album/5wR2qGBeLPWz1mQHgpjM37"
       },
@@ -4406,6 +4428,28 @@
       "duration_ms": 171547,
       "name": "Chingariyaan - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
+    },
+    {
+      "album": {
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el"
+      },
+      "artists": [
+        {
+          "name": "POPCORN Inc.",
+          "url": "https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
     },
     {
       "album": {
@@ -11302,10 +11346,6 @@
           "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
         },
         {
-          "name": "Rubeena Khan",
-          "url": "https://open.spotify.com/artist/5h54kN4JwoYC7qxqL1Ck14"
-        },
-        {
           "name": "Eslam Khan",
           "url": "https://open.spotify.com/artist/2b0LyWrFB6oonWOV36mCxG"
         }
@@ -12302,6 +12342,32 @@
       "duration_ms": 226517,
       "name": "Khudgarziyaan (From \"Daadi Ki Shaadi\")",
       "url": "https://open.spotify.com/track/5XN1JfSQcWThAIUiNjSmYi"
+    },
+    {
+      "album": {
+        "name": "Last Man In Tower (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/07UFHqqpg6CjNFUe9r50NW"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286312,
+      "name": "Khwaab - From \"Last Man in Tower\"",
+      "url": "https://open.spotify.com/track/64nV4mGkUfJvVIrhkVLS1L"
     },
     {
       "album": {
@@ -15039,6 +15105,28 @@
     },
     {
       "album": {
+        "name": "Money Follows My Brother",
+        "url": "https://open.spotify.com/album/7e6umnmFUYKpTtmtMbkBlC"
+      },
+      "artists": [
+        {
+          "name": "Ravi Kishan",
+          "url": "https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142047,
+      "name": "Money Follows My Brother",
+      "url": "https://open.spotify.com/track/0tfchE7pwtAydZa8JMyf9V"
+    },
+    {
+      "album": {
         "name": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3M8EP5fXlCWyp7XMYB237G"
       },
@@ -15876,7 +15964,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 207428,
       "name": "Nazar Lagi",
       "url": "https://open.spotify.com/track/3MC7xAf4DcyWYnYfU933rj"
@@ -23674,7 +23762,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 229218,
       "name": "Tumhare Liye (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
@@ -24374,7 +24462,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 320905,
       "name": "Waqt - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3MEy93ybbMkNpYc0UYcucp"

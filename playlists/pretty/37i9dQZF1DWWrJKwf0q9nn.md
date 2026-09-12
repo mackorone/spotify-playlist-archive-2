@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: David Guetta & Hypaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,407 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,443 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [AEIOU](https://open.spotify.com/track/5fRbxcgYwcRahoBVDIqYfJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN) | [AEIOU](https://open.spotify.com/album/7IAdqQVE1IOrdiazy46nK9) | 2:49 |
 | 100 | [High On You](https://open.spotify.com/track/7qdcgDi9AtwpTxUtelal11) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [High On You](https://open.spotify.com/album/2FGO2QZ8QHtSkHFaimaCg3) | 2:31 |
 
-Snapshot ID: `AAAAAL1okbhPSzE6NiQtTF4RhkhmtCBS`
+Snapshot ID: `AAAAABk4vIaWgh8ZaUxJwSl1DukxFK2F`

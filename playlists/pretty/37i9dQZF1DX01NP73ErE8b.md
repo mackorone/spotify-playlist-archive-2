@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 prima stanza a destra e Angelica Bove in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,182 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,195 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 69 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 | 70 | [Aranciata](https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Aranciata](https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x) | 3:32 |
 
-Snapshot ID: `AAAAADgJcYFv2z1TO2MkWkIHHYt/N7fA`
+Snapshot ID: `AAAAAF/A/Z1y7g/Eu6K6ov2/uTR9nrpD`

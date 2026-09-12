@@ -4,7 +4,7 @@
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-251 songs - 15 hr 31 min
+253 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,9 +119,10 @@
 | [Heart of Stone](https://open.spotify.com/track/7dHnVfXljNwvlLGlr6lMlc) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:25 | 2026-03-06 |  |
 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 | 2023-06-23 |  |
 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 | 2026-03-06 |  |
+| [Heavy Tobacco](https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Heavy Tobacco](https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj) | 3:09 | 2026-09-11 |  |
 | [Hell's Bells](https://open.spotify.com/track/1BNm9pxX5cmZOq15o0mNEl) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4), [Jake Sinclair](https://open.spotify.com/artist/1yO1vWq1DjIxBESx5lhP8k), [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [True Blood: Music From The HBO® Original Series Volume 3](https://open.spotify.com/album/0kmWuDHYilq3PmEkfgD0Fu) | 3:36 | 2021-08-16 | 2024-08-08 |
 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 | 2022-06-06 | 2024-04-19 |
-| [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-06 |  |
+| [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-06 | 2026-09-12 |
 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 | 2022-06-06 | 2024-04-19 |
 | [Herd](https://open.spotify.com/track/1yuE4QLx2uQ3kGnWl2kOTy) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/0eekNa9Et5uCfUdqT56DP3) | 3:53 | 2022-06-06 | 2023-04-30 |
 | [Herd](https://open.spotify.com/track/4eozrPXk1IIL32Dxein25a) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/288yRryeyXypuhadFqaHLs) | 3:53 | 2021-08-16 | 2025-09-29 |
@@ -147,7 +148,7 @@
 | [James Monroe \(feat\. the Bog Neck Brass Band\)](https://open.spotify.com/track/4Dwuv0XbjXqpYcc5F9IBf7) | [The Henry Girls](https://open.spotify.com/artist/02KeGV8345Zm6WfWdCiD2i), [The Bog Neck Brass Band](https://open.spotify.com/artist/1d7vtWAF7L4Dc1fnY4g2hD) | [Louder Than Words](https://open.spotify.com/album/0LdAR7aEQlbwzV3ULlh9Dx) | 3:44 | 2021-08-16 | 2022-07-11 |
 | [John Came Home](https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [John Came Home](https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p) | 3:11 | 2023-03-28 |  |
 | [Jordan](https://open.spotify.com/track/19ZqrVEiqcfsJUXsSyRFM3) | [Roanoke](https://open.spotify.com/artist/3DiJ8FDytuRHd8ayygyN8x) | [Jordan](https://open.spotify.com/album/3j8Ze4riA4lZXFPPDKMSLf) | 4:01 | 2021-08-16 | 2022-07-27 |
-| [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 | 2021-08-16 |  |
+| [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 | 2021-08-16 | 2026-09-12 |
 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 | 2026-08-28 |  |
 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 | 2021-08-16 |  |
 | [Loneliness](https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb) | [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Loneliness](https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U) | 3:28 | 2026-07-10 |  |
@@ -246,6 +247,7 @@
 | [Trouble](https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr) | [Bellstop](https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o) | [Karma](https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90) | 3:43 | 2022-06-06 | 2024-04-19 |
 | [Trouble](https://open.spotify.com/track/6B0LkhI0pKXmzQAoCkEhKZ) | [Bellstop](https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o) | [Karma](https://open.spotify.com/album/3tnGbTTL2srN4AK2kuK2ET) | 3:43 | 2021-08-16 | 2022-07-29 |
 | [Troubled Waltz](https://open.spotify.com/track/4zwZZnlqLRkAQQwJ8P0KAa) | [The Howlin' Brothers](https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl) | [Trouble](https://open.spotify.com/album/2wSHaqy9Q0N7auudUn7QIL) | 3:41 | 2021-08-16 | 2022-07-07 |
+| [Two Coats](https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Two Coats](https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B) | 4:59 | 2026-09-11 |  |
 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 | 2024-02-16 |  |
 | [Virginia \- Acoustic](https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z) | [Eli Waltz](https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV) | [Virginia \(Acoustic\)](https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G) | 5:32 | 2026-03-06 |  |
 | [Waiting Around to Die](https://open.spotify.com/track/5gogtHCaImFgzzSNZxCPeQ) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Housebroken Man](https://open.spotify.com/album/5OGTvU4mhKMfoUkajeA0De) | 4:44 | 2021-08-16 | 2025-05-29 |

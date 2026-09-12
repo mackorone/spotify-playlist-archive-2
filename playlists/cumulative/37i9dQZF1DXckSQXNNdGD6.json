@@ -5915,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Se siente fuerte",
+        "url": "https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172991,
+      "name": "Se siente fuerte",
+      "url": "https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl"
+    },
+    {
+      "album": {
         "name": "se sube la falda",
         "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 137872,
       "name": "V.I.P",
       "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"

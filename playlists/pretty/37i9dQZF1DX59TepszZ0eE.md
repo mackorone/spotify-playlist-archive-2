@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,859 likes - 100 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,885 likes - 100 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Sihamba ne Qhawe](https://open.spotify.com/track/1BbS7bpQ1NF2SFdMbJazzF) | [Thembinkosi](https://open.spotify.com/artist/4dGmduawBSrQ9HXgud72LS) | [Themba Inkosi](https://open.spotify.com/album/6lgE7OacPfpim1Jlu1AAdb) | 4:57 |
 | 100 | [UKHULUMA OKUHLENGAMI](https://open.spotify.com/track/1s2J65siN4g62ctUjw5674) | [Mxolisi Mbethe](https://open.spotify.com/artist/7xdI72M5WBOcFXxuR0lDhW) | [UKHULUMA OKUHLENGAMI](https://open.spotify.com/album/7n0vhNJDSgCEzxGEqbTiUj) | 3:46 |
 
-Snapshot ID: `AAAAAEXHkj+/e9hRkVDA0iR9b4QxNKE3`
+Snapshot ID: `AAAAAJ/vdLdEeYUxI8x3LlriHjA1siS2`

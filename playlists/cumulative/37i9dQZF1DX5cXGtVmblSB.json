@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Arts",
+        "url": "https://open.spotify.com/album/7kADTvFexuUNjW4KEvsaX6"
+      },
+      "artists": [
+        {
+          "name": "Dyfi Francis",
+          "url": "https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Arts",
+      "url": "https://open.spotify.com/track/6wJ48KyctMv0MmV4i9nepG"
+    },
+    {
+      "album": {
         "name": "As We Unfold",
         "url": "https://open.spotify.com/album/4NHCYkkTj6EGpm3j6rj2NK"
       },
@@ -1281,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Calm Reflections",
+        "url": "https://open.spotify.com/album/19PKNh4ITjweXSWSmLsvT6"
+      },
+      "artists": [
+        {
+          "name": "Zimdizi",
+          "url": "https://open.spotify.com/artist/144HUlx66zGheUbx0092oN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "Calm Reflections",
+      "url": "https://open.spotify.com/track/5I34RhJ7u4kDLHZvap8ZeK"
+    },
+    {
+      "album": {
         "name": "Candentis",
         "url": "https://open.spotify.com/album/4BByS39omDY8s4XwvgBawS"
       },
@@ -1386,6 +1422,24 @@
       "duration_ms": 138750,
       "name": "Center 528 Hz",
       "url": "https://open.spotify.com/track/75IwoDcRiVsD9nJnXD8zrP"
+    },
+    {
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/53c7TYZqpcUqn30Yyi8nQJ"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/0iRCpmIjGwwYTxOeeFqQ5H"
     },
     {
       "album": {
@@ -1839,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Dust of Evening",
+        "url": "https://open.spotify.com/album/2Qyqyt3PClwmasPgHLSFfd"
+      },
+      "artists": [
+        {
+          "name": "Sayulita",
+          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136129,
+      "name": "Dust of Evening",
+      "url": "https://open.spotify.com/track/3gALQcPyrwsQPDqDglItxp"
+    },
+    {
+      "album": {
         "name": "Echoes in the Still",
         "url": "https://open.spotify.com/album/1tbAyeHHboIouIzdWJa2Gy"
       },
@@ -1890,6 +1962,24 @@
       "duration_ms": 156179,
       "name": "echoes of the gentle",
       "url": "https://open.spotify.com/track/12pC4ZLMCnU9Q0vBI7PwKn"
+    },
+    {
+      "album": {
+        "name": "Echoing Cedar",
+        "url": "https://open.spotify.com/album/2Cc70by5JQZmIf0Stx4aZw"
+      },
+      "artists": [
+        {
+          "name": "Karen Joyce",
+          "url": "https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Echoing Cedar",
+      "url": "https://open.spotify.com/track/1tBlvbsaRtuKfrA0HTP7VE"
     },
     {
       "album": {
@@ -3251,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Lost lucidity",
+        "url": "https://open.spotify.com/album/29d2qnXjuO9ovi4sZpcafR"
+      },
+      "artists": [
+        {
+          "name": "Ion Mihutz",
+          "url": "https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Lost lucidity",
+      "url": "https://open.spotify.com/track/459FvCLCihxfNCbKX2Oopr"
+    },
+    {
+      "album": {
         "name": "Lucence",
         "url": "https://open.spotify.com/album/3bNwcT3BKekpnXY2N1Gp2G"
       },
@@ -3410,6 +3518,24 @@
       "duration_ms": 252500,
       "name": "Maurice's Melody",
       "url": "https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog"
+    },
+    {
+      "album": {
+        "name": "Meaningful Pause",
+        "url": "https://open.spotify.com/album/5sjDyidlE89014w2JVyHI8"
+      },
+      "artists": [
+        {
+          "name": "Aries Suan",
+          "url": "https://open.spotify.com/artist/5mYqynrlNOgK6tXogOCtSW"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Meaningful Pause",
+      "url": "https://open.spotify.com/track/7uXnpPZFiSFKaLUY7MaPda"
     },
     {
       "album": {
@@ -3575,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Mirevale",
+        "url": "https://open.spotify.com/album/1kZ7vNRkJPW13Prog4zCEA"
+      },
+      "artists": [
+        {
+          "name": "Elare Veylon",
+          "url": "https://open.spotify.com/artist/7fExDn2SpSOqb6APf0ZQzb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Mirevale",
+      "url": "https://open.spotify.com/track/5OalAd3A8orz4MIfAuIylZ"
+    },
+    {
+      "album": {
         "name": "Moontrace Glow",
         "url": "https://open.spotify.com/album/24o0355nbufCxowE2kgUjN"
       },
@@ -3644,6 +3788,24 @@
       "duration_ms": 105000,
       "name": "Morgensol",
       "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
+    },
+    {
+      "album": {
+        "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/09KckEMotdvUTIx1t1ZbO9"
+      },
+      "artists": [
+        {
+          "name": "August Cole",
+          "url": "https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/6lFTI52bgQ1Y8aABzzvSis"
     },
     {
       "album": {
@@ -5005,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/7viKk0Ww7QKXLymJNjHMlr"
+      },
+      "artists": [
+        {
+          "name": "Griff Beynon",
+          "url": "https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/32RTTYBFHLoqXMfSBOFx6E"
+    },
+    {
+      "album": {
         "name": "Selenite",
         "url": "https://open.spotify.com/album/0HGLpa9WQQMHb4DgsjuNkb"
       },
@@ -5182,6 +5362,24 @@
       "duration_ms": 132096,
       "name": "Silent Hour",
       "url": "https://open.spotify.com/track/1aFQstwMqnYE82fnbI7wTy"
+    },
+    {
+      "album": {
+        "name": "Silent Orbit",
+        "url": "https://open.spotify.com/album/28hiPOJE6FXxFPyRlWF9Fw"
+      },
+      "artists": [
+        {
+          "name": "Zarquon",
+          "url": "https://open.spotify.com/artist/0wC8PcR1RHi4R96AmJ9j52"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Silent Orbit",
+      "url": "https://open.spotify.com/track/3jRNQgiAyLWqMtZqoOF40Y"
     },
     {
       "album": {
@@ -5420,6 +5618,24 @@
       "duration_ms": 142000,
       "name": "Soft Light",
       "url": "https://open.spotify.com/track/5OQwak2SbcXhdDcB2nZJhw"
+    },
+    {
+      "album": {
+        "name": "Soft Lumen",
+        "url": "https://open.spotify.com/album/2lDL9s7dQ5NZE51TsnGvzI"
+      },
+      "artists": [
+        {
+          "name": "Insomnian",
+          "url": "https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Soft Lumen",
+      "url": "https://open.spotify.com/track/3EKU40HWu6FIp0nYeP5XsQ"
     },
     {
       "album": {
@@ -5745,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "Stone Archway",
+        "url": "https://open.spotify.com/album/4QZXvYUeE8MaCsVbkdVA3E"
+      },
+      "artists": [
+        {
+          "name": "Celtic Charm",
+          "url": "https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Stone Archway",
+      "url": "https://open.spotify.com/track/7jEje6fOghkcA0VBG6cPwK"
+    },
+    {
+      "album": {
         "name": "Strings Of Serenity",
         "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
       },
@@ -5904,6 +6138,24 @@
       "duration_ms": 139354,
       "name": "The Last Word",
       "url": "https://open.spotify.com/track/1U0IpSf0CiBbrCluHYkIpG"
+    },
+    {
+      "album": {
+        "name": "The Night Is Young",
+        "url": "https://open.spotify.com/album/5UvLo1VPhftjFNeFUAA9XB"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167874,
+      "name": "The Night Is Young",
+      "url": "https://open.spotify.com/track/7xB7c1UQ25RjFLF6wTjieT"
     },
     {
       "album": {
@@ -6257,6 +6509,24 @@
     },
     {
       "album": {
+        "name": "Vildlin",
+        "url": "https://open.spotify.com/album/1l9YxKQZ9YaIGIURvwVax5"
+      },
+      "artists": [
+        {
+          "name": "Lejo",
+          "url": "https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148805,
+      "name": "Vildlin",
+      "url": "https://open.spotify.com/track/6c0jIV91q7JDrWJvR78BO0"
+    },
+    {
+      "album": {
         "name": "Voices of Ether",
         "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
       },
@@ -6326,6 +6596,42 @@
       "duration_ms": 182361,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "album": {
+        "name": "Wayfarer",
+        "url": "https://open.spotify.com/album/2xsFKMrHKrEdP9Rr6ebCYx"
+      },
+      "artists": [
+        {
+          "name": "Cipher",
+          "url": "https://open.spotify.com/artist/1Uwvwh3IvEvIgZUfF6U8hl"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138698,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/02oysLUxVPQMs9p5vVoYwZ"
+    },
+    {
+      "album": {
+        "name": "Weightless Light",
+        "url": "https://open.spotify.com/album/01UbUydjguo8BrOw0cDGuj"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Weightless Light",
+      "url": "https://open.spotify.com/track/1QNt0WNMyTThXRbUWaYrH2"
     },
     {
       "album": {
@@ -6416,6 +6722,24 @@
       "duration_ms": 145641,
       "name": "Whisperglow",
       "url": "https://open.spotify.com/track/46zQQCotaCrW1Ps66aFMkM"
+    },
+    {
+      "album": {
+        "name": "Whispering Waters",
+        "url": "https://open.spotify.com/album/7zRHLaK4uEiNmvHuoej9BR"
+      },
+      "artists": [
+        {
+          "name": "lux yazzie",
+          "url": "https://open.spotify.com/artist/34BfbhXsfce4geQpyyv7vo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "Whispering Waters",
+      "url": "https://open.spotify.com/track/4UAlGKVnDoaxlPFN4uW9lY"
     },
     {
       "album": {

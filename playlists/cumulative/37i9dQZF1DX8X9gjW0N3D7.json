@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: oui merci",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Olivier Couture",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Compostelle",
+        "url": "https://open.spotify.com/album/507iCB8XXIF5aQvDUpPRo6"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Compostelle",
+      "url": "https://open.spotify.com/track/0pbvZVvgGWvKnKXKRYurm5"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/5ZBZ0cDomdZ9bacYd8KV1P"
       },
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 239694,
       "name": "Elle est mon homme",
       "url": "https://open.spotify.com/track/3J6JCgQMuNZVe0HQ292wHW"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 259973,
       "name": "Expedition",
       "url": "https://open.spotify.com/track/5bT4JjpOvG7vjH6wRnTwvS"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 191882,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0rN69yHaCkPKCPAC1B7oy4"
@@ -4001,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "J'veux te voir grandir avec moi",
+        "url": "https://open.spotify.com/album/6pIr0iN7ws19jF3lunNHpT"
+      },
+      "artists": [
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "J'veux te voir grandir avec moi",
+      "url": "https://open.spotify.com/track/4hrTuKGaqIHsSoph6Yq891"
+    },
+    {
+      "album": {
         "name": "J'voudrais",
         "url": "https://open.spotify.com/album/0g0vN0wt0ZC8l8P1lHsQLy"
       },
@@ -4810,6 +4846,24 @@
       "duration_ms": 154200,
       "name": "La confr\u00e9rie du N\u00e9ant",
       "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
+    },
+    {
+      "album": {
+        "name": "La course au plus beau jour de l'humanit\u00e9",
+        "url": "https://open.spotify.com/album/1r6nAZEUsXAMZLXKwINocL"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "La course au plus beau jour de l'humanit\u00e9",
+      "url": "https://open.spotify.com/track/7fNdgHkCtxO0kWaZz0vklV"
     },
     {
       "album": {
@@ -7189,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "NUAGE",
+        "url": "https://open.spotify.com/album/7GuoxRWxPIRhWXRVb3bCuX"
+      },
+      "artists": [
+        {
+          "name": "childhood friend",
+          "url": "https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "NUAGE",
+      "url": "https://open.spotify.com/track/6yN9q9UxCUR7piYoOC2wZA"
+    },
+    {
+      "album": {
         "name": "N\u00e9ant ordinaire",
         "url": "https://open.spotify.com/album/6nkpqHZt6rX5hQLUUWWcpg"
       },
@@ -8070,7 +8142,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 160689,
       "name": "Pr\u00e9vu d'avance",
       "url": "https://open.spotify.com/track/6BixC63gpHY7JA6iDpAHOl"
@@ -8976,7 +9048,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 206773,
       "name": "Sauvage et libre",
       "url": "https://open.spotify.com/track/2BzzDPVbt22YZzhzRPAjtr"
@@ -9066,7 +9138,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 210590,
       "name": "SEPTEMBRE",
       "url": "https://open.spotify.com/track/2dQ1QKUm5paWQYZOk6clda"
@@ -9402,6 +9474,24 @@
       "duration_ms": 172306,
       "name": "Sphinx",
       "url": "https://open.spotify.com/track/6xXJVkQZ3Tui7zJhb0EynN"
+    },
+    {
+      "album": {
+        "name": "St-Misanthrope",
+        "url": "https://open.spotify.com/album/1q02FZFSjCqVKW2pjyr3Ya"
+      },
+      "artists": [
+        {
+          "name": "Max D Tremblay",
+          "url": "https://open.spotify.com/artist/5lteMIhzAiVNqYvcoKZK2N"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163676,
+      "name": "St-Misanthrope",
+      "url": "https://open.spotify.com/track/2RGlA5KcrwSGH1nmLn0Glr"
     },
     {
       "album": {
@@ -10008,7 +10098,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 228786,
       "name": "Todas mis amigas",
       "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
@@ -10971,6 +11061,24 @@
     },
     {
       "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'envers",
         "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
       },
@@ -11174,6 +11282,24 @@
       "duration_ms": 283178,
       "name": "\u00c7a va pas changer le monde",
       "url": "https://open.spotify.com/track/1l3qnwihBWTted2tA9hlDq"
+    },
+    {
+      "album": {
+        "name": "\u00c7a veut rien saou\u00e8re",
+        "url": "https://open.spotify.com/album/3rbzg7lJGKjfszf8hbu5IL"
+      },
+      "artists": [
+        {
+          "name": "Salebarbes",
+          "url": "https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u00c7a veut toute aou\u00e8re",
+      "url": "https://open.spotify.com/track/6b7hOe2dM38hy46WDGFVaw"
     },
     {
       "album": {

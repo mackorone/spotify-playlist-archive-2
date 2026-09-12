@@ -4,7 +4,7 @@
 
 > 
 
-8,853 songs - 22 day 12 hr 39 min
+8,854 songs - 22 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7682,6 +7682,7 @@
 | [Zipper Bagz](https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:14 | 2025-01-03 |  |
 | [Zodiac Killer](https://open.spotify.com/track/5YNpZZLw3sXVq9VYT9XqCw) | [Khalil?](https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz) | [Zodiac Killer](https://open.spotify.com/album/4f3WQMLPtPvf7zIigKa2q2) | 2:04 | 2025-09-15 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-12-14 |  |
+| [Zombie \- 2025 Remastered](https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 5:05 | 2026-09-11 |  |
 | [Zoom](https://open.spotify.com/track/2IG6Te7JyvrtqhFeOF7le4) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:38 | 2025-01-03 |  |
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2024-12-05 |  |
 | [ZUU](https://open.spotify.com/track/5sG65w8uKtjsJw7nc845Nc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 2:06 | 2025-01-03 |  |

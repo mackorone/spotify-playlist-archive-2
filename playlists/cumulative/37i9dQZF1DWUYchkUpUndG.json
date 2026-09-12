@@ -88019,6 +88019,28 @@
     },
     {
       "album": {
+        "name": "Jesus Revealed (A Live Album Recording)",
+        "url": "https://open.spotify.com/album/3nkdPxw4gKZCDctKAhQZlY"
+      },
+      "artists": [
+        {
+          "name": "Petra Odubayo",
+          "url": "https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644571,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/3uQgEbPTAe2KXBCzMvfUe6"
+    },
+    {
+      "album": {
         "name": "King of Glory",
         "url": "https://open.spotify.com/album/2bS4AU43AFQ9CK7XxUflbG"
       },
@@ -112034,6 +112056,24 @@
       "duration_ms": 668687,
       "name": "Nguna Phakade (Live)",
       "url": "https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF"
+    },
+    {
+      "album": {
+        "name": "Nguva(Time)",
+        "url": "https://open.spotify.com/album/61DMd8fNQcRYrngNcyDA5Z"
+      },
+      "artists": [
+        {
+          "name": "Sir Odilo",
+          "url": "https://open.spotify.com/artist/5t0wFDlLTd8luZ6i5ugfR4"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174944,
+      "name": "Nguva(Time)",
+      "url": "https://open.spotify.com/track/0YO4XQCrzldvIDFsZX5jZu"
     },
     {
       "album": {
@@ -160788,24 +160828,6 @@
       "duration_ms": 228240,
       "name": "TPC",
       "url": "https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL"
-    },
-    {
-      "album": {
-        "name": "Jesus Revealed (A Live Album Recording)",
-        "url": "https://open.spotify.com/album/3nkdPxw4gKZCDctKAhQZlY"
-      },
-      "artists": [
-        {
-          "name": "Petra Odubayo",
-          "url": "https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA"
-        }
-      ],
-      "date_added": "2026-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3uQgEbPTAe2KXBCzMvfUe6"
     },
     {
       "album": {

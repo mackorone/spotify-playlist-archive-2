@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Liana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,887 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,867 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 80 | [back then](https://open.spotify.com/track/6aVK1NArUNstG713aBQYql) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [back then](https://open.spotify.com/album/0Kd9rvhwMT6DKGeeN44jYo) | 3:53 |
 
-Snapshot ID: `AAAAAHCdje7/LT/4mn9mVAcx4cU00lcJ`
+Snapshot ID: `AAAAALDmwZvoPkE752ngpgnzaIHTsvEh`

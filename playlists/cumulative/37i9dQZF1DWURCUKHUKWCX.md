@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-361 songs - 19 hr 10 min
+364 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 | 2024-02-01 |  |
 | [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 | 2025-05-16 |  |
 | [Idea 22](https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 22](https://open.spotify.com/album/2szFL2Ml8VtzkX0fhHrfin) | 2:32 | 2025-01-20 | 2025-03-06 |
+| [If](https://open.spotify.com/track/5792Q5zjlNaQS6d9qG9J0q) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [If](https://open.spotify.com/album/5r3Eh3JqYWnSCIW21AxFm2) | 4:24 | 2026-09-11 |  |
 | [Ikoi](https://open.spotify.com/track/5LPiYEOBZTiN0oiaTyuR4m) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Awai / Ikoi](https://open.spotify.com/album/7Av6OIQIXPtfvjLLwZsRiS) | 2:43 | 2026-04-02 |  |
 | [Improvisation in E Major: Magic does Exist](https://open.spotify.com/track/7jG7M7yz1za1lVRI5oTgNw) | [James Malikey](https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw) | [Lost Within the Aether](https://open.spotify.com/album/6yJy67JiExP2UzYZVkmmhP) | 9:05 | 2026-05-29 |  |
 | [Improvisation No\. 1](https://open.spotify.com/track/7CfQ6IUB9zTIH3XduqrdMP) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Improvisation No\. 1](https://open.spotify.com/album/2hCv6EDrKkpbdoE8cgYFU4) | 2:41 | 2025-03-26 |  |
@@ -186,6 +187,7 @@
 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 | 2022-10-07 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 | 2026-06-20 |
 | [Merry](https://open.spotify.com/track/7qJs05x48Y4qDyTKULTb3s) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Merry](https://open.spotify.com/album/06zOGDonBOy9UwMMFOj7ox) | 2:49 | 2024-11-15 |  |
+| [Metamorphosis Two](https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Metamorphosis Two](https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj) | 6:56 | 2026-09-11 |  |
 | [Midnight](https://open.spotify.com/track/4XOeCy0ikuNcvKNxneetak) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:03 | 2023-09-20 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/7vZOGV8RLj3ylOmaWw5NSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight](https://open.spotify.com/album/1jKQP76G48Kjdhk2ka3jAz) | 3:03 | 2023-09-20 |  |
 | [minamo](https://open.spotify.com/track/0WXKnbsnOKzLUubz0zYcrT) | [Martin Martyn](https://open.spotify.com/artist/1dGypQSYhsXCxvdzzQ3kbv), [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [minamo](https://open.spotify.com/album/1sqSrCznw1rJf0ihSTnBEM) | 2:09 | 2026-04-02 |  |
@@ -198,6 +200,7 @@
 | [Moonlit Dreams](https://open.spotify.com/track/1XSNY0qpaKJ2ZFWi6Si7DM) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Moonlit Dreams](https://open.spotify.com/album/3pFCUpeFa9G6lu7jHT37Sc) | 2:44 | 2025-03-26 |  |
 | [Morgen](https://open.spotify.com/track/111fM0tqZiGJyt123R6WNt) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:45 | 2022-07-22 | 2024-04-19 |
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 | 2025-03-27 |
+| [Morning Static](https://open.spotify.com/track/5HLPj5YMgw1v75AEYe42kA) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Inward](https://open.spotify.com/album/03Fj6xSYUyPAlxz1xJqeLC) | 3:22 | 2026-09-11 |  |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 | 2023-01-04 |
 | [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 | 2022-07-29 |  |
 | [Murmuration](https://open.spotify.com/track/12rhKpjbc9EnL9bGQKxCBl) | [Evgeny Grinko](https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C) | [Murmuration](https://open.spotify.com/album/6h9XLJzx2ZBKu4ALIWjkfj) | 3:08 | 2024-11-26 |  |

@@ -1,13 +1,229 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: young friend",
-  "num_followers": 166237,
+  "description": "A laid-back trip in the folk scene. Cover: Angela Autumn",
+  "num_followers": 166229,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3GIcIegT8n0peVfGF2+jTuFdcA",
+  "snapshot_id": "AAAAAGaemI3W70gC9+BBiOjhmuJlHtfo",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/2IfjQuxrgdhZNdxaFFnhF2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "One of These Days",
+      "url": "https://open.spotify.com/track/3AKtREZAncNfBwZo3aIwHV"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Isabelle Fly",
+        "url": "https://open.spotify.com/album/5uE4ERkkeXvR051RYx5L22"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 209766,
+      "name": "Isabelle Fly",
+      "url": "https://open.spotify.com/track/4jrlNVzdotW3tpcaVqVnuv"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Put in the Work",
+        "url": "https://open.spotify.com/album/2Ev6roAnWF541iL8XYFfoW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Put in the Work",
+      "url": "https://open.spotify.com/track/2aynsQbRIeF2Ju0Qe747EV"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Overboda",
+        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        {
+          "name": "Sofia HK",
+          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Overboda",
+      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 233522,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Pity",
+        "url": "https://open.spotify.com/album/3FnyEAbxfBlQ0OLdsZvmRH"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 210396,
+      "name": "Pity",
+      "url": "https://open.spotify.com/track/7sZPu7p7EbPi9clMcsDZ8k"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Two Coats",
+        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 299054,
+      "name": "Two Coats",
+      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Pair of Dice",
+        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 269833,
+      "name": "Pair of Dice",
+      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Naked Souls",
+        "url": "https://open.spotify.com/album/1CCg1KpkUvnl7naOkMAydl"
+      },
+      "artists": [
+        {
+          "name": "True Quiet",
+          "url": "https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO"
+        }
+      ],
+      "duration_ms": 263641,
+      "name": "To Be Human",
+      "url": "https://open.spotify.com/track/0SxmQMVuKFpUT7p0eyqiXA"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Under Control",
+        "url": "https://open.spotify.com/album/6eXDWPydrJ1fnpaf01UW3x"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 152028,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/3eZQ4tZpWFz9fOSw80FXGg"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2Pa8F6YDKvJejClTos28hA"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/5Hvm2x5Lt0cVDlnYEiV4hs"
+    },
+    {
+      "added_at": "2026-09-11 04:03:16",
+      "album": {
+        "name": "Hanging Out In My Head",
+        "url": "https://open.spotify.com/album/08Z9eJMfUvyzNl0vTCGyaM"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        },
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hanging Out In My Head",
+      "url": "https://open.spotify.com/track/5ValF3UWlU0MasMfGFXXle"
+    },
     {
       "added_at": "2026-09-04 04:03:30",
       "album": {
@@ -2283,234 +2499,6 @@
       "duration_ms": 319010,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7sEZZ73Y1c3CSoM8benTbR"
-    },
-    {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Good Reason",
-      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
-    },
-    {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "if you wanna know",
-        "url": "https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 178095,
-      "name": "if you wanna know",
-      "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
-    },
-    {
-      "added_at": "2026-07-17 16:07:11",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/1vg83N1MSROX09ks7bp49j"
-      },
-      "artists": [
-        {
-          "name": "True Mountain Laurel",
-          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
-        }
-      ],
-      "duration_ms": 163395,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/09hAPcE9u2DfcmAbwjlyUm"
-    },
-    {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/7vF5BZUGryoLSIdQXwc7ey"
-      },
-      "artists": [
-        {
-          "name": "Ken Presse",
-          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/1qbTh2COQvvz3wzsUdb64f"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Home In Your Broken Heart",
-        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 222710,
-      "name": "Home In Your Broken Heart",
-      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
-    },
-    {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "The Apology",
-        "url": "https://open.spotify.com/album/1P5u6f1bdkU8xbM6cKtuY7"
-      },
-      "artists": [
-        {
-          "name": "Nate Daviau",
-          "url": "https://open.spotify.com/artist/01DTIYwgHCJnApYjXJUSFU"
-        }
-      ],
-      "duration_ms": 205498,
-      "name": "Indigo Pablo",
-      "url": "https://open.spotify.com/track/1kC3Fc1ZwUgUw5Fv7YcG15"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Sweet Thief",
-        "url": "https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz"
-      },
-      "artists": [
-        {
-          "name": "Luluc",
-          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
-        }
-      ],
-      "duration_ms": 230916,
-      "name": "Wanna Get Free",
-      "url": "https://open.spotify.com/track/5xOwaw30UPg9u1yJOQFujy"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "In the Hour of Chaos",
-        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Searchlight (ft. Kashus Culpepper)",
-      "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Not Me / Sick Tooth",
-        "url": "https://open.spotify.com/album/0i8DuUKaN822221vlPw3zP"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Not Me",
-      "url": "https://open.spotify.com/track/2Gw646aqq8l6SIQgIC8nPN"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "Mountain Stream",
-        "url": "https://open.spotify.com/album/1w9aXVzTGDxUmypnBcs204"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Mountain Stream",
-      "url": "https://open.spotify.com/track/2L5R8yONcCBNab4ZaKg8ks"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "Crosses",
-        "url": "https://open.spotify.com/album/3EXRrkaNEihtAT2Z1yMjEj"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 243096,
-      "name": "Crosses",
-      "url": "https://open.spotify.com/track/5aQlF6MqVnYspN8j7h9gjQ"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "whole thing",
-        "url": "https://open.spotify.com/album/0x9KWdKPTHfzF96ygr6qB5"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "whole thing",
-      "url": "https://open.spotify.com/track/6eR78hfwTyGcuoe9y8btOn"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "winner",
-        "url": "https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "winner",
-      "url": "https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "Traveling Blues",
-        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
-      },
-      "artists": [
-        {
-          "name": "Evan Roderick",
-          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Traveling Blues",
-      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
     }
   ],
   "unique_name": "Folk & Friends",

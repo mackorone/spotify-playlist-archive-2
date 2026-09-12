@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Julia Wolf
 
-1,545 songs - 3 day 15 hr 10 min
+1,546 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 | 2024-11-15 |
 | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4) | 3:14 | 2026-08-06 | 2026-08-21 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-08-16 |
+| [Bird On The Wire](https://open.spotify.com/track/48ZszrgXVC0llXhFGt5v8a) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Bird On The Wire](https://open.spotify.com/album/11OO2KVwuisZSnJ2ead4Xn) | 4:04 | 2026-09-11 |  |
 | [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 | 2025-12-05 | 2026-02-06 |
 | [Birthday Party](https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Birthday Party](https://open.spotify.com/album/7vauaZbyhkFCFizAC9LNY7) | 3:17 | 2023-09-14 | 2023-11-17 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2023-03-08 | 2023-03-09 |

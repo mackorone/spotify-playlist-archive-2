@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,515 songs - 15 day 4 hr 34 min
+6,516 songs - 15 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5758,7 +5758,7 @@
 | [Time Traveler](https://open.spotify.com/track/4jUvdO8LHaz3mqCelNuYU6) | [Dawson Graham](https://open.spotify.com/artist/1xS0PtOwMe62l7WmE6z0ia) | [Time Traveler](https://open.spotify.com/album/6wMBhmSG28kG8JNcPUuTt9) | 3:35 | 2024-03-08 | 2024-03-16 |
 | [time with u](https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [time with u](https://open.spotify.com/album/1tVh41SOFeDI2oDT0jPXBX) | 2:37 | 2024-01-05 | 2024-01-23 |
 | [Timeless](https://open.spotify.com/track/2y8V2btMTNREsBBe6Z0QJF) | [Billiam September](https://open.spotify.com/artist/362oCcJVCxAHqDZ0Gi1kqt) | [Timeless](https://open.spotify.com/album/70roXIMp1FUYNauZtZoqgG) | 3:16 | 2025-05-18 | 2025-05-30 |
-| [timeline](https://open.spotify.com/track/7gMAbfMLCtisnX9eyOhT22) | [lust garden](https://open.spotify.com/artist/2W6ixLrPuEfRk50gLukuZh) | [timeline](https://open.spotify.com/album/3COkbpA5O8lt9hfxlhJASB) | 3:39 | 2026-09-01 |  |
+| [timeline](https://open.spotify.com/track/7gMAbfMLCtisnX9eyOhT22) | [lust garden](https://open.spotify.com/artist/2W6ixLrPuEfRk50gLukuZh) | [timeline](https://open.spotify.com/album/3COkbpA5O8lt9hfxlhJASB) | 3:39 | 2026-09-01 | 2026-09-12 |
 | [Times Are Past \(Radio Edit\)](https://open.spotify.com/track/00PvNdpAdIRRbavoZ84ADz) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Times Are Past \(Radio Edit\)](https://open.spotify.com/album/5g6NLE1WHgytwzZlmBRNxT) | 3:07 | 2020-09-10 | 2020-09-24 |
 | [Times Like These](https://open.spotify.com/track/2DCdc1G6U5FjMjBidkEzKf) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Times Like These](https://open.spotify.com/album/5CPB4lLqjZExhI34qGzp1I) | 3:19 | 2022-01-04 | 2022-01-15 |
 | [Timezones \(feat\. ELLES\)](https://open.spotify.com/track/2RFsX3NwH5cEseX68hUN6P) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [ELLES](https://open.spotify.com/artist/1Sg5fMw3Vz72wcwRDTC71o) | [Timezones \(feat\. ELLES\)](https://open.spotify.com/album/3mGTtnBLnzuw966alm0thr) | 2:16 | 2025-07-07 | 2025-07-20 |
@@ -6133,6 +6133,7 @@
 | [Water](https://open.spotify.com/track/1hxrlhsmGbzeGTkT0G9HgL) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Water](https://open.spotify.com/album/58AGCzkdzo1AAuuNwFScyz) | 3:44 | 2020-08-30 | 2020-10-05 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-29 | 2024-08-13 |
 | [Water In The Sun](https://open.spotify.com/track/3FSB1YONCl9Bn0tDJ2kp0P) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx) | [Water In The Sun](https://open.spotify.com/album/2kj1qQS1LMWF8Aaa8Ffwir) | 3:59 | 2026-05-07 | 2026-06-07 |
+| [Water On My Tongue](https://open.spotify.com/track/3xeLPu03i9VceaCFxlV3o9) | [Carbon City Lights](https://open.spotify.com/artist/1RG0enTyg19JWAHGz3s48u) | [Water On My Tongue](https://open.spotify.com/album/6rleGSjdlH639rSeLrpEkf) | 3:39 | 2026-09-11 |  |
 | [watercolor sky](https://open.spotify.com/track/7u2gxJGW7w98bGAEu8xtpl) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [watercolor sky](https://open.spotify.com/album/6EtNyUmbNrQl38faOL7GSg) | 3:32 | 2024-03-02 | 2024-03-16 |
 | [Waterloo Sunset](https://open.spotify.com/track/6jTVMGAAOEqDO2eqJikgvX) | [Sputnik the Band](https://open.spotify.com/artist/3MaFGebgJgCzfmARDrImrI) | [Waterloo Sunset](https://open.spotify.com/album/77o5Z8B1sjOK0jhckJOBhG) | 3:05 | 2025-09-23 | 2025-10-06 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2020-07-12 | 2020-08-20 |

@@ -2,9 +2,9 @@
 
 ### [Country Rap](https://open.spotify.com/playlist/37i9dQZF1DWXbiccytJ5L7)
 
-> Country rap hits of today and tomorrow\. Cover: Big Mo
+> Country rap hits of today and tomorrow\. Cover: Graham Barham and Wiz Khalifa
 
-184 songs - 9 hr 39 min
+185 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 | 2023-09-22 |  |
 | [Knock 'Em Dead](https://open.spotify.com/track/2bGNFu7Hp1ZZFEaJEWy7ln) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 3:30 | 2023-03-17 | 2025-05-03 |
 | [Kuntry Till I Die](https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Kuntry Till I Die](https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02) | 4:02 | 2023-10-27 | 2024-09-21 |
+| [LEAVIN' \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0jWlbaZZaTItZFVVI1lRTT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [LEAVIN' \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/0QNGJSTLL22bYMWM9wXfSb) | 3:20 | 2026-09-11 |  |
 | [Lifeline](https://open.spotify.com/track/1y0UdMX6sLtarE8oJBGUZF) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Lifeline](https://open.spotify.com/album/7ifWIFxDEeJ72ZdhnyAXDf) | 2:56 | 2025-01-31 |  |
 | [Lifted](https://open.spotify.com/track/3CsdmO3Uh0qqlIli1wvnjM) | [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Rosap](https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c) | 4:04 | 2023-03-17 | 2025-07-12 |
 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/3i20flz8al1d9PVjw1TLV7) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 | 2023-03-17 |  |

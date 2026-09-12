@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Molly Payton
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,053 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,045 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Pain Chamber](https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Pain Chamber](https://open.spotify.com/album/7z4pkxImFKOC9cpG2nluR3) | 2:32 |
 | 100 | [Strictly Pleasure](https://open.spotify.com/track/5enlXX24BqAqgo6oz7nlVp) | [Th' Goodside](https://open.spotify.com/artist/745crg5jAnO9jtsRnQf94W) | [Strictly Pleasure](https://open.spotify.com/album/5yixEDBq2dIeCOS3EufcWd) | 3:56 |
 
-Snapshot ID: `AAAAACPPr9aq/yKni5U40X5lxZU2n72D`
+Snapshot ID: `AAAAANU222dEnBFyWAXy+YHIJyktdINq`

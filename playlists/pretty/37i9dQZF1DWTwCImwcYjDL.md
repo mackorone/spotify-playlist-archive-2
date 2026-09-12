@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,645 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,622 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 | 60 | [Not So Bad](https://open.spotify.com/track/4Fx1Ioc966N56C2y8qOb2t) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Nikko](https://open.spotify.com/artist/1A06pAoCD2vqAIuJZlhac5) | [Not So Bad](https://open.spotify.com/album/0eT9H6gg5vcaDx2YeVxitK) | 3:31 |
 
-Snapshot ID: `AAAAAP4eL0MHl/AKOHCFkxXTwO4e6OYc`
+Snapshot ID: `AAAAAEYaj0xrTn+d+qUjle4HfSyENqom`

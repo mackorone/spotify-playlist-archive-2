@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "to unge knive synger om provinsen @USSEL @MathiasRanch ",
+  "description": "unge knive @AFSKUM @EliasR\u00f8nnefeldt",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 156073,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 161195,
       "name": "Ekkoer",
       "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208837,
       "name": "Fra ingenting til noget",
       "url": "https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ"
@@ -3721,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "I'm On It",
+        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "I'm On It",
+      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
+    },
+    {
+      "album": {
         "name": "I'm Sick of Missing You",
         "url": "https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ"
       },
@@ -4564,6 +4582,28 @@
       "duration_ms": 162773,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3"
+    },
+    {
+      "album": {
+        "name": "LEGION\u00c6R",
+        "url": "https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M"
+      },
+      "artists": [
+        {
+          "name": "AFSKUM",
+          "url": "https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "LEGION\u00c6R",
+      "url": "https://open.spotify.com/track/2cvraZQylZ5xdmkZX6lniA"
     },
     {
       "album": {
@@ -7966,7 +8006,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
@@ -8305,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
+    },
+    {
+      "album": {
         "name": "when my eyes lose you, you occupy my thoughts",
         "url": "https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe"
       },
@@ -8502,6 +8560,24 @@
       "duration_ms": 162876,
       "name": "You Want The World",
       "url": "https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0"
+    },
+    {
+      "album": {
+        "name": "Your Boy Is Sick",
+        "url": "https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177404,
+      "name": "Your Boy Is Sick",
+      "url": "https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Countrybeat, Mari Fernandez
 
-423 songs - 19 hr 49 min
+424 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ilusão De Ótica \- Ao Vivo](https://open.spotify.com/track/3Bn5vG7vienkREO35aoaKK) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ilusão De Ótica \(Ao Vivo\)](https://open.spotify.com/album/0bI1I8N81JS2y2obt23JXS) | 2:59 | 2025-01-31 | 2026-02-07 |
 | [Imagina \- Ao Vivo](https://open.spotify.com/track/0BvzY9PCRufFPt51fvnhOI) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [No Pelo 360 \- Ao Vivo no 062](https://open.spotify.com/album/4kjCJEhjBMvh1p9aYOutCs) | 3:19 | 2024-10-18 | 2025-02-07 |
 | [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2021-12-31 | 2023-03-03 |
+| [Imagina Você,](https://open.spotify.com/track/47tqclPTpDulUapzDeuN3w) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Onde Tudo Começa,](https://open.spotify.com/album/19xRmHjdqso76RByiG81me) | 3:18 | 2026-09-11 |  |
 | [Insegurança / Fim de Noite \- Ao Vivo](https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us) | [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Rafael Quadros](https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b), [CDB](https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP) | [Resenha do Cabral \(Ao Vivo\)](https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL) | 3:23 | 2026-06-19 | 2026-07-22 |
 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 | 2025-03-14 | 2025-10-04 |
 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 | 2026-08-06 |  |

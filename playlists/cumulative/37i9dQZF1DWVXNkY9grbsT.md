@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-659 songs - 2 day 5 hr 52 min
+660 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Circles](https://open.spotify.com/track/5sfe15oQuTlwOR0NkLmSOp) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [Circles](https://open.spotify.com/album/5RmDGrwanJ17BWonobvZ5Q) | 3:56 | 2025-05-30 | 2026-03-10 |
 | [Clear](https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az) | 3:04 | 2023-07-21 | 2024-04-19 |
 | [Clear](https://open.spotify.com/track/65mYEI6vEjGink0prK6Len) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/1yxb5o5htty9e6gw5f07qn) | 3:04 | 2023-12-01 | 2025-06-06 |
+| [Coke 2](https://open.spotify.com/track/7lqq0nLVdT4MNFBWdNFQAF) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Coke](https://open.spotify.com/album/7jnBXRpdGBXfBefigG49sm) | 3:45 | 2026-09-11 |  |
 | [cold rainy nights.](https://open.spotify.com/track/4XxXJ6PmFJJtsNA8qlbTzf) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [cold rainy nights\. / the lullaby.](https://open.spotify.com/album/6YHm25NzdHlmGAMeKGsG5d) | 2:36 | 2026-01-09 | 2026-03-10 |
 | [COMBAT](https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 4:16 | 2025-01-14 |  |
 | [Come Find Me](https://open.spotify.com/track/1totc9pPRw6SfSgveKPFxr) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Come Find Me](https://open.spotify.com/album/1N0CjhyhSp2TAxkcqHtHnC) | 7:44 | 2025-12-05 |  |
@@ -456,7 +457,7 @@
 | [Poortgebouw](https://open.spotify.com/track/4eQGpdIfakaPCUEGXj0PfJ) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Pure Expenditure](https://open.spotify.com/album/1m5iYqiindNhlRh36AldlL) | 5:03 | 2022-11-22 | 2023-08-12 |
 | [Portico](https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Portico](https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr) | 6:42 | 2022-02-18 | 2025-01-15 |
 | [Power Down the Heart](https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Power Down the Heart](https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab) | 3:41 | 2025-05-16 | 2026-03-10 |
-| [pray for me](https://open.spotify.com/track/3axYsjraQm0zrlraccsQ1z) | [ps goner](https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp) | [there's an atm inside](https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ) | 3:17 | 2026-04-21 |  |
+| [pray for me](https://open.spotify.com/track/3axYsjraQm0zrlraccsQ1z) | [ps goner](https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp) | [there's an atm inside](https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ) | 3:17 | 2026-04-21 | 2026-09-12 |
 | [Prayer](https://open.spotify.com/track/0XK1ECogYwqBuwyw3neyqg) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 2:22 | 2023-01-16 | 2024-09-07 |
 | [PREY](https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF) | [SZARY](https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca) | [PREY](https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU) | 4:24 | 2025-08-22 | 2026-07-07 |
 | [PRIMORDIUM FINALE](https://open.spotify.com/track/1JUbpsghtrxEipWObkhQPB) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz) | [INTROSPECTIO](https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ) | 5:05 | 2022-12-30 | 2023-01-28 |

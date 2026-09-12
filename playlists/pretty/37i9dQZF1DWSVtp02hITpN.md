@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear! Cover: Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,455 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,362 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 84 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 | 85 | [haven’t found love.](https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [haven’t found love.](https://open.spotify.com/album/5adelMOkx04sITILgdP5tw) | 2:56 |
 
-Snapshot ID: `AAAAAEMEl/XpQOkYSyCFs+wY2bz9XtqQ`
+Snapshot ID: `AAAAAJpo0ZgMQvRGO91Rm1htcahhY5dF`

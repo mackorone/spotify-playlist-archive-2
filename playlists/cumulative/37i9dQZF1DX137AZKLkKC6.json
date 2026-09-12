@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 157672,
       "name": "Mi Tio",
       "url": "https://open.spotify.com/track/67mnRlBrFdFCOHZ686vTwq"
@@ -5745,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "Se Nos Murio El Amor",
+        "url": "https://open.spotify.com/album/6AZaomFFB9T8uUMBYEoTMD"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214619,
+      "name": "Se Nos Murio El Amor",
+      "url": "https://open.spotify.com/track/4LyHx80mrDxGJvdL2Hr8gl"
+    },
+    {
+      "album": {
         "name": "Se Te Nota",
         "url": "https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F"
       },
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 165559,
       "name": "Stylacho",
       "url": "https://open.spotify.com/track/5t0GQz0k1NW89N0cxFqlth"
@@ -6246,6 +6264,28 @@
       "duration_ms": 143000,
       "name": "Tequila Con Cerveza",
       "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+    },
+    {
+      "album": {
+        "name": "Tienes Que Sufrir (feat. Pipe Bueno)",
+        "url": "https://open.spotify.com/album/1DtOnx3maMzcm8CuIlczjA"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Tienes Que Sufrir (feat. Pipe Bueno)",
+      "url": "https://open.spotify.com/track/3AFO9WwzsfLZevOzTMnNXe"
     },
     {
       "album": {

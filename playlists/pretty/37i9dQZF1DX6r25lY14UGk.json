@@ -1,13 +1,85 @@
 {
   "description": "New releases for the kids. Cover: Scott & Mark Hoying",
-  "num_followers": 101824,
+  "num_followers": 101845,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGNFYaV1MzT17BH1eQWK1LOSy2sw",
+  "snapshot_id": "AAAAAL8TE8IkaSD/MlyIlxLWJd/ylr6e",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:01:19",
+      "album": {
+        "name": "Need a Friend?",
+        "url": "https://open.spotify.com/album/30aJUZfjX88GDpfFOEAMYn"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 93176,
+      "name": "Need a Friend?",
+      "url": "https://open.spotify.com/track/2mXYyvE7EP7LShr77vHkmN"
+    },
+    {
+      "added_at": "2026-09-11 04:01:19",
+      "album": {
+        "name": "Our Listening Ears",
+        "url": "https://open.spotify.com/album/1JZs9eUBTdf32b6ZxblTbA"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 132836,
+      "name": "Our Listening Ears",
+      "url": "https://open.spotify.com/track/2axQn9dDdCLtnG7XXhd49F"
+    },
+    {
+      "added_at": "2026-09-11 04:01:19",
+      "album": {
+        "name": "Space Show Song",
+        "url": "https://open.spotify.com/album/0OCq9hOsVdm4aBARoczgI1"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 59100,
+      "name": "Space Show Song",
+      "url": "https://open.spotify.com/track/4uZGx1X2Q5zvkkjbUltaZ3"
+    },
+    {
+      "added_at": "2026-09-11 04:01:19",
+      "album": {
+        "name": "The Monster At the End of This Album",
+        "url": "https://open.spotify.com/album/50YWzaOTlk8mcfhZHctzpa"
+      },
+      "artists": [
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 92866,
+      "name": "Monster at the End",
+      "url": "https://open.spotify.com/track/505FSziKLjMOsB6gI4O9O7"
+    },
     {
       "added_at": "2026-09-04 04:00:56",
       "album": {
@@ -1723,94 +1795,6 @@
       "duration_ms": 127521,
       "name": "Teddy Bear Twist - Little Ted Turbo Mix",
       "url": "https://open.spotify.com/track/7sUyKOfdXLjkJWzS5IelAY"
-    },
-    {
-      "added_at": "2026-06-26 04:01:30",
-      "album": {
-        "name": "The Smile Song (DJ Pon-3's Version)",
-        "url": "https://open.spotify.com/album/5uCLaf34OHpCgGB2YnFxS4"
-      },
-      "artists": [
-        {
-          "name": "Pinkie Pie",
-          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
-        },
-        {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
-        },
-        {
-          "name": "DJ Pon-3",
-          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
-        },
-        {
-          "name": "Mona Rue",
-          "url": "https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "The Smile Song - DJ Pon-3's Version",
-      "url": "https://open.spotify.com/track/2jGCgzzEYJYvEYyvz8loog"
-    },
-    {
-      "added_at": "2026-06-26 04:01:30",
-      "album": {
-        "name": "Mr. Golden Sun",
-        "url": "https://open.spotify.com/album/7wt6nsNHIU4T2igs3ptfan"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 142965,
-      "name": "Mr. Golden Sun",
-      "url": "https://open.spotify.com/track/4bpOGqcJ1nqwCbtVUTpKPe"
-    },
-    {
-      "added_at": "2026-06-26 04:01:30",
-      "album": {
-        "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
-        "url": "https://open.spotify.com/album/7wyB0AOEgQlDTPm2clJ44J"
-      },
-      "artists": [
-        {
-          "name": "Hot Wheels",
-          "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 116657,
-      "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
-      "url": "https://open.spotify.com/track/7fpFX4RUvBCnfjvlh8npl1"
-    },
-    {
-      "added_at": "2026-06-26 04:01:30",
-      "album": {
-        "name": "Duck, Duck, Groove: Sing Along Songs \u2013 Cuddle & Crawl Duck",
-        "url": "https://open.spotify.com/album/2KMWWSU3iKvbepFXk542jW"
-      },
-      "artists": [
-        {
-          "name": "Fisher-Price",
-          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 145034,
-      "name": "Baby Ducks Say Quack",
-      "url": "https://open.spotify.com/track/7I1ZbbyitSqYmHsnTywLiI"
     }
   ],
   "unique_name": "New Kids Music",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1M\u00fasica que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona",
+  "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
   "name": "Hecho en Cuba",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 219333,
       "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
@@ -658,6 +658,24 @@
       "duration_ms": 258298,
       "name": "Descaradita",
       "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
+    },
+    {
+      "album": {
+        "name": "DESIGUAL",
+        "url": "https://open.spotify.com/album/0MyxBD1KmBvOTTAVYVUl0Y"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219497,
+      "name": "DESIGUAL",
+      "url": "https://open.spotify.com/track/3b79ZB2qP8UqvEU9MKNKa7"
     },
     {
       "album": {

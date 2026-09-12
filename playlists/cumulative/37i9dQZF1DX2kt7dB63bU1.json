@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 207251,
       "name": "Another You",
       "url": "https://open.spotify.com/track/6wEmBI22p4jsXgGFfvbLtj"
@@ -5593,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Good Morning, Heartache",
+        "url": "https://open.spotify.com/album/5iRbJLW7p13ylH8FrduU2S"
+      },
+      "artists": [
+        {
+          "name": "Ekep Nkwelle",
+          "url": "https://open.spotify.com/artist/3IOfJF8F1pqaaoQ2yTPABN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "Good Morning, Heartache",
+      "url": "https://open.spotify.com/track/7FGmhlXBygw9co6LIISd9a"
+    },
+    {
+      "album": {
         "name": "Good Nothin",
         "url": "https://open.spotify.com/album/7zJ3HS6m1Wf8UWT74Z4JFj"
       },
@@ -6706,6 +6724,28 @@
       "duration_ms": 355223,
       "name": "I Got It Bad (And That Ain't Good) - Live",
       "url": "https://open.spotify.com/track/5MQbrriNIHtgSCfQsdJWXQ"
+    },
+    {
+      "album": {
+        "name": "I Guess That\u2019s What Love Can Do",
+        "url": "https://open.spotify.com/album/5u4hdsG3MgD11Qw4XXVlfY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "I Guess That\u2019s What Love Can Do",
+      "url": "https://open.spotify.com/track/2heRwECCxRuS7d01zhpfxO"
     },
     {
       "album": {
@@ -13310,7 +13350,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 185560,
       "name": "Reste un peu - Radio Edit",
       "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"

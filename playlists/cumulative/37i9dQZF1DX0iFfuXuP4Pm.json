@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Leanne",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Amiel Sol",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Leaves (Reimagined)",
+        "url": "https://open.spotify.com/album/3aScrLHSKGCyo8MRiyJop0"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365726,
+      "name": "Leaves (Reimagined)",
+      "url": "https://open.spotify.com/track/4WgfuNwzjQPRmvqz7GGAmf"
+    },
+    {
+      "album": {
         "name": "Libu-Libong Buwan (Uuwian)",
         "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
       },
@@ -5808,7 +5826,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 220833,
       "name": "Manatili",
       "url": "https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16"
@@ -6008,7 +6026,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 365882,
       "name": "maryclaire",
       "url": "https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB"
@@ -6274,6 +6292,24 @@
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
+    },
+    {
+      "album": {
+        "name": "Monday Afternoon",
+        "url": "https://open.spotify.com/album/6q3fsRJeID2rKGgHRF8Uh3"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269571,
+      "name": "Monday Afternoon",
+      "url": "https://open.spotify.com/track/3CTcje8vXcClKwy7xVOZwu"
     },
     {
       "album": {
@@ -11017,6 +11053,36 @@
     },
     {
       "album": {
+        "name": "TMA",
+        "url": "https://open.spotify.com/album/2ej8VukKGOr9GAYmcFTtlM"
+      },
+      "artists": [
+        {
+          "name": "groundZERO Records",
+          "url": "https://open.spotify.com/artist/4LsXG0tI52IkUbQmWJwRc1"
+        },
+        {
+          "name": "Tyler",
+          "url": "https://open.spotify.com/artist/37sFfU15cboEujZY15L1SF"
+        },
+        {
+          "name": "Primera",
+          "url": "https://open.spotify.com/artist/2R33KWsIDR49UwHcxuROyv"
+        },
+        {
+          "name": "ODP",
+          "url": "https://open.spotify.com/artist/2pCzdBodmkDTTZZHtfFLTQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198622,
+      "name": "TMA",
+      "url": "https://open.spotify.com/track/71b7gpfBHekpvpZMSxqMTT"
+    },
+    {
+      "album": {
         "name": "Totoong tayo",
         "url": "https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR"
       },
@@ -11644,7 +11710,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 186577,
       "name": "What if I miss you for the rest of my life?",
       "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"

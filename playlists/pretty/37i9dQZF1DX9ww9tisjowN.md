@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Hoshimachi Suisei
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,461 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,743 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/track/6rmpvLs8EEOIA7A2MTT2o3) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [さたぱんP](https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl) | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/album/1yFgFwfDnxQB9iVJt9ql4R) | 3:17 |
 | 75 | [未完成婚姻論](https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [MERAKI](https://open.spotify.com/album/02jYu8ctxk4EYep1LQheiW) | 3:08 |
 
-Snapshot ID: `AAAAAP8mdFOyOmVTpmPmIut+cOnlKadb`
+Snapshot ID: `AAAAAGzYInEKQHmSe3t0NFM+0gxT5Ugu`

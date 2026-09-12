@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Max Dean, Luke Dean, Nafe Smallz
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,725 likes - 129 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,749 likes - 129 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 128 | [Bubbling](https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [Bubbling](https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz) | 3:29 |
 | 129 | [Choose or Lose](https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Choose or Lose](https://open.spotify.com/album/0hmDWOMPU5YSDLa0IpzUs2) | 2:57 |
 
-Snapshot ID: `AAAAAJwCLvom+dAccEIRWh0j1VeVIi6a`
+Snapshot ID: `AAAAAHFdzzrU9JiLx74H0uhLmaHo0zRO`

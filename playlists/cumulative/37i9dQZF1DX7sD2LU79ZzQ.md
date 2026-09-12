@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: raissa anggiani, Yung Caters
 
-1,775 songs - 4 day 16 hr 23 min
+1,777 songs - 4 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 | 2026-03-05 | 2026-04-17 |
 | [Nanti Datang Lagi](https://open.spotify.com/track/3fCRF1xut8640nAE8EK2jg) | [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [Nanti Datang Lagi](https://open.spotify.com/album/5QBkDcHlv8SkzNVBZGuRQN) | 4:03 | 2025-05-22 | 2025-06-27 |
 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 | 2025-06-26 | 2025-08-01 |
+| [Nanti, Bersabarlah](https://open.spotify.com/track/5meAhzjLRL7JG1jCYlyhQl) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Nanti, Bersabarlah](https://open.spotify.com/album/4rGjHQEXk46e1gkhAj6I2p) | 3:44 | 2026-09-11 |  |
 | [Negeri di Awan \- Kinarya HIVI!](https://open.spotify.com/track/6pVcb4nbtETS6MXv2GYu0L) | [Katon Bagaskara](https://open.spotify.com/artist/4RSTuj15Y2BjrXR5fTDh2m), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Negeri di Awan \(Kinarya HIVI!\)](https://open.spotify.com/album/6cGX5DXDl3BQnYCV5t4GIM) | 4:38 | 2024-01-18 | 2024-02-02 |
 | [Nervous](https://open.spotify.com/track/0k29oJUdY8BEtmeeL0snns) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Nervous](https://open.spotify.com/album/3Ss8coQzcVWmYw6Ktt2ESn) | 3:55 | 2026-05-21 | 2026-06-19 |
 | [Never True](https://open.spotify.com/track/6Z0UxAt1z5IzSrlb5wd26J) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Never True](https://open.spotify.com/album/7hmq0Xvo1adsy8Sv8PHoXt) | 2:57 | 2025-10-30 | 2026-02-06 |
@@ -1783,5 +1784,6 @@
 | [You](https://open.spotify.com/track/4T0i2FyNJc8f7QMYQRRJB1) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [You](https://open.spotify.com/album/5cRvVGFlXb8FUCg8SpvlVW) | 3:18 | 2024-06-13 | 2024-06-28 |
 | [You'll Find Lovers Like You and Me](https://open.spotify.com/track/6BQiGGlPp294KMLYQMmS0C) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [You'll Find Lovers Like You and Me](https://open.spotify.com/album/7Fqm1j72ZIaBOazURTNRAj) | 3:29 | 2025-06-26 | 2025-07-18 |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-02-29 | 2024-05-03 |
+| [Yowes](https://open.spotify.com/track/6bPDwIFXEPVtDSHnXrx8W1) | [ERN](https://open.spotify.com/artist/55ReTHE3UQOwlEuqz1bX0S) | [Yowes](https://open.spotify.com/album/6exTZCuccWl6EWhXTBEbRn) | 3:02 | 2026-09-11 |  |
 
 \*This playlist was first scraped on 2024-01-20. Prior content cannot be recovered.

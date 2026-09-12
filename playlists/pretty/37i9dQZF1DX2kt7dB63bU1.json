@@ -1,13 +1,49 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 173776,
+  "num_followers": 173804,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKm9xQ55lBFib1Whd6p0I50pmp74",
+  "snapshot_id": "AAAAAMOw7xPwBaf5yWyY+iHLFx/Il04a",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:00:21",
+      "album": {
+        "name": "Good Morning, Heartache",
+        "url": "https://open.spotify.com/album/5iRbJLW7p13ylH8FrduU2S"
+      },
+      "artists": [
+        {
+          "name": "Ekep Nkwelle",
+          "url": "https://open.spotify.com/artist/3IOfJF8F1pqaaoQ2yTPABN"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "Good Morning, Heartache",
+      "url": "https://open.spotify.com/track/7FGmhlXBygw9co6LIISd9a"
+    },
+    {
+      "added_at": "2026-09-11 04:00:21",
+      "album": {
+        "name": "I Guess That\u2019s What Love Can Do",
+        "url": "https://open.spotify.com/album/5u4hdsG3MgD11Qw4XXVlfY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "I Guess That\u2019s What Love Can Do",
+      "url": "https://open.spotify.com/track/2heRwECCxRuS7d01zhpfxO"
+    },
     {
       "added_at": "2026-09-04 04:00:26",
       "album": {
@@ -1765,26 +1801,6 @@
       "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Another You",
-        "url": "https://open.spotify.com/album/7pO73AlT4Yqhs8oeQgBka6"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        },
-        {
-          "name": "Matthew Ifield",
-          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
-        }
-      ],
-      "duration_ms": 207251,
-      "name": "Another You",
-      "url": "https://open.spotify.com/track/6wEmBI22p4jsXgGFfvbLtj"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Beyond the Sea",
@@ -1799,22 +1815,6 @@
       "duration_ms": 175865,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Reste un peu (Radio Edit)",
-        "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
-      },
-      "artists": [
-        {
-          "name": "Calo\u00e9",
-          "url": "https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Reste un peu - Radio Edit",
-      "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
     },
     {
       "added_at": "2024-08-23 04:00:00",

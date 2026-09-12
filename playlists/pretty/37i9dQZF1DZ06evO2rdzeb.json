@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 20298,
+  "num_followers": 20304,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqChgAAAAABFIQzBE7Ve7TSIrtJpQWik",
+  "snapshot_id": "aqHzAAAAAAChKwjN9g/ly0oV3xkmMOF6",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "blue and red horses",
-      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a-sides and besides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 206146,
       "name": "I Still Hear You",
       "url": "https://open.spotify.com/track/0a0ceAVCC5bxDbmncbvQDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "blue and red horses",
+      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "cradle",
-      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Revolution Hall",
         "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 172401,
       "name": "fangs",
       "url": "https://open.spotify.com/track/236hmBETjcUngcQU2KWWjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "cradle",
+      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Revolution Hall",
         "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 92827,
       "name": "indiana & sneezing",
       "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
     },
     {
       "added_at": null,

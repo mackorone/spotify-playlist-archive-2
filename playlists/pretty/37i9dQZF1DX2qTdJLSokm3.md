@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qTdJLSokm3.md) - [plain]
 
 > <a href="https://webtoon.onelink.me/u70y/Spotify1">화산귀환</a>의 공식 플레이리스트입니다\. 나와 음악 취향이 닮은 캐릭터 커버를 만나보세요\. 당신의 캐릭터는 어떤 캐릭터인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,185 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,183 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qTdJLSokm3.md) - [plain]
 | 49 | [Turn The Lights Off](https://open.spotify.com/track/6ouaFbSkK136LinzuwUxT0) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Turn The Lights Off](https://open.spotify.com/album/28BPIqT3AAN3qLq7MY6ryF) | 2:24 |
 | 50 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 |
 
-Snapshot ID: `AAAAAHBBEz4w/xaEixsbsJeKblNKcVws`
+Snapshot ID: `AAAAAIsDKIgkAVkDurpVG1w1URrhNaJl`

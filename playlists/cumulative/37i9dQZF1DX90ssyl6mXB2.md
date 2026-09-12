@@ -2,15 +2,16 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Jaymin
+> late night vibes – notifications off\. cover: Karri
 
-356 songs - 16 hr 21 min
+361 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1:11](https://open.spotify.com/track/5WvqtTv4HfxL5nQSRNCYu1) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [1:11](https://open.spotify.com/album/6ahQcLyQVBECP9fdBlMjS1) | 2:21 | 2026-05-08 |  |
 | [21](https://open.spotify.com/track/40dowkPicYLsLrVJgce4bj) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 1:59 | 2025-06-13 | 2026-04-18 |
 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 | 2024-02-02 | 2025-10-18 |
+| [2REAL](https://open.spotify.com/track/7uXJQVFx11unM1udUOkjoI) | [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [2REAL](https://open.spotify.com/album/2B6MTDPqZLWQN4FcPv6azt) | 1:53 | 2026-09-11 |  |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-01-24 |  |
 | [4 This Moment](https://open.spotify.com/track/1MWJbn3Yv8R1q5DaYOOzum) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:07 | 2024-02-02 | 2025-07-26 |
 | [40 Days n 40 Nights \(feat\. Vory\)](https://open.spotify.com/track/3XYpgHhQs7Q3LsY3ALzWHr) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:16 | 2024-02-02 | 2025-09-20 |
@@ -73,6 +74,7 @@
 | [CONTAGIOUS](https://open.spotify.com/track/4L2Vv8QvsO4jfMPG3luF3z) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [CONTAGIOUS](https://open.spotify.com/album/5Pw0A6OC6N4sHCBimyfWgm) | 3:06 | 2025-10-10 |  |
 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-03-21 |  |
 | [Control](https://open.spotify.com/track/71ZjnF821UfnKTBZIMdZoE) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/2CtkXsu8Z9YsyPYTaNc1xU) | 2:27 | 2025-03-21 | 2026-06-04 |
+| [Crash](https://open.spotify.com/track/0SqZYUwMBFQYTrfHPMER6J) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Crash](https://open.spotify.com/album/2xbCoJzjH4gkrxxdpEkHeB) | 2:32 | 2026-09-11 |  |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
 | [curse](https://open.spotify.com/track/5kcDKvz8ETrm8MxJy4H8nL) | [AMIRKUJO](https://open.spotify.com/artist/7nvXDn6ZoiujFBXswzAk5l) | [curse](https://open.spotify.com/album/2sXTtUVrTJD2W4vKeL8XLe) | 2:19 | 2025-12-05 |  |
 | [Customs](https://open.spotify.com/track/2MSdQcpUSU0opn77NBfk7e) | [Suubi](https://open.spotify.com/artist/7ts7O6y7ymwcgCrYbha3Si) | [Casa's Journal](https://open.spotify.com/album/1GCH6CJ00ZBX5C7NCySAyB) | 3:42 | 2025-10-17 |  |
@@ -153,7 +155,7 @@
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 | 2025-11-08 |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 | 2025-11-08 |
 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 |  |
-| [high horse](https://open.spotify.com/track/25Fgryvfcz82BzMZrviqbU) | [Dame Atlas](https://open.spotify.com/artist/6KzA7YJ7DBDzaQMT9eq0xR) | [if i'm being honest](https://open.spotify.com/album/5n84sWXzuClhbDcJzydleo) | 2:36 | 2026-07-17 |  |
+| [high horse](https://open.spotify.com/track/25Fgryvfcz82BzMZrviqbU) | [Dame Atlas](https://open.spotify.com/artist/6KzA7YJ7DBDzaQMT9eq0xR) | [if i'm being honest](https://open.spotify.com/album/5n84sWXzuClhbDcJzydleo) | 2:36 | 2026-07-17 | 2026-09-12 |
 | [HIT MY PHONE](https://open.spotify.com/track/5WXbDxcW6ob9XLckvdvG74) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [HIT MY PHONE](https://open.spotify.com/album/1iAsBAduNSRfvvlZ91k80d) | 3:09 | 2025-08-15 |  |
 | [HOLD ON](https://open.spotify.com/track/73TZJtqmOIPCKQbZv9WP71) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HOLD ON](https://open.spotify.com/album/2wNFgVPKrqk2FEMnAayqyA) | 2:54 | 2025-09-05 |  |
 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 | 2024-10-25 | 2025-11-08 |
@@ -183,6 +185,7 @@
 | [lame](https://open.spotify.com/track/34wbAs21eGvtDENb3h0QEn) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [lame](https://open.spotify.com/album/3uUsEtTwHfAud7DVXuNjIF) | 2:22 | 2025-10-10 | 2025-11-08 |
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 | 2025-09-20 |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 | 2025-09-20 |
+| [LAW](https://open.spotify.com/track/2psLN96KsgvWvLE2SZfprL) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [LAW](https://open.spotify.com/album/3DYS73pLqqAk05mYrXrvDs) | 2:24 | 2026-09-11 |  |
 | [lead me on](https://open.spotify.com/track/0JxPtwbOOU2SQNjQZU3zAW) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [ROME](https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q) | [lead me on](https://open.spotify.com/album/0su818CRHaJGnAdmfFb7k0) | 3:39 | 2026-05-01 |  |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 | 2026-06-20 |
 | [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 | 2025-06-27 |  |
@@ -193,6 +196,7 @@
 | [LIMERENCE](https://open.spotify.com/track/02skFFJWMFRVlv1ddhENZz) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 2:27 | 2025-02-07 | 2025-09-20 |
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2024-02-02 | 2025-11-08 |
 | [Loud Silence](https://open.spotify.com/track/7oy8nSUaWx7hMBl2xSDAc9) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:49 | 2026-04-17 |  |
+| [Love Bomb \(w/ Ab\-Soul\)](https://open.spotify.com/track/5sJtelWLygYJnHKsBSvyWx) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 2:31 | 2026-09-11 |  |
 | [LOVE GALORE \- Sped Up](https://open.spotify.com/track/0u7DcI0svFnxqcZqaSAHZ6) | [5an](https://open.spotify.com/artist/3Tbr5rH41ZuPmeHf1GFN17) | [LOVE.GALORE \(Sped Up\)](https://open.spotify.com/album/0S9g6Gno5AaWn3IELArcIq) | 1:57 | 2025-08-01 | 2026-06-04 |
 | [LOVE GALORE \- Sped Up](https://open.spotify.com/track/555FOBQifW5DVT0WIL51IH) | [5an](https://open.spotify.com/artist/3Tbr5rH41ZuPmeHf1GFN17) | [LOVE.GALORE \(Sped Up\)](https://open.spotify.com/album/4Vm3CB68CE5bcDrWuVjEeW) | 1:57 | 2025-08-01 |  |
 | [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 | 2024-10-19 |
@@ -255,6 +259,7 @@
 | [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 | 2024-11-23 |
 | [Proud](https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Proud](https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6) | 2:10 | 2026-07-17 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 | 2026-03-14 |
+| [RAIN](https://open.spotify.com/track/3Hmf6mXacl4M8Z939wMH9Y) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [RAIN](https://open.spotify.com/album/1XgYT2GT7VDQIIbyevEJ4T) | 2:46 | 2026-09-11 |  |
 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 | 2025-02-14 | 2025-03-29 |
 | [Receipts](https://open.spotify.com/track/1Lw4Q4fdDkm9teelfS3fx9) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 3:24 | 2025-03-07 |  |
 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 | 2024-07-05 | 2025-03-08 |

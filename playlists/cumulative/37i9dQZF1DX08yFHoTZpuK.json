@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 243626,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
@@ -774,6 +774,24 @@
       "duration_ms": 194452,
       "name": "IN THE RAIN x XDM",
       "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9"
+      },
+      "artists": [
+        {
+          "name": "Triangle",
+          "url": "https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0"
     },
     {
       "album": {

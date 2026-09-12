@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Donkey Kid
 
-3,330 songs - 7 day 23 hr 39 min
+3,331 songs - 7 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 | 2025-10-23 | 2025-11-21 |
 | [Another Life](https://open.spotify.com/track/1dOJdvvut50bC7Dq4UWjc6) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Another Life](https://open.spotify.com/album/6TP4bB1qbMEs2fu0lf2tJg) | 3:43 | 2025-04-03 | 2025-05-02 |
 | [another one down](https://open.spotify.com/track/69AwLzM2tkoLNueuA04a68) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [another one down](https://open.spotify.com/album/6rloTVQyGaMT6pqiPmFpQ3) | 2:44 | 2026-07-30 | 2026-08-28 |
+| [Another thing that I'm supposed to do \(and I don't want to\)](https://open.spotify.com/track/2wZdXJPisaJpclbl9jQLMJ) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish \(Deluxe\)](https://open.spotify.com/album/0C16P5sqMD0Mtr8LyzKtiS) | 3:21 | 2026-09-10 |  |
 | [Another Woman](https://open.spotify.com/track/6t8Ut4zs1TEeSO9I746fiJ) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Another Woman](https://open.spotify.com/album/18wep4YHWC50cGFSz8oLC0) | 4:24 | 2025-05-01 | 2025-05-16 |
 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-30 | 2025-11-14 |
 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 | 2025-10-09 | 2025-10-17 |
@@ -481,6 +482,7 @@
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2025-04-25 |
 | [Carousel](https://open.spotify.com/track/1idx8nJ9zOYESkIDfNY8PP) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Carousel](https://open.spotify.com/album/27SQ1lQQbBcj8laS9fCiDf) | 3:52 | 2025-08-21 | 2025-08-29 |
 | [Carousel](https://open.spotify.com/track/3VxX3Hk2X7XKqau1Xigd2C) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI) | [Carousel](https://open.spotify.com/album/7wDGaXkvzDyvoiD3cIB1Yz) | 2:35 | 2026-03-26 | 2026-04-17 |
+| [Carried Away](https://open.spotify.com/track/19lqaiN82kquWMFKoN9a2Y) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Carried Away](https://open.spotify.com/album/4XAILUw9uSKXewYYv6DTMS) | 3:07 | 2026-09-11 |  |
 | [Carried Away](https://open.spotify.com/track/5VISRLzdh7T1wxskhKFln5) | [Jacob Fortyhands](https://open.spotify.com/artist/6UAcUT7AhBCpVz72sPQIOx) | [Carried Away](https://open.spotify.com/album/61iCvCFjhFWmCwpcxfqIYu) | 3:46 | 2025-08-14 | 2025-09-06 |
 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 | 2025-06-06 |
 | [Carried Away](https://open.spotify.com/track/4en3GI5BIzpgOknQJObXts) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Carried Away](https://open.spotify.com/album/0uxI6DkvMHMmShdGRU6wK4) | 3:30 | 2025-07-24 | 2025-08-22 |
@@ -1063,7 +1065,7 @@
 | [Get Back Into Myself](https://open.spotify.com/track/6hkv8uTu4KXuS8DWtHlYjG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Start To End / Get Back Into Myself](https://open.spotify.com/album/2hy9EN9Lqp4ZVcQ0Gttcaa) | 3:33 | 2026-06-11 | 2026-07-10 |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 | 2026-04-10 |
 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 | 2025-05-08 | 2025-05-23 |
-| [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 | 2026-09-10 |  |
+| [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out Of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 | 2026-09-10 |  |
 | [Get Your Love](https://open.spotify.com/track/67nx7FmQlxtLVuLv5U2hax) | [LIAS](https://open.spotify.com/artist/4f9EkDM6aMxoZMPK5nEOiD) | [Funeral of a Choir Boy](https://open.spotify.com/album/6BLfi4S9XTE0f9qFY4s3ax) | 3:21 | 2024-10-17 | 2024-11-15 |
 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-06 | 2025-04-04 |
 | [Getting Older](https://open.spotify.com/track/06nn3AJ4ZcmJIPccRtxlY8) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Getting Older](https://open.spotify.com/album/3PsXjGHUTazLOuLikoasRf) | 3:06 | 2024-12-05 | 2025-01-17 |
@@ -2818,7 +2820,7 @@
 | [The Call](https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [The Call](https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC) | 4:13 | 2026-04-16 | 2026-05-01 |
 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 | 2025-10-09 | 2025-11-07 |
 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 | 2025-05-01 | 2025-05-16 |
-| [The Cherry Farm](https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Cherry Farm](https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq) | 2:58 | 2026-08-27 |  |
+| [The Cherry Farm](https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Cherry Farm](https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq) | 2:58 | 2026-08-27 | 2026-09-12 |
 | [The Closest We'll Get](https://open.spotify.com/track/02r8AjfVEkKG8wGRwkLumR) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/2DTTLwc7lSkN1tx9JocORp) | 3:56 | 2025-08-21 | 2025-08-29 |
 | [The Clouds Today](https://open.spotify.com/track/4rKZQ98kVrTNEXm7o8f2x2) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [The Clouds Today](https://open.spotify.com/album/6aDHPoVGVtIiOQDxtllZk4) | 2:44 | 2025-08-21 | 2025-09-19 |
 | [The Conversation](https://open.spotify.com/track/2kXmQu1KTDJROyLirXepXW) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [The Conversation](https://open.spotify.com/album/6gp2zBAa1Pay8974lE2ihZ) | 2:46 | 2026-07-09 | 2026-08-07 |
@@ -3010,7 +3012,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 13](https://open.spotify.com/track/2wZdXJPisaJpclbl9jQLMJ) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish \(Deluxe\)](https://open.spotify.com/album/0C16P5sqMD0Mtr8LyzKtiS) | 0:00 | 2026-09-10 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

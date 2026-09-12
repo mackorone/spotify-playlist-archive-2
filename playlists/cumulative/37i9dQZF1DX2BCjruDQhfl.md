@@ -4,7 +4,7 @@
 
 > It's giving Delany..
 
-430 songs - 19 hr 55 min
+431 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Single In De Club](https://open.spotify.com/track/5045jDDUndh7937KS177Ir) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Single In De Club](https://open.spotify.com/album/4WC3sXK9AKEQ6HlMfoZJGC) | 2:34 | 2025-10-28 | 2026-01-30 |
 | [Slow Motion](https://open.spotify.com/track/5UILqQc7NV8jmSLR20gSZ6) | [Unruly Onez](https://open.spotify.com/artist/080oaZdDCbwNULaxn1oD1x) | [Legacy](https://open.spotify.com/album/1UkzD6ydoJnYtx6CESe2Cx) | 2:32 | 2026-07-07 | 2026-09-03 |
 | [So Amazing](https://open.spotify.com/track/2K4g1jqXcHov6GBfSaBd25) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [So Amazing](https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt) | 2:28 | 2026-07-02 |  |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-10 |  |
 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-07-17 | 2025-09-19 |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 | 2025-12-19 |
 | [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 | 2026-01-22 | 2026-02-13 |

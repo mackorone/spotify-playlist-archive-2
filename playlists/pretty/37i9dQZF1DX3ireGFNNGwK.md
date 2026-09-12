@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR?si=e2FUz5BnTgq8O3GDh6zbxA">Hybrid Minds</a>' favorite tracks\. Updated regularly\. Curated by Hybrid Minds\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,381 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,387 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 | 26 | [With You](https://open.spotify.com/track/0c7YR1XbbWcIUznxLsIov5) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [With You](https://open.spotify.com/album/1Ao7qSKiQUgTSemvoVOoY7) | 3:35 |
 | 27 | [What I Want](https://open.spotify.com/track/4BWm9gWCP3ZUBWTgLN0FcS) | [Artino](https://open.spotify.com/artist/6W0lKsGxmXkou02Srd3eC9) | [What I Want](https://open.spotify.com/album/4RZswkxA8P4oGOtCYaO2Od) | 3:44 |
 | 28 | [Sinner](https://open.spotify.com/track/2R6zg6SWygSvY4wzv8BXId) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO), [ANNI](https://open.spotify.com/artist/2DMjf1zRMCb3iRLmUUvO9c) | [Sinner](https://open.spotify.com/album/29iFzm6WsM60s7k5MAtHQB) | 2:31 |
-| 29 | [Balance](https://open.spotify.com/track/3yww2B1N7sKBo2ED9ucJ7u) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Balance](https://open.spotify.com/album/5T7H2KzGqnumUVwiQyUC58) | 3:13 |
+| 29 | [Balance](https://open.spotify.com/track/3yww2B1N7sKBo2ED9ucJ7u) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [North De Fay](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Balance](https://open.spotify.com/album/5T7H2KzGqnumUVwiQyUC58) | 3:13 |
 | 30 | [Too Shy](https://open.spotify.com/track/0rA0pNjUoFrnVfrRdl6eQN) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Too Shy](https://open.spotify.com/album/1DnTFNdYDFboAGqs9T9BEs) | 3:26 |
 | 31 | [POV](https://open.spotify.com/track/5Uj2k2TrnpsLVX73s8Cqs4) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:13 |
 | 32 | [City Life](https://open.spotify.com/track/5P3iLj8zU1e7ddu8w1fQfb) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Now More Than Ever](https://open.spotify.com/album/0KW8gEZy2gpCQCWP5TMnGv) | 4:31 |

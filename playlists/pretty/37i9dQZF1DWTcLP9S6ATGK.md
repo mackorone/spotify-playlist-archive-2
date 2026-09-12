@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Tsaqib
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,480 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,503 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 98 | [Kau Yang Utama](https://open.spotify.com/track/4po5wsoAaapTMy5IZ8JUq0) | [Syahrini](https://open.spotify.com/artist/1m4Yv3TVgz8GZG7OAMK7mA) | [Kau Yang Utama](https://open.spotify.com/album/41QHvtrcfthS2dDXN2Y9XQ) | 4:16 |
 | 99 | [Pelindungmu \- Ayah, Aku Mau Cerita Original Soundtrack](https://open.spotify.com/track/5KzSxY3ZSFtC6C0rVIs6jq) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Pelindungmu \(Ayah, Aku Mau Cerita Original Soundtrack\)](https://open.spotify.com/album/49pRoCB07gZ1NxuiCM9p3q) | 4:47 |
 
-Snapshot ID: `AAAAACffaLaGUEU/1RzhOgnN+qeucw9s`
+Snapshot ID: `AAAAAO9kscf9T9B38kr2kl+vsCayrjQj`

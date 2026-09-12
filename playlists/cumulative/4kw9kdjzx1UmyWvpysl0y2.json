@@ -5189,6 +5189,28 @@
     },
     {
       "album": {
+        "name": "Cry Myself To Sleep",
+        "url": "https://open.spotify.com/album/4LZcpO73HsxrlgsgV1d9vW"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Cry Myself To Sleep",
+      "url": "https://open.spotify.com/track/5r8tPHvnNHWbOruuOsWE4b"
+    },
+    {
+      "album": {
         "name": "Crystal Cave",
         "url": "https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T"
       },

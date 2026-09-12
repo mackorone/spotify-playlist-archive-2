@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Zolita on the cover
+> sweet\. sharp\. unbothered \- Wafia on the cover
 
-1,139 songs - 2 day 4 hr 44 min
+1,141 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bad Habits](https://open.spotify.com/track/2Zxa8dBD8TDAAwuwPJZz6o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Bad Habits](https://open.spotify.com/album/2ljBsmYzspzbHDojqm5CDP) | 3:32 | 2024-07-26 | 2025-01-25 |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-05-06 |
 | [BAD IDEA](https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [BAD IDEA](https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH) | 3:04 | 2026-01-23 | 2026-05-16 |
-| [Bad Ones](https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Bad Ones](https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng) | 2:45 | 2026-07-17 |  |
+| [Bad Ones](https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Bad Ones](https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng) | 2:45 | 2026-07-17 | 2026-09-12 |
 | [bad tattoo](https://open.spotify.com/track/7iUhMgffcOTVXrpBKP0wxm) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bad tattoo](https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR) | 2:40 | 2023-12-08 | 2024-01-13 |
 | [Bad Thing](https://open.spotify.com/track/6UTi9PS0CiMUs5DUfYl3W4) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Bad Thing](https://open.spotify.com/album/3mswhSkFywLzh7g33pG7O3) | 2:43 | 2023-02-10 | 2023-05-20 |
 | [BADDER](https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [BADDER](https://open.spotify.com/album/0Zb78r3znw6BMy7IP7fYVk) | 3:14 | 2023-03-24 | 2023-08-19 |
@@ -296,7 +296,7 @@
 | [drunk enough](https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [drunk enough](https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW) | 3:24 | 2026-08-07 |  |
 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 | 2026-08-28 |
 | [dumb dumb dumb](https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [still not ur girlfriend](https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT) | 2:32 | 2025-05-09 | 2025-07-12 |
-| [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 | 2026-04-17 |  |
+| [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 | 2026-04-17 | 2026-09-12 |
 | [Dunes](https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz) | [Nomé Naku](https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI) | [Naku](https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS) | 3:56 | 2025-01-10 | 2025-05-03 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
 | [Dynasty](https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Dynasty](https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX) | 2:24 | 2024-08-02 | 2024-09-07 |
@@ -375,6 +375,7 @@
 | [Get Off My](https://open.spotify.com/track/6YmV89ReuPTBeHGelmTbca) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Get Off My](https://open.spotify.com/album/2tsnxK9zuDDuch7E9pSnkj) | 3:04 | 2022-09-30 | 2023-02-18 |
 | [Ghost You](https://open.spotify.com/track/7pDhnvTXaAdsvpytclWlZh) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Ghost You](https://open.spotify.com/album/0OUBOSEeADHrbzedRIaWCC) | 3:09 | 2022-09-16 | 2022-11-19 |
 | [GIBBERISH](https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [GIBBERISH](https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK) | 2:15 | 2024-04-26 | 2024-06-29 |
+| [GIRL IS A GUN](https://open.spotify.com/track/6WyV54hJy2cDTG0TUYzKcL) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GIRL IS A GUN](https://open.spotify.com/album/7DccwurSFYdhiTIJQZgDDT) | 2:54 | 2026-09-11 |  |
 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 | 2022-12-09 | 2023-08-26 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2022-11-19 |
 | [Girls Are So Lucky](https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Girls Are So Lucky](https://open.spotify.com/album/0vrId1FtS9yQlcwxCLpw1b) | 2:15 | 2026-04-17 | 2026-07-18 |
@@ -564,6 +565,7 @@
 | [KILLSWITCH](https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [KILLSWITCH](https://open.spotify.com/album/2UXXrsBmLTvy63ZD9o6YuX) | 2:18 | 2026-04-17 |  |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 | 2024-05-03 |
+| [kingpin](https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [kingpin](https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb) | 2:38 | 2026-09-11 |  |
 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 | 2025-10-24 | 2026-04-04 |
 | [Kiss And Tell](https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Kiss And Tell](https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT) | 2:32 | 2022-02-11 | 2022-03-30 |
 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 | 2024-09-13 | 2024-11-16 |

@@ -4,7 +4,7 @@
 
 > Rock with a drop\. Cover: HVDES \\m/
 
-560 songs - 1 day 7 hr 30 min
+561 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Go On Then, Love](https://open.spotify.com/track/0Ux2vG5O8Odi5WCiPARWw8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Go On Then, Love](https://open.spotify.com/album/5DiOrO5QGCl84W2WpCjOzs) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Go on Then, Love](https://open.spotify.com/track/4QlkNEiOQGYcc9t2q2EgEE) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:21 | 2022-06-24 | 2022-08-03 |
 | [Go on Then, Love](https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:21 | 2022-06-24 | 2024-04-19 |
-| [Going Down](https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Going Down](https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb) | 2:58 | 2024-08-19 |  |
+| [Going Down](https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Going Down](https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb) | 2:58 | 2024-08-19 | 2026-09-12 |
 | [Going Under](https://open.spotify.com/track/5tSYDNfmWr4dt5JGUYrgTk) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [DATAMOSH](https://open.spotify.com/album/3i7N4NfErE9SpQH55pTgj7) | 3:13 | 2025-04-04 | 2025-10-11 |
 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 | 2021-12-10 |  |
 | [Good F\*\*King Music \- kodeblooded Remix](https://open.spotify.com/track/1oJrNYuq7pYjnC9qbDQtJI) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg), [kodeblooded](https://open.spotify.com/artist/6P2MbhQjyhRUsFvjl4CdTr) | [Blue Monday EP](https://open.spotify.com/album/0XNkfKZiAubsgOagft4JkC) | 2:24 | 2025-01-17 |  |
@@ -483,6 +483,7 @@
 | [Taking Over \(feat\. Sam Nelson\)](https://open.spotify.com/track/7gcYawraNqOWLGclp34H4G) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Friends: The Album](https://open.spotify.com/album/2tyOHEHmXj2RoMjiRxNNbu) | 3:01 | 2021-12-10 | 2022-06-25 |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2021-12-10 | 2023-12-14 |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/6JZe3sy9UXaYVysRTHss6l) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/2bJnYJCrS8T5TimCq7gXcP) | 2:23 | 2024-01-26 | 2024-02-24 |
+| [THE AGITATOR](https://open.spotify.com/track/4jA4C5rdRwYYsZbfqsiswk) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [THE AGITATOR](https://open.spotify.com/album/10PqV1ciuTmqMfs0hsSh5E) | 3:13 | 2026-09-11 |  |
 | [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 | 2024-06-28 | 2026-08-29 |
 | [The Bottom \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [The Bottom \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6ahBlUlwjPVKgUYqiirD3E) | 3:18 | 2021-12-10 | 2022-06-19 |
 | [The Change \(feat\. DMA'S\)](https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Change \(feat\. DMA'S\)](https://open.spotify.com/album/0I27sjTMzV3PQT1XNuwDxO) | 4:37 | 2021-12-10 | 2022-07-29 |

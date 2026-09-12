@@ -1791,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "Hall of Mirrors",
+        "url": "https://open.spotify.com/album/3brNHZ4szlQLQW2v2PF4HL"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Mishka Rushdie Momen",
+          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Pi\u00e8ces de clavecin, Livre IV Ordre 25: V. Les ombres errantes",
+      "url": "https://open.spotify.com/track/5m1QVDrXOH3mfM2SrvHBFE"
+    },
+    {
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0"
       },

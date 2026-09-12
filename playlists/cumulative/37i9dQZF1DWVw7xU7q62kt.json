@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 152378,
       "name": "amber",
       "url": "https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8"
@@ -6291,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/0Sfedo5v69qS2otHX2379Z"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/7Iu6b7MHeh8StJe386XxQD"
+    },
+    {
+      "album": {
         "name": "Cozy",
         "url": "https://open.spotify.com/album/3RsSbsa04lZcRND0tWG1IC"
       },
@@ -6580,6 +6598,24 @@
       "duration_ms": 191200,
       "name": "Holding the Balance",
       "url": "https://open.spotify.com/track/0jjp28jbWxzc3mFgzmJWS6"
+    },
+    {
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/1BugXwunp3uHDQwCVSpLqQ"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108131,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/6XB0vj0AS5gXXjMs1JIi5I"
     },
     {
       "album": {
@@ -7646,7 +7682,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 104096,
       "name": "Kater",
       "url": "https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd"
@@ -12411,6 +12447,24 @@
     },
     {
       "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/2xy4pQtUE6pZn1GPn1RY5W"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122823,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/3HegV6AIVtAMLl9xRXPYCr"
+    },
+    {
+      "album": {
         "name": "polaroid",
         "url": "https://open.spotify.com/album/7L4ACKP98B3SxcaWNRo3e9"
       },
@@ -12860,6 +12914,24 @@
       "duration_ms": 158136,
       "name": "Reality",
       "url": "https://open.spotify.com/track/4b9EngfGZovzQ8cSkOzrqp"
+    },
+    {
+      "album": {
+        "name": "Rearview Horizon",
+        "url": "https://open.spotify.com/album/4xPacv3NR81QRyIjrb2gDk"
+      },
+      "artists": [
+        {
+          "name": "Bogomolove",
+          "url": "https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Rearview Horizon",
+      "url": "https://open.spotify.com/track/1c2Gj4x2pWadlgKAnZoUH6"
     },
     {
       "album": {
@@ -15160,7 +15232,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 112941,
       "name": "sugar",
       "url": "https://open.spotify.com/track/3Xn9tjmpfJtOYTv5B2fbs4"
@@ -15590,7 +15662,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 118518,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4kU2bFeP4IC9O8grQKIHRm"

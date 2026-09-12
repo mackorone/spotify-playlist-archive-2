@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 29361,
+  "num_followers": 29490,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+kWJ67MUIHMp2SDn1eEV46Wbq0",
+  "snapshot_id": "AAAAAPw8bStxT/3C4bGq1EeUuEqiYy6w",
   "tracks": [
     {
       "added_at": "2026-07-01 16:22:16",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "i'm gonna tell my therapist on you",
-        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 161062,
-      "name": "i'm gonna tell my therapist on you",
-      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "The First Two Records",
         "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 160860,
       "name": "Double Dare Ya",
       "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "i'm gonna tell my therapist on you",
+        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 161062,
+      "name": "i'm gonna tell my therapist on you",
+      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "NVM",
-        "url": "https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 123328,
-      "name": "Crimson Wave",
-      "url": "https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Luxury Problem",
         "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 248893,
       "name": "Bad Ass Bitch",
       "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "NVM",
+        "url": "https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 123328,
+      "name": "Crimson Wave",
+      "url": "https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "ITEKOMA HITS",
-        "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Love is Short",
-      "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Moving Targets",
         "url": "https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 176226,
       "name": "Don't Dictate - Demo",
       "url": "https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "ITEKOMA HITS",
+        "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Love is Short",
+      "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Straight Up (Needy)",
-        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 194273,
-      "name": "Straight Up (Needy)",
-      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Nothing Feels Natural",
         "url": "https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 177826,
       "name": "JJ",
       "url": "https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "added_at": "2026-07-01 16:22:16",

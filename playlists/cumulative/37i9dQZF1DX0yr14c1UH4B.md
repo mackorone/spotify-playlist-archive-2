@@ -4,7 +4,7 @@
 
 > It's all about the song 🌷 cover: Dermot Henry
 
-1,029 songs - 2 day 9 hr 39 min
+1,029 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Jackie](https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Jackie](https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa) | 3:13 | 2026-08-13 |  |
 | [James](https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [James](https://open.spotify.com/album/6HdqpAopizBzDcJXYw3I5v) | 3:10 | 2025-05-22 | 2025-10-24 |
 | [jane](https://open.spotify.com/track/2w2GeamozlR1GZtcGHgvXU) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [wildcard](https://open.spotify.com/album/4jRp9yVZO53lVnZn8vAIC0) | 3:56 | 2026-01-09 | 2026-02-20 |
+| [January 12th](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 4:18 | 2026-09-10 |  |
 | [Jealous](https://open.spotify.com/track/0rXusdaizcJYmASIaC5MU3) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Jealous](https://open.spotify.com/album/1y7UiqKO85WebeGfFnIuYX) | 3:29 | 2026-06-18 | 2026-08-21 |
 | [Jessie's Comet](https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Modes of Transportation](https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD) | 3:30 | 2025-08-14 | 2025-10-24 |
 | [Jesus and John Wayne](https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Jesus and John Wayne](https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd) | 4:02 | 2025-06-12 | 2025-07-18 |
@@ -918,7 +919,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-17 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 2](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 0:00 | 2026-09-10 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 | 2026-02-13 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |

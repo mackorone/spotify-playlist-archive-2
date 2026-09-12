@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1923422,
+  "num_followers": 1923613,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw3oIXn7Voy0ZwVMmoAJyn8WXji",
+  "snapshot_id": "AAAAAHhxiN+Bczomk7E06U6eV1ndtGbu",
   "tracks": [
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Stories And Alibis",
-        "url": "https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL"
-      },
-      "artists": [
-        {
-          "name": "Matchbook Romance",
-          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Forget What You Know",
         "url": "https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 219840,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Stories And Alibis",
+        "url": "https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL"
+      },
+      "artists": [
+        {
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY"
     },
     {
       "added_at": "2026-07-17 00:12:53",

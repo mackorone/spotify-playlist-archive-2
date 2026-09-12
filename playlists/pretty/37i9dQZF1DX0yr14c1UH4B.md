@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Dermot Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,501 likes - 119 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,502 likes - 119 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 14 | [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 |
 | 15 | [Good Guess](https://open.spotify.com/track/5z4z1zam5AEzXo1GtWacjP) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Good Guess](https://open.spotify.com/album/63S7znmrBmZRCH3wCMNx8N) | 3:37 |
 | 16 | [You Like Ugly, Don't You Babe?](https://open.spotify.com/track/0sP01RbLNfARG17fzouOKT) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Like Ugly, Don't You Babe?](https://open.spotify.com/album/6dvrFXaLuQcPTDbTbJDCPm) | 2:30 |
-| 17 | [Track 2](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 0:00 |
+| 17 | [January 12th](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 4:18 |
 | 18 | [Tiny Feet](https://open.spotify.com/track/1KxJm5O2UqytGxbtG5NtzK) | [Little Grandad](https://open.spotify.com/artist/1Mgr4JJnFwPk3FHbu09wAl) | [Tiny Feet](https://open.spotify.com/album/0iJ5EGf57rB4IEzKNXa2OF) | 3:52 |
 | 19 | [Secrets of the Universe](https://open.spotify.com/track/5iK2SvTDRyGlb6d88o1K5l) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [The Knife, The Needle](https://open.spotify.com/album/1AdsKirDq40xEEPn9LIN9P) | 4:25 |
 | 20 | [Hers](https://open.spotify.com/track/6mzUk2aoQYz1tW1B2g9Si4) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Hers](https://open.spotify.com/album/2vkbx2ffTVKZPU9IbH89Z5) | 3:32 |

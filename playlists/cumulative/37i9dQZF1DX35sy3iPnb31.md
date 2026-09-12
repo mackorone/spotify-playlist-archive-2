@@ -4,13 +4,13 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-451 songs - 23 hr 54 min
+452 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 | 2026-07-31 | 2026-09-01 |
 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:18 | 2026-02-06 | 2026-03-06 |
-| [100 raccourcis](https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn) | [Kanda Gang](https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5), [ANAÏS.](https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej), [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [100 raccourcis](https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q) | 3:34 | 2026-09-01 |  |
+| [100 raccourcis](https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn) | [Kanda Gang](https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5), [ANAÏS.](https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej), [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [100 raccourcis](https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q) | 3:34 | 2026-09-01 | 2026-09-12 |
 | [10e étage](https://open.spotify.com/track/0UT1IVPDnW0X1KC9iNqsNI) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Au 10e étage](https://open.spotify.com/album/4TEmahcn9BLaLWqMqNjydN) | 3:24 | 2026-03-05 | 2026-04-02 |
 | [21 Freestyle](https://open.spotify.com/track/1b2bIUcvo6JWWDu5FucKEh) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [21 Freestyle](https://open.spotify.com/album/5Mnj6WTQeteXwx3GQqhwzd) | 1:06 | 2026-07-03 | 2026-08-01 |
 | [222](https://open.spotify.com/track/1JffGbCr4wlGDPf0WPistB) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Beaux Léon](https://open.spotify.com/album/60yrLtaDquVD28nqR2GLB6) | 3:00 | 2026-07-03 | 2026-07-30 |
@@ -169,6 +169,7 @@
 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 | 2026-09-01 |  |
 | [Going Home](https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Going Home](https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ) | 4:02 | 2025-12-03 | 2026-02-07 |
 | [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 | 2026-07-03 | 2026-08-01 |
+| [Goldmine](https://open.spotify.com/track/7p8mo1LlK73GzZtUGlYGvd) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Sunna](https://open.spotify.com/album/6ydEzBduSvCvKIho2NumU2) | 3:14 | 2026-09-01 |  |
 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 | 2026-02-06 | 2026-03-06 |
 | [GOODTIME](https://open.spotify.com/track/2tWd8sXrSw0LcALKdAa7y4) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Rendering Feelings \(GOODTIME Edition\)](https://open.spotify.com/album/79VYvUlc3GPMwkwosNAZEK) | 3:29 | 2026-04-01 | 2026-05-02 |
 | [Gordon in the Willows](https://open.spotify.com/track/0mMFKOFRWNvcLRBaY7Nn4d) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:54 | 2025-12-03 | 2026-02-07 |

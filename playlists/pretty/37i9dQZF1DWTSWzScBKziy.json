@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Anne Wilson",
-  "num_followers": 439284,
+  "num_followers": 439739,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvXMSVEDuaDlQ6YP/768jCVEfmh",
+  "snapshot_id": "AAAAAAED8uRv/v4kC16UJ2YWxU5kZi23",
   "tracks": [
     {
       "added_at": "2026-08-21 09:34:27",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "duration_ms": 594825,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "Give Me Joy",
         "url": "https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 327000,
       "name": "Only Ever",
       "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 594825,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "King Of Heaven",
-        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 237715,
-      "name": "King Of Heaven",
-      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "What Can I Say But Thank You (Live)",
         "url": "https://open.spotify.com/album/2ysN25wbsarf5xTUwkgXbS"
       },
@@ -575,26 +559,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "usher in the spirit again",
-        "url": "https://open.spotify.com/album/4JhuXIkQ2Hrk26reQjYxrz"
+        "name": "King Of Heaven",
+        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 184000,
-      "name": "usher in the spirit again",
-      "url": "https://open.spotify.com/track/2fpkGSy1zkSHDDMEET03VA"
+      "duration_ms": 237715,
+      "name": "King Of Heaven",
+      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -619,6 +595,30 @@
       "duration_ms": 211355,
       "name": "How Great Is The Greatness Of God",
       "url": "https://open.spotify.com/track/1vHXuQeMPXZqIt88zMlk79"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "usher in the spirit again",
+        "url": "https://open.spotify.com/album/4JhuXIkQ2Hrk26reQjYxrz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "usher in the spirit again",
+      "url": "https://open.spotify.com/track/2fpkGSy1zkSHDDMEET03VA"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Jehovah",
-        "url": "https://open.spotify.com/album/38ZQFXnAxWVXpz3aW6y4AS"
-      },
-      "artists": [
-        {
-          "name": "James River Worship",
-          "url": "https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh"
-        },
-        {
-          "name": "Don Hamilton",
-          "url": "https://open.spotify.com/artist/18V3kyDcTPbvX64LuejNvS"
-        }
-      ],
-      "duration_ms": 534833,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "This One Refrain",
         "url": "https://open.spotify.com/album/2ntCtvjaZjaSr1fYgOpWzX"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 224571,
       "name": "Carried",
       "url": "https://open.spotify.com/track/0GGp7fPHTdzSCzdJwgUGwU"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Jehovah",
+        "url": "https://open.spotify.com/album/38ZQFXnAxWVXpz3aW6y4AS"
+      },
+      "artists": [
+        {
+          "name": "James River Worship",
+          "url": "https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh"
+        },
+        {
+          "name": "Don Hamilton",
+          "url": "https://open.spotify.com/artist/18V3kyDcTPbvX64LuejNvS"
+        }
+      ],
+      "duration_ms": 534833,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
     },
     {
       "added_at": "2026-08-21 09:34:27",

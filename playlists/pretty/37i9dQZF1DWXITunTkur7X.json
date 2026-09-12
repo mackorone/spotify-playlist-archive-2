@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 79935,
+  "num_followers": 79937,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwxgZ37KbVi1gtweZYP6GAhXGEP",
+  "snapshot_id": "AAAAACv6chptcQjeVeL5Yl2W7uh0TJ/q",
   "tracks": [
     {
       "added_at": "2025-03-12 10:01:17",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Avondjurk",
-        "url": "https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO"
-      },
-      "artists": [
-        {
-          "name": "Jurk!",
-          "url": "https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Zou Zo Graag",
-      "url": "https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Ik Ga Hard",
         "url": "https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 188026,
       "name": "Ik Ga Hard",
       "url": "https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Avondjurk",
+        "url": "https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO"
+      },
+      "artists": [
+        {
+          "name": "Jurk!",
+          "url": "https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Zou Zo Graag",
+      "url": "https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Holiday In Spain",
-      "url": "https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Beats By Esko",
         "url": "https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 197290,
       "name": "Hey Meisje",
       "url": "https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE"
     },
     {
       "added_at": "2025-03-12 10:01:17",

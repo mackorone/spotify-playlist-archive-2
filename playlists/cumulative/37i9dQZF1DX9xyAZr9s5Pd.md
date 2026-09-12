@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Nezzah
 
-164 songs - 9 hr 17 min
+165 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,8 @@
 | [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 | 2024-05-17 | 2026-02-28 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-09-22 |  |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-09-22 |  |
-| [Ando \(bye, ya me voy…\)](https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Ando \(bye, ya me voy…\)](https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f) | 2:57 | 2026-08-21 |  |
-| [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 | 2026-03-18 |  |
+| [Ando \(bye, ya me voy…\)](https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Ando \(bye, ya me voy…\)](https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f) | 2:57 | 2026-08-21 | 2026-09-12 |
+| [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 | 2026-03-18 | 2026-09-12 |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2024-02-17 |
 | [azul](https://open.spotify.com/track/6npsvD105b2pUp5XMUudT7) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [azul](https://open.spotify.com/album/4vrG1SGcwyDL9HFI2hTP9e) | 3:29 | 2026-04-10 | 2026-05-23 |
 | [Bajo el Cielo Azul](https://open.spotify.com/track/1NudI4DebuIzVpLQPZw5z3) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7), [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Días](https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR) | 2:16 | 2026-03-18 | 2026-03-27 |
@@ -61,6 +61,7 @@
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-09-22 |  |
 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 |  |
 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 | 2023-10-20 |  |
+| [El Baile](https://open.spotify.com/track/0MbKlrKTF6UoUiGoGKclk3) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [El Baile](https://open.spotify.com/album/6kBf6ECHvQFuQjpxpIHIZM) | 2:56 | 2026-09-11 |  |
 | [El Mar](https://open.spotify.com/track/4NnDYsEaL11NkZaWEyO2V1) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Ficción](https://open.spotify.com/album/02k8LdA9cGg7D8F70A7XHF) | 3:55 | 2026-03-18 | 2026-03-27 |
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-09-22 | 2024-10-18 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2026-03-18 | 2026-03-27 |

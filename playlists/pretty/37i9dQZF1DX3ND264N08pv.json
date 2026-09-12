@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96677,
+  "num_followers": 96694,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoc2T08xjzGhtyBNs/BHIpMyemN",
+  "snapshot_id": "AAAAAIt67hetDjciRA/xFmU6vSFea9UW",
   "tracks": [
     {
       "added_at": "2026-09-07 07:24:03",
@@ -127,22 +127,18 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL"
+        "name": "BKJN",
+        "url": "https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
         }
       ],
-      "duration_ms": 177750,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
+      "duration_ms": 138024,
+      "name": "BKJN",
+      "url": "https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo"
     },
     {
       "added_at": "2026-09-07 07:24:03",
@@ -167,18 +163,22 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
-        "name": "BKJN",
-        "url": "https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL"
       },
       "artists": [
         {
-          "name": "Lekkerfaces",
-          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         }
       ],
-      "duration_ms": 138024,
-      "name": "BKJN",
-      "url": "https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo"
+      "duration_ms": 177750,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
     },
     {
       "added_at": "2026-09-07 07:24:03",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
+        "name": "FA TI CO",
+        "url": "https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9"
+      },
+      "artists": [
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        },
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "FA TI CO",
+      "url": "https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP"
+    },
+    {
+      "added_at": "2026-09-07 07:24:03",
+      "album": {
         "name": "Our Rebirth",
         "url": "https://open.spotify.com/album/5Q74UPvG65cYivPmCHHu3y"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 89647,
       "name": "Get Wrecked 2024 Tool - Dimitri K Remix",
       "url": "https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d"
-    },
-    {
-      "added_at": "2026-09-07 07:24:03",
-      "album": {
-        "name": "FA TI CO",
-        "url": "https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9"
-      },
-      "artists": [
-        {
-          "name": "Lekkerfaces",
-          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
-        },
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "FA TI CO",
-      "url": "https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP"
     },
     {
       "added_at": "2026-09-07 07:24:03",
@@ -463,42 +463,6 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
-        "name": "Tequila In My Eyes",
-        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Tequila In My Eyes",
-      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-09-07 07:24:03",
-      "album": {
-        "name": "Midnight Rain",
-        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
-    },
-    {
-      "added_at": "2026-09-07 07:24:03",
-      "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
@@ -519,6 +483,42 @@
       "duration_ms": 216000,
       "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
       "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
+    },
+    {
+      "added_at": "2026-09-07 07:24:03",
+      "album": {
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
+    },
+    {
+      "added_at": "2026-09-07 07:24:03",
+      "album": {
+        "name": "Tequila In My Eyes",
+        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Tequila In My Eyes",
+      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
     },
     {
       "added_at": "2026-09-07 07:24:03",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
+    },
+    {
+      "added_at": "2026-09-07 07:24:03",
+      "album": {
         "name": "Hardcore Bass",
         "url": "https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 176225,
       "name": "RPG",
       "url": "https://open.spotify.com/track/1TBk77NylAFvQbkmKBYePi"
-    },
-    {
-      "added_at": "2026-09-07 07:24:03",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-09-07 07:24:03",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-09-07 07:24:03",
       "album": {
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+    },
+    {
+      "added_at": "2026-09-07 07:24:03",
+      "album": {
         "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
         "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 190666,
       "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
       "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
-    },
-    {
-      "added_at": "2026-09-07 07:24:03",
-      "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-09-07 07:24:03",

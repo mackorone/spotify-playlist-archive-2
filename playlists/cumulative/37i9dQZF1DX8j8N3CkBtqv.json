@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Mali, Anurag Vashisht, Last Minute India and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Janisht Joshi, Bharg, NAALAYAK, Anand Bhaskar Collective and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 252265,
       "name": "Aayi Aayi",
       "url": "https://open.spotify.com/track/2Ybf9gwkTOcBRecd6NcxeS"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 281097,
       "name": "Baarish Ki Boondein",
       "url": "https://open.spotify.com/track/4xMaPRbGHuX0pv2TbvAzlS"
@@ -8659,6 +8659,28 @@
     },
     {
       "album": {
+        "name": "Ek Sapna",
+        "url": "https://open.spotify.com/album/09NL48SMq6lKG7dU3wJqK9"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        },
+        {
+          "name": "Ruvv",
+          "url": "https://open.spotify.com/artist/2WXJFlGpqGVvAwP5ZTYK9V"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240051,
+      "name": "Ek Sapna",
+      "url": "https://open.spotify.com/track/34hwbUeDi04BcQp6Xl89je"
+    },
+    {
+      "album": {
         "name": "ESWY",
         "url": "https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI"
       },
@@ -10840,6 +10862,24 @@
       "duration_ms": 204720,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/4pTzZRo3JVA61E4ZoMYCbC"
+    },
+    {
+      "album": {
+        "name": "Hisaab Kitab",
+        "url": "https://open.spotify.com/album/3PA83P0z6TheCVaNFtw4Tm"
+      },
+      "artists": [
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150041,
+      "name": "Hisaab Kitab",
+      "url": "https://open.spotify.com/track/5G7LX4I7c084KMd12H5qLr"
     },
     {
       "album": {
@@ -20051,6 +20091,28 @@
     },
     {
       "album": {
+        "name": "Milta Nahi Hai",
+        "url": "https://open.spotify.com/album/5ax0AQB0zEycZ0Gwf0ZnFq"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "Milta Nahi Hai",
+      "url": "https://open.spotify.com/track/6wza6SdUG6VOiyxS4zcx9J"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
       },
@@ -24613,6 +24675,24 @@
     },
     {
       "album": {
+        "name": "Rihaa",
+        "url": "https://open.spotify.com/album/3R2O1pJlzKd1uWk6m2BHjk"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar Collective",
+          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269013,
+      "name": "Rihaa",
+      "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"
+    },
+    {
+      "album": {
         "name": "Ring of Fire",
         "url": "https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH"
       },
@@ -25294,7 +25374,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 196608,
       "name": "Saasein Meri",
       "url": "https://open.spotify.com/track/0xbxxGPHh72DO9tSPLSNv7"
@@ -29310,7 +29390,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 181436,
       "name": "Teri Yaadon Ke Saaye",
       "url": "https://open.spotify.com/track/3PwDRxbPUUWcS8KHej60IX"

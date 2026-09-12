@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JOYE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SOK",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr"
+      },
+      "artists": [
+        {
+          "name": "Lost Polaroids",
+          "url": "https://open.spotify.com/artist/7vFvfoNCkhhQ30I0vsb8YT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302769,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e17\u0e33\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
         "url": "https://open.spotify.com/album/3JmGQz8oMdmtKrviXbQ3OP"
       },
@@ -2160,6 +2178,24 @@
       "duration_ms": 230500,
       "name": "\u0e08\u0e30\u0e44\u0e14\u0e49\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e2a\u0e31\u0e01\u0e17\u0e35 (done)",
       "url": "https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e30\u0e44\u0e1b\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e23 (Chasm)",
+        "url": "https://open.spotify.com/album/1lbUFCHXmDLU9MxyXGZvEy"
+      },
+      "artists": [
+        {
+          "name": "MACHINE.",
+          "url": "https://open.spotify.com/artist/5R2xpBIDKtXym5pNc9WTVc"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250342,
+      "name": "\u0e08\u0e30\u0e44\u0e1b\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e23 (Chasm)",
+      "url": "https://open.spotify.com/track/5vDdfdhmgHSSnqa7wHz6bF"
     },
     {
       "album": {
@@ -2937,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/3R3jLpnRRFQVmAm6hTwJ3N"
+      },
+      "artists": [
+        {
+          "name": "SOK",
+          "url": "https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326413,
+      "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/2paY7mj6P33pglb6KnkCcN"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e31\u0e48\u0e07\u0e42\u0e07\u0e48\u0e46",
         "url": "https://open.spotify.com/album/51UvmkfQ4Y8XZqS9nOJ3aV"
       },
@@ -3532,7 +3586,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 267455,
       "name": "\u0e1e\u0e2b\u0e25\u0e42\u0e22\u0e18\u0e34\u0e19",
       "url": "https://open.spotify.com/track/4nbIr7LBvsRN40LdDWKE5o"
@@ -6188,7 +6242,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 200000,
       "name": "\u0e41\u0e1b\u0e25\u0e01",
       "url": "https://open.spotify.com/track/2vDViQEpVes303LMpgQBoY"
@@ -6368,7 +6422,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 257071,
       "name": "\u0e42\u0e25\u0e01\u0e22\u0e31\u0e07\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b (Heart Echo)",
       "url": "https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8"

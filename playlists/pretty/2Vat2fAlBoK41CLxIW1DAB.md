@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,159 songs - 3 day 0 hr 45 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,174 songs - 3 day 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1167,5 +1167,20 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1157 | [Euthanasia](https://open.spotify.com/track/6UwyXsOW9qNrHwpBsbuPkO) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 2:48 |
 | 1158 | [Be Fine](https://open.spotify.com/track/5P7QYmlOAGLbiThDsPYRCr) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/008Zi78Bpbq2bZvISxuLqw) | 3:21 |
 | 1159 | [DEAD TO ME](https://open.spotify.com/track/3qMCxw1Ft0kwAlxd95U1m8) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [MEDUSA](https://open.spotify.com/album/4RQq7Irj68CN1uYQhO1qDC) | 3:16 |
+| 1160 | [Love of the Serpentine Eye](https://open.spotify.com/track/2qIDd2pSNHfXiTQatlDd28) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Love of the Serpentine Eye](https://open.spotify.com/album/4soq1eHeHhiu3FMBnNoZxk) | 5:23 |
+| 1161 | [Just Humans](https://open.spotify.com/track/2eIIgC8PlHyV6tsnpuF2Op) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Just Humans](https://open.spotify.com/album/3HzLNHXuYmoUdZE9NDhxnO) | 3:36 |
+| 1162 | [Halloween Night](https://open.spotify.com/track/39egeiZo32iVl7GkJXRIU0) | [Track Five](https://open.spotify.com/artist/5vBZdW4lrU0f3dcdXrnThT) | [Halloween Night](https://open.spotify.com/album/7L9bRolfK8GCFj5tY2E9lh) | 2:58 |
+| 1163 | [Mortal Wombat](https://open.spotify.com/track/1vK4RA5yZFBZG0XmGhZdHE) | [Magnetfisch](https://open.spotify.com/artist/1kSxv7KegqfXIQXpD4zZhX) | [If You Were a Dinosaur, What Kind of Dinosaur Would You Be?](https://open.spotify.com/album/6sXCeFOcpwkGOGpcPah68v) | 5:18 |
+| 1164 | [what's good \(the anthem\)](https://open.spotify.com/track/0aO6rUZoppmrP3cy7ThWOn) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [pretty privilege](https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG) | 2:43 |
+| 1165 | [F.A.F.O.](https://open.spotify.com/track/0lm3441aIq4fAsLAX4XKZC) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [F.A.F.O.](https://open.spotify.com/album/4Ld62MMDrt8MlGQH8UJGXH) | 4:12 |
+| 1166 | [Have You Heard Your Muse Today?](https://open.spotify.com/track/5dBXLIn9THvF7UDV6Y6Z49) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Have You Heard Your Muse Today?](https://open.spotify.com/album/5pTt9dounJvnstZN3XHNao) | 3:16 |
+| 1167 | [Shadows](https://open.spotify.com/track/0mNZ5pNXnNNxA1CIjaY56N) | [The Scene Redacted](https://open.spotify.com/artist/4NyHBdwdugIcjZQUi5uoAC) | [Artificial Conspiracy](https://open.spotify.com/album/6WzuqwNnivxrEdBOgmfw9D) | 4:02 |
+| 1168 | [Glum](https://open.spotify.com/track/23ZPR0lgoyjpw9aT1kplH6) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:30 |
+| 1169 | [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 |
+| 1170 | [Smell the Rain](https://open.spotify.com/track/63WO32r0kOJrMUz2ntBE67) | [SUNDRAWN](https://open.spotify.com/artist/29jhmOjKuBK3iZ9aYXNZ3f) | [Smell the Rain](https://open.spotify.com/album/48vbX4rcyuxyPvWeIeYKQq) | 4:06 |
+| 1171 | [Between Two Lights](https://open.spotify.com/track/6hMcqBjeK8EaCRE3L6x94U) | [Maxoxpower](https://open.spotify.com/artist/6W8SaQBwhSJrHTmuefyHGL) | [We Were There](https://open.spotify.com/album/6xwKEz7497PI2zkcKLmZZM) | 3:30 |
+| 1172 | [Basement Beer Pong](https://open.spotify.com/track/1ExKfwGeB1lIiLyz0iSRtG) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 2:09 |
+| 1173 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 |
+| 1174 | [Sprouting](https://open.spotify.com/track/6AyitMWKVvkg5miRy04qYF) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag) | [Chaos City](https://open.spotify.com/album/1BCnvOTNk1z5QHEiqJHdis) | 2:45 |
 
-Snapshot ID: `AAAEsfJqfKQt2pnR+FWPA5accvrd9HXf`
+Snapshot ID: `AAAEwcnHNAe/oGIZphrnn/wTnhkpa0Xd`

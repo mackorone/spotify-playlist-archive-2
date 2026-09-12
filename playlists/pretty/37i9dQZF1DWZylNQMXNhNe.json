@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247851,
+  "num_followers": 247850,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOjzn8kCd7B7LF1RoMNLpvGgvJp",
+  "snapshot_id": "AAAAAA0aixLcIhuI+nozmIwEPNGF1TxD",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:37",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-09-04 03:00:37",
       "album": {
+        "name": "NOVA ERA Part. I",
+        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Mal\u00edcia",
+      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "added_at": "2026-09-04 03:00:37",
+      "album": {
         "name": "VADIAS IN LOVE",
         "url": "https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 167183,
       "name": "MANIA (oi amor, bom dia)",
       "url": "https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd"
-    },
-    {
-      "added_at": "2026-09-04 03:00:37",
-      "album": {
-        "name": "NOVA ERA Part. I",
-        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Mal\u00edcia",
-      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
     },
     {
       "added_at": "2026-09-04 03:00:37",

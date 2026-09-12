@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-170 songs - 10 hr 59 min
+171 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 | 2022-07-18 | 2022-11-29 |
 | [Deux Arabesques: No\. 1](https://open.spotify.com/track/3iGGRjfZXYoYqYxNEYYbBX) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy And Ravel Piano Music](https://open.spotify.com/album/36aQDQA7v1iSW9V1YIN2ig) | 4:32 | 2021-11-09 |  |
 | [Dido and Aeneas, Z\. 626: When I am Laid in Earth \(Dido's Lament, Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/track/1oIzHzXg7aurssuOVQ4Mlv) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Lucerne Festival Strings](https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc), [Daniel Dodds](https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY) | [Dido and Aeneas, Z\. 626: When I am Laid in Earth \(Dido's Lament, Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/album/0GhWpetiWHj4v024yNGOk4) | 3:13 | 2023-01-06 |  |
+| [Die Kunst der Fingerfertigkeit, Op\. 740: No\. 14 in G Minor \(Arr\. Eichhorn\) \- Upright Version](https://open.spotify.com/track/0OMdtVVfQsWUuisDkLJUXI) | [Carl Czerny](https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW), [Justus Eichhorn](https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY) | [The Source](https://open.spotify.com/album/47It6NIjNCUHsL1J5MU3BZ) | 1:47 | 2026-09-11 |  |
 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 | 2022-01-24 |  |
 | [Dream 5](https://open.spotify.com/track/0WmNqYLyIzCMV0R6Zq9Ark) | [Aleksander Dębicz](https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad) | [Dream 5](https://open.spotify.com/album/0SINpDIl1C7xHPdDQVxeQ8) | 3:40 | 2026-07-10 |  |
 | [Eccles: The Mad Lover: V\. Aire\. Ground \(Arr\. Diluka for Piano\)](https://open.spotify.com/track/1UsdgY2x6pstKpHzkI5npY) | [John Eccles](https://open.spotify.com/artist/1Vf6J5GaEyalbTE1Jjbeui), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Eccles: The Mad Lover: V\. Aire\. Ground](https://open.spotify.com/album/0Cf7YmtUJtDeSmYnXZosw0) | 1:58 | 2025-08-08 |  |

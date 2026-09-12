@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-810 songs - 1 day 18 hr 53 min
+811 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-12 | 2026-01-24 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-11 | 2024-11-08 |
 | [Mine](https://open.spotify.com/track/441FaBHbp6JIhpdsNV10sE) | [Lee Cole](https://open.spotify.com/artist/6q2Zv0SpjeSMuDb2o1QBoB) | [Mine](https://open.spotify.com/album/3edDMrD3vxDBPvQh1h7ZVG) | 2:48 | 2025-08-14 | 2025-08-22 |
+| [MIRACLE](https://open.spotify.com/track/6fjuELjguSYHjXa8ck3oeL) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [MIRACLE](https://open.spotify.com/album/6McV5gNk5q9xSVRRZbsFLQ) | 3:17 | 2026-09-11 |  |
 | [Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 | 2025-07-03 | 2026-01-24 |
 | [MIRROR MIRROR](https://open.spotify.com/track/2zGBJQgpVMYf2LOS3pWwOb) | [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn), [PRETTY HAVØC](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX) | [MIRROR MIRROR](https://open.spotify.com/album/5GoN6xH6rGE1Mbnr9RdEVb) | 3:02 | 2025-07-24 | 2025-08-15 |
 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 | 2025-07-31 | 2025-08-15 |
@@ -670,7 +671,7 @@
 | [Tattooed To My Heart](https://open.spotify.com/track/04MA9bSps2FJupffY6ig2D) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Tattooed To My Heart](https://open.spotify.com/album/2jrfp5GSOzL3961NQNtC0A) | 3:37 | 2024-11-21 | 2025-01-24 |
 | [Teach You How To Love](https://open.spotify.com/track/2OQo5wbFIAmHO13CWZinbq) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Teach You How To Love](https://open.spotify.com/album/6eH1G6yWMQLXQHik5h1AbE) | 2:31 | 2025-08-21 | 2025-08-30 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 | 2026-01-24 |
-| [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 | 2026-03-13 |  |
+| [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 | 2026-03-13 | 2026-09-12 |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2025-04-17 | 2025-04-25 |
 | [Tell Me How](https://open.spotify.com/track/23kB40iILpGJ03qrMTGbyj) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Tell Me How](https://open.spotify.com/album/6YCtgiy9GeKsaTpCUIAQVp) | 2:55 | 2024-11-28 | 2025-01-31 |
 | [Tell Me More](https://open.spotify.com/track/3Bh2LsZIwxBp0Zi1ImmFiR) | [Conn](https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7) | [Tell Me More](https://open.spotify.com/album/1zbcHq8wN3d80fIl4ssTbX) | 2:41 | 2025-07-24 | 2025-08-01 |

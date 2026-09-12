@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Linda Sikhakhane",
+  "description": "New jazz for open minds. Cover: Ezra Collective",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -5576,7 +5576,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 153142,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
@@ -6342,6 +6342,32 @@
       "duration_ms": 439188,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI"
+    },
+    {
+      "album": {
+        "name": "BusyForYa",
+        "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214837,
+      "name": "BusyForYa (feat. Planet Giza, Shibo)",
+      "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
     },
     {
       "album": {
@@ -11705,6 +11731,24 @@
     },
     {
       "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+    },
+    {
+      "album": {
         "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
         "url": "https://open.spotify.com/album/4E7cjsGwW7DIIZfOFokVFH"
       },
@@ -14266,6 +14310,24 @@
       "duration_ms": 288266,
       "name": "Four Flowers",
       "url": "https://open.spotify.com/track/2ONAQaP6J7NsOcDkBefx8G"
+    },
+    {
+      "album": {
+        "name": "Fourteen Reveries: 1 & 2",
+        "url": "https://open.spotify.com/album/1Y0wIBTbN7IeQ9vpZoV2Gb"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101133,
+      "name": "Fourteen Reveries: 1",
+      "url": "https://open.spotify.com/track/6KlvDepAitRmvY96pHapce"
     },
     {
       "album": {
@@ -20104,7 +20166,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 255227,
       "name": "Jubilee Feeling",
       "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
@@ -24240,7 +24302,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 230645,
       "name": "Memory Bomb (feat. Walter Smith III, Flanafi, Shibo)",
       "url": "https://open.spotify.com/track/3d9j2wiKls3PpfRlFCQliw"
@@ -26680,6 +26742,28 @@
       "duration_ms": 348706,
       "name": "no one else has your magik!",
       "url": "https://open.spotify.com/track/4KBSf8F5ZKWQGzeeD9MoBx"
+    },
+    {
+      "album": {
+        "name": "No Rhyme, No Reason",
+        "url": "https://open.spotify.com/album/6tuKTHMNMyLrLoHm4EJb3b"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Ursa Major",
+          "url": "https://open.spotify.com/artist/1t96Tk4yaINGyLVLVxmmC3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344074,
+      "name": "No Rhyme, No Reason",
+      "url": "https://open.spotify.com/track/1nBewNqCzUiuR4ZDvUgeG3"
     },
     {
       "album": {
@@ -34864,7 +34948,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 242946,
       "name": "Something More",
       "url": "https://open.spotify.com/track/3YM5xsdAn0yMqCwOeyGa3K"

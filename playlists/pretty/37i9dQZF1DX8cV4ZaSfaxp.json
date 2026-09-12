@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 65170,
+  "num_followers": 65190,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "pporappippam",
-        "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 206616,
-      "name": "pporappippam",
-      "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "DANCING ALONE",
         "url": "https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "pporappippam",
+        "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 206616,
+      "name": "pporappippam",
+      "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Day 2",
-        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "The 3rd Mini Album 'VarioUS'",
         "url": "https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211346,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3SxUFfigBD28FSTPyiMEUm"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "\u2018The ReVe Festival\u2019 Day 2",
+        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Dancing in the dark",
-        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
-      },
-      "artists": [
-        {
-          "name": "YEOJIN(L\u221ena)",
-          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Dancing in the dark",
-      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "Blue City",
         "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 231409,
       "name": "Blue City",
       "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Dancing in the dark",
+        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
+      },
+      "artists": [
+        {
+          "name": "YEOJIN(L\u221ena)",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Dancing in the dark",
+      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.03",
-        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
         }
       ],
-      "duration_ms": 234000,
-      "name": "It's Beautiful",
-      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -1131,6 +1115,22 @@
       "duration_ms": 274582,
       "name": "TENNIS",
       "url": "https://open.spotify.com/track/4RG7gGJjxonz2xN63JjKrH"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.03",
+        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "It's Beautiful",
+      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
-      },
-      "artists": [
-        {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        }
-      ],
-      "duration_ms": 201223,
-      "name": "\uadf8\ub300 Hello",
-      "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 203573,
       "name": "It`s Been A While (Maxim City Summer Life c.f)",
       "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "\uadf8\ub300 Hello",
+      "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Pink Funky",
-        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Self Camera",
-      "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "Scent",
         "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 237500,
       "name": "Get up",
       "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Pink Funky",
+        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Self Camera",
+      "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
     },
     {
       "added_at": "2026-09-01 05:48:58",

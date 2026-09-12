@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Creyente.7, Apache y Damper Vergara en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Uni\u00f3n Fatal en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -5340,7 +5340,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 166773,
       "name": "ES AS\u00cd",
       "url": "https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq"
@@ -6256,7 +6256,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147000,
       "name": "Ginger Shots",
       "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
@@ -8008,6 +8008,32 @@
       "duration_ms": 275437,
       "name": "La Sabia Escuela",
       "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
+    },
+    {
+      "album": {
+        "name": "La Vaina",
+        "url": "https://open.spotify.com/album/2rKGcZLYLrQFFCnwyDelfF"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Jeison el Mono",
+          "url": "https://open.spotify.com/artist/7ghOdPaeyjiZcekB2NwBSm"
+        },
+        {
+          "name": "OG La Torre",
+          "url": "https://open.spotify.com/artist/249ms0sKMoCkUMjaap22qm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "La Vaina",
+      "url": "https://open.spotify.com/track/5qpWF8UEjvd1VbKJWxSx68"
     },
     {
       "album": {
@@ -11711,6 +11737,32 @@
     },
     {
       "album": {
+        "name": "Pez K.O.",
+        "url": "https://open.spotify.com/album/22W9t21atxuB1dXx2mlaxz"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "El Shaaki",
+          "url": "https://open.spotify.com/artist/2ZCkSpm5VDWVqcO0DZJ7mu"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Pez K.O.",
+      "url": "https://open.spotify.com/track/1ZWUB4mhzTCCsbq0d4T0Hd"
+    },
+    {
+      "album": {
         "name": "Phiesta",
         "url": "https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds"
       },
@@ -12350,7 +12402,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 175909,
       "name": "Que M\u00e1s Da",
       "url": "https://open.spotify.com/track/4ZbCCldSn4NWItJ9z85BnD"
@@ -12784,7 +12836,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 208622,
       "name": "Red Bull Espiral #05",
       "url": "https://open.spotify.com/track/1nuVImTjVoRk7BBg7p2neV"
@@ -12806,6 +12858,36 @@
       "duration_ms": 144438,
       "name": "Relojito",
       "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4hPPhLwmwcOIrSGkUn8fpZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        },
+        {
+          "name": "HC BEATS",
+          "url": "https://open.spotify.com/artist/0MYsH9rqsZ1R0viHoiQOBk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Gxe0IZ7fIbS8dnP4ZnZnU"
     },
     {
       "album": {
@@ -15766,6 +15848,24 @@
       "duration_ms": 187826,
       "name": "Viche Curao",
       "url": "https://open.spotify.com/track/7tQF5RI8mgk9mcMSkX39Ca"
+    },
+    {
+      "album": {
+        "name": "Vida de Malandr\u00edn",
+        "url": "https://open.spotify.com/album/7dlHpsEhoDJq4UNDp3MyVw"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226463,
+      "name": "Vida de Malandr\u00edn",
+      "url": "https://open.spotify.com/track/3DDeZukdURaJSzg3icQOh4"
     },
     {
       "album": {

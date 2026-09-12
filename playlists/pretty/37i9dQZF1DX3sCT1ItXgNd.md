@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Luis Fonsi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,232 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,185 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [TUS INICIALES](https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5), [SALMA](https://open.spotify.com/artist/39l4aspsVEkHvlLr7R4NLm) | [TUS INICIALES](https://open.spotify.com/album/0bnB7XCWU0D75dQOHDKYZN) | 3:55 |
 | 50 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
 
-Snapshot ID: `AAAAAKk+DIVeOu5+XhesRvBlWAN05DYb`
+Snapshot ID: `AAAAALOjqOJ22c0H9qJC965TyptyLki0`

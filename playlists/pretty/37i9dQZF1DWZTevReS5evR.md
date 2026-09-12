@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,383 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,369 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 99 | [You'll Find Lovers Like You and Me](https://open.spotify.com/track/6BQiGGlPp294KMLYQMmS0C) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [You'll Find Lovers Like You and Me](https://open.spotify.com/album/7Fqm1j72ZIaBOazURTNRAj) | 3:29 |
 | 100 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 |
 
-Snapshot ID: `AAAAANUwqKHB+6hX1kZTM1JMbe08e7LJ`
+Snapshot ID: `AAAAAARzQhM/spDa/5+33rZYvNwGLgau`

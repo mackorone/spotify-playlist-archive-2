@@ -1511,6 +1511,32 @@
     },
     {
       "album": {
+        "name": "It's Yemi Alade",
+        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/4WwB9hiXYPoqqsbbBACBg0"
+    },
+    {
+      "album": {
         "name": "Electric Love EP",
         "url": "https://open.spotify.com/album/50DUc3EsXB3Cz3X1jwjS63"
       },
@@ -8226,24 +8252,6 @@
       "duration_ms": 378409,
       "name": "Touche - Coco Em Remix",
       "url": "https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC"
-    },
-    {
-      "album": {
-        "name": "It's Yemi Alade",
-        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "date_added": "2026-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/4WwB9hiXYPoqqsbbBACBg0"
     },
     {
       "album": {

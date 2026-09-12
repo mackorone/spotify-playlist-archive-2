@@ -1,12 +1,12 @@
 {
   "description": "New Music from  Rema, Kaestyle, Yemi Alade, Youg Jonn, Shoday, FOLA and more ",
-  "num_followers": 216021,
+  "num_followers": 216900,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzrtLOnjsGnmhEBLr3QdjSOvraF",
+  "snapshot_id": "AAAAAPbd8BByZPrOtp4QwJ2OfKLJ9Zng",
   "tracks": [
     {
       "added_at": "2026-09-11 00:01:30",
@@ -68,8 +68,8 @@
           "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 128000,
+      "name": "Alhaja",
       "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
     },
     {
@@ -106,10 +106,14 @@
         {
           "name": "KAESTYLE",
           "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "M3lon",
+          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 147326,
+      "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
     },
     {
@@ -298,10 +302,14 @@
         {
           "name": "Lusanda",
           "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        },
+        {
+          "name": "Iam6teen",
+          "url": "https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 172152,
+      "name": "Lunchbox",
       "url": "https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF"
     },
     {
@@ -330,11 +338,35 @@
         {
           "name": "KAESTYLE",
           "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 158750,
+      "name": "One Life",
       "url": "https://open.spotify.com/track/09RRj9cKEMp3Os2ED0t3pZ"
+    },
+    {
+      "added_at": "2026-09-11 00:01:30",
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 162377,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q"
     },
     {
       "added_at": "2026-09-11 00:01:30",
@@ -855,6 +887,22 @@
     {
       "added_at": "2026-09-11 00:01:30",
       "album": {
+        "name": "Burning House",
+        "url": "https://open.spotify.com/album/23SoAQwgAXA5mfbP3T1MvJ"
+      },
+      "artists": [
+        {
+          "name": "Miiles44",
+          "url": "https://open.spotify.com/artist/0qMcSjYZVHwlz9c8llOKvZ"
+        }
+      ],
+      "duration_ms": 199131,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/6yotkO1jX6VX8TOCBWLN6D"
+    },
+    {
+      "added_at": "2026-09-11 00:01:30",
+      "album": {
         "name": "Pay Szn",
         "url": "https://open.spotify.com/album/5jsgCF80B8fFBxuOT3Fwpp"
       },
@@ -891,6 +939,22 @@
       "duration_ms": 204210,
       "name": "Something About U",
       "url": "https://open.spotify.com/track/7x6ddwsKSqx1p0kU3V0bBC"
+    },
+    {
+      "added_at": "2026-09-11 00:01:30",
+      "album": {
+        "name": "Aka Dimma",
+        "url": "https://open.spotify.com/album/4OOCtLVPsc9O9TFVDpfPaM"
+      },
+      "artists": [
+        {
+          "name": "Star Baba Jay",
+          "url": "https://open.spotify.com/artist/4x6fGvDyGYKei3Dc3u1MkU"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Aka Dimma",
+      "url": "https://open.spotify.com/track/7ybndf4MzTpR82PWkPkoUT"
     },
     {
       "added_at": "2026-09-11 00:01:30",

@@ -1,28 +1,76 @@
 {
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368497,
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
+  "num_followers": 368502,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP983gn38ir9glxNsdjp6q8N5Y4E",
+  "snapshot_id": "AAAAAAZMjI+V3O0wCNTf0gtfwaKPmI23",
   "tracks": [
     {
-      "added_at": "2026-09-04 15:23:08",
+      "added_at": "2026-09-11 05:19:39",
       "album": {
-        "name": "AL ESTILO JALISCO",
-        "url": "https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc"
+        "name": "Jalisco",
+        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
         }
       ],
-      "duration_ms": 278590,
-      "name": "TRAIGO UNA SED",
-      "url": "https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ"
+      "duration_ms": 208266,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
+    },
+    {
+      "added_at": "2026-09-11 05:19:39",
+      "album": {
+        "name": "No Supe Decirte Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5fffhFRgu2sU3atARR08OX"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/0ZurpDmerVE3LO5T03umQx"
+    },
+    {
+      "added_at": "2026-09-11 05:19:39",
+      "album": {
+        "name": "Una Derrota As\u00ed",
+        "url": "https://open.spotify.com/album/3r2keczpuKZSXyq2Qxz097"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Una Derrota As\u00ed",
+      "url": "https://open.spotify.com/track/11TFR26C3CFhkWmRhvH8je"
+    },
+    {
+      "added_at": "2026-09-11 05:19:39",
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180865,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
     },
     {
-      "added_at": "2026-09-04 15:23:08",
+      "added_at": "2026-09-11 05:19:39",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -71,22 +119,6 @@
       "duration_ms": 173500,
       "name": "Incompatibles",
       "url": "https://open.spotify.com/track/4juql59uxr41uXNRuDpm5V"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "La M\u00e1s Fina",
-        "url": "https://open.spotify.com/album/0zD8jsVdIqQNXC8zMobhsX"
-      },
-      "artists": [
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "La M\u00e1s Fina",
-      "url": "https://open.spotify.com/track/3uQ3Y6adjNz3TejsibvWwA"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -111,22 +143,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Sabor A Ti",
-        "url": "https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Sabor A Ti",
-      "url": "https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Sin Despedida",
         "url": "https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y"
       },
@@ -147,6 +163,38 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 174528,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "duration_ms": 208174,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "Bandera Blanca",
         "url": "https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0"
       },
@@ -163,6 +211,22 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "Fuertes Declaraciones",
+        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Fuertes Declaraciones",
+      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "El Culpable",
         "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
       },
@@ -175,6 +239,22 @@
       "duration_ms": 213575,
       "name": "El Culpable",
       "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "AL ESTILO JALISCO",
+        "url": "https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 278590,
+      "name": "TRAIGO UNA SED",
+      "url": "https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -199,38 +279,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "De Otro Planeta",
-        "url": "https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Un Vals",
         "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
@@ -247,18 +295,34 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
       "artists": [
         {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 208174,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
+      "duration_ms": 176741,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "De Otro Planeta",
+        "url": "https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -295,22 +359,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Por Un Mal Amor",
         "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
@@ -331,50 +379,18 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW"
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 174528,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Segunda Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Se Me Olvid\u00f3 Otra Vez",
-        "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 176741,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -399,18 +415,18 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Fuertes Declaraciones",
-        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
+        "name": "Segunda Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 151455,
-      "name": "Fuertes Declaraciones",
-      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
+      "duration_ms": 209942,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -427,22 +443,6 @@
       "duration_ms": 163058,
       "name": "D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Besitos Al Contado",
-        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Besitos Al Contado",
-      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+        "name": "Sabor A Ti",
+        "url": "https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+      "duration_ms": 159923,
+      "name": "Sabor A Ti",
+      "url": "https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "Yo No Se Que Me Paso",
         "url": "https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 183993,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -751,6 +783,22 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "La M\u00e1s Fina",
+        "url": "https://open.spotify.com/album/0zD8jsVdIqQNXC8zMobhsX"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "La M\u00e1s Fina",
+      "url": "https://open.spotify.com/track/3uQ3Y6adjNz3TejsibvWwA"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
       },
@@ -767,26 +815,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "El Conejo De La Luna",
-        "url": "https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4"
-      },
-      "artists": [
-        {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "El Conejo De La Luna",
-      "url": "https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "El Adi\u00f3s Ranchero",
         "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
@@ -799,6 +827,38 @@
       "duration_ms": 170997,
       "name": "El Adi\u00f3s Ranchero",
       "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Besitos Al Contado",
+        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Besitos Al Contado",
+      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -831,22 +891,6 @@
       "duration_ms": 172422,
       "name": "Una Limosna",
       "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Finjamos",
-        "url": "https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 177891,
-      "name": "Finjamos",
-      "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1079,22 +1123,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
@@ -1143,22 +1171,6 @@
       "duration_ms": 189162,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1231,22 +1243,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
       },
@@ -1263,22 +1259,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Porque la vida fue tan injusta",
-        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
-      },
-      "artists": [
-        {
-          "name": "Mariacho Ay Ay Ay",
-          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
-        }
-      ],
-      "duration_ms": 182424,
-      "name": "Porque la vida fue tan injusta",
-      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Si Ya Te Valgo",
         "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
       },
@@ -1291,6 +1271,22 @@
       "duration_ms": 149500,
       "name": "Si Ya Te Valgo",
       "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Porque la vida fue tan injusta",
+        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 182424,
+      "name": "Porque la vida fue tan injusta",
+      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1323,22 +1319,6 @@
       "duration_ms": 238500,
       "name": "Un Abrazo - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Despu\u00e9s de ti",
-        "url": "https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf"
-      },
-      "artists": [
-        {
-          "name": "Victor Rodhes",
-          "url": "https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Despu\u00e9s de ti",
-      "url": "https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC"
     }
   ],
   "unique_name": "Mariachi 2026",

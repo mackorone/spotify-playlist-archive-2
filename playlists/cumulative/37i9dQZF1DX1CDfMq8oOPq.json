@@ -5161,6 +5161,28 @@
     },
     {
       "album": {
+        "name": "Modo Baddie",
+        "url": "https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb"
+      },
+      "artists": [
+        {
+          "name": "Emilly Guedes",
+          "url": "https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr"
+        },
+        {
+          "name": "Xizoh",
+          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Modo Baddie",
+      "url": "https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx"
+    },
+    {
+      "album": {
         "name": "\u00c0T\u00daNWA",
         "url": "https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL"
       },
@@ -8292,7 +8314,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 158048,
       "name": "Supercine",
       "url": "https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F"

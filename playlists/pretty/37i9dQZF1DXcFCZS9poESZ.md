@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,539 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,551 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 24 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 |
 | 25 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
 | 26 | [愛よ　ファラウェイ](https://open.spotify.com/track/34DdWdz35Zlfu8BOHmv2g3) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [青春したい](https://open.spotify.com/album/2Bvzzo7LW4efdBu9UhdAik) | 3:51 |
-| 27 | [悲しみはBEATに変えて～Rise and Shine～](https://open.spotify.com/track/4jHquaG92Yq7rL8W6VuezN) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [陽あたり良好! オリジナル・ソング・ブック](https://open.spotify.com/album/0TXnjVzRuZPw1q9Dr7AqGU) | 5:00 |
+| 27 | [悲しみはBEATに変えて～Rise and Shine～](https://open.spotify.com/track/4jHquaG92Yq7rL8W6VuezN) | [Amii Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [陽あたり良好! オリジナル・ソング・ブック](https://open.spotify.com/album/0TXnjVzRuZPw1q9Dr7AqGU) | 5:00 |
 | 28 | [RUNNING TO HORIZON](https://open.spotify.com/track/5VNKSlBMkJEFpuWdyKicV8) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/6qJzxWUbaoIaFqs6lKSbt0) | 4:53 |
 | 29 | [燃えてヒーロー](https://open.spotify.com/track/3Z2elIIIrjRbAIL1kkPz2I) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト　沖田浩之](https://open.spotify.com/album/4so0PTeYuLdKE7vDdxrsFe) | 3:00 |
 | 30 | [恋はくえすちょん](https://open.spotify.com/track/3QIqA4XilRURrB1Efvynmv) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [NON\-STOP おニャン子](https://open.spotify.com/album/2Yoyu0axwOIB9rGkxTewXJ) | 3:10 |

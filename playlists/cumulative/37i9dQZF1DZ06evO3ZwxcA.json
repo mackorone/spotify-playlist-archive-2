@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits (The Atlantic Years)",
+        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Here We Go - Previously Unreleased",
+      "url": "https://open.spotify.com/track/4YrYTcdJI8JBW43Q6NqIaq"
+    },
+    {
+      "album": {
         "name": "Murdered Love",
         "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 55866,
       "name": "Psalm 150",
       "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"

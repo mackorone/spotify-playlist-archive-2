@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,397 songs - 3 day 10 hr 17 min
+1,398 songs - 3 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [MOVE \(T5\)](https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [MOVE \(T5\)](https://open.spotify.com/album/3KDNE3XSLZWqHo1OVq55Ge) | 3:28 | 2023-06-29 | 2023-07-31 |
 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 | 2023-07-02 |
 | [Music Box : Reflection](https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:10 | 2022-07-16 | 2022-07-19 |
+| [My Friend](https://open.spotify.com/track/1GiP26gz7ODqQ8dxweTPo7) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [My Friend](https://open.spotify.com/album/1vTNkJ8EUpq7Ju50nwKFBQ) | 2:54 | 2026-09-11 |  |
 | [My Life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [My Life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-22 | 2022-01-27 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-07-28 | 2021-07-30 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-11-13 | 2024-02-01 |
@@ -965,7 +966,7 @@
 | [คำตอบ](https://open.spotify.com/track/1lD1Pjy7rNDOny7nFqmUHJ) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Safeboys](https://open.spotify.com/album/31PTsm7KH7Ad8ZXLXaJR2g) | 5:19 | 2021-07-13 | 2021-08-22 |
 | [คำตอบสุดท้าย](https://open.spotify.com/track/6d9rWFahtOYiNblK9dvqK2) | [AirBorne](https://open.spotify.com/artist/2uPPduOPqzYiWESkxR1SpB) | [AirBorne](https://open.spotify.com/album/1eCenknqFafsaOiVrjQHrT) | 3:55 | 2025-08-15 | 2025-11-02 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2021-10-13 | 2022-07-30 |
-| [คำยินดี](https://open.spotify.com/track/1ur8R3ThdEg3BdD844G6Mw) | [KLEAR](https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6) | [The Storyteller](https://open.spotify.com/album/4yQxEu3dpiQxsxj8qK36W3) | 4:26 | 2026-04-13 |  |
+| [คำยินดี](https://open.spotify.com/track/1ur8R3ThdEg3BdD844G6Mw) | [KLEAR](https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6) | [The Storyteller](https://open.spotify.com/album/4yQxEu3dpiQxsxj8qK36W3) | 4:26 | 2026-04-13 | 2026-09-12 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/0JStm1Ns9Ya2zQhbqMDYEU) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 4:26 | 2021-03-27\* | 2022-04-13 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/6zZsio19rHayse0WDDLboq) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/6oMNFvZbljDYMCPwNRQSL7) | 4:26 | 2025-06-01 | 2026-04-19 |
 | [คิดถึงฉันไหมเวลาที่เธอ...](https://open.spotify.com/track/0NrdH75exgYJWrF5M7fblm) | [Taxi](https://open.spotify.com/artist/7GYGQbPxBVlemT6gxPs8Yk) | [Full Option](https://open.spotify.com/album/1PXXNhP471j492Fjb93eAg) | 4:24 | 2026-02-03 | 2026-07-03 |

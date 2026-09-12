@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 178666,
       "name": "127 Hz - 135 Hz Alpha Zone",
       "url": "https://open.spotify.com/track/1PdW6nxn7SZNG4EwHmAl1C"
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Alpha Clarity 100 Hz - 108 Hz",
+        "url": "https://open.spotify.com/album/7dRhjbelIeepNT3lUt51TS"
+      },
+      "artists": [
+        {
+          "name": "Auvr\u0113",
+          "url": "https://open.spotify.com/artist/0W1xiJN2900ueri58uwQ7B"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163402,
+      "name": "Alpha Clarity 100 Hz - 108 Hz",
+      "url": "https://open.spotify.com/track/188G2aOJICaAHEv7sTt97Z"
+    },
+    {
+      "album": {
         "name": "Alpha Cognitive Drift 110 Hz - 118 Hz",
         "url": "https://open.spotify.com/album/5vBC7LtXMznXmbscdj3HzN"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 173101,
       "name": "Alpha Flow State 131Hz - 143Hz",
       "url": "https://open.spotify.com/track/2gmVwgaGyRtXdyRZIWBVuO"
@@ -700,10 +718,28 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 155016,
       "name": "Alpha Peace Within 103 Hz - 112 Hz",
       "url": "https://open.spotify.com/track/77BnBbqrol0vtiJxBamvfp"
+    },
+    {
+      "album": {
+        "name": "Alpha Portal 96 Hz - 104 Hz",
+        "url": "https://open.spotify.com/album/00nZWPyHKZur2O2Ma2R4mP"
+      },
+      "artists": [
+        {
+          "name": "Veyrloom",
+          "url": "https://open.spotify.com/artist/1iusMgq6cU6KnCAdcMoKmf"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185317,
+      "name": "Alpha Portal 96 Hz - 104 Hz",
+      "url": "https://open.spotify.com/track/79ZM05i1UnweckYM6F8YHL"
     },
     {
       "album": {
@@ -1046,6 +1082,24 @@
       "duration_ms": 275751,
       "name": "Alpha Thoughts 107Hz - 114Hz",
       "url": "https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b"
+    },
+    {
+      "album": {
+        "name": "Alpha Transcendence 100 Hz - 108 Hz",
+        "url": "https://open.spotify.com/album/0fQSx53w6emD27fX2pBtHa"
+      },
+      "artists": [
+        {
+          "name": "Hertiva",
+          "url": "https://open.spotify.com/artist/74FEcZMe3NSWC7TrZvmBOw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143603,
+      "name": "Alpha Transcendence 100 Hz - 108 Hz",
+      "url": "https://open.spotify.com/track/73K26CiXzRVe2V5R46akUV"
     },
     {
       "album": {
@@ -1420,7 +1474,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 132753,
       "name": "Binaural Alpha Sinus 101Hz - 108Hz",
       "url": "https://open.spotify.com/track/1TgKmz3xe3YR39szc6h9mD"
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 147784,
       "name": "Binaural Alpha Sinus 110Hz - 121Hz",
       "url": "https://open.spotify.com/track/2Qme02owJbj1RXzZd7fiWM"
@@ -2129,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Bound by Fate Alpha 118Hz - 129Hz",
+        "url": "https://open.spotify.com/album/7HVeVLmsqHvnl7oOcrlxjO"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142216,
+      "name": "Bound by Fate Alpha 118Hz - 129Hz",
+      "url": "https://open.spotify.com/track/5K27YUVuzdQnwIZEWeLtg5"
+    },
+    {
+      "album": {
         "name": "Binaural Alpha Drones",
         "url": "https://open.spotify.com/album/4TBjl8rcL9GjOCeYYq4ee9"
       },
@@ -2147,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Bright Soul Alpha 138Hz - 149Hz",
+        "url": "https://open.spotify.com/album/0sAoJPFqvTcVWeuRmTvflr"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Bright Soul Alpha 138Hz - 149Hz",
+      "url": "https://open.spotify.com/track/78rP4kq4eADF0ryFmVrbMj"
+    },
+    {
+      "album": {
         "name": "Celestial Harmony 64.2Hz - 64.6Hz",
         "url": "https://open.spotify.com/album/1b7Wd9zvG87yzTCYqYo6cy"
       },
@@ -2162,6 +2252,24 @@
       "duration_ms": 163176,
       "name": "Celestial Harmony 64.2Hz - 64.6Hz",
       "url": "https://open.spotify.com/track/2bKewy3CUaR5wZ9CNdQTvV"
+    },
+    {
+      "album": {
+        "name": "Charms Alpha 100 Hz - 108 Hz",
+        "url": "https://open.spotify.com/album/3f2rQcK7pZ1XT25tnv1vvu"
+      },
+      "artists": [
+        {
+          "name": "Eelyrion",
+          "url": "https://open.spotify.com/artist/3sGhodeMqHj0JDOBfykG40"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Charms Alpha 100 Hz - 108 Hz",
+      "url": "https://open.spotify.com/track/11g0hNvkBI0JEWJxV1cEZd"
     },
     {
       "album": {
@@ -2252,6 +2360,24 @@
       "duration_ms": 171854,
       "name": "Closure Theta 96 Hz - 101 Hz",
       "url": "https://open.spotify.com/track/5a8eLniXMEkT3ipqYM0K79"
+    },
+    {
+      "album": {
+        "name": "Cold Noon (Theta 93.1-98.5 Hz)",
+        "url": "https://open.spotify.com/album/0NHd27rlBPegk6xOs83Z9b"
+      },
+      "artists": [
+        {
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cold Noon (Theta 93.1-98.5 Hz)",
+      "url": "https://open.spotify.com/track/1A4HrX1je3xQtiXh96gHeK"
     },
     {
       "album": {
@@ -2507,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Dimmed Lights (Alpha 65hz-73hz)",
+        "url": "https://open.spotify.com/album/55avDhdsaR5oigpy9azjT5"
+      },
+      "artists": [
+        {
+          "name": "aerlyn",
+          "url": "https://open.spotify.com/artist/75XLQ2rF3h04q9AoFXqJFE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168801,
+      "name": "Dimmed Lights (Alpha 65hz-73hz)",
+      "url": "https://open.spotify.com/track/1xpUmkVWBOd3fcu4w3wimA"
+    },
+    {
+      "album": {
         "name": "Binaural Bliss",
         "url": "https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo"
       },
@@ -2705,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Eternal Alpha 61hz - 68hz",
+        "url": "https://open.spotify.com/album/5X2IK9zxjyVaYpeqfYMqab"
+      },
+      "artists": [
+        {
+          "name": "Eelyrion",
+          "url": "https://open.spotify.com/artist/3sGhodeMqHj0JDOBfykG40"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Eternal Alpha 61hz - 68hz",
+      "url": "https://open.spotify.com/track/6PbVR0eHjIn8StPKAP773c"
+    },
+    {
+      "album": {
         "name": "Attractive Alpha",
         "url": "https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z"
       },
@@ -2756,6 +2918,24 @@
       "duration_ms": 161583,
       "name": "Fantasia - Alpha Sinus 95Hz - 103Hz",
       "url": "https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry"
+    },
+    {
+      "album": {
+        "name": "Fey Alpha 94 Hz - 102 Hz",
+        "url": "https://open.spotify.com/album/2kxjMVl5ZphUXKK5Ao2jPw"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160006,
+      "name": "Fey Alpha 94 Hz - 102 Hz",
+      "url": "https://open.spotify.com/track/1pCmjiamFyX6Wtk9dAirqA"
     },
     {
       "album": {
@@ -2860,7 +3040,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 189953,
       "name": "forest of sun (Alpha 110 - 122 Hz)",
       "url": "https://open.spotify.com/track/3DjXbleUnCkwtrHMxA21D6"
@@ -2896,7 +3076,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 153600,
       "name": "Fragments Alpha 50Hz - 59Hz",
       "url": "https://open.spotify.com/track/1jGmBL9zm2WXYUKUVGCk8V"
@@ -3047,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Half Awake Theta 4 Hz",
+        "url": "https://open.spotify.com/album/3m7Hhfk9uwQ4O9SRXKmuVk"
+      },
+      "artists": [
+        {
+          "name": "Luma Nor",
+          "url": "https://open.spotify.com/artist/1zrl555nHbljwzC2212LYm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163915,
+      "name": "Half Awake Theta 4 Hz",
+      "url": "https://open.spotify.com/track/6MUGeNNCfweafPoaiM9Jny"
+    },
+    {
+      "album": {
         "name": "Sound Bath",
         "url": "https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw"
       },
@@ -3076,7 +3274,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 258000,
       "name": "Healing Light Alpha (102Hz - 110Hz)",
       "url": "https://open.spotify.com/track/3UysVmruVKPP9b7kUFMsSP"
@@ -3188,6 +3386,24 @@
       "duration_ms": 193972,
       "name": "Improved Creativity Theta 7Hz",
       "url": "https://open.spotify.com/track/3uh18fpoK2Gdur5MEYNikk"
+    },
+    {
+      "album": {
+        "name": "In My Dreams (Alpha 104hz-112hz)",
+        "url": "https://open.spotify.com/album/1NNvFGHn6nIIt9z5FIz9GA"
+      },
+      "artists": [
+        {
+          "name": "aerlyn",
+          "url": "https://open.spotify.com/artist/75XLQ2rF3h04q9AoFXqJFE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166846,
+      "name": "In My Dreams (Alpha 104hz-112hz)",
+      "url": "https://open.spotify.com/track/1deNXkqCwDuR1a7FgX0XMu"
     },
     {
       "album": {
@@ -3713,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Moonlit (Alpha 110hz - 122hz)",
+        "url": "https://open.spotify.com/album/2pzNYOZp1RdmPrp7pKR3vN"
+      },
+      "artists": [
+        {
+          "name": "aerlyn",
+          "url": "https://open.spotify.com/artist/75XLQ2rF3h04q9AoFXqJFE"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159027,
+      "name": "Moonlit (Alpha 110hz - 122hz)",
+      "url": "https://open.spotify.com/track/5tkE6SIXIClRcduuGbYYgb"
+    },
+    {
+      "album": {
         "name": "Deep Ocean",
         "url": "https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP"
       },
@@ -3785,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Nebulora - Theta (78 - 84 Hz)",
+        "url": "https://open.spotify.com/album/2yaYFpiJqegfN1h8Qi0PZ5"
+      },
+      "artists": [
+        {
+          "name": "Eural",
+          "url": "https://open.spotify.com/artist/50x43BjaV7dRtBZkdrRNJo"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178872,
+      "name": "Nebulora - Theta (78 - 84 Hz)",
+      "url": "https://open.spotify.com/track/1E4pmmSx8bQCtcCoptBApL"
+    },
+    {
+      "album": {
         "name": "Neptunium Theta 4 Hz",
         "url": "https://open.spotify.com/album/5jUBUOqZODoiFcjdpjHFON"
       },
@@ -3800,6 +4052,24 @@
       "duration_ms": 194181,
       "name": "Neptunium Theta 4 Hz",
       "url": "https://open.spotify.com/track/1wxhO6Vf7NtlSHbl2ykH5z"
+    },
+    {
+      "album": {
+        "name": "Neural Flow Alpha 106 Hz - 114 Hz",
+        "url": "https://open.spotify.com/album/7tDBzTKGfqk2XNlrT8QAFp"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4rien",
+          "url": "https://open.spotify.com/artist/1hQYAacH5Hdg18o2liZcXQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Neural Flow Alpha 106 Hz - 114 Hz",
+      "url": "https://open.spotify.com/track/2FdQghSv3R52w02dTNVSjF"
     },
     {
       "album": {
@@ -3875,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Observatory Alpha 98 Hz - 110 Hz",
+        "url": "https://open.spotify.com/album/1Wg7cS8pib007tHH1We0cW"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166772,
+      "name": "Observatory Alpha 98 Hz - 110 Hz",
+      "url": "https://open.spotify.com/track/2wntU3D9E5VwKYN71fE6qr"
+    },
+    {
+      "album": {
         "name": "Ocean of Beauty",
         "url": "https://open.spotify.com/album/6JOxajCyVgdEOcQw4k1jAG"
       },
@@ -3940,7 +4228,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 190866,
       "name": "Om Release (7 Hz Theta Stress Release)",
       "url": "https://open.spotify.com/track/41kUVhqSi1VyHXF9Mk2lsT"
@@ -4019,6 +4307,42 @@
     },
     {
       "album": {
+        "name": "Peaceful Alpha 65-71hz",
+        "url": "https://open.spotify.com/album/2aA0b9lDU4hK447gMeQ1bD"
+      },
+      "artists": [
+        {
+          "name": "Tom Vode",
+          "url": "https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Peaceful Alpha 65-71hz",
+      "url": "https://open.spotify.com/track/656jOFXmkDET0CAxRb5Ban"
+    },
+    {
+      "album": {
+        "name": "Peaceful Passage Alpha 122Hz - 132Hz",
+        "url": "https://open.spotify.com/album/1LQJBIwruxqSbLnzTlOtVF"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Peaceful Passage Alpha 122Hz - 132Hz",
+      "url": "https://open.spotify.com/track/68Ie9WjuHxu23p6eXUDpSi"
+    },
+    {
+      "album": {
         "name": "Pulse of Calm Alpha (98Hz\u2013106Hz)",
         "url": "https://open.spotify.com/album/6m5uh7ucRfweDubwMynfXn"
       },
@@ -4066,7 +4390,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 159250,
       "name": "Purity Alpha Waves (112 - 120 Hz)",
       "url": "https://open.spotify.com/track/6CSLzoT2b79JvpSo725J9j"
@@ -4480,7 +4804,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 150500,
       "name": "Soft Resonance Alpha (130 Hz - 138 Hz)",
       "url": "https://open.spotify.com/track/6MayTo0b3CfzgWPYTebICP"
@@ -4502,6 +4826,24 @@
       "duration_ms": 172380,
       "name": "Sognare Alpha Sinus 68-78 Hz",
       "url": "https://open.spotify.com/track/4LYNFbKtm5C6FWpz88ZkqR"
+    },
+    {
+      "album": {
+        "name": "Solar Systems Alpha 8 Hz",
+        "url": "https://open.spotify.com/album/2bxCnEbWTscv7SJf9naCAU"
+      },
+      "artists": [
+        {
+          "name": "Luma Nor",
+          "url": "https://open.spotify.com/artist/1zrl555nHbljwzC2212LYm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Solar Systems Alpha 8 Hz",
+      "url": "https://open.spotify.com/track/2sATLa3tH2X6NLUNiI1rBZ"
     },
     {
       "album": {
@@ -4840,7 +5182,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 181097,
       "name": "Theta Blossom 107 Hz - 113 Hz",
       "url": "https://open.spotify.com/track/6xmqpU7vn0W92U4lJxyPRJ"
@@ -4937,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Theta Drift 7Hz",
+        "url": "https://open.spotify.com/album/2E7HUrEZOzA8XNODvO97iz"
+      },
+      "artists": [
+        {
+          "name": "Lenny Ramone",
+          "url": "https://open.spotify.com/artist/4YgQYvEw7JmR7WfQfY8kjj"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Theta Drift 7Hz",
+      "url": "https://open.spotify.com/track/3N1bq1oLUASK1TJrq2pZUy"
+    },
+    {
+      "album": {
         "name": "Theta Brainwaves For Relaxation",
         "url": "https://open.spotify.com/album/6Fk6Anwh1USlmRbz21IWt3"
       },
@@ -5009,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Theta Mind 150 Hz - 157 Hz",
+        "url": "https://open.spotify.com/album/02kVXs6YDs9Cl2vqadOxGM"
+      },
+      "artists": [
+        {
+          "name": "Moss Halo",
+          "url": "https://open.spotify.com/artist/6wqRBYlhl3lWjQ3iO7uabQ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164639,
+      "name": "Theta Mind 150 Hz - 157 Hz",
+      "url": "https://open.spotify.com/track/6xW56rn4YH36yaadalpMDa"
+    },
+    {
+      "album": {
         "name": "Binaural Dreams",
         "url": "https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6"
       },
@@ -5078,6 +5456,24 @@
       "duration_ms": 179515,
       "name": "Theta mood 89 - 83hz",
       "url": "https://open.spotify.com/track/1C5nzIpTfKmnj1epdHxECw"
+    },
+    {
+      "album": {
+        "name": "Theta Realm 78-84 Hz",
+        "url": "https://open.spotify.com/album/7AVv4x3gB0KXlRLs65Ybe3"
+      },
+      "artists": [
+        {
+          "name": "Vox Lumi",
+          "url": "https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Theta Realm 78-84 Hz",
+      "url": "https://open.spotify.com/track/0UhNO1jn9mjrZWLV005cnR"
     },
     {
       "album": {
@@ -5330,6 +5726,24 @@
       "duration_ms": 222000,
       "name": "Under The Rainbow - Alpha Sinus 95Hz - 103Hz",
       "url": "https://open.spotify.com/track/4bFFRIFI3T3e03sLl6iG7W"
+    },
+    {
+      "album": {
+        "name": "Under Water Alpha 87hz-95hz",
+        "url": "https://open.spotify.com/album/2G5Zpy7ciE8LC3tRn9Ihr3"
+      },
+      "artists": [
+        {
+          "name": "Luma Nor",
+          "url": "https://open.spotify.com/artist/1zrl555nHbljwzC2212LYm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181808,
+      "name": "Under Water Alpha 87hz-95hz",
+      "url": "https://open.spotify.com/track/0kne2q3c3B7jVEY7XD1YQ9"
     },
     {
       "album": {

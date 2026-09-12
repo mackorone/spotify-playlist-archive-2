@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: DA Uzi",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -418,6 +418,28 @@
       "duration_ms": 183986,
       "name": "27",
       "url": "https://open.spotify.com/track/7aKe0HwSETaLXjsgDnWJup"
+    },
+    {
+      "album": {
+        "name": "infinite money glitch",
+        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
+      },
+      "artists": [
+        {
+          "name": "Peypo",
+          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
+        },
+        {
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107540,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
     },
     {
       "album": {
@@ -3170,7 +3192,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 166000,
       "name": "CHOUCHOU",
       "url": "https://open.spotify.com/track/3uXidY01yR5pKdk7xTGSn4"
@@ -6119,6 +6141,24 @@
     },
     {
       "album": {
+        "name": "HAN HAN",
+        "url": "https://open.spotify.com/album/5tD28iJQaqO0cdc4mLSwdP"
+      },
+      "artists": [
+        {
+          "name": "26keuss",
+          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158866,
+      "name": "HAN HAN",
+      "url": "https://open.spotify.com/track/59N8MVERvOGmiS54RuF5t7"
+    },
+    {
+      "album": {
         "name": "Harry Potter",
         "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
       },
@@ -6168,6 +6208,28 @@
       "duration_ms": 135600,
       "name": "Haut les mains",
       "url": "https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0"
+    },
+    {
+      "album": {
+        "name": "Histoire sans fin",
+        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "MATHILDE",
+          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209617,
+      "name": "Histoire sans fin",
+      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
     },
     {
       "album": {
@@ -7729,6 +7791,24 @@
     },
     {
       "album": {
+        "name": "La vie qu'on m\u00e9rite",
+        "url": "https://open.spotify.com/album/1Pd7rZEqiq0H6rVM2LVafu"
+      },
+      "artists": [
+        {
+          "name": "Kpoint",
+          "url": "https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136688,
+      "name": "La vie qu'on m\u00e9rite",
+      "url": "https://open.spotify.com/track/7DOl8ca3uZoIpTR4o8PHOn"
+    },
+    {
+      "album": {
         "name": "La Vraie Vie (Freestyle des Flammes)",
         "url": "https://open.spotify.com/album/3YKokVCs4GaS1TCPMBJWNZ"
       },
@@ -8405,6 +8485,28 @@
     },
     {
       "album": {
+        "name": "los machucambos",
+        "url": "https://open.spotify.com/album/3oFZsXpfYDCypWCrhzxb9h"
+      },
+      "artists": [
+        {
+          "name": "FILOU",
+          "url": "https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102977,
+      "name": "los machucambos",
+      "url": "https://open.spotify.com/track/4nBwEYEr9AYdC257rVbf1o"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/0JkfhvuPHVyIUAzUa6cxvh"
       },
@@ -8620,7 +8722,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 220327,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/2y4m6INRnuGtmF0nwaZbNx"
@@ -8820,7 +8922,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 163199,
       "name": "Maradona",
       "url": "https://open.spotify.com/track/2dTrVHZNTqbPbiwhQK60Kk"
@@ -10253,6 +10355,24 @@
     },
     {
       "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
+      "album": {
         "name": "OBLIGER",
         "url": "https://open.spotify.com/album/570mZZfnnac0O31hyfqHoP"
       },
@@ -10392,7 +10512,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 161048,
       "name": "OMG",
       "url": "https://open.spotify.com/track/0kTOcgNY8VaX0hFvdAjJTk"
@@ -10410,7 +10530,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 168461,
       "name": "On dort pas",
       "url": "https://open.spotify.com/track/4P4CgJm0ganaDLF9FuJRef"
@@ -10506,6 +10626,24 @@
       "duration_ms": 154000,
       "name": "Opps",
       "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR"
     },
     {
       "album": {
@@ -10620,6 +10758,24 @@
     {
       "album": {
         "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+    },
+    {
+      "album": {
+        "name": "Pangor (Swalalala)",
         "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
       },
       "artists": [
@@ -10630,7 +10786,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 121704,
       "name": "Pangor (Swalalala)",
       "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
@@ -11124,7 +11280,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 201869,
       "name": "Piccolo",
       "url": "https://open.spotify.com/track/39A2IZP01oRxruOtnhX9ai"
@@ -11164,7 +11320,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 171124,
       "name": "pierrafeu",
       "url": "https://open.spotify.com/track/2jRfrIllqZ54j0yQ3UVWB6"
@@ -12078,7 +12234,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 188976,
       "name": "Remember",
       "url": "https://open.spotify.com/track/6zUPIHnHKSe2HUu3EcwG3l"
@@ -13937,6 +14093,28 @@
     },
     {
       "album": {
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "TERIYAKI - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+    },
+    {
+      "album": {
         "name": "TEXAS",
         "url": "https://open.spotify.com/album/0BL96t8HPKgy0wrgTVZajW"
       },
@@ -14302,7 +14480,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 164840,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF"
@@ -14390,6 +14568,28 @@
       "duration_ms": 173131,
       "name": "Treillis",
       "url": "https://open.spotify.com/track/0HvFtyJntGuciaRDMKLkqu"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/6bbyG7o8cIT2nDR6a2rjZv"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
+        },
+        {
+          "name": "Ricky Bishop",
+          "url": "https://open.spotify.com/artist/1BgUbirVqg7MnHDThNqOil"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140622,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6kxwRi9daiaV1c6wWQmwVi"
     },
     {
       "album": {

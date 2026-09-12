@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: White Chorus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,893 likes - 98 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,905 likes - 98 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 97 | [count\-up\. \(feat\. VivaOla\)](https://open.spotify.com/track/2Ur8I59v4Kvn61AMHrEtRU) | [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [cheqpoint.](https://open.spotify.com/album/1T3blTRNZnDpsjq2UKdP9a) | 2:27 |
 | 98 | [moody](https://open.spotify.com/track/2L1W7BoVajQJxiuNmhGOlD) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [moody](https://open.spotify.com/album/3pt1EcqfVLgp2aI8sbfgOr) | 2:36 |
 
-Snapshot ID: `AAAAAIRrh5ETy7LErq2Fl1nOqqHJ14zw`
+Snapshot ID: `AAAAAMPRYAVnBh/RWi6cjYoBS0wkI4sq`

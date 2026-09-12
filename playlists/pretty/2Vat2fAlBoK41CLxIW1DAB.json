@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1582,
+  "num_followers": 1585,
   "original_name": "Rock Square",
   "owner": {
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEsfJqfKQt2pnR+FWPA5accvrd9HXf",
+  "snapshot_id": "AAAEwcnHNAe/oGIZphrnn/wTnhkpa0Xd",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -19123,6 +19123,246 @@
       "duration_ms": 196002,
       "name": "DEAD TO ME",
       "url": "https://open.spotify.com/track/3qMCxw1Ft0kwAlxd95U1m8"
+    },
+    {
+      "added_at": "2026-09-11 10:24:32",
+      "album": {
+        "name": "Love of the Serpentine Eye",
+        "url": "https://open.spotify.com/album/4soq1eHeHhiu3FMBnNoZxk"
+      },
+      "artists": [
+        {
+          "name": "Blackened Rose",
+          "url": "https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL"
+        }
+      ],
+      "duration_ms": 323500,
+      "name": "Love of the Serpentine Eye",
+      "url": "https://open.spotify.com/track/2qIDd2pSNHfXiTQatlDd28"
+    },
+    {
+      "added_at": "2026-09-11 10:24:32",
+      "album": {
+        "name": "Just Humans",
+        "url": "https://open.spotify.com/album/3HzLNHXuYmoUdZE9NDhxnO"
+      },
+      "artists": [
+        {
+          "name": "RESENTLESS.",
+          "url": "https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Just Humans",
+      "url": "https://open.spotify.com/track/2eIIgC8PlHyV6tsnpuF2Op"
+    },
+    {
+      "added_at": "2026-09-11 10:24:33",
+      "album": {
+        "name": "Halloween Night",
+        "url": "https://open.spotify.com/album/7L9bRolfK8GCFj5tY2E9lh"
+      },
+      "artists": [
+        {
+          "name": "Track Five",
+          "url": "https://open.spotify.com/artist/5vBZdW4lrU0f3dcdXrnThT"
+        }
+      ],
+      "duration_ms": 178112,
+      "name": "Halloween Night",
+      "url": "https://open.spotify.com/track/39egeiZo32iVl7GkJXRIU0"
+    },
+    {
+      "added_at": "2026-09-11 10:24:34",
+      "album": {
+        "name": "If You Were a Dinosaur, What Kind of Dinosaur Would You Be?",
+        "url": "https://open.spotify.com/album/6sXCeFOcpwkGOGpcPah68v"
+      },
+      "artists": [
+        {
+          "name": "Magnetfisch",
+          "url": "https://open.spotify.com/artist/1kSxv7KegqfXIQXpD4zZhX"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Mortal Wombat",
+      "url": "https://open.spotify.com/track/1vK4RA5yZFBZG0XmGhZdHE"
+    },
+    {
+      "added_at": "2026-09-11 10:24:35",
+      "album": {
+        "name": "pretty privilege",
+        "url": "https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG"
+      },
+      "artists": [
+        {
+          "name": "Darro",
+          "url": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+        }
+      ],
+      "duration_ms": 163344,
+      "name": "what's good (the anthem)",
+      "url": "https://open.spotify.com/track/0aO6rUZoppmrP3cy7ThWOn"
+    },
+    {
+      "added_at": "2026-09-11 10:24:35",
+      "album": {
+        "name": "F.A.F.O.",
+        "url": "https://open.spotify.com/album/4Ld62MMDrt8MlGQH8UJGXH"
+      },
+      "artists": [
+        {
+          "name": "AudioCide",
+          "url": "https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel"
+        }
+      ],
+      "duration_ms": 252509,
+      "name": "F.A.F.O.",
+      "url": "https://open.spotify.com/track/0lm3441aIq4fAsLAX4XKZC"
+    },
+    {
+      "added_at": "2026-09-11 10:24:39",
+      "album": {
+        "name": "Have You Heard Your Muse Today?",
+        "url": "https://open.spotify.com/album/5pTt9dounJvnstZN3XHNao"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Have You Heard Your Muse Today?",
+      "url": "https://open.spotify.com/track/5dBXLIn9THvF7UDV6Y6Z49"
+    },
+    {
+      "added_at": "2026-09-11 10:24:39",
+      "album": {
+        "name": "Artificial Conspiracy",
+        "url": "https://open.spotify.com/album/6WzuqwNnivxrEdBOgmfw9D"
+      },
+      "artists": [
+        {
+          "name": "The Scene Redacted",
+          "url": "https://open.spotify.com/artist/4NyHBdwdugIcjZQUi5uoAC"
+        }
+      ],
+      "duration_ms": 242959,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/0mNZ5pNXnNNxA1CIjaY56N"
+    },
+    {
+      "added_at": "2026-09-11 10:24:39",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH"
+      },
+      "artists": [
+        {
+          "name": "Hiding from Humans",
+          "url": "https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Glum",
+      "url": "https://open.spotify.com/track/23ZPR0lgoyjpw9aT1kplH6"
+    },
+    {
+      "added_at": "2026-09-11 10:24:40",
+      "album": {
+        "name": "Boots By The Door",
+        "url": "https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg"
+      },
+      "artists": [
+        {
+          "name": "Frode M\u00f8ller",
+          "url": "https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Boots By The Door",
+      "url": "https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K"
+    },
+    {
+      "added_at": "2026-09-11 10:24:41",
+      "album": {
+        "name": "Smell the Rain",
+        "url": "https://open.spotify.com/album/48vbX4rcyuxyPvWeIeYKQq"
+      },
+      "artists": [
+        {
+          "name": "SUNDRAWN",
+          "url": "https://open.spotify.com/artist/29jhmOjKuBK3iZ9aYXNZ3f"
+        }
+      ],
+      "duration_ms": 246376,
+      "name": "Smell the Rain",
+      "url": "https://open.spotify.com/track/63WO32r0kOJrMUz2ntBE67"
+    },
+    {
+      "added_at": "2026-09-11 10:24:41",
+      "album": {
+        "name": "We Were There",
+        "url": "https://open.spotify.com/album/6xwKEz7497PI2zkcKLmZZM"
+      },
+      "artists": [
+        {
+          "name": "Maxoxpower",
+          "url": "https://open.spotify.com/artist/6W8SaQBwhSJrHTmuefyHGL"
+        }
+      ],
+      "duration_ms": 210879,
+      "name": "Between Two Lights",
+      "url": "https://open.spotify.com/track/6hMcqBjeK8EaCRE3L6x94U"
+    },
+    {
+      "added_at": "2026-09-11 10:24:42",
+      "album": {
+        "name": "Don't Trust Anyone Over 21",
+        "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "duration_ms": 129839,
+      "name": "Basement Beer Pong",
+      "url": "https://open.spotify.com/track/1ExKfwGeB1lIiLyz0iSRtG"
+    },
+    {
+      "added_at": "2026-09-11 10:24:42",
+      "album": {
+        "name": "ESTOY VIEJA",
+        "url": "https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1"
+      },
+      "artists": [
+        {
+          "name": "Elisa Cano Elgarresta",
+          "url": "https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6"
+        }
+      ],
+      "duration_ms": 160084,
+      "name": "ESTOY VIEJA",
+      "url": "https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL"
+    },
+    {
+      "added_at": "2026-09-11 10:24:46",
+      "album": {
+        "name": "Chaos City",
+        "url": "https://open.spotify.com/album/1BCnvOTNk1z5QHEiqJHdis"
+      },
+      "artists": [
+        {
+          "name": "hikage",
+          "url": "https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag"
+        }
+      ],
+      "duration_ms": 165368,
+      "name": "Sprouting",
+      "url": "https://open.spotify.com/track/6AyitMWKVvkg5miRy04qYF"
     }
   ],
   "unique_name": "Rock Square",

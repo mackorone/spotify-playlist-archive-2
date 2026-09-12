@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Rema
 
-1,325 songs - 2 day 16 hr 33 min
+1,326 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,6 +982,7 @@
 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 | 2026-04-10 | 2026-04-25 |
 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 | 2026-06-04 | 2026-06-19 |
 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 | 2025-11-21 | 2025-12-05 |
+| [Run It Up](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 2:22 | 2026-09-10 |  |
 | [Run The Track](https://open.spotify.com/track/5TqqJZBmIVIUxdBNn0UoWC) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Run The Track](https://open.spotify.com/album/3w6oaJfnWtFSzEOOL0NQtq) | 2:46 | 2026-09-10 |  |
 | [Runnin](https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Runnin](https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX) | 2:47 | 2026-01-23 | 2026-02-13 |
 | [Runouts](https://open.spotify.com/track/0Tor2p8EZCeKp8iO3NlFPA) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [Runouts](https://open.spotify.com/album/4g1dJHsnjzvDsTbz36GUnF) | 3:33 | 2026-05-15 | 2026-05-29 |
@@ -1064,6 +1065,7 @@
 | [SNM](https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [SNM](https://open.spotify.com/album/3QXY4VUFSwlCJR3ZFlt9q2) | 3:31 | 2026-05-28 | 2026-06-12 |
 | [SNOW ON THE TABLE](https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [SNOW ON THE TABLE](https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4) | 2:06 | 2026-07-16 | 2026-07-24 |
 | [SO DIFFERENT](https://open.spotify.com/track/6ufzqKn7jDiJ7N28azmS8f) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj) | [IBRAHIM](https://open.spotify.com/album/7cbM0KhouAkTu96uvTrxdS) | 3:22 | 2026-01-02 | 2026-01-16 |
+| [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 | 2026-09-10 |  |
 | [so i can feel again \(feat\. Chlöe\)](https://open.spotify.com/track/6GeBTwuDueDVXIUvsrlXex) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 2:27 | 2025-10-23 | 2025-11-07 |
 | [So LDN](https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [So LDN](https://open.spotify.com/album/7v1RIDQubIyrZRm5nqNRaL) | 2:40 | 2026-04-30 | 2026-05-15 |
 | [Sober \(feat\. Yxng Bane\)](https://open.spotify.com/track/1sxZo69GZnruBNG1lreC7p) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Sober \(feat\. Yxng Bane\)](https://open.spotify.com/album/7907iZvkfjL8Ea5JlAuIpl) | 2:57 | 2026-09-03 |  |
@@ -1202,7 +1204,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 12](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 0:00 | 2026-09-10 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |

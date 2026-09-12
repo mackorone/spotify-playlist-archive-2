@@ -2,9 +2,9 @@
 
 ### [Hecho en Cuba](https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh)
 
-> ¡Música que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona
+> ¡Música que representa a Cuba! Cover: Wampi
 
-202 songs - 11 hr 30 min
+203 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Veces](https://open.spotify.com/track/1c2lJocDQiD2hgXupkYdWz) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/42B1duHMCKPjC2YRNJ1Wy9) | 3:15 | 2022-02-25 | 2026-07-01 |
 | [A Veces](https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/1j599y64H6FzxwnpnbEzfd) | 3:15 | 2022-04-08 | 2022-11-13 |
 | [A Veces](https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [A Veces](https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT) | 3:01 | 2026-06-30 |  |
-| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 |  |
+| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 | 2026-09-12 |
 | [After Party](https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 2:37 | 2024-04-19 |  |
 | [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 | 2022-04-08 | 2022-12-26 |
 | [Apagame la Luz](https://open.spotify.com/track/6KaCsW4E7ETLaukIDRkpon) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 3:25 | 2022-04-08 | 2023-02-11 |
@@ -38,6 +38,7 @@
 | [De Maravilla](https://open.spotify.com/track/2uSMDj5SjyJ8r3LCurBKQ0) | [Desiguales](https://open.spotify.com/artist/3hUoZymiG2iEoFjQl2qGdl) | [El Exterminio](https://open.spotify.com/album/3gAXcqoKPLQzarJn71BGYe) | 4:00 | 2022-02-25 | 2023-03-18 |
 | [De Ping4](https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [De Ping4](https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg) | 2:57 | 2026-06-30 |  |
 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 | 2022-02-25 | 2026-07-01 |
+| [DESIGUAL](https://open.spotify.com/track/3b79ZB2qP8UqvEU9MKNKa7) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [DESIGUAL](https://open.spotify.com/album/0MyxBD1KmBvOTTAVYVUl0Y) | 3:39 | 2026-09-11 |  |
 | [Dichavate](https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Dichavate](https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF) | 4:06 | 2026-06-30 |  |
 | [Dueño De Qué? \(with Lenier & Divan\)](https://open.spotify.com/track/1rAbcmwj0dww7fzuUVBQhJ) | [July Roby](https://open.spotify.com/artist/57cu9wH6iCTECFPINbrPdi), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP) | [Dueño De Qué?](https://open.spotify.com/album/0OirAdRYmG0AvgqcD3y9gs) | 3:30 | 2022-02-25 | 2026-07-01 |
 | [Dándote To' \- Prod\. by Dj Honda x Dave Produce](https://open.spotify.com/track/3SUNpMRAhwDjf4aymN24kv) | [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk), [Dave Produce](https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9) | [Dándote To'](https://open.spotify.com/album/6LrV0bnO1eV7cdUWSKwfFV) | 2:49 | 2026-06-30 |  |

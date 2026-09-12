@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Carlina de Place
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,331 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,340 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [pixel heart](https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [pixel heart](https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m) | 3:04 |
 | 50 | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/track/1gbUMAbVnNBpSHPgMoHS0r) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/album/3tW83tYUsjjATEomFjkhLI) | 3:24 |
 
-Snapshot ID: `AAAAAEQiOVnHi8pdItWRgTJtsJ5mosC1`
+Snapshot ID: `AAAAAM/qSXIo+xUIc978sH1x1D9wH3Kw`

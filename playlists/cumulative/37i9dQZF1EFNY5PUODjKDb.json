@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 39293,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 14 (Live)",
       "url": "https://open.spotify.com/track/74MvukOoEiquUpPQSEawOG"
@@ -8636,10 +8636,32 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 223173,
       "name": "Grizabella",
       "url": "https://open.spotify.com/track/6WgcB5ENSDLUpqi5IrDvZd"
+    },
+    {
+      "album": {
+        "name": "Cats (Deutsche Originalaufnahme)",
+        "url": "https://open.spotify.com/album/47wBBjkU57okjhctAetxBG"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Des Theater An Der Wien",
+          "url": "https://open.spotify.com/artist/6Saf4rrrr0UZ3uvjJuqPcP"
+        },
+        {
+          "name": "Andr\u00e9 Bauer",
+          "url": "https://open.spotify.com/artist/1XzU8uX3g3Tyre42bMPXiT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242040,
+      "name": "Grizabella",
+      "url": "https://open.spotify.com/track/1ZsNbipiwZlri4G4XmiKrm"
     },
     {
       "album": {
@@ -10068,7 +10090,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"

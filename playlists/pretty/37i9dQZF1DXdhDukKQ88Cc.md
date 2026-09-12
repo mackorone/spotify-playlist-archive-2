@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Merro8 på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,664 likes - 44 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,665 likes - 44 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 5 | [Hunger 4 Livet](https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Hunger 4 Livet](https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi) | 2:39 |
 | 6 | [SAY NO MORE](https://open.spotify.com/track/0IgcYmkuX43NutmVCP4rAZ) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [SAY NO MORE](https://open.spotify.com/album/41eWAwbm6TtOSrpvInIs2H) | 2:31 |
 | 7 | [RS](https://open.spotify.com/track/41SXvQoW23qO7P5MPakyG8) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [RS](https://open.spotify.com/album/24ievzyEp79KI4ehUQvUX2) | 2:11 |
-| 8 | [Rosalina](https://open.spotify.com/track/1d9Cyx8gxzsVcc2AgBrJn0) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Rosalina](https://open.spotify.com/album/1jsPno70OZUz40QtlMNqPt) | 2:34 |
-| 9 | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd) | 2:33 |
-| 10 | [KIKI \(feat\. PAY\)](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI \(feat\. PAY\)](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
-| 11 | [Værd At Vælte For](https://open.spotify.com/track/02waimjPfbCnqnshpxB6kF) | [Altid.Marcus](https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B) | [Værd At Vælte For](https://open.spotify.com/album/7tXAixcmjoV3DO57oMN0io) | 2:10 |
+| 8 | [Værd At Vælte For](https://open.spotify.com/track/02waimjPfbCnqnshpxB6kF) | [Altid.Marcus](https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B) | [Værd At Vælte For](https://open.spotify.com/album/7tXAixcmjoV3DO57oMN0io) | 2:10 |
+| 9 | [Rosalina](https://open.spotify.com/track/1d9Cyx8gxzsVcc2AgBrJn0) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Rosalina](https://open.spotify.com/album/1jsPno70OZUz40QtlMNqPt) | 2:34 |
+| 10 | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd) | 2:33 |
+| 11 | [KIKI \(feat\. PAY\)](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI \(feat\. PAY\)](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
 | 12 | [Mr\. Entreprenør](https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [Mr\. Entreprenør](https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O) | 2:42 |
 | 13 | [Napoli](https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Napoli](https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72) | 2:42 |
 | 14 | [Alfa](https://open.spotify.com/track/1zXZkyC6npBZVP0XIqXgRQ) | [Gigis](https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o) | [Alfa](https://open.spotify.com/album/4erLaIRMPmVcP2YETb4dgx) | 1:52 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 43 | [Hver Dag & Nat](https://open.spotify.com/track/5hU6PBSMW6inBahwpSq40X) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Hver Dag & Nat](https://open.spotify.com/album/0ZfsjIav220Ztr9KCAmgQY) | 2:45 |
 | 44 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
 
-Snapshot ID: `AAAAAGUQ9TMnLgZL48HbSGu3G9mbJv9G`
+Snapshot ID: `AAAAAOCIK60MpanieCf3NKEZP/kXdxGl`

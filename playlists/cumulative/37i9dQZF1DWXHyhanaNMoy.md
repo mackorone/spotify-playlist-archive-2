@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes met Frsh!
+> Motion & good vibes met Ronnie Flex & Carel!
 
 1,854 songs - 3 day 9 hr 52 min
 

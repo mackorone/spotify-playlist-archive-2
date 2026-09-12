@@ -4,7 +4,7 @@
 
 > la música tropical no se crea ni se destruye solo se transforma\. A bailar con Ervin River
 
-312 songs - 17 hr 8 min
+313 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC) | 3:41 | 2022-02-01 | 2022-04-19 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-25 | 2023-01-14 |
 | [Mailob](https://open.spotify.com/track/43qFixbuoSxkHOPG2GeTTX) | [le venado](https://open.spotify.com/artist/1ysbwXaoc680W7mjAaOsP1) | [Mailob](https://open.spotify.com/album/5KE4f9RKeepZXh7rESyRMk) | 2:50 | 2026-08-14 |  |
+| [Malas Amistades \- RADAR México](https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG) | [Malas Amistades \- RADAR México](https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh) | 3:39 | 2026-09-11 |  |
 | [MALDITO](https://open.spotify.com/track/6dp1PGuj8rQN0ZUP63cdfJ) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [MALDITO](https://open.spotify.com/album/31UozDIJjzZy8RoeuDB4Ix) | 2:55 | 2026-08-14 |  |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-02-01 | 2022-02-19 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2023-01-13 | 2024-04-19 |

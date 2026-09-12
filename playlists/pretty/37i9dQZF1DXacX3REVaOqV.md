@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,879 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,886 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 99 | [Why Don't You \- Jude & Frank Remix](https://open.spotify.com/track/4YoR3N02uXylZ0Mh4IOULh) | [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Why Don't You \(Jude & Frank Remix\)](https://open.spotify.com/album/0mj8hwn7xJw9u8t3qcGlgH) | 2:19 |
 | 100 | [Mountain](https://open.spotify.com/track/6LxIy9MYS2C76HcXph8zFq) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Mountain](https://open.spotify.com/album/4vGmdK64DMH2W3LgCexMOF) | 3:32 |
 
-Snapshot ID: `AAAAAE0fniKWGkrHIvsAg/fg07TuR68W`
+Snapshot ID: `AAAAANkbJJAQ7lhuHZzHJmFxtqoENGk4`

@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 334584,
       "name": "132 TECHNO",
       "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Bedside",
+        "url": "https://open.spotify.com/album/0Ji9ysKhmRbIKIF20FLPb0"
+      },
+      "artists": [
+        {
+          "name": "Connor Wrong",
+          "url": "https://open.spotify.com/artist/15xmM9xUA5d5fM5YRxlIUN"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509000,
+      "name": "Bedside",
+      "url": "https://open.spotify.com/track/3FMCzUaHUNx5frJHFkffRT"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
       },
@@ -1800,6 +1818,24 @@
       "duration_ms": 217806,
       "name": "Camera - '\u2022. \u00b8\u00b8 .\u2022\u00b4\u00afdata cluster \u00af'\u2022. \u00b8\u00b8 .\u2022\u00b4 Remix",
       "url": "https://open.spotify.com/track/1oYzRZGW9lVOqd81hrAwjE"
+    },
+    {
+      "album": {
+        "name": "can i touch the sky?",
+        "url": "https://open.spotify.com/album/6eCUtzUzK6d5lYstN8Zp4k"
+      },
+      "artists": [
+        {
+          "name": "SYEYL",
+          "url": "https://open.spotify.com/artist/0VrWyZeTXQTSfcNCrtiKfS"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201097,
+      "name": "can i touch the sky?",
+      "url": "https://open.spotify.com/track/6BfYCbQ2tZcDM2rPtLOoYS"
     },
     {
       "album": {
@@ -4205,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "It's Nothing Personal.",
+        "url": "https://open.spotify.com/album/4aKwKd2eUUBFtyUzPzvn1a"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198616,
+      "name": "Got My Mojo Back. Cos I'm Worth It",
+      "url": "https://open.spotify.com/track/51TDpqfWNa0ufVRTMn88vr"
+    },
+    {
+      "album": {
         "name": "Tempus",
         "url": "https://open.spotify.com/album/2cq6vTpNKi4LJFXAwlwckm"
       },
@@ -5466,7 +5520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 218921,
       "name": "Lift Your Face to the Sun",
       "url": "https://open.spotify.com/track/5uL82AKeh1A2E0Fec82bD3"
@@ -6510,7 +6564,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 172000,
       "name": "Music of Wellness - ODESZA Severance Remix",
       "url": "https://open.spotify.com/track/2Y1BKUbXxTqu8aD0aroPPP"
@@ -7440,6 +7494,42 @@
       "duration_ms": 257500,
       "name": "PLACID CENTURY",
       "url": "https://open.spotify.com/track/5YdU58iKUEt292glAiVEZs"
+    },
+    {
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/7J5XBkkWcoSODrQmtKoy8Y"
+      },
+      "artists": [
+        {
+          "name": "Rafa No Kitchen",
+          "url": "https://open.spotify.com/artist/0XffgxhBHFLWZhVYcGdUTq"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/36A4XwqqIfKbx9AAFrfg6K"
+    },
+    {
+      "album": {
+        "name": "Ball of Light",
+        "url": "https://open.spotify.com/album/3xqG4F0r1jkK2k34OzoaBM"
+      },
+      "artists": [
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218610,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/7BXoRYZJXxrTRyJIz1TMKo"
     },
     {
       "album": {
@@ -9366,7 +9456,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 361643,
       "name": "SWARMER",
       "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
@@ -11658,7 +11748,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 251226,
       "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
       "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"

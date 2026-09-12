@@ -4,12 +4,13 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
 
-327 songs - 18 hr 53 min
+330 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 | 2025-03-21 | 2026-01-22 |
 | [14 Rue d'Abbeville](https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [punk cake](https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b) | 2:22 | 2025-03-31 | 2025-10-18 |
+| [2am](https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [2am](https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx) | 5:36 | 2026-09-11 |  |
 | [2Tru](https://open.spotify.com/track/3FNqzfajzraT8aP5TuwL8N) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/0XV4H8McfOxCVsx145tRkd) | 3:51 | 2025-03-13 | 2026-01-24 |
 | [4th of July](https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [4th of July](https://open.spotify.com/album/1j5yIefEe1FhrxdJ6PI3EU) | 2:59 | 2025-03-13 | 2025-10-18 |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-03-13 |  |
@@ -88,6 +89,7 @@
 | [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
 | [Easy Rider Geneva Heat](https://open.spotify.com/track/18vBir4mGmDL54cnwn758B) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Unrecognisable](https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC) | 1:40 | 2026-02-19 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
+| [Ecto](https://open.spotify.com/track/4A6n0D0nOSPPLRh6PbblyR) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [ᲘᲘ](https://open.spotify.com/album/3VssYONv9JggXulFIcQlds) | 3:03 | 2026-09-11 |  |
 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-16 |  |
 | [Electric Puppy](https://open.spotify.com/track/3eupceUgZJ7Yh73zDD6dMQ) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [梦游 Sleepwalker](https://open.spotify.com/album/5dKZrF0SFKdBE8ntlhaGUw) | 2:40 | 2026-03-26 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
@@ -319,6 +321,7 @@
 | [Watching You](https://open.spotify.com/track/0SsKmpQnyk4AAOY11yXS40) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:20 | 2025-07-25 | 2026-04-24 |
 | [Welcome To The World](https://open.spotify.com/track/3lKFKh93SVsJIDQytBIJ9Q) | [Wiles](https://open.spotify.com/artist/66oUtydaxLqdYiep31Vhh6) | [World Undone](https://open.spotify.com/album/6NsctPm2sP0qUnAFwxoZjj) | 3:24 | 2025-09-19 | 2025-10-18 |
 | [What I Aim For](https://open.spotify.com/track/7hMsmmDX2KpiGMNkRyX1B4) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo) | [What I Aim For](https://open.spotify.com/album/1QgofWqHlzxDtpeVVnjLYT) | 3:57 | 2026-02-19 |  |
+| [Whatyoufeellike](https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Whatyoufeellike](https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM) | 2:46 | 2026-09-11 |  |
 | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 | 2025-11-07 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 | 2026-01-17 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2026-03-07 |

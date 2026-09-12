@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Zach Stephenson
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,234 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,240 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [You Saw Me](https://open.spotify.com/track/6IgSIZJxsO6QworA7pabvJ) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [You Saw Me](https://open.spotify.com/album/1Pn4p6IUmSdcLZDlW4Hk1W) | 2:37 |
 | 100 | [TY \(robbed the bank\)](https://open.spotify.com/track/73eqbA35mz6kNdvTem4GBu) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [TY \(robbed the bank\)](https://open.spotify.com/album/0UeJuNuDhkjd1qVIgPXSmQ) | 3:01 |
 
-Snapshot ID: `AAAAAL7/tIPprSZcGrWTMjRdTDKHuqPa`
+Snapshot ID: `AAAAAEFmExaJvP7U8KvtP76BUW5cBfQf`

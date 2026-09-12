@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 600124,
+  "num_followers": 600112,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+IIZKua8By0FWNOd4aIxJMr4ko",
+  "snapshot_id": "AAAAAF8Q2EJJ0p7Q2/YKU31PbzXfJgtl",
   "tracks": [
     {
       "added_at": "2026-09-10 18:19:11",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Calle Sin Salida",
-        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 170240,
-      "name": "Calle Sin Salida",
-      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
+      "duration_ms": 170240,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "El Primer Rayo de Sol - EP",
-        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
-      },
-      "artists": [
-        {
-          "name": "Monocordio",
-          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Me Haces Existir",
-      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Aguerrida",
         "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+        "name": "El Primer Rayo de Sol - EP",
+        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        },
-        {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+          "name": "Monocordio",
+          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+      "duration_ms": 289893,
+      "name": "Me Haces Existir",
+      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -791,6 +771,26 @@
       "duration_ms": 202773,
       "name": "La Flor De La Canela",
       "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB"
-      },
-      "artists": [
-        {
-          "name": "Flor de Jade",
-          "url": "https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO"
-        }
-      ],
-      "duration_ms": 219274,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/1oW9GaKcj2MVZDmQxdL7bl"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "La Distancia",
         "url": "https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 213056,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB"
+      },
+      "artists": [
+        {
+          "name": "Flor de Jade",
+          "url": "https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO"
+        }
+      ],
+      "duration_ms": 219274,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/1oW9GaKcj2MVZDmQxdL7bl"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Vuelas Tan Lindo",
-        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Vuelas Tan Lindo",
-      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Mujer P\u00e1jaro",
         "url": "https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 173756,
       "name": "Mujer P\u00e1jaro",
       "url": "https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Vuelas Tan Lindo",
+        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Vuelas Tan Lindo",
+      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Estar\u00e9 - La negra noche",
-        "url": "https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE"
-      },
-      "artists": [
-        {
-          "name": "Garam Masala",
-          "url": "https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3"
-        }
-      ],
-      "duration_ms": 181882,
-      "name": "La negra noche",
-      "url": "https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Extranjera",
         "url": "https://open.spotify.com/album/00kVbmzSQ5jgXfhrM2y1HP"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 224155,
       "name": "Extranjera",
       "url": "https://open.spotify.com/track/6PoQVCGwIWOB0rLyMYgDIS"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Estar\u00e9 - La negra noche",
+        "url": "https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE"
+      },
+      "artists": [
+        {
+          "name": "Garam Masala",
+          "url": "https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3"
+        }
+      ],
+      "duration_ms": 181882,
+      "name": "La negra noche",
+      "url": "https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "fantasmas",
-        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 287248,
-      "name": "fantasmas",
-      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Las Maderas de Mi Barca",
         "url": "https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 189448,
       "name": "Las Maderas de Mi Barca",
       "url": "https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Milagros",
         "url": "https://open.spotify.com/album/0DTOdCt3CNkMaw584c7aJv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 210735,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/7H8d8w9iCB2mNB2uKZ4TVj"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1615,22 +1631,6 @@
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2026-09-10 18:19:11",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-10 18:19:11",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "Marchita",
-      "url": "https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi"
-    },
-    {
-      "added_at": "2026-09-10 18:19:11",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 222005,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
+    },
+    {
+      "added_at": "2026-09-10 18:19:11",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Marchita",
+      "url": "https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi"
     }
   ],
   "unique_name": "Bugambilias",

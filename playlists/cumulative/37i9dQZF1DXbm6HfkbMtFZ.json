@@ -4285,6 +4285,24 @@
     },
     {
       "album": {
+        "name": "Strange Satisfaction",
+        "url": "https://open.spotify.com/album/7asSXczPSP1MDGaeFLkHmH"
+      },
+      "artists": [
+        {
+          "name": "Woody and Jeremy",
+          "url": "https://open.spotify.com/artist/5P0unmRK5EI6psA51571i7"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Hollywood Witches",
+      "url": "https://open.spotify.com/track/6QIOzVmSfjMLWuur4e3BAv"
+    },
+    {
+      "album": {
         "name": "Uptown (Digitally Remastered)",
         "url": "https://open.spotify.com/album/67SleiSz64OZip0649tBp6"
       },
@@ -8385,6 +8403,24 @@
     },
     {
       "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "People Settle Down",
+      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
+    },
+    {
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
       },
@@ -8486,7 +8522,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
@@ -8696,7 +8732,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 199680,
       "name": "Progress",
       "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
@@ -8768,7 +8804,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 239093,
       "name": "Red Wine",
       "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
@@ -9158,7 +9194,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
@@ -9742,7 +9778,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-12",
       "duration_ms": 176718,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
@@ -11670,7 +11706,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 206344,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"

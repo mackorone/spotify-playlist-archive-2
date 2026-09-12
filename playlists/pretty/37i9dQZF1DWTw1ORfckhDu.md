@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,818 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,809 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 14 | [Korhosen veneellä Pt\. 2](https://open.spotify.com/track/3YTTJMgypwL3W4Lnk2qzCq) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Lämpöaalto Vol.1](https://open.spotify.com/album/4y3gqYb2PxNUUBLE3QFgjk) | 3:19 |
 | 15 | [PALOKUNTA](https://open.spotify.com/track/0xdOpyvLhP9uTgHFosrSN7) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [PALOKUNTA](https://open.spotify.com/album/4wOzqHtHcCoqSKMh3Bx4y8) | 2:19 |
 | 16 | [Onks tää väärin](https://open.spotify.com/track/3HAeCGR0Dxix7adYfPHy8v) | [LVRRY](https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa) | [Onks tää väärin](https://open.spotify.com/album/6UHXfX8mvSOapU1ibmShJk) | 2:07 |
-| 17 | [Tänään Mä Teen Sen](https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ) | [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0), [BeShady](https://open.spotify.com/artist/0HgqoMSGzJUccAs9GWexQW) | [Tänään Mä Teen Sen](https://open.spotify.com/album/2WslV5I2IQFFR2ReAmDDz2) | 2:58 |
+| 17 | [Tänään Mä Teen Sen](https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ) | [BeShady](https://open.spotify.com/artist/0HgqoMSGzJUccAs9GWexQW), [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0), [BeShady x VBZ](https://open.spotify.com/artist/6ZS7BDn9Afbr3vrrAVrwp6) | [Tänään Mä Teen Sen](https://open.spotify.com/album/2WslV5I2IQFFR2ReAmDDz2) | 2:58 |
 | 18 | [Sinä](https://open.spotify.com/track/44sRHAH5N5pCBCrjv7mT1w) | [Balenciagi](https://open.spotify.com/artist/5uiV6yZIwPdeFll6d9BCfx) | [Sinä](https://open.spotify.com/album/1Qrvkjm2aEz7yzQqW4B25N) | 2:14 |
 | 19 | [Aina](https://open.spotify.com/track/2SdvDaRbWJkUCoRLVInwrO) | [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk), [Aino Elliida](https://open.spotify.com/artist/5raOXPlZVZ4fKQVcPhYnKV) | [Aina](https://open.spotify.com/album/12DwbjyX9AACEfjGgtHqRm) | 3:00 |
 | 20 | [Kummittelee](https://open.spotify.com/track/6HsZfT35UYsCXxeFJ28mYb) | [Jonihey](https://open.spotify.com/artist/1WtBrJQdsrplnLjCjWzLsf) | [Kummittelee](https://open.spotify.com/album/7FZ9Za5HZ0vRExaFbJfjhW) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 99 | [Flamboyant](https://open.spotify.com/track/3GWKf9mUDM9dkwS9BdK1VM) | [Anselmi](https://open.spotify.com/artist/0dZwGJrg9ywHbqXOX4W8r4) | [Flamboyant](https://open.spotify.com/album/01Qm3CTeGF84xs78crET46) | 3:00 |
 | 100 | [Tuntematon](https://open.spotify.com/track/0v5ViIhOnTIipWsQtm1yw9) | [Jay L](https://open.spotify.com/artist/1Lg1fhMVbhZL3rwrJDXQpb), [Hena!](https://open.spotify.com/artist/3zmbahVdW7eWRceHCwXqvZ) | [Tuntematon](https://open.spotify.com/album/5a6WcS8nyI5Bep5fEbkMY5) | 2:52 |
 
-Snapshot ID: `AAAAAH8bsLK2cfVPa5CQItoWzjiZUl8t`
+Snapshot ID: `AAAAAHu9fpcNw0yxTLaPfjPGU4mzVLfH`
