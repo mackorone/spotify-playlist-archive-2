@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25831,
+  "num_followers": 25833,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAB+92Ts/V+4jG3dey1azTGi",
+  "snapshot_id": "aqNEgAAAAADYhEPhvR1pAl4U/lvNCx/3",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Steadies The Lead",
-        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 267973,
-      "name": "No Man's Land - 1992 - Remaster",
-      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 463800,
       "name": "The Man From Snowy River",
       "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Steadies The Lead",
+        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 267973,
+      "name": "No Man's Land - 1992 - Remaster",
+      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
-        }
-      ],
-      "duration_ms": 165826,
-      "name": "Bent-Axle Bob",
-      "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 193493,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Bent-Axle Bob",
+      "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 217920,
-      "name": "He's A Good Bloke When He's Sober",
-      "url": "https://open.spotify.com/track/5hhMH3eWhfR5bgt1BgF8Up"
+      "duration_ms": 182573,
+      "name": "Things Are Not The Same On The Land",
+      "url": "https://open.spotify.com/track/7348oAFzDRmIzEZifwLFGp"
     },
     {
       "added_at": null,

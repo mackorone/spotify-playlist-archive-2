@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,424 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,478 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 11 | [Challa Gaali Thakuthunna](https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rihitha](https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Yevade Subramanyam](https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b) | 4:08 |
 | 12 | [Emantaro](https://open.spotify.com/track/0ZOlLikCYIMHF2sJcx3oS8) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Gudumba Shankar](https://open.spotify.com/album/4NZCKWyfrZC82wCR5fC7in) | 6:18 |
 | 13 | [Nee Tholisariga](https://open.spotify.com/track/5bRsCXzjpkjDXmVGkgfL4w) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Usha Munukutla](https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw) | [Santhosham](https://open.spotify.com/album/5e1sQOcB4PnyMXxQ6BMZJf) | 4:50 |
-| 14 | [Arare Arare](https://open.spotify.com/track/4siD8OfWU2SrxAam41kgpJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 4:59 |
+| 14 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
 | 15 | [Snehithudaa](https://open.spotify.com/track/0b7HiR0vRs2gUbwZeJjfN3) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:07 |
 | 16 | [Taanu Nenu](https://open.spotify.com/track/4mWLe7ZircrFST9RPCQklC) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/2AVXf1Pdi3oud8FQ6NcC2S) | 4:13 |
 | 17 | [Ramachakkani Sitha](https://open.spotify.com/track/7l5fS4lbkdwzteVyE6s2IO) | [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Godavari](https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE) | 3:51 |
 | 18 | [Atu Itu Ooguthu](https://open.spotify.com/track/24K2mrj2EdYowxLweHaEAl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Life Is Beautiful](https://open.spotify.com/album/31evgMUroCibkdMwan4s0W) | 5:27 |
-| 19 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
+| 19 | [Arare Arare](https://open.spotify.com/track/4siD8OfWU2SrxAam41kgpJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 4:59 |
 | 20 | [Muvvala Navakala](https://open.spotify.com/track/2ejFoHXs1ik9nCJeFaajmu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Pournamy](https://open.spotify.com/album/1kzQvmk8hEdMWXqM31ddaE) | 5:07 |
 | 21 | [Nee Kallathoti](https://open.spotify.com/track/2mdEd4hfIKY9l3HrN7MXHx) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Gandham Sagar](https://open.spotify.com/artist/0BGX5oh7hWjWBqKODuzYYg) | [Tulasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69dwUxYtIfCn9TbJBVKSte) | 3:56 |
 | 22 | [Nidhare Kala](https://open.spotify.com/track/4dSs0v5rU0KCoZkSiuWZvl) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Sudha Ragunathan](https://open.spotify.com/artist/1wnVXMMfv0OElONAKrIS1r) | [Surya S/o Krishnan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO) | 5:22 |

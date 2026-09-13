@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "\"Summer's Coda: Classical Works\"",
+        "url": "https://open.spotify.com/album/0xs56PSoiFBvLeiBWEkYgq"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62240,
+      "name": "12 Contredanses, WoO 14: No. 3 in D Major",
+      "url": "https://open.spotify.com/track/4re5nepP8KnXVtfIlLeYp0"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: 12 Pieces, Op.40 No.2 Chanson triste Allegro non troppo in G minor",
         "url": "https://open.spotify.com/album/7iQhKQCIqCn3zufBeIj5Ac"
       },
@@ -2388,7 +2414,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 357122,
       "name": "A Way Back",
       "url": "https://open.spotify.com/track/0mH5LeDkESlflY8CvVaVM2"
@@ -17388,7 +17414,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 266550,
       "name": "Dot Com - 2026 Remix",
       "url": "https://open.spotify.com/track/1FZOb6POJUAxkSbXMvWTrS"
@@ -17984,7 +18010,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 462221,
       "name": "Ducker Mafioso Por Siempre",
       "url": "https://open.spotify.com/track/1eCD5wNhte379hjoWVBMpD"
@@ -26453,6 +26479,24 @@
     },
     {
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212063,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3Lj4dvJhNHtr4HpIurvSVK"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
       },
@@ -29098,7 +29142,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid"
@@ -33601,6 +33645,28 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/47It6NIjNCUHsL1J5MU3BZ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Justus Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237080,
+      "name": "Italian Concerto, BWV 971: I. [Allegro]",
+      "url": "https://open.spotify.com/track/3hWGSagj1H0nLPxqDL3C3h"
+    },
+    {
+      "album": {
         "name": "Up (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5kQu0kycLJGGRoqsDR3cv3"
       },
@@ -34598,7 +34664,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 205202,
       "name": "Katy Bar the Door",
       "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
@@ -34860,7 +34926,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 155952,
       "name": "Keyboard Concerto No. 1 in D Major, BWV 972 (After Vivaldi, RV 230): II. Larghetto",
       "url": "https://open.spotify.com/track/5xjAxPOn4KQD7pDL0W3toD"
@@ -38814,7 +38880,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 213796,
       "name": "Longshot",
       "url": "https://open.spotify.com/track/2Cxk6od6DEVfKy5TwwDLOg"
@@ -43744,7 +43810,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 236460,
       "name": "Nada es lo que parece",
       "url": "https://open.spotify.com/track/0TZ93gswB9Kbe0lCVDOkgt"
@@ -49454,7 +49520,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 536493,
       "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
       "url": "https://open.spotify.com/track/7HctY4t430gXK358KQDruZ"
@@ -49476,10 +49542,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 98413,
       "name": "Piano Sonata No. 11 in A Major, K. 331: Ib. Var. 1",
       "url": "https://open.spotify.com/track/0Gl5dV5oAAmsxKQ32kz7t6"
+    },
+    {
+      "album": {
+        "name": "\"'Dark Academia\" - Piano",
+        "url": "https://open.spotify.com/album/5KYvKjdCavdMI2j8BNDdyy"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Angela Hewitt",
+          "url": "https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99760,
+      "name": "Piano Sonata No. 11 in A Major, K. 331: Ic. Var. 2",
+      "url": "https://open.spotify.com/track/2K1HAcXl0EGG4XOvn7Uinw"
     },
     {
       "album": {
@@ -50930,7 +51018,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 262333,
       "name": "Pudahuel",
       "url": "https://open.spotify.com/track/3GWPWvvwtdpnbnw6Ek3sYE"
@@ -56318,7 +56406,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 197285,
       "name": "Seethe",
       "url": "https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ"
@@ -59024,7 +59112,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 279040,
       "name": "Solar Will",
       "url": "https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr"
@@ -60952,7 +61040,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 284666,
       "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2Lz4iCypeUTy62CP3Xwk6i"
@@ -61620,7 +61708,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 370560,
       "name": "Sugar Cane",
       "url": "https://open.spotify.com/track/1s6L69Bum8EnMELNqli30q"
@@ -64068,7 +64156,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 213916,
       "name": "thas a wRAP",
       "url": "https://open.spotify.com/track/6R8vs1Z22kfYeD5SF9ISzv"
@@ -69168,7 +69256,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 248386,
       "name": "Tomorrow Never Knows - Outtake",
       "url": "https://open.spotify.com/track/0CtOeZTDXN1wp111JPmSId"
@@ -77768,7 +77856,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 261847,
       "name": "\u0413\u043e\u0440\u043e\u0434 \u043a\u0430\u043c\u043d\u044f \u0438 \u043b\u044c\u0434\u0430",
       "url": "https://open.spotify.com/track/78bFw871c4TvYp7PPL0CqU"

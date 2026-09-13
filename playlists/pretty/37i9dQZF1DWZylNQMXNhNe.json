@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247850,
+  "num_followers": 247843,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0aixLcIhuI+nozmIwEPNGF1TxD",
+  "snapshot_id": "AAAAAAxsMrf5YOYJKTxYyRpe7G8HMiiK",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:37",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-09-04 03:00:37",
       "album": {
+        "name": "TE AMO SEM CULPA",
+        "url": "https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 154277,
+      "name": "TE AMO SEM CULPA",
+      "url": "https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB"
+    },
+    {
+      "added_at": "2026-09-04 03:00:37",
+      "album": {
         "name": "MARIA BOA",
         "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 218035,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
-    },
-    {
-      "added_at": "2026-09-04 03:00:37",
-      "album": {
-        "name": "TE AMO SEM CULPA",
-        "url": "https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 154277,
-      "name": "TE AMO SEM CULPA",
-      "url": "https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB"
     },
     {
       "added_at": "2026-09-04 03:00:37",

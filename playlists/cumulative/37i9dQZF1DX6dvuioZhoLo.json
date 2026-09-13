@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 143386,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
@@ -3410,6 +3410,24 @@
       "duration_ms": 196280,
       "name": "Mr. Jukebox",
       "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
+    },
+    {
+      "album": {
+        "name": "Rent Money",
+        "url": "https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185651,
+      "name": "My Baby Loves Me",
+      "url": "https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq"
     },
     {
       "album": {
@@ -4393,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Texas Angel",
+        "url": "https://open.spotify.com/album/3WkNVOx6QXbKzMyQ41Znb1"
+      },
+      "artists": [
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226525,
+      "name": "Texas Angel",
+      "url": "https://open.spotify.com/track/7BRiliFWes3v23LifgS5MN"
+    },
+    {
+      "album": {
         "name": "Every Single Star",
         "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
@@ -4552,7 +4588,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"

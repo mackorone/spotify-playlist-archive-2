@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
@@ -1868,6 +1868,24 @@
       "duration_ms": 238223,
       "name": "In My Pocket",
       "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
+    },
+    {
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
     },
     {
       "album": {
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 105999,
       "name": "the plushies, they love you bro",
       "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
@@ -4478,6 +4496,24 @@
       "duration_ms": 219880,
       "name": "Time Is the Enemy",
       "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+    },
+    {
+      "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238990,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH"
     },
     {
       "album": {

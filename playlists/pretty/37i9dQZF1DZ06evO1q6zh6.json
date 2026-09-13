@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 185678,
+  "num_followers": 185688,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACraZmtmFaJQPedL0D3HX+n",
+  "snapshot_id": "aqNEgAAAAADKuSeCrokjgcCL9nYlHkq+",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Delivering the Goods",
+      "url": "https://open.spotify.com/track/2ygCZPsdNy7xp0UHIYzXPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 202600,
       "name": "Better by You, Better Than Me",
       "url": "https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 257799,
-      "name": "Delivering the Goods",
-      "url": "https://open.spotify.com/track/2ygCZPsdNy7xp0UHIYzXPq"
+      "duration_ms": 278067,
+      "name": "Gates of Hell",
+      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
     }
   ],
   "unique_name": "This Is Judas Priest",

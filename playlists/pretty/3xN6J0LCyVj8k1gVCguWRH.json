@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143384,
+  "num_followers": 143378,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA+qzQOW8tTFZMVK+8hVx5KvJmisetz",
+  "snapshot_id": "AAA+rhSWay3oNcJ8mghhyrJjKZgiaS/z",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -1037,6 +1037,26 @@
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
     },
     {
+      "added_at": "2026-09-12 12:53:08",
+      "album": {
+        "name": "Whatever Feels Good",
+        "url": "https://open.spotify.com/album/6iy2aTSj9OKGUvsb2yWTZq"
+      },
+      "artists": [
+        {
+          "name": "Many Moore",
+          "url": "https://open.spotify.com/artist/1httoHPAFcrQ6affm95DKv"
+        },
+        {
+          "name": "Soulbase",
+          "url": "https://open.spotify.com/artist/3RpGWhniuDKYp1qsD7DrZA"
+        }
+      ],
+      "duration_ms": 248041,
+      "name": "Whatever Feels Good",
+      "url": "https://open.spotify.com/track/4wRkx2gnPKtL7Qp99qPGcI"
+    },
+    {
       "added_at": "2026-09-01 21:16:24",
       "album": {
         "name": "Strange Thoughts",
@@ -1315,6 +1335,22 @@
       "duration_ms": 187188,
       "name": "slow dance!",
       "url": "https://open.spotify.com/track/5oh4apLCPAMrCwvNoYFFr8"
+    },
+    {
+      "added_at": "2026-09-12 04:23:49",
+      "album": {
+        "name": "Pretty Girls Cry",
+        "url": "https://open.spotify.com/album/7Iy1IMT1hQEEfn406nxn9R"
+      },
+      "artists": [
+        {
+          "name": "Anzhela",
+          "url": "https://open.spotify.com/artist/6R6ZTKhNMdXfYjRSGhKqyy"
+        }
+      ],
+      "duration_ms": 218208,
+      "name": "Pretty Girls Cry",
+      "url": "https://open.spotify.com/track/56ioej6lR4Vfksq8e9Ho5h"
     },
     {
       "added_at": "2026-08-14 14:30:07",
@@ -3179,38 +3215,6 @@
       "duration_ms": 312906,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/7xhDLf9o0Exz3Ng7pyGccX"
-    },
-    {
-      "added_at": "2026-09-01 18:06:10",
-      "album": {
-        "name": "Live To Regret It",
-        "url": "https://open.spotify.com/album/0E8mhXKyjWOS2eqKLhxyYr"
-      },
-      "artists": [
-        {
-          "name": "PhD",
-          "url": "https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Live To Regret It",
-      "url": "https://open.spotify.com/track/1gMUqWCcZZkSmveVkTK7Gr"
-    },
-    {
-      "added_at": "2026-09-01 18:06:04",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/1QM5I3eS1AvZjET9vMwqxp"
-      },
-      "artists": [
-        {
-          "name": "Erika Torres",
-          "url": "https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp"
-        }
-      ],
-      "duration_ms": 190270,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/7hQFStTanHlPCpy27wnQl1"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,699 likes - 131 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,560 likes - 131 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

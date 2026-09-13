@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1099729,
+  "num_followers": 1099771,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "I Can't Stand It - Acoustic",
+      "url": "https://open.spotify.com/track/2QgoSgNAeaN0GBNq7qNSaL"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "I Can't Stand It - Acoustic",
-      "url": "https://open.spotify.com/track/2QgoSgNAeaN0GBNq7qNSaL"
     },
     {
       "added_at": "2026-04-08 19:46:17",

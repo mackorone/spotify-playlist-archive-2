@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 362804,
+  "num_followers": 362832,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
+        "name": "Envolvendo Voc\u00ea!",
+        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
+      },
+      "artists": [
+        {
+          "name": "Banda Ravelly",
+          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
         "name": "Rock Doido",
         "url": "https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 163764,
       "name": "Te Amo Fudido",
       "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
-        "name": "Envolvendo Voc\u00ea!",
-        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
-      },
-      "artists": [
-        {
-          "name": "Banda Ravelly",
-          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i"
     },
     {
       "added_at": "2026-09-11 01:27:31",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
-        "name": "Carabao o M\u00e1ximo",
-        "url": "https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS"
-      },
-      "artists": [
-        {
-          "name": "Banda msynck",
-          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Carabao o M\u00e1ximo",
-      "url": "https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
         "name": "Noite Fria",
         "url": "https://open.spotify.com/album/0yt126mT5JDuWRtCRI3M3J"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 154540,
       "name": "Noite Fria",
       "url": "https://open.spotify.com/track/6YngOrALVp1l4GZ1FsJ1BD"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
+        "name": "Carabao o M\u00e1ximo",
+        "url": "https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS"
+      },
+      "artists": [
+        {
+          "name": "Banda msynck",
+          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Carabao o M\u00e1ximo",
+      "url": "https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb"
     },
     {
       "added_at": "2026-09-11 01:27:31",
@@ -835,6 +835,30 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
+        "name": "Ver\u00e3o Tecno Love",
+        "url": "https://open.spotify.com/album/3pWEzJFxy1MK9sjFj11mi2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Sants",
+          "url": "https://open.spotify.com/artist/6TwldfyHpLov8VtPkvuG84"
+        },
+        {
+          "name": "Curupira Livre",
+          "url": "https://open.spotify.com/artist/4bs8dailuzX2UoKUfwmuoc"
+        },
+        {
+          "name": "Pirabas Records",
+          "url": "https://open.spotify.com/artist/3Fupl9cIxbKrNuM6ZdfHwx"
+        }
+      ],
+      "duration_ms": 151315,
+      "name": "Ver\u00e3o Tecno Love",
+      "url": "https://open.spotify.com/track/7m4EYavsChgPZfjBy4U1W4"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
         "name": "Delirar",
         "url": "https://open.spotify.com/album/2PHLJPfHyNs0J1YHfSwBBX"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 224818,
       "name": "N\u00e3o T\u00f4 Nada Bem",
       "url": "https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
-        "name": "Ver\u00e3o Tecno Love",
-        "url": "https://open.spotify.com/album/3pWEzJFxy1MK9sjFj11mi2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Sants",
-          "url": "https://open.spotify.com/artist/6TwldfyHpLov8VtPkvuG84"
-        },
-        {
-          "name": "Curupira Livre",
-          "url": "https://open.spotify.com/artist/4bs8dailuzX2UoKUfwmuoc"
-        },
-        {
-          "name": "Pirabas Records",
-          "url": "https://open.spotify.com/artist/3Fupl9cIxbKrNuM6ZdfHwx"
-        }
-      ],
-      "duration_ms": 151315,
-      "name": "Ver\u00e3o Tecno Love",
-      "url": "https://open.spotify.com/track/7m4EYavsChgPZfjBy4U1W4"
     },
     {
       "added_at": "2026-09-11 01:27:31",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
-        "name": "Uma Pancada de Sucesso",
-        "url": "https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2"
-      },
-      "artists": [
-        {
-          "name": "Banda msynck",
-          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
-        }
-      ],
-      "duration_ms": 206868,
-      "name": "Nem Vem Dizer",
-      "url": "https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
         "name": "Raro Amor",
         "url": "https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 253309,
       "name": "Problema Seu",
       "url": "https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
+        "name": "Uma Pancada de Sucesso",
+        "url": "https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2"
+      },
+      "artists": [
+        {
+          "name": "Banda msynck",
+          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
+        }
+      ],
+      "duration_ms": 206868,
+      "name": "Nem Vem Dizer",
+      "url": "https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj"
     },
     {
       "added_at": "2026-09-11 01:27:31",

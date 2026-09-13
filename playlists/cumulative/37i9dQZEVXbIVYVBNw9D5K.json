@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 263799,
       "name": "A Can\u0131m",
       "url": "https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm"
@@ -11782,6 +11782,24 @@
       "duration_ms": 213214,
       "name": "Ge\u00e7me Art\u0131k Soka\u011f\u0131mdan",
       "url": "https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g"
+    },
+    {
+      "album": {
+        "name": "F\u0130YAKALI",
+        "url": "https://open.spotify.com/album/7p1KPXeC70hSD9c5der0a3"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177023,
+      "name": "Ge\u00e7mi\u015f Ge\u00e7mi\u015fte",
+      "url": "https://open.spotify.com/track/1uqJRzjN2AOwAkT2sBO3Xv"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played music videos right now - Global.",
-  "num_followers": 7033,
+  "num_followers": 7114,
   "original_name": "Music Video Charts - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjdzUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MjjE0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Orbiter",
+        "url": "https://open.spotify.com/album/3hTb5UgdYgWDFtHbGlC2GQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 277368,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6a4GYeEa0rFoCGhvjam7pd"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/03PSDRVwlj5GK5VvWOeQR2"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Made My Night",
         "url": "https://open.spotify.com/album/2P8tBrXxLIjqWlEChyHCvQ"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/7g6gHchKx8TC8swNR4MOFS"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/4VTgcjLUtqudJhB0X7irDx"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/59ulCNXlrxTeZ86ZshGkS8"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "crank 2",
-        "url": "https://open.spotify.com/album/6rd5b9v4c8eh2rAmaQJ0VI"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 251178,
-      "name": "crank 2",
-      "url": "https://open.spotify.com/track/7awr30597aZ1tWLgnYQgrz"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Hootie Frutti",
         "url": "https://open.spotify.com/album/2rPaL00arekWCIcHG319Mo"
@@ -93,23 +93,23 @@
       "url": "https://open.spotify.com/track/7tN8t1hdcS2VF7aSakMfOT"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "Orbiter",
-        "url": "https://open.spotify.com/album/3hTb5UgdYgWDFtHbGlC2GQ"
+        "name": "ENTRE TU Y YO",
+        "url": "https://open.spotify.com/album/5ZPvuxDaWL82c2QMyki3Bh"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 277368,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
+      "duration_ms": 222189,
+      "name": "ENTRE TU Y YO",
+      "url": "https://open.spotify.com/track/7piJuhWIQitNCpr6pQ7j18"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "NORMAL",
         "url": "https://open.spotify.com/album/2eVLSqmG1Yc1XFOIljHCvl"
@@ -125,42 +125,10 @@
       "url": "https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Mono No Aware - Live | Presented by Spotify",
-        "url": "https://open.spotify.com/album/2eNYwcxiSpbNTvMhraARIP"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 192675,
-      "name": "Mono No Aware - Live | Presented by Spotify",
-      "url": "https://open.spotify.com/track/4OVcdR8O3sbwUYwJhoNMIo"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/0mNm47hEXguEnMwoEimmX3"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/6mqa7AXnaRd2q77yGmRHE9"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "ICONIC BY MISTAKE",
-        "url": "https://open.spotify.com/album/39w9lg3tLM6zlw2jMO8RpT"
+        "url": "https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ"
       },
       "artists": [
         {
@@ -178,10 +146,42 @@
       ],
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
-      "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
+      "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/0mNm47hEXguEnMwoEimmX3"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/6mqa7AXnaRd2q77yGmRHE9"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "crank 2",
+        "url": "https://open.spotify.com/album/6rd5b9v4c8eh2rAmaQJ0VI"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 251178,
+      "name": "crank 2",
+      "url": "https://open.spotify.com/track/7awr30597aZ1tWLgnYQgrz"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/49aMeANi1xcwJ6NgcvoQ3E"
@@ -197,39 +197,7 @@
       "url": "https://open.spotify.com/track/4j3YeF9Jll295K6dIvA7gR"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 162163,
-      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "2.0 (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 190281,
-      "name": "2.0 (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Bass Persuades",
         "url": "https://open.spotify.com/album/1K9C2ET2nEMGlZmjmGV1vt"
@@ -245,7 +213,39 @@
       "url": "https://open.spotify.com/track/6asDO17UStSnESaraO6TA8"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 162163,
+      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "2.0 (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 190281,
+      "name": "2.0 (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Nicole Kidman",
         "url": "https://open.spotify.com/album/0HCLdQDbY4uVGjb6p1j8oF"
@@ -261,27 +261,39 @@
       "url": "https://open.spotify.com/track/4fBnFBSVjHfDv8dqXxKw05"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/6U5aGvFVs8wG8u2RsFWwxx"
+        "name": "HEAVEN (Live from Governor's Ball 2026)",
+        "url": "https://open.spotify.com/album/27pfXQL2bqG4NXJmn340v6"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 226943,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
+      "duration_ms": 212522,
+      "name": "HEAVEN - Live from Governor's Ball 2026",
+      "url": "https://open.spotify.com/track/0LCui1qlGQwOrmmUcoyD34"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "La Buena y la Mala",
+        "url": "https://open.spotify.com/album/1Th1aFLIGznn6rziQvoce9"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
@@ -297,7 +309,7 @@
       "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/2yhoWluUtfdJlHawUXUDcS"
@@ -313,7 +325,7 @@
       "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/79Y6nRU3x2vkaSjTfWIUzT"
@@ -329,71 +341,39 @@
       "url": "https://open.spotify.com/track/2N9Ph3q44rrDoGzG0fWVxL"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "SWIM",
-        "url": "https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga"
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/6brjejE4Fjrrv1IRq8SXvE"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 236766,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
+      "duration_ms": 196246,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4YkqLiJuMAFfWMRW2Al5jX"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "How To Pray",
-        "url": "https://open.spotify.com/album/6xaatDjPX1ae1R7oDlKtZM"
+        "name": "Billie Jean",
+        "url": "https://open.spotify.com/album/0mV7pWZ1l0UzouNhXs6mgw"
       },
       "artists": [
         {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 167667,
-      "name": "How To Pray",
-      "url": "https://open.spotify.com/track/0oos01MKZkB4Wpo2HQcjkK"
+      "duration_ms": 295850,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "OK (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/1t1uajf3DkX1XjN5yaASE1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 162505,
-      "name": "OK (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/0QUNl2qufcUU0ZiJq1srHX"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "De Lejitos",
         "url": "https://open.spotify.com/album/3xfL6j7HGlK4EEPCX1J3TY"
@@ -413,7 +393,7 @@
       "url": "https://open.spotify.com/track/0Yfh01HYCPRmp6k4iJWKvO"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Beauty And A Beat",
         "url": "https://open.spotify.com/album/1X68xZ3V7TNgzApECVuFXJ"
@@ -433,26 +413,10 @@
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "Billie Jean",
-        "url": "https://open.spotify.com/album/0mV7pWZ1l0UzouNhXs6mgw"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 295850,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
+        "name": "SWIM",
+        "url": "https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga"
       },
       "artists": [
         {
@@ -460,12 +424,160 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 255284,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
+      "duration_ms": 236766,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 421269,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Qu\u00e9 iron\u00eda",
+        "url": "https://open.spotify.com/album/4zG7HulPugRBxhxxbWngTn"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 148202,
+      "name": "Qu\u00e9 iron\u00eda",
+      "url": "https://open.spotify.com/track/51QU6rgcaT0I8N7v01wawu"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Doors (Live | Presented by Spotify)",
+        "url": "https://open.spotify.com/album/3G0GqfT1AKsypA6fqJdNJK"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 228152,
+      "name": "Doors - Live | Presented by Spotify",
+      "url": "https://open.spotify.com/track/58IPn4pi5Rlypi69p3Oica"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Culpable Tu (Official Video)",
+        "url": "https://open.spotify.com/album/30taw0tQYILly1NGMp5SUS"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 244928,
+      "name": "Culpable Tu (Official Video)",
+      "url": "https://open.spotify.com/track/3JkJYeNiKr6UEFQ9xhas3D"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/4BfXBNMwUjRE82v8yy7Gre"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/6U5aGvFVs8wG8u2RsFWwxx"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 226943,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/6QYew1RtlS5fLVqjWWqMQ1"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "duration_ms": 288277,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1TWkoUyRM98lnoAzRUAuSg"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 238162,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/27THCDYBxFzA9R1Ku7TfIJ"
@@ -485,95 +597,7 @@
       "url": "https://open.spotify.com/track/1Ywk7HecwsfJWy2pxaaQZM"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/4BfXBNMwUjRE82v8yy7Gre"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Can of Worms",
-        "url": "https://open.spotify.com/album/3ooomgsNROk7k2r4rwcJ1s"
-      },
-      "artists": [
-        {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
-        },
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 257898,
-      "name": "Can of Worms",
-      "url": "https://open.spotify.com/track/5lrxCHNa6AMbl55f02mlBk"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 238162,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Superhuman (feat. Keri Hilson)",
-        "url": "https://open.spotify.com/album/2aqdGN2CxnlL1WqmEMHo0p"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        }
-      ],
-      "duration_ms": 219711,
-      "name": "Superhuman (feat. Keri Hilson)",
-      "url": "https://open.spotify.com/track/0swTG7z8C5iMmQBpm7L3ht"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/5vB8gQU8bR7Vt9OTsVwz5d"
@@ -589,151 +613,7 @@
       "url": "https://open.spotify.com/track/3ODLb2WTwadkfL3vPWy55q"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 421269,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "CLICK",
-        "url": "https://open.spotify.com/album/6q6o78Uv8bfhdvubwPOE5U"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "CLICK",
-      "url": "https://open.spotify.com/track/0CzdDxtoZ0GZYeRKQMdOZ4"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/1mlNpz05asibccS7Lga1tc"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1awPKCucOl2zbghME5IRrW"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4I7uNVX9pmyrjHBtCV2hSS"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "La Buena y la Mala",
-        "url": "https://open.spotify.com/album/1Th1aFLIGznn6rziQvoce9"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Every Breath You Take",
-        "url": "https://open.spotify.com/album/2KtejeEquzzMwIVfdSCVb2"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/4TQkWXwLWigs6PAWHMOiv3"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 298602,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "It's Me",
-        "url": "https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "It's Me",
-      "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "stupid song",
-        "url": "https://open.spotify.com/album/2IpOsTQ3Kwf0GLAX5qhQJe"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 216925,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/3BIgtjioh8uDv6qSS9AIxk"
@@ -749,39 +629,71 @@
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/4bNeIMFNrK2gju6e0XKnH8"
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/4TQkWXwLWigs6PAWHMOiv3"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 198485,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/3bb46U9c7d5IVGYpxlAGgj"
+      "duration_ms": 298602,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "So Easy (To Fall In Love)",
-        "url": "https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5"
+        "name": "BIRDS OF A FEATHER",
+        "url": "https://open.spotify.com/album/4e2Mrqs5CgdDy4Dmx6ShiT"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 196928,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
+      "duration_ms": 213258,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6uMOteLgUpMjkDQcCsoyo5"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Mono No Aware - Live | Presented by Spotify",
+        "url": "https://open.spotify.com/album/2eNYwcxiSpbNTvMhraARIP"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 192675,
+      "name": "Mono No Aware - Live | Presented by Spotify",
+      "url": "https://open.spotify.com/track/4OVcdR8O3sbwUYwJhoNMIo"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/1mlNpz05asibccS7Lga1tc"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1awPKCucOl2zbghME5IRrW"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Temper City - Self Aware (Official Video)",
         "url": "https://open.spotify.com/album/0pV63StkTANXT7LT4lzEz9"
@@ -797,7 +709,119 @@
       "url": "https://open.spotify.com/track/5jgGLqWF0KiFIemm3RO3Zn"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/4bNeIMFNrK2gju6e0XKnH8"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 198485,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/3bb46U9c7d5IVGYpxlAGgj"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "It's Me",
+        "url": "https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/2KtejeEquzzMwIVfdSCVb2"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/4wjPqaU95MlOZQLSYlQxzD"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/63n9jfrDIyT5riF975AzWl"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4I7uNVX9pmyrjHBtCV2hSS"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/45HjUgnJ7LURW3CncCzPBH"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201514,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/5VcRLtOGzG3YVFhntoJ57E"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 255284,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
+    },
+    {
+      "added_at": "2026-09-12 13:05:39",
       "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/5R51jDR0MN5x8uZrD18lUO"
@@ -813,52 +837,20 @@
       "url": "https://open.spotify.com/track/4iERsUBex9UtUY1osIk6TR"
     },
     {
-      "added_at": "2026-09-11 13:32:50",
+      "added_at": "2026-09-12 13:05:39",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/774bhbkjlCL3S34aYXreF4"
+        "name": "stupid song",
+        "url": "https://open.spotify.com/album/2IpOsTQ3Kwf0GLAX5qhQJe"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 165610,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/5Zt8EeE4G0oRRWCcNG5M3X"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/1MSyEdSdvuzYb9k78wtjdi"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"
-    },
-    {
-      "added_at": "2026-09-11 13:32:50",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/7yYMssiAqkt52ZuqSuxUS6"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
+      "duration_ms": 216925,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
     }
   ],
   "unique_name": "Music Video Charts - Global",

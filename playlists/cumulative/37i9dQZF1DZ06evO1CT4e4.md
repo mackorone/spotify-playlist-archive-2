@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-117 songs - 9 hr 55 min
+118 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Fratres for Strings and Percussion](https://open.spotify.com/track/2dk94wD0xcHf6G9rzKUfMM) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Hungarian State Opera Orchestra](https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO) | [Silentium](https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ) | 8:54 | 2025-11-20 | 2026-01-03 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2025-09-02 |  |
 | [Für Alina](https://open.spotify.com/track/0lZQdRWPHaaKw5Voj2zkbE) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [55](https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW) | 3:06 | 2026-06-15 |  |
+| [Für Alina \- Live from The Martha Argerich Festival in Hamburg](https://open.spotify.com/track/0UkFJggFUn5L70uoApKjGp) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [For Arvo \(Extended Edition\)](https://open.spotify.com/album/3omibSzla1z5BaCxnMUOnz) | 4:13 | 2026-09-13 |  |
 | [Für Alina \- Version 1](https://open.spotify.com/track/5bvPCG6m69SnwPpbef4kHs) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [Pärt: Für Alina \(Version 1\)](https://open.spotify.com/album/4FCrfEaGJaKw4sJMmEnM9C) | 2:29 | 2025-09-02 | 2025-09-17 |
 | [Für Anna Maria](https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 1:27 | 2025-09-18 |  |
 | [Für Jan van Eyck](https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p), [Jaan\-Eik Tulve](https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k), [Ene Salumäe](https://open.spotify.com/artist/1kA5RkIt8z3OIRNkhTDQcJ) | [Pärt: And I Heard a Voice…](https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ) | 4:45 | 2025-09-10 |  |
@@ -124,6 +125,6 @@
 | [Vier leichte Tanzstücke “Musik für Kindertheater”: No\. 3, Schmetterlinge](https://open.spotify.com/track/0fkMiiVcu3lpa0kENUXnsY) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 2:08 | 2025-09-17 | 2025-12-20 |
 | [Vier leichte Tanzstücke “Musik für Kindertheater”: No\. 4, Tanz der Entenküken](https://open.spotify.com/track/1xUwdWqIcAuGtOrIwbbdLF) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | ["Cold Landscapes \- Minimalism"](https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF) | 2:08 | 2025-12-08 | 2026-09-11 |
 | [Vier leichte Tanzstücke “Musik für Kindertheater”: No\. 4, Tanz der Entenküken](https://open.spotify.com/track/3hMBeAS7ahfF0t1iPMtmii) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 2:08 | 2025-09-16 | 2025-09-24 |
-| [Zwei Beter](https://open.spotify.com/track/0VbjLZo6AbU9uBeXxYqAvT) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Rachel Ambrose Evans](https://open.spotify.com/artist/5DCluW8xdaZcQLrb6GK47u), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Arvo Pärt: Choral Music](https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx) | 5:09 | 2026-08-24 |  |
+| [Zwei Beter](https://open.spotify.com/track/0VbjLZo6AbU9uBeXxYqAvT) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Rachel Ambrose Evans](https://open.spotify.com/artist/5DCluW8xdaZcQLrb6GK47u), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Arvo Pärt: Choral Music](https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx) | 5:09 | 2026-08-24 | 2026-09-13 |
 
 \*This playlist was first scraped on 2025-09-02. Prior content cannot be recovered.

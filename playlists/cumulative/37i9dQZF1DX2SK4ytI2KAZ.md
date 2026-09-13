@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-699 songs - 1 day 14 hr 26 min
+700 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Come To The Beach](https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach](https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G) | 2:58 | 2021-03-10 | 2023-03-29 |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-03-10 | 2026-07-18 |
 | [Coming Up Short](https://open.spotify.com/track/3YrT4nWBMF1eEHYc2fNOht) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Coming Up Short](https://open.spotify.com/album/5M2Z9oYLzg6BzpefliunfX) | 3:15 | 2021-03-10 | 2022-04-19 |
-| [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 | 2025-01-31 |  |
+| [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 | 2025-01-31 | 2026-09-13 |
 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 | 2023-11-27 |  |
 | [Connection](https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Connection \- Echo in the Dark, Pt\. I](https://open.spotify.com/album/4adJa7zLA5L0XmhDzyD6c6) | 3:45 | 2022-02-04 | 2022-11-02 |
 | [Connection](https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [10 Tracks to Echo in the Dark](https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv) | 3:45 | 2022-10-07 | 2023-03-29 |
@@ -488,6 +488,7 @@
 | [Pretty Way to Fight](https://open.spotify.com/track/1IqCYpT2uKyCEfH76Re2rr) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [Pretty Way to Fight](https://open.spotify.com/album/1kMQDvVlFdDjQZjy2b0vQ9) | 3:23 | 2021-03-10 | 2022-07-29 |
 | [Pretty Way to Fight](https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [The Heights](https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV) | 3:23 | 2022-06-27 | 2023-06-02 |
 | [Problematic](https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [Problematic](https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR) | 2:44 | 2021-03-10 | 2022-11-15 |
+| [prowl](https://open.spotify.com/track/6llso3w3TmSHuJFLIyQqek) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [prowl](https://open.spotify.com/album/54VwoLcXlf4UV0D6ofE7FH) | 2:53 | 2026-09-08 |  |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-27 | 2023-06-08 |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2024-03-10 |  |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 | 2026-06-17 |

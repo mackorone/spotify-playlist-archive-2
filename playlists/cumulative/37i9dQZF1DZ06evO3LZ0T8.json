@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 181383,
       "name": "Amped",
       "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Brain Dance",
+        "url": "https://open.spotify.com/album/1L8qDfPpVetgVhAjBDxABM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Brain Dance",
+      "url": "https://open.spotify.com/track/2zVuxLKF0vsQpzJyrELJok"
+    },
+    {
+      "album": {
         "name": "Breakout",
         "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 186750,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 235650,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 158427,
       "name": "The Streets",
       "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"

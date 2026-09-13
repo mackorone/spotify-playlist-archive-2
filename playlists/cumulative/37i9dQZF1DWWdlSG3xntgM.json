@@ -2495,6 +2495,36 @@
     },
     {
       "album": {
+        "name": "Em Hau Phuong Anh Tien Tuyen",
+        "url": "https://open.spotify.com/album/5ECwUF50JZfbEEf0wsznu2"
+      },
+      "artists": [
+        {
+          "name": "Duy Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/3jWhTLaDkAnRGPhXl02MJ8"
+        },
+        {
+          "name": "T\u01b0\u1eddng Khu\u00ea",
+          "url": "https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0"
+        },
+        {
+          "name": "T\u01b0\u1eddng Nguy\u00ean",
+          "url": "https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK"
+        },
+        {
+          "name": "Thanh Phong",
+          "url": "https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Ly Cafe Cuoi Cung",
+      "url": "https://open.spotify.com/track/6TwpsTNZfnFCV8GrjhgBsy"
+    },
+    {
+      "album": {
         "name": "Bu\u1ed3n L\u1eafm \u00c1o D\u00e0i \u01a0i!",
         "url": "https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj"
       },
@@ -5604,7 +5634,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 355360,
       "name": "T\u00ecnh Ch\u00e0ng \u00dd Thi\u1ebfp",
       "url": "https://open.spotify.com/track/3AF7iZrrmE5Tb1Tw9WnrFT"

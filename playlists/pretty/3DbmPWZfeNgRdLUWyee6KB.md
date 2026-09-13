@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 142 songs - 8 hr 31 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 143 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 140 | [Matrix \- alghubaiba Vocal Remix](https://open.spotify.com/track/4bVUoKynLN0ssBkHh1mnnW) | [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx), [HOLIDEUS](https://open.spotify.com/artist/4WRaAKaLTZGZ3ydfPi4jGo), [alghubaiba](https://open.spotify.com/artist/3NxMvOsU6JHyiPALqUSKRx) | [Matrix](https://open.spotify.com/album/17wKvmUysVDgQjxm4PcnZY) | 3:29 |
 | 141 | [Respiro](https://open.spotify.com/track/2PdyOFzTq3LZH9WbUW9Of5) | [LuzAzuL](https://open.spotify.com/artist/0zQiZWTwq8iqanSdpFSi5I) | [Respiro](https://open.spotify.com/album/7nquKycYcxBhgYAb1TlcAd) | 3:22 |
 | 142 | [Noir et blanc](https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 4:01 |
+| 143 | [Bullshit Nation](https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Bullshit Nation](https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI) | 4:06 |
 
-Snapshot ID: `AAAXukeQ/1qN3ROP4HrLLEzJE/jAVUhs`
+Snapshot ID: `AAAXu49ullVDcHQquEjoIDzi6GTLTIMv`

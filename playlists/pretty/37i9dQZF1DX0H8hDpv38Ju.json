@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 873953,
+  "num_followers": 873987,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 521693,
       "name": "Saturday Love - 12\" Extended Version",
       "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Gold - '80s Soul",
-        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
-      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
     },
     {
       "added_at": "2021-04-01 19:37:56",

@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 331849,
       "name": "10 Min\u00fat",
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
@@ -9232,7 +9232,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 203419,
       "name": "Cigan G",
       "url": "https://open.spotify.com/track/06mP3Lam9C69IC8HaHMZr7"
@@ -9272,7 +9272,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -24838,7 +24838,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 158483,
       "name": "KGB",
       "url": "https://open.spotify.com/track/3eXYltBvZSCOs6fM1La6ho"
@@ -25564,7 +25564,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 216525,
       "name": "Kr\u00e1l a princ",
       "url": "https://open.spotify.com/track/4lbmSXYmm2ZAMkoFOdMHQN"
@@ -30520,7 +30520,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 250906,
       "name": "Modra",
       "url": "https://open.spotify.com/track/6WfhZNzOioBmDUq4xb5kvz"
@@ -30538,7 +30538,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 252880,
       "name": "Modr\u00e1",
       "url": "https://open.spotify.com/track/6aJ0kNBOQWW4vYfEKyOFEj"
@@ -32947,6 +32947,28 @@
     },
     {
       "album": {
+        "name": "Nechcem smr\u0165",
+        "url": "https://open.spotify.com/album/3Ptxj8pyJk0O6ipbPDCfUg"
+      },
+      "artists": [
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/48dz8C2SNCkNCy7DkU9tZE"
+        },
+        {
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149744,
+      "name": "Nechcem smr\u0165",
+      "url": "https://open.spotify.com/track/57w8xzew1FK18myyRf60fZ"
+    },
+    {
+      "album": {
         "name": "Nedl\u017e\u00edm Ti Ni\u010d",
         "url": "https://open.spotify.com/album/5gmCGM6CUUR9uYgUTLYLvQ"
       },
@@ -33360,7 +33382,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -48116,7 +48138,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 139239,
       "name": "SUV 2",
       "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"

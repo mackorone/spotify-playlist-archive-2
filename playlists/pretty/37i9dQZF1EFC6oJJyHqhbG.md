@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 85 | [Hot City](https://open.spotify.com/track/4DIvT0zt7SZV8IrR1kgIaE) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
 | 86 | [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 |
 | 87 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
-| 88 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
-| 89 | [Slay](https://open.spotify.com/track/7Hp2t5OemFEaAErohHYo4t) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
+| 88 | [Slay](https://open.spotify.com/track/7Hp2t5OemFEaAErohHYo4t) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
+| 89 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
 | 90 | [Wasted Youth](https://open.spotify.com/track/4NPmLPLdVys0TtrsUUVGRo) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 4:09 |
 | 91 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/7jN7LgYxQZHX2EAj3IvvVy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Super Deluxe Edition\)](https://open.spotify.com/album/4tXGGRLZGSU9RwbemiixAz) | 4:41 |
 | 92 | [Fast Forward](https://open.spotify.com/track/6enzLwBMY8Qh9nE8I7HmHe) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6VbcgIsHayQkMgdweePz4K) | 4:44 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 146 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 | 147 | [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 |
 
-Snapshot ID: `AccDXAAAAABb3tfCIqyoxei8VB+xC1mh`
+Snapshot ID: `AccI/AAAAABUW9bHvuE7OkJR8fGoRvsW`

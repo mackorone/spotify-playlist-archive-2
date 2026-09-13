@@ -10325,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "Keeping the Promises",
+        "url": "https://open.spotify.com/album/4deWsHZBt6HsiLE0Ztsd9K"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Keeping The Promises",
+      "url": "https://open.spotify.com/track/0fswN3BXxEMpHt0FMFkee5"
+    },
+    {
+      "album": {
         "name": "Terminal 1",
         "url": "https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP"
       },
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 171448,
       "name": "Lots of It",
       "url": "https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP"

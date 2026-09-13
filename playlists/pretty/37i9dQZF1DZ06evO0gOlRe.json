@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37462,
+  "num_followers": 37477,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAATwRMV3StS+uz4fyZOxGbv",
+  "snapshot_id": "aqNEgAAAAACKjwh9xO5y8zWmqZrndOIb",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 190666,
-      "name": "i wish you cheated",
-      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
+      "duration_ms": 138400,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 138400,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
+      "duration_ms": 190666,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filing for Love (Original Television Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 190873,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Filing for Love (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
+      "duration_ms": 215173,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "birthday cake (duet)",
-        "url": "https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k"
+        "name": "broken by you",
+        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
       },
       "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 205280,
-      "name": "birthday cake (duet)",
-      "url": "https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S"
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "broken by you",
-        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
+        "name": "birthday cake (duet)",
+        "url": "https://open.spotify.com/album/6G3MPHbJfxqlNCC5VB6e3k"
       },
       "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 172000,
-      "name": "broken by you",
-      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
+      "duration_ms": 205280,
+      "name": "birthday cake (duet)",
+      "url": "https://open.spotify.com/track/5XgX3fuwz4BumeRyzQKW0S"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
     },
     {
       "added_at": null,

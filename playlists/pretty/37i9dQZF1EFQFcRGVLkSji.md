@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 187 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 187 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 43 | [Killin ëm](https://open.spotify.com/track/1DKtg0yijcSoUQTxkxixyi) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:52 |
 | 44 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
 | 45 | [ELECTROWAVEBABY](https://open.spotify.com/track/3AjQQWTwJGwxMrh6B5H9Af) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:25 |
-| 46 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/1bMgK96LX39zjqW7AW5o3w) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa) | 3:34 |
-| 47 | [Purpose General](https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 3:25 |
+| 46 | [Purpose General](https://open.spotify.com/track/44PH8NLzVddk4qhAUvm4v3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 3:25 |
+| 47 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/1bMgK96LX39zjqW7AW5o3w) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa) | 3:34 |
 | 48 | [Missing Everything](https://open.spotify.com/track/720XllkKq9Pmjk1KOS7Z0F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:44 |
 | 49 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
 | 50 | [Rose Colored \(with Yeat\)](https://open.spotify.com/track/3x7Y0Rn7EjPfB2zbddbDVg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:33 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 162 | [simulation](https://open.spotify.com/track/1UTm9oNUaVqukwpfp5XUYA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 0:51 |
 | 163 | [Real Issues](https://open.spotify.com/track/1MZavt51KHokyEEQzZFMHz) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [MIGH\-X](https://open.spotify.com/artist/2ITDAAFADIl8zBdcde92wL) | [October 2018](https://open.spotify.com/album/6b9ksDCJw1dUCVd2svduNW) | 2:36 |
 | 164 | [Show Haters \(feat\. Quavo\)](https://open.spotify.com/track/18iPv8CGSmpz8mry9hK887) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:44 |
-| 165 | [Away Forever](https://open.spotify.com/track/2P3svitvKgeUuM0RRWI1em) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Away Forever](https://open.spotify.com/album/1Ktgpyg5MGLbf7Lno123iz) | 2:52 |
-| 166 | [Time is slipping away \(feat\. Anatole Muster\)](https://open.spotify.com/track/1ZBAqrArdE2uhpCJIYfkCm) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 4:10 |
+| 165 | [Time is slipping away \(feat\. Anatole Muster\)](https://open.spotify.com/track/1ZBAqrArdE2uhpCJIYfkCm) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 4:10 |
+| 166 | [Away Forever](https://open.spotify.com/track/2P3svitvKgeUuM0RRWI1em) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Away Forever](https://open.spotify.com/album/1Ktgpyg5MGLbf7Lno123iz) | 2:52 |
 | 167 | [FANatic \(feat\. Beau Nox\)](https://open.spotify.com/track/3JFy8gBukcDmzXtQaZGPIL) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 3:00 |
 | 168 | [GENESIS FM \(feat\. Mandal\)](https://open.spotify.com/track/5Gboo32phcv30xl7fOvBjb) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Mandal](https://open.spotify.com/artist/7ipArBFvalH1AzpyHkQI06) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 0:47 |
 | 169 | [Boys](https://open.spotify.com/track/2WZK5OjXUfzdbRnAve5rvE) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Boys](https://open.spotify.com/album/2GRaH94Q6MK3IfU9X8qoT1) | 1:24 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 186 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 187 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AccDSAAAAABIqUzb3Vco/XWkW4Fs1EKb`
+Snapshot ID: `AccI6AAAAABCq8T59YW/FDHbN8PwirW4`

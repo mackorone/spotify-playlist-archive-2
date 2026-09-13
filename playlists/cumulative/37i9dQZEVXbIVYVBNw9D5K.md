@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,652 songs - 3 day 11 hr 0 min
+1,653 songs - 3 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [80 Kere](https://open.spotify.com/track/4CFYUqMwzV3ENIeLEpj2MU) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ) | [80 Kere](https://open.spotify.com/album/7fyM6D2LVNs7J3s44n0SJE) | 2:39 | 2021-09-12 | 2021-10-09 |
 | [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 | 2024-10-26 | 2026-05-07 |
 | [A Canım](https://open.spotify.com/track/4p8rFioMzjHuoJF5gzw9Fy) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/1SjI5mOEGsnrfHRR4zY88f) | 4:23 | 2025-07-10 | 2025-07-12 |
-| [A Canım](https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/4QrmPWaETJ2jhAEwJmqgkb) | 4:23 | 2026-01-25 |  |
+| [A Canım](https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/4QrmPWaETJ2jhAEwJmqgkb) | 4:23 | 2026-01-25 | 2026-09-13 |
 | [A La Carte](https://open.spotify.com/track/3H2DdWCysSQcshvC0Sjwn6) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Lacuna](https://open.spotify.com/album/4l3xb6bpLCGtf8ly7TiBjO) | 2:35 | 2024-02-17 | 2024-03-18 |
 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 | 2023-12-16 | 2024-02-18 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-14 | 2022-01-15 |
@@ -614,6 +614,7 @@
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-10 | 2024-12-15 |
 | [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 | 2022-04-29 |
+| [Geçmiş Geçmişte](https://open.spotify.com/track/1uqJRzjN2AOwAkT2sBO3Xv) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [FİYAKALI](https://open.spotify.com/album/7p1KPXeC70hSD9c5der0a3) | 2:57 | 2026-09-12 |  |
 | [GEÇMİŞİ SİL](https://open.spotify.com/track/4K7lVYPJxi8RpXRe5aU31A) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [GEÇMİŞİ SİL](https://open.spotify.com/album/7CGkq5YGahSU6MIA1lWJNd) | 3:08 | 2021-11-28 | 2021-12-06 |
 | [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/track/4LmZ9i14ulI6YGe7q7ED3R) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [GEÇMİŞİMDEN KAÇTIM](https://open.spotify.com/album/6PCEEWJ6FMcERbAbZkKxAO) | 2:25 | 2025-02-21 | 2025-09-27 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-24 | 2025-07-13 |

@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Antoine Corriveau
 
-663 songs - 1 day 13 hr 28 min
+664 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Je sais pas c'que j'fais icitte](https://open.spotify.com/track/5XSGWaTq7dBb5mJjyOnShv) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Je sais pas c'que j'fais icitte](https://open.spotify.com/album/4xW82Kdpz7CXdeuI6WPUJ7) | 4:29 | 2026-05-01 | 2026-08-22 |
 | [Je suis une coquerelle](https://open.spotify.com/track/12DDbBVEmkRjLk1QOwrZ9w) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [En mille morceaux](https://open.spotify.com/album/4pzDKoWzW32t71N8hINVaw) | 2:52 | 2026-01-09 | 2026-04-18 |
 | [Jean Leloup](https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM) | [Bandit Voyage](https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW) | [Québec Core](https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc) | 2:59 | 2025-10-17 | 2025-12-19 |
-| [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 | 2026-08-14 |  |
+| [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 | 2026-08-14 | 2026-09-13 |
 | [Jeune chien](https://open.spotify.com/track/6BZ8Eq0dl6jQmmkfWHlAzu) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [LOUIS\-CHARLES II](https://open.spotify.com/album/5wN8YooaUGu6Y7uhEuSz8i) | 3:00 | 2026-01-16 | 2026-07-04 |
 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 | 2026-04-24 | 2026-05-23 |
 | [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 | 2025-11-15 |
@@ -547,6 +547,7 @@
 | [Si Vous Redo](https://open.spotify.com/track/5l94jgdvC6JoC6sqZxYn4b) | [SAMWOY](https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO) | [Si Vous Redo](https://open.spotify.com/album/5zt6oAvv4J5He5JpZhergm) | 3:45 | 2026-05-29 | 2026-09-02 |
 | [Sides Of Me I've Never Met](https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Sides Of Me I've Never Met](https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP) | 3:58 | 2025-10-31 | 2026-02-21 |
 | [SIMULATION FREESTYLE](https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [SIMULATION FREESTYLE](https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl) | 2:30 | 2024-06-28 | 2025-10-11 |
+| [Since I Told You How I Feel](https://open.spotify.com/track/2kTDrTqg7lAzShydspX4Ib) | [2120](https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR) | [Since I Told You How I Feel](https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1) | 3:55 | 2026-09-11 |  |
 | [skin 2 skin](https://open.spotify.com/track/4Q93NskCmmgXpkvANqNEQR) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [skin 2 skin](https://open.spotify.com/album/1FROX6DElvBR2vLjZE8IJ2) | 3:19 | 2026-08-14 | 2026-08-28 |
 | [Snack City](https://open.spotify.com/track/27MkDUroI7F6gJdpy4U4gp) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Snack City](https://open.spotify.com/album/3QRN1gHK5WI23AUTwcOz5b) | 2:55 | 2026-04-03 | 2026-05-23 |
 | [Snowfall](https://open.spotify.com/track/4zw5xPwZiH3dlpFn0EzYMS) | [Serial Milk](https://open.spotify.com/artist/3KNmqpZPnc14FBQIaLgGla) | [Animal Disguise](https://open.spotify.com/album/3xV5VakGXMomm8BlpNcF3L) | 4:35 | 2026-05-01 | 2026-06-27 |

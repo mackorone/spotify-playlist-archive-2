@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1049655,
+  "num_followers": 1049594,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "End of the World (feat. The Movement)",
-        "url": "https://open.spotify.com/album/2LkxZxyQjbfAHRAE2Zi9zw"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "End of the World (feat. The Movement)",
-      "url": "https://open.spotify.com/track/24JNsqfxVon96kYc44mK70"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 210379,
       "name": "All or Nothing (feat. Busy Signal)",
       "url": "https://open.spotify.com/track/4Zf6EXvHC9lsMRqA7TqiAY"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "End of the World (feat. The Movement)",
+        "url": "https://open.spotify.com/album/2LkxZxyQjbfAHRAE2Zi9zw"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "End of the World (feat. The Movement)",
+      "url": "https://open.spotify.com/track/24JNsqfxVon96kYc44mK70"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
-      },
-      "artists": [
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Middle Finger",
         "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
@@ -1295,22 +1279,34 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/7dOTvSdY1JYRm9xFn2JBtR"
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
         }
       ],
-      "duration_ms": 221579,
-      "name": "Signals (with The Movement)",
-      "url": "https://open.spotify.com/track/3MZ9TkiYsHC04grd87lgOv"
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Island Time",
+        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Island Time",
+      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1335,34 +1331,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Island Time",
-        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/7dOTvSdY1JYRm9xFn2JBtR"
       },
       "artists": [
         {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Island Time",
-      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
-      },
-      "artists": [
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
         {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 211061,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
+      "duration_ms": 221579,
+      "name": "Signals (with The Movement)",
+      "url": "https://open.spotify.com/track/3MZ9TkiYsHC04grd87lgOv"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1383,6 +1367,22 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
+      },
+      "artists": [
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 211061,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "River Guide You",
+        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 189702,
+      "name": "River Guide You",
+      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 193941,
       "name": "Cool & Collected",
       "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "River Guide You",
-        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 189702,
-      "name": "River Guide You",
-      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/49den6feXc9vnoJnkVdmL8"
-      },
-      "artists": [
-        {
-          "name": "Stylie",
-          "url": "https://open.spotify.com/artist/4FKRIBsyFirblW4qsSKVRZ"
-        },
-        {
-          "name": "Sons of Paradise",
-          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
-        }
-      ],
-      "duration_ms": 272379,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2DXAcNUYnUG6MG3FG88Ps1"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Rush Hour (with Bryce Vine)",
         "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 244184,
       "name": "Things You Can't Control",
       "url": "https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/49den6feXc9vnoJnkVdmL8"
+      },
+      "artists": [
+        {
+          "name": "Stylie",
+          "url": "https://open.spotify.com/artist/4FKRIBsyFirblW4qsSKVRZ"
+        },
+        {
+          "name": "Sons of Paradise",
+          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
+        }
+      ],
+      "duration_ms": 272379,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2DXAcNUYnUG6MG3FG88Ps1"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "If You Wanna Roll (with The Elovaters)",
-        "url": "https://open.spotify.com/album/5e5cvqzU4lNCZQJJmZPHLx"
-      },
-      "artists": [
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 179228,
-      "name": "If You Wanna Roll (with The Elovaters)",
-      "url": "https://open.spotify.com/track/0fbrmERo8JtzODur1bPazG"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Press Remix",
         "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 220841,
       "name": "Press Remix",
       "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "If You Wanna Roll (with The Elovaters)",
+        "url": "https://open.spotify.com/album/5e5cvqzU4lNCZQJJmZPHLx"
+      },
+      "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 179228,
+      "name": "If You Wanna Roll (with The Elovaters)",
+      "url": "https://open.spotify.com/track/0fbrmERo8JtzODur1bPazG"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Setting Out for the Sun",
-        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
-      },
-      "artists": [
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
-          "name": "Spencer Thomson",
-          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
-        }
-      ],
-      "duration_ms": 270228,
-      "name": "Setting Out for the Sun",
-      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Tangerine Skies",
         "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 181586,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Setting Out for the Sun",
+        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
+      },
+      "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "Spencer Thomson",
+          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
+        }
+      ],
+      "duration_ms": 270228,
+      "name": "Setting Out for the Sun",
+      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Chestnut Hill",
-        "url": "https://open.spotify.com/album/014DiXDwrBXrLkvpoIrBHS"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Chestnut Hill",
-      "url": "https://open.spotify.com/track/6Ldq59T2vwWx3MDaYEqv11"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Heavy as Lead",
         "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
       },
@@ -2331,18 +2315,34 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
-        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+        "name": "Chestnut Hill",
+        "url": "https://open.spotify.com/album/014DiXDwrBXrLkvpoIrBHS"
       },
       "artists": [
         {
-          "name": "The Holdup",
-          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         }
       ],
-      "duration_ms": 217177,
-      "name": "COMING WITH GUNS",
-      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+      "duration_ms": 175820,
+      "name": "Chestnut Hill",
+      "url": "https://open.spotify.com/track/6Ldq59T2vwWx3MDaYEqv11"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2363,18 +2363,50 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0ZAXiTMvmH7UBB89A6bmQC"
       },
       "artists": [
         {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+      "duration_ms": 251160,
+      "name": "Thotful",
+      "url": "https://open.spotify.com/track/6zrf5IkFkMJnaDuLlWyTwR"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+      },
+      "artists": [
+        {
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+        }
+      ],
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2419,38 +2451,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/0ZAXiTMvmH7UBB89A6bmQC"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "Thotful",
-      "url": "https://open.spotify.com/track/6zrf5IkFkMJnaDuLlWyTwR"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "More Than Love",
         "url": "https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0"
       },
@@ -2463,6 +2463,26 @@
       "duration_ms": 260390,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "King of the Low (with Moon Taxi)",
+        "url": "https://open.spotify.com/album/0ycS1e8h1Vx4tcoAjZOGEN"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        },
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 174128,
+      "name": "King of the Low (with Moon Taxi)",
+      "url": "https://open.spotify.com/track/4OXGUz1uXA3w4NQjp2sGoa"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2503,26 +2523,6 @@
       "duration_ms": 125880,
       "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
       "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "King of the Low (with Moon Taxi)",
-        "url": "https://open.spotify.com/album/0ycS1e8h1Vx4tcoAjZOGEN"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        },
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 174128,
-      "name": "King of the Low (with Moon Taxi)",
-      "url": "https://open.spotify.com/track/4OXGUz1uXA3w4NQjp2sGoa"
     },
     {
       "added_at": "2026-07-17 15:52:29",

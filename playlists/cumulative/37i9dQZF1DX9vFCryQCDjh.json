@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "D\uc81c(\u9664)2\ub355(\u5fb7)",
+        "url": "https://open.spotify.com/album/5SOkLd7HRzMqU12peK5KSy"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Beauty and the Beast (OK? OK!)",
+      "url": "https://open.spotify.com/track/2KxNT1oxH6WfFmCQnpRq7t"
+    },
+    {
+      "album": {
         "name": "Turtles: 3",
         "url": "https://open.spotify.com/album/4FKzCoNdJFPBDOb4zDDKRA"
       },
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 235413,
       "name": "\ubc31\uc804\ubb34\ud328 (\u767e\u6230\u7121\u6557)",
       "url": "https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9"

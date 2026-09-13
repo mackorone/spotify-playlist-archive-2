@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 248 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 248 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 229 | [On A Wave](https://open.spotify.com/track/0GuhX81IqyufFB3VdVzUbj) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Off The Books EP \(2016\)](https://open.spotify.com/album/5seVG1s2oc5piRtsixp4g0) | 3:02 |
 | 230 | [Electric Prince](https://open.spotify.com/track/41HHyPT2sSZGMfcAMWkSQ1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:23 |
 | 231 | [The Prince Lives](https://open.spotify.com/track/2l6kKeJ6hBG1lwcFzdeoR1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:30 |
-| 232 | [Reste en vie \- fragile](https://open.spotify.com/track/20eyfLl6Qib62ljOowPA6O) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile x Fragile \(Version deluxe\)](https://open.spotify.com/album/7BcRdUtUhuDpvyOsv1a4lF) | 3:14 |
-| 233 | [Keep Your Head Up](https://open.spotify.com/track/71E4gfiZhVJF9xfzP9u2SR) | [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [Casual Encounter](https://open.spotify.com/album/4M0rxKyC5TgzKos1FFZOTr) | 3:29 |
+| 232 | [Keep Your Head Up](https://open.spotify.com/track/71E4gfiZhVJF9xfzP9u2SR) | [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [Casual Encounter](https://open.spotify.com/album/4M0rxKyC5TgzKos1FFZOTr) | 3:29 |
+| 233 | [Reste en vie \- fragile](https://open.spotify.com/track/20eyfLl6Qib62ljOowPA6O) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile x Fragile \(Version deluxe\)](https://open.spotify.com/album/7BcRdUtUhuDpvyOsv1a4lF) | 3:14 |
 | 234 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 |
 | 235 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
 | 236 | [Love Me Back](https://open.spotify.com/track/3TkWlPbDAl2LbYIQMgHT3B) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 2:49 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 247 | [The Grand Design](https://open.spotify.com/track/5jKjY6Ip0iQ6TxqYtYpG6T) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2 \(Deluxe LP\)](https://open.spotify.com/album/00LVEGAf8cMPwVp4O1Lelz) | 2:41 |
 | 248 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AccDXAAAAACJ+V9z13KoOISlQmjJLark`
+Snapshot ID: `AccI/AAAAABbUCEQqIbDEw2a0EyGrMCB`

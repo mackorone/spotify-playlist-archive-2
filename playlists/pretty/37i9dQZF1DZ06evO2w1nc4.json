@@ -1,12 +1,12 @@
 {
   "description": "This is Pierce The Veil. The essential tracks, all in one playlist.",
-  "num_followers": 147396,
+  "num_followers": 147425,
   "original_name": "This Is Pierce The Veil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAAda9AEhWBjmQEyNRecbJNr",
+  "snapshot_id": "aqNEgAAAAAAgQ87p6I2NCc6KAbm1uU7Q",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfish Machines",
-        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
+        "name": "Selfish Machines (Reissue)",
+        "url": "https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 241640,
-      "name": "Million Dollar Houses (The Painter)",
-      "url": "https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L"
+      "duration_ms": 205315,
+      "name": "I Don't Care If You're Contagious",
+      "url": "https://open.spotify.com/track/69okqylQdHUe90a70Q2ued"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfish Machines (Reissue)",
-        "url": "https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU"
+        "name": "Selfish Machines",
+        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 205315,
-      "name": "I Don't Care If You're Contagious",
-      "url": "https://open.spotify.com/track/69okqylQdHUe90a70Q2ued"
+      "duration_ms": 241640,
+      "name": "Million Dollar Houses (The Painter)",
+      "url": "https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,850 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,843 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 26 | [O MUNDO É DETALHE PRA NÓS](https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS) | [Duh Marinho](https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ventos Favoráveis](https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0) | 2:41 |
 | 27 | [Amor Pilantra \- Ao Vivo](https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:39 |
 | 28 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
-| 29 | [Acaso](https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Taj Ma House](https://open.spotify.com/artist/3p9anDjxxtWU8QkrbopoFy), [Tinoc](https://open.spotify.com/artist/6BLaVUav8fhTgyAayfWfT4) | [MARIA BOA](https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db) | 3:38 |
-| 30 | [TE AMO SEM CULPA](https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [TE AMO SEM CULPA](https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g) | 2:34 |
+| 29 | [TE AMO SEM CULPA](https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [TE AMO SEM CULPA](https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g) | 2:34 |
+| 30 | [Acaso](https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Taj Ma House](https://open.spotify.com/artist/3p9anDjxxtWU8QkrbopoFy), [Tinoc](https://open.spotify.com/artist/6BLaVUav8fhTgyAayfWfT4) | [MARIA BOA](https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db) | 3:38 |
 | 31 | [GORDINHA MAS TA BOM](https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [A VISITA \- SANDRA ELETRÔNICA](https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz) | 2:51 |
 | 32 | [SOCIALISMO DA PUTARIA](https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb) | [Isma](https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [MADE IN COHAB](https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S) | 3:12 |
 | 33 | [BABY](https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm) | [BABY](https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 79 | [deu pra sentir? \(Kaya Conky & DJ Ramemes RMX\)](https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [SOBRECARGA \(ALTA TENSÃO DELUXE\)](https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC) | 2:37 |
 | 80 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 
-Snapshot ID: `AAAAAA0aixLcIhuI+nozmIwEPNGF1TxD`
+Snapshot ID: `AAAAAAxsMrf5YOYJKTxYyRpe7G8HMiiK`

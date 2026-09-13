@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23459,
+  "num_followers": 23458,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207085,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
         "name": "OBSESI\u00d3N",
         "url": "https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 229684,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207085,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -339,30 +339,6 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Ela Erra",
-        "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
-      },
-      "artists": [
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        },
-        {
-          "name": "Carlean",
-          "url": "https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6"
-        },
-        {
-          "name": "Matteuzin",
-          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
-        }
-      ],
-      "duration_ms": 93714,
-      "name": "Ela Erra",
-      "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
         "name": "Insana",
         "url": "https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 206971,
       "name": "Insana",
       "url": "https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
+        "name": "Ela Erra",
+        "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "Carlean",
+          "url": "https://open.spotify.com/artist/3bO5G35IOls0BK0nbAoJq6"
+        },
+        {
+          "name": "Matteuzin",
+          "url": "https://open.spotify.com/artist/1G5PyzlCfVieDXFuUhZ1vc"
+        }
+      ],
+      "duration_ms": 93714,
+      "name": "Ela Erra",
+      "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -715,30 +715,6 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        }
-      ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        }
+      ],
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -887,22 +887,18 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
       },
       "artists": [
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
         }
       ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -927,18 +923,22 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
       "artists": [
         {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
         }
       ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Ol\u00e9, Ol\u00e9!",
-        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
+        "name": "RINGUE",
+        "url": "https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk"
       },
       "artists": [
         {
@@ -1038,11 +1038,19 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Hobb The Goat",
+          "url": "https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ"
         }
       ],
-      "duration_ms": 164016,
-      "name": "Ol\u00e9, Ol\u00e9!",
-      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
+      "duration_ms": 182455,
+      "name": "RINGUE",
+      "url": "https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n"
     },
     {
       "added_at": "2026-09-11 13:10:55",

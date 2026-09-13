@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 8817,
+  "num_followers": 8820,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAADwK5tiOusv4kADDED59Ln5",
+  "snapshot_id": "aqNEgAAAAADCQM61NRyGP+hqcOSlTkVZ",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 277280,
+      "name": "see on see",
+      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 277280,
-      "name": "see on see",
-      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 300013,
-      "name": "Simmm",
-      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 100946,
-      "name": "Caliper Remote",
-      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
+      "duration_ms": 153173,
+      "name": "plyPhon",
+      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 537263,
       "name": "Cipater",
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 100946,
+      "name": "Caliper Remote",
+      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
     },
     {
       "added_at": null,
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 153173,
-      "name": "plyPhon",
-      "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP7",
-        "url": "https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Pir",
-      "url": "https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme"
+      "duration_ms": 300013,
+      "name": "Simmm",
+      "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 532800,
       "name": "Cichli",
       "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP7",
+        "url": "https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Pir",
+      "url": "https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "pt2ph8",
+      "url": "https://open.spotify.com/track/5bGWqRBnxTj3gxsjpOiuxc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exai",
         "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 456226,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "pt2ph8",
-      "url": "https://open.spotify.com/track/5bGWqRBnxTj3gxsjpOiuxc"
     },
     {
       "added_at": null,

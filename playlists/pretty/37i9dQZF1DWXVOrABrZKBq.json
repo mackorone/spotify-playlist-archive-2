@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
-  "num_followers": 23768,
+  "num_followers": 23802,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "\u00c0 tes c\u00f4t\u00e9s",
         "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Pangor (Swalalala)",
-        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
-      },
-      "artists": [
-        {
-          "name": "Djaksparo",
-          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
-        }
-      ],
-      "duration_ms": 121704,
-      "name": "Pangor (Swalalala)",
-      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
       },
@@ -855,6 +855,30 @@
       "duration_ms": 135793,
       "name": "BBL",
       "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Allo Doudou",
+        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 170681,
+      "name": "Allo Doudou",
+      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -895,30 +919,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Allo Doudou",
-        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 170681,
-      "name": "Allo Doudou",
-      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "REQUIEM : MIEUX QU'HIER",
         "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
       },
@@ -951,6 +951,30 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "Pow Pow / Allo Doudou",
+        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 219583,
+      "name": "Pow Pow / Allo Doudou",
+      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "L'humain",
         "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 150000,
       "name": "Jet Set",
       "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "Pow Pow / Allo Doudou",
-        "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 219583,
-      "name": "Pow Pow / Allo Doudou",
-      "url": "https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Ballon D'or",
+      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "Avion de chasse",
         "url": "https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 136809,
       "name": "Avion de chasse",
       "url": "https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "Casus Belli",
-        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
-      },
-      "artists": [
-        {
-          "name": "Le Crime",
-          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Ballon D'or",
-      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "Les avions dessinent dans le ciel",
+        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 183694,
+      "name": "Les avions dessinent dans le ciel",
+      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/5yLNMwHht3aCEhDws0kWqB"
       },
@@ -1227,42 +1263,6 @@
       "duration_ms": 186880,
       "name": "M\u00c9DICAMENT",
       "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "LA VAR",
-        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
-      },
-      "artists": [
-        {
-          "name": "Supremnova",
-          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
-        },
-        {
-          "name": "Jemma's Palace",
-          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
-        }
-      ],
-      "duration_ms": 102352,
-      "name": "LA VAR",
-      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "Les avions dessinent dans le ciel",
-        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Les avions dessinent dans le ciel",
-      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
     },
     {
       "added_at": "2026-09-11 16:08:33",

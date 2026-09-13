@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 828054,
+  "num_followers": 828006,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Era Uma Vez o Amanh\u00e3",
         "url": "https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Urbano",
-        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
         }
       ],
-      "duration_ms": 129381,
-      "name": "\u00d4 Sorte",
-      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -919,6 +903,22 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Rosa Maria",
         "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 232390,
       "name": "Rosa Maria",
       "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Estou Apaixonado",
         "url": "https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 226380,
       "name": "Estou Apaixonado",
       "url": "https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Monomania",
         "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 217431,
       "name": "Eu Me Lembro (feat. Silva)",
       "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2026-09-10 03:01:31",

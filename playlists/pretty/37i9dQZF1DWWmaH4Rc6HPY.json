@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Pepe Madero en portada.",
-  "num_followers": 39545,
+  "num_followers": 39561,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,22 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "D\u00edscolo",
-        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
+        "name": "Dolor y Gloria",
+        "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Haditas",
-      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
+      "duration_ms": 192649,
+      "name": "Dolor y Gloria",
+      "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "Dolor y Gloria",
-        "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
+        "name": "D\u00edscolo",
+        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
       },
       "artists": [
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        },
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 192649,
-      "name": "Dolor y Gloria",
-      "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
+      "duration_ms": 183506,
+      "name": "Haditas",
+      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "MAPAS II",
-        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 215250,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
+        "name": "MAPAS II",
+        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
     },
     {
       "added_at": "2026-09-04 06:00:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-04 06:00:30",
       "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
-    },
-    {
-      "added_at": "2026-09-04 06:00:30",
-      "album": {
         "name": "Bruma",
         "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 201120,
       "name": "Bruma",
       "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+    },
+    {
+      "added_at": "2026-09-04 06:00:30",
+      "album": {
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-09-04 06:00:30",

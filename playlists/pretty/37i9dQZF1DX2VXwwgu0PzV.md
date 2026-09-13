@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,802 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,816 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 12 | [Promises](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 3:10 |
 | 13 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 14 | [Gimme That](https://open.spotify.com/track/0VXBzkmEvAdPkd1NwogcK5) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Gimme That](https://open.spotify.com/album/4ZvUCGzodC3vReNYMwieBF) | 2:55 |
-| 15 | [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK), [LAMB CULTURE\. & ayomidetPh](https://open.spotify.com/artist/0Jd56a5TAViMWTPHf8s7te) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 |
+| 15 | [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 |
 | 16 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 17 | [Big God](https://open.spotify.com/track/7FaY3yB1xxFMl2EFQ6D9FP) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl), [Anderson](https://open.spotify.com/artist/02wBwVMJJNtSrBn4cPAFoL) | [Chapter Two](https://open.spotify.com/album/2p4X4NeE0njaWyPARWA53P) | 10:57 |
 | 18 | [FAITHFUL GOD](https://open.spotify.com/track/6WjlrSl63NoQ9utqtk8WCt) | [PYEFA](https://open.spotify.com/artist/5Wl6nDhxskbjh0ZNV4JUsK) | [FAITHFUL GOD](https://open.spotify.com/album/6rKMydb8H96SYrfNT0aGLl) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 262486,
+  "num_followers": 262516,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "Spacer",
-        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Michael Anthony",
-          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
         "name": "Out Of My Body (feat. EJAE)",
         "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "Spacer",
+        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Michael Anthony",
+          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 281826,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 150879,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "Burn For You",
-        "url": "https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 161155,
-      "name": "Burn For You",
-      "url": "https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 258409,
       "name": "Closer",
       "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "Burn For You",
+        "url": "https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 161155,
+      "name": "Burn For You",
+      "url": "https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di"
     },
     {
       "added_at": "2026-09-10 23:00:28",

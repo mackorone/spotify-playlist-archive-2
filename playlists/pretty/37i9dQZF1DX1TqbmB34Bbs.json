@@ -415,26 +415,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Show Me The Money 12 Episode 2",
-        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
-      },
-      "artists": [
-        {
-          "name": "Fleeky Bang",
-          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        }
-      ],
-      "duration_ms": 221197,
-      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "LLLM",
         "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 225610,
       "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
       "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "duration_ms": 221197,
+      "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/1BYJ0RHbpmJQWUxTtXDvhF"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "\uac1c\uc0c8\ub07c",
+      "url": "https://open.spotify.com/track/1njduJBd5hXOAoqgHiGk1f"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
         "name": "LIVE FAST DIE SKRT",
         "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 114259,
       "name": "Bbang",
       "url": "https://open.spotify.com/track/5Cc9lNOnuiKlDPOtbTFTQm"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/1BYJ0RHbpmJQWUxTtXDvhF"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey White",
-          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "\uac1c\uc0c8\ub07c",
-      "url": "https://open.spotify.com/track/1njduJBd5hXOAoqgHiGk1f"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Still Freestylin'",
-        "url": "https://open.spotify.com/album/7FM3SdqxHnpsfbyLxhlQMz"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Still Freestylin'",
-      "url": "https://open.spotify.com/track/4pH7JqQP1CQnQAmhvF7acS"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "Trapstar Lifestyle",
         "url": "https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 192000,
       "name": "Young Boy (Feat. oygli)",
       "url": "https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Still Freestylin'",
+        "url": "https://open.spotify.com/album/7FM3SdqxHnpsfbyLxhlQMz"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Still Freestylin'",
+      "url": "https://open.spotify.com/track/4pH7JqQP1CQnQAmhvF7acS"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -1871,6 +1871,30 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "MUSHVENOM",
+          "url": "https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Go (Feat. Simon Dominic, The Quiett)",
+      "url": "https://open.spotify.com/track/4YiT7SqlLbZl7cH6Omr74D"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
         "name": "\"SIKE\"!",
         "url": "https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs"
       },
@@ -1911,30 +1935,6 @@
       "duration_ms": 404720,
       "name": "Turn Up! (Feat. M1NU, Veinyfl, Swervy, Layone, Young Ji Lee, Lil Nekh, D.Ark)",
       "url": "https://open.spotify.com/track/6DRXvIUvbUfa1RKQ2YUsl4"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "MUSHVENOM",
-          "url": "https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Go (Feat. Simon Dominic, The Quiett)",
-      "url": "https://open.spotify.com/track/4YiT7SqlLbZl7cH6Omr74D"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "[ Rorschach ] Part 2",
-        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "X",
-      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "\ud76c / \ub178 / \uc560 / \ub77d",
         "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 113684,
       "name": "\ub77d (party rock)",
       "url": "https://open.spotify.com/track/2n6k3cmhn9H7oFl757VaCU"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -2963,26 +2963,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Who (Feat. ZENE THE ZILLA)",
-        "url": "https://open.spotify.com/album/5ojgo7pHJfdrU2xTQVbhtV"
-      },
-      "artists": [
-        {
-          "name": "Rosy Barbie",
-          "url": "https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        }
-      ],
-      "duration_ms": 153237,
-      "name": "Who (Feat. ZENE THE ZILLA)",
-      "url": "https://open.spotify.com/track/28WREGsCyaGBffXwis3xN1"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
         "url": "https://open.spotify.com/album/6qkou5djxo7ghbltrYNCna"
       },
@@ -3015,6 +2995,26 @@
       "duration_ms": 338371,
       "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
       "url": "https://open.spotify.com/track/0VrR6fmBMGCIL36Kzrezjz"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Who (Feat. ZENE THE ZILLA)",
+        "url": "https://open.spotify.com/album/5ojgo7pHJfdrU2xTQVbhtV"
+      },
+      "artists": [
+        {
+          "name": "Rosy Barbie",
+          "url": "https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "duration_ms": 153237,
+      "name": "Who (Feat. ZENE THE ZILLA)",
+      "url": "https://open.spotify.com/track/28WREGsCyaGBffXwis3xN1"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3131,22 +3131,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "clear out the room",
-        "url": "https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY"
-      },
-      "artists": [
-        {
-          "name": "1300",
-          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
-        }
-      ],
-      "duration_ms": 179561,
-      "name": "clear out the room",
-      "url": "https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -3163,6 +3147,42 @@
       "duration_ms": 175845,
       "name": "She Deserves (Feat. CHANGMO)",
       "url": "https://open.spotify.com/track/26Lg8wIuXijnNknu0wFsEB"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "DAY OFF",
+        "url": "https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "DAY OFF",
+      "url": "https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "clear out the room",
+        "url": "https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "clear out the room",
+      "url": "https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3187,26 +3207,6 @@
       "duration_ms": 153684,
       "name": "Domain Expansion (Feat. BILL STAX, TRADE L)",
       "url": "https://open.spotify.com/track/7iJhKyMTC7JNoq1KAhbZpa"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
-        "name": "DAY OFF",
-        "url": "https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "DAY OFF",
-      "url": "https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3283,30 +3283,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "CASH IN",
-        "url": "https://open.spotify.com/album/64wqgT66SxgHf5uAVaIsrg"
-      },
-      "artists": [
-        {
-          "name": "untell",
-          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
-        },
-        {
-          "name": "YF",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "KAMBO",
-          "url": "https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i"
-        }
-      ],
-      "duration_ms": 177021,
-      "name": "CASH IN",
-      "url": "https://open.spotify.com/track/7HSDkaGuQUW9eHDNEhWswI"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "8282(Party) (Feat. SUPERBEE, UNEDUCATED KID)",
         "url": "https://open.spotify.com/album/0CWYqBGKChAJge2xUYICpY"
       },
@@ -3351,6 +3327,30 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
+        "name": "CASH IN",
+        "url": "https://open.spotify.com/album/64wqgT66SxgHf5uAVaIsrg"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "YF",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "KAMBO",
+          "url": "https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i"
+        }
+      ],
+      "duration_ms": 177021,
+      "name": "CASH IN",
+      "url": "https://open.spotify.com/track/7HSDkaGuQUW9eHDNEhWswI"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
         "name": "Focused On Getting Rich",
         "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
       },
@@ -3387,30 +3387,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "AC/DC",
-        "url": "https://open.spotify.com/album/2zZcMWW4MtsnYY9LAh0aWV"
-      },
-      "artists": [
-        {
-          "name": "Hanhoryong",
-          "url": "https://open.spotify.com/artist/5wzdilfd7KzFJW2Up3RRbc"
-        },
-        {
-          "name": "mnrn",
-          "url": "https://open.spotify.com/artist/6EnC1Vu3hk12Q7miJL0cDt"
-        },
-        {
-          "name": "shinjihang",
-          "url": "https://open.spotify.com/artist/6LGvFSi2nlVrapbgljktyj"
-        }
-      ],
-      "duration_ms": 149478,
-      "name": "AC/DC",
-      "url": "https://open.spotify.com/track/4sZnSR52dtv0debcDi5NwO"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "K.I.S.S",
         "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
       },
@@ -3435,38 +3411,26 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Came Back to Seoul",
-        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
+        "name": "AC/DC",
+        "url": "https://open.spotify.com/album/2zZcMWW4MtsnYY9LAh0aWV"
       },
       "artists": [
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 155322,
-      "name": "Came Back to Seoul",
-      "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
-        "name": "Birthday (Feat. BILL STAX)",
-        "url": "https://open.spotify.com/album/2GxWa8IzXeYkMoXBvbPGwn"
-      },
-      "artists": [
-        {
-          "name": "lobonabeat!",
-          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+          "name": "Hanhoryong",
+          "url": "https://open.spotify.com/artist/5wzdilfd7KzFJW2Up3RRbc"
         },
         {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+          "name": "mnrn",
+          "url": "https://open.spotify.com/artist/6EnC1Vu3hk12Q7miJL0cDt"
+        },
+        {
+          "name": "shinjihang",
+          "url": "https://open.spotify.com/artist/6LGvFSi2nlVrapbgljktyj"
         }
       ],
-      "duration_ms": 163239,
-      "name": "Birthday (Feat. BILL STAX)",
-      "url": "https://open.spotify.com/track/14IPPm5luuJoCsgZoeCilI"
+      "duration_ms": 149478,
+      "name": "AC/DC",
+      "url": "https://open.spotify.com/track/4sZnSR52dtv0debcDi5NwO"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3503,6 +3467,26 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
+        "name": "Birthday (Feat. BILL STAX)",
+        "url": "https://open.spotify.com/album/2GxWa8IzXeYkMoXBvbPGwn"
+      },
+      "artists": [
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "duration_ms": 163239,
+      "name": "Birthday (Feat. BILL STAX)",
+      "url": "https://open.spotify.com/track/14IPPm5luuJoCsgZoeCilI"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
         "name": "Mr. FOSHO",
         "url": "https://open.spotify.com/album/6Ccz99yuUi2KVQHB6zsUSn"
       },
@@ -3527,6 +3511,22 @@
       "duration_ms": 193333,
       "name": "Mr. FOSHO (feat. OXYNOVA, Polodared & KHAN)",
       "url": "https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Came Back to Seoul",
+        "url": "https://open.spotify.com/album/6I0t4vj86zAFoBqDi50SKp"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Came Back to Seoul",
+      "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3683,26 +3683,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
-        "url": "https://open.spotify.com/album/5r2gn0St4o9aaO1ruCKdM6"
-      },
-      "artists": [
-        {
-          "name": "Mommy Son",
-          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 187482,
-      "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
-      "url": "https://open.spotify.com/track/4k3wtHeshonyd9RWJOHcm6"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "MaRz&B",
         "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
       },
@@ -3719,6 +3699,26 @@
       "duration_ms": 168832,
       "name": "Meet me at the London (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/67LojJCuYg9v7CDWWcJf8J"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
+        "url": "https://open.spotify.com/album/5r2gn0St4o9aaO1ruCKdM6"
+      },
+      "artists": [
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 187482,
+      "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
+      "url": "https://open.spotify.com/track/4k3wtHeshonyd9RWJOHcm6"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3799,22 +3799,26 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "ANT",
-        "url": "https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB"
+        "name": "Warm-Up",
+        "url": "https://open.spotify.com/album/4Fz1xdBPsifUBHFf7ys9GL"
       },
       "artists": [
         {
-          "name": "QM",
-          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/0XHCH5pCBlkEEkbUtsIjtX"
         }
       ],
-      "duration_ms": 168321,
-      "name": "Got yourself a gun (feat. ZICO)",
-      "url": "https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG"
+      "duration_ms": 180986,
+      "name": "Warm-Up (Feat. Boy Wonder, OSWALD)",
+      "url": "https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3843,26 +3847,22 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Warm-Up",
-        "url": "https://open.spotify.com/album/4Fz1xdBPsifUBHFf7ys9GL"
+        "name": "ANT",
+        "url": "https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
         },
         {
-          "name": "Boy Wonder",
-          "url": "https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y"
-        },
-        {
-          "name": "OSWALD",
-          "url": "https://open.spotify.com/artist/0XHCH5pCBlkEEkbUtsIjtX"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Warm-Up (Feat. Boy Wonder, OSWALD)",
-      "url": "https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu"
+      "duration_ms": 168321,
+      "name": "Got yourself a gun (feat. ZICO)",
+      "url": "https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -3991,22 +3991,6 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
-        "name": "Am I Trippin'?",
-        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
-      },
-      "artists": [
-        {
-          "name": "Yung Blesh",
-          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
-        }
-      ],
-      "duration_ms": 116470,
-      "name": "Hands Up High",
-      "url": "https://open.spotify.com/track/5N19TtvLUnA0VF93qxWFhl"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
         "name": "SLEEP TIGHT",
         "url": "https://open.spotify.com/album/2Ec1spvA1p4qsxhN1HkyDB"
       },
@@ -4023,6 +4007,22 @@
       "duration_ms": 177500,
       "name": "SLEEP TIGHT (feat. Skyminhyuk)",
       "url": "https://open.spotify.com/track/0mUWfzcdWXbrR4xwA5BKU2"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
+        "name": "Am I Trippin'?",
+        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
+      },
+      "artists": [
+        {
+          "name": "Yung Blesh",
+          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
+        }
+      ],
+      "duration_ms": 116470,
+      "name": "Hands Up High",
+      "url": "https://open.spotify.com/track/5N19TtvLUnA0VF93qxWFhl"
     },
     {
       "added_at": "2026-09-10 01:12:29",
@@ -4083,6 +4083,26 @@
     {
       "added_at": "2026-09-10 01:12:29",
       "album": {
+        "name": "SEOUL",
+        "url": "https://open.spotify.com/album/0Rw1Rp1AqY2qEpSQpG4r3a"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Wuuslime",
+          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "X MARK",
+      "url": "https://open.spotify.com/track/5Ibhrlf2zUqeFFz42AwQhi"
+    },
+    {
+      "added_at": "2026-09-10 01:12:29",
+      "album": {
         "name": "Am I Trippin'?",
         "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
       },
@@ -4103,26 +4123,6 @@
       "duration_ms": 183895,
       "name": "Yes (feat. LIL GIMCHI, TOMMY YANG)",
       "url": "https://open.spotify.com/track/12Zfn5KmIOAakGtR4J7jhJ"
-    },
-    {
-      "added_at": "2026-09-10 01:12:29",
-      "album": {
-        "name": "SEOUL",
-        "url": "https://open.spotify.com/album/0Rw1Rp1AqY2qEpSQpG4r3a"
-      },
-      "artists": [
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "Wuuslime",
-          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "X MARK",
-      "url": "https://open.spotify.com/track/5Ibhrlf2zUqeFFz42AwQhi"
     },
     {
       "added_at": "2026-09-10 01:12:29",

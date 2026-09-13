@@ -4,7 +4,7 @@
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 45 min
+59 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Sanctuary](https://open.spotify.com/track/3gM35w5pxuZUXNKJeZv3rL) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 4:18 | 2026-06-07 |  |
 | [Say You Will](https://open.spotify.com/track/4cfoU2UXXsbES5qwvdLHCO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:43 | 2025-03-08 |  |
 | [Secret Door](https://open.spotify.com/track/1ium9V09FUQ32Co0D3B6Dz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:53 | 2025-03-08 |  |
-| [Self Destruct](https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:54 | 2026-06-07 |  |
+| [Self Destruct](https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:54 | 2026-06-07 | 2026-09-13 |
+| [Self Destruct](https://open.spotify.com/track/7hbsjFjynjjbPnDR7DuDxR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:54 | 2026-09-13 |  |
 | [Sweet Sacrifice](https://open.spotify.com/track/7hlXiMxN81uctLsvbtHZ8x) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:05 | 2025-03-08 |  |
 | [Tell Me When You've Had Enough](https://open.spotify.com/track/6AGBZEHiJTtM0GE7iEFYRB) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:19 | 2026-06-07 |  |
 | [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 | 2025-03-08 | 2026-06-10 |

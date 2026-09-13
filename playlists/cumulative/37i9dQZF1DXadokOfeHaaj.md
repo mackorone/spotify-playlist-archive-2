@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-535 songs - 1 day 9 hr 32 min
+536 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 | 2024-05-24 | 2025-05-09 |
 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 | 2026-02-13 | 2026-06-19 |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-03 | 2026-05-08 |
-| [PROJECT X](https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [PROJECT X](https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E) | 3:48 | 2026-07-23 |  |
+| [PROJECT X](https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [PROJECT X](https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E) | 3:48 | 2026-07-23 | 2026-09-13 |
 | [Prophecy At 1420 MHz](https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 5:04 | 2026-05-07 | 2026-08-21 |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2025-01-17 | 2025-04-13 |
 | [PURE LOVE](https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [PURE LOVE](https://open.spotify.com/album/22AuMsgiDu1rAu7hPAylZE) | 3:24 | 2025-02-21 | 2025-03-07 |
@@ -503,6 +503,7 @@
 | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/track/2dy5gd8IRckEx4iweoU6UR) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/album/52NRgpwnqxUH7IPZ2Qebuu) | 4:06 | 2021-10-28 | 2024-02-02 |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-01-17 | 2025-05-30 |
 | [u told me](https://open.spotify.com/track/3LRjxc6kt4MGoqGulI6ZhT) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [u told me](https://open.spotify.com/album/7wwvgEMy1YFm66dRklYZcz) | 2:52 | 2025-01-31 | 2025-02-14 |
+| [Uncasually](https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 4:21 | 2026-09-10 |  |
 | [Unfold](https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:45 | 2021-10-28 | 2024-03-29 |
 | [Unpredictable](https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Unpredictable](https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa) | 3:17 | 2024-03-22 | 2025-01-17 |
 | [Up](https://open.spotify.com/track/28rIQ2vFiYoZi3cEFuuefV) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Up](https://open.spotify.com/album/05o5zwaxeEFR7VzttQs727) | 3:22 | 2024-05-10 | 2025-02-14 |

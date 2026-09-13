@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 512 songs - 1 day 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 512 songs - 1 day 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,12 +300,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 290 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
 | 291 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 |
 | 292 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
-| 293 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
-| 294 | [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 293 | [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 294 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
 | 295 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
 | 296 | [Don't Tell Nobody](https://open.spotify.com/track/3r1Xi1ZFDWmiA35vtA2zJD) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 2:51 |
-| 297 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 |
-| 298 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 297 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 298 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 |
 | 299 | [Hold On](https://open.spotify.com/track/7AuHKPDhAAtCAPk8mav6h4) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA) | 3:35 |
 | 300 | [Say It All](https://open.spotify.com/track/57CyqjHnj1E9dNysbxLysv) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:27 |
 | 301 | [Castles \(feat\. Trey Songz\)](https://open.spotify.com/track/4zhRQASMDW7azUUFpCs2m2) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:54 |
@@ -413,8 +413,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 403 | [Crush \(From "Songland"\)](https://open.spotify.com/track/5cDK6gZ5E7OUfI3Sl1DIgs) | [Daniel Feels](https://open.spotify.com/artist/5ZJXhhWpqZS8C2xqOOxro0), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Crush \(From "Songland"\)](https://open.spotify.com/album/28m0PEgWPala52DDvUAhHU) | 2:40 |
 | 404 | [Same Blood](https://open.spotify.com/track/6no2TiaMDBkI5Mo6yssV4X) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Same Blood](https://open.spotify.com/album/6hkAYWquyUAcEI0TuzOKtq) | 3:03 |
 | 405 | [She Tried](https://open.spotify.com/track/1boP5WnY3f23s7MpMmDMFY) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Deliverance](https://open.spotify.com/album/1Su7jQECJV3scrqYw55XvD) | 3:49 |
-| 406 | [We Got Us \(From "Songland"\)](https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6) | [Brandin Jay](https://open.spotify.com/artist/6DDkY2dyl6CxbDK9h4nkVf) | [We Got Us \(From "Songland"\)](https://open.spotify.com/album/574gbvmiQQtysH6vU4CUiA) | 3:28 |
-| 407 | [Let You Go](https://open.spotify.com/track/4SHDFcuH0z1VRjkOqOFHIK) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/6Z81DMpllKUxDwowiHYbsu) | 1:37 |
+| 406 | [Let You Go](https://open.spotify.com/track/4SHDFcuH0z1VRjkOqOFHIK) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/6Z81DMpllKUxDwowiHYbsu) | 1:37 |
+| 407 | [We Got Us \(From "Songland"\)](https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6) | [Brandin Jay](https://open.spotify.com/artist/6DDkY2dyl6CxbDK9h4nkVf) | [We Got Us \(From "Songland"\)](https://open.spotify.com/album/574gbvmiQQtysH6vU4CUiA) | 3:28 |
 | 408 | [You’ll Be There \(with Justin Timberlake\)](https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:21 |
 | 409 | [Strike the Match](https://open.spotify.com/track/7GwZnHs1t5bzzXjsqgtigW) | [Monrose](https://open.spotify.com/artist/6y5noymXdPvXf7wjIAgQOY) | [I Am](https://open.spotify.com/album/2Nhz0KfLNdiNwlGy8GeOTb) | 2:56 |
 | 410 | [This Is How You Know](https://open.spotify.com/track/4StvPr4wQdxChEcalZNd8V) | [Union Moon](https://open.spotify.com/artist/3FIEwtZZiLVuEDJ2cEaneq) | [This Is How You Know](https://open.spotify.com/album/0TBLAeZMpqTPrabpasHOji) | 3:20 |
@@ -521,4 +521,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 511 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 512 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AccDXAAAAAAUXk4R84Bn5P7xsKXYyp9H`
+Snapshot ID: `AccI/AAAAADalRIyb7jrXqn4fDXZRtOl`

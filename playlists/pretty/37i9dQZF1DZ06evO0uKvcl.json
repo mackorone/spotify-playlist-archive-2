@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31517,
+  "num_followers": 31520,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAABQLtgGjNrcu9nyzGs0+wDM",
+  "snapshot_id": "aqNEgAAAAADav8YWJwHFmvuu8pRm4TI3",
   "tracks": [
     {
       "added_at": null,
@@ -334,15 +334,11 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 139826,
-      "name": "Do The Do",
-      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+      "duration_ms": 223946,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Rockin' Daddy",
-      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+      "duration_ms": 139826,
+      "name": "Do The Do",
+      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Tell Me What I've Done",
+      "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Tell Me What I've Done",
-      "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "You Gonna Wreck My Life",
-      "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Memphis Sessions",
         "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 178000,
       "name": "California Blues",
       "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "You Gonna Wreck My Life",
+      "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 157000,
       "name": "Howlin' Wolf Boogie",
       "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
+      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
-      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 140760,
       "name": "Hidden Charms - Single Version",
       "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 227240,
       "name": "Cryin' at Daybreak",
       "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 52466,
-      "name": "Rollin' And Tumblin' - Acoustic Fragment",
-      "url": "https://open.spotify.com/track/48mLutxZGbIXtsji9yg2nq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175663,
       "name": "Wolf Is At Your Door",
       "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 52466,
+      "name": "Rollin' And Tumblin' - Acoustic Fragment",
+      "url": "https://open.spotify.com/track/48mLutxZGbIXtsji9yg2nq"
     },
     {
       "added_at": null,

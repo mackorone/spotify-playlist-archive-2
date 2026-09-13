@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 86190,
+  "num_followers": 86200,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-25 06:35:54",
       "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "Tu Hai, Pt. 01",
+      "url": "https://open.spotify.com/track/4rlx1DGszzyKdwm5Kps9Ot"
+    },
+    {
+      "added_at": "2026-08-25 06:35:54",
+      "album": {
         "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
         "url": "https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 348478,
       "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV"
-    },
-    {
-      "added_at": "2026-08-25 06:35:54",
-      "album": {
-        "name": "Tu Hai",
-        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
-      },
-      "artists": [
-        {
-          "name": "Indian Ocean",
-          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
-        }
-      ],
-      "duration_ms": 346000,
-      "name": "Tu Hai, Pt. 01",
-      "url": "https://open.spotify.com/track/4rlx1DGszzyKdwm5Kps9Ot"
     },
     {
       "added_at": "2026-08-25 06:35:54",

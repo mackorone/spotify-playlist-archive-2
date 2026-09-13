@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,087 songs - 2 day 12 hr 50 min
+1,088 songs - 2 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Kompleks Boga](https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Szymon Pałyz](https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz) | [Kompleks Boga](https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK) | 3:07 | 2025-08-01 | 2025-08-08 |
 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 | 2025-12-05 | 2026-06-10 |
 | [Koniec](https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Koniec](https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO) | 3:25 | 2025-10-23 | 2025-11-08 |
-| [koniec lata](https://open.spotify.com/track/55Mo4CkBOxsYqqPaBedQAI) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [koniec lata](https://open.spotify.com/album/1hRIGmTy2rMFWjJIXjNLCR) | 3:17 | 2026-09-10 |  |
+| [koniec lata](https://open.spotify.com/track/55Mo4CkBOxsYqqPaBedQAI) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [koniec lata](https://open.spotify.com/album/1hRIGmTy2rMFWjJIXjNLCR) | 3:17 | 2026-09-10 | 2026-09-13 |
 | [Kołysanka \(z filmu Chłopiec na Krańcach Świata\)](https://open.spotify.com/track/5AOhDOzD1S3EPPJn5b4PoL) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Kołysanka \(z filmu Chłopiec na Krańcach Świata\)](https://open.spotify.com/album/3tahuAdTUV9cPonTlG9R82) | 2:27 | 2026-06-09 | 2026-06-20 |
 | [Kości](https://open.spotify.com/track/7ItTsut5l5eAj1hGb2WCCJ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Kości](https://open.spotify.com/album/4pmTKtrPtbFh8XmGSEZNVQ) | 3:32 | 2025-02-21 | 2025-03-29 |
 | [krab](https://open.spotify.com/track/1xLA1bJCwPLTIZc3I43GgC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [krab](https://open.spotify.com/album/1SRdjKOVnxbBetGvyU6X6F) | 3:48 | 2024-10-07 | 2024-10-15 |
@@ -708,6 +708,7 @@
 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-31 | 2025-06-21 |
 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 | 2024-11-21 | 2025-02-08 |
 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 | 2026-02-20 | 2026-04-18 |
+| [Pockets](https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K) | [Amor y Vida](https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc) | [Pockets](https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd) | 4:28 | 2026-09-10 |  |
 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 | 2025-05-31 | 2025-06-10 |
 | [Pod wodą](https://open.spotify.com/track/2D2njkTuNU2sL6qzy1gNhq) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Pod wodą](https://open.spotify.com/album/06R90PYpe53UUVMPLpwWQq) | 2:55 | 2024-07-05 | 2024-07-19 |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-20 | 2024-09-28 |

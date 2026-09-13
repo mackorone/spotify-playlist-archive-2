@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1618301,
+  "num_followers": 1618349,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
+        "name": "Ameonna",
+        "url": "https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Ameonna",
+      "url": "https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 211115,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Ameonna",
-        "url": "https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Ameonna",
-      "url": "https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+        "name": "Tibet",
+        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+      "duration_ms": 219566,
+      "name": "Tibet",
+      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
-        "name": "Tibet",
-        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 219566,
-      "name": "Tibet",
-      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
-        "name": "Bounce Music",
-        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Bounce Music",
-      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Bounce Music",
+        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Bounce Music",
+      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 167040,
       "name": "Home",
       "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1547,30 +1547,6 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1615,6 +1591,30 @@
       "duration_ms": 211875,
       "name": "Beg You",
       "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "duration_ms": 225048,
+      "name": "VEINS",
+      "url": "https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A"
-      },
-      "artists": [
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        }
-      ],
-      "duration_ms": 225048,
-      "name": "VEINS",
-      "url": "https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1943,42 +1943,22 @@
     {
       "added_at": "2026-09-11 04:01:22",
       "album": {
-        "name": "Luv 4 U EP",
-        "url": "https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH"
+        "name": "I'm On My Way",
+        "url": "https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
         },
         {
-          "name": "SEIZMIC",
-          "url": "https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd"
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
         }
       ],
-      "duration_ms": 327619,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 190471,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
+      "duration_ms": 207619,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -1999,6 +1979,26 @@
       "duration_ms": 211273,
       "name": "Love Shop",
       "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 190471,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
     }
   ],
   "unique_name": "Night Rider",

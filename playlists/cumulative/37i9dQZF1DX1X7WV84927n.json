@@ -27247,6 +27247,24 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/4NiKVf3kMXzG03j1czUxmP"
+      },
+      "artists": [
+        {
+          "name": "Black Coast",
+          "url": "https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198913,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/6ptX8KKlqzDObIcDecysVD"
+    },
+    {
+      "album": {
         "name": "SPLIT",
         "url": "https://open.spotify.com/album/6rvqtUzEek4ONsvle8zmaJ"
       },
@@ -27442,7 +27460,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 195783,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0N5F2m28CZHvCiMLV1yQ0t"

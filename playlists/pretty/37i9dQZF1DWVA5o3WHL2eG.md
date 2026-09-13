@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,268 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,266 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Luftkuss](https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Luftkuss](https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO) | 1:53 |
 | 10 | [Ich wein für dich](https://open.spotify.com/track/177EAWicoLjRcIJuaETODL) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [Ich wein für dich](https://open.spotify.com/album/1XXKsykHsVcYjQKMsGrs0t) | 2:58 |
 | 11 | [ALIVE](https://open.spotify.com/track/3rfagkJSrSs4BSV1q8suQt) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [ALIVE](https://open.spotify.com/album/0jsohMrFJ01nWD7OVRMLYc) | 2:32 |
-| 12 | [CHAYAS LIEBEN TRAP](https://open.spotify.com/track/6v5giipQNFNfgpoevePRyH) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [CHAYAS LIEBEN TRAP](https://open.spotify.com/album/4B7xRCqzgI325YCOZ4DBC2) | 2:25 |
-| 13 | [Appetit](https://open.spotify.com/track/2Ru4Mr1fRMvvq0zB5ufTW5) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [Appetit](https://open.spotify.com/album/5R3CNUWIz5aCJQS7EklvHU) | 1:59 |
+| 12 | [Appetit](https://open.spotify.com/track/2Ru4Mr1fRMvvq0zB5ufTW5) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [Appetit](https://open.spotify.com/album/5R3CNUWIz5aCJQS7EklvHU) | 1:59 |
+| 13 | [CHAYAS LIEBEN TRAP](https://open.spotify.com/track/6v5giipQNFNfgpoevePRyH) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [CHAYAS LIEBEN TRAP](https://open.spotify.com/album/4B7xRCqzgI325YCOZ4DBC2) | 2:25 |
 | 14 | [Sterne unterm Dach](https://open.spotify.com/track/6ZKazOSqSZPdehgn4UYxBz) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 3:05 |
 | 15 | [tussis > macker](https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [tussis > macker](https://open.spotify.com/album/5l86jPGB4QmojWidLpzAeH) | 2:01 |
 | 16 | [2MG](https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [2MG](https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0) | 2:07 |
 | 17 | [Ich hoffe du hast Angst](https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Ich hoffe du hast Angst](https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860) | 2:30 |
-| 18 | [OAKBERRY](https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [OAKBERRY](https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7) | 1:51 |
-| 19 | [kahs là bas](https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [kahs là bas](https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0) | 2:10 |
+| 18 | [kahs là bas](https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [kahs là bas](https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0) | 2:10 |
+| 19 | [OAKBERRY](https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [OAKBERRY](https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7) | 1:51 |
 | 20 | [mr\. rush](https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [mr\. rush](https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3) | 2:24 |
 | 21 | [Annabella](https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL) | [Laura Larsson](https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Annabella](https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq) | 2:26 |
 | 22 | [dummes klavier](https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [dummes klavier](https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4) | 3:19 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 |
 | 38 | [dumme sachen fühlen](https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [dumme sachen fühlen](https://open.spotify.com/album/5HM7AXjuIlmShkoOom3PcD) | 3:02 |
 | 39 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |
-| 40 | [Weißes Kleid](https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Weißes Kleid](https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD) | 2:20 |
-| 41 | [Too Tired](https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Too Tired](https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX) | 3:51 |
+| 40 | [Too Tired](https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Too Tired](https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX) | 3:51 |
+| 41 | [Weißes Kleid](https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Weißes Kleid](https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD) | 2:20 |
 | 42 | [Faded Echos](https://open.spotify.com/track/7aoiix7qtd4JMAAJaOjJ2s) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [The Purple Cat Edition](https://open.spotify.com/album/2MyzrfuvyuiBLWGPP9qUsE) | 5:26 |
 | 43 | [du bist so schön](https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [du bist so schön](https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf) | 2:23 |
 | 44 | [DIVA CLUB](https://open.spotify.com/track/4Sb1E7Z2bAigEjtGQNSK1o) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [DIVA CLUB](https://open.spotify.com/album/1qkc6VY7VlrJen8mBcfKbu) | 4:08 |

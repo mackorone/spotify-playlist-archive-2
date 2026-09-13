@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 311516,
+  "num_followers": 311542,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "Tequila (Original)",
-      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 131200,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "Tequila (Original)",
+      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock 'N' Roll Legends",
         "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 128639,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Rama Lama Ding Dong EP",
-        "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
-      },
-      "artists": [
-        {
-          "name": "The Edsels",
-          "url": "https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Rama Lama Ding Dong (Original version 1958)",
-      "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 135173,
       "name": "Party Doll",
       "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Rama Lama Ding Dong EP",
+        "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
+      },
+      "artists": [
+        {
+          "name": "The Edsels",
+          "url": "https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Rama Lama Ding Dong (Original version 1958)",
+      "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Ain't That Right / Bring Your Love Back Home",
+        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Snow",
+          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Bring Your Love Back Home",
+      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "I Need a Man / No Matter Who's to Blame",
         "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 140826,
       "name": "Why Do Fools Fall In Love",
       "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Ain't That Right / Bring Your Love Back Home",
-        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Snow",
-          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Bring Your Love Back Home",
-      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
-        }
-      ],
-      "duration_ms": 119368,
-      "name": "Rockin Daddy",
-      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records Recording Artist - Rosco Gordon",
         "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 157446,
       "name": "Ugly Woman",
       "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 119368,
+      "name": "Rockin Daddy",
+      "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
     },
     {
       "added_at": "2022-06-07 05:25:13",

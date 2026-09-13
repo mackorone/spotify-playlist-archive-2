@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 510457,
+  "num_followers": 510489,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAD5yRe+En57NP8/tlMW6zIQ",
+  "snapshot_id": "aqNEgAAAAADjd9o+/pBSFRzr5HD/JeFA",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 125960,
-      "name": "Take Care Of Business",
-      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See-Line Woman (Mochakk Mix)",
         "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 228104,
-      "name": "Plain Gold Ring (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
     },
     {
       "added_at": null,
@@ -523,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 314840,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Girl Blue (2013 - Remaster)",
         "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
@@ -548,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 149330,
-      "name": "He Needs Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
+      "duration_ms": 228104,
+      "name": "Plain Gold Ring (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
     },
     {
       "added_at": null,
@@ -575,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 314840,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 146626,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 149330,
+      "name": "He Needs Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Tomorrow Is My Turn",
-      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Comes The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 231346,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 416693,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 290080,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
+      "duration_ms": 416693,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
         "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169840,
       "name": "To Be Young, Gifted and Black - 2005 Remix",
       "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": null,

@@ -1,29 +1,13 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 9161,
+  "num_followers": 9170,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACmUtPV6knXOXgzpDlYz1Aj",
+  "snapshot_id": "aqNEgAAAAACxg/QzonqZcjTKcCe5cUFZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 160919,
-      "name": "Dig Me Out",
-      "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 160919,
+      "name": "Dig Me Out",
+      "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "One More Hour",
-      "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 264893,
       "name": "Jumpers",
       "url": "https://open.spotify.com/track/1YFUVWqrfXKJtRchH3kMAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "One More Hour",
+      "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Turn It On",
-      "url": "https://open.spotify.com/track/53274hl7rQOfVdNbgHfr2T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 150213,
       "name": "Youth Decay",
       "url": "https://open.spotify.com/track/4gxHi3vWjc7IWye0kzLYJH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/53274hl7rQOfVdNbgHfr2T"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "Words and Guitar",
-      "url": "https://open.spotify.com/track/7b6wCOUbe9nugBfiTrekTH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
+      "duration_ms": 141386,
+      "name": "Words and Guitar",
+      "url": "https://open.spotify.com/track/7b6wCOUbe9nugBfiTrekTH"
     },
     {
       "added_at": null,
@@ -267,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
       "artists": [
         {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 143026,
-      "name": "Little Babies",
-      "url": "https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL"
+      "duration_ms": 224840,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
     },
     {
       "added_at": null,
@@ -295,6 +279,22 @@
       "duration_ms": 210943,
       "name": "Can I Go On",
       "url": "https://open.spotify.com/track/1krtlGy6LlyMpgz4RkVGwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Little Babies",
+      "url": "https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 128120,
-      "name": "The Drama You've Been Craving",
-      "url": "https://open.spotify.com/track/06Nbj4rQP2vhvThjTMdhmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Cities to Love",
         "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 218533,
       "name": "A New Wave",
       "url": "https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 128120,
+      "name": "The Drama You've Been Craving",
+      "url": "https://open.spotify.com/track/06Nbj4rQP2vhvThjTMdhmf"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Center Won't Hold",
-        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 210418,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/74H4eCl0q48sVgd75ZSEnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Cities to Love",
         "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 234013,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 210418,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/74H4eCl0q48sVgd75ZSEnj"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

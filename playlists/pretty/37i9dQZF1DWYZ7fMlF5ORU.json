@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 187041,
+  "num_followers": 187058,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Simplicio",
-          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Alegria",
         "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
       },
@@ -403,22 +387,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Ele Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r"
+        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
       },
       "artists": [
         {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Julio Cesar",
-          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
+          "name": "Pablo Simplicio",
+          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
         }
       ],
-      "duration_ms": 351933,
-      "name": "Ele Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr"
+      "duration_ms": 169318,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -455,6 +435,26 @@
       "duration_ms": 198681,
       "name": "Aten\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Ele Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Julio Cesar",
+          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
+        }
+      ],
+      "duration_ms": 351933,
+      "name": "Ele Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Por Amor a Ti",
-        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Medley: Dom Supremo",
-      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Sobre Deixar",
         "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 220386,
       "name": "O Que H\u00e1 Por Dentro",
       "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Por Amor a Ti",
+        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Medley: Dom Supremo",
+      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Livre Eu Sou",
-        "url": "https://open.spotify.com/album/1ugTboCsgYOuNwpJraHNZz"
-      },
-      "artists": [
-        {
-          "name": "Veronica Sacer",
-          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
-        }
-      ],
-      "duration_ms": 198636,
-      "name": "Livre Eu Sou",
-      "url": "https://open.spotify.com/track/5SNvqC52ylY8OjI9IGsiEA"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Nunca Vou Parar (Live)",
         "url": "https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225900,
       "name": "Nunca Vou Parar - Live",
       "url": "https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Livre Eu Sou",
+        "url": "https://open.spotify.com/album/1ugTboCsgYOuNwpJraHNZz"
+      },
+      "artists": [
+        {
+          "name": "Veronica Sacer",
+          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
+        }
+      ],
+      "duration_ms": 198636,
+      "name": "Livre Eu Sou",
+      "url": "https://open.spotify.com/track/5SNvqC52ylY8OjI9IGsiEA"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Haja Luz",
+        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Livre Sou",
+      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Saudade, Vol. 1",
         "url": "https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 273500,
       "name": "Eu Grito",
       "url": "https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Oh Gl\u00f3ria, Aleluia",
-      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Oh Gl\u00f3ria, Aleluia",
+      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 310693,
       "name": "Antes & Depois",
       "url": "https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Haja Luz",
-        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Livre Sou",
-      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
     },
     {
       "added_at": "2026-06-12 03:01:51",

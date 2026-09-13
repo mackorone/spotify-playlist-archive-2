@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Paige Plaisance
 
-284 songs - 16 hr 40 min
+286 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Love Don’t](https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 5:10 | 2021-11-12 | 2026-03-07 |
 | [Love You To Death](https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Love You To Death](https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp) | 3:24 | 2026-09-11 |  |
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2025-04-27 |
-| [Lucky Me](https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Lucky Me](https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05) | 2:23 | 2026-07-17 |  |
+| [Lucky Me](https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Lucky Me](https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05) | 2:23 | 2026-07-17 | 2026-09-13 |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2025-05-31 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
 | [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 | 2023-05-13 |
@@ -192,6 +192,7 @@
 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 | 2021-11-12 | 2022-07-25 |
 | [Movin' Out](https://open.spotify.com/track/3XcH2mc0TVjGW7PeD56f6B) | [Paige Plaisance](https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9) | [Swampwater](https://open.spotify.com/album/5jV4TWYNqv2sHPi6w63Hhm) | 3:03 | 2026-09-04 |  |
 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 | 2026-02-06 |  |
+| [My Baby Loves Me](https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rent Money](https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h) | 3:05 | 2026-09-11 |  |
 | [My Boots](https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 4:47 | 2021-11-12 | 2022-05-26 |
 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 |  |
 | [No Name](https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:06 | 2023-09-08 | 2024-04-19 |
@@ -246,6 +247,7 @@
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:27 | 2022-04-01 | 2024-04-19 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-11-12 | 2025-10-30 |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-07-05 |  |
+| [Texas Angel](https://open.spotify.com/track/7BRiliFWes3v23LifgS5MN) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Texas Angel](https://open.spotify.com/album/3WkNVOx6QXbKzMyQ41Znb1) | 3:46 | 2026-09-11 |  |
 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 | 2021-11-12 |  |
 | [The Last Tear](https://open.spotify.com/track/1dUQUX4jRmE8PROZ4Xw49C) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Lately](https://open.spotify.com/album/1azugHkoKRDBfIsCac10z9) | 3:31 | 2022-02-18 | 2025-07-10 |
 | [The Last To Know](https://open.spotify.com/track/65965vBWT1mhOGat6GodGa) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [Havin' A Talk](https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP) | 3:26 | 2026-02-06 | 2026-09-12 |
@@ -254,7 +256,7 @@
 | [The Story](https://open.spotify.com/track/1XYD3qY6OrSvTcsAas6vWT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Story](https://open.spotify.com/album/0DK5IHPN9VNzADJ0vgf9BK) | 4:17 | 2021-11-12 | 2022-07-29 |
 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 | 2022-04-01 | 2022-06-17 |
 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 | 2023-08-04 |  |
-| [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 | 2021-11-12 |  |
+| [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 | 2021-11-12 | 2026-09-13 |
 | [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 | 2026-03-06 |  |
 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 | 2022-04-01 |  |
 | [Today I Started Loving You Again](https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Today I Started Loving You Again](https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP) | 2:36 | 2022-04-01 | 2026-03-07 |

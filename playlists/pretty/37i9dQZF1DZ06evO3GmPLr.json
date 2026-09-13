@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57520,
+  "num_followers": 57536,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAABK230/xHgqmTHwQmoIiHC/",
+  "snapshot_id": "aqNEgAAAAAAyG6Xc+nogjxOf1A8eimDA",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stillness in Wonderland",
-        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4toqE1DBX8IL0nnB182Yt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise Now",
         "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
       },
@@ -659,34 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 205704,
-      "name": "That's a No No",
-      "url": "https://open.spotify.com/track/1R8JylLovUs7WRLiFPq2G5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
-      },
-      "artists": [
+        },
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 168521,
-      "name": "Offence",
-      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
+      "duration_ms": 188089,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4toqE1DBX8IL0nnB182Yt8"
     },
     {
       "added_at": null,
@@ -711,6 +679,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "That's a No No",
+      "url": "https://open.spotify.com/track/1R8JylLovUs7WRLiFPq2G5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proud of Me (feat. Little Simz)",
         "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
       },
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
-        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 218011,
-      "name": "Don't Leave Too Soon",
-      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
+      "duration_ms": 364181,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
+        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 364181,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+      "duration_ms": 218011,
+      "name": "Don't Leave Too Soon",
+      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
     },
     {
       "added_at": null,

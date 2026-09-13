@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-440 songs - 23 hr 28 min
+441 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [22 Samurai](https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 2:56 | 2024-07-02 |  |
 | [3\-OUT](https://open.spotify.com/track/67PEoIjllIpuM0lLuetEJ5) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 2:54 | 2022-05-03 | 2022-07-24 |
 | [A Breath of Fresh Air](https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [In Search of Peace](https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb) | 2:38 | 2024-07-02 | 2024-09-02 |
-| [A Hero Is Born](https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Gaijin II Tale of Rai](https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK) | 3:18 | 2025-05-23 | 2026-01-21 |
+| [A Hero Is Born](https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Gaijin II Tale of Rai](https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK) | 3:18 | 2025-05-23 |  |
 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 | 2022-05-03 | 2024-07-03 |
 | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/track/2QvAqO6f2sbjGnLaAdlaNI) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/album/6roGryreinaVwywhgupU4w) | 4:31 | 2022-05-03 | 2022-07-05 |
 | [A Traveler's Tale](https://open.spotify.com/track/2Uy3YqGCfiZ4aIfp9mD5Lx) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [A Traveler's Tale](https://open.spotify.com/album/7ztlWkCDduMuSuDkzbj67Z) | 2:54 | 2026-06-29 |  |
@@ -52,7 +52,7 @@
 | [Beyond the Veil](https://open.spotify.com/track/6kwjxS1LFHHZ79wqhvQiy1) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:49 | 2024-07-02 | 2026-01-15 |
 | [Beyond the Waves](https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond the Waves](https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr) | 2:50 | 2024-07-02 | 2026-03-19 |
 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 | 2024-07-02 |  |
-| [Birds In The Sky](https://open.spotify.com/track/35wVmS0xJhkpgvS1pUdT4t) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c) | [New Horizons](https://open.spotify.com/album/6TOgT2VZ9FSq9oNB9th3ZS) | 2:30 | 2026-04-17 |  |
+| [Birds In The Sky](https://open.spotify.com/track/35wVmS0xJhkpgvS1pUdT4t) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c) | [New Horizons](https://open.spotify.com/album/6TOgT2VZ9FSq9oNB9th3ZS) | 2:30 | 2026-04-17 | 2026-09-13 |
 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 | 2024-07-03 |
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 | 2024-11-04 |
 | [Blood Oath](https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Blood Oath](https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0) | 3:15 | 2024-07-02 |  |
@@ -105,6 +105,7 @@
 | [Egyptian Pools](https://open.spotify.com/track/0apbliJUvsg6R6l126454r) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Meditation](https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg) | 2:10 | 2024-07-02 | 2026-03-14 |
 | [Enchanting Lights](https://open.spotify.com/track/30COvB6DZzh3waT3MQFV0R) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:37 | 2025-05-23 | 2026-02-04 |
 | [endure pain](https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj) | [samashi](https://open.spotify.com/artist/31VUMUK0O502Uw3YE3BPiV) | [Oldschool Memories](https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq) | 3:54 | 2024-07-02 |  |
+| [Engage Ring](https://open.spotify.com/track/2drTnSgjQUan4y4Bf1wtXr) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9), [Emily Styler](https://open.spotify.com/artist/02yMLWSDWOC5AYKoBy0t39) | [Restore](https://open.spotify.com/album/05MLC0oLmx4NhQDy04gLJb) | 5:00 | 2026-09-08 |  |
 | [Escape to Azuchi](https://open.spotify.com/track/6It6PE4gj1vA4Rc1joIj1N) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Escape to Azuchi](https://open.spotify.com/album/0ySeNwPlXwAJtzHPdarLP1) | 2:28 | 2024-07-02 | 2025-02-24 |
 | [Eternal Beauty](https://open.spotify.com/track/6Jsv1iMcvsn6d6XScz1dlq) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 2:56 | 2024-07-02 | 2025-02-04 |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2024-07-02 | 2025-04-25 |
@@ -219,7 +220,7 @@
 | [Maudie](https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:04 | 2022-09-07 | 2022-12-03 |
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 | 2024-06-22 |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
-| [Midnight Thoughts](https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Way of Life](https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2) | 2:28 | 2026-03-06 |  |
+| [Midnight Thoughts](https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Way of Life](https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2) | 2:28 | 2026-03-06 | 2026-09-13 |
 | [Mind Pool](https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Time In Motion](https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL) | 1:34 | 2024-07-02 | 2026-01-23 |
 | [miracle](https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Planet Zen](https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F) | 3:30 | 2024-07-02 | 2025-05-24 |
 | [Miso](https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa) | [Shiitaki](https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8) | [Miso](https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6) | 2:09 | 2024-07-02 |  |

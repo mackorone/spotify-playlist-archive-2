@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,360 songs - 5 day 2 hr 24 min
+2,362 songs - 5 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-13 |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-05-23 | 2024-06-21 |
 | [Arg och frustrerad](https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Arg och frustrerad](https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn) | 3:29 | 2026-05-14 |  |
+| [Arkadien](https://open.spotify.com/track/5x7C2GUAvBfd4s1P33dgRc) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Arkadien](https://open.spotify.com/album/2PGQIDyU2gv1Zlm51Huh8h) | 3:54 | 2026-09-10 |  |
 | [Asfalt & nikotin](https://open.spotify.com/track/4MNsh1rqaRAZUhNm6ATAbR) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Asfalt & nikotin](https://open.spotify.com/album/1vTvWoiNkKShlx4fZXo8BT) | 2:52 | 2025-05-01 | 2025-10-17 |
 | [Aska](https://open.spotify.com/track/1cahT3TKkFmggbAoL6sRQO) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aska](https://open.spotify.com/album/0hDiIyy8derMbYJ9N4Eghx) | 3:54 | 2022-01-13 | 2022-07-29 |
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
@@ -1370,7 +1371,7 @@
 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 | 2026-03-19 | 2026-08-28 |
 | [Min Vän](https://open.spotify.com/track/7tpQYavfKzFq1RkEmOarw1) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Min Vän](https://open.spotify.com/album/38EYyBabFipzV9LPr1nmcD) | 2:32 | 2024-05-02 | 2024-06-01 |
 | [Min vän och jag](https://open.spotify.com/track/0NPyQAU96LDQ2xLyIPyAg6) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:38 | 2025-11-13 | 2026-03-20 |
-| [Mina bästa jeans](https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Mina bästa jeans](https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M) | 2:35 | 2026-06-25 |  |
+| [Mina bästa jeans](https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Mina bästa jeans](https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M) | 2:35 | 2026-06-25 | 2026-09-13 |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
 | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 | 2024-02-08 | 2024-04-05 |
@@ -1659,7 +1660,7 @@
 | [Regndroppar på din kind](https://open.spotify.com/track/5z86mBfuzz0jT2V85OJhMh) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Regndroppar på din kind](https://open.spotify.com/album/5VCnpTVF1pP8nNBScWHnCJ) | 2:58 | 2026-08-27 |  |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Right?](https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Right?](https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw) | 2:56 | 2024-06-06 | 2024-08-09 |
-| [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 | 2026-05-14 |  |
+| [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 | 2026-05-14 | 2026-09-13 |
 | [Ringar på vatten](https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Ringar på vatten](https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc) | 2:33 | 2025-08-14 | 2026-01-02 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2023-08-11 |
@@ -2179,6 +2180,7 @@
 | [Valborgsnatten \- Remix](https://open.spotify.com/track/0rybhNwTIeE2KDQjKFDYh9) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Valborgsnatten \(Remix\)](https://open.spotify.com/album/3gLjHE3fJlpvDG8zBjI6bi) | 2:57 | 2024-04-25 | 2024-05-24 |
 | [Vanish!](https://open.spotify.com/track/3krsQzuDKZAdNTkhRLlQ71) | [Freddie Joon](https://open.spotify.com/artist/2uiFUbeyr7hVJrlnjolYct) | [Vanish!](https://open.spotify.com/album/7547vdxjNpucMOJF50Tatl) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Vanligt, Vanligt](https://open.spotify.com/track/7iZU7ydaWwwJFD7fiSDwlM) | [YVONNE](https://open.spotify.com/artist/4a1111uVBut80pBLecGDXf), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Vanligt, Vanligt](https://open.spotify.com/album/2Lm3sBC1IKsa0vFeIJxfHl) | 2:42 | 2024-05-16 | 2024-06-14 |
+| [Vann du livet?](https://open.spotify.com/track/7Aba1eJrqLrAP4NlMAvwK0) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Vann du livet?](https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3) | 3:30 | 2026-09-10 |  |
 | [Var är du?](https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:14 | 2021-12-16 | 2022-03-10 |
 | [Vara människa](https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Vara människa](https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4) | 2:14 | 2025-12-18 | 2026-03-20 |
 | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Varför \(feat\. Simon Superti\)](https://open.spotify.com/album/5n5hvBjrPOVxwuyw9z1AwH) | 2:38 | 2026-02-19 | 2026-06-01 |

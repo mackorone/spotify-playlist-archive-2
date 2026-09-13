@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 29490,
+  "num_followers": 29593,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Germ Free Adolescents",
-        "url": "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 146392,
       "name": "HAMMS IN A GLASS",
       "url": "https://open.spotify.com/track/3yOfqcmYBcRZwOhApqfYr5"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Germ Free Adolescents",
+        "url": "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Moving Targets",
-        "url": "https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb"
-      },
-      "artists": [
-        {
-          "name": "Penetration",
-          "url": "https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Don't Dictate - Demo",
-      "url": "https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "ITEKOMA HITS",
         "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 131213,
       "name": "Love is Short",
       "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Moving Targets",
+        "url": "https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb"
+      },
+      "artists": [
+        {
+          "name": "Penetration",
+          "url": "https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Don't Dictate - Demo",
+      "url": "https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "The Refrigerator",
-        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
-      },
-      "artists": [
-        {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Across The Line",
-      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Talk of Violence",
         "url": "https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 184500,
       "name": "Touch Me Again",
       "url": "https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "The Refrigerator",
+        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Across The Line",
+      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
     },
     {
       "added_at": "2026-07-01 16:22:16",

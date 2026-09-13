@@ -4,7 +4,7 @@
 
 > 
 
-3,191 songs - 6 day 20 hr 14 min
+3,192 songs - 6 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2425,6 +2425,7 @@
 | [Secrets](https://open.spotify.com/track/6jn6r1cC3gvxKwcDt6ruzQ) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [Secrets](https://open.spotify.com/album/6t3cojlIo3GjFxGdc0fl68) | 2:53 | 2025-06-15 |  |
 | [See Them Hatin'](https://open.spotify.com/track/5Bk382GdqkbDzfuQuI0g6W) | [Estasia](https://open.spotify.com/artist/74hAeTlsTNzxpyczUGnkM2), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz), [StarrLight](https://open.spotify.com/artist/1gWr4h0EIxXVc2XIK8vCxY) | [My Turn](https://open.spotify.com/album/7vJa3ABKReC3LS2LuW53Gg) | 3:56 | 2022-09-12 |  |
 | [See Your Face](https://open.spotify.com/track/5nOOj0vTJib5T8ayAS4j8d) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [See Your Face](https://open.spotify.com/album/1LXC8nkj7RnAVyGknfPMMF) | 3:00 | 2023-07-16 |  |
+| [Self Aware](https://open.spotify.com/track/1HguG2N6yx2uZlXQjGarya) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Self Aware](https://open.spotify.com/album/2EwgNCNJ9rGKH41bGhhApq) | 1:57 | 2026-09-12 |  |
 | [Selfish](https://open.spotify.com/track/2PbM8tHgfSOyvFeLleDP0Q) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Selfish](https://open.spotify.com/album/0K43NhVgay3siCTmU6nZ7T) | 3:15 | 2023-06-09 |  |
 | [Sequence Breaker \(feat\. Shinonome Interface\)](https://open.spotify.com/track/1zVysp6rqat1puAfeZUoAh) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [Shinonome Interface](https://open.spotify.com/artist/1cYzRgYVdxIwCjYBYAh8U7) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 2:51 | 2023-05-02 |  |
 | [Set Free](https://open.spotify.com/track/7818qH4bTMEbgdW61zjkMi) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Set Free](https://open.spotify.com/album/2f8N9EERiFpYyuqIllQuKc) | 3:12 | 2025-06-01 |  |

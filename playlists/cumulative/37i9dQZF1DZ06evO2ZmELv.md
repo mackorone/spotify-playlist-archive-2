@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 37 min
+86 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cuando Yo Queria Ser Grande](https://open.spotify.com/track/6PdQMapTt0pk9lE5EQctff) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Cuando Yo Queria Ser Grande](https://open.spotify.com/album/0vIHdFT8doQBkOcdRe4UHf) | 3:17 | 2025-07-27 |  |
 | [Debajo De Los Laureles \- En Vivo](https://open.spotify.com/track/1UiOn0z0Jfv5d863x6DIa8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:35 | 2023-03-10 | 2026-09-02 |
 | [Destino Cruel \- En Vivo](https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:53 | 2024-01-15 |  |
-| [Dos Amores En Mi Vida \- En Vivo](https://open.spotify.com/track/7jp4rYlZ2cBEpRVZxeBoQe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 1:50 | 2024-01-16 |  |
+| [Dos Amores En Mi Vida \- En Vivo](https://open.spotify.com/track/7jp4rYlZ2cBEpRVZxeBoQe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 1:50 | 2024-01-16 | 2026-09-13 |
 | [El Adios Ranchero](https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [El Adios Ranchero](https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j) | 3:16 | 2025-03-02 |  |
 | [El Desquite \- Versión Banda En Vivo](https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:09 | 2023-12-29 |  |
 | [El Hubiera No Existe](https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:48 | 2023-03-10 |  |
@@ -43,9 +43,10 @@
 | [Haré de Cuenta](https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:29 | 2023-06-14 | 2024-11-25 |
 | [Hoy Que Te Vas](https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Hoy Que Te Vas](https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj) | 3:06 | 2023-03-10 | 2024-11-25 |
 | [Hoy Que Te Vas](https://open.spotify.com/track/1XtVgG9OLArdsm0p5i5rVy) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:06 | 2024-11-25 |  |
-| [La Chancla \- Versión Banda En Vivo](https://open.spotify.com/track/4kOoH05nlvn7fbAFPPmFxa) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:30 | 2026-06-09 |  |
+| [La Chancla \- Versión Banda En Vivo](https://open.spotify.com/track/4kOoH05nlvn7fbAFPPmFxa) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:30 | 2026-06-09 | 2026-09-13 |
 | [La Diferencia \- En Vivo](https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:13 | 2023-03-10 |  |
 | [La Lámpara \- En Vivo](https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:06 | 2023-12-25 |  |
+| [La Mesa Del Rincon](https://open.spotify.com/track/4JsUtXce1fUcVEtHb3L4wd) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [La Mesa Del Rincon](https://open.spotify.com/album/3NK06ugXn3byCB5AyIGFT9) | 3:07 | 2026-09-13 |  |
 | [La Pasadita \- En Vivo](https://open.spotify.com/track/13eBM9V29Xs3Qo7PEcRr0X) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:45 | 2024-02-24 | 2024-05-14 |
 | [Las Cuentas Claras \- Versión Norteño En Vivo](https://open.spotify.com/track/3nlTZwaA4blF3UQyCUpxX2) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:31 | 2023-07-30 | 2025-07-22 |
 | [Laurita Garza \- Versión Banda En Vivo](https://open.spotify.com/track/4eGrp5JWRFZc2j5Zsho9Ge) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:17 | 2023-03-10 |  |
@@ -70,7 +71,7 @@
 | [NOS VALE MADRE](https://open.spotify.com/track/7bcD0xvqzdOWB7KNd0xfCe) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [NOS VALE MADRE](https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc) | 2:54 | 2024-06-13 |  |
 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Nunca Voy A Olvidarte](https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV) | 3:05 | 2025-04-26 |  |
 | [Ojitos Verdes \- Versión Banda En Vivo](https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 2:40 | 2023-03-10 |  |
-| [Pa' Todo el Año \- Versión Banda En Vivo](https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:49 | 2023-03-10 | 2026-09-12 |
+| [Pa' Todo el Año \- Versión Banda En Vivo](https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:49 | 2023-03-10 |  |
 | [Para Morir Iguales \- Versión Banda En Vivo](https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:06 | 2023-03-10 |  |
 | [Pero Que Mal Me Fue](https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-03-10 |  |
 | [Por Una Mujer Bonita \- En Vivo](https://open.spotify.com/track/0bNdcn9TC4hYPRdRAemYPn) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:23 | 2025-12-22 | 2025-12-25 |

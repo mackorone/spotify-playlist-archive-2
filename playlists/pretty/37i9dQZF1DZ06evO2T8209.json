@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 740862,
+  "num_followers": 740827,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAADh2SshM5QYaV3oI8XfKsv",
+  "snapshot_id": "aqNEgAAAAAAZrdoDaC/whXsF2OKmWGvY",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+        "name": "Look Like My Mama (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
       },
       "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+      "duration_ms": 196800,
+      "name": "Look Like My Mama (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
     },
     {
       "added_at": null,
@@ -159,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Like My Mama (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
       },
       "artists": [
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Look Like My Mama (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Potato Salad",
+        "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Potato Salad",
+      "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Biking",
         "url": "https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 277520,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Potato Salad",
-        "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Potato Salad",
-      "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
     },
     {
       "added_at": null,

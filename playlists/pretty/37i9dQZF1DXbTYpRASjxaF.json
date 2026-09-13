@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: IKNOWFELIPE, LAI$ROSA, Barona, Nanda Tsunami\n",
-  "num_followers": 138480,
+  "num_followers": 138474,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPr82ukgsTMRSYkqknwOHkcS8P0V",
+  "snapshot_id": "AAAAAK8pWe5k2kFpXdk59IUu9asceNyE",
   "tracks": [
     {
       "added_at": "2026-09-04 03:01:26",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
+        "name": "AMO FLOR",
+        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "AMO FLOR",
+      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
         "name": "Mentiras pro KayG",
         "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 195555,
       "name": "Mentiras pro kayg",
       "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
-        "name": "AMO FLOR",
-        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "AMO FLOR",
-      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
     },
     {
       "added_at": "2026-09-04 03:01:26",
@@ -1071,42 +1071,6 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
-        "name": "Efeito do \u00c1lcool",
-        "url": "https://open.spotify.com/album/2e57f5ejFLi9Di6Tg46xKH"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "BigJow",
-          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
-        },
-        {
-          "name": "Trak",
-          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
-        },
-        {
-          "name": "BAP",
-          "url": "https://open.spotify.com/artist/6JfUkEGUtCVSsDMJrr3zYh"
-        },
-        {
-          "name": "ELLER",
-          "url": "https://open.spotify.com/artist/2QDNG8xTZISEZrWghe0gq0"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Efeito do \u00c1lcool",
-      "url": "https://open.spotify.com/track/5t9rSLqb5bgnLUJYhJusVb"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
         "name": "Teimosia",
         "url": "https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw"
       },
@@ -1147,6 +1111,42 @@
       "duration_ms": 141627,
       "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
       "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
+        "name": "Efeito do \u00c1lcool",
+        "url": "https://open.spotify.com/album/2e57f5ejFLi9Di6Tg46xKH"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "BigJow",
+          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
+        },
+        {
+          "name": "Trak",
+          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
+        },
+        {
+          "name": "BAP",
+          "url": "https://open.spotify.com/artist/6JfUkEGUtCVSsDMJrr3zYh"
+        },
+        {
+          "name": "ELLER",
+          "url": "https://open.spotify.com/artist/2QDNG8xTZISEZrWghe0gq0"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Efeito do \u00c1lcool",
+      "url": "https://open.spotify.com/track/5t9rSLqb5bgnLUJYhJusVb"
     },
     {
       "added_at": "2026-09-04 03:01:26",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Ana Laura Lopes",
-  "num_followers": 433424,
+  "num_followers": 433409,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
         "name": "te traindo com voc\u00ea",
         "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
       },
@@ -203,22 +223,6 @@
       "duration_ms": 206445,
       "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
       "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -259,6 +263,22 @@
       "duration_ms": 199711,
       "name": "Fa\u00e7o Parar de Chover",
       "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -323,22 +343,6 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
-        "name": "Ser Feliz de Novo",
-        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 227737,
-      "name": "Ser Feliz de Novo",
-      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
         "name": "Do Outro Lado da Avenida",
         "url": "https://open.spotify.com/album/4vmcqR8xKACMPvBX1R79qe"
       },
@@ -351,6 +355,22 @@
       "duration_ms": 231413,
       "name": "A \u00daltima Can\u00e7\u00e3o De Amor",
       "url": "https://open.spotify.com/track/3awnK0B1KMlpxLkhW2CewR"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
+        "name": "Ser Feliz de Novo",
+        "url": "https://open.spotify.com/album/6NBYiHXhbEP5aI2UOgkGku"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 227737,
+      "name": "Ser Feliz de Novo",
+      "url": "https://open.spotify.com/track/1xISuPa7zvMKXHnTUoVOaQ"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -479,22 +499,6 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
-        "name": "Pra Almar no Frio",
-        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "Voc\u00ea \u00e9 Meu Lugar",
-      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -515,6 +519,22 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
+        "name": "Pra Almar no Frio",
+        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "Voc\u00ea \u00e9 Meu Lugar",
+      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
         "name": "Quando me ver passar",
         "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 134753,
       "name": "Quando me ver passar",
       "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Resposta - Spotify Singles",
-        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Resposta - Spotify Singles",
-      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -587,6 +587,26 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
+        "name": "Um Doce, Uma Flor",
+        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 145602,
+      "name": "Um Doce, Uma Flor",
+      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
         "name": "Depois do Fim",
         "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 148000,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Um Doce, Uma Flor",
-        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Um Doce, Uma Flor",
-      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -679,6 +679,42 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
+        "name": "Ressaca de saudade",
+        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "Ressaca de saudade",
+      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -719,38 +755,18 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Ressaca de saudade",
-        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "Ressaca de saudade",
-      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -771,22 +787,6 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -951,22 +951,18 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
-        "name": "MARIA, MEDUSA",
-        "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 161386,
-      "name": "MARIA, MEDUSA",
-      "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -987,6 +983,26 @@
       "duration_ms": 177647,
       "name": "Quero Descobrir",
       "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
+        "name": "MARIA, MEDUSA",
+        "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 161386,
+      "name": "MARIA, MEDUSA",
+      "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
         "name": "Coisa de Alma",
         "url": "https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD"
       },
@@ -1091,6 +1091,26 @@
       "duration_ms": 120000,
       "name": "N\u00e3o \u00e9 t\u00e3o ruim",
       "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
+        "name": "Malabares",
+        "url": "https://open.spotify.com/album/5Rif2nv8U9hEyS66Kogy0y"
+      },
+      "artists": [
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Malabares",
+      "url": "https://open.spotify.com/track/75R9tlySgDXJJcbMXWUsiN"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -1135,26 +1155,6 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Malabares",
-        "url": "https://open.spotify.com/album/5Rif2nv8U9hEyS66Kogy0y"
-      },
-      "artists": [
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "Sagaz",
-          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Malabares",
-      "url": "https://open.spotify.com/track/75R9tlySgDXJJcbMXWUsiN"
     },
     {
       "added_at": "2026-09-11 03:00:13",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-09-11 03:00:13",
       "album": {
+        "name": "Um dia inteiro com voc\u00ea",
+        "url": "https://open.spotify.com/album/2zFDJa2mULHRVSKenbn2Sc"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Fraga",
+          "url": "https://open.spotify.com/artist/265s0ODuxTpHjmxQCwCCo7"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Um dia inteiro com voc\u00ea",
+      "url": "https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh"
+    },
+    {
+      "added_at": "2026-09-11 03:00:13",
+      "album": {
         "name": "P\u00f4r Do Sol Avisa",
         "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
-    },
-    {
-      "added_at": "2026-09-11 03:00:13",
-      "album": {
-        "name": "Um dia inteiro com voc\u00ea",
-        "url": "https://open.spotify.com/album/2zFDJa2mULHRVSKenbn2Sc"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Fraga",
-          "url": "https://open.spotify.com/artist/265s0ODuxTpHjmxQCwCCo7"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Um dia inteiro com voc\u00ea",
-      "url": "https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh"
     }
   ],
   "unique_name": "Pop Leve",

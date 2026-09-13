@@ -4,7 +4,7 @@
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-58 songs - 4 hr 10 min
+59 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [been so long](https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Planet Shining](https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT) | 5:51 | 2025-09-30 |  |
 | [Breakfast In Bed \(feat\. Ryohu\)](https://open.spotify.com/track/3xOWQaqBr9DQ0ArHuvvOxF) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [ego](https://open.spotify.com/album/7cbw0I9da0FHVzCAaynFCl) | 4:17 | 2025-09-30 |  |
 | [Buddies](https://open.spotify.com/track/5MUtNMkyc3wG8k4Zwzdvmv) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Buddies](https://open.spotify.com/album/6vDY8mPP5fAjhbk5T2reay) | 3:59 | 2025-09-30 |  |
-| [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 | 2025-09-30 |  |
+| [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 | 2025-09-30 | 2026-09-13 |
 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 | 2026-06-26 |  |
 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 | 2025-09-30 |  |
 | [come again](https://open.spotify.com/track/477CB93mH986mrIheQD0RR) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [EXPO EXPO](https://open.spotify.com/album/5s6G3HzAqcKNJt90LeFw19) | 5:51 | 2025-09-30 |  |
@@ -53,6 +53,7 @@
 | [SO DEEP](https://open.spotify.com/track/4V1t2HyTCktq2IuprZpBtV) | [mimi](https://open.spotify.com/artist/2RQc2hJpbFNCd69JH7uMVA) | [JOY LOVE HAPPINESS](https://open.spotify.com/album/4w3zlyVCyk6kE43zbtpy19) | 4:12 | 2025-09-30 |  |
 | [SOULS（Main）](https://open.spotify.com/track/19DpfD5OYkSDUsk10tLwzF) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [bird](https://open.spotify.com/album/3EOrVV22ME6Otivn1dk2Vh) | 6:29 | 2025-09-30 |  |
 | [Strange Things](https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [VISION](https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5) | 4:49 | 2025-09-30 |  |
+| [SUN](https://open.spotify.com/track/0zrycnQkQDbD00hRBJ5GRN) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [SUN](https://open.spotify.com/album/2DqQnA2cTZ3oxvyKagzbiu) | 3:30 | 2026-08-30 |  |
 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-09-30 | 2026-04-28 |
 | [The Joker](https://open.spotify.com/track/7gJ3QOh4SVrGXaVL5lFh3w) | [SAKURA](https://open.spotify.com/artist/4CEz4WJQ9VkNsa5JdXRE8q) | [daylight](https://open.spotify.com/album/1ns1zXYtubxZhrV5xAjC9I) | 4:11 | 2025-09-30 |  |
 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 | 2025-09-30 |  |

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-597 songs - 1 day 12 hr 13 min
+600 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bad Habits](https://open.spotify.com/track/3IUWlDsSENPqoWvcAy6I5T) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [Bad Habits](https://open.spotify.com/album/6qKTK8IN0yRZCmO5rq6HNP) | 3:00 | 2025-02-03 |  |
 | [Bad Machine](https://open.spotify.com/track/1Zvm6oXgtAVfziabNPKZCo) | [Braeden Poirier](https://open.spotify.com/artist/2Ux76wLzEAkgTCdhaEEwJC) | [Where the Music Is Always in Tune](https://open.spotify.com/album/4iRmDNkYHGbyw8XxVUWHAA) | 3:29 | 2025-01-08 |  |
 | [Bad Medicine](https://open.spotify.com/track/3HyiNRrY4hZopenPHiHYRw) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 2:16 | 2024-12-31 |  |
+| [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 | 2026-09-12 |  |
 | [Bad N' Boozy](https://open.spotify.com/track/2oNAsCO1IrFppS4QbgjGxm) | [Rob Fitzgerald](https://open.spotify.com/artist/20qDnAzxoDhdA6eU6Ua6UT) | [Bad N' Boozy](https://open.spotify.com/album/3XdFnb4HCi1ajy5lKvo65l) | 3:01 | 2024-10-03 |  |
 | [Basura](https://open.spotify.com/track/6RyA6raPFPcvwikkAQ5sAR) | [Petter Marchan Xtasix](https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr) | [Basura](https://open.spotify.com/album/6QcygDRl5PfvqLHB8oemGB) | 3:46 | 2024-05-28 |  |
 | [Battle Chess](https://open.spotify.com/track/32EQZwwXEHVI1m7ld8Scgw) | [Tobias Wonderdog](https://open.spotify.com/artist/1Ru9LoRIx7RP96UvsD8pqK) | [Battle Chess](https://open.spotify.com/album/2FBpLN1StR5YbhyQyLXsnf) | 2:35 | 2024-01-27 |  |
@@ -208,6 +209,7 @@
 | [Heart Strings](https://open.spotify.com/track/4yDBnB588shXbaElTG0vHz) | [Key Flight Captains](https://open.spotify.com/artist/6FmBGR1zJ09n7wNx8hFOji) | [Heart Strings](https://open.spotify.com/album/5zeKu75b5vwgketgGyotHF) | 4:17 | 2024-07-23 |  |
 | [Heart Too Big To Break](https://open.spotify.com/track/1MXTrUQH8reL53xlRDwOqC) | [Jolene Harnish](https://open.spotify.com/artist/22VyEhA1s5rMiqI8hSyM6t) | [Heart Too Big To Break](https://open.spotify.com/album/1niCXjN0e8R0wFCltRTR8k) | 2:56 | 2023-05-02 |  |
 | [Heavy](https://open.spotify.com/track/7KEYVYIQs0fGpasrwD49KC) | [The Curve](https://open.spotify.com/artist/7scLDhUJV92qAunNa3jIr2) | [Revelation](https://open.spotify.com/album/3DOaAEbe41J9VqMhIJeOUh) | 4:36 | 2023-05-30 |  |
+| [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 | 2026-09-12 |  |
 | [Heroes \- Cover](https://open.spotify.com/track/0BY9nprwMSqfClfDxowHSo) | [Man Maze](https://open.spotify.com/artist/7kWch5Y73BCAXUGn25rusq) | [Heroes](https://open.spotify.com/album/7yDkljUEbrcegJeRQwGGNJ) | 3:42 | 2024-12-09 |  |
 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 | 2026-09-09 |  |
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2023-02-27 |  |
@@ -217,6 +219,7 @@
 | [Higher Than God](https://open.spotify.com/track/0rCa6bGBWuNzT54yrChDyg) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Higher Than God](https://open.spotify.com/album/3B6w7NPpTIoewMtGxQzXBP) | 4:42 | 2024-11-25 |  |
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2023-01-10 |  |
 | [Historial](https://open.spotify.com/track/2ULYZS76HaAf3gosUO2Dn5) | [Abril Nikitoff](https://open.spotify.com/artist/5US4a2IaxqvO65IRr7Kl95) | [Historial](https://open.spotify.com/album/2W5Bhvnn8jaDXP6QI3d8pn) | 3:17 | 2024-12-26 |  |
+| [HIT AND RUN](https://open.spotify.com/track/2k20nDGUIxuR4L6VBdwcz9) | [CMAGIC5](https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs) | [HIT AND RUN](https://open.spotify.com/album/1h6QJarobaw3y0HNmYNC96) | 2:39 | 2026-09-12 |  |
 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/33zgUwcmU9iZl1QNmprEyO), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 | 2025-02-20 |  |
 | [Holding Back](https://open.spotify.com/track/5DcWgOwyM2NCTrtPdNYtjx) | [Ammo](https://open.spotify.com/artist/63iPZS104AdQkY0DuMxWHS) | [To the Stars](https://open.spotify.com/album/1Yyr2bt7g26CBSApfDH31U) | 4:18 | 2025-03-28 |  |
 | [Holiday](https://open.spotify.com/track/2mwdsoEdDqCUAVYpwBbqbg) | [Brad Mac](https://open.spotify.com/artist/2upz21QrLKJcoWf8pBHfc7) | [Burn It Down](https://open.spotify.com/album/1ccezpepQuCcX1fhgbvihl) | 3:06 | 2023-05-03 |  |

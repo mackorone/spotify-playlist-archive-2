@@ -10031,6 +10031,24 @@
     },
     {
       "album": {
+        "name": "DANS BABY",
+        "url": "https://open.spotify.com/album/1HzNr3nCcpXLBpXdzhf3sx"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166447,
+      "name": "DANS BABY",
+      "url": "https://open.spotify.com/track/63JUuqZ7SwbDhVBVUaGxcM"
+    },
+    {
+      "album": {
         "name": "Dans Med Meg",
         "url": "https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl"
       },
@@ -16806,7 +16824,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 185960,
       "name": "Fri",
       "url": "https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF"
@@ -27363,6 +27381,24 @@
     },
     {
       "album": {
+        "name": "Slipp Meg Ut",
+        "url": "https://open.spotify.com/album/3ryH537CN3nCLZ0vvexmpC"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "Kanskje Siste Gang",
+      "url": "https://open.spotify.com/track/3FGmbk8790ZqEMs1fRYm57"
+    },
+    {
+      "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
       },
@@ -34062,7 +34098,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -42344,6 +42380,28 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "SAVNER ET MENNESKE",
+        "url": "https://open.spotify.com/album/0CxsyiE3UeAWMqfdxc4FlF"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205515,
+      "name": "SAVNER ET MENNESKE",
+      "url": "https://open.spotify.com/track/7E7WgbepTMLByxdDZ6Vxgu"
     },
     {
       "album": {
@@ -52744,7 +52802,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 149369,
       "name": "Verdens beste mann",
       "url": "https://open.spotify.com/track/0McAszXUDehKdwPGq3xaGO"

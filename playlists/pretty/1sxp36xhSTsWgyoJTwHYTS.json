@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAABKVbxKZtJjKdK+HsHoc/q6Y1hIbHZ",
+  "snapshot_id": "AAABLZIfATFa245/x1Tz64Zmt/fzU83W",
   "tracks": [
     {
       "added_at": "2023-04-28 22:56:02",
@@ -4355,6 +4355,54 @@
       "duration_ms": 231677,
       "name": "J'esp\u00e8re qu'on me pardonne",
       "url": "https://open.spotify.com/track/3DjtC4ID5Te2aOyD89hfE3"
+    },
+    {
+      "added_at": "2026-09-12 21:19:45",
+      "album": {
+        "name": "WANNA",
+        "url": "https://open.spotify.com/album/4lQQJFqFkBn0De6Hepdl9l"
+      },
+      "artists": [
+        {
+          "name": "Bello",
+          "url": "https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50"
+        }
+      ],
+      "duration_ms": 115147,
+      "name": "WANNA",
+      "url": "https://open.spotify.com/track/7eSvpLKccnLXZaUILgNqMJ"
+    },
+    {
+      "added_at": "2026-09-12 21:19:49",
+      "album": {
+        "name": "G\u00e9nies scientifique",
+        "url": "https://open.spotify.com/album/2exEwBS6coFrHQ77YNA4my"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "duration_ms": 187454,
+      "name": "G\u00e9nies scientifique",
+      "url": "https://open.spotify.com/track/6PzkOPBnlFRDAoOhIlYeF7"
+    },
+    {
+      "added_at": "2026-09-12 21:20:07",
+      "album": {
+        "name": "mademoiselle laure",
+        "url": "https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE"
+      },
+      "artists": [
+        {
+          "name": "laur\u0113m",
+          "url": "https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6"
+        }
+      ],
+      "duration_ms": 371981,
+      "name": "mademoiselle laure",
+      "url": "https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr"
     }
   ],
   "unique_name": "Radios France",

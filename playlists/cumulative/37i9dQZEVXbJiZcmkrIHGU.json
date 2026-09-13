@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 131543,
       "name": "AC",
       "url": "https://open.spotify.com/track/39Z7JRfI2l9I7ZiAzGFX6a"
@@ -8470,7 +8470,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -8612,7 +8612,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12291,6 +12291,28 @@
     },
     {
       "album": {
+        "name": "Black Afgano",
+        "url": "https://open.spotify.com/album/66FoYe6yjzYLo6zi49Qm63"
+      },
+      "artists": [
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115197,
+      "name": "Black Afgano",
+      "url": "https://open.spotify.com/track/32Bmxux0EnqKDlJFYYdpbj"
+    },
+    {
+      "album": {
         "name": "BLACK BUFFS",
         "url": "https://open.spotify.com/album/7JRtqDrJtMCBWSAwRZfb0e"
       },
@@ -13440,7 +13462,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -18330,6 +18352,28 @@
       "duration_ms": 106910,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/1gob4gB57Qo0MeP5sqncsS"
+    },
+    {
+      "album": {
+        "name": "Count your blessings",
+        "url": "https://open.spotify.com/album/4QC0nAZa0vi9jCe3dAhm9D"
+      },
+      "artists": [
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Count your blessings",
+      "url": "https://open.spotify.com/track/2Lid4N6TrhSNLdmLZ0gNN4"
     },
     {
       "album": {
@@ -31207,6 +31251,28 @@
     },
     {
       "album": {
+        "name": "Geile Sau trotzdem",
+        "url": "https://open.spotify.com/album/4pGhn3nmFJbByCvY2UrIxR"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121794,
+      "name": "Geile Sau trotzdem",
+      "url": "https://open.spotify.com/track/2zMwwhmXuhYwvdc5uil9nJ"
+    },
+    {
+      "album": {
         "name": "Geisterstadt",
         "url": "https://open.spotify.com/album/4i26BTyYSKExscP4Ds9gAv"
       },
@@ -32112,6 +32178,24 @@
     {
       "album": {
         "name": "Gift",
+        "url": "https://open.spotify.com/album/61jDWf2iogrNLVfIKVFbIP"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/0hE2ICHThRdaBUJPRmjtdH"
+    },
+    {
+      "album": {
+        "name": "Gift",
         "url": "https://open.spotify.com/album/3kxEljkaGLjFx0nupBLgy2"
       },
       "artists": [
@@ -32188,6 +32272,28 @@
       "duration_ms": 168928,
       "name": "GIFTMORD",
       "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
+    },
+    {
+      "album": {
+        "name": "Gilles",
+        "url": "https://open.spotify.com/album/3dkbB6SOKYhuAxlPtkNF8y"
+      },
+      "artists": [
+        {
+          "name": "Yuyu19",
+          "url": "https://open.spotify.com/artist/3wuA3QZh6k6Vz9XQmVes4B"
+        },
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122840,
+      "name": "Gilles",
+      "url": "https://open.spotify.com/track/1YdpZ87s7AZZkQbNfnSLgA"
     },
     {
       "album": {
@@ -33914,7 +34020,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
@@ -34100,6 +34206,28 @@
       "duration_ms": 151427,
       "name": "GWHF",
       "url": "https://open.spotify.com/track/2Co26l5ypYisIadzB44Pcz"
+    },
+    {
+      "album": {
+        "name": "STARBOYZ",
+        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "GYALDEM",
+      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
     },
     {
       "album": {
@@ -46990,7 +47118,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -51086,7 +51214,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -54506,6 +54634,40 @@
       "duration_ms": 142313,
       "name": "MO' MONEY MO' HATERS",
       "url": "https://open.spotify.com/track/5wNL9XBGoMjeZM3FzkpnMm"
+    },
+    {
+      "album": {
+        "name": "MO' MONEY MO' HATERS (feat. Kolja Goldstein, KIARABABA & Celo & Abdi) [RMX]",
+        "url": "https://open.spotify.com/album/5FF0Sy8kNujA7YAN1fx0cp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "Celo & Abdi",
+          "url": "https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO"
+        },
+        {
+          "name": "KIARABABA",
+          "url": "https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "MO' MONEY MO' HATERS (feat. Kolja Goldstein, KIARABABA & Celo & Abdi) - RMX",
+      "url": "https://open.spotify.com/track/4qdv2T2U1coCRAY3FiL9vq"
     },
     {
       "album": {
@@ -59334,7 +59496,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -61364,7 +61526,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -65252,6 +65414,28 @@
       "duration_ms": 146466,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5yJAaEaZ9XpINnyrT6gXMV"
+    },
+    {
+      "album": {
+        "name": "Probleme",
+        "url": "https://open.spotify.com/album/1tcwp7bQFdRmelNtPa6QUf"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197187,
+      "name": "Probleme",
+      "url": "https://open.spotify.com/track/7JcmAo9MbigUrLFSBT4mKh"
     },
     {
       "album": {
@@ -75885,6 +76069,32 @@
     },
     {
       "album": {
+        "name": "STRASSE",
+        "url": "https://open.spotify.com/album/6UlpE9Y7MeUoiAJrHh8g7W"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Soufian",
+          "url": "https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "STRASSE",
+      "url": "https://open.spotify.com/track/7pRWIMEOT4YMZcsm4YMA3G"
+    },
+    {
+      "album": {
         "name": "Strassengeschichten",
         "url": "https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F"
       },
@@ -78992,7 +79202,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -79068,7 +79278,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -85929,6 +86139,32 @@
     },
     {
       "album": {
+        "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+        "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+      "url": "https://open.spotify.com/track/3O9DrxFz8i0B5aykNQy5le"
+    },
+    {
+      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/4Qzp5gnK5nrgrGz8d998pX"
       },
@@ -90354,7 +90590,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -90372,7 +90608,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -90980,6 +91216,28 @@
       "duration_ms": 146470,
       "name": "YMM",
       "url": "https://open.spotify.com/track/7w4mUC2hLqH6lZ2v5jm8nD"
+    },
+    {
+      "album": {
+        "name": "You And I, Me And You",
+        "url": "https://open.spotify.com/album/5cOvcRauWrEYwjrA8bg2WP"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "You And I, Me And You",
+      "url": "https://open.spotify.com/track/6jEuSifwkZehn7IvadDeOQ"
     },
     {
       "album": {

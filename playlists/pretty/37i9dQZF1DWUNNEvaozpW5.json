@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Kiko Veneno.",
-  "num_followers": 619635,
+  "num_followers": 619730,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-09-10 22:01:17",
       "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2026-09-10 22:01:17",
+      "album": {
         "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 193111,
       "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6"
-    },
-    {
-      "added_at": "2026-09-10 22:01:17",
-      "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2026-09-10 22:01:17",

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Lotta",
-  "num_followers": 26487,
+  "num_followers": 26486,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
+        "name": "Halina",
+        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 230547,
+      "name": "Halina",
+      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
         "name": "Echo Echo",
         "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "Halina",
-        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
       },
       "artists": [
         {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
         }
       ],
-      "duration_ms": 230547,
-      "name": "Halina",
-      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -519,22 +535,6 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "Ta\u0144cz i kochaj",
-        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "Ta\u0144cz i kochaj",
-      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
         "name": "Kafejka na Ochocie",
         "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 190500,
       "name": "Kafejka na Ochocie",
       "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+        "name": "To jest to!",
+        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
       },
       "artists": [
         {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
         }
       ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+      "duration_ms": 205641,
+      "name": "To jest to!",
+      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -599,22 +615,6 @@
       "duration_ms": 153253,
       "name": "DOM\u00d3WKI",
       "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
-        "name": "To jest to!",
-        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 205641,
-      "name": "To jest to!",
-      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "Korzenie",
-        "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Korzenie",
-      "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
         "name": "szpila",
         "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
       },
@@ -715,6 +699,38 @@
       "duration_ms": 181694,
       "name": "czekaj!",
       "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
+        "name": "Korzenie",
+        "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Korzenie",
+      "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -763,22 +779,6 @@
       "duration_ms": 211196,
       "name": "Miodowe lata",
       "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "bez ciebie",
-        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        },
-        {
-          "name": "Kuba Folwarczny",
-          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
-        }
-      ],
-      "duration_ms": 216714,
-      "name": "bez ciebie",
-      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
         "name": "je\u015bli pozwolisz",
         "url": "https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE"
       },
@@ -923,18 +903,38 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "THAT'S MY SWAG",
-        "url": "https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r"
+        "name": "bez ciebie",
+        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
       },
       "artists": [
         {
-          "name": "Janek Bidiuk",
-          "url": "https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ"
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        },
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
         }
       ],
-      "duration_ms": 161764,
-      "name": "THAT'S MY SWAG",
-      "url": "https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1"
+      "duration_ms": 216714,
+      "name": "bez ciebie",
+      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
+        "name": "Pick me baby",
+        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
+      },
+      "artists": [
+        {
+          "name": "Kasia Babis",
+          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
+        }
+      ],
+      "duration_ms": 203101,
+      "name": "Pick me baby",
+      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -971,6 +971,22 @@
       "duration_ms": 117120,
       "name": "bez s\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
+        "name": "THAT'S MY SWAG",
+        "url": "https://open.spotify.com/album/5ibPa6XSEOAYyJ7tWtgu5r"
+      },
+      "artists": [
+        {
+          "name": "Janek Bidiuk",
+          "url": "https://open.spotify.com/artist/6N750kTaZdAypOStcgDqDZ"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "THAT'S MY SWAG",
+      "url": "https://open.spotify.com/track/1SWYFWDK3ewkrV9D2gDgo1"
     },
     {
       "added_at": "2026-09-10 22:02:08",
@@ -1023,6 +1039,22 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
+        "name": "styropian",
+        "url": "https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "styropian",
+      "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
+    },
+    {
+      "added_at": "2026-09-10 22:02:08",
+      "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF"
       },
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2026-09-10 22:02:08",
       "album": {
-        "name": "styropian",
-        "url": "https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "styropian",
-      "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
         "name": "Kiedy jeste\u015b",
         "url": "https://open.spotify.com/album/5h2Z4crCXk6N2vqJO8NUxn"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 133052,
       "name": "Nie Odm\u00f3wi\u0119",
       "url": "https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf"
-    },
-    {
-      "added_at": "2026-09-10 22:02:08",
-      "album": {
-        "name": "Over-",
-        "url": "https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3"
-      },
-      "artists": [
-        {
-          "name": "Zofia",
-          "url": "https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef"
-        }
-      ],
-      "duration_ms": 209820,
-      "name": "Over-",
-      "url": "https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl"
     }
   ],
   "unique_name": "up next",

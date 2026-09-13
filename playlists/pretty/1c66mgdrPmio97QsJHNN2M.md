@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,939 likes - 208 songs - 11 hr 9 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,938 likes - 215 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,5 +216,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 206 | [Never Before](https://open.spotify.com/track/43LdtBioTky5GqajCjsCn2) | [maxbrent](https://open.spotify.com/artist/3QLkBSe5t2YEyO8zmJdW0z) | [Never Before](https://open.spotify.com/album/6asB25P0QVhLh4lzjra6d6) | 2:19 |
 | 207 | [A Nowhere Place](https://open.spotify.com/track/3Tfhkl0qDEAbPBdn9bWG8M) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Neon Paranoia Vol.2](https://open.spotify.com/album/4yBa9LO1pWhOZWALb2ibcA) | 3:47 |
 | 208 | [Land Of Enchantment](https://open.spotify.com/track/3zpgeVEymPY2KPmGQs5HqI) | [Lucian Lacewing](https://open.spotify.com/artist/0JvXwWR26x3ZHYnhMM9Uoq) | [Land Of Enchantment](https://open.spotify.com/album/1qQqlxHiXqip8TG3ec7sLX) | 3:40 |
+| 209 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
+| 210 | [escapism](https://open.spotify.com/track/7kjQ0xQrjIQs7716Z3nMax) | [DrMz\*](https://open.spotify.com/artist/7JWZHEwvEhiuvq9dpy53vj) | [escapism](https://open.spotify.com/album/1a9iKbKCv0n3ewTfD5StDs) | 2:39 |
+| 211 | [Long Game](https://open.spotify.com/track/7aVD40aSftt82GVyHfIiSG) | [Lánre](https://open.spotify.com/artist/0kNteilHdlpFUcjvoQUdr0) | [Long Game](https://open.spotify.com/album/4wmBhHnkOZozEkf99h5ySv) | 2:40 |
+| 212 | [Righteous Beginnings](https://open.spotify.com/track/576dAIN9iCH6ARZAveHxdC) | [Patrick Willem](https://open.spotify.com/artist/02npTtSDRgDUcl5DZ1521M) | [Righteous Beginnings](https://open.spotify.com/album/3DSCfM1Ryef3biY6y3slRQ) | 3:26 |
+| 213 | [Satellite Heart](https://open.spotify.com/track/0BMzHtf7DSqpUt0k4FgMeN) | [Mark Emsley](https://open.spotify.com/artist/0PAkdW03nzsU9FGDEmmB5c) | [Satellite Heart](https://open.spotify.com/album/2sL7V4g0m9zxXPmfM30w8Y) | 3:48 |
+| 214 | [Love Me](https://open.spotify.com/track/2aZDo2DjULim4jy9CNzROj) | [DANICO](https://open.spotify.com/artist/4muyTf4rhYUHUu6jtR3XU8), [Tabba](https://open.spotify.com/artist/71QfjBjd0okDeICcxMhf9C) | [Love Me](https://open.spotify.com/album/43scJFzphzSiwYCtlbZ0A5) | 5:11 |
+| 215 | [End of July](https://open.spotify.com/track/71fr2IUA790NFRNdUm1ijp) | [The Great Kid Marc](https://open.spotify.com/artist/16sYBJPzwoVQoReZwQjHP4) | [End of July](https://open.spotify.com/album/7ABnItwF9myouF8TKaBb9X) | 1:41 |
 
-Snapshot ID: `AAA8N2Xg+AKU+rGJtiizIT/PGFxcCkNk`
+Snapshot ID: `AAA8PiM+79dLEf0ocoGKh2lGpO6r0EER`

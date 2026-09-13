@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,005 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,006 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 29 | [Love Music](https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:55 |
 | 30 | [Be Ever Wonderful](https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:08 |
 | 31 | [Star](https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:25 |
-| 32 | [Brazilian Rhyme](https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live in Rio](https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM) | 2:09 |
-| 33 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
+| 32 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
+| 33 | [Brazilian Rhyme](https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live in Rio](https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM) | 2:09 |
 | 34 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
 | 35 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
 | 36 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 49 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
 | 50 | [スペシャルメドレー（Ambitious ver.） \- Little Glee Monster Live Tour 2025 "Ambitious" \- 2025.07.21](https://open.spotify.com/track/6P9uVpEokjPXIgf4dkjahc) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Little Glee Monster Live Tour 2025 "Ambitious" \- 2025.07.21](https://open.spotify.com/album/7o38mWNMBGMGfsEUAqJznK) | 10:34 |
 
-Snapshot ID: `aqHzAAAAAABftCoDvxhx1IcO7sFi4Ed8`
+Snapshot ID: `aqNEgAAAAADX+Z1HVB6ifiCr8BB6fj4/`

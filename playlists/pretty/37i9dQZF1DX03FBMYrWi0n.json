@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Antoine Corriveau",
-  "num_followers": 9948,
+  "num_followers": 9958,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,26 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "2TH",
-        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
       },
       "artists": [
         {
-          "name": "Bouvier Normal",
-          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
+      "duration_ms": 168000,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -363,6 +371,22 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
+        "name": "2TH",
+        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
+      },
+      "artists": [
+        {
+          "name": "Bouvier Normal",
+          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
         "name": "Bon Enfant",
         "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
       },
@@ -375,22 +399,6 @@
       "duration_ms": 270174,
       "name": "Magie",
       "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -411,26 +419,18 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
       },
       "artists": [
         {
-          "name": "Thx4Crying",
-          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
-        },
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
-      },
-      "artists": [
-        {
-          "name": "Antoine Corriveau",
-          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
         "name": "virer doux",
         "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 253741,
       "name": "virer doux",
       "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
+        "name": "Living Light",
+        "url": "https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC"
+      },
+      "artists": [
+        {
+          "name": "Plus!",
+          "url": "https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW"
+        }
+      ],
+      "duration_ms": 213269,
+      "name": "Living Light",
+      "url": "https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
         "name": "sex & cigarettes",
         "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 147640,
       "name": "sex & cigarettes",
       "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
-        "name": "Bad News",
-        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
-      },
-      "artists": [
-        {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -823,34 +823,18 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "Living Light",
-        "url": "https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC"
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
       },
       "artists": [
         {
-          "name": "Plus!",
-          "url": "https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW"
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
         }
       ],
-      "duration_ms": 213269,
-      "name": "Living Light",
-      "url": "https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
-        "name": "White Claw Addict",
-        "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
-      },
-      "artists": [
-        {
-          "name": "Brat Star",
-          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "White Claw Addict",
-      "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
+      "duration_ms": 187693,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -867,6 +851,22 @@
       "duration_ms": 136470,
       "name": "PROTOTYPE",
       "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
+        "name": "White Claw Addict",
+        "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "White Claw Addict",
+      "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
         "name": "Dans la seconde",
         "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 255333,
       "name": "Lisbonne",
       "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "I Still Do",
-        "url": "https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "I Still Do",
-      "url": "https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
         "name": "Bingo!",
         "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 127493,
       "name": "Nah Nah",
       "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
+        "name": "I Still Do",
+        "url": "https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "bite",
-        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
-      },
-      "artists": [
-        {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "bite",
-      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
         "name": "Junior",
         "url": "https://open.spotify.com/album/5kedqTpxG8Dd9FwFqZyuZr"
       },
@@ -1179,18 +1163,34 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
+        "name": "bite",
+        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
         }
       ],
-      "duration_ms": 214618,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
+      "duration_ms": 154000,
+      "name": "bite",
+      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
+        "name": "Since I Told You How I Feel",
+        "url": "https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1"
+      },
+      "artists": [
+        {
+          "name": "2120",
+          "url": "https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Since I Told You How I Feel",
+      "url": "https://open.spotify.com/track/2kTDrTqg7lAzShydspX4Ib"
     },
     {
       "added_at": "2026-09-11 04:03:08",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-09-11 04:03:08",
       "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "duration_ms": 214618,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
+    },
+    {
+      "added_at": "2026-09-11 04:03:08",
+      "album": {
         "name": "Uncomfortable",
         "url": "https://open.spotify.com/album/1u9HjnmHxQeLpfwbuot74P"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 151666,
       "name": "Uncomfortable",
       "url": "https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ"
-    },
-    {
-      "added_at": "2026-09-11 04:03:08",
-      "album": {
-        "name": "JENNY",
-        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
-      },
-      "artists": [
-        {
-          "name": "Fyore",
-          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
-        }
-      ],
-      "duration_ms": 185384,
-      "name": "JENNY",
-      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
     }
   ],
   "unique_name": "ALT_QC",

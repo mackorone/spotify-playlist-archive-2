@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAABw+Xp9vmsuSJjNzr7TleeK",
+  "snapshot_id": "aqNEgAAAAAB+oYZL0+uEfPaF8UyXzkM/",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 221951,
-      "name": "Wave III",
-      "url": "https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9"
+      "duration_ms": 160056,
+      "name": "Wave II",
+      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 160056,
-      "name": "Wave II",
-      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
+      "duration_ms": 221951,
+      "name": "Wave III",
+      "url": "https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
-  "num_followers": 28484,
+  "num_followers": 28495,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
+      },
+      "artists": [
+        {
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -495,26 +495,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "F all ur Friends",
-        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
       },
       "artists": [
         {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
-        },
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        },
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
         }
       ],
-      "duration_ms": 139428,
-      "name": "F all ur Friends",
-      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -559,34 +551,26 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+        "name": "F all ur Friends",
+        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
       },
       "artists": [
         {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
-      },
-      "artists": [
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        },
         {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+      "duration_ms": 139428,
+      "name": "F all ur Friends",
+      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -603,6 +587,22 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+      },
+      "artists": [
+        {
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+        }
+      ],
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Read Your Mind",
-        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Lego",
         "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 151329,
       "name": "Lego",
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Bangkinners",
-        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "Bangkinners",
-      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Berge",
         "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Die Ruimte",
-        "url": "https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
         }
       ],
-      "duration_ms": 178239,
-      "name": "Die Ruimte",
-      "url": "https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG"
+      "duration_ms": 207773,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
     }
   ],
   "unique_name": "SA Rock ",

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Kayode",
-  "num_followers": 86076,
+  "num_followers": 86092,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,18 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
       "artists": [
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 147118,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -723,18 +719,54 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
       "artists": [
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "Promise Land",
+        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
+      },
+      "artists": [
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -763,54 +795,6 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Promise Land",
-        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
-      },
-      "artists": [
-        {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "ISALE EKO",
-        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "ISALE EKO",
-      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
         "name": "Abefe (Begged To Be Loved)",
         "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 168896,
       "name": "Yaweh",
       "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "2:02PM IN LONDON (FREESTYLE)",
+        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "2:02PM IN LONDON (FREESTYLE)",
+      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -863,38 +863,6 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 193087,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "2:02PM IN LONDON (FREESTYLE)",
-        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "2:02PM IN LONDON (FREESTYLE)",
-      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
         "name": "Uzo Ano",
         "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
       },
@@ -915,6 +883,38 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 193087,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "ISALE EKO",
+        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "ISALE EKO",
+      "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
         "name": "Excellent",
         "url": "https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 187118,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -963,22 +983,18 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -1011,22 +1027,6 @@
       "duration_ms": 121061,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
+        "name": "IRON ORE",
+        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -1119,42 +1139,6 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "IRON ORE",
-        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "Pass By",
-        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
-      },
-      "artists": [
-        {
-          "name": "Yan Yan",
-          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
-        }
-      ],
-      "duration_ms": 189675,
-      "name": "Pass By",
-      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 140527,
       "name": "SHAOLIN",
       "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+        "name": "Pass By",
+        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
       },
       "artists": [
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Yan Yan",
+          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
+      "duration_ms": 189675,
+      "name": "Pass By",
+      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
     },
     {
       "added_at": "2026-09-11 00:01:40",

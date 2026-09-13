@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Lanell Grant, TuKool Tiff, Tylynn, & Porsha Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,158 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,178 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 13 | [More than Enough](https://open.spotify.com/track/6o4UcldBsOOy9cm7VrM5vB) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [More than Enough](https://open.spotify.com/album/2xWUkoq87iRTzM9XSMfKsU) | 2:34 |
 | 14 | [Didn't Make It Easy](https://open.spotify.com/track/7dvewBjpeleXmtJMfaYzt7) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw) | [Didn't Make It Easy](https://open.spotify.com/album/3D49jvNFzL3wmxrVkIV4Jm) | 3:35 |
 | 15 | [Bless](https://open.spotify.com/track/7zKrCVqZ8Forioi7DWKAwY) | [Carrington Gaines](https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ) | [Bless](https://open.spotify.com/album/0fH75uaQZ56QbYiVNFbwfV) | 2:20 |
-| 16 | [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK), [LAMB CULTURE\. & ayomidetPh](https://open.spotify.com/artist/0Jd56a5TAViMWTPHf8s7te) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 |
+| 16 | [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 |
 | 17 | [REVIVAL](https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [REVIVAL](https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH) | 3:11 |
 | 18 | [Finally](https://open.spotify.com/track/2KvGd7HRj5IjbnXg0bA4gr) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [Minstrel Peace](https://open.spotify.com/artist/5iogUTW4sd2cwohdDYv2nm), [Zinny D'more](https://open.spotify.com/artist/6Ryr0ua2vnXgl6UHnwSfyX) | [In Christ We Trust \(The Album\)](https://open.spotify.com/album/5QUHx6GQGZgtoQEj2RNy4g) | 2:24 |
 | 19 | [I Am Blessed \- Amapiano](https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Gata 2 \(Gospel According to Amapiano\)](https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp) | 3:09 |

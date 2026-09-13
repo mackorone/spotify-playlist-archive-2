@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 88009,
+  "num_followers": 88056,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
-        "name": "\u0633\u0627\u0646\u062f\u064a\u0627",
-        "url": "https://open.spotify.com/album/4goIKWNFoKz6fwBooJDinQ"
+        "name": "Roots & Plugged",
+        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
       "artists": [
         {
-          "name": "Habib Belk",
-          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 192000,
-      "name": "\u0633\u0627\u0646\u062f\u064a\u0627",
-      "url": "https://open.spotify.com/track/5pR2e0SPMPKbI94rwjj2HY"
+      "duration_ms": 433980,
+      "name": "Hamdouchia",
+      "url": "https://open.spotify.com/track/48fH1ROqgxAKtqd7D52f2H"
     },
     {
       "added_at": "2026-05-08 00:01:18",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
+        "name": "\u0633\u0627\u0646\u062f\u064a\u0627",
+        "url": "https://open.spotify.com/album/4goIKWNFoKz6fwBooJDinQ"
+      },
+      "artists": [
+        {
+          "name": "Habib Belk",
+          "url": "https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u0633\u0627\u0646\u062f\u064a\u0627",
+      "url": "https://open.spotify.com/track/5pR2e0SPMPKbI94rwjj2HY"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 388921,
-      "name": "Toura Toura",
-      "url": "https://open.spotify.com/track/2IDfgp6XFrBHzxbNb6TbxI"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
         "name": "Roots & Plugged",
         "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 433980,
-      "name": "Hamdouchia",
-      "url": "https://open.spotify.com/track/48fH1ROqgxAKtqd7D52f2H"
+      "duration_ms": 320388,
+      "name": "Bouhali",
+      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
     },
     {
       "added_at": "2026-05-08 00:01:18",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 388921,
+      "name": "Toura Toura",
+      "url": "https://open.spotify.com/track/2IDfgp6XFrBHzxbNb6TbxI"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
         "name": "Gnawa or Never",
         "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 617000,
       "name": "La Ilaha Illa Allah",
       "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
-        "name": "Live in Casablanca",
-        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
-      },
-      "artists": [
-        {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
-        }
-      ],
-      "duration_ms": 569244,
-      "name": "Lalla Mira",
-      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
     },
     {
       "added_at": "2026-05-08 00:01:18",
@@ -243,8 +243,8 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
-        "name": "Roots & Plugged",
-        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
@@ -252,9 +252,25 @@
           "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 320388,
-      "name": "Bouhali",
-      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
+      "duration_ms": 249053,
+      "name": "Hamdouchia",
+      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+      },
+      "artists": [
+        {
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+        }
+      ],
+      "duration_ms": 569244,
+      "name": "Lalla Mira",
+      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
     },
     {
       "added_at": "2026-05-08 00:01:18",
@@ -291,22 +307,6 @@
     {
       "added_at": "2026-05-08 00:01:18",
       "album": {
-        "name": "Live at Village Studios",
-        "url": "https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL"
-      },
-      "artists": [
-        {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
-        }
-      ],
-      "duration_ms": 385589,
-      "name": "Katibala (Live)",
-      "url": "https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
         "name": "Sidi Kmmy",
         "url": "https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR"
       },
@@ -332,9 +332,25 @@
           "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 249053,
-      "name": "Hamdouchia",
-      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
+      "duration_ms": 587080,
+      "name": "A\u00efcha Hamdouchia",
+      "url": "https://open.spotify.com/track/4evPwj9nBVXW6i9BdXTvDX"
+    },
+    {
+      "added_at": "2026-05-08 00:01:18",
+      "album": {
+        "name": "Live at Village Studios",
+        "url": "https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL"
+      },
+      "artists": [
+        {
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+        }
+      ],
+      "duration_ms": 385589,
+      "name": "Katibala (Live)",
+      "url": "https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO"
     },
     {
       "added_at": "2026-05-08 00:01:18",
@@ -403,22 +419,6 @@
       "duration_ms": 440011,
       "name": "Bania Bambara",
       "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
-    },
-    {
-      "added_at": "2026-05-08 00:01:18",
-      "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
-        }
-      ],
-      "duration_ms": 587080,
-      "name": "A\u00efcha Hamdouchia",
-      "url": "https://open.spotify.com/track/4evPwj9nBVXW6i9BdXTvDX"
     },
     {
       "added_at": "2026-05-08 00:01:18",

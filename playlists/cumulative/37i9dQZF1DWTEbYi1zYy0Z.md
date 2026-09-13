@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-562 songs - 1 day 15 hr 47 min
+563 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Black Eden](https://open.spotify.com/track/6PPngXfYjNrITbLSllbBhD) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Sir Tim](https://open.spotify.com/artist/1ZVSRE09PJilA3Z7JnUwVR) | [Kalignous](https://open.spotify.com/album/6LG3XGg7O9YV9o9u8RDgpx) | 3:28 | 2023-08-11 | 2025-01-25 |
 | [Bleecker Street](https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV) | [Pete Calandra and Straight Up](https://open.spotify.com/artist/5ZxriynwDpSZcN1M7zFpam), [Tom Barney](https://open.spotify.com/artist/5XxDVArhoK6MGgXFKelTti), [Antonio Hart](https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA), [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4) | [Bleecker Street](https://open.spotify.com/album/08iaTopFdcF91ZYzdBPYAQ) | 4:15 | 2023-02-17 | 2024-06-29 |
 | [Bon Appétit](https://open.spotify.com/track/2JrwkF8KdIaKclovniPunt) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 5:19 | 2023-04-28 | 2023-06-17 |
+| [Boomerang](https://open.spotify.com/track/4kKurnXOYBSI6Xpvb6MXGg) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Boomerang](https://open.spotify.com/album/3XytLSoZlu5MXoYZCD5Brf) | 4:46 | 2026-09-12 |  |
 | [Born To Fly](https://open.spotify.com/track/0O4vv4lVhxzAaIj7RqFGo4) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Erik Fredriksen](https://open.spotify.com/artist/5CcllNR4re2mZopKUwFoQl) | [Born To Fly](https://open.spotify.com/album/0xAbzVWIUCzVZjkQ7AKrum) | 3:44 | 2024-06-07 | 2024-06-15 |
 | [Brazilian Night](https://open.spotify.com/track/63up8vVjcjeY9A4EhP8V4T) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Brazilian Night](https://open.spotify.com/album/0KQerobBYAAMshXm3iucPY) | 5:16 | 2026-05-01 |  |
 | [Brazz Street](https://open.spotify.com/track/0DBK1x25hl1TF98wRb7j8u) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/5bI7Vhpz1VVa9kGCaZVxcH) | 4:42 | 2020-10-30 | 2022-03-18 |
@@ -105,7 +106,7 @@
 | [Close to You](https://open.spotify.com/track/4wzsbI8mdiRmP7aFYSB9IZ) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Justin Young](https://open.spotify.com/artist/49OldsHGWhHHWNKdkHdx7B) | [Close to You](https://open.spotify.com/album/0UzEtJFEp0E7sP6ls6Dro3) | 3:41 | 2021-10-01 | 2022-07-26 |
 | [Club Life \- Smooth Radio Version](https://open.spotify.com/track/4GcgYcg5SRb6LJhZshsjqB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Henna](https://open.spotify.com/album/2AZOwHpqq6Bzu46cgricn6) | 4:15 | 2020-10-30 | 2022-03-16 |
 | [Coastline Drive](https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656) | [Joe Plass](https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ), [Andy Warr](https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7), [Barry Aiken](https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn), [John Raymond](https://open.spotify.com/artist/4gxDZB7u8L1xEVkBDGngi3) | [Coastline Drive](https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9) | 5:21 | 2022-04-01 | 2023-09-16 |
-| [Coming Home](https://open.spotify.com/track/5DwzpU2uM8nz7yIGze3P63) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:48 | 2023-08-18 |  |
+| [Coming Home](https://open.spotify.com/track/5DwzpU2uM8nz7yIGze3P63) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:48 | 2023-08-18 | 2026-09-13 |
 | [complexity.](https://open.spotify.com/track/4kVkbJqTLz9I86bkzI1Ftj) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Jah Born](https://open.spotify.com/artist/45tF2B3yeJtBrw3QgJEGAc), [Jordache Grant](https://open.spotify.com/artist/0uR3O2Rdr1AV3JuFw1Wcx9) | [complexity.](https://open.spotify.com/album/0GQZPUKaxEGuUHw6wPHtaE) | 2:52 | 2024-01-26 | 2025-02-15 |
 | [Consequences](https://open.spotify.com/track/4rj8jRWs464Gbn9USnToRj) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4Jj97bMYrq0sBHJeRNUGQl) | 3:56 | 2020-10-30 | 2022-03-12 |
 | [Convergency](https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Convergency](https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF) | 4:54 | 2022-10-28 | 2023-05-06 |

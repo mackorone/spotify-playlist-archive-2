@@ -4,7 +4,7 @@
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Sofi készítette 💚
 
-505 songs - 1 day 2 hr 9 min
+506 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,8 @@
 | [Stoned In Love \- Remix](https://open.spotify.com/track/7gH3uSeUKIPXSrNFIcK1Gi) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Stoned In Love \(Remix\)](https://open.spotify.com/album/65GXpHegCDpXCmdXuewrUm) | 3:20 | 2025-01-07 | 2025-05-07 |
 | [Stubborn](https://open.spotify.com/track/4mJlf9bj5cgskTnHCV0xcW) | [Anna Kornis](https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n) | [Stubborn](https://open.spotify.com/album/3kauZetUUHb6umQ400nKe8) | 3:10 | 2025-05-06 | 2025-09-03 |
 | [Style](https://open.spotify.com/track/3s3J5jfuTV0eDlJUfHTwAe) | [Puzzls](https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9) | [Style](https://open.spotify.com/album/6yD04QCYkzF1AqR34V3PTs) | 2:03 | 2024-07-02 | 2024-08-07 |
-| [Sugar Daddy](https://open.spotify.com/track/2LV4omLlrrSjpPvDQyTCom) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS), [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Sugar Daddy](https://open.spotify.com/album/7BQFQoZO40r66SzsJ3CTcq) | 2:40 | 2026-09-01 |  |
+| [Sugar Daddy](https://open.spotify.com/track/2LV4omLlrrSjpPvDQyTCom) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS), [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Sugar Daddy](https://open.spotify.com/album/7BQFQoZO40r66SzsJ3CTcq) | 2:40 | 2026-09-01 | 2026-09-13 |
+| [Sugar Daddy](https://open.spotify.com/track/4G9hKJB7NaWX6QFSpiEYCf) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS), [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Sugar Daddy](https://open.spotify.com/album/7pkpbzts7WTxOjQBcWjH6r) | 2:40 | 2026-09-01 |  |
 | [Sun Is Up](https://open.spotify.com/track/7KtAb5i89qRo8FhHyYUz22) | [Myra Monoka](https://open.spotify.com/artist/7nvuP8cBzziH07IwuRLGrL) | [Sun Is Up](https://open.spotify.com/album/2thWDgBhqDfSM8lIRQOPCB) | 2:49 | 2025-07-01 | 2026-01-15 |
 | [Sweet Life](https://open.spotify.com/track/5mQhHbj3eYwKm81jePbh39) | [Maluridé](https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6) | [Sweet Life](https://open.spotify.com/album/2769YqGMNaXRvNeeTYScPd) | 3:33 | 2025-05-06 | 2025-09-03 |
 | [SZAKMA](https://open.spotify.com/track/4OnXUXAIx03us4FrOu0wGd) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [SZAKMA](https://open.spotify.com/album/7L7dfeZzrLg8VkKkasn73h) | 3:05 | 2024-12-04 | 2025-05-07 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-521 songs - 1 day 3 hr 2 min
+522 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Girl in the Movies \- from the Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/track/0c0myGBE4tomCo74Ipyr4G) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 4:34 | 2026-09-08 |  |
 | [Go to Hell](https://open.spotify.com/track/4ooU74YFGmTSbMBwLrB3jX) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [For God and Country](https://open.spotify.com/album/6dEsLfS7vQJEOkfpAq8VwF) | 6:58 | 2026-09-08 |  |
 | [God Won't Get You](https://open.spotify.com/track/6cs6fPBX7X9H2C5myKOD7p) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 4:13 | 2026-09-08 |  |
-| [God's Coloring Book](https://open.spotify.com/track/0vuAXljZfZQguNsW1cvi5s) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 2:17 | 2026-09-08 |  |
+| [God's Coloring Book](https://open.spotify.com/track/0vuAXljZfZQguNsW1cvi5s) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 2:17 | 2026-09-08 | 2026-09-13 |
+| [God's Coloring Book](https://open.spotify.com/track/5BGeeVCSh8GPkBzDi0u5h2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 3:14 | 2026-09-12 |  |
 | [Goin' Back to Heaven](https://open.spotify.com/track/1S7BBUoKWqoOcQrFCKgbZK) | [Stella Parton](https://open.spotify.com/artist/4w6rQyebwaBZqbeNaDA6V2), [Kin Vassy](https://open.spotify.com/artist/7jSMrzjbi1eW3inSN8pJjL) | [Rhinestone \(Soundtrack\)](https://open.spotify.com/album/6gHu4GfP2iUyWP933NCvko) | 4:15 | 2026-09-08 |  |
 | [Golden Streets of Glory](https://open.spotify.com/track/7mYHkmxULFRMHqoAMk0egg) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Golden Streets Of Glory](https://open.spotify.com/album/4oEaTOUuaULpU9Wd1EStm9) | 2:56 | 2026-09-08 |  |
 | [Gonna Hurry \(As Slow As I Can\) \- Demo](https://open.spotify.com/track/523o1XkJHAKo0NR0n4py9i) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:43 | 2026-09-08 |  |

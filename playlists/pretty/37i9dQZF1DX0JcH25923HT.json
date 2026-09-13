@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 604401,
+  "num_followers": 604537,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Maracucho Bueno Muere Chiquito",
+        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
+      },
+      "artists": [
+        {
+          "name": "Cruzzi",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 212863,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 252373,
       "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Maracucho Bueno Muere Chiquito",
-        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
-      },
-      "artists": [
-        {
-          "name": "Cruzzi",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 212863,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 242418,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2026-08-11 14:10:49",

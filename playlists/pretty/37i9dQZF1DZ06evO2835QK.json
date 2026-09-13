@@ -1,12 +1,12 @@
 {
   "description": "This is Cleo Sol. The essential tracks, all in one playlist.",
-  "num_followers": 45655,
+  "num_followers": 45676,
   "original_name": "This Is Cleo Sol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAALSUX9oi+aqBSSmFh4muHf",
+  "snapshot_id": "aqNEgAAAAAAp53GMLIxwaDIMBTrRoV9Z",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 279217,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 207239,
       "name": "Golden Child (Jealous)",
       "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 279217,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Songs",
-        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 259461,
-      "name": "Still Cold",
-      "url": "https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 162767,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Songs",
+        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 259461,
+      "name": "Still Cold",
+      "url": "https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal"
     },
     {
       "added_at": null,

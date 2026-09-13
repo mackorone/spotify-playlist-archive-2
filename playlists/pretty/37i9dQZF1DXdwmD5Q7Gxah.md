@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cry all day party all night\. cover: Sophia Stel <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,171 likes - 142 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,172 likes - 142 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
-| 2 | [Holy Moses](https://open.spotify.com/track/0F0rixNVdD8gRVkxOxQBUV) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Holy Moses](https://open.spotify.com/album/345Lz0uCZKZLPywjnVtBUi) | 2:40 |
+| 2 | [bray fool](https://open.spotify.com/track/5eoIH4MwZ9YQ7dvg9Txw6i) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [bray fool](https://open.spotify.com/album/6G1pHJN7Ggz8ufDLSEPTmJ) | 2:52 |
 | 3 | [Shuteye](https://open.spotify.com/track/5HucDMZoey3DlT4jvofjuf) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Shuteye](https://open.spotify.com/album/6eNzaqs01BxZq3EAQR9b2B) | 3:26 |
 | 4 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 |
 | 5 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
-| 6 | [The Recorded Message \- A Message](https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ) | [Sacred holes](https://open.spotify.com/artist/3ArVB9NfEWxfdbDmYdGWdK), [wackoes](https://open.spotify.com/artist/39WfM43xs5qbVCrSkBeOFW) | [From There To There...](https://open.spotify.com/album/3R16VwJkbU8M5NWncfdDtf) | 2:13 |
-| 7 | [bray fool](https://open.spotify.com/track/5eoIH4MwZ9YQ7dvg9Txw6i) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [bray fool](https://open.spotify.com/album/6G1pHJN7Ggz8ufDLSEPTmJ) | 2:52 |
+| 6 | [Holy Moses](https://open.spotify.com/track/0F0rixNVdD8gRVkxOxQBUV) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Holy Moses](https://open.spotify.com/album/345Lz0uCZKZLPywjnVtBUi) | 2:40 |
+| 7 | [The Recorded Message \- A Message](https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ) | [Sacred holes](https://open.spotify.com/artist/3ArVB9NfEWxfdbDmYdGWdK), [wackoes](https://open.spotify.com/artist/39WfM43xs5qbVCrSkBeOFW) | [From There To There...](https://open.spotify.com/album/3R16VwJkbU8M5NWncfdDtf) | 2:13 |
 | 8 | [Spilled](https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Spilled](https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY) | 2:50 |
 | 9 | [Crawling](https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Crawling](https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB) | 2:08 |
 | 10 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 141 | [Imitation \(how to become you\)](https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Imitation \(how to become you\)](https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz) | 4:16 |
 | 142 | [Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Year of the Dragon](https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3) | 3:29 |
 
-Snapshot ID: `AAAAAFETZhOKCyOYJ9d+lZBxqOZqsoUz`
+Snapshot ID: `AAAAAEgva5wVV20B6D1cO8a6pWSnR2ld`

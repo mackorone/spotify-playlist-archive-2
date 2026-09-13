@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35395,
+  "num_followers": 35398,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACXc9vyFfOlkt2i+BIKElRF",
+  "snapshot_id": "aqNEgAAAAADgNjBDcvRJk7xbVh42d5NY",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/1kWbIV0Tv6IEX62BU2sVsE"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 126789,
+      "name": "4 da Manh\u00e3",
+      "url": "https://open.spotify.com/track/3ZVJz96kCb5T4itZYRVD5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheirinho Do Body Splash",
         "url": "https://open.spotify.com/album/1zYGigssLV3WhnN9OWzgGu"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 141273,
       "name": "Paga Pra Ser Gostosa",
       "url": "https://open.spotify.com/track/68VnSR2LiSkgo0k4KlUCBz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/1kWbIV0Tv6IEX62BU2sVsE"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 126789,
-      "name": "4 da Manh\u00e3",
-      "url": "https://open.spotify.com/track/3ZVJz96kCb5T4itZYRVD5H"
     },
     {
       "added_at": null,
@@ -587,34 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley Rel\u00edquia 2",
-        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "Damaso",
-          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
-        },
-        {
-          "name": "Hoopex",
-          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136356,
-      "name": "Medley Rel\u00edquia 2",
-      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dos Casados 2",
         "url": "https://open.spotify.com/album/65N2IuNmZV2KWP1Qoc5uvX"
       },
@@ -703,6 +675,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley Rel\u00edquia 2",
+        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Damaso",
+          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
+        },
+        {
+          "name": "Hoopex",
+          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136356,
+      "name": "Medley Rel\u00edquia 2",
+      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enche Minha Bunda De Tapa",
         "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 180922,
       "name": "Enche Minha Bunda De Tapa",
       "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Press\u00e3o Mundial Continua",
-        "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
-      },
-      "artists": [
-        {
-          "name": "Biu do Piseiro",
-          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 119376,
-      "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Press\u00e3o Mundial Continua",
+        "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 119376,
+      "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
     },
     {
       "added_at": null,
@@ -1003,42 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
       "artists": [
         {
-          "name": "Tutu No Beat",
-          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
-        },
-        {
-          "name": "AKAZIN PLAYLOKA",
-          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
-        },
-        {
-          "name": "Eo Renanzinho",
-          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
-        },
-        {
-          "name": "Encontro de MC's",
-          "url": "https://open.spotify.com/artist/1cSQttVoS2X21VSZyVvnhW"
-        },
-        {
-          "name": "BEBEL",
-          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
-        },
-        {
-          "name": "LUKINHAS POSTURADO",
-          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
-        },
-        {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
         }
       ],
-      "duration_ms": 128199,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1095,22 +1075,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
       },
       "artists": [
         {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "Tutu No Beat",
+          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
         },
         {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+          "name": "AKAZIN PLAYLOKA",
+          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
+        },
+        {
+          "name": "Eo Renanzinho",
+          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
+        },
+        {
+          "name": "Encontro de MC's",
+          "url": "https://open.spotify.com/artist/1cSQttVoS2X21VSZyVvnhW"
+        },
+        {
+          "name": "BEBEL",
+          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
+        },
+        {
+          "name": "LUKINHAS POSTURADO",
+          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+      "duration_ms": 128199,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
     },
     {
       "added_at": null,
@@ -1207,26 +1207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentando no Pula Pula",
         "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 174962,
       "name": "Sentando no Pula Pula",
       "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,

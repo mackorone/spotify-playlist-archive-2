@@ -5050,7 +5050,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -23054,7 +23054,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -26719,6 +26719,28 @@
     },
     {
       "album": {
+        "name": "Geile Sau trotzdem",
+        "url": "https://open.spotify.com/album/4pGhn3nmFJbByCvY2UrIxR"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121794,
+      "name": "Geile Sau trotzdem",
+      "url": "https://open.spotify.com/track/2zMwwhmXuhYwvdc5uil9nJ"
+    },
+    {
+      "album": {
         "name": "GELD MACHEN JUNG",
         "url": "https://open.spotify.com/album/16sYFXv7O75vn4pvsRmVyx"
       },
@@ -27262,6 +27284,24 @@
       "duration_ms": 133580,
       "name": "Gib ihr Flex",
       "url": "https://open.spotify.com/track/58e1uwNJd1b3cm93KruQjo"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/61jDWf2iogrNLVfIKVFbIP"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/0hE2ICHThRdaBUJPRmjtdH"
     },
     {
       "album": {
@@ -28678,6 +28718,28 @@
       "duration_ms": 151427,
       "name": "GWHF",
       "url": "https://open.spotify.com/track/2Co26l5ypYisIadzB44Pcz"
+    },
+    {
+      "album": {
+        "name": "STARBOYZ",
+        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "GYALDEM",
+      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
     },
     {
       "album": {
@@ -42568,7 +42630,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -65119,6 +65181,32 @@
     },
     {
       "album": {
+        "name": "STRASSE",
+        "url": "https://open.spotify.com/album/6UlpE9Y7MeUoiAJrHh8g7W"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Soufian",
+          "url": "https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "STRASSE",
+      "url": "https://open.spotify.com/track/7pRWIMEOT4YMZcsm4YMA3G"
+    },
+    {
+      "album": {
         "name": "Strassengeschichten",
         "url": "https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F"
       },
@@ -74091,6 +74179,32 @@
     },
     {
       "album": {
+        "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+        "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+      "url": "https://open.spotify.com/track/3O9DrxFz8i0B5aykNQy5le"
+    },
+    {
+      "album": {
         "name": "Was bisher geschah",
         "url": "https://open.spotify.com/album/2RFshREHgBjF2WWTVXIXTA"
       },
@@ -76896,7 +77010,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 132869,
       "name": "Wohlensee Problem",
       "url": "https://open.spotify.com/track/2p9b2AuKwKnVhlSr4MFwm4"
@@ -77078,7 +77192,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -77096,7 +77210,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

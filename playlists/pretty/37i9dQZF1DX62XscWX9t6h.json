@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 227748,
+  "num_followers": 227798,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Canton Mambo",
-        "url": "https://open.spotify.com/album/08WUAfWBJF0b4XffDOiQOe"
-      },
-      "artists": [
-        {
-          "name": "Gia Fu",
-          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
-        }
-      ],
-      "duration_ms": 269661,
-      "name": "Canton Mambo",
-      "url": "https://open.spotify.com/track/3zkCkUZRwV3L3lqiTQ9koC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "Canton Mambo",
+        "url": "https://open.spotify.com/album/08WUAfWBJF0b4XffDOiQOe"
+      },
+      "artists": [
+        {
+          "name": "Gia Fu",
+          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
+        }
+      ],
+      "duration_ms": 269661,
+      "name": "Canton Mambo",
+      "url": "https://open.spotify.com/track/3zkCkUZRwV3L3lqiTQ9koC"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 343000,
       "name": "Newcastle",
       "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
+        "name": "Wakangenei",
+        "url": "https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2"
+      },
+      "artists": [
+        {
+          "name": "Ankobo + Kaboo",
+          "url": "https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Wakangenei",
+      "url": "https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
         "name": "Ordunun Dereleri",
         "url": "https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm"
       },
@@ -1351,18 +1367,22 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Wakangenei",
-        "url": "https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2"
+        "name": "Remotely Close: Silkyway",
+        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
       },
       "artists": [
         {
-          "name": "Ankobo + Kaboo",
-          "url": "https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6"
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Elif \u00c7a\u011flar",
+          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Wakangenei",
-      "url": "https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH"
+      "duration_ms": 230998,
+      "name": "Remotely Close: Silkyway",
+      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1403,22 +1423,18 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Remotely Close: Silkyway",
-        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
+        "name": "Khun Narin's Electric Phin Band",
+        "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
       },
       "artists": [
         {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Elif \u00c7a\u011flar",
-          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
+          "name": "Khun Narin",
+          "url": "https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1"
         }
       ],
-      "duration_ms": 230998,
-      "name": "Remotely Close: Silkyway",
-      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+      "duration_ms": 357552,
+      "name": "Lam Phu Thai # 1",
+      "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1435,22 +1451,6 @@
       "duration_ms": 353965,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
-        "name": "Khun Narin's Electric Phin Band",
-        "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
-      },
-      "artists": [
-        {
-          "name": "Khun Narin",
-          "url": "https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1"
-        }
-      ],
-      "duration_ms": 357552,
-      "name": "Lam Phu Thai # 1",
-      "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
     },
     {
       "added_at": "2026-08-21 04:02:17",

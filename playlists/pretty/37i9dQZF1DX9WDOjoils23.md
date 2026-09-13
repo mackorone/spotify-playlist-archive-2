@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,999 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,040 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 19 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
 | 20 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 |
 | 21 | [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 |
-| 22 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
-| 23 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
+| 22 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |
+| 23 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
 | 24 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
 | 25 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
-| 26 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
+| 26 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
 | 27 | [Ranjha](https://open.spotify.com/track/5acSF43QLkBhy2O3Y5QLLn) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu) | [Andaaz \- E \- Sufi](https://open.spotify.com/album/7c81HIvRMeSp9DdNKBG5GX) | 5:18 |
-| 28 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
+| 28 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
 | 29 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
 | 30 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |
 | 31 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
 | 50 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 
-Snapshot ID: `AAAAAOZgLvkdQRms15LUwgByXfCkeI2l`
+Snapshot ID: `AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK`

@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 169383,
+  "num_followers": 169392,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAD5DmlXuLhKt6kT/qJQMVbW",
+  "snapshot_id": "aqNEgAAAAADoOsWTWDmBjPOp+eUp+pwf",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+        "name": "New Jersey Drive Vol. 1",
+        "url": "https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW"
       },
       "artists": [
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Goodie Mob",
-          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
         }
       ],
-      "duration_ms": 447026,
-      "name": "Git Up, Git Out (feat. Goodie Mob)",
-      "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
+      "duration_ms": 256398,
+      "name": "Benz Or Beamer",
+      "url": "https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP"
     },
     {
       "added_at": null,
@@ -459,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Jersey Drive Vol. 1",
-        "url": "https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW"
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
       "artists": [
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Goodie Mob",
+          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
         }
       ],
-      "duration_ms": 256398,
-      "name": "Benz Or Beamer",
-      "url": "https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP"
+      "duration_ms": 447026,
+      "name": "Git Up, Git Out (feat. Goodie Mob)",
+      "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Hootie Hoo",
-      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+      "duration_ms": 237160,
+      "name": "Spaghetti Junction",
+      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 237160,
-      "name": "Spaghetti Junction",
-      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+      "duration_ms": 238906,
+      "name": "Hootie Hoo",
+      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
       "duration_ms": 526372,
       "name": "Liberation (with Cee-Lo)",
       "url": "https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 309866,
-      "name": "Crumblin' Erb",
-      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 309866,
+      "name": "Crumblin' Erb",
+      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 290666,
       "name": "Humble Mumble (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Ain't No Thang",
-      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 200971,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "Ain't No Thang",
+      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
     },
     {
       "added_at": null,

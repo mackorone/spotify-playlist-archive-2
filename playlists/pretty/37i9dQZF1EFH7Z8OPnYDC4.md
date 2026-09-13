@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703 likes - 335 songs - 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 335 songs - 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 334 | [Exit Music \- Karaoke Version in the style of Cinderella](https://open.spotify.com/track/4zCZyZ8z3BnweAtYxUT1hL) | [Charttraxx Karaoke](https://open.spotify.com/artist/4zjsIwpsKH0a8aXYHWWOqc) | [Spotlight Karaoke Vol\. 17 \(Cinderella\)](https://open.spotify.com/album/7Coeacnm2P5DFi46ZhZP0r) | 1:28 |
 | 335 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AccDXAAAAABItbrV4zaWJDwmZ4kcJJNr`
+Snapshot ID: `AccI/AAAAADKeMeRqCv8fkkgWXO1oPIL`

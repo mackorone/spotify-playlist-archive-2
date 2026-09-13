@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 256 songs - 13 hr 43 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 259 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,5 +264,8 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 254 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
 | 255 | [Oeil d'aigle](https://open.spotify.com/track/4qG1ZV9HMsRKsDJKTpMpcS) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Oeil d'aigle](https://open.spotify.com/album/6wcNk4t3RPH1aVoRWJZYsO) | 3:18 |
 | 256 | [J'espère qu'on me pardonne](https://open.spotify.com/track/3DjtC4ID5Te2aOyD89hfE3) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Soulitaire](https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ) | 3:51 |
+| 257 | [WANNA](https://open.spotify.com/track/7eSvpLKccnLXZaUILgNqMJ) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [WANNA](https://open.spotify.com/album/4lQQJFqFkBn0De6Hepdl9l) | 1:55 |
+| 258 | [Génies scientifique](https://open.spotify.com/track/6PzkOPBnlFRDAoOhIlYeF7) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Génies scientifique](https://open.spotify.com/album/2exEwBS6coFrHQ77YNA4my) | 3:07 |
+| 259 | [mademoiselle laure](https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE) | 6:11 |
 
-Snapshot ID: `AAABKVbxKZtJjKdK+HsHoc/q6Y1hIbHZ`
+Snapshot ID: `AAABLZIfATFa245/x1Tz64Zmt/fzU83W`

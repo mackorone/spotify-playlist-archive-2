@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,217 songs - 3 day 6 hr 27 min
+1,218 songs - 3 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -953,6 +953,7 @@
 | [Soundcheck](https://open.spotify.com/track/3gd9DseTODZJ3jAI43fuJq) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3) | 0:51 | 2024-12-30 |  |
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 | 2023-07-02 |
 | [Sowing Season \(Yeah\)](https://open.spotify.com/track/5CyzIHM2IRSLz2Ke9hWwjz) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 4:30 | 2025-10-08 |  |
+| [Speak To Me / Breathe](https://open.spotify.com/track/5L7QptioCo73sGCTfAj7ln) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ) | [Dub Side Of The Moon](https://open.spotify.com/album/2w9qrrsJaLRQuZPJeI9acc) | 3:52 | 2026-09-12 |  |
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
 | [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 | 2023-12-31 | 2025-04-25 |
 | [Springtime Again](https://open.spotify.com/track/1IMbKfMzGyFK4WxsMy9xRF) | [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Sleeping Beauty \(Expanded Edition\)](https://open.spotify.com/album/2u9bxiMQ6aVC3cBQLVIFg4) | 9:15 | 2025-02-13 |  |

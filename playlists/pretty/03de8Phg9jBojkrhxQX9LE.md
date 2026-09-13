@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,209 likes - 147 songs - 8 hr 0 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,213 likes - 147 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 146 | [El Diablo](https://open.spotify.com/track/3O6D5cApxzS6s9ppXbgrHK) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [El Diablo](https://open.spotify.com/album/0T3rcaSvtO45lQYGnrbBTR) | 2:53 |
 | 147 | [Tere Bin](https://open.spotify.com/track/4mlJPRX7pJ00ZhnSdTHiJg) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Tere Bin](https://open.spotify.com/album/6jbk6MREl2XfBhMqC2CtJn) | 3:27 |
 
-Snapshot ID: `AAAKr8yqOEJv2XS/YDLOuQNr5wpa1VDz`
+Snapshot ID: `AAAKsWIDgIaA0FTms8mJyUiP1ciuE9x5`

@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1094787,
+  "num_followers": 1094722,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173251,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 189530,
       "name": "Finally",
       "url": "https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Too Late to Lie",
-        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 219622,
-      "name": "Too Late to Lie",
-      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -935,8 +935,8 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "GOOD TIMES",
-        "url": "https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7"
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
         }
       ],
-      "duration_ms": 175289,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh"
+      "duration_ms": 225168,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Step by Step",
-        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
+        "name": "GOOD TIMES",
+        "url": "https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
         }
       ],
-      "duration_ms": 225168,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
+      "duration_ms": 175289,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Love Is In The House",
-        "url": "https://open.spotify.com/album/1ybrLjKrHe95IrKOztYFqV"
-      },
-      "artists": [
-        {
-          "name": "Dre Island",
-          "url": "https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Never Had A Love",
-      "url": "https://open.spotify.com/track/3P7C4hKT2zEcOg0bvGF5GO"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Fill My Cup",
         "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Love Is In The House",
+        "url": "https://open.spotify.com/album/1ybrLjKrHe95IrKOztYFqV"
+      },
+      "artists": [
+        {
+          "name": "Dre Island",
+          "url": "https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Never Had A Love",
+      "url": "https://open.spotify.com/track/3P7C4hKT2zEcOg0bvGF5GO"
     }
   ],
   "unique_name": "Irie",

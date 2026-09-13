@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635055,
+  "num_followers": 635109,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAABlEjBI95reAnuM8r9CFuWh",
+  "snapshot_id": "aqNEgAAAAADwJI6sTH3wUajqgqLXnzTp",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 222186,
-      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
-      "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -632,25 +632,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BigBang First Single",
-        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "We belong together",
-      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
+      "duration_ms": 222186,
+      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
+      "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
     },
     {
       "added_at": null,
@@ -671,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+        "name": "BigBang First Single",
+        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 224053,
-      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
+      "duration_ms": 238293,
+      "name": "We belong together",
+      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 213640,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
     },
     {
       "added_at": null,

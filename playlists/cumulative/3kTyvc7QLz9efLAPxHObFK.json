@@ -50095,6 +50095,28 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/2EwgNCNJ9rGKH41bGhhApq"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117400,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1HguG2N6yx2uZlXQjGarya"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/0K43NhVgay3siCTmU6nZ7T"
       },

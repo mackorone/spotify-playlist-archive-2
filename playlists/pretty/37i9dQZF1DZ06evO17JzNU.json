@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 32650,
+  "num_followers": 32660,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAAr6U2jXfz6onX2UuR7nYwe",
+  "snapshot_id": "aqNEgAAAAAClZ47ltG02bgkOQJ4Hr4i0",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "y no te miento",
-        "url": "https://open.spotify.com/album/5rHOyE890GcyjHvICeSvyu"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "y no te miento",
-      "url": "https://open.spotify.com/track/3mer2l825Fv6IezdNOjopX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 127343,
       "name": "F*CK",
       "url": "https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "y no te miento",
+        "url": "https://open.spotify.com/album/5rHOyE890GcyjHvICeSvyu"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "y no te miento",
+      "url": "https://open.spotify.com/track/3mer2l825Fv6IezdNOjopX"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 185808,
-      "name": "Black Jack",
-      "url": "https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Orden",
         "url": "https://open.spotify.com/album/2v0QOuJ6j0TdN5bxLBlxkN"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 139692,
       "name": "A La Orden",
       "url": "https://open.spotify.com/track/2eLAc8i3esZ0DKdYQskdoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 185808,
+      "name": "Black Jack",
+      "url": "https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suerte No Fue",
         "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 191000,
       "name": "Suerte No Fue",
       "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "130",
-        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "130",
-      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Gracias Al Se\u00f1or",
         "url": "https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 154999,
       "name": "Todo Gracias Al Se\u00f1or",
       "url": "https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "130",
+        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "130",
+      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bola De Corrientes",
-        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
+        "name": "Son 4 Rifando",
+        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 219697,
-      "name": "Bola De Corrientes",
-      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+      "duration_ms": 139050,
+      "name": "Son 4 Rifando",
+      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son 4 Rifando",
-        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
+        "name": "Bola De Corrientes",
+        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 139050,
-      "name": "Son 4 Rifando",
-      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
+      "duration_ms": 219697,
+      "name": "Bola De Corrientes",
+      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

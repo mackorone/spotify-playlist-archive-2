@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 52267,
+  "num_followers": 52300,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,18 @@
     {
       "added_at": "2026-08-10 14:18:20",
       "album": {
-        "name": "Madhorama",
-        "url": "https://open.spotify.com/album/7j3lvi0YBl14COB5hCqDHM"
+        "name": "Din Shagna",
+        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
       },
       "artists": [
         {
           "name": "Neha Bhasin",
           "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        },
-        {
-          "name": "Sameer Uddin",
-          "url": "https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX"
         }
       ],
-      "duration_ms": 191710,
-      "name": "Madhorama",
-      "url": "https://open.spotify.com/track/7tOBh3vDbyx1OaJjmbNVXG"
+      "duration_ms": 229135,
+      "name": "Din Shagna",
+      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
     },
     {
       "added_at": "2026-08-10 14:18:20",
@@ -671,18 +667,22 @@
     {
       "added_at": "2026-08-10 14:18:20",
       "album": {
-        "name": "Din Shagna",
-        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
+        "name": "Madhorama",
+        "url": "https://open.spotify.com/album/7j3lvi0YBl14COB5hCqDHM"
       },
       "artists": [
         {
           "name": "Neha Bhasin",
           "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        },
+        {
+          "name": "Sameer Uddin",
+          "url": "https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX"
         }
       ],
-      "duration_ms": 229135,
-      "name": "Din Shagna",
-      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
+      "duration_ms": 191710,
+      "name": "Madhorama",
+      "url": "https://open.spotify.com/track/7tOBh3vDbyx1OaJjmbNVXG"
     },
     {
       "added_at": "2026-08-10 14:18:20",

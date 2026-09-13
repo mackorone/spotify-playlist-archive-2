@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,296 likes - 20 songs - 59 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88,304 likes - 20 songs - 59 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 13 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
 | 14 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
 | 15 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
-| 16 | [feeling good](https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [feeling good](https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS) | 3:21 |
-| 17 | [Gece ve Gündüz](https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gece ve Gündüz](https://open.spotify.com/album/2PEskqdd9Sp16mdNnqd4VW) | 3:11 |
+| 16 | [Gece ve Gündüz](https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gece ve Gündüz](https://open.spotify.com/album/2PEskqdd9Sp16mdNnqd4VW) | 3:11 |
+| 17 | [feeling good](https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [feeling good](https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS) | 3:21 |
 | 18 | [Opium](https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Opium](https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741) | 2:26 |
 | 19 | [Işık](https://open.spotify.com/track/4vXcZcrmXfiqWfG7zTTUPe) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Işık](https://open.spotify.com/album/6A4Bv7ZciNE6XgXvdWYRfZ) | 2:58 |
 | 20 | [حرارة](https://open.spotify.com/track/2kc1v2sVOuxQQA12Tazou0) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [حرارة](https://open.spotify.com/album/2IOttbtMAAh0abaCKcKoWz) | 1:56 |

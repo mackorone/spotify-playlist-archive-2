@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,162 songs - 4 day 21 hr 0 min
+2,163 songs - 4 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [FOR LIFE](https://open.spotify.com/track/1sRrW5JHJMsDPyjix1I1YQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:00 | 2026-05-23 | 2026-06-07 |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-09 | 2023-09-11 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-19 |
+| [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 | 2026-09-12 |  |
 | [FOREVER](https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:31 | 2025-01-10 | 2025-02-17 |
 | [Forever And Ever](https://open.spotify.com/track/0DAEnPBk4LYHloZYO5AnML) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:11 | 2021-04-18 | 2021-04-19 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-03 | 2023-06-04 |
@@ -1281,7 +1282,7 @@
 | [MINUIT D'APRÈS](https://open.spotify.com/track/55pzc28mlzcpExm9yBw7US) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [MINUIT D'APRÈS](https://open.spotify.com/album/1J3tSpZ8R7Lrqu8zQPQw2v) | 3:03 | 2026-04-14 | 2026-04-19 |
 | [MIRACLE](https://open.spotify.com/track/0Tvxs4vFk1enA3TORHHmMu) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Miracle](https://open.spotify.com/album/5euNvWqq6drNsuB4waFBcI) | 2:36 | 2026-04-25 | 2026-04-29 |
 | [Mission](https://open.spotify.com/track/31GBHnt54ns1UD2CmAmTCW) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:08 | 2023-06-24 | 2023-07-02 |
-| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 |  |
+| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 | 2026-09-13 |
 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 | 2021-03-27\* | 2021-07-04 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-24 | 2023-05-09 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-14 | 2023-11-25 |

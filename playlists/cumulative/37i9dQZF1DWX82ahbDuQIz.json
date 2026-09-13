@@ -308,10 +308,40 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 254666,
       "name": "All I Ask Of You",
       "url": "https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi"
+    },
+    {
+      "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "Phantom Of The Opera Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Steve Barton",
+          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254440,
+      "name": "All I Ask of You",
+      "url": "https://open.spotify.com/track/7uq8865MVnUPMFJ8dLnedm"
     },
     {
       "album": {
@@ -765,6 +795,36 @@
     },
     {
       "album": {
+        "name": "Defying Gravity: Songs from Wicked",
+        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353920,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/1fsBDvL77kDOixZ8Lw9cjZ"
+    },
+    {
+      "album": {
         "name": "Musikalfavoriter",
         "url": "https://open.spotify.com/album/3hPp88Hh4aBUGTnuoZVZva"
       },
@@ -810,7 +870,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
@@ -1108,6 +1168,32 @@
       "duration_ms": 325293,
       "name": "Elephant Love Medley",
       "url": "https://open.spotify.com/track/5JRgVMONxTRjC1g1d0XsvX"
+    },
+    {
+      "album": {
+        "name": "Cats (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/6UXNWj0fnzaRt9TQ7UhVGR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"Cats\" 1981 Original London Cast",
+          "url": "https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD"
+        },
+        {
+          "name": "Elaine Paige",
+          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83520,
+      "name": "End of Act 1: Memory",
+      "url": "https://open.spotify.com/track/1GD7e0Itp7qe3yAh375fxi"
     },
     {
       "album": {
@@ -1539,48 +1625,48 @@
         },
         {
           "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+          "url": "https://open.spotify.com/artist/3JzGBxl3Es2esakXzcIgre"
         },
         {
           "name": "Rory O'Malley",
-          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
+          "url": "https://open.spotify.com/artist/3DvBdTdxzVtwQGY7IZTyvE"
         },
         {
           "name": "Kevin Duda",
-          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
+          "url": "https://open.spotify.com/artist/5oqdjNuVZvyprDl56zhQnd"
         },
         {
           "name": "Clark Johnsen",
-          "url": "https://open.spotify.com/artist/6xWxKaEFEKU3r7AUzUKylT"
+          "url": "https://open.spotify.com/artist/3ipd8nun05nkBToP5CjVHg"
         },
         {
           "name": "Justin Bohon",
-          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
+          "url": "https://open.spotify.com/artist/4cI6V9bpNAORC3HFI0g2lQ"
         },
         {
           "name": "Brian Sears",
-          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
+          "url": "https://open.spotify.com/artist/7rzCmTlsErSE6pVWeGRmhh"
         },
         {
           "name": "Scott Barnhardt",
-          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
+          "url": "https://open.spotify.com/artist/0dkGWfQ3rOJjx6udgfHZL5"
         },
         {
           "name": "Benjamin Schrader",
-          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
+          "url": "https://open.spotify.com/artist/7uaRq4n32htpYq2fe7Uduw"
         },
         {
           "name": "Lewis Cleale",
-          "url": "https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW"
+          "url": "https://open.spotify.com/artist/2PFf6gKpBf2mMnxqKz6YRA"
         },
         {
           "name": "Jason Michael Snow",
-          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
+          "url": "https://open.spotify.com/artist/0xYYMypmsbvrRolxW1OyeL"
         }
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/08hlFtp8y9S6YZmjBNvQ1I"
@@ -1638,7 +1724,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
@@ -1708,7 +1794,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 254160,
       "name": "I Dreamed A Dream",
       "url": "https://open.spotify.com/track/3eX980bRAfdLeSdxg0Ex3w"
@@ -1726,7 +1812,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 254160,
       "name": "I Dreamed A Dream",
       "url": "https://open.spotify.com/track/0c5Y1J8ihMN8vvQ3bsoxlZ"
@@ -2356,10 +2442,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 240718,
       "name": "Kaleidoscope (From The New Broadway Musical \"Hell's Kitchen\")",
       "url": "https://open.spotify.com/track/38cNzK5FF00eKO534hSRHu"
+    },
+    {
+      "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240449,
+      "name": "Kaleidoscope - From the New Broadway Musical \u201cHell\u2019s Kitchen\u201d",
+      "url": "https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8"
     },
     {
       "album": {
@@ -2532,7 +2640,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 140653,
       "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK"
@@ -2550,7 +2658,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 140653,
       "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/4e51xdDLaQW08LHNhdkwl9"
@@ -2592,7 +2700,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 201066,
       "name": "Mamma Mia - 1999 / Musical \"Mamma Mia\"",
       "url": "https://open.spotify.com/track/2lz5PVnaX6vNVTe4fvfsLK"
@@ -2634,7 +2742,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
       "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
@@ -2808,7 +2916,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 83520,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED"
@@ -3148,8 +3256,8 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 259946,
+      "date_removed": null,
+      "duration_ms": 259957,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3kew6CYvA9xeUwwYFMdAY8"
     },
@@ -3166,7 +3274,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 257666,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx"
@@ -3385,12 +3493,12 @@
       "artists": [
         {
           "name": "\"Les Mis\u00e9rables Original London Cast\" Ensemble",
-          "url": "https://open.spotify.com/artist/1t5DckTb29c09j2yXYaRWu"
+          "url": "https://open.spotify.com/artist/4nciyIOnej3po7gqTN0fr1"
         }
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 216133,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/6cdcZzuQzUhspZo2aJfKaH"
@@ -3444,7 +3552,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 216573,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/5kXbjaPptGdfQmMfeJCXlS"
@@ -3726,7 +3834,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 192146,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/5fTikjXnFxv1CU6AiEPBLB"
@@ -3744,7 +3852,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 192148,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm"
@@ -3912,7 +4020,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 134506,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/08AqNLS5haUpTSacAbMHA0"
@@ -3930,7 +4038,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 134506,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/11r0OH8zYLcBlryvnAiykT"
@@ -4116,7 +4224,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf"
@@ -4142,7 +4250,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/2AODWpK0rauqqL1gHfq2Zy"
@@ -4200,10 +4308,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 204370,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "album": {
+        "name": "Remembering Tim Curry",
+        "url": "https://open.spotify.com/album/7dtvCpu5syxuPqiX5u88Ah"
+      },
+      "artists": [
+        {
+          "name": "Tim Curry",
+          "url": "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
+        },
+        {
+          "name": "The Rocky Horror Picture Show",
+          "url": "https://open.spotify.com/artist/76bQhD0x4b8VlS0gLG016G"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204370,
+      "name": "Sweet Transvestite - The Rocky Horror Picture Show",
+      "url": "https://open.spotify.com/track/2HURD5M1WIzxpTBbugyCHS"
     },
     {
       "album": {
@@ -4266,7 +4396,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 363293,
       "name": "The American Dream",
       "url": "https://open.spotify.com/track/2P2jms3uC1jfg42WY5oFIY"
@@ -4305,7 +4435,7 @@
         },
         {
           "name": "Alain Boublil",
-          "url": "https://open.spotify.com/artist/2EnzSSPMaRMJRQod7erlhW"
+          "url": "https://open.spotify.com/artist/3PiysKxa7JG6vFGAIk4khP"
         },
         {
           "name": "Richard Maltby Jr.",
@@ -4318,7 +4448,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 364133,
       "name": "The American Dream - Original London Cast Recording/1989",
       "url": "https://open.spotify.com/track/4KhKAbwVPgizloys4wDada"

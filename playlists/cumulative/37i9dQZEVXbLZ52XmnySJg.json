@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 210197,
       "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
       "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
@@ -16646,7 +16646,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 329106,
       "name": "Maahi",
       "url": "https://open.spotify.com/track/4bIQXffbALkCC0Xo6aTicP"
@@ -22592,7 +22592,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 243578,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"
@@ -27092,6 +27092,36 @@
       "duration_ms": 347040,
       "name": "Tera Mera Rishta - Original Version",
       "url": "https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1"
+    },
+    {
+      "album": {
+        "name": "Entertainment (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5L7KzcZbgXtSBBHLvJ0wXf"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283868,
+      "name": "Tera Naam Doon (From \"Entertainment\")",
+      "url": "https://open.spotify.com/track/6p358EIjLEoDZI5vu99k6N"
     },
     {
       "album": {

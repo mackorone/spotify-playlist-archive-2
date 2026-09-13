@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,491 songs - 3 day 14 hr 56 min
+1,492 songs - 3 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Broken Conversations](https://open.spotify.com/track/6MwAfAJrR9SQfXU4eqERuH) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Broken Conversations](https://open.spotify.com/album/6i0l2X4NgBrSr2iowHKwjQ) | 3:43 | 2026-05-05 | 2026-06-05 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 | 2026-01-15 |
 | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/track/4ye8HiMTGZh4M7RqBYO8ID) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/album/7sG1LmsVHtqqj8nLHMB9OE) | 4:17 | 2026-06-18 | 2026-07-19 |
+| [Bullshit Nation](https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Bullshit Nation](https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI) | 4:06 | 2026-09-12 |  |
 | [Buried Alive](https://open.spotify.com/track/3tMP4zyg8MXPQC87LAUtgD) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Buried Alive](https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx) | 3:48 | 2026-02-15 | 2026-03-15 |
 | [Burn It Down \- Stripped Version](https://open.spotify.com/track/5e6CaDpZZp96QThzuAlIIf) | [JB and Me](https://open.spotify.com/artist/4PdHm4dyO7YaXQxXyz3Yk2) | [12:21](https://open.spotify.com/album/3wBynC8dg8ZV6IZxYzE9az) | 4:45 | 2026-07-22 | 2026-08-30 |
 | [BUSY](https://open.spotify.com/track/5bjd9IPzs7avJgswVKZtQC) | [Nancy Dunkle](https://open.spotify.com/artist/0SE0lZgXJ2XCdvO77Zv2Kl) | [BUSY](https://open.spotify.com/album/5s8s7OnvvEm4u5d6mHug1W) | 3:19 | 2026-03-02 | 2026-03-25 |

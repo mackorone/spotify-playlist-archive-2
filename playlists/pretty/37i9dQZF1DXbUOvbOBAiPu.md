@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from SDM, Hoshi, David Guetta x Hypaton, Rema, Warhaus and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,593 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,605 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 119 | [GEEN BLOEDVERWANTEN](https://open.spotify.com/track/04szheFwuynOOc227T2s7F) | [Yung Mutte](https://open.spotify.com/artist/3nlA8oiwhpvkZ2GkozXcaU) | [GEEN BLOEDVERWANTEN](https://open.spotify.com/album/0G6EgpfkNHl6ODvhBM1EEI) | 1:49 |
 | 120 | [THIS IS THE WAY](https://open.spotify.com/track/61CsarvQdzlZRbwY9VPHwf) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [THIS IS THE WAY](https://open.spotify.com/album/6U35tQyh5WpoPyECMCYmrW) | 2:19 |
 | 121 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
-| 122 | [Family dinner](https://open.spotify.com/track/5ZTmje8zPZaVvmEz5fxSw2) | [NINON](https://open.spotify.com/artist/3DBmqq0D2KK0q4z7B71dCL) | [Family dinner](https://open.spotify.com/album/2N8BKZnY7UjK7m4O8sFMGs) | 3:07 |
+| 122 | [Family Dinner](https://open.spotify.com/track/5ZTmje8zPZaVvmEz5fxSw2) | [NINON](https://open.spotify.com/artist/3DBmqq0D2KK0q4z7B71dCL) | [Family Dinner](https://open.spotify.com/album/2N8BKZnY7UjK7m4O8sFMGs) | 3:07 |
 | 123 | [Waist Deep](https://open.spotify.com/track/1J6302csOqE1OacgbDk8uf) | [Saving Nico](https://open.spotify.com/artist/5rmCezASQukBZGAFBr7hel) | [Waist Deep](https://open.spotify.com/album/1LzAwDViNyKVEhUGl8KqRf) | 4:14 |
 | 124 | [Long Way](https://open.spotify.com/track/4HoKH47jBH6kiHViWmRPoj) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Long Way](https://open.spotify.com/album/0fZI7w25XKh2aiO3as5Nh2) | 3:27 |
 | 125 | [Heavy Bones](https://open.spotify.com/track/6vgV3GEnGA4SI5ErPZlJ29) | [Tommigun](https://open.spotify.com/artist/4eaD3ickTEDepbGTIvsiLv) | [Heavy Bones](https://open.spotify.com/album/084NP8EnX8zImKm1gHucVe) | 3:29 |

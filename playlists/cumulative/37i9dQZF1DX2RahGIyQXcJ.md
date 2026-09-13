@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-552 songs - 1 day 6 hr 5 min
+553 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Dubai Company](https://open.spotify.com/track/7gD3MRqZKj2Fx1eMxdRrjt) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [FTSTTS](https://open.spotify.com/album/3MKUHpsO0O5dJjwc8ZG9AL) | 3:09 | 2025-11-14 | 2025-12-06 |
 | [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 | 2024-10-09 | 2024-11-09 |
 | [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2026-01-09 | 2026-01-24 |
+| [Echoes Of Tears](https://open.spotify.com/track/5btNVpcDkodiA5nNxsFYjj) | [ApeXtreme](https://open.spotify.com/artist/520MTnCzmMYBug5qDumjoL), [Blackey](https://open.spotify.com/artist/0o8sReFin6rADRWel8Ls2h), [Sahitik Danab](https://open.spotify.com/artist/3WPxsLUmSMRcqJrutym0x2), [YNG YKB](https://open.spotify.com/artist/52uNN4xrJETYM9ZyMB0hGc), [Rev\. The Beast](https://open.spotify.com/artist/1UrAojjb6TuvW2B1eFwA0P), [Raw](https://open.spotify.com/artist/5DkR0cBvpuJTm23OHHwxhF) | [Echoes Of Tears](https://open.spotify.com/album/2GuF321x6FWuRLvpkQS5LO) | 3:55 | 2026-09-11 |  |
 | [Ek Din](https://open.spotify.com/track/3nOefpWyZos25ipFr6LCEK) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Ek Din](https://open.spotify.com/album/2wEgS4V318gie8SJW7knRr) | 4:49 | 2021-12-03 | 2023-01-13 |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2024-06-28 |  |
 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 | 2024-06-28 |  |

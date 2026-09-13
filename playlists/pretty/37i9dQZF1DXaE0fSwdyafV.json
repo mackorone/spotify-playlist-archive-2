@@ -1,6 +1,6 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 157611,
+  "num_followers": 157624,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 357106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 256533,
       "name": "Dancing Barefoot",
       "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 357106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Practical Magic (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 237026,
       "name": "Practical Magic",
       "url": "https://open.spotify.com/track/356poNyArJ68eErTR07Xqq"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2026-09-11 04:01:16",

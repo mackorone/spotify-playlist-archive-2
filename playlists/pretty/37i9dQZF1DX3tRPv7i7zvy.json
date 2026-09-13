@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 22352,
+  "num_followers": 22376,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "PopStar",
         "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
       },
@@ -195,22 +195,18 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
       "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -235,18 +231,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
       "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -359,22 +359,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Biggest Nathaniel",
-        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
+        "name": "Darkest Style",
+        "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
       },
       "artists": [
         {
-          "name": "N.E records",
-          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+          "name": "D Global",
+          "url": "https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY"
         },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 171483,
-      "name": "Biggest Nathaniel",
-      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
+      "duration_ms": 138053,
+      "name": "Darkest Style",
+      "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -395,22 +395,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Darkest Style",
-        "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
+        "name": "Biggest Nathaniel",
+        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
       },
       "artists": [
         {
-          "name": "D Global",
-          "url": "https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY"
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
         },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Darkest Style",
-      "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
+      "duration_ms": 171483,
+      "name": "Biggest Nathaniel",
+      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Ewor Me",
-        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Ewor Me",
-      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "Redemption Valley",
         "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
+        "name": "Ewor Me",
+        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Ewor Me",
+      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -899,22 +899,18 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Trapper Sem",
-        "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
       },
       "artists": [
         {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 138260,
-      "name": "Trapper Sem",
-      "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -935,18 +931,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+        "name": "Trapper Sem",
+        "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+      "duration_ms": 138260,
+      "name": "Trapper Sem",
+      "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -1039,18 +1019,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J"
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
       "artists": [
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 153782,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -1071,6 +1055,22 @@
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 153782,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
     },
     {
       "added_at": "2026-08-28 00:02:11",

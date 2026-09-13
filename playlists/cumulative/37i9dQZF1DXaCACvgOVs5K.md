@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-598 songs - 1 day 11 hr 8 min
+599 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Feel The Heat](https://open.spotify.com/track/3r9CbJJKdAQ1Djfu932w22) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel The Heat](https://open.spotify.com/album/3mDPmJJwXuTE8azVXFBD7n) | 2:44 | 2022-08-26 | 2023-03-22 |
 | [Feel The Love](https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Feel The Love](https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx) | 3:03 | 2025-04-17 | 2026-05-01 |
 | [Feel The Vibe](https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Astrotrax](https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Feel The Vibe](https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm) | 3:05 | 2022-08-26 | 2023-05-19 |
+| [Feel This Grip \(feat\. Baby Tate\)](https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feel This Grip \(feat\. Baby Tate\)](https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ) | 3:13 | 2026-09-10 |  |
 | [Feeling](https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Feeling](https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub) | 2:38 | 2024-04-19 | 2024-07-19 |
 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-09-18 | 2026-04-11 |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-10-19 | 2025-04-01 |
@@ -294,7 +295,7 @@
 | [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2024-07-19 | 2026-04-11 |
 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-04-19 | 2026-04-11 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2022-08-26 | 2024-04-20 |
-| [Lease Of Life](https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Lease Of Life](https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS) | 2:46 | 2026-06-11 |  |
+| [Lease Of Life](https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Lease Of Life](https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS) | 2:46 | 2026-06-11 | 2026-09-13 |
 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 | 2026-06-11 |  |
 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 | 2023-07-26 | 2025-03-10 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-08-26 | 2024-07-19 |

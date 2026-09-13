@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,609 songs - 6 day 9 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,619 songs - 6 day 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2617,5 +2617,15 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2607 | [Flute Flow](https://open.spotify.com/track/5QtuudLFZi6gr8aFDLLbJ6) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Flute Flow](https://open.spotify.com/album/6NK0cRmWPB4Dbz8Yqor9mw) | 2:29 |
 | 2608 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
 | 2609 | [Es Inevitable \- Latin Version](https://open.spotify.com/track/2zj2SWesJDCoo8k2fRTZMa) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:35 |
+| 2610 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/7yA2MCUQtsloL6JXtoLa6U) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:20 |
+| 2611 | [Burn the Cape](https://open.spotify.com/track/43mTDEuznSLj3yfeoMPo26) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Night Drive](https://open.spotify.com/album/6L46uFh62f61tnvmmCuIie) | 2:24 |
+| 2612 | [Do I mean anything to U](https://open.spotify.com/track/2H5k3peC3z5uLNHtWN61yp) | [Saes](https://open.spotify.com/artist/3F2WIaenzW5MGMMdS0wLMK), [VonnieRage](https://open.spotify.com/artist/3PAZSvKMQTTXKXZYDF4VtW) | [Do I mean anything to U](https://open.spotify.com/album/2qykr7BO1DvTAR8iE5Ck84) | 1:54 |
+| 2613 | [Any Longer](https://open.spotify.com/track/1JJfU6CF9IW0JDzdx3ygKw) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 4:17 |
+| 2614 | [simple f](https://open.spotify.com/track/4bwUkCXjhmsadzDCiz82i8) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [together](https://open.spotify.com/album/2H8rc7wQHouxVy155La6pr) | 1:32 |
+| 2615 | [Liima](https://open.spotify.com/track/2rDKQMgRLXbnpWBkvz6G5x) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [Cph Chill\#1 Summer 2019](https://open.spotify.com/album/43YqpTSjd1IaVxbERSCfvG) | 1:07 |
+| 2616 | [fringed](https://open.spotify.com/track/5l9wmIkbbdRgp1vxFdCOaN) | [Kwaiwon](https://open.spotify.com/artist/7AjMEXU9E9HzriL8YN3Puk) | [Cph Chill\#1 Summer 2019](https://open.spotify.com/album/43YqpTSjd1IaVxbERSCfvG) | 1:47 |
+| 2617 | [Getting 4am Vibes](https://open.spotify.com/track/0pZ4eGTCIxJrJyQgvciufh) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [Getting 4am Vibes](https://open.spotify.com/album/1IKLDlqWhsj18roTFn7tDi) | 2:00 |
+| 2618 | [Hearth](https://open.spotify.com/track/4w9EoIviZdmTYQi0qm5gyQ) | [Jonas Kildegaard](https://open.spotify.com/artist/3DGf0qSeKv7uGYQLFX6I9z) | [Hearth](https://open.spotify.com/album/3vhFMMYAhZLq39eRsrgDAw) | 2:12 |
+| 2619 | [Ok I Guess](https://open.spotify.com/track/4RQ4fyaMmx0HZ4ORL7CltZ) | [CØINS](https://open.spotify.com/artist/2lEXmLQLmjxZQUkFWvNfW9) | [Ok I Guess](https://open.spotify.com/album/5NSLmtpmep417wzjY4SCDj) | 2:07 |
 
-Snapshot ID: `AAALJ0t2+sAL1LHjWO1vM8AZGXwaijIP`
+Snapshot ID: `AAALMSIMFjZQoUQmcJPUMTwnnfaG/1um`

@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Dells TMX and Holy Drill
 
-9,005 songs - 28 day 4 hr 52 min
+9,006 songs - 28 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1607,7 +1607,7 @@
 | [Dispatch](https://open.spotify.com/track/2ICW9YpBjg2braBec3kPM2) | [Chris NLC](https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD) | [Dispatch](https://open.spotify.com/album/11ttgBM9uWTV6SMC9Wfvva) | 3:08 | 2026-02-27 | 2026-03-13 |
 | [Disponible](https://open.spotify.com/track/6ufnUaRtAuDSPieBF6E7Js) | [Mynda Aleeza](https://open.spotify.com/artist/6FTkzSqzuMJkS0PPP0Zm89) | [Disponible](https://open.spotify.com/album/5V2oRu0naBaetiWZ84X0pl) | 3:35 | 2023-12-15 | 2023-12-30 |
 | [Diss Song](https://open.spotify.com/track/4NSEbdVHrkQFjG1ELyciZ2) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Diss Song](https://open.spotify.com/album/1uthfiBOeHkOCMMteRkr4P) | 2:52 | 2026-03-20 | 2026-03-27 |
-| [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK), [LAMB CULTURE\. & ayomidetPh](https://open.spotify.com/artist/0Jd56a5TAViMWTPHf8s7te) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 | 2026-09-11 |  |
+| [Distraction](https://open.spotify.com/track/4B2gM6YJGM9o6pJzbdPfXs) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Distraction](https://open.spotify.com/album/3eQJd7Tr2TV2RRlNl943NU) | 2:31 | 2026-09-11 |  |
 | [distractions...](https://open.spotify.com/track/5WeTVsnktGqDBnF3yXMjfn) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [distractions...](https://open.spotify.com/album/4I9uV4AiRVOK0tKC7dN1io) | 2:25 | 2023-11-17 | 2023-12-01 |
 | [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 | 2023-06-09 |
 | [DITFK \(Do it for the King\)](https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [DITFK \(Do it for the King\)](https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN) | 1:31 | 2023-11-24 | 2023-12-08 |
@@ -8963,6 +8963,7 @@
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-03 | 2025-01-17 |
 | [Your Word](https://open.spotify.com/track/1VdnrQ1TK8Iudl3t5kpIAA) | [Chris Appau](https://open.spotify.com/artist/266E0qoOQI4ITsbSVVV1bA), [HPI](https://open.spotify.com/artist/508n4zxp4c2dlPHXXs9vft) | [ABBA \(The Worshipper's Journal\)](https://open.spotify.com/album/3GLb734Fr9EWir4UXAM6r3) | 7:30 | 2024-01-12 | 2024-01-26 |
 | [Your Word](https://open.spotify.com/track/7v8HxS9lfM7rg3NuB8gSDk) | [FOAN](https://open.spotify.com/artist/49fkYa4RRJsqUePI51a5dR), [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Zac Carpenter](https://open.spotify.com/artist/3MfwCQuQtLmg2os5BUkMH0) | [Your Word](https://open.spotify.com/album/2CtRD96jHhXnS7hTCHThAR) | 6:00 | 2026-08-07 | 2026-08-21 |
+| [Your Word \- Live](https://open.spotify.com/track/6moe3lhQWotIapq5c0jHAa) | [Philippa](https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH) | [Your Word \(Live\)](https://open.spotify.com/album/6MmC3Aeh5rdVxceGQyC2ij) | 8:14 | 2026-09-11 |  |
 | [Yours](https://open.spotify.com/track/67qEXNTnAdk2YFo76vmTTp) | [Davison A](https://open.spotify.com/artist/0DFTAGDdaN4PPkg7kiKE22) | [Yours](https://open.spotify.com/album/1WohkReJok8AktQeiuGpwx) | 2:53 | 2026-02-13 | 2026-02-27 |
 | [yours](https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [G.E.S](https://open.spotify.com/artist/1r0gAOldNSTyidXhWLDHTF) | [yours](https://open.spotify.com/album/57FTf0XIoXls6CbAJTMkB0) | 2:59 | 2025-05-09 | 2025-05-23 |
 | [Yours](https://open.spotify.com/track/6392PrhNAYBKQXYR0SjLqg) | [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Yours](https://open.spotify.com/album/0Ara5ecZkt0Xog6gfCTAbI) | 2:52 | 2024-09-20 | 2024-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,174 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,193 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 25 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
 | 26 | [Remember Summer Days \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [杏里 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz) | 3:46 |
 | 27 | [Radiant Memories](https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:19 |
-| 28 | [Onam Wave](https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn) | [Joan Jose](https://open.spotify.com/artist/6uql75Amu5Sb5DuowvloMP), [Time Lapse 1987](https://open.spotify.com/artist/4yuM28EUHBFRVwixccj21p) | [Onam Wave](https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75) | 3:27 |
-| 29 | [It's Good to See You Again!!](https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [Take Care of Yourself](https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U) | 3:54 |
+| 28 | [It's Good to See You Again!!](https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [Take Care of Yourself](https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U) | 3:54 |
+| 29 | [Onam Wave](https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn) | [Joan Jose](https://open.spotify.com/artist/6uql75Amu5Sb5DuowvloMP), [Time Lapse 1987](https://open.spotify.com/artist/4yuM28EUHBFRVwixccj21p) | [Onam Wave](https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75) | 3:27 |
 | 30 | [Dolce Disco](https://open.spotify.com/track/33Eg2dLQm2YwdVo2J1Yz7c) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0) | [Meant To be Superfluous](https://open.spotify.com/album/7MtiH1SlOboNXb2awykwB5) | 5:06 |
 | 31 | [みずいろの雨 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [八神純子 – Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN) | 4:00 |
 | 32 | [Ｂｒｅａｋｉｎｇ　Ａｗａｙ](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 |

@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177121,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
+    },
+    {
+      "album": {
         "name": "Entrada Liberada",
         "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
       },
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 159741,
       "name": "Por el Bien de los Dos",
       "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"

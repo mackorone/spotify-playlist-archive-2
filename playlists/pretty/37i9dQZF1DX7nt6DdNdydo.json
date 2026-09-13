@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 64869,
+  "num_followers": 64888,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Aladdin '52-'59:Let The Good Times Roll",
         "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 119720,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 154933,
       "name": "Nervous Man Nervous",
       "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Aladdin Records Story",
-        "url": "https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Leave Me Baby",
-      "url": "https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Presenting Big Jay McNeely",
         "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 167866,
       "name": "Deacon Rides Again",
       "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Aladdin Records Story",
+        "url": "https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Leave Me Baby",
+      "url": "https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
-      },
-      "artists": [
-        {
-          "name": "The Treniers",
-          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Say Hey (The Willie Mays Song)",
-      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jack, You're Dead: The Essential Blue Archive",
         "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163506,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
+      },
+      "artists": [
+        {
+          "name": "The Treniers",
+          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Say Hey (The Willie Mays Song)",
+      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jack, You're Dead: The Essential Blue Archive",
         "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185293,
       "name": "Ain't Nobody Here but Us Chickens",
       "url": "https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "More Greatest Hits - Good Rockin' Tonight",
-        "url": "https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 136773,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Walk That Mess!",
         "url": "https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 164160,
       "name": "I'm Going To Have Myself A Ball",
       "url": "https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "More Greatest Hits - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 136773,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
     },
     {
       "added_at": "2022-03-28 19:44:25",

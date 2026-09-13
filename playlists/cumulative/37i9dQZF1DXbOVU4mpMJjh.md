@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,242 songs - 3 day 11 hr 9 min
+1,243 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-08 | 2025-11-27 |
 | [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-05-23 | 2024-10-22 |
 | [Keeping Records](https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [Keeping Records](https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7) | 3:41 | 2024-01-05 | 2024-09-10 |
+| [Keeping The Promises](https://open.spotify.com/track/0fswN3BXxEMpHt0FMFkee5) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Keeping the Promises](https://open.spotify.com/album/4deWsHZBt6HsiLE0Ztsd9K) | 3:14 | 2026-09-11 |  |
 | [Killer Joe](https://open.spotify.com/track/0aEcArQsqTpErHdixEVaHj) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Terminal 1](https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP) | 6:53 | 2022-04-14 | 2022-09-16 |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-15 | 2024-02-23 |
 | [Kings & Queens](https://open.spotify.com/track/6s8YKLawXuQJC9vmbUY8X6) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 2:49 | 2023-08-25 |  |
@@ -629,7 +630,7 @@
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-03-09 | 2025-11-27 |
 | [Lost in Your Gaze](https://open.spotify.com/track/4iAqW3CUYfSAzSfVLqT8wp) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Lost in Your Gaze](https://open.spotify.com/album/3jlhZJHwYTt4GquVd4kcbL) | 2:30 | 2024-02-23 |  |
 | [Lost Without You](https://open.spotify.com/track/3ENf7f5t8MoW4R5XDsMEpB) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Lost Without You](https://open.spotify.com/album/1ZqMSWxNRIBk7kqPlu1jeV) | 3:32 | 2024-02-02 |  |
-| [Lots of It](https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Lots of It](https://open.spotify.com/album/1YeXV9XSa6jgeA493IzYeO) | 2:51 | 2024-05-10 |  |
+| [Lots of It](https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Lots of It](https://open.spotify.com/album/1YeXV9XSa6jgeA493IzYeO) | 2:51 | 2024-05-10 | 2026-09-13 |
 | [Love and Memory](https://open.spotify.com/track/1A5FyiLQhGWUiUDummzjO7) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Love and Memory](https://open.spotify.com/album/6RfP1DK2NrV4kxRu5wCkLt) | 3:56 | 2024-10-21 | 2024-11-27 |
 | [Love and Peace](https://open.spotify.com/track/7kdZlgkWHnivQNSGe6AsTa) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Love & Peace](https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n) | 1:59 | 2022-04-14 | 2022-10-08 |
 | [Love For Free](https://open.spotify.com/track/4s5I0RCLDgPjUpmmlQbpP1) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Love For Free](https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22) | 3:33 | 2024-03-08 |  |

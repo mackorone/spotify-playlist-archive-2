@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51696,
+  "num_followers": 51699,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAAC8jDvi8EN989eUozEM+EH9",
+  "snapshot_id": "aqNEgAAAAABtODQHkphxVael60pB+yfS",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sana Nuestra Naci\u00f3n",
+        "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Edgar Aguilar",
+          "url": "https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 588816,
+      "name": "No Hay Nada Imposible - En Vivo",
+      "url": "https://open.spotify.com/track/6HKkJwCwn8dgjp7uLyMaPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es Un Avivamiento",
+        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Unidos Somos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -327,50 +371,6 @@
       "duration_ms": 605448,
       "name": "Obra de Tu Amor (Alfarero) [En Vivo]",
       "url": "https://open.spotify.com/track/2c6GI6IJj4y8of8a6HeKiE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Es Un Avivamiento",
-        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Naci\u00f3n",
-        "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edgar Aguilar",
-          "url": "https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 588816,
-      "name": "No Hay Nada Imposible - En Vivo",
-      "url": "https://open.spotify.com/track/6HKkJwCwn8dgjp7uLyMaPU"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        }
-      ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 749184,
       "name": "Sana Nuestra Naci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 280893,
-      "name": "Eres Todo Para Mi",
-      "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 341208,
       "name": "Es por Fe - En Vivo",
       "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi",
+      "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es Un Avivamiento",
-        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 345960,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/3Df2s0wuEI8nu1NGTEIKuh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 472800,
       "name": "Somos Tu Iglesia - En Vivo",
       "url": "https://open.spotify.com/track/4Zt6DdmiRE5JNIxrx4cQq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es Un Avivamiento",
+        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 345960,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/3Df2s0wuEI8nu1NGTEIKuh"
     },
     {
       "added_at": null,
@@ -1067,22 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+        "name": "Todo a Cristo",
+        "url": "https://open.spotify.com/album/5PEasngggn8KoYgMkHAb6K"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
         },
         {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 258640,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
+      "duration_ms": 350110,
+      "name": "Todo a Cristo",
+      "url": "https://open.spotify.com/track/2RDwakLoQx2uzPgBoKRkOi"
     }
   ],
   "unique_name": "This Is Generaci\u00f3n 12",

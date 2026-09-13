@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-622 songs - 1 day 12 hr 50 min
+623 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dear Mr\. President](https://open.spotify.com/track/01jqIjPTEGfl1WszmcTofg) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa), [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Dear Mr\. President](https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz) | 3:36 | 2025-05-29 | 2025-06-27 |
 | [Dekadens](https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI) | [Lustans Lakejer](https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN) | [Dekadens](https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 | 2024-12-08 |
+| [Den första snön](https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Den första snön](https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL) | 4:37 | 2026-09-10 |  |
 | [Den jag aldrig kunde va](https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Den jag aldrig kunde va](https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum) | 2:49 | 2025-04-10 | 2025-10-01 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-12 | 2025-04-11 |
 | [Den känslan](https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Den känslan](https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2) | 2:46 | 2025-01-31 | 2026-02-13 |
@@ -275,7 +276,7 @@
 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-07 | 2026-07-18 |
 | [In your bed](https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [In your bed](https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN) | 3:26 | 2026-09-10 |  |
 | [In Your Grace](https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [In Your Grace](https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN) | 5:27 | 2026-02-12 | 2026-04-10 |
-| [Inga ärliga människor säljer sina känslor](https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Inga ärliga människor säljer sina känslor](https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn) | 4:11 | 2026-05-08 | 2026-09-11 |
+| [Inga ärliga människor säljer sina känslor](https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Inga ärliga människor säljer sina känslor](https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn) | 4:11 | 2026-05-08 |  |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-04-25 |
 | [Ingen plockar en maskros](https://open.spotify.com/track/55kyGw7WmOpInVrabROr68) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Ingen plockar en maskros](https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC) | 3:43 | 2026-06-04 |  |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
@@ -360,7 +361,7 @@
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr) | 2:43 | 2024-06-27 | 2024-10-01 |
 | [Mannen i spegeln](https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Mannen i spegeln](https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L) | 3:32 | 2025-06-19 | 2026-04-17 |
 | [Marching To This Drum](https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [Marching To This Drum](https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7) | 3:00 | 2024-10-17 | 2024-12-01 |
-| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 |  |
+| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 | 2026-09-13 |
 | [Mars Venus](https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0) | [Mars Venus](https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS) | 3:46 | 2024-11-07 | 2025-05-16 |
 | [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-10 | 2024-11-02 |
 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 | 2024-09-26 | 2024-12-06 |
@@ -420,7 +421,7 @@
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |
 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 | 2024-10-10 | 2025-01-24 |
 | [Out Of Love](https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Out Of Love](https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW) | 3:23 | 2024-06-27 | 2024-08-23 |
-| [Oxygen](https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN) | [Laila Adèle](https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ) | [Oxygen](https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq) | 3:05 | 2026-03-05 |  |
+| [Oxygen](https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN) | [Laila Adèle](https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ) | [Oxygen](https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq) | 3:05 | 2026-03-05 | 2026-09-13 |
 | [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 | 2026-05-21 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [Passa dig](https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Passa dig](https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG) | 2:28 | 2024-10-03 | 2024-11-11 |

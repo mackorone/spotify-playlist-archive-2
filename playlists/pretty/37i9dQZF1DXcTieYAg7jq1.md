@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Frank Mastra
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,404 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,426 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 3 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 |
 | 4 | [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 |
 | 5 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
-| 6 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis](https://open.spotify.com/artist/5UOJF4PsvWGwnKuB0ZG3ml) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
+| 6 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis.](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
 | 7 | [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 |
 | 8 | [Love Ruins Everything](https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Love Ruins Everything](https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx) | 3:20 |
 | 9 | [jumping in](https://open.spotify.com/track/1VkOwCb4bkYCwCFi4QyPAn) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [jumping in](https://open.spotify.com/album/72SmaeedSj75Z89ls7JW9O) | 3:02 |

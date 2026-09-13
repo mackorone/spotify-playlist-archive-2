@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Camilo, Dalex, Ryan Castro, Lenny Tavarez, LAGOS & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,875 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,902 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [Firme Contigo](https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Firme Contigo](https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO) | 2:05 |
 | 32 | [La Curita](https://open.spotify.com/track/3N3WPcEBEOfIS7GZIzPJWR) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [La Curita](https://open.spotify.com/album/296aHbyUMwxwT9D8orFAEx) | 2:21 |
 | 33 | [CANTON](https://open.spotify.com/track/7LF6a7WH6puZO9oLdOrE1Q) | [Arre](https://open.spotify.com/artist/1xnSdmB7fgS0JcfOJFzBF1) | [CANTON](https://open.spotify.com/album/3EfItdZ7VjrD1AQP7l3NFH) | 3:19 |
-| 34 | [Pienso En Ti](https://open.spotify.com/track/4qRjm7K77MNvijcA65MnwM) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Pienso En Ti](https://open.spotify.com/album/01vuBl8CBsPECGDtvmhQBR) | 2:19 |
+| 34 | [Pienso solo en ti](https://open.spotify.com/track/4qRjm7K77MNvijcA65MnwM) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Pienso solo en ti](https://open.spotify.com/album/01vuBl8CBsPECGDtvmhQBR) | 2:19 |
 | 35 | [ASTROMELIA](https://open.spotify.com/track/7A20f6Mr0Gf8LocZusKIzC) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [ASTROMELIA](https://open.spotify.com/album/23iVVLgX9LLUY8juVK2JWE) | 3:13 |
 | 36 | [CHEFFA](https://open.spotify.com/track/6uj0LD8QVIrTxzq40hgGoW) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [CHEFFA](https://open.spotify.com/album/60RwE4Ke5Vnne6NgXWJtmw) | 2:02 |
 | 37 | [Otra Noche En Brickell](https://open.spotify.com/track/2yPDpkH2uy11E3hHEu2pyu) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs) | [Otra Noche En Brickell](https://open.spotify.com/album/61bJ1TMNzqA4qUCT7Be5UH) | 3:15 |

@@ -2534,10 +2534,32 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 142024,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh"
+    },
+    {
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/13U8woaJR4rRrLywslUXnP"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        },
+        {
+          "name": "Cortisa Star",
+          "url": "https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142024,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/1TnXrZUBeWewhb6byTS5Mw"
     },
     {
       "album": {
@@ -8304,10 +8326,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 199384,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/5Jmnl1E33SYSCe5TogwBaW"
+    },
+    {
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/6p108Q4eYfBH64JRreIriV"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/7tMI32k7JL5O5P8l2ASsA9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Averagekidluke, Ares ja Bizi, BESS..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,406 likes - 106 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,421 likes - 106 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 14 | [Kiitos siitä](https://open.spotify.com/track/48eeKUtgcRhu5SkVh7xvxH) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Kiitos siitä](https://open.spotify.com/album/1lgIsNWezCxt81gbzVxoeA) | 2:29 |
 | 15 | [LAITA SE PAUHAA](https://open.spotify.com/track/5PmikX5Zz0lVf7INu3Iqmn) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [LAITA SE PAUHAA](https://open.spotify.com/album/1N6R1WW9xldRkeovbbMTsz) | 2:19 |
 | 16 | [Korhosen veneellä Pt\. 2](https://open.spotify.com/track/3YTTJMgypwL3W4Lnk2qzCq) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Lämpöaalto Vol.1](https://open.spotify.com/album/4y3gqYb2PxNUUBLE3QFgjk) | 3:19 |
-| 17 | [Tänään Mä Teen Sen](https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ) | [BeShady](https://open.spotify.com/artist/0HgqoMSGzJUccAs9GWexQW), [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0), [BeShady x VBZ](https://open.spotify.com/artist/6ZS7BDn9Afbr3vrrAVrwp6) | [Tänään Mä Teen Sen](https://open.spotify.com/album/2WslV5I2IQFFR2ReAmDDz2) | 2:58 |
+| 17 | [Tänään Mä Teen Sen](https://open.spotify.com/track/7eydi9nUQ1Ev0SwjhpszXJ) | [BeShady](https://open.spotify.com/artist/0HgqoMSGzJUccAs9GWexQW), [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0) | [Tänään Mä Teen Sen](https://open.spotify.com/album/2WslV5I2IQFFR2ReAmDDz2) | 2:58 |
 | 18 | [GAY \(Vain elämää kausi 17\)](https://open.spotify.com/track/0FrEmHUfeAxr6rtF8ag0Af) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct) | [GAY \(Vain elämää kausi 17\)](https://open.spotify.com/album/6cGY1oKFB90loxpqhZrDNV) | 3:03 |
 | 19 | [Paremmin kuin kukaan muu \(Vain elämää kausi 17\)](https://open.spotify.com/track/7EF6IywLb3RH7ONpNyisPI) | [Heikki Salo](https://open.spotify.com/artist/7CsbWKLN4Jb9NUh5tDoPZd), [Miljoonasade](https://open.spotify.com/artist/1nUMGeWGdshl9DQi022EJJ) | [Paremmin kuin kukaan muu \(Vain elämää kausi 17\)](https://open.spotify.com/album/0uEnc6nMXGVfycVfgPEPtP) | 2:59 |
 | 20 | [Kyllästyny](https://open.spotify.com/track/2Nlc75Y4CIypewZXwPmvgI) | [Päkä](https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE) | [Kyllästyny](https://open.spotify.com/album/1hv6D1StPr2m5T30MvPLln) | 2:21 |

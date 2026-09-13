@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,830 songs - 10 day 21 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,834 songs - 10 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4838,5 +4838,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4828 | [Seven Seas](https://open.spotify.com/track/50mcx7UE92wHHgxoBRHLBo) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Bridging The Gap](https://open.spotify.com/album/5oudgZVxN0EsMqb7WtwItP) | 4:11 |
 | 4829 | [Cactus heart](https://open.spotify.com/track/7ijiYwcAp54xjFp6IUnFFO) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 3:05 |
 | 4830 | [School](https://open.spotify.com/track/6en8QbNHIj86NMTnbcprqD) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [School](https://open.spotify.com/album/7tNNzwNjVpM1RG8ePFYbTS) | 14:10 |
+| 4831 | [Akela Tha Dil Mera](https://open.spotify.com/track/4bZC6Kp6Nt8ymcNe0incT9) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Akela Tha Dil Mera](https://open.spotify.com/album/0Lixz2mfd8bPVVsBxpUOpK) | 4:36 |
+| 4832 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 |
+| 4833 | [Estar Dónde Tú Estás](https://open.spotify.com/track/4PGamhJVyyFlAB4nUJlb6A) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Estar Dónde Tú Estás](https://open.spotify.com/album/7ETg2N9BGdMBTM9gXzfhR2) | 4:09 |
+| 4834 | [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 |
 
-Snapshot ID: `AAAKAtiBqOuwVFU0jDpb/aHZ4Y7peBL4`
+Snapshot ID: `AAAKBvgtFIyj2cAFcr6ilsGwEx5lsrpo`

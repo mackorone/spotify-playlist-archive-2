@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 48658,
+  "num_followers": 48661,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACSmXjIWe4bhRt3hOvQFS7m",
+  "snapshot_id": "aqNEgAAAAAAhhEtJrjyX112ybKQRs1oF",
   "tracks": [
     {
       "added_at": null,
@@ -831,26 +831,6 @@
       "duration_ms": 382160,
       "name": "Miss Sarajevo - Live",
       "url": "https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Verdigris",
-      "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
     }
   ],
   "unique_name": "This Is Brian Eno",

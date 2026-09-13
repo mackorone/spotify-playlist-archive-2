@@ -4,7 +4,7 @@
 
 > Zomer 2026 beleef je hier!
 
-961 songs - 2 day 0 hr 26 min
+962 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [Really Mine](https://open.spotify.com/track/7EhsYtZMxPkeFmsIBdDsBU) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Really Mine](https://open.spotify.com/album/4sj4CUdtAW61TvcfK4T0ny) | 3:00 | 2025-01-24 | 2025-05-16 |
 | [Reasons](https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons EP](https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL) | 1:54 | 2026-07-13 |  |
 | [Regalo](https://open.spotify.com/track/3xdRXm4yzRPXfBRf6B2IUN) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Regalo](https://open.spotify.com/album/7nNa1v3m5iPVvrXpbUd0fZ) | 3:04 | 2025-06-20 | 2025-09-21 |
-| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-02-19 |  |
+| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-02-19 | 2026-09-13 |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2023-02-23 | 2023-06-30 |
 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-19 |  |
 | [Rhythm](https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kohsea](https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Rhythm](https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf) | 3:16 | 2026-06-25 |  |
@@ -764,6 +764,7 @@
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-20 | 2025-08-07 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-02-23 | 2023-03-31 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-03 |  |
+| [So Incredible](https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Incredible](https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA) | 2:57 | 2026-09-12 |  |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-26 | 2026-09-11 |
 | [So Naive](https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [So Naive](https://open.spotify.com/album/6aONMheRrx1pwVRUoNSYwg) | 3:14 | 2024-11-07 | 2025-03-08 |
 | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 | 2026-08-20 |  |

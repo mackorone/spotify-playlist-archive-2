@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  \ud83d\udcf8",
-  "num_followers": 1296552,
+  "num_followers": 1296561,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Si Las Miradas Mataran (Deluxe)",
+        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Fracaso Seguro",
+      "url": "https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Aprend\u00ed La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 178808,
       "name": "Aprend\u00ed La Lecci\u00f3n",
       "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Si Las Miradas Mataran (Deluxe)",
-        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Fracaso Seguro",
-      "url": "https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "El Terco",
-        "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "El Terco",
-      "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Si Las Miradas Mataran",
         "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 169500,
       "name": "Si Las Miradas Mataran",
       "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "El Terco",
+        "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "El Terco",
+      "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -391,34 +391,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Rancheras Bonitas",
-        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
+        "name": "10 de 10",
+        "url": "https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr"
       },
       "artists": [
         {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 212865,
-      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Del Cielo Nada Cae",
-        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
-      },
-      "artists": [
-        {
-          "name": "Kompa Marley",
-          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
-        }
-      ],
-      "duration_ms": 114181,
-      "name": "Del Cielo Nada Cae",
-      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+      "duration_ms": 164937,
+      "name": "So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -439,6 +423,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Rancheras Bonitas",
+        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 212865,
+      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "La Vida Es As\u00ed",
         "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 230064,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Del Cielo Nada Cae",
+        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "duration_ms": 114181,
+      "name": "Del Cielo Nada Cae",
+      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -515,22 +531,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Mayo 2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 136086,
-      "name": "La Mas Bonita De Todas - En Vivo",
-      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Dos Hojas Sin Rumbo",
         "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 177009,
       "name": "Dos Hojas Sin Rumbo",
       "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Mayo 2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 136086,
+      "name": "La Mas Bonita De Todas - En Vivo",
+      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "No Me Conoces A\u00fan",
-        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 195319,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Parece Chiste",
-        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
+        "name": "No Me Conoces A\u00fan",
+        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 175337,
-      "name": "Parece Chiste",
-      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
+      "duration_ms": 195319,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Parece Chiste",
+        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 175337,
+      "name": "Parece Chiste",
+      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Solo Yo y Mi Almohada",
         "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 215609,
       "name": "Solo Yo y Mi Almohada",
       "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -987,6 +987,42 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Lo Pongo En Tus Manos",
+        "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
+      },
+      "artists": [
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Lo Pongo En Tus Manos",
+      "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1019,26 +1055,6 @@
       "duration_ms": 171886,
       "name": "Quisiera Rozar Tu Piel",
       "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Lo Pongo En Tus Manos",
-        "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
-      },
-      "artists": [
-        {
-          "name": "Cristian Jacobo",
-          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Lo Pongo En Tus Manos",
-      "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "ME DERRITO (Banda)",
-        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "ME DERRITO - Banda",
-      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "ME DERRITO (Banda)",
+        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "ME DERRITO - Banda",
+      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Contigo Aprend\u00ed a Amar",
-        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
-      },
-      "artists": [
-        {
-          "name": "Banda El Terre De Jerez",
-          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
-        }
-      ],
-      "duration_ms": 267401,
-      "name": "Contigo Aprend\u00ed a Amar",
-      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Ya Se Acab\u00f3",
         "url": "https://open.spotify.com/album/6WcUmiYRpqhlP0l3Nq83sw"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 145021,
       "name": "Ya Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3D9AhW1jx7ZMxhk1wq7MyM"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Contigo Aprend\u00ed a Amar",
+        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
+      },
+      "artists": [
+        {
+          "name": "Banda El Terre De Jerez",
+          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Contigo Aprend\u00ed a Amar",
+      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Ya no Vivo por Vivir",
-        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
+        "name": "Como Me Haces Falta",
+        "url": "https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW"
       },
       "artists": [
         {
-          "name": "Brazeros Musical De Durango",
-          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
+          "name": "Me\u00f1o Segovia",
+          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
         }
       ],
-      "duration_ms": 213075,
-      "name": "Ya no Vivo por Vivir",
-      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
+      "duration_ms": 244500,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Como Me Haces Falta",
-        "url": "https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW"
+        "name": "Ya no Vivo por Vivir",
+        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
       },
       "artists": [
         {
-          "name": "Me\u00f1o Segovia",
-          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
+          "name": "Brazeros Musical De Durango",
+          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
         }
       ],
-      "duration_ms": 244500,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI"
+      "duration_ms": 213075,
+      "name": "Ya no Vivo por Vivir",
+      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1699,22 +1715,6 @@
       "duration_ms": 146221,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "10 de 10",
-        "url": "https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 164937,
-      "name": "So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
     },
     {
       "added_at": "2026-08-28 04:02:22",

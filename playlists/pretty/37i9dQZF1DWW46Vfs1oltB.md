@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  Lil Moshpit, The Quiett, Raf Sandou, CAMO, NOWIMYOUNG, HAON, Tiger JK, Dynamicduo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,543 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,709 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

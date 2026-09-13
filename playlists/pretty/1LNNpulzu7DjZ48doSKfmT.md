@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 413 songs - 21 hr 31 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 417 songs - 21 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -421,5 +421,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 411 | [Work It](https://open.spotify.com/track/4BzouO8SJUHpMiE5mvM2cv) | [Tony Blame](https://open.spotify.com/artist/0bDNPyUJPuO1AXKNTDU2Xc), [Cbass](https://open.spotify.com/artist/2i3goSd4yk5j3dfc17rjlC) | [Work It](https://open.spotify.com/album/7Il9crNJ3w0KRBao1o0KlV) | 3:04 |
 | 412 | [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 |
 | 413 | [Namo Namah](https://open.spotify.com/track/0WGaRD7H5ye7whDFybKDQW) | [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Namo Namah](https://open.spotify.com/album/36jNf7EBVCH7k4yghegjgh) | 2:44 |
+| 414 | [DON'T LEAVE](https://open.spotify.com/track/2uuNlY9J2arYsaB66zJy4m) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [DON'T LEAVE](https://open.spotify.com/album/6HldAzeHkzc3dzJVdXgybu) | 2:09 |
+| 415 | [Run run](https://open.spotify.com/track/45U3ONkgQwWINzLjP0RK2g) | [Falko](https://open.spotify.com/artist/3lGrOeydURHEYbkYguZOi4) | [Su](https://open.spotify.com/album/03Dz0USSsKAhQCZVfEfvmS) | 1:35 |
+| 416 | [KEYS PLEASE](https://open.spotify.com/track/474KkDSKlZB6x7ZIC0LPtV) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD) | [KEYS PLEASE](https://open.spotify.com/album/6k4bx8vdWzsl8OvA1l40VD) | 2:23 |
+| 417 | [Recognize](https://open.spotify.com/track/7KMtWlxagzXKUIN8sHJ5eE) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Recognize](https://open.spotify.com/album/7azhXaNY5hFKkIXoXZ2VQh) | 3:21 |
 
-Snapshot ID: `AAAetpemoZFBfs0drdaf4vJfVhLr0Mbs`
+Snapshot ID: `AAAeuhWVhoCg2FURaPOscWv0qV3lqN06`

@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Andrea Bejar
 
-1,405 songs - 3 day 1 hr 30 min
+1,406 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 | 2025-11-01 | 2025-12-02 |
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-06-14 | 2022-07-27 |
 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 | 2024-09-01 | 2024-10-02 |
-| [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-08-03 |  |
+| [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-08-03 | 2026-09-13 |
+| [Gasoline](https://open.spotify.com/track/75cizOCN0zzolG0PY5IS4U) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/7bKoVLBzZXgoavrlx8H8Eg) | 3:01 | 2026-09-01 |  |
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-04-12 | 2024-06-01 |
 | [get a grip](https://open.spotify.com/track/3u9l98xlkvhs00ywEFPunx) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [get a grip](https://open.spotify.com/album/5H4nEGsugYbZwgYPlmkjg8) | 3:04 | 2025-07-01 | 2025-09-02 |
 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 | 2024-04-12 | 2024-06-01 |

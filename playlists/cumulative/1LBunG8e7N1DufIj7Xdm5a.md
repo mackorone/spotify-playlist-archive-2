@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,765 songs - 10 day 17 hr 45 min
+4,769 songs - 10 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Air](https://open.spotify.com/track/4UXAz6ubt5i9TRd7681xmL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:19 | 2025-09-17 |  |
 | [Air \(another\)](https://open.spotify.com/track/6ummRkRHNYtYHGxjWXKmja) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:23 | 2025-09-17 |  |
 | [Aire de luz](https://open.spotify.com/track/7ueYlmtjsi3cDPRnH7nvPc) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 | 2026-03-15 |  |
+| [Akela Tha Dil Mera](https://open.spotify.com/track/4bZC6Kp6Nt8ymcNe0incT9) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Akela Tha Dil Mera](https://open.spotify.com/album/0Lixz2mfd8bPVVsBxpUOpK) | 4:36 | 2026-09-12 |  |
 | [Alba](https://open.spotify.com/track/10jU44SZcCkZ2CdX7sCTTu) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6TmifkwpRrtt0YwZi2AqLj) | 3:12 | 2026-04-24 |  |
 | [Alba](https://open.spotify.com/track/61MMMGhhXffx1b9QElQpGR) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6p8dv65w1B1qSXBQwaWpdA) | 3:12 | 2025-09-23 |  |
 | [Ale Ale Alè](https://open.spotify.com/track/6s4bQqTgXLvJPuK65DiHfl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 | 2025-12-10 |  |
@@ -1435,6 +1436,7 @@
 | [Estado Anabólico en Vivo](https://open.spotify.com/track/1Lg2J2ktQBc3UWTnZxv3Bk) | [Insomnica](https://open.spotify.com/artist/1WGqXSVmEIk0KwwobbUUiV) | [Estado Anabólico en Vivo](https://open.spotify.com/album/7xZjengGR2VudfFMFxi9h3) | 3:38 | 2025-07-15 |  |
 | [Estallas](https://open.spotify.com/track/5jY3OIxir9gMfeU01BvsXR) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Fractal](https://open.spotify.com/album/6DBdgU939bZqH9lEJnczSO) | 3:21 | 2025-07-29 |  |
 | [Estamos de Passagem \- playback](https://open.spotify.com/track/4uVdcqi6UXZy8g6P65VxZP) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:17 | 2025-07-15 |  |
+| [Estar Dónde Tú Estás](https://open.spotify.com/track/4PGamhJVyyFlAB4nUJlb6A) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Estar Dónde Tú Estás](https://open.spotify.com/album/7ETg2N9BGdMBTM9gXzfhR2) | 4:09 | 2026-09-12 |  |
 | [Estate Mediterranea](https://open.spotify.com/track/5L4vDCUWLvMWZRGLy5eksH) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Estate Mediterranea](https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI) | 3:30 | 2025-06-24 |  |
 | [Estate Senza Fine](https://open.spotify.com/track/5PoRCTVy71ZktLKIfELZ57) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:49 | 2025-09-12 |  |
 | [Estranged \- Demo](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged \(Demo\)](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 | 2025-05-20 |  |
@@ -3395,6 +3397,7 @@
 | [road](https://open.spotify.com/track/4CStmA4LG83zzdKE51BMn8) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [asideral space](https://open.spotify.com/album/1vTlhEwk2VCkRCVlAfZVir) | 3:59 | 2026-02-01 |  |
 | [Road Dreams](https://open.spotify.com/track/7C7ejxaa8SppXSYn1XeuCV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:04 | 2025-09-17 |  |
 | [Road Dreams \(another\)](https://open.spotify.com/track/4edlX1bgwJz9TjBv2E1y7n) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:45 | 2025-09-17 |  |
+| [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 | 2026-09-12 |  |
 | [Roads](https://open.spotify.com/track/6J6lE0UCbUTI93oRBqLJVG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:28 | 2025-09-17 |  |
 | [Roads \(another\)](https://open.spotify.com/track/7kpw1uzmSDvocitH6SBb3j) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:25 | 2025-09-17 |  |
 | [Rock Star](https://open.spotify.com/track/0C1EdJFRt6mFiKc3QTAnsM) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 3:10 | 2025-04-04 |  |
@@ -3915,6 +3918,7 @@
 | [Struggle 4Less](https://open.spotify.com/track/3FCLdUYsIirnSfVL7hgzC6) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [hustlers Ambition](https://open.spotify.com/album/4MngCDfJLBPmvPO9eBXwa4) | 2:12 | 2025-06-05 |  |
 | [Strumentale Stella dell'estate](https://open.spotify.com/track/3XZLfvQFsz1ciswz7jCod8) | [Max Eldorado](https://open.spotify.com/artist/26iecuOcKlJsLumxoBIVMz) | [Strumentale Stella dell'estate](https://open.spotify.com/album/0vKwauhclMNYbdAocHief0) | 3:33 | 2025-07-05 |  |
 | [Stun like a Deadly Flower](https://open.spotify.com/track/0qyL6l8lQzpUFipfRHrHE3) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [The Creation of Birds](https://open.spotify.com/album/7HfTwE4MRUwwzFpkwxbl6Z) | 3:19 | 2025-11-05 |  |
+| [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 | 2026-09-12 |  |
 | [Stunt](https://open.spotify.com/track/5mp3J2EBk1NBaBDgzRFrnv) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Stunt](https://open.spotify.com/album/1W9V8eWitTMYjnwXeFEzHW) | 2:42 | 2025-07-24 |  |
 | [Stupida](https://open.spotify.com/track/03LixzS8VQZOUgEvQUNrpc) | [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [Oltre il buio](https://open.spotify.com/album/2HrhB7xfNDGOgvZCAqzJWx) | 2:48 | 2025-07-03 |  |
 | [Stupida Malinconia](https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:52 | 2026-07-18 |  |

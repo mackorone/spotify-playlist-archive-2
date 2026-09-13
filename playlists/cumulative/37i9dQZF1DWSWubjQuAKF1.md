@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Lotta
 
-974 songs - 1 day 23 hr 33 min
+975 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [ostatni raz](https://open.spotify.com/track/28tl2k7Oa2qN6KcwPVb6FW) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [ostatni raz](https://open.spotify.com/album/5yupWsAkBkqaHmc2Rvv0QW) | 2:32 | 2025-06-05 | 2025-06-26 |
 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/17ZkGa33xEBbsWpgSqRNLM) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX) | 2:55 | 2024-11-07 | 2025-01-24 |
 | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/track/3DgAsWzkxpMQWHZR8Dmzxp) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/album/3hNiY3MJc2gsFTlxvvkiWY) | 2:08 | 2025-04-10 | 2025-04-18 |
-| [Over\-](https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl) | [Zofia](https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef) | [Over\-](https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3) | 3:29 | 2026-09-03 |  |
+| [Over\-](https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl) | [Zofia](https://open.spotify.com/artist/6aSYVHiqhAT0C4t63ryOef) | [Over\-](https://open.spotify.com/album/5mWub8fkg1G2LTqzXoxmK3) | 3:29 | 2026-09-03 | 2026-09-13 |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-23 | 2025-01-31 |
 | [pajęcze lilie](https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [pajęcze lilie](https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1) | 3:52 | 2024-09-27 | 2025-01-24 |
 | [PALO SANTO](https://open.spotify.com/track/2STHRcJesfqpaDIdbGk9i7) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [PALO SANTO](https://open.spotify.com/album/18grvDifqNzAlYNdTOufLK) | 2:40 | 2025-05-01 | 2025-07-25 |
@@ -624,6 +624,7 @@
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-28 | 2024-08-31 |
 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 | 2025-01-23 | 2025-02-28 |
 | [Perły za Kredensem](https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Perły za Kredensem](https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N) | 3:44 | 2026-06-18 | 2026-07-26 |
+| [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 | 2026-09-10 |  |
 | [piekło](https://open.spotify.com/track/1n93aFenBuJ2eSWfgH93J8) | [ksenia](https://open.spotify.com/artist/5R9yyFJL2NggWe7A5pmMRv) | [melancholia](https://open.spotify.com/album/2XPhlSY83K3ztLtov28468) | 3:20 | 2025-01-23 | 2025-03-03 |
 | [Pierwszy mit](https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Pierwszy mit](https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK) | 3:52 | 2025-07-24 | 2025-10-01 |
 | [pijama party](https://open.spotify.com/track/5Lq1A1RyFYEMa08j7ynZJk) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [FREE WIFI](https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE) | 1:38 | 2025-02-27 | 2025-03-07 |

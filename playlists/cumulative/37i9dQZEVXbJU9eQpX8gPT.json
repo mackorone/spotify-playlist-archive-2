@@ -13475,6 +13475,24 @@
     },
     {
       "album": {
+        "name": "FORAS",
+        "url": "https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "FORAS",
+      "url": "https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S"
+    },
+    {
+      "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
@@ -25254,7 +25272,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"

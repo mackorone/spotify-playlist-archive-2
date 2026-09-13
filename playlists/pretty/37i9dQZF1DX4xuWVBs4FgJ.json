@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2031437,
+  "num_followers": 2031529,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-04-10 14:31:32",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
+    },
+    {
+      "added_at": "2026-04-10 14:31:32",
+      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 178716,
       "name": "Big Country",
       "url": "https://open.spotify.com/track/2Mp25bWz6FUGpk2AIhDE46"
-    },
-    {
-      "added_at": "2026-04-10 14:31:32",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
     },
     {
       "added_at": "2026-02-23 16:34:18",

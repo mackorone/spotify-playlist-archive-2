@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295341,
+  "num_followers": 295332,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "New Self",
         "url": "https://open.spotify.com/album/29iBRlzAcmRmKRvw7onM0j"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Pain to Power",
-        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+        "name": "Prevail",
+        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
       "artists": [
         {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
         }
       ],
-      "duration_ms": 313746,
-      "name": "Saoirse",
-      "url": "https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998"
+      "duration_ms": 194885,
+      "name": "Prevail",
+      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -635,18 +651,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+        "name": "It's a Beautiful Place",
+        "url": "https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d"
       },
       "artists": [
         {
-          "name": "Mouth Ulcers",
-          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
         }
       ],
-      "duration_ms": 194885,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+      "duration_ms": 272165,
+      "name": "Life Signs",
+      "url": "https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -663,22 +679,6 @@
       "duration_ms": 119280,
       "name": "Black Paint",
       "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "It's a Beautiful Place",
-        "url": "https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 272165,
-      "name": "Life Signs",
-      "url": "https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "i wait, i sink",
         "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 214186,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cherry Picker",
         "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Late Nighter",
-        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
-      },
-      "artists": [
-        {
-          "name": "The Paranoyds",
-          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
-        }
-      ],
-      "duration_ms": 184667,
-      "name": "Tracy Don't",
-      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "O, My Love",
         "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 178006,
       "name": "O, My Love",
       "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Late Nighter",
+        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
+      },
+      "artists": [
+        {
+          "name": "The Paranoyds",
+          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+        }
+      ],
+      "duration_ms": 184667,
+      "name": "Tracy Don't",
+      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
     },
     {
       "added_at": "2026-07-17 17:28:38",

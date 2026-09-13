@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 167687,
       "name": "BAKPAKK",
       "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
@@ -19080,7 +19080,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -36864,7 +36864,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 146581,
       "name": "vrumm",
       "url": "https://open.spotify.com/track/0al6QSMsKKdGqYcbr53p9y"
@@ -37050,6 +37050,36 @@
       "duration_ms": 155776,
       "name": "V\u00e9r",
       "url": "https://open.spotify.com/track/0ZtaSTQeynLomLk9sHb0Pg"
+    },
+    {
+      "album": {
+        "name": "V\u00cdZ",
+        "url": "https://open.spotify.com/album/6vOITDLD4kONuEJiRkaMi7"
+      },
+      "artists": [
+        {
+          "name": "Kapit\u00e1ny M\u00e1t\u00e9",
+          "url": "https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn"
+        },
+        {
+          "name": "SilkSilver",
+          "url": "https://open.spotify.com/artist/6xRMHLfZTZe7ryuuwUH62K"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Fiatal Veter\u00e1n",
+          "url": "https://open.spotify.com/artist/5LtcR95XUT9MPZzAYyrPjY"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "V\u00cdZ",
+      "url": "https://open.spotify.com/track/2EHZQVUzHOOxSbLfPIjSuq"
     },
     {
       "album": {

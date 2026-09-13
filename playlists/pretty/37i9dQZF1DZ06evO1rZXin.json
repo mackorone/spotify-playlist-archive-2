@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7521,
+  "num_followers": 7528,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAABoKSNlj3De7ZV4KUZqQe+Q",
+  "snapshot_id": "aqNEgAAAAADz479fKkA0DlJPiMY1zuOO",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Candela Verde",
-      "url": "https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx"
+      "duration_ms": 217133,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
     },
     {
       "added_at": null,
@@ -324,15 +328,15 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
+      "duration_ms": 217680,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/2SylBUSel6JR3P6co7NAh0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Te Ves Bien Buena....",
-        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -340,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 144306,
-      "name": "Corrido De Nayarit",
-      "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
+      "duration_ms": 184000,
+      "name": "Candela Verde",
+      "url": "https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx"
     },
     {
       "added_at": null,
@@ -363,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
       },
       "artists": [
         {
@@ -372,77 +376,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Hombliguito",
-      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/2SylBUSel6JR3P6co7NAh0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Ves Bien Buena...",
-        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "35 A\u00f1os de Fiesta",
-        "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Camar\u00f3n Pelao",
-      "url": "https://open.spotify.com/track/1D6MEkZC1P4WXJpDsxawOg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "La Vaquilla Prieta",
-      "url": "https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa"
+      "duration_ms": 144306,
+      "name": "Corrido De Nayarit",
+      "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
     },
     {
       "added_at": null,
@@ -463,6 +399,70 @@
       "duration_ms": 192000,
       "name": "El Tirador",
       "url": "https://open.spotify.com/track/70MA8iwvvNgnf77hGeLu8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Hombliguito",
+      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "35 A\u00f1os de Fiesta",
+        "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Camar\u00f3n Pelao",
+      "url": "https://open.spotify.com/track/1D6MEkZC1P4WXJpDsxawOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "La Vaquilla Prieta",
+      "url": "https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa"
     },
     {
       "added_at": null,

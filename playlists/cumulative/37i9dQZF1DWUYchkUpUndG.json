@@ -32838,10 +32838,6 @@
         {
           "name": "ayomidetPh",
           "url": "https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK"
-        },
-        {
-          "name": "LAMB CULTURE. & ayomidetPh",
-          "url": "https://open.spotify.com/artist/0Jd56a5TAViMWTPHf8s7te"
         }
       ],
       "date_added": "2026-09-11",
@@ -182996,6 +182992,24 @@
       "duration_ms": 360000,
       "name": "Your Word",
       "url": "https://open.spotify.com/track/7v8HxS9lfM7rg3NuB8gSDk"
+    },
+    {
+      "album": {
+        "name": "Your Word (Live)",
+        "url": "https://open.spotify.com/album/6MmC3Aeh5rdVxceGQyC2ij"
+      },
+      "artists": [
+        {
+          "name": "Philippa",
+          "url": "https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494000,
+      "name": "Your Word - Live",
+      "url": "https://open.spotify.com/track/6moe3lhQWotIapq5c0jHAa"
     },
     {
       "album": {

@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 184000,
       "name": "H\u00e6lervarer",
       "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
@@ -5134,6 +5134,24 @@
       "duration_ms": 186628,
       "name": "Nak Og \u00c6d",
       "url": "https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53"
+    },
+    {
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,431 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,418 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 52 | [Can U Feel Me?](https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 3:17 |
 | 53 | [Explotar](https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Explotar](https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL) | 3:11 |
 | 54 | [Ayer](https://open.spotify.com/track/6ak06KcPhZ3RZpAqqCFflQ) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Judas](https://open.spotify.com/album/0wMb6lgHrABKqpjRQ8TmWP) | 3:38 |
-| 55 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
-| 56 | [Volvere A Empezar](https://open.spotify.com/track/2BaXKchHWmmWrybN52oZ4d) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:10 |
+| 55 | [Volvere A Empezar](https://open.spotify.com/track/2BaXKchHWmmWrybN52oZ4d) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:10 |
+| 56 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
 | 57 | [Tecalitlán](https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 3:07 |
 | 58 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
 | 59 | [Brillantina](https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 3:32 |
 | 60 | [Niño asustado](https://open.spotify.com/track/2qyt4T7NGc5eI1WRqm0AWp) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Quiero Habitarme](https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI) | 2:56 |
 | 61 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
-| 62 | [Besarte](https://open.spotify.com/track/18LrVWfCK1PDqoJrUv4heg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Besarte](https://open.spotify.com/album/5UvKuabUMdYmFRW3uku8Iv) | 3:39 |
-| 63 | [células adolescentes](https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [células adolescentes](https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm) | 2:54 |
+| 62 | [células adolescentes](https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [células adolescentes](https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm) | 2:54 |
+| 63 | [Besarte](https://open.spotify.com/track/18LrVWfCK1PDqoJrUv4heg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Besarte](https://open.spotify.com/album/5UvKuabUMdYmFRW3uku8Iv) | 3:39 |
 | 64 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
 | 65 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
 | 66 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXukeQ/1qN3ROP4HrLLEzJE/jAVUhs",
+  "snapshot_id": "AAAXu49ullVDcHQquEjoIDzi6GTLTIMv",
   "tracks": [
     {
       "added_at": "2026-09-04 07:33:13",
@@ -2347,6 +2347,22 @@
       "duration_ms": 241174,
       "name": "Noir et blanc",
       "url": "https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL"
+    },
+    {
+      "added_at": "2026-09-12 13:49:25",
+      "album": {
+        "name": "Bullshit Nation",
+        "url": "https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI"
+      },
+      "artists": [
+        {
+          "name": "Kickoff Project",
+          "url": "https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx"
+        }
+      ],
+      "duration_ms": 246427,
+      "name": "Bullshit Nation",
+      "url": "https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj"
     }
   ],
   "unique_name": "New Indie Music",

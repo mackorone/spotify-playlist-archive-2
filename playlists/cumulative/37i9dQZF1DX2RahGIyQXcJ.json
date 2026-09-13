@@ -3781,6 +3781,44 @@
     },
     {
       "album": {
+        "name": "Echoes Of Tears",
+        "url": "https://open.spotify.com/album/2GuF321x6FWuRLvpkQS5LO"
+      },
+      "artists": [
+        {
+          "name": "ApeXtreme",
+          "url": "https://open.spotify.com/artist/520MTnCzmMYBug5qDumjoL"
+        },
+        {
+          "name": "Blackey",
+          "url": "https://open.spotify.com/artist/0o8sReFin6rADRWel8Ls2h"
+        },
+        {
+          "name": "Sahitik Danab",
+          "url": "https://open.spotify.com/artist/3WPxsLUmSMRcqJrutym0x2"
+        },
+        {
+          "name": "YNG YKB",
+          "url": "https://open.spotify.com/artist/52uNN4xrJETYM9ZyMB0hGc"
+        },
+        {
+          "name": "Rev. The Beast",
+          "url": "https://open.spotify.com/artist/1UrAojjb6TuvW2B1eFwA0P"
+        },
+        {
+          "name": "Raw",
+          "url": "https://open.spotify.com/artist/5DkR0cBvpuJTm23OHHwxhF"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235116,
+      "name": "Echoes Of Tears",
+      "url": "https://open.spotify.com/track/5btNVpcDkodiA5nNxsFYjj"
+    },
+    {
+      "album": {
         "name": "Ek Din",
         "url": "https://open.spotify.com/album/2wEgS4V318gie8SJW7knRr"
       },

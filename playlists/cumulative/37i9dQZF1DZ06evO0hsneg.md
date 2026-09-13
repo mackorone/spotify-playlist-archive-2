@@ -4,11 +4,12 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 50 min
+72 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl) | 0:00 | 2026-02-27 | 2026-04-10 |
+| [\#COWOBARU](https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [\#COWOBARU](https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8) | 2:19 | 2026-09-13 |  |
 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 | 2023-05-02 |  |
 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 | 2023-05-02 |  |
 | [Alpha Girl \- Array Remix](https://open.spotify.com/track/0ONxHOgJt0q2UIw37WbW0q) | [JRSCK](https://open.spotify.com/artist/5gvWjdRl83QGWMxpbjq1uI), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Xpressionizm](https://open.spotify.com/album/0Gu6vQSTNQAEz8CCvqyMpj) | 6:19 | 2023-08-30 | 2024-09-06 |
@@ -62,7 +63,7 @@
 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 | 2023-05-02 |  |
 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 | 2023-05-02 |  |
 | [Riphunter](https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Bam Mastro](https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC) | [MULTIVERSES \(Revisi Final Fix Banget\)](https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e) | 4:13 | 2023-05-02 |  |
-| [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 | 2023-12-14 |  |
+| [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 | 2023-12-14 | 2026-09-13 |
 | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/track/4Ep077zYziACE6aJBN6w7L) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW) | 4:07 | 2025-02-23 |  |
 | [Take Me Back](https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd) | 3:41 | 2025-08-19 |  |
 | [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 | 2023-05-02 | 2025-08-19 |

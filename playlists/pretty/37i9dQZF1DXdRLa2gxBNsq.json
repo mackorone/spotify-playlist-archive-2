@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 117008,
+  "num_followers": 117018,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "\u00a1A LA MIERDA!",
-        "url": "https://open.spotify.com/album/1ZZasheU97SoO6OkibmsVv"
-      },
-      "artists": [
-        {
-          "name": "Perfecto Desorden",
-          "url": "https://open.spotify.com/artist/4yqMB9jPazIBx0oraEmeEb"
-        }
-      ],
-      "duration_ms": 132071,
-      "name": "\u00a1A LA MIERDA!",
-      "url": "https://open.spotify.com/track/0mCorFodrVvrhGInkxli9R"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
         "name": "Busc\u00e1ndose la Vida",
         "url": "https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 168520,
       "name": "Ja, Ja, Ja",
       "url": "https://open.spotify.com/track/0QVrkmPehChchi52biyo8w"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "\u00a1A LA MIERDA!",
+        "url": "https://open.spotify.com/album/1ZZasheU97SoO6OkibmsVv"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Desorden",
+          "url": "https://open.spotify.com/artist/4yqMB9jPazIBx0oraEmeEb"
+        }
+      ],
+      "duration_ms": 132071,
+      "name": "\u00a1A LA MIERDA!",
+      "url": "https://open.spotify.com/track/0mCorFodrVvrhGInkxli9R"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Ley Mordaza",
         "url": "https://open.spotify.com/album/2uLKgreeEDiw4JuUOkIj76"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 181825,
       "name": "Todo Va a Arder",
       "url": "https://open.spotify.com/track/3VDCPhe5Iy1vOrDPYcEPIU"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Noches sin Luna",
-        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
-      },
-      "artists": [
-        {
-          "name": "La Mercury Punk",
-          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Noches sin Luna",
-      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "added_at": "2026-07-30 22:01:19",

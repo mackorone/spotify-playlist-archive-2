@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-254 songs - 13 hr 35 min
+257 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Gone Now](https://open.spotify.com/track/2nh3kC4p0Sw7Du99hHdiZr) | [Cubfonic](https://open.spotify.com/artist/59mC573CciHisExYf3BrF7), [Franko Keys](https://open.spotify.com/artist/0QJFUVcbQy5LJxG7u26E1d), [Bass Motions](https://open.spotify.com/artist/4G8XJNaZ4fsBjFJ1eS3xLY) | [Gone Now](https://open.spotify.com/album/04HGzYvXU8q8N1axI2mES0) | 2:14 | 2023-06-12 |  |
 | [good guys](https://open.spotify.com/track/4nfKPJ9xkQ6zhwgAHHQn5K) | [slaywitme](https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw), [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [good guys](https://open.spotify.com/album/5dYyboFYelZo8woDAdHG8t) | 3:08 | 2023-03-08 |  |
 | [Grêle](https://open.spotify.com/track/4szEFRh8XRvKUlp3XUSwIH) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV) | [Mauvais Temps](https://open.spotify.com/album/7qopgj3SXG7ygVo7neApjr) | 2:25 | 2025-06-26 |  |
+| [Génies scientifique](https://open.spotify.com/track/6PzkOPBnlFRDAoOhIlYeF7) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Génies scientifique](https://open.spotify.com/album/2exEwBS6coFrHQ77YNA4my) | 3:07 | 2026-09-12 |  |
 | [High](https://open.spotify.com/track/5yON5sVKiCxwJk4FZQsOoh) | [Paul Hopton](https://open.spotify.com/artist/0CN15LaDdhv6mJIsDNDV1j) | [High](https://open.spotify.com/album/5acmj95J4FJfIfjg35xC1r) | 3:29 | 2023-11-22 |  |
 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 | 2023-01-11 |  |
 | [Homeland Breeze](https://open.spotify.com/track/23QFMmmhfTt1p274G7p1H6) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Homeland Breeze](https://open.spotify.com/album/3flpmTLS1XsJk8DQCU5r5u) | 2:46 | 2025-06-26 |  |
@@ -150,6 +151,7 @@
 | [L’amour](https://open.spotify.com/track/0IjJ9I6Jc8BDPPaxpb3la8) | [Заменитель](https://open.spotify.com/artist/6Qlg9wKA8xRpCOTjI3dxd6) | [L’amour](https://open.spotify.com/album/4Un23lcMPVPSwsELIkjj5D) | 2:46 | 2025-05-06 |  |
 | [Ma compagne](https://open.spotify.com/track/2iGzk0zmjF4QSABFkcXymR) | [Jagas](https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk) | [Ravi·e·s](https://open.spotify.com/album/5CsxYu96jEx80JQtdgJHA8) | 8:41 | 2023-04-21 |  |
 | [Ma CyberGirl](https://open.spotify.com/track/21spBLdcIaaBNBjWuRETzk) | [TheStaRiders](https://open.spotify.com/artist/7jeaPXkwDOt6MmII5H0Z2g) | [Ma CyberGirl](https://open.spotify.com/album/7Lf7MC9MAirnHfdLDUzrLU) | 2:41 | 2025-03-15 |  |
+| [mademoiselle laure](https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE) | 6:11 | 2026-09-12 |  |
 | [mademoiselle laure](https://open.spotify.com/track/3Xt7MXAITFS8JFlMtnOdVC) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/3pjLTYte4aczCqaFh51Ac9) | 6:11 | 2024-07-11 |  |
 | [Maldivas](https://open.spotify.com/track/7nEp80wQ8agOPh1fiLl1CP) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:08 | 2023-12-06 |  |
 | [Mapessa](https://open.spotify.com/track/5RoFcZfabPIURBx7JRkkRW) | [99Robb](https://open.spotify.com/artist/2jlMOs8NNTeND6N4ELaLcq) | [Opacity](https://open.spotify.com/album/7A1gSYzFSnmbWsxWb5eo22) | 2:46 | 2023-03-19 |  |
@@ -252,6 +254,7 @@
 | [Vida Loca](https://open.spotify.com/track/600UjF0YeSUt0OytB70CZI) | [Chisse](https://open.spotify.com/artist/15UWyZLJuvstXCMfzDhY1D) | [Vida Loca](https://open.spotify.com/album/1foKEWEyMC8PdB3EPj1TRk) | 2:31 | 2024-12-20 |  |
 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2023-01-11 |  |
 | [Vrai Ou Faux](https://open.spotify.com/track/3tji3JzD0fJAJjhRx89seU) | [Metallix](https://open.spotify.com/artist/2zE8NbNBjgznLsKs8DOSzt) | [Vrai Ou Faux](https://open.spotify.com/album/04J8L6LoeOXCtN4xog0j9G) | 3:28 | 2024-03-01 |  |
+| [WANNA](https://open.spotify.com/track/7eSvpLKccnLXZaUILgNqMJ) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [WANNA](https://open.spotify.com/album/4lQQJFqFkBn0De6Hepdl9l) | 1:55 | 2026-09-12 |  |
 | [Waste My Time](https://open.spotify.com/track/4RCMFkBz6ro3yBooSppbCL) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Waste My Time](https://open.spotify.com/album/1cAgMwsmRFLAOR5VKM7H9H) | 3:04 | 2025-10-28 |  |
 | [Wasted Energy](https://open.spotify.com/track/7omu9RzB82jydhM8HAvcJr) | [Sheena\-Rae](https://open.spotify.com/artist/7CBkEDjJAlS8FzrkAAKG11) | [Wasted Energy](https://open.spotify.com/album/1SyFEyO8024tlATEHtYWBA) | 2:26 | 2023-06-03 |  |
 | [Wherever We End up...](https://open.spotify.com/track/7mDfzggW02WqYIeN4TFFcm) | [Chloé Deroy](https://open.spotify.com/artist/3CMBhN5SjHU3HwTfae6rFz) | [Wherever We End up...](https://open.spotify.com/album/5Y9K7BntPs47Jzw6Knk9rL) | 5:38 | 2024-10-08 |  |

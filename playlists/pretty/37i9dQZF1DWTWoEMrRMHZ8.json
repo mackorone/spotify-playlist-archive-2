@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 353100,
+  "num_followers": 353090,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan (Edi\u00e7\u00e3o Especial de 50 Anos) [Remasterizada 2026]",
+        "url": "https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 182492,
+      "name": "Muito Obrigado - Remasterizada 2026",
+      "url": "https://open.spotify.com/track/6Jil9YCclgCfj8pOmU5LVl"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 259406,
       "name": "Quando Chego",
       "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan (Edi\u00e7\u00e3o Especial de 50 Anos) [Remasterizada 2026]",
-        "url": "https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 182492,
-      "name": "Muito Obrigado - Remasterizada 2026",
-      "url": "https://open.spotify.com/track/6Jil9YCclgCfj8pOmU5LVl"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 297233,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "MPBossa 2",
         "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 200835,
       "name": "Bossa Sempre Nova",
       "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "A vida se revela",
         "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
       },
       "artists": [
         {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -779,22 +795,6 @@
       "duration_ms": 204537,
       "name": "Flor de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "LA MIA STORIA TRA LE DITA / All Versions",
-        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "QUEM DE N\u00d3S DOIS (solo version)",
-      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Nua Ideia",
         "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Mariana Nolasco Sessions 3",
-        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Deus me proteja - Sessions",
-      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "25 Anos de M\u00fasica",
         "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
       },
@@ -931,6 +931,30 @@
       "duration_ms": 179029,
       "name": "N\u00e3o Sento \u00e0 Mesa",
       "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Futuro Fruto",
+        "url": "https://open.spotify.com/album/1ScLvaQJbDZGj3cTjRVDQc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Segreto",
+          "url": "https://open.spotify.com/artist/28pxSg0WMlowA3haXnDmli"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        },
+        {
+          "name": "Loretta",
+          "url": "https://open.spotify.com/artist/3xdzF7iufg0uaMhRs4Ychr"
+        }
+      ],
+      "duration_ms": 134341,
+      "name": "Futuro Fruto",
+      "url": "https://open.spotify.com/track/7BAi4V7nTi5NCDXLXvBwOt"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -979,46 +1003,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Futuro Fruto",
-        "url": "https://open.spotify.com/album/1ScLvaQJbDZGj3cTjRVDQc"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
       },
       "artists": [
         {
-          "name": "Marcelo Segreto",
-          "url": "https://open.spotify.com/artist/28pxSg0WMlowA3haXnDmli"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         },
         {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        },
-        {
-          "name": "Loretta",
-          "url": "https://open.spotify.com/artist/3xdzF7iufg0uaMhRs4Ychr"
+          "name": "Alberto Continentino",
+          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
         }
       ],
-      "duration_ms": 134341,
-      "name": "Futuro Fruto",
-      "url": "https://open.spotify.com/track/7BAi4V7nTi5NCDXLXvBwOt"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "EU MANDEI MEU AMOR PRO ESPA\u00c7O",
-        "url": "https://open.spotify.com/album/4WX0iDuk6xm6e7x8E06hzC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bezerra",
-          "url": "https://open.spotify.com/artist/6AHoiwR7PE2CBXvBB9DP6W"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 237580,
-      "name": "eu mandei meu amor pro espa\u00e7o",
-      "url": "https://open.spotify.com/track/3Yaaohz7X5t5kMG9rhCzvg"
+      "duration_ms": 276000,
+      "name": "Pontes no Ar",
+      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
+        "name": "EU MANDEI MEU AMOR PRO ESPA\u00c7O",
+        "url": "https://open.spotify.com/album/4WX0iDuk6xm6e7x8E06hzC"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Lucas Bezerra",
+          "url": "https://open.spotify.com/artist/6AHoiwR7PE2CBXvBB9DP6W"
         },
         {
-          "name": "Alberto Continentino",
-          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Pontes no Ar",
-      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
+      "duration_ms": 237580,
+      "name": "eu mandei meu amor pro espa\u00e7o",
+      "url": "https://open.spotify.com/track/3Yaaohz7X5t5kMG9rhCzvg"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+        "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
+        },
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194281,
+      "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+      "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Lugar Comum",
         "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
       },
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
-        "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Baptista",
-          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
-        },
-        {
-          "name": "Sandra S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 194281,
-      "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
-      "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "ROSA NO C\u00c9U",
         "url": "https://open.spotify.com/album/4os24JPEmv9ZSjZHaElGAc"
       },
@@ -1183,6 +1183,42 @@
       "duration_ms": 191040,
       "name": "Espelhos",
       "url": "https://open.spotify.com/track/4fkN3GR7A7SSUoVg1ZL0Zu"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Me Quedo Por Ti",
+        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Me Quedo Por Ti",
+      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1223,38 +1259,18 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Me Quedo Por Ti",
-        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
-      },
-      "artists": [
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Me Quedo Por Ti",
-      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1291,22 +1307,6 @@
       "duration_ms": 133566,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "VAMO COM CALMA, MALANDRA",
-        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
-      },
-      "artists": [
-        {
-          "name": "Ana Karina Sebasti\u00e3o",
-          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 125193,
-      "name": "VAMO COM CALMA, MALANDRA",
-      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "VAMO COM CALMA, MALANDRA",
+        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
+      },
+      "artists": [
+        {
+          "name": "Ana Karina Sebasti\u00e3o",
+          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 125193,
+      "name": "VAMO COM CALMA, MALANDRA",
+      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
     },
     {
       "added_at": "2026-09-04 03:00:52",

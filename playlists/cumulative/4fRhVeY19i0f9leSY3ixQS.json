@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 233777,
       "name": "Bad 4 Me",
       "url": "https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 233875,
       "name": "Bad Omens",
       "url": "https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU"
@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 168972,
       "name": "Can't Trust",
       "url": "https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT"
@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 213793,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs"
@@ -8202,7 +8202,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 236450,
       "name": "Dans",
       "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
@@ -14983,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/3Y7fWOI1lXiVRjjIGpRJGW"
+      },
+      "artists": [
+        {
+          "name": "Missiles to Malta",
+          "url": "https://open.spotify.com/artist/53sVBlsVHxSbBZQOxckXK9"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254334,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/77msBTsBNOR7p99JtCzxsV"
+    },
+    {
+      "album": {
         "name": "Putting The Ex In XMas",
         "url": "https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby"
       },
@@ -18148,7 +18166,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 114985,
       "name": "invisible man",
       "url": "https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal"
@@ -19434,7 +19452,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 225306,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/7CCZkk2wpE6iNM2SmvsTsg"
@@ -19470,7 +19488,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 300000,
       "name": "Last Days Of Youth",
       "url": "https://open.spotify.com/track/2JZt0RaSN932GXBJIYCGH7"
@@ -25002,7 +25020,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 332142,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2MhpVRXC1iL0ChF3sFdlOD"
@@ -27760,7 +27778,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 166045,
       "name": "Ravenous as the birds",
       "url": "https://open.spotify.com/track/46azXY12iCO5EOePNa2Bq1"
@@ -28886,7 +28904,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 193098,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh"
@@ -31348,7 +31366,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 154414,
       "name": "Smile!",
       "url": "https://open.spotify.com/track/5tYjUmRA1ynNBFQ1QvLJDs"

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-703 songs - 2 day 0 hr 7 min
+704 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 | 2024-04-19 | 2024-09-21 |
 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 | 2022-08-12 | 2024-04-06 |
 | [I'm On Fire](https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [I'm On Fire](https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF) | 3:52 | 2025-03-07 |  |
+| [I'm On My Way](https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Elmar](https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom) | [I'm On My Way](https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7) | 3:27 | 2026-09-11 |  |
 | [Icarus](https://open.spotify.com/track/43LMM5icNlDzywPGYT2VmQ) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Icarus / Carousel](https://open.spotify.com/album/5mBaktPnkrAfdNw0YwfXVP) | 3:12 | 2021-05-07 | 2022-04-21 |
 | [Identify](https://open.spotify.com/track/4hgY7Pd5AVlo7VGmukVxer) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Harry Diamond](https://open.spotify.com/artist/30XV4Gby1iaSfs16WZ5a4R), [K\-MRK](https://open.spotify.com/artist/6u1fcYiDrXOEEJpMwq7ZR4) | [Identify](https://open.spotify.com/album/1LFqceg7uGkSdgewgcIurV) | 3:25 | 2024-11-15 | 2025-05-18 |
 | [Illusion](https://open.spotify.com/track/1lWwuDHmwGQ8XcJciMpJ81) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK) | [Illusion](https://open.spotify.com/album/2ltDN9rhWeMeN8lSz7H3mE) | 3:01 | 2021-05-07 | 2022-04-20 |
@@ -375,7 +376,7 @@
 | [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 | 2025-05-23 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
-| [Luv 4 U](https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [SEIZMIC](https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd) | [Luv 4 U EP](https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH) | 5:27 | 2026-08-07 |  |
+| [Luv 4 U](https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [SEIZMIC](https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd) | [Luv 4 U EP](https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH) | 5:27 | 2026-08-07 | 2026-09-13 |
 | [Machine](https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Machine](https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio) | 2:33 | 2026-05-15 |  |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-04-09 | 2024-10-05 |
 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 | 2026-06-26 |  |

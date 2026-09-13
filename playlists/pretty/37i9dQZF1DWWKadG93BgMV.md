@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 
 > Sonic the Hedgehog here! 35 years? Yeah, I counted..\. between running at the speed of sound! The ultimate birthday playlist is here and it's hitting harder than ever\. Crank it up and celebrate with me!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,482 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,629 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 | 24 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 25 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 26 | [Fast \(Motion\)](https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast \(Motion\)](https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB) | 2:50 |
-| 27 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
-| 28 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
+| 27 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
+| 28 | [Life Is Good](https://open.spotify.com/track/17e16wwUxdfDQkOfAib9G6) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3RBy14bx0pkAhRk1RZF671) | 3:20 |
 | 29 | [The Motto](https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:44 |
 | 30 | [ESCAPE FROM THE CITY \- Cash Cash RMX / CITY ESCAPE : ACT1](https://open.spotify.com/track/06PuymVC4z4UcPSgct2pBG) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [SONIC GENERATIONS OFFICIAL SOUNDTRACK \(Vol.1\)](https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn) | 2:35 |
 | 31 | [Gotta Go Fast \(Sonic X Theme\)](https://open.spotify.com/track/0nLMR8JUPhMvM06EHCGGMV) | [NateWantsToBattle](https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky) | [Gotta Go Fast](https://open.spotify.com/album/2fdBnNRjamuEn9HLHgU2KP) | 1:00 |

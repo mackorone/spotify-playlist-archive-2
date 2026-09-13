@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 367174,
+  "num_followers": 367193,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Take Care of Yourself",
+        "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "It's Good to See You Again!!",
+      "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Onam Wave",
         "url": "https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 207243,
       "name": "Onam Wave",
       "url": "https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Take Care of Yourself",
-        "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "It's Good to See You Again!!",
-      "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
     },
     {
       "added_at": "2023-07-18 02:21:29",

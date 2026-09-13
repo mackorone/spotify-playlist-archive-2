@@ -4,7 +4,7 @@
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 7 min
+63 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Chicken Grease](https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 4:38 | 2025-10-15 | 2026-05-07 |
 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 | 2025-10-15 |  |
 | [Cruisin' \- WET Remix](https://open.spotify.com/track/0UdHFPhuycl1WxHsU2ISpi) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Brown Sugar \(Deluxe Edition\)](https://open.spotify.com/album/1ui78vxDFSa0NcE1Zj2tVW) | 7:49 | 2026-08-26 | 2026-08-27 |
-| [Devil's Pie](https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:21 | 2025-10-15 |  |
+| [Devil's Pie](https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:21 | 2025-10-15 | 2026-09-13 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/3lZ77kSuRzQUR8t3mPds5T) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Best So Far](https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe) | 6:02 | 2026-08-26 | 2026-08-27 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 | 2025-10-15 |  |
 | [Feel Like Making Love](https://open.spotify.com/track/0q6OWkf8S6CGkQHytRjOfe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:19 | 2026-08-26 | 2026-08-27 |
@@ -46,6 +46,7 @@
 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 | 2025-10-15 |  |
 | [Me And Those Dreamin' Eyes Of Mine \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/6bhNnXiNguEn0oUoCOReEp) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 4:48 | 2026-08-26 | 2026-08-27 |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2025-10-15 |  |
+| [One Mo'Gin](https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 | 2026-09-13 |  |
 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 | 2025-10-15 |  |
 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 | 2025-10-15 |  |
 | [She's Always In My Hair \- Radio Edit](https://open.spotify.com/track/5UgC5vtPl0PBXCX5JDw1sV) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Best So Far](https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe) | 4:06 | 2026-08-26 | 2026-08-27 |

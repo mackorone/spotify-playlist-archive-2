@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,516 songs - 15 day 4 hr 38 min
+6,518 songs - 15 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1975,7 +1975,7 @@
 | [Flowers on Fire](https://open.spotify.com/track/0qkPx42siPDXy1C2WsLmSg) | [Jabriel](https://open.spotify.com/artist/3ospfNqVeXbcUbttYxpHLa) | [Flowers on Fire](https://open.spotify.com/album/3lg8yYecYjwVQAzg4tDFyC) | 3:50 | 2023-08-09 | 2023-08-28 |
 | [Flu\-Ent\-Ly](https://open.spotify.com/track/76YpwrMIQqAunspt7VhOEd) | [Just Rell](https://open.spotify.com/artist/6we6j2WoBp71qJeE966MVn) | [Flu\-Ent\-Ly](https://open.spotify.com/album/5YIVlivVUhXCoXqouNsRUx) | 3:22 | 2024-05-10 | 2024-05-22 |
 | [Fluir](https://open.spotify.com/track/6wPIQoIh9n8DxhS2CgfyYX) | [Alejandro Kiroz](https://open.spotify.com/artist/2sWBuk5sIyclca1vhHVici) | [Fluir](https://open.spotify.com/album/2G31FUwO4Xvoaq1IgVs7cK) | 4:01 | 2023-07-05 | 2023-07-18 |
-| [Fly](https://open.spotify.com/track/7hQFStTanHlPCpy27wnQl1) | [Erika Torres](https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp) | [Fly](https://open.spotify.com/album/1QM5I3eS1AvZjET9vMwqxp) | 3:10 | 2026-09-01 |  |
+| [Fly](https://open.spotify.com/track/7hQFStTanHlPCpy27wnQl1) | [Erika Torres](https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp) | [Fly](https://open.spotify.com/album/1QM5I3eS1AvZjET9vMwqxp) | 3:10 | 2026-09-01 | 2026-09-13 |
 | [Fly Mode](https://open.spotify.com/track/2RzoV1EWko8halYEkvUY9l) | [8Nights](https://open.spotify.com/artist/3udSorp353p8aT4mQDGEMW) | [Fly Mode](https://open.spotify.com/album/0AkWfZiXojbswRk2fLDzvP) | 3:11 | 2021-07-10 | 2021-07-25 |
 | [Fly With Me](https://open.spotify.com/track/2ZU53tfNqbhxvvWBPrCLYy) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [Fly With Me](https://open.spotify.com/album/057FfLC4nTYYWRm1BWDgbT) | 3:18 | 2024-05-20 | 2024-06-01 |
 | [Fly Wizard Fly](https://open.spotify.com/track/2kVwgjg5VJMcKpyAMsv0jD) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Fly Wizard Fly](https://open.spotify.com/album/38w5T1662XSfXfTWEwFQye) | 4:52 | 2021-09-24 | 2021-10-10 |
@@ -3280,7 +3280,7 @@
 | [Live and Let Die](https://open.spotify.com/track/4hG4nA3yANSQoju66OwfeR) | [Bumiy](https://open.spotify.com/artist/1QWKlgDqgWy1IkIlUOxU5P) | [Live and Let Die](https://open.spotify.com/album/4fbYPDTQtFJezPU9A8tUcI) | 3:02 | 2024-03-17 | 2024-03-29 |
 | [Live From The Lagoon](https://open.spotify.com/track/6Uxltqcm57l76nOyPZzM2w) | [CjayQ](https://open.spotify.com/artist/6xZmvulXHH7SmdkHJPfmDB) | [Live From The Lagoon](https://open.spotify.com/album/7qT5n6IZ9GhWtbqXGvsAzi) | 3:17 | 2024-04-19 | 2024-05-18 |
 | [Live Through](https://open.spotify.com/track/1SWQLFFHoXImQBMHr1O20d) | [Danielle Howle](https://open.spotify.com/artist/47ccQ7hKPvJRyBv97CACE1) | [Live Through](https://open.spotify.com/album/0NRdBgG86kU00fMvkiWCLk) | 2:56 | 2023-09-01 | 2023-09-26 |
-| [Live To Regret It](https://open.spotify.com/track/1gMUqWCcZZkSmveVkTK7Gr) | [PhD](https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu) | [Live To Regret It](https://open.spotify.com/album/0E8mhXKyjWOS2eqKLhxyYr) | 3:53 | 2026-09-01 |  |
+| [Live To Regret It](https://open.spotify.com/track/1gMUqWCcZZkSmveVkTK7Gr) | [PhD](https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu) | [Live To Regret It](https://open.spotify.com/album/0E8mhXKyjWOS2eqKLhxyYr) | 3:53 | 2026-09-01 | 2026-09-13 |
 | [Live Your Life](https://open.spotify.com/track/3mXt428D7s6mbxo03krxgO) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Live Your Life](https://open.spotify.com/album/7xm8wtWertvuXxEswUmjnO) | 2:54 | 2025-06-06 | 2025-06-24 |
 | [Livin' a Dream](https://open.spotify.com/track/7qyFllvLTXpacKanr3y8fB) | [WYFE](https://open.spotify.com/artist/1SSO4sbzquWGKSOpO5FO53), [Fourtuna](https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb) | [Do You Ever Wonder?](https://open.spotify.com/album/4ZFKiVwUVPrdHTPBco6ryQ) | 5:40 | 2024-02-12 | 2024-02-24 |
 | [Livin' Our Best Life \- 2025](https://open.spotify.com/track/4nY5ufdMEFsm79BOBLUX51) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U), [Liv Gibson](https://open.spotify.com/artist/4mWWSs8BxERDtp9pTHGYoA) | [Livin' Our Best Life](https://open.spotify.com/album/6ARnh2J3UoQBi89Ugx01ea) | 3:04 | 2025-04-30 | 2025-05-12 |
@@ -4431,6 +4431,7 @@
 | [Pretty](https://open.spotify.com/track/5YE5SdtdLIvIf4mLxXDuoD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:58 | 2023-07-24 | 2023-12-14 |
 | [pretty baby](https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [pretty baby](https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO) | 2:30 | 2026-06-12 | 2026-07-15 |
 | [Pretty Girl](https://open.spotify.com/track/4NBOBwqQDgTkVPeIpEoZVv) | [Taineh](https://open.spotify.com/artist/6fa0MxLwqmJqDt9qGl9VD4) | [Pretty Girl](https://open.spotify.com/album/1rh4VppI5lMWGY7sZ3o1HQ) | 3:33 | 2026-06-12 | 2026-07-15 |
+| [Pretty Girls Cry](https://open.spotify.com/track/56ioej6lR4Vfksq8e9Ho5h) | [Anzhela](https://open.spotify.com/artist/6R6ZTKhNMdXfYjRSGhKqyy) | [Pretty Girls Cry](https://open.spotify.com/album/7Iy1IMT1hQEEfn406nxn9R) | 3:38 | 2026-09-12 |  |
 | [Pretty Lady](https://open.spotify.com/track/4nmz21l7DdKTPEgecZQJ6b) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Pretty Lady](https://open.spotify.com/album/3gSx5PGcf9oXHSlyHe4mIV) | 3:02 | 2024-06-13 | 2024-06-25 |
 | [Pretty Lies \(Love Lies, Pt\. 2\) \- Remastered](https://open.spotify.com/track/6Hx6QRKthqdxfYDomRScfJ) | [YBF K Sauce](https://open.spotify.com/artist/1azbbmSdNdoyAx0SxJRsTu) | [LIES \(Love Is Emotional Suffering\)](https://open.spotify.com/album/4kIO7SP2uK8kzXiMdYYpDG) | 2:23 | 2026-03-05 | 2026-03-17 |
 | [Pretty Little Heart](https://open.spotify.com/track/6EhUVFCb0tdvNpPF5YudIX) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Pretty Little Heart](https://open.spotify.com/album/752lXX84jaB4UN41M2W2Kw) | 2:03 | 2025-01-17 | 2025-01-29 |
@@ -6219,6 +6220,7 @@
 | [what's love?](https://open.spotify.com/track/2Y68RuPNowLbODCK44AfX3) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [what's love?](https://open.spotify.com/album/1jP2ujTgdJPbJh4X64gOGt) | 3:47 | 2025-06-06 | 2025-06-18 |
 | [What's On Your Mind](https://open.spotify.com/track/0FVb71Ze5hVobgJ5k7m3L9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Walk You Home](https://open.spotify.com/album/0sCekvrb4MfLtKBv8Cjr9V) | 2:29 | 2024-07-02 | 2024-07-14 |
 | [whatalife](https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:53 | 2025-03-25 | 2025-04-06 |
+| [Whatever Feels Good](https://open.spotify.com/track/4wRkx2gnPKtL7Qp99qPGcI) | [Many Moore](https://open.spotify.com/artist/1httoHPAFcrQ6affm95DKv), [Soulbase](https://open.spotify.com/artist/3RpGWhniuDKYp1qsD7DrZA) | [Whatever Feels Good](https://open.spotify.com/album/6iy2aTSj9OKGUvsb2yWTZq) | 4:08 | 2026-09-12 |  |
 | [Whatever Is Fine](https://open.spotify.com/track/4uPz7YeEI66LsIdlRueC7e) | [Zack Gogginz](https://open.spotify.com/artist/0l7YhbuMJ1EDXR3qmdDTDR) | [Whatever Is Fine](https://open.spotify.com/album/5Ab9fsEQcYRumhYJniC6aq) | 5:43 | 2023-01-25 | 2023-02-26 |
 | [Whatever U Tell Me](https://open.spotify.com/track/62q39hLMLokPdXrxwV6Yq6) | [ANGE](https://open.spotify.com/artist/1VSyH0QvgTpqKMhkcmgkyR) | [Whatever U Tell Me](https://open.spotify.com/album/2bGOdIovp3ito7Qw7kkciS) | 3:05 | 2021-10-13 | 2021-10-28 |
 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 | 2024-08-12 |  |

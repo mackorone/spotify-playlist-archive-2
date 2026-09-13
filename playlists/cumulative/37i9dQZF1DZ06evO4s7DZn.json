@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 137493,
       "name": "De Que Me Sirve",
       "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
@@ -1752,6 +1752,24 @@
       "duration_ms": 193000,
       "name": "No Se Vivir - En Vivo",
       "url": "https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "No Te Supe Querer",
+      "url": "https://open.spotify.com/track/72MmzIhobBAV6CisWLZnVT"
     },
     {
       "album": {

@@ -13808,7 +13808,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -26936,7 +26936,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 239967,
       "name": "I romantici",
       "url": "https://open.spotify.com/track/7CqQzBkAsYy9hfqFf0cu67"
@@ -40071,6 +40071,28 @@
     },
     {
       "album": {
+        "name": "Morire \u00c8 Niente",
+        "url": "https://open.spotify.com/album/45wNzX4wMXPkHcxRqTFLmY"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Morire \u00c8 Niente",
+      "url": "https://open.spotify.com/track/75Vw4uudpDQbD2piDx7KWM"
+    },
+    {
+      "album": {
         "name": "Il ballo della vita",
         "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
       },
@@ -41198,7 +41220,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
@@ -47141,6 +47163,28 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/65FKXjLhbJZ8iBFLIdaeZo"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230543,
+      "name": "PER NOI (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/4nqsSd5tL9qTssjuxtGhUh"
+    },
+    {
+      "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
       },
@@ -48403,6 +48447,56 @@
     },
     {
       "album": {
+        "name": "Players Club '26 (feat. Lubi, Over Lapa, Flaco G, G. Mineiro, 18K, Macello , Enny P & Alkhazar)",
+        "url": "https://open.spotify.com/album/4vlDIuxI7J7Fik96MtlrZV"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        },
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        },
+        {
+          "name": "Alkhazar",
+          "url": "https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304285,
+      "name": "Players Club '26 (feat. Lubi, Over Lapa, Flaco G, G. Mineiro, 18K, Macello , Enny P & Alkhazar)",
+      "url": "https://open.spotify.com/track/6uiUHaFq47uTQft7tjWgSr"
+    },
+    {
+      "album": {
         "name": "Plaza Freestyle",
         "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
       },
@@ -49369,6 +49463,24 @@
     },
     {
       "album": {
+        "name": "Provinciali",
+        "url": "https://open.spotify.com/album/1uddOHYpGXNVtBn01WOWoc"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131523,
+      "name": "Provinciali",
+      "url": "https://open.spotify.com/track/2uXtk9Pow1IUnKyw6IvKfl"
+    },
+    {
+      "album": {
         "name": "Keta Music, Vol. 3",
         "url": "https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa"
       },
@@ -50322,7 +50434,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1VX2LLBpUPS2QJVou4WGz3"
@@ -53990,7 +54102,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -62546,7 +62658,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 196681,
       "name": "UN RICCO E UN POVERO",
       "url": "https://open.spotify.com/track/5IR9UiTqoJCGJRBUO34cIA"

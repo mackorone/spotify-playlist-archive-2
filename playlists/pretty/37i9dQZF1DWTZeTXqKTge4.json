@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
-  "num_followers": 89625,
+  "num_followers": 89627,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,18 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "\u00c0 la prochaine fois",
-        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
       },
       "artists": [
         {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
-        },
-        {
-          "name": "lb66",
-          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
         }
       ],
-      "duration_ms": 150589,
-      "name": "Cayo Perico",
-      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -951,6 +947,26 @@
       "duration_ms": 158048,
       "name": "Picky",
       "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+      },
+      "artists": [
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        }
+      ],
+      "duration_ms": 150589,
+      "name": "Cayo Perico",
+      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1003,22 +1019,6 @@
       "duration_ms": 210695,
       "name": "Fascinant",
       "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Kesspass",
         "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 78406,
       "name": "Kesspass",
       "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "N\u00e9m\u00e9sis",
+        "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
+      },
+      "artists": [
+        {
+          "name": "Lascar",
+          "url": "https://open.spotify.com/artist/4FzKLdBoUYXNK8BBmsAkyD"
+        },
+        {
+          "name": "Fragouler",
+          "url": "https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO"
+        },
+        {
+          "name": "Warlock",
+          "url": "https://open.spotify.com/artist/4L1mxYE147cEXT8CUruxW5"
+        }
+      ],
+      "duration_ms": 246810,
+      "name": "N\u00e9m\u00e9sis",
+      "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Big Wop - Mile-End sur la map",
         "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
       },
@@ -1359,30 +1383,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "N\u00e9m\u00e9sis",
-        "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
-      },
-      "artists": [
-        {
-          "name": "Lascar",
-          "url": "https://open.spotify.com/artist/4FzKLdBoUYXNK8BBmsAkyD"
-        },
-        {
-          "name": "Fragouler",
-          "url": "https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO"
-        },
-        {
-          "name": "Warlock",
-          "url": "https://open.spotify.com/artist/4L1mxYE147cEXT8CUruxW5"
-        }
-      ],
-      "duration_ms": 246810,
-      "name": "N\u00e9m\u00e9sis",
-      "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "AMBITION",
         "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "Fanta",
-        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
       },
       "artists": [
         {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
         }
       ],
-      "duration_ms": 125090,
-      "name": "Fanta",
-      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
+      "duration_ms": 227211,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

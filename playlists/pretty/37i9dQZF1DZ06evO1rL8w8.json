@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239808,
+  "num_followers": 239836,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACT/Ovy9anrOXvk2vvxm7nB",
+  "snapshot_id": "aqNEgAAAAADCognY+SQq7wH1PL90fyI5",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
       "duration_ms": 174538,
       "name": "Me Caliento Como Brasa",
       "url": "https://open.spotify.com/track/4m70EqCzc6eCdqEp8TOcLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fris\u00f3n",
+        "url": "https://open.spotify.com/album/5H9xLSq8TxXrkQXJ3t5v3c"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 172810,
+      "name": "El Fris\u00f3n",
+      "url": "https://open.spotify.com/track/5q4M88fekPMbt76In9e3BR"
     },
     {
       "added_at": null,
@@ -215,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 199836,
       "name": "Trato De Muerte",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -763,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180436,
-      "name": "Le Pas\u00e9 a la Plebe",
-      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Corrido De Everardo (En Vivo)",
         "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
       },
@@ -799,6 +795,26 @@
       "duration_ms": 211500,
       "name": "El Corrido De Everardo (En Vivo)",
       "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Le Pas\u00e9 a la Plebe",
+      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
     },
     {
       "added_at": null,
@@ -835,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Diga M\u00e1s",
-        "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Legado MyM",
-          "url": "https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz"
-        }
-      ],
-      "duration_ms": 198548,
-      "name": "No Se Diga M\u00e1s",
-      "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -875,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Movimiento Alterado, Vol. 4",
-        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
+        "name": "No Se Diga M\u00e1s",
+        "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
       },
       "artists": [
         {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        },
-        {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Legado MyM",
+          "url": "https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz"
         }
       ],
-      "duration_ms": 152032,
-      "name": "Recordando a Michoacan",
-      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
+      "duration_ms": 198548,
+      "name": "No Se Diga M\u00e1s",
+      "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
     }
   ],
   "unique_name": "This Is El Komander",

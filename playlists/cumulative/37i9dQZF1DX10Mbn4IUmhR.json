@@ -9065,6 +9065,28 @@
     },
     {
       "album": {
+        "name": "Net Ek en Jy",
+        "url": "https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY"
+      },
+      "artists": [
+        {
+          "name": "Donkerbaai",
+          "url": "https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL"
+        },
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Net Ek en Jy",
+      "url": "https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
       },
@@ -9076,7 +9098,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 188000,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"

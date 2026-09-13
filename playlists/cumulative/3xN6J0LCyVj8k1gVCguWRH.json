@@ -37430,7 +37430,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 190270,
       "name": "Fly",
       "url": "https://open.spotify.com/track/7hQFStTanHlPCpy27wnQl1"
@@ -62224,7 +62224,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 233600,
       "name": "Live To Regret It",
       "url": "https://open.spotify.com/track/1gMUqWCcZZkSmveVkTK7Gr"
@@ -84060,6 +84060,24 @@
       "duration_ms": 213130,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/4NBOBwqQDgTkVPeIpEoZVv"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Cry",
+        "url": "https://open.spotify.com/album/7Iy1IMT1hQEEfn406nxn9R"
+      },
+      "artists": [
+        {
+          "name": "Anzhela",
+          "url": "https://open.spotify.com/artist/6R6ZTKhNMdXfYjRSGhKqyy"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218208,
+      "name": "Pretty Girls Cry",
+      "url": "https://open.spotify.com/track/56ioej6lR4Vfksq8e9Ho5h"
     },
     {
       "album": {
@@ -117884,6 +117902,28 @@
       "duration_ms": 173046,
       "name": "whatalife",
       "url": "https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS"
+    },
+    {
+      "album": {
+        "name": "Whatever Feels Good",
+        "url": "https://open.spotify.com/album/6iy2aTSj9OKGUvsb2yWTZq"
+      },
+      "artists": [
+        {
+          "name": "Many Moore",
+          "url": "https://open.spotify.com/artist/1httoHPAFcrQ6affm95DKv"
+        },
+        {
+          "name": "Soulbase",
+          "url": "https://open.spotify.com/artist/3RpGWhniuDKYp1qsD7DrZA"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248041,
+      "name": "Whatever Feels Good",
+      "url": "https://open.spotify.com/track/4wRkx2gnPKtL7Qp99qPGcI"
     },
     {
       "album": {

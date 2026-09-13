@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 44999,
+  "num_followers": 45040,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZgLvkdQRms15LUwgByXfCkeI2l",
+  "snapshot_id": "AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK",
   "tracks": [
     {
       "added_at": "2026-09-03 17:28:17",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Flowers Of the Same Tree",
-        "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
-      },
-      "artists": [
-        {
-          "name": "Bir Singh",
-          "url": "https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi"
-        },
-        {
-          "name": "Jaskirat Singh",
-          "url": "https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6"
-        }
-      ],
-      "duration_ms": 284487,
-      "name": "Flowers Of the Same Tree",
-      "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Ranjhe",
         "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 206895,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Flowers Of the Same Tree",
+        "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
+      },
+      "artists": [
+        {
+          "name": "Bir Singh",
+          "url": "https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi"
+        },
+        {
+          "name": "Jaskirat Singh",
+          "url": "https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6"
+        }
+      ],
+      "duration_ms": 284487,
+      "name": "Flowers Of the Same Tree",
+      "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -503,18 +503,22 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Greatest Hits Of Manmohan Waris",
-        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
+        "name": "Deewani",
+        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
       },
       "artists": [
         {
-          "name": "Manmohan Waris",
-          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Aniket Sharma",
+          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
         }
       ],
-      "duration_ms": 417213,
-      "name": "Kalli Beh Ke Sochni",
-      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+      "duration_ms": 184701,
+      "name": "Deewani",
+      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -535,22 +539,18 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Deewani",
-        "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
+        "name": "Greatest Hits Of Manmohan Waris",
+        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
       },
       "artists": [
         {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Aniket Sharma",
-          "url": "https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx"
+          "name": "Manmohan Waris",
+          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
         }
       ],
-      "duration_ms": 184701,
-      "name": "Deewani",
-      "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
+      "duration_ms": 417213,
+      "name": "Kalli Beh Ke Sochni",
+      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
     },
     {
       "added_at": "2026-09-03 17:28:17",

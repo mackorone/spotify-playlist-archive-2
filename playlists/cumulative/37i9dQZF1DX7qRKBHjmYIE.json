@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 144768,
       "name": "5JONES",
       "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
@@ -5803,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+    },
+    {
+      "album": {
         "name": "Flore",
         "url": "https://open.spotify.com/album/4AUGw6j268jiJ5Tm8ULPSl"
       },
@@ -9658,7 +9676,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 188877,
       "name": "Latemotiv",
       "url": "https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8"
@@ -10436,7 +10454,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 226697,
       "name": "Lucero",
       "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
@@ -15329,6 +15347,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme as\u00ed",
+        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211611,
+      "name": "Qui\u00e9reme as\u00ed",
+      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Cromado",
         "url": "https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02"
       },
@@ -15986,6 +16022,24 @@
       "duration_ms": 173065,
       "name": "SALUT",
       "url": "https://open.spotify.com/track/5HHZ47AUq0hKL3w8hGEQAu"
+    },
+    {
+      "album": {
+        "name": "La Belleza De Las Flores - Bonus Track",
+        "url": "https://open.spotify.com/album/0UZ31RlUkohsC89wTsfCGr"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184008,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/5wStgwgGEeCwM5D5Dkiw7V"
     },
     {
       "album": {

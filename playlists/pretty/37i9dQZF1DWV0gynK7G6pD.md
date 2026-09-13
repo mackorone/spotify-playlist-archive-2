@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Max Richter
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,793 likes - 98 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,809 likes - 98 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

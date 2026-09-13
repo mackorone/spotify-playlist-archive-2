@@ -23,6 +23,36 @@
     },
     {
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/6QYew1RtlS5fLVqjWWqMQ1"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288277,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1TWkoUyRM98lnoAzRUAuSg"
+    },
+    {
+      "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/79Y6nRU3x2vkaSjTfWIUzT"
       },
@@ -118,7 +148,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 165610,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/5Zt8EeE4G0oRRWCcNG5M3X"
@@ -154,7 +184,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 202346,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
@@ -216,6 +246,24 @@
       "duration_ms": 293876,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/3UaxFZPbvtVPWt9HvVemtl"
+    },
+    {
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/4wjPqaU95MlOZQLSYlQxzD"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/63n9jfrDIyT5riF975AzWl"
     },
     {
       "album": {
@@ -324,7 +372,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 257898,
       "name": "Can of Worms",
       "url": "https://open.spotify.com/track/5lrxCHNa6AMbl55f02mlBk"
@@ -378,7 +426,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 169813,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/0CzdDxtoZ0GZYeRKQMdOZ4"
@@ -422,6 +470,24 @@
       "duration_ms": 251178,
       "name": "crank 2",
       "url": "https://open.spotify.com/track/7awr30597aZ1tWLgnYQgrz"
+    },
+    {
+      "album": {
+        "name": "Culpable Tu (Official Video)",
+        "url": "https://open.spotify.com/album/30taw0tQYILly1NGMp5SUS"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244928,
+      "name": "Culpable Tu (Official Video)",
+      "url": "https://open.spotify.com/track/3JkJYeNiKr6UEFQ9xhas3D"
     },
     {
       "album": {
@@ -509,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Doors (Live | Presented by Spotify)",
+        "url": "https://open.spotify.com/album/3G0GqfT1AKsypA6fqJdNJK"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228152,
+      "name": "Doors - Live | Presented by Spotify",
+      "url": "https://open.spotify.com/track/58IPn4pi5Rlypi69p3Oica"
+    },
+    {
+      "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/3BIgtjioh8uDv6qSS9AIxk"
       },
@@ -546,6 +630,24 @@
       "duration_ms": 157653,
       "name": "El Sombrero y La Camisa",
       "url": "https://open.spotify.com/track/7r6uccE2Vgr7BjMlAoWF6U"
+    },
+    {
+      "album": {
+        "name": "ENTRE TU Y YO",
+        "url": "https://open.spotify.com/album/5ZPvuxDaWL82c2QMyki3Bh"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222189,
+      "name": "ENTRE TU Y YO",
+      "url": "https://open.spotify.com/track/7piJuhWIQitNCpr6pQ7j18"
     },
     {
       "album": {
@@ -687,6 +789,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN (Live from Governor's Ball 2026)",
+        "url": "https://open.spotify.com/album/27pfXQL2bqG4NXJmn340v6"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212522,
+      "name": "HEAVEN - Live from Governor's Ball 2026",
+      "url": "https://open.spotify.com/track/0LCui1qlGQwOrmmUcoyD34"
+    },
+    {
+      "album": {
         "name": "Hips Don't Lie (featuring Wyclef Jean)",
         "url": "https://open.spotify.com/album/0keVByjZriV0GqFZKUl5Si"
       },
@@ -764,7 +884,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 167667,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/0oos01MKZkB4Wpo2HQcjkK"
@@ -826,7 +946,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -852,7 +972,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -1026,7 +1146,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 201514,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/5VcRLtOGzG3YVFhntoJ57E"
@@ -1297,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/6brjejE4Fjrrv1IRq8SXvE"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196246,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4YkqLiJuMAFfWMRW2Al5jX"
+    },
+    {
+      "album": {
         "name": "Ojos Brujos",
         "url": "https://open.spotify.com/album/6ppCsZpVatcXhpJuyQFAyS"
       },
@@ -1338,7 +1476,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 162505,
       "name": "OK (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0QUNl2qufcUU0ZiJq1srHX"
@@ -1472,6 +1610,28 @@
       "duration_ms": 230279,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/7EimtFVVIXTqNql0r1YsmE"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 iron\u00eda",
+        "url": "https://open.spotify.com/album/4zG7HulPugRBxhxxbWngTn"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148202,
+      "name": "Qu\u00e9 iron\u00eda",
+      "url": "https://open.spotify.com/track/51QU6rgcaT0I8N7v01wawu"
     },
     {
       "album": {
@@ -1612,7 +1772,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -1692,7 +1852,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 219711,
       "name": "Superhuman (feat. Keri Hilson)",
       "url": "https://open.spotify.com/track/0swTG7z8C5iMmQBpm7L3ht"
@@ -1836,7 +1996,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"

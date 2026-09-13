@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233978,
+  "num_followers": 233965,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqHzAAAAAACn+vOHJZlWv1nKXzvcFNpi",
+  "snapshot_id": "aqNEgAAAAADnLJSMZF9u4Uw/XdzmeUaf",
   "tracks": [
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Late Mi Coraz\u00f3n - Version Pop",
-      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
+      "duration_ms": 210853,
+      "name": "Fiesta - En Vivo",
+      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
         }
       ],
-      "duration_ms": 210853,
-      "name": "Fiesta - En Vivo",
-      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
+      "duration_ms": 242906,
+      "name": "Late Mi Coraz\u00f3n - Version Pop",
+      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
     },
     {
       "added_at": null,

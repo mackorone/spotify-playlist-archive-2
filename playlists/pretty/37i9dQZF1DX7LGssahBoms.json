@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 207205,
+  "num_followers": 207219,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
-        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ladies Night - Single Version",
-      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 350240,
       "name": "Heart Of Glass [24-Bit Digitally Remastered 01] - Remastered 2001",
       "url": "https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
+        "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ladies Night - Single Version",
+      "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
     },
     {
       "added_at": "2026-03-19 15:33:21",

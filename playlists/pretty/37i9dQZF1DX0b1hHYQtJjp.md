@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,748 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,925 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 41 | [Remember Me](https://open.spotify.com/track/1eSlBcOg9ZnuEjGLGz9KOV) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Remember Me](https://open.spotify.com/album/64OMCk6mYA9ZC8PkO8YMTl) | 3:12 |
 | 42 | [Jealous](https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Peace To Make](https://open.spotify.com/album/3RBRCj9pFM1Ercrwqv47uj) | 3:09 |
 | 43 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
-| 44 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis](https://open.spotify.com/artist/5UOJF4PsvWGwnKuB0ZG3ml) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
+| 44 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis.](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
 | 45 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
 | 46 | [Just A Kid](https://open.spotify.com/track/5vcqxDn2p49rvIeTgRWZwJ) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Good Grief](https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7) | 3:43 |
 | 47 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |

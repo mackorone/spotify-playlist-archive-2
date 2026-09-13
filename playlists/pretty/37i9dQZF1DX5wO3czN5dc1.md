@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Tina Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,728 likes - 61 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,760 likes - 61 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

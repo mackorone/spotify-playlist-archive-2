@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,256 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,341 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 69 | [XOXO](https://open.spotify.com/track/0LIEtliIARSvMc5niYy0OX) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF) | 1:51 |
 | 70 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 |
 | 71 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
-| 72 | [He's A Pirate \(Save Me\)](https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [He's A Pirate \(Save Me\)](https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z) | 2:33 |
-| 73 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 72 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 73 | [He's A Pirate \(Save Me\)](https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [He's A Pirate \(Save Me\)](https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z) | 2:33 |
 | 74 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 |
 | 75 | [Jump In](https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Jump In](https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H) | 2:30 |
 | 76 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |

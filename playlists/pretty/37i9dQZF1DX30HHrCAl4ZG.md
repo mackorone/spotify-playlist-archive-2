@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,838 likes - 151 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,793 likes - 151 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

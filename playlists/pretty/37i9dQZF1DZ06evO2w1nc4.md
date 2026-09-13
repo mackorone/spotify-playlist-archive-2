@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 
 > This is Pierce The Veil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,396 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,425 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 11 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
 | 12 | [Dive In](https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:52 |
 | 13 | [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 |
-| 14 | [Million Dollar Houses \(The Painter\)](https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:01 |
+| 14 | [I Don't Care If You're Contagious](https://open.spotify.com/track/69okqylQdHUe90a70Q2ued) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 3:25 |
 | 15 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
 | 16 | [Today I Saw The Whole World](https://open.spotify.com/track/48vr34351V9Sz1QVxmbYNf) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 3:41 |
 | 17 | [Bulls In The Bronx](https://open.spotify.com/track/23UoI3jlFiWdo5jadUYo69) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:27 |
-| 18 | [I Don't Care If You're Contagious](https://open.spotify.com/track/69okqylQdHUe90a70Q2ued) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 3:25 |
+| 18 | [Million Dollar Houses \(The Painter\)](https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:01 |
 | 19 | [I'd Rather Die Than Be Famous](https://open.spotify.com/track/5M08Cm5ZIlgFoFMYd3zlz6) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 2:53 |
 | 20 | [Gold Medal Ribbon](https://open.spotify.com/track/0yq3IiS6IbPFmqLN46WxiG) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 3:58 |
 | 21 | [I'm Low On Gas And You Need A Jacket](https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:12 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 36 | [Drella](https://open.spotify.com/track/2tr3bmoQBQrLHUYxsg8LpF) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 2:56 |
 | 37 | [Currents Convulsive](https://open.spotify.com/track/55z9JKoPKREhOv1bppouag) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:35 |
 
-Snapshot ID: `aqHzAAAAAAAda9AEhWBjmQEyNRecbJNr`
+Snapshot ID: `aqNEgAAAAAAgQ87p6I2NCc6KAbm1uU7Q`

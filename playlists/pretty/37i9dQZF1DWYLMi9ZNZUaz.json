@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124038,
+  "num_followers": 124051,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "G\u1eb7p L\u1ea1i",
         "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 255256,
       "name": "N\u1ebfu (feat. Obito)",
       "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
-      },
-      "artists": [
-        {
-          "name": "OgeNus",
-          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 220289,
-      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 176000,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
+      },
+      "artists": [
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 220289,
+      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
-        "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "\u0110\u00e1ng L\u00fd Anh N\u00ean Y\u00eau Em H\u01a1n",
-      "url": "https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "C\u00f4ng Ty 4",
         "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 254491,
       "name": "C\u00f4ng Ty 4",
       "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
+        "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "\u0110\u00e1ng L\u00fd Anh N\u00ean Y\u00eau Em H\u01a1n",
+      "url": "https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 266379,
-      "name": "H\u1eefng H\u1edd",
-      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
         "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 266379,
+      "name": "H\u1eefng H\u1edd",
+      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 244752,
       "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
       "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "HVL",
-        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Tage",
-          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
-        }
-      ],
-      "duration_ms": 192485,
-      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
-      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -855,6 +835,26 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        }
+      ],
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "Ho\u00e0ng",
         "url": "https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
-      },
-      "artists": [
-        {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "MEDICINE",
         "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
@@ -927,6 +911,26 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2026-08-20 17:00:23",

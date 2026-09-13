@@ -19278,10 +19278,28 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "album": {
+        "name": "misery. (The Living Tombstone Remix)",
+        "url": "https://open.spotify.com/album/3XwENXkvanWdNQVlFz6fav"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166579,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/3szSOQjWBCE0s5Ys2nNFuZ"
     },
     {
       "album": {
@@ -24242,7 +24260,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -32960,7 +32978,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 185495,
       "name": "Ya Helou",
       "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"

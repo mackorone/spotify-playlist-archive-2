@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Spiritbox",
-  "num_followers": 488673,
+  "num_followers": 488621,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 365774,
-      "name": "(I Used to Make Out With) Medusa - 2026 Repented",
-      "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Zero Day",
         "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 145129,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 365774,
+      "name": "(I Used to Make Out With) Medusa - 2026 Repented",
+      "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Where the Quiet Devours Me Whole",
-        "url": "https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Where the Quiet Devours Me Whole",
-      "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "\u2060Lucid Love",
         "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 210555,
       "name": "Lucid Love",
       "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Where the Quiet Devours Me Whole",
+        "url": "https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Where the Quiet Devours Me Whole",
+      "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Sx",
-        "url": "https://open.spotify.com/album/7IZsiyiB3C0ZUA4osa6EXv"
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
       },
       "artists": [
         {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 242805,
-      "name": "Sx",
-      "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
+      "duration_ms": 216884,
+      "name": "An Ending In Itself",
+      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
+        "name": "Sx",
+        "url": "https://open.spotify.com/album/7IZsiyiB3C0ZUA4osa6EXv"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
         }
       ],
-      "duration_ms": 216884,
-      "name": "An Ending In Itself",
-      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+      "duration_ms": 242805,
+      "name": "Sx",
+      "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "do or die",
-        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "do or die",
-      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 203314,
       "name": "Swept From Under (Call of the Void)",
       "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Death Threat",
-        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Death Threat",
-      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Last One Here",
         "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
         "name": "Your Name In Red Ink",
         "url": "https://open.spotify.com/album/28BwYERM72BwDCFnwWDfb6"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Fatal Paradox",
+        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Fatal Paradox",
+      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Fatal Paradox",
-        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Fatal Paradox",
-      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 204103,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Kill Me First",
         "url": "https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 204103,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 262784,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
-        "name": "EX-HUMANITY",
-        "url": "https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "EX-HUMANITY",
-      "url": "https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Hand Me A Halo",
-        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
+        "name": "EX-HUMANITY",
+        "url": "https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 199251,
-      "name": "Hand Me A Halo",
-      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
+      "duration_ms": 192000,
+      "name": "EX-HUMANITY",
+      "url": "https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1275,6 +1259,22 @@
       "duration_ms": 205466,
       "name": "May this pain never leave",
       "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Hand Me A Halo",
+        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 199251,
+      "name": "Hand Me A Halo",
+      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Injury Episode",
-        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 263921,
-      "name": "dull blade disguise",
-      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "SIDE EFFECTS PT.1",
         "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 196442,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Injury Episode",
+        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 263921,
+      "name": "dull blade disguise",
+      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
     },
     {
       "added_at": "2026-09-11 00:00:15",

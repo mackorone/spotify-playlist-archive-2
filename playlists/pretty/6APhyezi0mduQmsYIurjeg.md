@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 603 songs - 1 day 12 hr 36 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 606 songs - 1 day 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -611,5 +611,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 601 | [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 |
 | 602 | [Visualize](https://open.spotify.com/track/4sExGfGQZ4ovpWosLswA0P) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:16 |
 | 603 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
+| 604 | [HIT AND RUN](https://open.spotify.com/track/2k20nDGUIxuR4L6VBdwcz9) | [CMAGIC5](https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs) | [HIT AND RUN](https://open.spotify.com/album/1h6QJarobaw3y0HNmYNC96) | 2:39 |
+| 605 | [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 |
+| 606 | [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 |
 
-Snapshot ID: `AAAC8Zi2I96KhYOYjzzoR4O8la5dNzfg`
+Snapshot ID: `AAAC9DgNLUpYP28ddwB0GKoO+wXC3Z4S`

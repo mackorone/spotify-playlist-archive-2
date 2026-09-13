@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,201 songs - 2 day 13 hr 37 min
+1,205 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Dominate The Scene \(Aggressive Brazilian Phonk\)](https://open.spotify.com/track/1bDUHqIknTsrIxF78b66ZS) | [PGStudioAI](https://open.spotify.com/artist/2u6hG9KDTamI6frFcx84O7) | [Dominate The Scene \(Aggressive Brazilian Phonk\)](https://open.spotify.com/album/1H9BtmTsZfkbAandv4c6mH) | 2:31 | 2026-01-26 | 2026-07-23 |
 | [Don't Care](https://open.spotify.com/track/2ZpvcHBJk9FVGdWxPvkejU) | [Duke Mahone](https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e), [CMRN](https://open.spotify.com/artist/0DYQIr8kZO3uWGvX0y3Y85) | [Don't Care](https://open.spotify.com/album/3NOmXT64ji7EsnQXmJ9Ij8) | 3:09 | 2026-01-26 | 2026-07-23 |
 | [Don't Give Up](https://open.spotify.com/track/54QiBT5ROTpOtg0yJPxpIv) | [Os Astronautas](https://open.spotify.com/artist/3abqf13NRm1hC93MQ583lI) | [Don't Give Up](https://open.spotify.com/album/33DVJwJNSulyJ1YoaiuAVf) | 2:40 | 2025-10-27 | 2026-02-17 |
+| [DON'T LEAVE](https://open.spotify.com/track/2uuNlY9J2arYsaB66zJy4m) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [DON'T LEAVE](https://open.spotify.com/album/6HldAzeHkzc3dzJVdXgybu) | 2:09 | 2026-09-12 |  |
 | [Don't Stop](https://open.spotify.com/track/65NSqvfScjoLBlJB32nlzn) | [Eykah](https://open.spotify.com/artist/15xEC9ZWWVoI2lnkCnXuwc) | [Don't Stop](https://open.spotify.com/album/3KFXkfeublVPxTCmpjnDUb) | 2:37 | 2025-09-23 | 2026-01-15 |
 | [Don't Stop!](https://open.spotify.com/track/0GVxcsz6U2TWWsk3pbaiFd) | [DEN BAURIN](https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE) | [Don't Stop!](https://open.spotify.com/album/7ao9MAR3YsjRiWsDZnIjv3) | 2:19 | 2025-10-09 | 2026-01-15 |
 | [Don't Walk Away](https://open.spotify.com/track/5JRDo6TCW0pjjM8cfQFHDU) | [Skee](https://open.spotify.com/artist/0KiN0t4PhLt5raxtoJ58Bx), [Bogart.](https://open.spotify.com/artist/0qi77GTJzBxP93Wj1hWenG) | [Don't Walk Away](https://open.spotify.com/album/3tre2N0lIhzVAlhQa9zfAl) | 2:45 | 2026-01-14 | 2026-02-23 |
@@ -552,6 +553,7 @@
 | [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 | 2026-09-03 |  |
 | [Keep Going Up](https://open.spotify.com/track/6x3ceZ8YpFB5LJliZz01TB) | [Chris Kellah](https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37), [MikeTheDawn](https://open.spotify.com/artist/0R0VymT3mJIaDU1lH3ni1H) | [I'm From Africa](https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh) | 2:18 | 2026-02-08 | 2026-07-23 |
 | [Keep Pushin'](https://open.spotify.com/track/6ioWYCebaSxqXnIGyRUgXS) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A), [Carl Lazy](https://open.spotify.com/artist/6gyMxOyNvsTT7WbuFNbUKi) | [Keep Pushin'](https://open.spotify.com/album/0jiHHNu0nhSEimpaNDdzaJ) | 2:56 | 2025-09-15 | 2026-01-15 |
+| [KEYS PLEASE](https://open.spotify.com/track/474KkDSKlZB6x7ZIC0LPtV) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD) | [KEYS PLEASE](https://open.spotify.com/album/6k4bx8vdWzsl8OvA1l40VD) | 2:23 | 2026-09-12 |  |
 | [Killua](https://open.spotify.com/track/6mgFssnrdG7RI1devrQpdA) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4), [MV PTK](https://open.spotify.com/artist/1UfHfs7fNHz0C1lomxWFSH) | [Killua](https://open.spotify.com/album/3uWnuaEGm93RWuAa3n6tFm) | 3:41 | 2026-07-17 |  |
 | [Kind](https://open.spotify.com/track/3m2aWJ36S23GeBScRi4N9y) | [Gorbunoff](https://open.spotify.com/artist/7jiAYcpQkuxnn2THzxYAkR), [Sasha Raven](https://open.spotify.com/artist/1c80HYK6hsVcb8NalIs1az) | [Kind](https://open.spotify.com/album/46TZCAkT23vVIloz0iFfWq) | 2:36 | 2025-12-23 | 2026-02-23 |
 | [King Of The Hill](https://open.spotify.com/track/6euit5UP2EfIgFyKpsCFXH) | [IM1ZENIX](https://open.spotify.com/artist/4XwtuJ6cr5x2r3ULRpZWKN) | [King Of The Hill](https://open.spotify.com/album/0Y6uNj3HZD0K63iebjVwqi) | 3:54 | 2025-10-11 | 2026-01-15 |
@@ -847,6 +849,7 @@
 | [Realer](https://open.spotify.com/track/0p9O40GTo2wvVGB4TPQmUQ) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Realer](https://open.spotify.com/album/6hkLqViDsh1ntvMNqZ9s2f) | 2:36 | 2025-10-09 | 2026-01-15 |
 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 | 2026-07-17 |  |
 | [REALITY](https://open.spotify.com/track/73qfKhRO09DH4802IDpfvo) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [REALITY](https://open.spotify.com/album/49CrvOz78srAoodstP7DU1) | 1:56 | 2025-10-30 | 2026-02-17 |
+| [Recognize](https://open.spotify.com/track/7KMtWlxagzXKUIN8sHJ5eE) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Recognize](https://open.spotify.com/album/7azhXaNY5hFKkIXoXZ2VQh) | 3:21 | 2026-09-12 |  |
 | [Reconnect](https://open.spotify.com/track/2neDWnJ7dU0swpCj7cFtmp) | [Robin Noppen](https://open.spotify.com/artist/79TYFwKopdXzEX3wJRsoi9) | [Reconnect](https://open.spotify.com/album/5yjqaofFL83O3yTjGsBYOg) | 3:23 | 2026-02-03 | 2026-07-23 |
 | [RECUERDOS](https://open.spotify.com/track/45RhWibZYx9c6UGKrVJXzS) | [Rubén LBZ Lágrimas del Bierzo](https://open.spotify.com/artist/7JtXHXRkjfzEGiP04PdZ8Z) | [RECUERDOS](https://open.spotify.com/album/0f9zN1FDIYkGNjdn3RUQjM) | 2:48 | 2025-09-25 | 2026-01-15 |
 | [Recuerdos](https://open.spotify.com/track/0JEZlJFPNUXyaWYCR65Uob) | [Tenaz](https://open.spotify.com/artist/6FYQ0ID0QKrcFH3YCS1a5y), [Bobby Warner](https://open.spotify.com/artist/4a1lknXNn65oBFn9lONg7f) | [Recuerdos](https://open.spotify.com/album/4szCWjjFftc1aEpRUWLELZ) | 2:30 | 2025-10-23 | 2026-01-15 |
@@ -875,6 +878,7 @@
 | [Run Around](https://open.spotify.com/track/5ZNVyhxNFKErVq1MDWzoBH) | [Mash Made](https://open.spotify.com/artist/2GzAHOUBfglSAniiCg0vav) | [The Mash Up](https://open.spotify.com/album/3GFncI6ELmx6SXiW9jcxW8) | 2:28 | 2026-02-18 | 2026-07-23 |
 | [RUN IN THE WILD](https://open.spotify.com/track/4msWeNCVs5VtN2LcsbquH0) | [Miguel Divo](https://open.spotify.com/artist/3d5rFUrF9JeZTrulYoy8RY), [Jonnie Jupiter](https://open.spotify.com/artist/3EKsSsO1ne18gxzTHFmy6f) | [RUN IN THE WILD](https://open.spotify.com/album/3D1qkALCKgVVsyNZWhdkIr) | 7:22 | 2026-05-01 |  |
 | [Run it](https://open.spotify.com/track/1pNWeOGEPjocKHvFZfQ0IN) | [KillaHrtz](https://open.spotify.com/artist/2AOiN0yRMqCrb2tYNYWWER), [Nick Mile$](https://open.spotify.com/artist/3mWd973sCMRkEdWbCxwKQK), [Dvl Don](https://open.spotify.com/artist/4ANTgMZ86f9WoFDFRv9mzH) | [Run it](https://open.spotify.com/album/3sFZOnQfcxEEtl5mUCPLSt) | 2:07 | 2026-08-25 |  |
+| [Run run](https://open.spotify.com/track/45U3ONkgQwWINzLjP0RK2g) | [Falko](https://open.spotify.com/artist/3lGrOeydURHEYbkYguZOi4) | [Su](https://open.spotify.com/album/03Dz0USSsKAhQCZVfEfvmS) | 1:35 | 2026-09-12 |  |
 | [Running Out Of Time](https://open.spotify.com/track/7rEooxr79e4gKbrv6OKwEQ) | [Robin Noppen](https://open.spotify.com/artist/79TYFwKopdXzEX3wJRsoi9) | [Running Out Of Time](https://open.spotify.com/album/3OtgNKhgSyJE5PtdPZ5VR4) | 2:26 | 2025-09-28 | 2026-01-15 |
 | [Rush](https://open.spotify.com/track/4vxpL87i6ktp1mYgjVNrwX) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Rush](https://open.spotify.com/album/5uYAVDK8zwU0MwvkTQWG7q) | 4:22 | 2025-07-23 | 2026-01-15 |
 | [Sacrifices](https://open.spotify.com/track/5ZjG6ApEVX4sG4zHou1MIy) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Loverdose](https://open.spotify.com/album/4OctGWggdLc5zsj2ykmVtt) | 2:37 | 2026-02-14 | 2026-07-23 |

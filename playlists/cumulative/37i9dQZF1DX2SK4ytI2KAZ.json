@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 188400,
       "name": "Communicating",
       "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
@@ -8878,6 +8878,24 @@
       "duration_ms": 164764,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx"
+    },
+    {
+      "album": {
+        "name": "prowl",
+        "url": "https://open.spotify.com/album/54VwoLcXlf4UV0D6ofE7FH"
+      },
+      "artists": [
+        {
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173326,
+      "name": "prowl",
+      "url": "https://open.spotify.com/track/6llso3w3TmSHuJFLIyQqek"
     },
     {
       "album": {

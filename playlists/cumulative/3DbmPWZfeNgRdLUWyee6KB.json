@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Bullshit Nation",
+        "url": "https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI"
+      },
+      "artists": [
+        {
+          "name": "Kickoff Project",
+          "url": "https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246427,
+      "name": "Bullshit Nation",
+      "url": "https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj"
+    },
+    {
+      "album": {
         "name": "Buried Alive",
         "url": "https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx"
       },

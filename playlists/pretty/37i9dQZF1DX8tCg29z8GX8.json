@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21699,
+  "num_followers": 21713,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -611,22 +611,18 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "Blessed & Alive",
-        "url": "https://open.spotify.com/album/2AYvk74m4SKcB3v8wCaF5P"
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
       },
       "artists": [
         {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 246792,
-      "name": "Blessed & Alive",
-      "url": "https://open.spotify.com/track/6pILkyvhZy9IQKDiaJQFAO"
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -651,18 +647,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+        "name": "Blessed & Alive",
+        "url": "https://open.spotify.com/album/2AYvk74m4SKcB3v8wCaF5P"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 166034,
-      "name": "FAMAME",
-      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
+      "duration_ms": 246792,
+      "name": "Blessed & Alive",
+      "url": "https://open.spotify.com/track/6pILkyvhZy9IQKDiaJQFAO"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -879,22 +879,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "Violence (feat. Kweku Smoke)",
-        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Violence (feat. Kweku Smoke)",
-      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+      "duration_ms": 143119,
+      "name": "IDK (with Sarkodie)",
+      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -931,6 +931,26 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
+        "name": "Violence (feat. Kweku Smoke)",
+        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Violence (feat. Kweku Smoke)",
+      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
         "name": "The Odyssey",
         "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 192000,
       "name": "Ara No Dey Sleep",
       "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 143119,
-      "name": "IDK (with Sarkodie)",
-      "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1019,22 +1019,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "Stopit",
-        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+        "name": "SEXY & BAD",
+        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
         },
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 150545,
-      "name": "Stopit",
-      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
+      "duration_ms": 217959,
+      "name": "SEXY & BAD",
+      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1055,22 +1055,42 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "SEXY & BAD",
-        "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
+        "name": "Stopit",
+        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
       },
       "artists": [
         {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         }
       ],
-      "duration_ms": 217959,
-      "name": "SEXY & BAD",
-      "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
+      "duration_ms": 150545,
+      "name": "Stopit",
+      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
+        "name": "Sweet Songs 4 You",
+        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "meet 4 corner",
+      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1095,26 +1115,6 @@
       "duration_ms": 170078,
       "name": "ACCRA GIRLS",
       "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Sweet Songs 4 You",
-        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "meet 4 corner",
-      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "Trapper Sem",
-        "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
+        "name": "Akua Broni",
+        "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
       },
       "artists": [
         {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+          "name": "Moon Byni",
+          "url": "https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229"
         },
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 138260,
-      "name": "Trapper Sem",
-      "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
+      "duration_ms": 156428,
+      "name": "Akua Broni",
+      "url": "https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN"
     },
     {
       "added_at": "2026-09-11 00:01:44",

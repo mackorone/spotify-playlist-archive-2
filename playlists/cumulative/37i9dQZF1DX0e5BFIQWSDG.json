@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Katerina Lioliou",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03b9\u03b4\u03b9\u03ba\u03ae \u0388\u03ba\u03b4\u03bf\u03c3\u03b7 Giorgos Mazonakis",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206630,
+      "name": "Agapo Simeni",
+      "url": "https://open.spotify.com/track/1ANPH4P1vGm6ACBtlXjMXv"
+    },
+    {
+      "album": {
         "name": "Aggelos Sti Gi",
         "url": "https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP"
       },
@@ -988,6 +1006,24 @@
       "duration_ms": 165250,
       "name": "ALITIES",
       "url": "https://open.spotify.com/track/57dMRvQeSDsZXdoHGGCCfO"
+    },
+    {
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141597,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r"
     },
     {
       "album": {
@@ -1704,7 +1740,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 211718,
       "name": "AVANTAGE",
       "url": "https://open.spotify.com/track/2px5Fplo9yVFFBqlFKWn74"
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 166244,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7Km7TIZ6qBca2XmJGrSlOA"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 159889,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/7nLcfPSEefHwdXyn75oe5O"
@@ -6009,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Inopnevma Ftino",
+      "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
+    },
+    {
+      "album": {
         "name": "Isitirio Ena",
         "url": "https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11"
       },
@@ -6881,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "KONTAKIES",
+        "url": "https://open.spotify.com/album/47NFudVv92RtY7SSgSDzEo"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "KONTAKIES",
+      "url": "https://open.spotify.com/track/0oguLG6sMAtzEEzdZU8MoS"
+    },
+    {
+      "album": {
         "name": "ALEQUAN",
         "url": "https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl"
       },
@@ -7424,7 +7496,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 220714,
       "name": "Logariasmos",
       "url": "https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh"
@@ -8103,6 +8175,28 @@
     },
     {
       "album": {
+        "name": "Metallo",
+        "url": "https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Metallo",
+      "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
+    },
+    {
+      "album": {
         "name": "Love, Rack.",
         "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
       },
@@ -8510,6 +8604,24 @@
       "duration_ms": 151573,
       "name": "MYKONOS",
       "url": "https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d"
+    },
+    {
+      "album": {
+        "name": "Na Pernas",
+        "url": "https://open.spotify.com/album/5olEGV4JhNsWwvTzRbjHWS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261474,
+      "name": "Na Pernas",
+      "url": "https://open.spotify.com/track/4k4vVNDi90EXY62xvQLnq0"
     },
     {
       "album": {
@@ -9136,6 +9248,24 @@
       "duration_ms": 206769,
       "name": "ORES",
       "url": "https://open.spotify.com/track/4rXI3GKWppbWrlBckmSkFR"
+    },
+    {
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269314,
+      "name": "Ores Mikres",
+      "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
     },
     {
       "album": {
@@ -10910,7 +11040,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 194658,
       "name": "Safari",
       "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
@@ -11790,7 +11920,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 210693,
       "name": "Strip For Me",
       "url": "https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx"
@@ -11852,7 +11982,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 160373,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/7uYg8TyEDnxh0LhLjhVt52"
@@ -12308,6 +12438,24 @@
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
+    },
+    {
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254373,
+      "name": "Tesseris Pige",
+      "url": "https://open.spotify.com/track/33RFyLDmblI628Ny8qP8uq"
     },
     {
       "album": {
@@ -13198,7 +13346,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-13",
       "duration_ms": 196363,
       "name": "VERSACE",
       "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"

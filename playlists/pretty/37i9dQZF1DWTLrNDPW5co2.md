@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Hercules & Love Affair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,879 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,861 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 60 | [CEO](https://open.spotify.com/track/5alEvbY7weAHRYHOBvqIvk) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [CEO](https://open.spotify.com/album/758tKkWRZQeqZSJX8K9JXz) | 3:08 |
 | 61 | [ATE](https://open.spotify.com/track/0HBK3iGDVfL2eraGtG545I) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [ATE](https://open.spotify.com/album/1TymLp3w5zrsyeaLgI1mbX) | 2:16 |
 | 62 | [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 |
-| 63 | [Shooting Star](https://open.spotify.com/track/5Jmnl1E33SYSCe5TogwBaW) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Shooting Star](https://open.spotify.com/album/4k2BQ5s8E7yC62QNJYoB2p) | 3:19 |
+| 63 | [Shooting Star](https://open.spotify.com/track/7tMI32k7JL5O5P8l2ASsA9) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Shooting Star](https://open.spotify.com/album/6p108Q4eYfBH64JRreIriV) | 3:19 |
 | 64 | [I Wanna Scissor](https://open.spotify.com/track/3AGVWbxh675BIkjWUxmsf3) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y), [My Hot Ex](https://open.spotify.com/artist/4kcdZzywAt0nWReK1jZUUh) | [I Wanna Scissor](https://open.spotify.com/album/1wyDSYs3O7zMXNFJgpDrdV) | 4:43 |
 | 65 | [Lock It](https://open.spotify.com/track/2T09uhdl7hZohdD6YXjSHK) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Lock It](https://open.spotify.com/album/0OsDXhcfv7epx8kaREv4xy) | 3:32 |
 | 66 | [CLUBHOUSE](https://open.spotify.com/track/0As94NkKSIPvN6JwZWIniU) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [CLUBHOUSE](https://open.spotify.com/album/1JPsaob70izIBC9iDwNWZU) | 3:40 |
 | 67 | [PERRA AVENTURERA](https://open.spotify.com/track/4MPQ0d4PYNNnGJiiPnCKMe) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/2zFuVAQW2Px95oI9w12PN1) | 3:15 |
 | 68 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 |
 | 69 | [Lord Juice](https://open.spotify.com/track/4DfNWMjPyXaTp1vFmLS2FK) | [LOVEFOXY](https://open.spotify.com/artist/11pW7chJfzATeandApxMBo) | [Lord Juice](https://open.spotify.com/album/1FMeJkRqOe0k3p5Yhomeny) | 5:57 |
-| 70 | [DUMB](https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB](https://open.spotify.com/album/0JvzjSnr0WNFbUlhSGkK0W) | 2:22 |
+| 70 | [DUMB](https://open.spotify.com/track/1TnXrZUBeWewhb6byTS5Mw) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB](https://open.spotify.com/album/13U8woaJR4rRrLywslUXnP) | 2:22 |
 | 71 | [SMOKING SECTION](https://open.spotify.com/track/3S53THByW096a79eIXnsXz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SMOKING SECTION](https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5) | 2:42 |
 | 72 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
 | 73 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |

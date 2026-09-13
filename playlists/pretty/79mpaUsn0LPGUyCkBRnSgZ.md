@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 773 songs - 2 day 1 hr 46 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 774 songs - 2 day 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -779,7 +779,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 769 | [THE NEW SUBLIME](https://open.spotify.com/track/5G5PVQTylw22ClQKIlXpto) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:43 |
 | 770 | [Titties Bounce](https://open.spotify.com/track/6ZmDVwGBoXf7gzFjHWnSvx) | [Gravy Train!!!!](https://open.spotify.com/artist/43q75UPPaYM6brcFIdeH2P) | [Hello Doctor](https://open.spotify.com/album/3kyBl8DuRg2o6Xv8I2KEyb) | 2:50 |
 | 771 | [For Thee I Sing](https://open.spotify.com/track/1wmbj9YzoWzc1VPSf5Enrs) | [Lex Walton](https://open.spotify.com/artist/67pLmA3GVpK4P0bq11rQqa) | [ULTIMATE LOVE FOREVER](https://open.spotify.com/album/1HAX0TGlTlX3OPC3itekn7) | 2:00 |
-| 772 | [Proof](https://open.spotify.com/track/2jOpG7454PS9H6WoichjzN) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Tours](https://open.spotify.com/album/3OgsCbhoLkWuOB1j8ZmO8G) | 3:57 |
-| 773 | [Among a Hundred Faces](https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Dystopian](https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6) | 3:05 |
+| 772 | [Speak To Me / Breathe](https://open.spotify.com/track/5L7QptioCo73sGCTfAj7ln) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ) | [Dub Side Of The Moon](https://open.spotify.com/album/2w9qrrsJaLRQuZPJeI9acc) | 3:52 |
+| 773 | [Proof](https://open.spotify.com/track/2jOpG7454PS9H6WoichjzN) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Tours](https://open.spotify.com/album/3OgsCbhoLkWuOB1j8ZmO8G) | 3:57 |
+| 774 | [Among a Hundred Faces](https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Dystopian](https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6) | 3:05 |
 
-Snapshot ID: `AAAJm+sCbMyOAarQptUvJqplFtifMW3o`
+Snapshot ID: `AAAJnfb9p7AvXy5JQmlelC9sZeNVltkn`

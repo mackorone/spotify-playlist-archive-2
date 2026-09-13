@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f ",
-  "num_followers": 19467,
+  "num_followers": 19466,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-01-31 05:00:34",
       "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 135170,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh"
+    },
+    {
+      "added_at": "2025-01-31 05:00:34",
+      "album": {
         "name": "LSD and the Search for God",
         "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 398851,
       "name": "Sodus",
       "url": "https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP"
-    },
-    {
-      "added_at": "2025-01-31 05:00:34",
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 135170,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh"
     },
     {
       "added_at": "2025-01-31 05:00:34",

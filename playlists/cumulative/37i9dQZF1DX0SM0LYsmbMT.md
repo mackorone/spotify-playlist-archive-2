@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,558 songs - 7 day 4 hr 56 min
+4,559 songs - 7 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2418,7 +2418,7 @@
 | [metelkova](https://open.spotify.com/track/2102AdMDG3ye0LXVGe0TyB) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [metelkova / lángos](https://open.spotify.com/album/0sEAKrB7hBSGBFhY2ujgxa) | 1:58 | 2020-04-18 | 2020-06-19 |
 | [Metropolis](https://open.spotify.com/track/5TycMfS6hwjtK0stjkHLnZ) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Metropolis](https://open.spotify.com/album/7blESGfeNdB9KhjQ6avpq3) | 2:14 | 2021-11-19 | 2022-04-08 |
 | [Mi Vida](https://open.spotify.com/track/3CauIbXSxW0RvhD9M0BPu9) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Mi Vida](https://open.spotify.com/album/6BV1B7EYh41WQvR1p6aBSu) | 2:08 | 2024-10-10 | 2025-02-07 |
-| [MIA](https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [MIA](https://open.spotify.com/album/3sIMOoF22iv8RTq5UCGGrE) | 1:39 | 2025-06-20 |  |
+| [MIA](https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [MIA](https://open.spotify.com/album/3sIMOoF22iv8RTq5UCGGrE) | 1:39 | 2025-06-20 | 2026-09-13 |
 | [Michel](https://open.spotify.com/track/0Wt81tPpX6Ow9X7F17lfOV) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94) | [Michel](https://open.spotify.com/album/2rQS0EQCgETigFEXAYrOgi) | 2:16 | 2020-06-16 | 2020-08-24 |
 | [Midas Touch](https://open.spotify.com/track/0PHy0K3tjogmJyLTqQggfY) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Dusty by Nature](https://open.spotify.com/album/1MwSQlf09TQfAre0gxGd5T) | 1:48 | 2021-05-07 | 2021-09-03 |
 | [midday stroll](https://open.spotify.com/track/70EDNWwio2eDSpPmmiQSBV) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [midday stroll](https://open.spotify.com/album/4uTIqnPpyHoIs7yquA2OOj) | 2:16 | 2020-05-14 | 2020-07-24 |
@@ -3388,6 +3388,7 @@
 | [Sensual Context](https://open.spotify.com/track/39Ovc3dehl7rJXrrJzhrUC) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Sensual Context](https://open.spotify.com/album/07sX3vRxtKaglW936i4qxm) | 2:24 | 2021-09-25 | 2022-03-11 |
 | [Sentimental Mood](https://open.spotify.com/track/4xaP5YpRUeg25Nz7n9llJR) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Sentimental Mood](https://open.spotify.com/album/7z3FQQgkw70sLgjngXWe4Z) | 2:27 | 2023-10-19 | 2023-11-14 |
 | [sentiments](https://open.spotify.com/track/707WwrkBaJzeWh9m7uLRMm) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sentiments](https://open.spotify.com/album/0v561qUCf02eQ6LKjGp8eo) | 1:42 | 2022-02-17 | 2022-09-09 |
+| [Sentries](https://open.spotify.com/track/7DctRxkgO0VwCb3pAvtoI8) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [Ornaments](https://open.spotify.com/album/0X7uHOAivSZy6P1rcybSIv) | 2:12 | 2026-09-11 |  |
 | [Seoulful](https://open.spotify.com/track/4oo7hOz1c8gku4sfGT9jFA) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Seoulful](https://open.spotify.com/album/2CvRi7lOeqiqS1ps3HOfIi) | 2:34 | 2024-07-04 | 2024-09-17 |
 | [September \- Skate Session](https://open.spotify.com/track/5x3aqT4bdq4Qmp6w6W43dt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [September \- Skate Session](https://open.spotify.com/album/0qMz1CaHcGjEYR5xe42Bx4) | 2:27 | 2019-09-27 | 2019-12-20 |
 | [Serenade](https://open.spotify.com/track/1rXS2A2Nyqdv9IBRf99Zrr) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Serenade](https://open.spotify.com/album/1h8OC7LO2NsUxNPYQACMV3) | 3:49 | 2019-05-26\* | 2019-09-06 |
