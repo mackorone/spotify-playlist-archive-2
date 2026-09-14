@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3304,
+  "num_followers": 3305,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAABmw4OTJxl6hko7lVXfyo88",
+  "snapshot_id": "aqSWAAAAAADwNlEJRbnmdC/Tr2TiIQsH",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
+      "duration_ms": 200960,
+      "name": "Slits Tradition",
+      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Slits Tradition",
-      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: JIHYO, Shenseea)",
-  "num_followers": 505941,
+  "num_followers": 505927,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-09-03 06:39:16",
       "album": {
+        "name": "Home [The Seasons : Sung Si-kyung's Ear Candy]",
+        "url": "https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb"
+    },
+    {
+      "added_at": "2026-09-03 06:39:16",
+      "album": {
         "name": "Neva Play (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 157173,
       "name": "Neva Play (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
-    },
-    {
-      "added_at": "2026-09-03 06:39:16",
-      "album": {
-        "name": "Home [The Seasons : Sung Si-kyung's Ear Candy]",
-        "url": "https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb"
     },
     {
       "added_at": "2026-09-03 06:39:16",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-09-03 06:39:16",
       "album": {
-        "name": "CRYSALIS (CODA)",
-        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        },
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Hvnly (feat. JIHYO)",
-      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
-    },
-    {
-      "added_at": "2026-09-03 06:39:16",
-      "album": {
         "name": "Standing Next to You (USHER Remix)",
         "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 214760,
       "name": "Standing Next to You - USHER Remix",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+    },
+    {
+      "added_at": "2026-09-03 06:39:16",
+      "album": {
+        "name": "CRYSALIS (CODA)",
+        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Hvnly (feat. JIHYO)",
+      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
     },
     {
       "added_at": "2026-09-03 06:39:16",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1090314,
+  "num_followers": 1090152,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Enemigos (Remix)",
         "url": "https://open.spotify.com/album/4DbiFoWTZRYC2OsT8cc0Ok"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 197110,
       "name": "Enemigos - Remix",
       "url": "https://open.spotify.com/track/5To8zOSSRWW5HBvBKB2fz6"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -919,6 +919,26 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 157078,
+      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Hasta La Luna (feat. Meri Deal, Marama) [Remix]",
         "url": "https://open.spotify.com/album/5GRyz97ijU9BAWfueLY8MU"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 157520,
       "name": "Hasta La Luna (feat. Meri Deal, Marama) - Remix",
       "url": "https://open.spotify.com/track/4HnFARgZZdzuXSWLhfoRp1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 157078,
-      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Sin Querer",
-        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 141071,
-      "name": "Sin Querer",
-      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Sin Querer",
+        "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 141071,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Notitas Tristes",
         "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 136555,
       "name": "Notitas Tristes",
       "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "No Fue Culpa Tuya",
-        "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "No Fue Culpa Tuya",
-      "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "\u00daltima Noche",
         "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 166153,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "No Fue Culpa Tuya",
+        "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "No Fue Culpa Tuya",
+      "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1927,6 +1927,34 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Cumbia ( Priti / No Tiene Sentido / Baile Inolvidable )",
         "url": "https://open.spotify.com/album/61ONHNVADNB9SQ7pMp0o6m"
       },
@@ -1959,34 +1987,6 @@
       "duration_ms": 141978,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Te Regalo Amores",
+        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 182616,
+      "name": "Te Regalo Amores",
+      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -2051,26 +2071,6 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Te Regalo Amores",
-        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 182616,
-      "name": "Te Regalo Amores",
-      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
     },
     {
       "added_at": "2026-06-19 03:00:25",

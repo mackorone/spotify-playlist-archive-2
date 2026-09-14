@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35398,
+  "num_followers": 35399,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAADgNjBDcvRJk7xbVh42d5NY",
+  "snapshot_id": "aqSWAAAAAADAVMPBIC75v0p6NhwukBRb",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enche Minha Bunda De Tapa",
-        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
-      },
-      "artists": [
-        {
-          "name": "DJ Guina",
-          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Enche Minha Bunda De Tapa",
-      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enche Minha Bunda De Tapa",
+        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
+      },
+      "artists": [
+        {
+          "name": "DJ Guina",
+          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Enche Minha Bunda De Tapa",
+      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
+      },
+      "artists": [
+        {
+          "name": "Tutu No Beat",
+          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
+        },
+        {
+          "name": "AKAZIN PLAYLOKA",
+          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
+        },
+        {
+          "name": "Eo Renanzinho",
+          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
+        },
+        {
+          "name": "Encontro de MC's",
+          "url": "https://open.spotify.com/artist/1cSQttVoS2X21VSZyVvnhW"
+        },
+        {
+          "name": "BEBEL",
+          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
+        },
+        {
+          "name": "LUKINHAS POSTURADO",
+          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -1071,46 +1111,6 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
-      },
-      "artists": [
-        {
-          "name": "Tutu No Beat",
-          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
-        },
-        {
-          "name": "AKAZIN PLAYLOKA",
-          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
-        },
-        {
-          "name": "Eo Renanzinho",
-          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
-        },
-        {
-          "name": "Encontro de MC's",
-          "url": "https://open.spotify.com/artist/1cSQttVoS2X21VSZyVvnhW"
-        },
-        {
-          "name": "BEBEL",
-          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
-        },
-        {
-          "name": "LUKINHAS POSTURADO",
-          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
     },
     {
       "added_at": null,
@@ -1343,6 +1343,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mixtape Cult, Vol. 2: O Undr",
+        "url": "https://open.spotify.com/album/14E4XfxJN8SU4UOXKoyh8w"
+      },
+      "artists": [
+        {
+          "name": "GP DA ZL",
+          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Decupagem em L\u00e1 Menor",
+      "url": "https://open.spotify.com/track/1Dpkx5H5PPbNkJrQqXHU5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira",
       "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixtape Cult, Vol. 2: O Undr",
-        "url": "https://open.spotify.com/album/14E4XfxJN8SU4UOXKoyh8w"
-      },
-      "artists": [
-        {
-          "name": "GP DA ZL",
-          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Decupagem em L\u00e1 Menor",
-      "url": "https://open.spotify.com/track/1Dpkx5H5PPbNkJrQqXHU5Y"
     },
     {
       "added_at": null,

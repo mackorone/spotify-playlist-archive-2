@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 363401,
+  "num_followers": 363596,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Asleep On The Wing",
+        "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Freya Goldmark",
+          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Asleep On The Wing - Pt. 4",
+      "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "II Reworked",
         "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 254634,
       "name": "Spun - Kjartan Holm & Sin Fang Rework",
       "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Asleep On The Wing",
-        "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Freya Goldmark",
-          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Asleep On The Wing - Pt. 4",
-      "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1083,26 +1083,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "For One Another",
-        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
       "artists": [
         {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        },
-        {
-          "name": "Harbors",
-          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
         }
       ],
-      "duration_ms": 230173,
-      "name": "For One Another",
-      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1123,18 +1115,26 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+        "name": "For One Another",
+        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
       "artists": [
         {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
         }
       ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+      "duration_ms": 230173,
+      "name": "For One Another",
+      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "The Beautiful World",
-        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "now i know what i mean",
         "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "The Beautiful World",
+        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         }
       ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+      "duration_ms": 178858,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1339,6 +1323,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Common",
-        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
         }
       ],
-      "duration_ms": 155186,
-      "name": "Common",
-      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Common",
+      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Too Much Love",
         "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "CROW! (after the snowfall)",
         "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 176000,
       "name": "antihistamine. - instrumental",
       "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2026-08-18 13:05:46",

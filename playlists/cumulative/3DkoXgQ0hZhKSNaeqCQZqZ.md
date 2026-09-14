@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-593 songs - 1 day 7 hr 33 min
+595 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [adhd music for FURRIES!!!](https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd music for FURRIES!!!](https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf) | 3:12 | 2023-11-24 | 2025-02-06 |
 | [AFTERSOME](https://open.spotify.com/track/0bZ1ftFjPoIXEBBh1vQ6vS) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5), [Aran P\. Ink](https://open.spotify.com/artist/3zsgnxXynW9dg2wXNl7JbV) | [log off and go outside!!](https://open.spotify.com/album/6jA8zF4ert7R9NJroj8CNc) | 3:18 | 2024-11-18 | 2025-08-13 |
 | [AINT NO WAY](https://open.spotify.com/track/6rGEiDnYA2qdEtp3Qc6Tp7) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [AINT NO WAY](https://open.spotify.com/album/7DgbPxu7iyGy7xOk9P81M6) | 3:43 | 2025-10-29 |  |
+| [AIRPLANE DRAGONS \- flipnote version](https://open.spotify.com/track/04m91Hv55D7E0DY8l2T3fN) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [AIRPLANE DRAGONS](https://open.spotify.com/album/7q8TFgYGUEI9SDCXIgvsTE) | 3:15 | 2026-09-13 |  |
 | [Airsdance](https://open.spotify.com/track/3RZDuMFtspQGtUfi1HgpxT) | [Them Airs](https://open.spotify.com/artist/5YKfdY0mylaZ2AIMeYJPy4) | [Viper Island](https://open.spotify.com/album/5cJwdErCShhPQd9JZooQM4) | 2:11 | 2024-08-15 |  |
 | [AL DENTE](https://open.spotify.com/track/2GnbgDahXJ8xe1YmV8f4oR) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [AL DENTE](https://open.spotify.com/album/1TVOQaaQiMJE9wVMWuvHxk) | 3:02 | 2026-06-30 |  |
 | [ALL BITE NO BARK!](https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Dea\_Pressed](https://open.spotify.com/artist/5ANlNfJIQ5OV4MZqe1WTFt) | [ALL BITE NO BARK!](https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats) | 1:39 | 2025-06-16 |  |
@@ -168,6 +169,7 @@
 | [Enough](https://open.spotify.com/track/3AuyWBT0bkOuD1YFXySUi3) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Enough](https://open.spotify.com/album/6RQs4kCyXo5B4SoFiYIEiq) | 4:13 | 2023-06-14 | 2026-03-01 |
 | [EVERY SECOND COUNTS](https://open.spotify.com/track/37efM38CJZTstn8l7ZrufL) | [flatroom !!](https://open.spotify.com/artist/3oeqmvHqZaCf0gdCK0Eo4C) | [EVERY SECOND COUNTS](https://open.spotify.com/album/5tK1KX4H4QicRcrlKgSm72) | 4:22 | 2026-06-30 |  |
 | [Everything Stays](https://open.spotify.com/track/6YwumfxAPcsXIAbx6DVimv) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:27 | 2023-12-19 |  |
+| [everything tonight](https://open.spotify.com/track/3TOvGHN3gxa4LlwI529y4U) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 3:00 | 2026-09-13 |  |
 | [EVIL MUSIC for BAD DOGS \- Dr\. Deimos Remix](https://open.spotify.com/track/4L6UaNSTzlOY5YduNB1OfK) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Dr\. Deimos](https://open.spotify.com/artist/6JTeYzGkuw146EOBkfOuJS) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:42 | 2026-05-05 | 2026-05-18 |
 | [EVIL MUSIC for BAD DOGS \- telemist Remix](https://open.spotify.com/track/3vOMzBTbgkhZxKxcrwWUH1) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Telemist](https://open.spotify.com/artist/300PBQVhN5GJZJjdS20bzO) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:22 | 2026-05-05 | 2026-05-18 |
 | [EVIL MUSIC for BAD DOGS \- Wyntr\. Remix](https://open.spotify.com/track/5pM1CrfFs36Yfk6bOmSfeO) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Wyntr.](https://open.spotify.com/artist/0KewIgBlbp2Jy5exPqyyvM) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:08 | 2026-05-05 | 2026-05-18 |
@@ -408,7 +410,7 @@
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
 | [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 | 2026-06-06 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
-| [post con obsession](https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 2:05 | 2026-09-06 |  |
+| [post con obsession](https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 2:05 | 2026-09-06 | 2026-09-14 |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
 | [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 | 2025-11-01 |  |
 | [PROJECTILE LAUNCH](https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat) | [Mors\_Music](https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap) | [PROJECTILE LAUNCH](https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ) | 1:43 | 2026-02-06 |  |

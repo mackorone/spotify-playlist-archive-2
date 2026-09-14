@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 43944,
+  "num_followers": 43947,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 261517,
+      "name": "Uncasually",
+      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "I\u2019m your girl right? (Fcukers Remix)",
         "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "Distance in Static",
-        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 261517,
-      "name": "Uncasually",
-      "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "All In For You (feat. KU\u010cKA)",
         "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
       },
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 230347,
       "name": "One More Dance",
       "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "Sick Of Love (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 334078,
       "name": "Sick Of Love - Mura Masa Remix",
       "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -887,22 +887,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         },
         {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 176698,
       "name": "Forever Now",
       "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
-        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
-        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
+        "name": "Tiger J",
+        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 109461,
-      "name": "LONGING",
-      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
+      "duration_ms": 142374,
+      "name": "Tiger J",
+      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 109461,
+      "name": "LONGING",
+      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "Last October",
         "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 188452,
       "name": "Last October",
       "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "Tiger J",
-        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 142374,
-      "name": "Tiger J",
-      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "When the Magic Comes",
         "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 210168,
       "name": "When the Magic Comes",
       "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 151763,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
     },
     {
       "added_at": "2026-09-10 23:00:27",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-09-10 23:00:27",
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 151763,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-09-10 23:00:27",
+      "album": {
         "name": "hav u a sec",
         "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 298132,
       "name": "hav u a sec",
       "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
-    },
-    {
-      "added_at": "2026-09-10 23:00:27",
-      "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-09-10 23:00:27",

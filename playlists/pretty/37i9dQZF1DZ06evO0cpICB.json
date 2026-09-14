@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17994,
+  "num_followers": 18004,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAAcIwTQkTfMEjG1Gnpqyzkd",
+  "snapshot_id": "aqSWAAAAAABC+SCqrTDP64cWJtRwaxlQ",
   "tracks": [
     {
       "added_at": null,
@@ -230,11 +230,15 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 201722,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/7cjUFCh2aWX9E9bXig3nV7"
+      "duration_ms": 188348,
+      "name": "In My Bag (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
       "added_at": null,
@@ -294,15 +298,11 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 188348,
-      "name": "In My Bag (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+      "duration_ms": 201722,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7cjUFCh2aWX9E9bXig3nV7"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Touch\u00e9",
-      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
     },
     {
       "added_at": null,

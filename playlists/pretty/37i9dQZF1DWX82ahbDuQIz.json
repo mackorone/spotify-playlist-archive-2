@@ -1,6 +1,6 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: EVITA",
-  "num_followers": 584660,
+  "num_followers": 584671,
   "original_name": "Broadway Hits",
   "owner": {
     "name": "Spotify",
@@ -47,8 +47,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Defying Gravity: Songs from Wicked",
-        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY"
       },
       "artists": [
         {
@@ -69,8 +69,8 @@
         }
       ],
       "duration_ms": 353920,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/1fsBDvL77kDOixZ8Lw9cjZ"
+      "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -95,22 +95,18 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Remembering Tim Curry",
-        "url": "https://open.spotify.com/album/7dtvCpu5syxuPqiX5u88Ah"
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
       "artists": [
         {
           "name": "Tim Curry",
           "url": "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
-        },
-        {
-          "name": "The Rocky Horror Picture Show",
-          "url": "https://open.spotify.com/artist/76bQhD0x4b8VlS0gLG016G"
         }
       ],
       "duration_ms": 204370,
-      "name": "Sweet Transvestite - The Rocky Horror Picture Show",
-      "url": "https://open.spotify.com/track/2HURD5M1WIzxpTBbugyCHS"
+      "name": "Sweet Transvestite",
+      "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -675,8 +671,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Little Shop of Horrors (The New Cast Album)",
-        "url": "https://open.spotify.com/album/0v8V3y9zW14NRDTXs0Rt9S"
+        "name": "Little Shop of Horrors (The New Off-Broadway Cast Album)",
+        "url": "https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0"
       },
       "artists": [
         {
@@ -694,7 +690,7 @@
       ],
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
-      "url": "https://open.spotify.com/track/2AODWpK0rauqqL1gHfq2Zy"
+      "url": "https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -816,17 +812,29 @@
       "added_at": "2026-08-28 13:54:54",
       "album": {
         "name": "Les Mis\u00e9rables (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD"
+        "url": "https://open.spotify.com/album/0pL8NPcLbZ9KLuEiQ56mP3"
       },
       "artists": [
         {
+          "name": "Alain Boublil",
+          "url": "https://open.spotify.com/artist/3PiysKxa7JG6vFGAIk4khP"
+        },
+        {
+          "name": "Claude-Michel Sch\u00f6nberg",
+          "url": "https://open.spotify.com/artist/2OqTX6uyzll0y3ydeccZGR"
+        },
+        {
           "name": "Randy Graff",
           "url": "https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz"
+        },
+        {
+          "name": "Robert Billig",
+          "url": "https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p"
         }
       ],
       "duration_ms": 254160,
       "name": "I Dreamed A Dream",
-      "url": "https://open.spotify.com/track/0c5Y1J8ihMN8vvQ3bsoxlZ"
+      "url": "https://open.spotify.com/track/3eX980bRAfdLeSdxg0Ex3w"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -851,8 +859,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "The Book Of Mormon (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI"
+        "name": "The Book of Mormon",
+        "url": "https://open.spotify.com/album/5hk2UWDW3bm8tOmTLFeVMI"
       },
       "artists": [
         {
@@ -861,48 +869,48 @@
         },
         {
           "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/3JzGBxl3Es2esakXzcIgre"
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
         },
         {
           "name": "Rory O'Malley",
-          "url": "https://open.spotify.com/artist/3DvBdTdxzVtwQGY7IZTyvE"
-        },
-        {
-          "name": "Kevin Duda",
-          "url": "https://open.spotify.com/artist/5oqdjNuVZvyprDl56zhQnd"
-        },
-        {
-          "name": "Clark Johnsen",
-          "url": "https://open.spotify.com/artist/3ipd8nun05nkBToP5CjVHg"
-        },
-        {
-          "name": "Justin Bohon",
-          "url": "https://open.spotify.com/artist/4cI6V9bpNAORC3HFI0g2lQ"
-        },
-        {
-          "name": "Brian Sears",
-          "url": "https://open.spotify.com/artist/7rzCmTlsErSE6pVWeGRmhh"
+          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
         },
         {
           "name": "Scott Barnhardt",
-          "url": "https://open.spotify.com/artist/0dkGWfQ3rOJjx6udgfHZL5"
+          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
+        },
+        {
+          "name": "Justin Bohon",
+          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
+        },
+        {
+          "name": "Kevin Duda",
+          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
+        },
+        {
+          "name": "Clark Johnson",
+          "url": "https://open.spotify.com/artist/55592WuUTOVHvaPgjKpSZv"
         },
         {
           "name": "Benjamin Schrader",
-          "url": "https://open.spotify.com/artist/7uaRq4n32htpYq2fe7Uduw"
+          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
         },
         {
-          "name": "Lewis Cleale",
-          "url": "https://open.spotify.com/artist/2PFf6gKpBf2mMnxqKz6YRA"
+          "name": "Brian Sears",
+          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
         },
         {
           "name": "Jason Michael Snow",
-          "url": "https://open.spotify.com/artist/0xYYMypmsbvrRolxW1OyeL"
+          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
+        },
+        {
+          "name": "Lewis Cleale",
+          "url": "https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW"
         }
       ],
       "duration_ms": 172026,
       "name": "Hello!",
-      "url": "https://open.spotify.com/track/08hlFtp8y9S6YZmjBNvQ1I"
+      "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1071,10 +1079,14 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "The Phantom of the Opera",
-        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+        "name": "The Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6"
       },
       "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
         {
           "name": "Phantom Of The Opera Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
@@ -1086,31 +1098,27 @@
         {
           "name": "Sarah Brightman",
           "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
-        },
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         }
       ],
-      "duration_ms": 254440,
-      "name": "All I Ask of You",
-      "url": "https://open.spotify.com/track/7uq8865MVnUPMFJ8dLnedm"
+      "duration_ms": 254666,
+      "name": "All I Ask Of You",
+      "url": "https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi"
     },
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Les Mis\u00e9rables (Original 1985 London Cast Recording)",
-        "url": "https://open.spotify.com/album/6czYnhVAHQF0UiAilCvFMP"
+        "name": "Les Mis\u00e9rables (Original London Cast Recording Highlights)",
+        "url": "https://open.spotify.com/album/2ZzdjfCbJNpWVKlW0NZS5O"
       },
       "artists": [
         {
-          "name": "\"Les Mis\u00e9rables Original London Cast\" Ensemble",
-          "url": "https://open.spotify.com/artist/4nciyIOnej3po7gqTN0fr1"
+          "name": "Les Mis\u00e9rables-Original London Cast",
+          "url": "https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh"
         }
       ],
-      "duration_ms": 216133,
+      "duration_ms": 216573,
       "name": "One Day More",
-      "url": "https://open.spotify.com/track/6cdcZzuQzUhspZo2aJfKaH"
+      "url": "https://open.spotify.com/track/5kXbjaPptGdfQmMfeJCXlS"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1292,7 +1300,7 @@
       "added_at": "2026-08-28 13:54:54",
       "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
+        "url": "https://open.spotify.com/album/4wzRScAgwPd1iQh3HIegFs"
       },
       "artists": [
         {
@@ -1302,7 +1310,7 @@
       ],
       "duration_ms": 140653,
       "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
-      "url": "https://open.spotify.com/track/4e51xdDLaQW08LHNhdkwl9"
+      "url": "https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1323,26 +1331,18 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "A Chorus Line - 40th Anniversary Celebration (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0mC8o2B80XRt0nUgTWZ3zu"
+        "name": "A Chorus Line (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2WFqKARZjG0ybZfzLRKFCe"
       },
       "artists": [
         {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
-        },
-        {
           "name": "Priscilla Lopez",
           "url": "https://open.spotify.com/artist/6CUIkKr2kYg6rvDK3DxWXV"
-        },
-        {
-          "name": "Don Pippin",
-          "url": "https://open.spotify.com/artist/5fVJ5nk8d5S5ZzcxQbCQGO"
         }
       ],
-      "duration_ms": 259957,
+      "duration_ms": 257666,
       "name": "Nothing",
-      "url": "https://open.spotify.com/track/3kew6CYvA9xeUwwYFMdAY8"
+      "url": "https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+        "name": "Kaleidoscope (From The New Broadway Musical \"Hell's Kitchen\")",
+        "url": "https://open.spotify.com/album/7Iz0qxLz7jZQtheqNAoTdT"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
         }
       ],
-      "duration_ms": 240449,
-      "name": "Kaleidoscope - From the New Broadway Musical \u201cHell\u2019s Kitchen\u201d",
-      "url": "https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8"
+      "duration_ms": 240718,
+      "name": "Kaleidoscope (From The New Broadway Musical \"Hell's Kitchen\")",
+      "url": "https://open.spotify.com/track/38cNzK5FF00eKO534hSRHu"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1567,30 +1567,18 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Highlights From Miss Saigon",
-        "url": "https://open.spotify.com/album/2n0cideUzwmcCL7AeNa6Ub"
+        "name": "Miss Saigon",
+        "url": "https://open.spotify.com/album/1k8Tj7gO931OlzYe5EQzjO"
       },
       "artists": [
         {
-          "name": "Claude-Michel Sch\u00f6nberg",
-          "url": "https://open.spotify.com/artist/2OqTX6uyzll0y3ydeccZGR"
-        },
-        {
-          "name": "Alain Boublil",
-          "url": "https://open.spotify.com/artist/3PiysKxa7JG6vFGAIk4khP"
-        },
-        {
-          "name": "Richard Maltby Jr.",
-          "url": "https://open.spotify.com/artist/4QxnDmIVTGwRwctF7ea1Ee"
-        },
-        {
           "name": "Jonathan Pryce",
-          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
+          "url": "https://open.spotify.com/artist/6VbOMhVhn2spGcedn91mEA"
         }
       ],
-      "duration_ms": 364133,
-      "name": "The American Dream - Original London Cast Recording/1989",
-      "url": "https://open.spotify.com/track/4KhKAbwVPgizloys4wDada"
+      "duration_ms": 363293,
+      "name": "The American Dream",
+      "url": "https://open.spotify.com/track/2P2jms3uC1jfg42WY5oFIY"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1632,7 +1620,7 @@
       "added_at": "2026-08-28 13:54:54",
       "album": {
         "name": "Jersey Boys Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX"
+        "url": "https://open.spotify.com/album/78f7jonRvAm8QNYZaK9UAe"
       },
       "artists": [
         {
@@ -1642,7 +1630,7 @@
       ],
       "duration_ms": 134506,
       "name": "Sherry",
-      "url": "https://open.spotify.com/track/11r0OH8zYLcBlryvnAiykT"
+      "url": "https://open.spotify.com/track/08AqNLS5haUpTSacAbMHA0"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1699,8 +1687,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Newsies (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+        "name": "Newsies (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/6M45nH4iBkTxAVMzR3YGOk"
       },
       "artists": [
         {
@@ -1708,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         }
       ],
-      "duration_ms": 192148,
+      "duration_ms": 192146,
       "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm"
+      "url": "https://open.spotify.com/track/5fTikjXnFxv1CU6AiEPBLB"
     },
     {
       "added_at": "2026-08-28 13:54:54",
@@ -1835,8 +1823,8 @@
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Mamma Mia!",
-        "url": "https://open.spotify.com/album/6LFLGHU6Rw2sAMrjax6f5t"
+        "name": "Mamma Mia (1999 / Musical \"Mamma Mia\")",
+        "url": "https://open.spotify.com/album/56540bkalAokULTM0sohJ0"
       },
       "artists": [
         {
@@ -1844,12 +1832,12 @@
           "url": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
         },
         {
-          "name": "Bj\u00f6rn Ulvaeus",
-          "url": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
-        },
-        {
           "name": "Stig Anderson",
           "url": "https://open.spotify.com/artist/1CDtTrMhug34Bq6GQHIfhe"
+        },
+        {
+          "name": "Bj\u00f6rn Ulvaeus",
+          "url": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
         },
         {
           "name": "Siobhan McCarthy",
@@ -1869,14 +1857,14 @@
         }
       ],
       "duration_ms": 201066,
-      "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
-      "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
+      "name": "Mamma Mia - 1999 / Musical \"Mamma Mia\"",
+      "url": "https://open.spotify.com/track/2lz5PVnaX6vNVTe4fvfsLK"
     },
     {
       "added_at": "2026-08-28 13:54:54",
       "album": {
-        "name": "Cats (Original London Cast Recording)",
-        "url": "https://open.spotify.com/album/6UXNWj0fnzaRt9TQ7UhVGR"
+        "name": "Cats (Original 1981 London Cast)",
+        "url": "https://open.spotify.com/album/5AyRxc2YXLMjJoG23TPKTE"
       },
       "artists": [
         {
@@ -1886,15 +1874,11 @@
         {
           "name": "\"Cats\" 1981 Original London Cast",
           "url": "https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD"
-        },
-        {
-          "name": "Elaine Paige",
-          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
         }
       ],
       "duration_ms": 83520,
-      "name": "End of Act 1: Memory",
-      "url": "https://open.spotify.com/track/1GD7e0Itp7qe3yAh375fxi"
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED"
     },
     {
       "added_at": "2026-08-28 13:54:54",

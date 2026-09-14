@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Rough Guide to Blues Divas",
+        "url": "https://open.spotify.com/album/3xqsR65iySigi4LIlOkrSn"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Black Eye Blues",
+      "url": "https://open.spotify.com/track/0THFb4P7QB7AJucU1Ax29t"
+    },
+    {
+      "album": {
         "name": "Bottleneck Guitar 1928-1937",
         "url": "https://open.spotify.com/album/71AZKu3qlgdA5N1hKqhkkd"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "Blues Oh Blues",
       "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
@@ -3491,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159568,
+      "name": "Mountain Jack Blues",
+      "url": "https://open.spotify.com/track/0DezX56UUPasbOBZdMJGMV"
+    },
+    {
+      "album": {
         "name": "Blues Legends pres. Ma Rainey",
         "url": "https://open.spotify.com/album/2j29jiEewlqCSyZ5EHuUPG"
       },
@@ -4496,7 +4532,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 192660,
       "name": "Sleep Talking Blues",
       "url": "https://open.spotify.com/track/0mMzZx9sJHRWDdX3rmhwun"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 185481,
       "name": "Those Dogs Of Mine",
       "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"

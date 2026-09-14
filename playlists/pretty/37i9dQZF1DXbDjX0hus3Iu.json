@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 541225,
+  "num_followers": 541238,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Grey Ghost",
+        "url": "https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M"
+      },
+      "artists": [
+        {
+          "name": "Henry Paul Band",
+          "url": "https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s"
+        }
+      ],
+      "duration_ms": 411720,
+      "name": "Grey Ghost",
+      "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Brickyard Road",
         "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 165320,
       "name": "Takin' Up Space",
       "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Grey Ghost",
-        "url": "https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M"
-      },
-      "artists": [
-        {
-          "name": "Henry Paul Band",
-          "url": "https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s"
-        }
-      ],
-      "duration_ms": 411720,
-      "name": "Grey Ghost",
-      "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
     },
     {
       "added_at": "2025-06-20 04:06:02",

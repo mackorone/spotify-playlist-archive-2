@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407042,
+  "num_followers": 407051,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -815,54 +815,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 300246,
-      "name": "Way Down Hadestown",
-      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Eva Noblezada",
-          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
-        },
-        {
-          "name": "Reeve Carney",
-          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        }
-      ],
-      "duration_ms": 243331,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -899,6 +851,54 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Eva Noblezada",
+          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
+        },
+        {
+          "name": "Reeve Carney",
+          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        }
+      ],
+      "duration_ms": 243331,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 300246,
+      "name": "Way Down Hadestown",
+      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
     },
     {
       "added_at": "2026-07-29 10:41:14",

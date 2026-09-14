@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1563694,
+  "num_followers": 1563815,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Gathering Of Gods",
-        "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Gathering Of Gods",
-      "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
         "name": "FCK DAT!",
         "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 167378,
       "name": "FCK DAT!",
       "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
+        "name": "Gathering Of Gods",
+        "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 128914,
+      "name": "Gathering Of Gods",
+      "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "Coco Jamboo",
         "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 124012,
       "name": "Coco Jamboo",
       "url": "https://open.spotify.com/track/5N4alh9Kc98YbEyX1yYOFb"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
-      },
-      "artists": [
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
@@ -1423,30 +1447,6 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
-        "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Leila K",
-          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
-      "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
       },
       "artists": [
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
         }
       ],
-      "duration_ms": 183483,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
       },
       "artists": [
         {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         }
       ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+      "duration_ms": 183483,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
+        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 193889,
+      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
+      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "PULL THE TRIGGER",
         "url": "https://open.spotify.com/album/3Tbwxw3wJTu1z2i5OjpZL8"
       },
@@ -2123,18 +2139,18 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
-        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+        "name": "Activation",
+        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
       },
       "artists": [
         {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
         }
       ],
-      "duration_ms": 193889,
-      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
-      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
+      "duration_ms": 175874,
+      "name": "Activation",
+      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Activation",
-        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Activation",
-      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE"
       },
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "Rachel's Song",
         "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 206000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
         "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
       },
@@ -2587,34 +2603,26 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+        "name": "Big City Life (BassWar & CaoX Remix)",
+        "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z"
-      },
-      "artists": [
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
         {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
         }
       ],
-      "duration_ms": 152293,
-      "name": "When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
+      "duration_ms": 211764,
+      "name": "Big City Life - BassWar & CaoX Remix",
+      "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2659,30 +2667,6 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Big City Life (BassWar & CaoX Remix)",
-        "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
-      },
-      "artists": [
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
-        },
-        {
-          "name": "BassWar & CaoX",
-          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Big City Life - BassWar & CaoX Remix",
-      "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
         "name": "Nobody Likes",
         "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
       },
@@ -2699,18 +2683,18 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
+        "name": "When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z"
       },
       "artists": [
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
         }
       ],
-      "duration_ms": 217532,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
+      "duration_ms": 152293,
+      "name": "When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2731,6 +2715,22 @@
       "duration_ms": 156003,
       "name": "Check This Out",
       "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 217532,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "Trippin On That Oldschool",
-        "url": "https://open.spotify.com/album/5WSyjOS03EQ6pKQhwHHyt0"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 186580,
-      "name": "Trippin On That Oldschool",
-      "url": "https://open.spotify.com/track/4W45bv2xeIItYBR8bnPq50"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
         "name": "Up, Down, Left, Right",
         "url": "https://open.spotify.com/album/35vXtZNrFjgaoxmPYE9bLf"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 144750,
       "name": "Up, Down, Left, Right",
       "url": "https://open.spotify.com/track/2fUWH5VjaLgfi6yAPtpKO7"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
+        "name": "Trippin On That Oldschool",
+        "url": "https://open.spotify.com/album/5WSyjOS03EQ6pKQhwHHyt0"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 186580,
+      "name": "Trippin On That Oldschool",
+      "url": "https://open.spotify.com/track/4W45bv2xeIItYBR8bnPq50"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2919,6 +2919,22 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2935,22 +2951,6 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-09-08 12:00:08",
@@ -2995,26 +2995,6 @@
     {
       "added_at": "2026-09-08 12:00:08",
       "album": {
-        "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
-        "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        },
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
-      "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
-    },
-    {
-      "added_at": "2026-09-08 12:00:08",
-      "album": {
         "name": "The Reason (ft. Hoobastank)",
         "url": "https://open.spotify.com/album/2WiogSZ691TUvGzvdA4HIh"
       },
@@ -3035,6 +3015,26 @@
       "duration_ms": 212624,
       "name": "The Reason (ft. Hoobastank)",
       "url": "https://open.spotify.com/track/2yI1CeXZIykYPrFLsUj4p8"
+    },
+    {
+      "added_at": "2026-09-08 12:00:08",
+      "album": {
+        "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
+        "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
+      "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
     }
   ],
   "unique_name": "Hardstyle Bangers",

@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
-  "num_followers": 89627,
+  "num_followers": 89626,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Le c\u0153ur \u00e0 la bonne place",
         "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "GAMAN",
         "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
       },
       "artists": [
         {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
         }
       ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "Au final",
-        "url": "https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Martin",
-          "url": "https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s"
-        },
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        }
-      ],
-      "duration_ms": 195807,
-      "name": "Au final",
-      "url": "https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1347,6 +1327,42 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "BORA BORA",
+        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "BORA BORA",
+      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "Au final",
+        "url": "https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Martin",
+          "url": "https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s"
+        },
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "duration_ms": 195807,
+      "name": "Au final",
+      "url": "https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1379,26 +1395,6 @@
       "duration_ms": 153203,
       "name": "Vraiment",
       "url": "https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
-      },
-      "artists": [
-        {
-          "name": "Ultra Stellaire",
-          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
-        },
-        {
-          "name": "Chil-p",
-          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "AMBITION",
-      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
     },
     {
       "added_at": "2026-09-11 04:03:06",

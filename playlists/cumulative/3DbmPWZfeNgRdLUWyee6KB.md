@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,492 songs - 3 day 15 hr 0 min
+1,494 songs - 3 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -963,6 +963,7 @@
 | [Pasiphae](https://open.spotify.com/track/19ItelHHgfMVGZLDBj8sAo) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 4:37 | 2023-04-20 | 2025-11-29 |
 | [Passagem](https://open.spotify.com/track/0n56biI1rHRnpgdcl9QvVl) | [Manu Beltrão](https://open.spotify.com/artist/1mNlAKhN6yiWfoQjMXQLeB) | [Passagem](https://open.spotify.com/album/7iP9xLF6g1cHe32N9Kne5G) | 2:41 | 2026-08-03 | 2026-08-30 |
 | [Peace Anthem](https://open.spotify.com/track/4WUfp4Fo6Rd6O9RnAd5zFd) | [Diana Vibes Earth](https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49) | [Peace Anthem](https://open.spotify.com/album/6WEjep4YsM4MycixUtKxK9) | 1:41 | 2026-07-13 | 2026-08-10 |
+| [Penelope's Odyssey](https://open.spotify.com/track/3rWODST9yrefN5hexBeTmL) | [Freddy Zucchet](https://open.spotify.com/artist/6gTBRfFjIuOf3edwOrUl4m) | [Penelope's Odyssey](https://open.spotify.com/album/44P6xiwBVaBlvEfgvEJAPz) | 2:39 | 2026-09-13 |  |
 | [Pensasonic](https://open.spotify.com/track/4f55YvvlLnQqlh9Wy2caKD) | [Roberto Pentassuglia Trio](https://open.spotify.com/artist/6TqQjhedE17EOrfK2RvEE0) | [Pensasonic](https://open.spotify.com/album/7zRbPMt9pErtwQTqeHEvc5) | 2:48 | 2023-04-20 | 2025-11-29 |
 | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/track/0GZs32uL7rWpDLqJApdzKv) | [Xlofono](https://open.spotify.com/artist/5P29J1CH2yBHIVleAbVtwb) | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/album/0GSsv7hJyp5k8cKacEPN1e) | 3:38 | 2025-12-20 | 2026-01-15 |
 | [Per Sempre Noi](https://open.spotify.com/track/02AlhDZDgOq5mR9Uqdpw9A) | [RYCKI](https://open.spotify.com/artist/5tlokK5dnH5D4qunFcA6ZE) | [Per Sempre Noi](https://open.spotify.com/album/6DaxUZvE65MuDKgQq4NUCP) | 2:55 | 2026-04-23 | 2026-06-05 |
@@ -1054,6 +1055,7 @@
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 | 2026-03-15 |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |
 | [Rooh Ka Sakoon](https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN) | [Temur Roy](https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR) | [Ishq Aur Rooh](https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV) | 4:19 | 2026-08-30 |  |
+| [Room Still Sways](https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I) | [Terry Kingsley](https://open.spotify.com/artist/2jeaDjgdXnEnbLYgwbzTFb) | [Room Still Sways](https://open.spotify.com/album/4hUdcExkmDYYVKnu6naqhx) | 3:42 | 2026-09-13 |  |
 | [Rugido na Estrada](https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Rugido na Estrada](https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm) | 2:54 | 2026-01-26 | 2026-02-28 |
 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 | 2026-03-31 | 2026-05-03 |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 | 2026-01-15 |

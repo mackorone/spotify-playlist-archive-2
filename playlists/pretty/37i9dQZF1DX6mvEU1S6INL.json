@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142057,
+  "num_followers": 1142047,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
       },
@@ -1531,6 +1547,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/4PAyBqzCYoIIjjPFszeqgT"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
       },
@@ -1543,38 +1575,6 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Guru",
-        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
     },
     {
       "added_at": "2026-02-18 18:45:42",

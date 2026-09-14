@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: FILOU, LeDji
 
-1,334 songs - 2 day 17 hr 25 min
+1,335 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Allumette](https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Allumette](https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA) | 4:39 | 2022-11-25 | 2023-04-01 |
 | [Aléatoire](https://open.spotify.com/track/4WnPcLYxgBuJvDUnYKFC5K) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Back 2 Back](https://open.spotify.com/album/3wpjTc9qVKp3m9BOn9Pc0A) | 2:42 | 2022-03-11 | 2022-05-20 |
 | [Amadit](https://open.spotify.com/track/2imjGDOWOqQWIp2qNfnyUR) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 3:45 | 2023-11-03 | 2023-11-13 |
-| [AMBITION](https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [Chil\-p](https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK) | [AMBITION](https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3) | 2:42 | 2026-07-24 |  |
+| [AMBITION](https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [Chil\-p](https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK) | [AMBITION](https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3) | 2:42 | 2026-07-24 | 2026-09-14 |
 | [Ambroisie](https://open.spotify.com/track/6eEMNcKE7EscKTjtJIqGUd) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [GrandBazaar](https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw) | [GrandBazaar \(03\)](https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay) | 3:00 | 2026-02-13 | 2026-04-04 |
 | [Americry](https://open.spotify.com/track/5sMDwrLHTaW8D8hdr7tplv) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [Coby](https://open.spotify.com/artist/4ePlgaslVMhoVvmO9MyOcr) | [Americry](https://open.spotify.com/album/1DrXmjHECYEQOesivVdorL) | 3:28 | 2024-10-11 | 2025-01-11 |
 | [AMISTAD](https://open.spotify.com/track/0MxsPvjehBfQoFfVSVX5mf) | [Brayden](https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ) | [NEMESIS](https://open.spotify.com/album/74ygQlbDm7lmNGfzWHiOtn) | 2:19 | 2026-05-08 | 2026-06-27 |
@@ -188,6 +188,7 @@
 | [Bodies N Vvs](https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Mr Fastlife](https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4) | 2:58 | 2024-08-23 | 2025-02-15 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-08-27 |
 | [Bon vie](https://open.spotify.com/track/7cjkHcHW8ObsTOy9t54DuL) | [Che\_nous](https://open.spotify.com/artist/6iUtbHzHDDlKkoze6YG4Bk), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Dumis9ne I](https://open.spotify.com/artist/0HHIBSnMhAHwIpLlSc0uQr) | [Bon vie](https://open.spotify.com/album/2HKtM71Feg9TpSdDvGPEhi) | 2:59 | 2026-06-26 | 2026-08-08 |
+| [BORA BORA](https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [BORA BORA](https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw) | 2:33 | 2026-09-11 |  |
 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 | 2023-03-10 | 2023-12-02 |
 | [Bouc émissaire](https://open.spotify.com/track/6E8ztfHvuTix06z3KlNZB6) | [Flip](https://open.spotify.com/artist/0AvGQF1hbRypYmo5TJDwgY) | [Bouc émissaire](https://open.spotify.com/album/7IVnrFyT0BIlT9i9m420co) | 3:48 | 2025-09-18 | 2025-11-29 |
 | [Boucle d'or](https://open.spotify.com/track/3fRx1iAvPNHA3ZIM8ObHzQ) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Boucle d'or](https://open.spotify.com/album/2JyabdWBZovF3bbpliYlP0) | 2:12 | 2023-03-17 | 2023-04-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAA76HI+8Qhw4U+Wf9ju1PCm",
+  "snapshot_id": "aqSWAAAAAAD3vDHL0yW/sWaGEfirXRYH",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -394,11 +394,15 @@
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Janoya",
+          "url": "https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Spirit Cartography",
-      "url": "https://open.spotify.com/track/1yCJJ8Q0WD0qeilHu25qIn"
+      "duration_ms": 126006,
+      "name": "Wanwu",
+      "url": "https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK"
     },
     {
       "added_at": null,
@@ -452,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -647,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 344827,
+      "name": "Mu Evans",
+      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -663,22 +683,6 @@
       "duration_ms": 311077,
       "name": "Silver Age",
       "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 344827,
-      "name": "Mu Evans",
-      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
     },
     {
       "added_at": null,
@@ -723,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 413882,
+      "name": "Slow Piru",
+      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -739,22 +759,6 @@
       "duration_ms": 298865,
       "name": "Endowment",
       "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 413882,
-      "name": "Slow Piru",
-      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
     },
     {
       "added_at": null,
@@ -792,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 110593,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y"
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     }
   ],
   "unique_name": "This Is Sofie Birch",

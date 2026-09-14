@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 prima stanza a destra e Angelica Bove in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,699 likes - 21 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,709 likes - 21 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

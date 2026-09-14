@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -2388,10 +2388,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 380993,
       "name": "Narrowboat",
       "url": "https://open.spotify.com/track/14NpTeByGbzkyHvvKGcbMi"
+    },
+    {
+      "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388485,
+      "name": "Narrowboat",
+      "url": "https://open.spotify.com/track/2UMQXMyl6OyDXj3me1CKDe"
     },
     {
       "album": {
@@ -3300,6 +3322,28 @@
       "duration_ms": 308160,
       "name": "The Petrified Forest",
       "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
+    },
+    {
+      "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346027,
+      "name": "The Rotunda",
+      "url": "https://open.spotify.com/track/73sp8vma8ARaYDkIlIFmKq"
     },
     {
       "album": {

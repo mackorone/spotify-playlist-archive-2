@@ -25010,7 +25010,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 471826,
       "name": "Glacier",
       "url": "https://open.spotify.com/track/5VOyBuZp7l591P4WPAa17I"
@@ -26490,7 +26490,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 212063,
       "name": "Halo",
       "url": "https://open.spotify.com/track/3Lj4dvJhNHtr4HpIurvSVK"
@@ -29142,7 +29142,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2tAaAsvb9tqyMKBC2sbQid"
@@ -33660,7 +33660,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 237080,
       "name": "Italian Concerto, BWV 971: I. [Allegro]",
       "url": "https://open.spotify.com/track/3hWGSagj1H0nLPxqDL3C3h"
@@ -34908,6 +34908,36 @@
       "duration_ms": 392351,
       "name": "Key to the Highway - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Keyboard Concerto in F Minor, BWV 1056: II. Largo",
+        "url": "https://open.spotify.com/album/195cijUdw1yFGbAEsujXGr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        },
+        {
+          "name": "Siggi String Quartet",
+          "url": "https://open.spotify.com/artist/6IHgrJ6aOjbi0hanAmgkQK"
+        },
+        {
+          "name": "Xun Yang",
+          "url": "https://open.spotify.com/artist/1VeOOyDn7YnID4jTkLxNgY"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211796,
+      "name": "Keyboard Concerto in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/1H98BjxPPXXSG2SjrvKJby"
     },
     {
       "album": {
@@ -42869,6 +42899,24 @@
     },
     {
       "album": {
+        "name": "ELEMENTAL Part One: MOURNING EARTH",
+        "url": "https://open.spotify.com/album/79lEcVacCk4wmPtxFmcajJ"
+      },
+      "artists": [
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 777373,
+      "name": "Moor",
+      "url": "https://open.spotify.com/track/42DHRi5t2ECXx89ceIvqM6"
+    },
+    {
+      "album": {
         "name": "Rachmaninoff, Tchaikovsky etc; Works for Piano",
         "url": "https://open.spotify.com/album/3Sk0rgbZiuKPowNs20LpAz"
       },
@@ -49564,10 +49612,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 99760,
       "name": "Piano Sonata No. 11 in A Major, K. 331: Ic. Var. 2",
       "url": "https://open.spotify.com/track/2K1HAcXl0EGG4XOvn7Uinw"
+    },
+    {
+      "album": {
+        "name": "\"'Dark Academia\" - Piano",
+        "url": "https://open.spotify.com/album/5KYvKjdCavdMI2j8BNDdyy"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Angela Hewitt",
+          "url": "https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Piano Sonata No. 11 in A Major, K. 331: If. Var. 5",
+      "url": "https://open.spotify.com/track/2eY0y1WnKiGUUBKx2nvuwW"
     },
     {
       "album": {
@@ -60779,6 +60849,24 @@
     },
     {
       "album": {
+        "name": "Gaudi (Sessions)",
+        "url": "https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "Standing On Higher Ground / Losing Proposition - Vocal Experiments",
+      "url": "https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8"
+    },
+    {
+      "album": {
         "name": "STAR - Clubminister vs Norwegian Giants REMIXES",
         "url": "https://open.spotify.com/album/7l6NXXIncQ6kP7HLV1Kq1B"
       },
@@ -61040,7 +61128,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2Lz4iCypeUTy62CP3Xwk6i"
@@ -62256,6 +62344,24 @@
       "duration_ms": 223730,
       "name": "Suspensi\u00f3n",
       "url": "https://open.spotify.com/track/7jyRaOQ5iz7ZsEhYpvhMfK"
+    },
+    {
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244918,
+      "name": "Swallower",
+      "url": "https://open.spotify.com/track/3NqnKChCusKRMEGPtWa393"
     },
     {
       "album": {
@@ -69506,7 +69612,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"

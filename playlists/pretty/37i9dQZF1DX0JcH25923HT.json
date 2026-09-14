@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 604537,
+  "num_followers": 604657,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 188779,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "La Mia (Remix)",
         "url": "https://open.spotify.com/album/5KFoHD3Tby2JyPRZSCVZiC"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 422211,
       "name": "La Mia - Remix",
       "url": "https://open.spotify.com/track/59GJkQNSKKA7km23fYj7dW"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 188779,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd"
     },
     {
       "added_at": "2026-08-11 14:10:49",

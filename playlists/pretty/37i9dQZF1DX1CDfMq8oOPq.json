@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udde3\ufe0fdoisdeee, doisdeee // Maru2D",
-  "num_followers": 103968,
+  "num_followers": 103982,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-09-11 13:13:40",
       "album": {
+        "name": "Modo Baddie",
+        "url": "https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb"
+      },
+      "artists": [
+        {
+          "name": "Emilly Guedes",
+          "url": "https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr"
+        },
+        {
+          "name": "Xizoh",
+          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Modo Baddie",
+      "url": "https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx"
+    },
+    {
+      "added_at": "2026-09-11 13:13:40",
+      "album": {
         "name": "Mix Como Eu",
         "url": "https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 139102,
       "name": "Giragrana Girabala",
       "url": "https://open.spotify.com/track/0mWnU1xmvl0bChWsOEPiXz"
-    },
-    {
-      "added_at": "2026-09-11 13:13:40",
-      "album": {
-        "name": "Modo Baddie",
-        "url": "https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb"
-      },
-      "artists": [
-        {
-          "name": "Emilly Guedes",
-          "url": "https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr"
-        },
-        {
-          "name": "Xizoh",
-          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Modo Baddie",
-      "url": "https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx"
     },
     {
       "added_at": "2026-09-11 13:13:40",

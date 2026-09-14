@@ -4,7 +4,7 @@
 
 > Today's biggest dance hits! Cover: Chris Lake, Chris Lorenzo, Kenny Beats
 
-1,074 songs - 2 day 8 hr 10 min
+1,075 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [No Man's Land](https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [No Man's Land](https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4) | 2:18 | 2024-01-11 | 2024-02-23 |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2024-07-18 | 2025-01-31 |
 | [Noche Without You](https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:23 | 2026-06-04 |  |
+| [Nosebleeds](https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Nosebleeds](https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH) | 3:12 | 2026-09-13 |  |
 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 | 2024-03-21 | 2024-04-19 |
 | [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 | 2024-10-04 |
 | [Not Exactly \- Rebūke Remix](https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Not Exactly \(Rebūke Remix\)](https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI) | 3:00 | 2024-04-11 | 2024-05-24 |
@@ -828,7 +829,7 @@
 | [SexyBack](https://open.spotify.com/track/7JOa48N3aoaGnYxe9R9Xcf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [SexyBack](https://open.spotify.com/album/3mcIatUp7Z0thywXI2V9ID) | 2:59 | 2024-07-04 | 2024-11-22 |
 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 | 2026-04-16 | 2026-09-11 |
 | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/track/3bSmptlKjwEpTEuCKImUEg) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/album/3CCjUqC7qwEAdmGrp0kRGh) | 3:13 | 2024-05-02 | 2024-06-07 |
-| [She's A Devil](https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [She's A Devil](https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb) | 3:24 | 2026-04-23 |  |
+| [She's A Devil](https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [She's A Devil](https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb) | 3:24 | 2026-04-23 | 2026-09-14 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-07 | 2023-12-01 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-06 | 2024-12-20 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-07 | 2024-05-17 |

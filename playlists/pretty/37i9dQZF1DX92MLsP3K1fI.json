@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Nathan Bank y Mia Salinas en portada \u2728",
-  "num_followers": 96340,
+  "num_followers": 96341,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206662,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "La Espina",
-        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 206662,
-      "name": "La Espina",
-      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
     },
     {
       "added_at": "2026-09-11 06:00:25",
@@ -643,6 +643,42 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206216,
+      "name": "Bar de corazones rotos",
+      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "Lo Que Importa",
         "url": "https://open.spotify.com/album/7s2EbwCHMSJ7VrQJ5s8SP6"
       },
@@ -671,42 +707,6 @@
       "duration_ms": 308250,
       "name": "Lo Que Importa",
       "url": "https://open.spotify.com/track/0eguGQWtFQNyPDtxi46vHM"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "MISI\u00d3N IMPOSIBLE",
-        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "MISI\u00d3N IMPOSIBLE",
-      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 206216,
-      "name": "Bar de corazones rotos",
-      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
     },
     {
       "added_at": "2026-09-11 06:00:25",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 191866,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "Mismo Equipo",
-        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "Mismo Equipo",
-      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "added_at": "2026-09-11 06:00:25",

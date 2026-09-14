@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Scottyolorin
 
-1,172 songs - 2 day 8 hr 10 min
+1,173 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 | 2023-07-14 | 2024-03-01 |
 | [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 | 2026-04-03 |
 | [BAD BITCH SYNDROME PART II](https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [By The Order Of The City](https://open.spotify.com/album/1iihLsQquHsfLgBhPIOgI5) | 3:42 | 2026-05-01 | 2026-08-21 |
-| [Bad Decision](https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Bad Decision](https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A) | 3:31 | 2026-05-29 |  |
+| [Bad Decision](https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Bad Decision](https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A) | 3:31 | 2026-05-29 | 2026-09-14 |
 | [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 | 2024-09-27 | 2025-03-07 |
 | [Bad S.L.U.T](https://open.spotify.com/track/1kMTXy8EzI5ajckswMQ5C1) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [Bad S.L.U.T](https://open.spotify.com/album/6DuWhnSyE8YAWbA8L7Qjtj) | 1:39 | 2022-08-18 | 2022-08-26 |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2022-10-29 |
@@ -802,6 +802,7 @@
 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 | 2024-02-16 | 2024-04-05 |
 | [Patience Ozokwor](https://open.spotify.com/track/1LNvzS4MixvOYyAIHorfVO) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Patience Ozokwor](https://open.spotify.com/album/3Iur68f8UK7ZNeBZ2iGNwA) | 2:33 | 2024-09-20 | 2025-05-30 |
 | [PEAKING](https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [PEAKING](https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u) | 3:13 | 2021-04-09 | 2022-02-18 |
+| [Pepper Dem](https://open.spotify.com/track/2KAGHt7F1clx5yT7HHkAme) | [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE), [Venuxx](https://open.spotify.com/artist/174wNtmpxD8ffzvcYQSoev) | [Pepper Dem](https://open.spotify.com/album/29ewRMLsabylr0SugyLIg9) | 1:44 | 2026-09-11 |  |
 | [Pepper Demm](https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Demm](https://open.spotify.com/album/6bZNNrCzbcozLN1ZSCIfS3) | 2:34 | 2025-08-26 | 2025-11-11 |
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-01-28 |
 | [Phenomenal](https://open.spotify.com/track/4k0UPBR76jiRbErJ7ZHbnB) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Phenomenal](https://open.spotify.com/album/7rtv4wefCWvlG3Xa3KcaRb) | 3:14 | 2026-03-27 | 2026-05-15 |

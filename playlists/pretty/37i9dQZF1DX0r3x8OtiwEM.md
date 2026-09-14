@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,198 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,269 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 32 | [DONA](https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:49 |
 | 33 | [Unique Moment](https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Unique Moment](https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq) | 3:00 |
 | 34 | [Annihilation](https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Annihilation](https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0) | 3:07 |
-| 35 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
-| 36 | [In This World \- Boris Brejcha Remix](https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [In This World \(Boris Brejcha Remix\)](https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn) | 3:25 |
+| 35 | [In This World \- Boris Brejcha Remix](https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [In This World \(Boris Brejcha Remix\)](https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn) | 3:25 |
+| 36 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
 | 37 | [Low](https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O) | [DJ Spade](https://open.spotify.com/artist/2dhmmWskkjPNDFnDQKiyH8), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Low](https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf) | 3:34 |
 | 38 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 |
 | 39 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 55 | [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 |
 | 56 | [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 |
 | 57 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 |
-| 58 | [For a Feeling \(feat\. RHODES\) \- Adam Sellouk & Y do I Remix](https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Dark Matter Remixes](https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz) | 4:00 |
+| 58 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 59 | [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 |
 | 60 | [No Rules](https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:50 |
 

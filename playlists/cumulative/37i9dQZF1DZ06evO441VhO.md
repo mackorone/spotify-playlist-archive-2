@@ -4,13 +4,14 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 41 min
+109 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Long Way Down](https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:18 | 2023-12-14 |  |
 | [A Long Way Down](https://open.spotify.com/track/5lQUnOC74U3C0MjyjJwwaJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Long Way Down](https://open.spotify.com/album/1mQ8KcLBD0bvlbIcYWdlNi) | 3:18 | 2022-09-16 | 2023-12-15 |
-| [A Perfect Life Is Such a Bore](https://open.spotify.com/track/0nysC7wd6eb7Pd0d2qWpW7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Perfect Life Is Such a Bore](https://open.spotify.com/album/69q5aNZhzJbg75rLaAvVFU) | 3:21 | 2026-06-19 |  |
+| [A Perfect Life Is Such a Bore](https://open.spotify.com/track/0nysC7wd6eb7Pd0d2qWpW7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Perfect Life Is Such a Bore](https://open.spotify.com/album/69q5aNZhzJbg75rLaAvVFU) | 3:21 | 2026-06-19 | 2026-09-14 |
+| [A Perfect Life Is Such a Bore](https://open.spotify.com/track/4joBjCeL1ajc5nPifkn4ed) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:21 | 2026-09-14 |  |
 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 | 2022-09-16 | 2025-09-05 |
 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 | 2025-09-05 |  |
 | [Alone](https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 2:15 | 2023-06-27 |  |

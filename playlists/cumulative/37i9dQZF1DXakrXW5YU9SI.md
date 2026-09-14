@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,088 songs - 2 day 12 hr 54 min
+1,089 songs - 2 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-28 | 2024-09-13 |
 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-09 | 2026-09-11 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-27 | 2026-06-10 |
-| [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 | 2025-12-05 |  |
+| [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 | 2025-12-05 | 2026-09-14 |
 | [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 | 2026-04-24 | 2026-06-10 |
 | [I'll Never Feel That Young Again](https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [I'll Never Feel That Young Again](https://open.spotify.com/album/56BrmoyoywierPRlLk98uG) | 3:35 | 2026-06-09 | 2026-06-28 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-24 | 2025-02-08 |
@@ -395,6 +395,7 @@
 | [It's Alright](https://open.spotify.com/track/27PxQOwtRXA4ofj1Y0QXPD) | [Cinnamon Gum](https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X) | [The Cinnamon Show](https://open.spotify.com/album/4wNTx3n951dp4FZtCk7CVP) | 3:04 | 2025-03-28 | 2025-06-17 |
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-03-13 | 2026-05-17 |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-27 | 2024-11-22 |
+| [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 | 2026-09-10 |  |
 | [Jagna](https://open.spotify.com/track/5a4jziec5vsP0ktnRZ5KcQ) | [L.U.C.](https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv), [Rebel Babel Film Orchestra](https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv) | [Chłopi \(Original Soundtrack\)](https://open.spotify.com/album/4bNiBmPncdmzzWdeUSs7DF) | 1:47 | 2025-09-15 | 2025-09-20 |
 | [Jak Ci jest?](https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Jak Ci jest?](https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt) | 6:35 | 2026-09-10 |  |
 | [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 | 2026-03-20 | 2026-03-28 |

@@ -18099,6 +18099,24 @@
     },
     {
       "album": {
+        "name": "Penelope's Odyssey",
+        "url": "https://open.spotify.com/album/44P6xiwBVaBlvEfgvEJAPz"
+      },
+      "artists": [
+        {
+          "name": "Freddy Zucchet",
+          "url": "https://open.spotify.com/artist/6gTBRfFjIuOf3edwOrUl4m"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159492,
+      "name": "Penelope's Odyssey",
+      "url": "https://open.spotify.com/track/3rWODST9yrefN5hexBeTmL"
+    },
+    {
+      "album": {
         "name": "Pensasonic",
         "url": "https://open.spotify.com/album/7zRbPMt9pErtwQTqeHEvc5"
       },
@@ -19814,6 +19832,24 @@
       "duration_ms": 259479,
       "name": "Rooh Ka Sakoon",
       "url": "https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN"
+    },
+    {
+      "album": {
+        "name": "Room Still Sways",
+        "url": "https://open.spotify.com/album/4hUdcExkmDYYVKnu6naqhx"
+      },
+      "artists": [
+        {
+          "name": "Terry Kingsley",
+          "url": "https://open.spotify.com/artist/2jeaDjgdXnEnbLYgwbzTFb"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222062,
+      "name": "Room Still Sways",
+      "url": "https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I"
     },
     {
       "album": {

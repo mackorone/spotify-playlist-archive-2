@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71042,
+  "num_followers": 71044,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAD8FRD8tB1v789Mkiv/c+x6",
+  "snapshot_id": "aqSWAAAAAAAiwZ5tDmbjfI2ENrEst9/D",
   "tracks": [
     {
       "added_at": null,
@@ -511,30 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera (feat. Ky-Mani Marley)",
-        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
       "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         },
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 190836,
-      "name": "A Tu Manera (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
     },
     {
       "added_at": null,
@@ -559,22 +551,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+        "name": "A Tu Manera (feat. Ky-Mani Marley)",
+        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
       "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         },
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
         }
       ],
-      "duration_ms": 188708,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+      "duration_ms": 190836,
+      "name": "A Tu Manera (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198839,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piel Canela (Casa Sole)",
         "url": "https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 192669,
       "name": "Piel Canela (Casa Sole)",
       "url": "https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,

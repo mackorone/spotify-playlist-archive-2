@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65897,
+  "num_followers": 65901,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlcLmyrWDs6MLN0mEqRjnLsPTEg",
+  "snapshot_id": "AAAAACunNNimjn+NRNDe40pObKsmSvCg",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:34",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
         "name": "Bienvenidos",
         "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 343187,
       "name": "5:PM",
       "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
+        "name": "La Instituci\u00f3n Te Reclama",
+        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
+      },
+      "artists": [
+        {
+          "name": "David Chanson",
+          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
+        }
+      ],
+      "duration_ms": 349008,
+      "name": "Entronque",
+      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
-        "name": "La Instituci\u00f3n Te Reclama",
-        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
-      },
-      "artists": [
-        {
-          "name": "David Chanson",
-          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
-        }
-      ],
-      "duration_ms": 349008,
-      "name": "Entronque",
-      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2026-09-04 06:00:34",

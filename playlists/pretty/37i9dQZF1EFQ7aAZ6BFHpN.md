@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 158 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 158 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 42 | [Oh, Doctor Jesus \- Porgy And Bess](https://open.spotify.com/track/1zPHUOrPLqH3hLLwALq1vb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:01 |
 | 43 | [What You Want Wid Bess ? \- Porgy And Bess](https://open.spotify.com/track/3J3RwUNq5oCeAhIyyv2Nzu) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:01 |
 | 44 | [Walking the Dog](https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 |
-| 45 | [Shall We Dance?](https://open.spotify.com/track/68jiOR8Py40usTMm0yufH2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 2:15 |
-| 46 | [Carnival of the Animals: XIV\. Finale](https://open.spotify.com/track/34o2Cs7e6bhDyLIDo9NHKc) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:07 |
+| 45 | [Carnival of the Animals: XIV\. Finale](https://open.spotify.com/track/34o2Cs7e6bhDyLIDo9NHKc) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:07 |
+| 46 | [Shall We Dance?](https://open.spotify.com/track/68jiOR8Py40usTMm0yufH2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 2:15 |
 | 47 | [Ballad Medley](https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 8:08 |
 | 48 | [Oh, Bess, Oh Where Is My Bess \- Porgy And Bess](https://open.spotify.com/track/2oneMMjAJKhyfsQeFMxYUp) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 2:36 |
 | 49 | [Porgy And Bess: Medley: Here Come De Honey Man / Crab Man / Oh, Dey's So Fresh And Fine](https://open.spotify.com/track/3taCqapkDK2S3Upc8g5FdH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 3:29 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AccI6AAAAADGpZDIZ5q7YhOZiB+BblyB`
+Snapshot ID: `AccOiAAAAADvafUWginiAuk+/vUYuClU`

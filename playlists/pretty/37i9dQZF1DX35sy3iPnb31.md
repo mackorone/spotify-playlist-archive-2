@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,588 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,594 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 15 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 |
 | 16 | [Serial Kisser](https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Serial Kisser](https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6) | 2:46 |
 | 17 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
-| 18 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
-| 19 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
+| 18 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
+| 19 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
 | 20 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
 | 21 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
 | 22 | [losing](https://open.spotify.com/track/035L1su4sn0wZmoD5rdtos) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [losing](https://open.spotify.com/album/7sw3EMPHHFXLSR6gPzkDTx) | 2:51 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 40 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
 | 41 | [Sugar, Butter, Elbow Grease](https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r) | [Leah Jane](https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN) | [Sugar, Butter, Elbow Grease](https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z) | 3:30 |
 | 42 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
-| 43 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
-| 44 | [Yesterday](https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Yesterday](https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J) | 3:21 |
+| 43 | [Yesterday](https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Yesterday](https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J) | 3:21 |
+| 44 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
 | 45 | [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 |
 | 46 | [One Step](https://open.spotify.com/track/5w0nQUeBCgWK1LS4tHdUP4) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [One Step](https://open.spotify.com/album/3nnEX2YyDsbzI9gCtsylma) | 2:04 |
 | 47 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |

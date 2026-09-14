@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 153 | [Fuck Around Phase](https://open.spotify.com/track/1FyhViHV8NdA68NdCmvDMU) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Fuck Around Phase](https://open.spotify.com/album/3gc6aADQfnmUgX0ama4Lac) | 2:41 |
 | 154 | [She's So Good](https://open.spotify.com/track/36gdBnpCj947L43sM7SJvq) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
 | 155 | [Call on Me](https://open.spotify.com/track/4Zc6F0EcmrMxef2NwJbk5k) | [Paul McDonald](https://open.spotify.com/artist/26VoPCfOpSe5L7kpskenXy) | [Modern Hearts](https://open.spotify.com/album/2SHYkAkXQhWX64c7NesVGl) | 3:31 |
-| 156 | [Get Free](https://open.spotify.com/track/0Yn2FemUyvW5bPZC7rXYQY) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 2:56 |
-| 157 | [Higher Love](https://open.spotify.com/track/3HLnLfuiH2LJuWjEii3AnP) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/0NHMqBlsp5cwre83mz6NOl) | 3:04 |
+| 156 | [Higher Love](https://open.spotify.com/track/3HLnLfuiH2LJuWjEii3AnP) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/0NHMqBlsp5cwre83mz6NOl) | 3:04 |
+| 157 | [Get Free](https://open.spotify.com/track/0Yn2FemUyvW5bPZC7rXYQY) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 2:56 |
 | 158 | [About You](https://open.spotify.com/track/1cA9wVIkWlDJAyzFpQqUmu) | [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Walls](https://open.spotify.com/album/5twUQqDTSA9xuNlwzpGjSi) | 3:41 |
 | 159 | [Powerlines](https://open.spotify.com/track/5z2deSjJjIPOLFPHlagOA9) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
 | 160 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 183 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 184 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `AccI6AAAAABjS94fzfS3NyPfuc1eSZV/`
+Snapshot ID: `AccOiAAAAADRQZjjeEF34xLgSO7E60Bk`

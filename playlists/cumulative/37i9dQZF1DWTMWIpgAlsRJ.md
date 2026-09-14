@@ -4,7 +4,7 @@
 
 > The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.
 
-382 songs - 22 hr 34 min
+384 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 | 2022-11-07 |  |
 | [Calorzão](https://open.spotify.com/track/0qFDv5K2f5raLz8GdGCJKd) | [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/01afJHOJ6Lep5CFrmA5avI) | [Calorzão](https://open.spotify.com/album/3uwPZjtYIQodYvzo2HEbCH) | 2:57 | 2026-06-19 | 2026-06-27 |
 | [Caxambu](https://open.spotify.com/track/5qadNHtHJMEH6Nn061W90f) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Batuk Freak \(Instrumentals\)](https://open.spotify.com/album/5jvokIwPYtaB2TLPFMZwCk) | 2:55 | 2026-06-19 | 2026-06-27 |
-| [Cheerleader](https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO) | 3:57 | 2026-06-05 |  |
+| [Cheerleader](https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO) | 3:57 | 2026-06-05 | 2026-09-14 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2026-06-05 |  |
 | [Cientos De Preguntas](https://open.spotify.com/track/3Tw6wsnqcBabS9SKDX3HXw) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Reddo](https://open.spotify.com/album/1pG9g7FPXI4kOUGjvv4xZB) | 3:43 | 2026-07-10 | 2026-07-18 |
 | [Circles](https://open.spotify.com/track/4ifDOv0SK8rya4GrIGZ7r9) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/0gABXB4fFsI1a5cg4TPvpf) | 3:48 | 2026-06-26 | 2026-07-04 |
@@ -99,6 +99,7 @@
 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 | 2022-11-07 | 2026-06-06 |
 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/4J4XFZiefwIMRR4uFBfsuZ) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [We Got Soul](https://open.spotify.com/album/6GemfBBE61s1MHwSMa1FKJ) | 3:37 | 2022-11-07 | 2022-11-13 |
 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/4dc1G54hSmSL5HQuQvRNA1) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/4hF66CtQgAPU6LzedAQi4V) | 3:39 | 2022-11-07 | 2024-04-19 |
+| [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 | 2026-09-10 |  |
 | [Eatin' Good](https://open.spotify.com/track/26KX3FKbPnvDjJGkbOfANs) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/0gkfLE2QiTHvEBO8qhHrKT) | 3:41 | 2026-06-05 |  |
 | [Efêmera](https://open.spotify.com/track/1iiXo590UBRz3S2GH5piM3) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4vM2MHcopLJ49OAcW9IndM) | 3:44 | 2026-06-19 | 2026-06-27 |
 | [Efêmera](https://open.spotify.com/track/71XCbsRFzxHTBEbhY9eIyj) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:44 | 2022-11-07 | 2024-04-19 |
@@ -118,7 +119,7 @@
 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2026-06-05 |  |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2026-06-05 |  |
 | [Festas e Manequins](https://open.spotify.com/track/6hCl3kZA2zWOSN3wxnxpcP) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:04 | 2026-06-19 | 2026-06-27 |
-| [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 | 2026-06-05 |  |
+| [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 | 2026-06-05 | 2026-09-14 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2026-06-05 |  |
 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 | 2026-07-03 | 2026-07-11 |
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2026-07-03 | 2026-07-11 |
@@ -375,6 +376,7 @@
 | [West Ten \(with Mabel\)](https://open.spotify.com/track/1kNUlYIquh3WpllRoTCRJR) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:34 | 2026-07-03 | 2026-07-11 |
 | [What World \- Radio Edit](https://open.spotify.com/track/32eWO4cPEEPOrMm6enPvO5) | [Damien J\. Carter](https://open.spotify.com/artist/1qj1e5TBA1vWP55EcLrSma) | [What World](https://open.spotify.com/album/0N3MwqKBLb2Qk7vHoqn9NO) | 3:13 | 2026-06-26 | 2026-07-04 |
 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 | 2022-11-07 | 2026-06-06 |
+| [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 | 2026-09-10 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2026-06-12 | 2026-06-20 |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2026-06-12 | 2026-06-20 |
 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 | 2022-11-07 | 2026-06-06 |

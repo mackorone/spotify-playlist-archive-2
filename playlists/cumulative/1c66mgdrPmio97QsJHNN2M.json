@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 182578,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/2OzBgirycXgNhkHbfHLvxa"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 170657,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5WRPtxnqTfXfGYDf1BXzRI"
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 184800,
       "name": "Believe In Me",
       "url": "https://open.spotify.com/track/7bodTY1G8StQjTkU2XN2t3"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 142868,
       "name": "BEYOND REPAIR - Demo",
       "url": "https://open.spotify.com/track/2LrKTv3mmFtq8rxz89ja9p"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 175102,
       "name": "Bleeding Star",
       "url": "https://open.spotify.com/track/6G0U1q09GkFQ8ZmqZaQTlm"
@@ -6466,7 +6466,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 246716,
       "name": "Bullet For Your Gun",
       "url": "https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY"
@@ -8008,7 +8008,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 177751,
       "name": "circles",
       "url": "https://open.spotify.com/track/6AN1RdJk3621MSbxtvGJJG"
@@ -11038,7 +11038,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 161470,
       "name": "DND",
       "url": "https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS"
@@ -13327,6 +13327,24 @@
     },
     {
       "album": {
+        "name": "Entropic",
+        "url": "https://open.spotify.com/album/4U9xJAtGrtmwZ4TqFYntlh"
+      },
+      "artists": [
+        {
+          "name": "Zeradyna",
+          "url": "https://open.spotify.com/artist/5lgJd0t3dkgIxV78GV5d1w"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Entropic",
+      "url": "https://open.spotify.com/track/2Posv0vCHof4IIZzsK4xsY"
+    },
+    {
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/7i1ajXI8sQfpYNbd5FwVXF"
       },
@@ -14308,6 +14326,28 @@
       "duration_ms": 135039,
       "name": "FALL FOR ME",
       "url": "https://open.spotify.com/track/2rJqw8OhPeck0eDst46WFJ"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/0DOLucTer6GhH1sJ21gZnj"
+      },
+      "artists": [
+        {
+          "name": "Adil Diamond",
+          "url": "https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z"
+        },
+        {
+          "name": "L33ZA.WTF",
+          "url": "https://open.spotify.com/artist/7CCTKLH6Y0U10tSI5Lv49O"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Fall!ng Star",
+      "url": "https://open.spotify.com/track/7zz6uL1YGhk6pl0fz2b9yP"
     },
     {
       "album": {
@@ -15424,7 +15464,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 258000,
       "name": "Flowers of my Heart",
       "url": "https://open.spotify.com/track/2iu3JELMFPQiIK3NfwiNMJ"
@@ -16498,7 +16538,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 164181,
       "name": "From This Height",
       "url": "https://open.spotify.com/track/63xS1t0I37bDRVnoXOcOsX"
@@ -20982,7 +21022,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 157500,
       "name": "I Love House Music",
       "url": "https://open.spotify.com/track/39zGrsZuEzdlHP5ZIf2aSn"
@@ -21358,7 +21398,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 127500,
       "name": "I Stare At The Reflection",
       "url": "https://open.spotify.com/track/6UDVO1EuM2hRGiOEi3AqUJ"
@@ -30809,6 +30849,24 @@
     },
     {
       "album": {
+        "name": "Neon Paranoia Vol.2",
+        "url": "https://open.spotify.com/album/4yBa9LO1pWhOZWALb2ibcA"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Neon Mirage (Run in the Space)",
+      "url": "https://open.spotify.com/track/6ISy9QZIHwu8PSm60u2S6e"
+    },
+    {
+      "album": {
         "name": "Neptune Nights",
         "url": "https://open.spotify.com/album/1lbuWKnjmufgEEVQouOAx9"
       },
@@ -39580,7 +39638,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 254840,
       "name": "Silent Sands",
       "url": "https://open.spotify.com/track/2xu1SdJaEvhnrs20JjVEbh"
@@ -39706,7 +39764,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 151959,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/2Y78JSqxs1Axm6xtfrfZuX"
@@ -42727,6 +42785,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dream",
+        "url": "https://open.spotify.com/album/4NFqWffEVU0kebLoaEvP1N"
+      },
+      "artists": [
+        {
+          "name": "Bea Trice",
+          "url": "https://open.spotify.com/artist/47FQCu9RjgJK2jcGHcZg5R"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206529,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/30eXlYrAE06Pdxz16hViNs"
+    },
+    {
+      "album": {
         "name": "Sweet Karma",
         "url": "https://open.spotify.com/album/1tda0u8lBBzrZrXRjBceV2"
       },
@@ -44638,7 +44714,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 149538,
       "name": "The One",
       "url": "https://open.spotify.com/track/61KD8LmglSsOlaknqT1PjD"
@@ -45370,6 +45446,24 @@
       "duration_ms": 126923,
       "name": "Then I Met You",
       "url": "https://open.spotify.com/track/3FyvD6sx4OX2uIUUGsxIxU"
+    },
+    {
+      "album": {
+        "name": "Then We Dance",
+        "url": "https://open.spotify.com/album/2NhDbMxz2JvS07mH7zQwDu"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190127,
+      "name": "Then We Dance",
+      "url": "https://open.spotify.com/track/3ETqiMp0l3AZcvDnJEcTmt"
     },
     {
       "album": {
@@ -46577,6 +46671,24 @@
     },
     {
       "album": {
+        "name": "Too Afraid To Stay",
+        "url": "https://open.spotify.com/album/2tQ68VGslOa8xi3Y4ICoAK"
+      },
+      "artists": [
+        {
+          "name": "StillWind Project",
+          "url": "https://open.spotify.com/artist/6kBBi2tfaHuKd53BmL7WiC"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Too Afraid To Stay",
+      "url": "https://open.spotify.com/track/1AIIzIrHMTPqzZ4ZmILNWq"
+    },
+    {
+      "album": {
         "name": "Too Broke For Money",
         "url": "https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ"
       },
@@ -47357,6 +47469,24 @@
     },
     {
       "album": {
+        "name": "Under sail",
+        "url": "https://open.spotify.com/album/2BSL9s8vECHEZHxdfiWf6v"
+      },
+      "artists": [
+        {
+          "name": "FabofaWo",
+          "url": "https://open.spotify.com/artist/7miAoTJuBk3eAe2HOSWFju"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "Under sail",
+      "url": "https://open.spotify.com/track/3UjNPYjI2kSi4mKwvVEjAs"
+    },
+    {
+      "album": {
         "name": "Under The Karri Tree",
         "url": "https://open.spotify.com/album/35hnr06kHziZWYDBAaQCha"
       },
@@ -47722,7 +47852,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 201191,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/684NwcQYvTJx8IcHX0ypX8"
@@ -47794,7 +47924,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 156623,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd"
@@ -51806,7 +51936,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 197337,
       "name": "You Make It Easy",
       "url": "https://open.spotify.com/track/6mauoUvR2Adwe2LtE7Xnh8"
@@ -51936,6 +52066,24 @@
       "duration_ms": 162000,
       "name": "You Were My Home",
       "url": "https://open.spotify.com/track/1Lb0UcBNfHV7IgTBna2XHj"
+    },
+    {
+      "album": {
+        "name": "You Were The One",
+        "url": "https://open.spotify.com/album/3eFt5Sv8i1AqcGskcvK6sX"
+      },
+      "artists": [
+        {
+          "name": "Chain Avenue",
+          "url": "https://open.spotify.com/artist/3wGXfF2V7Gole9ALgupdFO"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285245,
+      "name": "You Were The One",
+      "url": "https://open.spotify.com/track/0RxMAdHlXWQYK8iTPb0Z3C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,362 songs - 5 day 2 hr 31 min
+2,363 songs - 5 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Blue Ruin](https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust](https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW) | 4:10 | 2024-11-21 | 2025-01-27 |
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 | 2022-09-16 |
 | [blundar](https://open.spotify.com/track/16HbAjgmQF7gq2o6f9cQit) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [romantik på svenska](https://open.spotify.com/album/4I2ZKhs5KWb8FFqfcHizOc) | 3:52 | 2024-04-11 | 2024-05-17 |
-| [Blurry](https://open.spotify.com/track/0MVnmkCHxi3Wrd6ipYleH7) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Blurry](https://open.spotify.com/album/4I60xrDXrapRYnMhFIzAiF) | 2:08 | 2026-08-27 |  |
+| [Blurry](https://open.spotify.com/track/0MVnmkCHxi3Wrd6ipYleH7) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Blurry](https://open.spotify.com/album/4I60xrDXrapRYnMhFIzAiF) | 2:08 | 2026-08-27 | 2026-09-14 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 | 2025-09-05 |
 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 | 2025-07-03 | 2026-01-15 |
@@ -876,6 +876,7 @@
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 | 2023-04-28 |
 | [Hercules](https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hercules](https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD) | 3:20 | 2024-04-19 | 2024-05-24 |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
+| [Here we go again](https://open.spotify.com/track/41D2LiJ2S8JtKkDt4Ur6wE) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Here we go again](https://open.spotify.com/album/1MVrU64RBwick8NcuD5KBo) | 3:12 | 2026-09-10 |  |
 | [High On Life](https://open.spotify.com/track/5XQ9N8tQH3vKe7gbFvIVqo) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [High On Life](https://open.spotify.com/album/0t7QlpZaFc7UaJwJYRvKhg) | 2:54 | 2025-09-04 | 2025-09-14 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 | 2025-09-17 |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |

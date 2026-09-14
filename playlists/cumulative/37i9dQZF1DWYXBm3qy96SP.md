@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: almost monday
 
-2,301 songs - 5 day 14 hr 11 min
+2,302 songs - 5 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-04 |
 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 | 2026-05-23 | 2026-06-26 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
-| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 |  |
+| [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 | 2026-08-17 | 2026-09-14 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Daily Queen](https://open.spotify.com/track/53YiLtXKQXGrUfcK8rd2TF) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [Daily Queen](https://open.spotify.com/album/6UMrQXSdh75gN7UGGHytO4) | 4:42 | 2024-07-05 | 2024-09-13 |
 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 | 2026-09-03 | 2026-09-11 |
@@ -1962,6 +1962,7 @@
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-16 | 2023-11-24 |
 | [The Guest](https://open.spotify.com/track/0sK1ET6VbYeGZnbpCudlIA) | [Mary Timony](https://open.spotify.com/artist/1FFaHFtnhdnHuY0xGZcnD1) | [The Guest](https://open.spotify.com/album/4Uf7DE1G3Uj3ISQQl2nUFA) | 3:53 | 2024-01-04 | 2024-01-12 |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 | 2026-03-13 |
+| [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-09-11 |  |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-08-29 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
 | [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 | 2024-05-19 |

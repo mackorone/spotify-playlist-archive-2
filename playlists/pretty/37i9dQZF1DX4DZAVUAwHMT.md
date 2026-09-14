@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Julia Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,371 likes - 81 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,259 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

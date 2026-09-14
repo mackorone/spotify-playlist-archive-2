@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 12 hr 24 min
+222 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Slow Down](https://open.spotify.com/track/3CqiTpYR4cRPr0zfZhjJQb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:50 | 2026-05-19 |  |
 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 | 2026-05-19 |  |
 | [Something I'm Not](https://open.spotify.com/track/6HQMEEo4h1EIp8JfzwHZKQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:16 | 2026-05-19 |  |
+| [Something in the Whiskey](https://open.spotify.com/track/7Gpc8w0bmSF1jUbzR9EId5) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Something in the Whiskey](https://open.spotify.com/album/6wZ1EOtgaljKpjLP29PuRf) | 2:42 | 2026-09-13 |  |
 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 | 2026-05-19 |  |
 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 | 2026-05-23 |  |
 | [Stay](https://open.spotify.com/track/4Vkt702ZXHUpBrOhciI3jI) | [Keep The Grind Records](https://open.spotify.com/artist/3uF9fwB5UBKoTyeGNF32HN), [Skinny Josh](https://open.spotify.com/artist/5LAJTgEm8jkXBx0iAbJ7vm), [JDASHME](https://open.spotify.com/artist/3awQHevWcn7ScSU9bYxaeW) | [Spring In Miami: Part One](https://open.spotify.com/album/3PSYAD7v7DHFZQ5fysuVUy) | 3:12 | 2026-05-19 | 2026-05-24 |

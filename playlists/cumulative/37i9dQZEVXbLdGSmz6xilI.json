@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1942,6 +1942,24 @@
       "duration_ms": 315428,
       "name": "Anh T\u1ef1 Do Nh\u01b0ng C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/5NxZpeMGUQ5T5At5xZM5Hf"
+    },
+    {
+      "album": {
+        "name": "Tam Th\u00e1i T\u1eed",
+        "url": "https://open.spotify.com/album/0APwF8gkaNSgkQlP7qAbsc"
+      },
+      "artists": [
+        {
+          "name": "Jack - J97",
+          "url": "https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193682,
+      "name": "Anh Y\u00eau Em (\u6211\u7231\u4f60)",
+      "url": "https://open.spotify.com/track/4px414ErA1FdHPYoJE3vJm"
     },
     {
       "album": {
@@ -4926,7 +4944,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -12634,7 +12652,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -26610,7 +26628,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 257595,
       "name": "TH\u1ebe GI\u1edaI C\u1ee6A ANH (feat. D\u01b0\u01a1ng Domic, WEAN, CONGB, buitruonglinh & Van Toan)",
       "url": "https://open.spotify.com/track/0CY9y1F7RcRSV3raHljdxu"
@@ -29976,7 +29994,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"

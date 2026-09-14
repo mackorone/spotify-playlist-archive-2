@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1587164,
+  "num_followers": 1587053,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 165831,
       "name": "What If?",
       "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Goldrichtig",
-        "url": "https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Goldrichtig",
-      "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "call me back",
         "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 114906,
       "name": "call me back",
       "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "Goldrichtig",
+        "url": "https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Goldrichtig",
+      "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
     },
     {
       "added_at": "2026-08-06 22:01:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 940,
+  "num_followers": 941,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAADCpoJVnnARiJud3wn8rl4L",
+  "snapshot_id": "aqSWAAAAAADv1BAQdmQJbnPjjgV4h3e1",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 194919,
-      "name": "An Island",
-      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
+      "duration_ms": 210547,
+      "name": "Cat Stevens",
+      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 210547,
-      "name": "Cat Stevens",
-      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
     }
   ],
   "unique_name": "This Is Fatherson",

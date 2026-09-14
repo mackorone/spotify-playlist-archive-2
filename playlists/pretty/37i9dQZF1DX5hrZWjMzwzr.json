@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "POLOT",
+        "url": "https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR"
+      },
+      "artists": [
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "AJAJAJ",
+      "url": "https://open.spotify.com/track/6jS5RCxEbmaj68sFKBbnN6"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Tenten",
         "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "POLOT",
-        "url": "https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "AJAJAJ",
-      "url": "https://open.spotify.com/track/6jS5RCxEbmaj68sFKBbnN6"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Ca\u0142y Blok",
         "url": "https://open.spotify.com/album/70ZjNOhf40mWJZiODibJBe"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 170685,
       "name": "Ca\u0142y Blok",
       "url": "https://open.spotify.com/track/5IZA5pBAArGLdlKw9Ary8X"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38461,
+  "num_followers": 38465,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAACU/sxY1/QiOdTEIRibTmyh",
+  "snapshot_id": "aqSWAAAAAAA93iyJMvkgsfQ4H8qFBIpM",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blaze That Ass",
-        "url": "https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL"
+        "name": "Hi This Is Flume (Mixtape)",
+        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Blaze That Ass",
-      "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
+      "duration_ms": 114645,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL"
     },
     {
       "added_at": null,
@@ -159,26 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi This Is Flume (Mixtape)",
-        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
+        "name": "Blaze That Ass",
+        "url": "https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 114645,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL"
+      "duration_ms": 175714,
+      "name": "Blaze That Ass",
+      "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
     },
     {
       "added_at": null,

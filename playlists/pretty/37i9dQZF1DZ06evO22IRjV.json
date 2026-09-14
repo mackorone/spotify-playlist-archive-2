@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31279,
+  "num_followers": 31277,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAAXDlhue6rW+B44u+Ai1Fx1",
+  "snapshot_id": "aqSWAAAAAAD5XI0YFE2Bfzp7en9WWMcD",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORS",
-        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 93786,
-      "name": "COLORS -CODE GEASS OPENING MIX-",
-      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 261546,
       "name": "Howling",
       "url": "https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
     },
     {
       "added_at": null,
@@ -227,6 +227,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butter-Fly - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/3vmlgAoH6zQfcwEZRyKNfM"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 318045,
       "name": "Butter-Fly - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
-        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
-      },
-      "artists": [
-        {
-          "name": "BACK-ON",
-          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
-        },
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
-      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5TELLA",
+        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "5TELLA",
+      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW ANIME BEST \u6975",
         "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5TELLA",
-        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "5TELLA",
-      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "26 a Go Go !!!",
         "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 225800,
       "name": "GLORY DAYS",
       "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GET BACK",
-        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 217121,
       "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
     },
     {
       "added_at": null,

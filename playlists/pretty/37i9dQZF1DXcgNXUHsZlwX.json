@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143510,
+  "num_followers": 143507,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Avant la suite",
-        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
+        "name": "Les grandes art\u00e8res",
+        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
       },
       "artists": [
         {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        },
-        {
-          "name": "Anastasia Kobekina",
-          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 217288,
-      "name": "Avant la suite",
-      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
+      "duration_ms": 204013,
+      "name": "Si tu reviens",
+      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -271,18 +267,22 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Les grandes art\u00e8res",
-        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+        "name": "Avant la suite",
+        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Si tu reviens",
-      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+      "duration_ms": 217288,
+      "name": "Avant la suite",
+      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
-    },
-    {
-      "added_at": "2026-09-11 04:03:03",
-      "album": {
         "name": "Eldorado (Acoustique)",
         "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "I Liked Blue After You",
-        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 178168,
-      "name": "Dis-moi, dis-moi",
-      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+    },
+    {
+      "added_at": "2026-09-11 04:03:03",
+      "album": {
         "name": "Dans tes bras",
         "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
-    },
-    {
-      "added_at": "2026-09-11 04:03:03",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2026-09-11 04:03:03",
+      "album": {
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Tempest",
-        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
       },
       "artists": [
         {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Tempest",
-      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II"
       },
       "artists": [
         {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
         }
       ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+      "duration_ms": 205794,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
       "artists": [
         {
-          "name": "Olivia Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 129204,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
         }
       ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
+      "duration_ms": 129204,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:03",
+      "album": {
         "name": "REPRISES",
         "url": "https://open.spotify.com/album/15JvasDJEX8HHFcTA9b3zT"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 262828,
       "name": "Mercy Street",
       "url": "https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU"
-    },
-    {
-      "added_at": "2026-09-11 04:03:03",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 189945,
-      "name": "Comme un b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
-    },
-    {
-      "added_at": "2026-09-11 04:03:03",
-      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193733,
       "name": "Ariane",
       "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
+    },
+    {
+      "added_at": "2026-09-11 04:03:03",
+      "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 189945,
+      "name": "Comme un b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "HI-FI",
-        "url": "https://open.spotify.com/album/3IH6c5ijayUgXcr6SGwhnI"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "NoKlich\u00e9",
-          "url": "https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih"
-        },
-        {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 236160,
-      "name": "TIME DO HEAL",
-      "url": "https://open.spotify.com/track/1y8exsJcVlVcVy3KszATsI"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1595,18 +1591,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1647,18 +1643,22 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "HI-FI",
+        "url": "https://open.spotify.com/album/3IH6c5ijayUgXcr6SGwhnI"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "NoKlich\u00e9",
+          "url": "https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih"
+        },
+        {
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 236160,
+      "name": "TIME DO HEAL",
+      "url": "https://open.spotify.com/track/1y8exsJcVlVcVy3KszATsI"
     },
     {
       "added_at": "2026-09-11 04:03:03",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-09-11 04:03:03",
       "album": {
-        "name": "Win of the Century",
-        "url": "https://open.spotify.com/album/791e4R93yIduaysv9IRthG"
+        "name": "Dans une autre cour",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
       },
       "artists": [
         {
-          "name": "Aidan Rex",
-          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Win of the Century",
-      "url": "https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh"
+      "duration_ms": 144173,
+      "name": "Dans une autre cour",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-09-11 04:03:03",

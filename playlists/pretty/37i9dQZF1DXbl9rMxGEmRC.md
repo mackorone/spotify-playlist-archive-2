@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Updated monthly\. Cover: Wolves in the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,890 likes - 119 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,877 likes - 119 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 118 | [The Ephemeral Curse](https://open.spotify.com/track/0j1oTbbvud3GlUVFbyFab2) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Descent](https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL) | 3:57 |
 | 119 | [The Kids Will Kill Us](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [The Kids Will Kill Us](https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k) | 3:45 |
 
-Snapshot ID: `AAAAAECWMifo56nq/NR/jJ9cwK0B/qB+`
+Snapshot ID: `AAAAAI8nVdRo7pEDLNjgBhTmSiWKBf0T`

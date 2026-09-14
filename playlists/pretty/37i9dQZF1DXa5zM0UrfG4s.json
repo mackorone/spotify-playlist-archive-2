@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118258,
+  "num_followers": 118262,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-09-10 22:01:42",
       "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2026-09-10 22:01:42",
+      "album": {
         "name": "Hjem med dej",
         "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-09-10 22:01:42",
       "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-09-10 22:01:42",
@@ -599,22 +615,6 @@
       "duration_ms": 153882,
       "name": "Promiski\u00f8s (PM)",
       "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
-    },
-    {
-      "added_at": "2026-09-10 22:01:42",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-09-10 22:01:42",
@@ -947,8 +947,8 @@
     {
       "added_at": "2026-09-10 22:01:42",
       "album": {
-        "name": "CAT 374",
-        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
+        "name": "Rypejakt",
+        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
         },
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
         }
       ],
-      "duration_ms": 176117,
-      "name": "CAT 374",
-      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
+      "duration_ms": 149651,
+      "name": "Rypejakt",
+      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
     },
     {
       "added_at": "2026-09-10 22:01:42",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2026-09-10 22:01:42",
       "album": {
-        "name": "Rypejakt",
-        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+        "name": "CAT 374",
+        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
       },
       "artists": [
         {
@@ -1048,13 +1048,13 @@
           "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
         },
         {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
         }
       ],
-      "duration_ms": 149651,
-      "name": "Rypejakt",
-      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+      "duration_ms": 176117,
+      "name": "CAT 374",
+      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
     },
     {
       "added_at": "2026-09-10 22:01:42",

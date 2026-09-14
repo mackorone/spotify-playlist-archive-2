@@ -1,6 +1,6 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 219520,
+  "num_followers": 219552,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
@@ -927,30 +927,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Jackie B",
         "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Crazy For It",
         "url": "https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        }
+      ],
+      "duration_ms": 262763,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -1515,22 +1535,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf"
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         },
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 262763,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY"
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1555,30 +1579,6 @@
       "duration_ms": 183181,
       "name": "Like A Child",
       "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Kimbara",
-        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189816,
-      "name": "Kimbara",
-      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Spectral Bells",
         "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A"
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
       },
       "artists": [
         {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 273999,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N"
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1739,6 +1723,22 @@
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1923,26 +1923,30 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Break The Loop",
-        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
+        "name": "Khetha",
+        "url": "https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
         },
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
         },
         {
-          "name": "Conor Ross",
-          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+          "name": "Essa Kay",
+          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
         }
       ],
-      "duration_ms": 226874,
-      "name": "Break The Loop",
-      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
+      "duration_ms": 459661,
+      "name": "Khetha",
+      "url": "https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1971,30 +1975,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Khetha",
-        "url": "https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z"
+        "name": "Break The Loop",
+        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
       "artists": [
         {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         },
         {
-          "name": "Essa Kay",
-          "url": "https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+          "name": "Conor Ross",
+          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
         }
       ],
-      "duration_ms": 459661,
-      "name": "Khetha",
-      "url": "https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6"
+      "duration_ms": 226874,
+      "name": "Break The Loop",
+      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
     },
     {
       "added_at": "2026-08-27 21:01:11",

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 354,
+  "num_followers": 355,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALMSIMFjZQoUQmcJPUMTwnnfaG/1um",
+  "snapshot_id": "AAALNWHK0oikzR7iMRnq59XBYLhvPVrC",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -44427,6 +44427,70 @@
       "duration_ms": 127698,
       "name": "Ok I Guess",
       "url": "https://open.spotify.com/track/4RQ4fyaMmx0HZ4ORL7CltZ"
+    },
+    {
+      "added_at": "2026-09-13 08:28:47",
+      "album": {
+        "name": "Casa de Mem\u00f3rias (Deluxe)",
+        "url": "https://open.spotify.com/album/2f05SypLlzEEF3HEBrGUed"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Casa de Mem\u00f3rias - Deluxe",
+      "url": "https://open.spotify.com/track/5eQBa7QH5ad00aD9AO7tO3"
+    },
+    {
+      "added_at": "2026-09-13 08:42:12",
+      "album": {
+        "name": "Cozy Christmas Piano",
+        "url": "https://open.spotify.com/album/1wYo3BFXSYxFkhLtamW7aR"
+      },
+      "artists": [
+        {
+          "name": "The Felt Piano",
+          "url": "https://open.spotify.com/artist/0slAkI3VpM4E3oKSwb13AZ"
+        }
+      ],
+      "duration_ms": 68588,
+      "name": "We Wish You a Merry Christmas - Solo Piano",
+      "url": "https://open.spotify.com/track/6Q5CCSQOERg5ju5BizbPUX"
+    },
+    {
+      "added_at": "2026-09-13 08:42:16",
+      "album": {
+        "name": "Zen Cat",
+        "url": "https://open.spotify.com/album/5NcS8qmncYciwBwudBXnWT"
+      },
+      "artists": [
+        {
+          "name": "yulue",
+          "url": "https://open.spotify.com/artist/6gdxJk7ipZHIK1cDt6RoDN"
+        }
+      ],
+      "duration_ms": 82679,
+      "name": "beat x",
+      "url": "https://open.spotify.com/track/2EmyaxffjQNyloEKtgUneD"
+    },
+    {
+      "added_at": "2026-09-13 20:10:46",
+      "album": {
+        "name": "Chillin' on the Beach",
+        "url": "https://open.spotify.com/album/3X8MNNmIHD6VB9sD5ZyOcf"
+      },
+      "artists": [
+        {
+          "name": "ZZZSomnus",
+          "url": "https://open.spotify.com/artist/5KW9n7z2wnatM8CwCO7krD"
+        }
+      ],
+      "duration_ms": 70375,
+      "name": "Chillin' on the Beach",
+      "url": "https://open.spotify.com/track/1DJf4RFu7mjBm8CwycLWxw"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

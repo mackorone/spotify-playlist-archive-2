@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-813 songs - 2 day 21 hr 46 min
+814 songs - 2 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 | 2024-11-22 |
 | [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 | 2026-06-26 | 2026-08-12 |
 | [Faithful God \- Live](https://open.spotify.com/track/6mkHJKfrdyDvz2efY0KzkZ) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 11:00 | 2023-12-05 | 2023-12-11 |
+| [FAVOUR](https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [FAVOUR](https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5) | 4:02 | 2026-08-28 |  |
 | [FAVOUR](https://open.spotify.com/track/0qgx6zvq7aU69Lt6iGDCvx) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [FAVOUR](https://open.spotify.com/album/4w6PorVb5s1RTpTWJWifhs) | 3:03 | 2024-10-11 | 2024-11-30 |
 | [Finally](https://open.spotify.com/track/1SM0jKwjVaAMgVAX7LKgNi) | [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Finally](https://open.spotify.com/album/0e00XQl6SWnwNXVh6WRrc4) | 5:20 | 2022-06-16 | 2022-10-15 |
 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-03-01 |  |
@@ -663,7 +664,7 @@
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-09 | 2023-06-16 |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2024-12-31 | 2025-01-07 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2025-07-24 |
-| [Taloto](https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Taloto](https://open.spotify.com/album/0up89TNBGPTwNPcow20AvR) | 5:42 | 2026-08-21 |  |
+| [Taloto](https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Taloto](https://open.spotify.com/album/0up89TNBGPTwNPcow20AvR) | 5:42 | 2026-08-21 | 2026-09-14 |
 | [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 |  |
 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 | 2025-03-28 | 2025-04-04 |
 | [Tasted](https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Highly Lifted](https://open.spotify.com/album/0lr2KKVfyzpkmoQkPccGtg) | 5:19 | 2026-08-07 | 2026-08-28 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAACQTb+o9/U2iLNY29bix9cK",
+  "snapshot_id": "aqSWAAAAAACFRC5ivR2NZRnIx61trJl1",
   "tracks": [
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 211693,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
+      "duration_ms": 206480,
+      "name": "Live for the Night",
+      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PEAK",
         "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Live for the Night",
-      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
+      "duration_ms": 211693,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
       "duration_ms": 190603,
       "name": "the blueprint",
       "url": "https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Falling rain",
+      "url": "https://open.spotify.com/track/2zxeefhhrdwJOz7H8MLLcW"
     },
     {
       "added_at": null,
@@ -227,22 +243,6 @@
       "duration_ms": 186853,
       "name": "Next Life (feat. Krewella)",
       "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Falling rain",
-      "url": "https://open.spotify.com/track/2zxeefhhrdwJOz7H8MLLcW"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "where did U go?",
+      "url": "https://open.spotify.com/track/2BKJ0bxy1jKpSq8jhlRlEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 195706,
       "name": "Legacy - Radio Edit",
       "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "press play",
-      "url": "https://open.spotify.com/track/4o4EYYayA51EzvHn0jSkQq"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PEAK",
+        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "press play",
+      "url": "https://open.spotify.com/track/4o4EYYayA51EzvHn0jSkQq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 179014,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PEAK",
-        "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "where did U go?",
-      "url": "https://open.spotify.com/track/2BKJ0bxy1jKpSq8jhlRlEC"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PEAK",
         "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
       },
       "artists": [
         {
@@ -524,25 +508,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
     },
     {
       "added_at": null,
@@ -571,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PEAK",
         "url": "https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM"
       },
@@ -587,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
       "artists": [
         {
-          "name": "VAVA",
-          "url": "https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q"
-        },
-        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         }
       ],
-      "duration_ms": 162030,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -631,6 +607,30 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
+      },
+      "artists": [
+        {
+          "name": "VAVA",
+          "url": "https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 162030,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "MERCY. MERCY. MERCY.",
-          "url": "https://open.spotify.com/artist/4dISa0JRkcDejaBcsloVin"
         }
       ],
-      "duration_ms": 313846,
-      "name": "Moondance",
-      "url": "https://open.spotify.com/track/7wMsPOFTA3QZoJ4LRIvt0h"
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 222080,
       "name": "Somewhere to Run",
       "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "MERCY. MERCY. MERCY.",
+          "url": "https://open.spotify.com/artist/4dISa0JRkcDejaBcsloVin"
+        }
+      ],
+      "duration_ms": 313846,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/7wMsPOFTA3QZoJ4LRIvt0h"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,

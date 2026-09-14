@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,000 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,039 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Até Você Voltar \- Ao Vivo](https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Até Você Voltar \(Ao Vivo\)](https://open.spotify.com/album/7ufAQ7EXPaaozbcIWszU5F) | 3:24 |
 | 50 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
 
-Snapshot ID: `MjjE0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MjobAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

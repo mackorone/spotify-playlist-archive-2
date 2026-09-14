@@ -2036,10 +2036,32 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
+    },
+    {
+      "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183278,
+      "name": "todav\u00edA",
+      "url": "https://open.spotify.com/track/5d3G5eCkzT3U1dSGx8hTem"
     },
     {
       "album": {

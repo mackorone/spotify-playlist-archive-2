@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21960,
+  "num_followers": 21959,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Omemma",
-      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
-    },
-    {
       "added_at": "2025-03-14 00:01:27",
       "album": {
         "name": "Your Love",
@@ -531,6 +515,22 @@
       "duration_ms": 233135,
       "name": "Your love",
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
       "added_at": "2026-07-31 00:01:30",
@@ -777,6 +777,30 @@
       "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
     },
     {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
+    },
+    {
       "added_at": "2026-01-23 00:01:16",
       "album": {
         "name": "ENOUGH FOR ME",
@@ -857,30 +881,6 @@
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "FAVOUR",
-        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mylez",
-          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "FAVOUR",
-      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
-    },
-    {
       "added_at": "2025-02-28 00:01:33",
       "album": {
         "name": "Covenant Keeping God",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "Ina Son Ka",
-        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
-      },
-      "artists": [
-        {
-          "name": "Dr Becky Paul-Enenche",
-          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
-        }
-      ],
-      "duration_ms": 220318,
-      "name": "Ina Son Ka",
-      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Breakthrough",
@@ -979,6 +963,22 @@
       "duration_ms": 180000,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
+    },
+    {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "Ina Son Ka",
+        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
+      },
+      "artists": [
+        {
+          "name": "Dr Becky Paul-Enenche",
+          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
+        }
+      ],
+      "duration_ms": 220318,
+      "name": "Ina Son Ka",
+      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1161,26 +1161,6 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "DO",
-        "url": "https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV"
-      },
-      "artists": [
-        {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "DO",
-      "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
-    },
-    {
       "added_at": "2025-12-05 00:01:10",
       "album": {
         "name": "Upendo Overdose",
@@ -1201,24 +1181,24 @@
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
     },
     {
-      "added_at": "2026-02-20 00:01:25",
+      "added_at": "2026-06-26 00:01:41",
       "album": {
-        "name": "Your Love II",
-        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+        "name": "DO",
+        "url": "https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
         },
         {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Your Love II",
-      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+      "duration_ms": 145531,
+      "name": "DO",
+      "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -1239,6 +1219,26 @@
       "duration_ms": 196271,
       "name": "Good News",
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+    },
+    {
+      "added_at": "2026-02-20 00:01:25",
+      "album": {
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
       "added_at": "2026-08-28 00:01:38",
@@ -1277,6 +1277,26 @@
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
     },
     {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 204036,
+      "name": "Impossibility Shatterer",
+      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
       "added_at": "2026-07-24 00:01:56",
       "album": {
         "name": "Blinded By Your Grace",
@@ -1299,26 +1319,6 @@
       "duration_ms": 151168,
       "name": "Blinded By Your Grace",
       "url": "https://open.spotify.com/track/1MkyF53qBdEbueA5Yae1pi"
-    },
-    {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "Yeshua (The Summary Of My Life)",
-        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 204036,
-      "name": "Impossibility Shatterer",
-      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-10 00:01:15",
       "album": {
-        "name": "I'M BLESSED",
-        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
-      },
-      "artists": [
-        {
-          "name": "Kevin Adams & Voices of Praise",
-          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "I'M BLESSED",
-      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
-    },
-    {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
         "name": "K'OSENI",
         "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187826,
       "name": "K'OSENI",
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
       "added_at": "2026-06-12 08:46:43",

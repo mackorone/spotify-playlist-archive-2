@@ -52,10 +52,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 201305,
       "name": "A Perfect Life Is Such a Bore",
       "url": "https://open.spotify.com/track/0nysC7wd6eb7Pd0d2qWpW7"
+    },
+    {
+      "album": {
+        "name": "I.O.",
+        "url": "https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201305,
+      "name": "A Perfect Life Is Such a Bore",
+      "url": "https://open.spotify.com/track/4joBjCeL1ajc5nPifkn4ed"
     },
     {
       "album": {

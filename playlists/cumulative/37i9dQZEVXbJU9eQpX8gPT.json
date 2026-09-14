@@ -13029,6 +13029,28 @@
     },
     {
       "album": {
+        "name": "Fi Hwak",
+        "url": "https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "Fi Hwak",
+      "url": "https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi"
+    },
+    {
+      "album": {
         "name": "MANZAKINE x FID\u00c8LE",
         "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
       },
@@ -25272,7 +25294,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
@@ -27364,7 +27386,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 186857,
       "name": "NINJA (feat. GIMS)",
       "url": "https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e"
@@ -38766,7 +38788,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 147761,
       "name": "Tsswirtek",
       "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"

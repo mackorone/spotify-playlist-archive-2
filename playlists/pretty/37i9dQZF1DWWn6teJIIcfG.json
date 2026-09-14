@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223575,
+  "num_followers": 223586,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRzSjdCpeJTnFoJfGu+tiPyuGI3",
+  "snapshot_id": "AAAAABaYac/AOmJYP7AZrSR5Cpxr/cJc",
   "tracks": [
     {
       "added_at": "2026-09-04 04:00:54",
@@ -95,18 +95,22 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Experience (Solo Piano)",
-        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
+        "name": "Lullabies for Mila",
+        "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
         }
       ],
-      "duration_ms": 307202,
-      "name": "Experience - Solo Piano",
-      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
+      "duration_ms": 220773,
+      "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
+      "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -223,22 +227,18 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Lullabies for Mila",
-        "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
+        "name": "Experience (Solo Piano)",
+        "url": "https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
         }
       ],
-      "duration_ms": 220773,
-      "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
-      "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
+      "duration_ms": 307202,
+      "name": "Experience - Solo Piano",
+      "url": "https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1539,6 +1539,34 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
+        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ivan Podyomov",
+          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        }
+      ],
+      "duration_ms": 425466,
+      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
+      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1571,34 +1599,6 @@
       "duration_ms": 267773,
       "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
-        "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-        "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Ivan Podyomov",
-          "url": "https://open.spotify.com/artist/4zuOEDpzkD6u19mCxQ2LzL"
-        },
-        {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        },
-        {
-          "name": "Maxim Emelyanychev",
-          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
-        }
-      ],
-      "duration_ms": 425466,
-      "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
-      "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
+        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
         "name": "Telemann Edition, Vol. 1",
         "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
@@ -2107,22 +2127,26 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7cYqY5zDumcsuvv16XamHe"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Belle Chen",
+          "url": "https://open.spotify.com/artist/7Ihfoi68laeuxOhTJLCa4l"
         },
         {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        },
+        {
+          "name": "BBC Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+      "duration_ms": 283346,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3O8W0lu9EJgFP0RsG9V0xt"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -2171,30 +2195,6 @@
       "duration_ms": 233306,
       "name": "Mandolin Concerto in D Major: II. Andantino",
       "url": "https://open.spotify.com/track/0q5F2Us19Bt12QGfexqkDM"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7cYqY5zDumcsuvv16XamHe"
-      },
-      "artists": [
-        {
-          "name": "Belle Chen",
-          "url": "https://open.spotify.com/artist/7Ihfoi68laeuxOhTJLCa4l"
-        },
-        {
-          "name": "Ben Palmer",
-          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
-        },
-        {
-          "name": "BBC Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/3O8W0lu9EJgFP0RsG9V0xt"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -2451,6 +2451,26 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
+        "name": "Strauss, R: Morgen!",
+        "url": "https://open.spotify.com/album/60PWf5MrTGd9XFzx3TOrK7"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        }
+      ],
+      "duration_ms": 219896,
+      "name": "Strauss, R.: 4 Lieder, Op. 27: No. 4, Morgen! (Arr. Lenaerts for Harp)",
+      "url": "https://open.spotify.com/track/5xS4EmHOAEI723jO0JBl8b"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
         "name": "Tchaikovsky: Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
         "url": "https://open.spotify.com/album/0RTnFw9279oDwm89sM8o0v"
       },
@@ -2471,26 +2491,6 @@
       "duration_ms": 256120,
       "name": "Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
       "url": "https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
-        "name": "Strauss, R: Morgen!",
-        "url": "https://open.spotify.com/album/60PWf5MrTGd9XFzx3TOrK7"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Anneleen Lenaerts",
-          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
-        }
-      ],
-      "duration_ms": 219896,
-      "name": "Strauss, R.: 4 Lieder, Op. 27: No. 4, Morgen! (Arr. Lenaerts for Harp)",
-      "url": "https://open.spotify.com/track/5xS4EmHOAEI723jO0JBl8b"
     },
     {
       "added_at": "2026-09-04 04:00:54",

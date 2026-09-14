@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Sofi készítette 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,545 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,546 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 11 | [Újrahasznosít](https://open.spotify.com/track/1ixdeUIfQ1V8zPfPBCcDAi) | [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED) | [Újrahasznosít](https://open.spotify.com/album/4qGWl3UddaHl84hc4CRyGA) | 2:05 |
 | 12 | [Júniusban](https://open.spotify.com/track/4unXoPTSuWaBG4pe6Z9btS) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Júniusban](https://open.spotify.com/album/58H8CMysax56P2RTmBRolF) | 2:25 |
 | 13 | [BENNEM ÉLSZ](https://open.spotify.com/track/4InDQu8VLZajb1VrgzB1GO) | [Sára Kútvölgyi](https://open.spotify.com/artist/60W2zipjv75BNZk1FbpPpv) | [BENNEM ÉLSZ](https://open.spotify.com/album/0JMJDWIK4w7RmsyLbVJTQU) | 2:40 |
-| 14 | [Sugar Daddy](https://open.spotify.com/track/4G9hKJB7NaWX6QFSpiEYCf) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS), [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Sugar Daddy](https://open.spotify.com/album/7pkpbzts7WTxOjQBcWjH6r) | 2:40 |
+| 14 | [Sugar Daddy](https://open.spotify.com/track/2LV4omLlrrSjpPvDQyTCom) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS), [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Sugar Daddy](https://open.spotify.com/album/7BQFQoZO40r66SzsJ3CTcq) | 2:40 |
 | 15 | [10éjszakás kaland \- duett verzió](https://open.spotify.com/track/2ix1jKC8s069knCyEtrexa) | [Tolvai Reni](https://open.spotify.com/artist/1o3h9A8UXmaPyz7nEXdJD4), [Szekér Gergő](https://open.spotify.com/artist/0asJOq10QQ4t0Repov7ALD) | [10éjszakás kaland \(duett verzió\)](https://open.spotify.com/album/2c8RoMOG65dBMGWS7IhO2L) | 2:25 |
 | 16 | [Vagyok A](https://open.spotify.com/track/25GvC4yB0dSyqxvDiFkNLP) | [Anna and The Barbies](https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV) | [Vagyok A](https://open.spotify.com/album/0znIv35KwePo6BGcWmdVFR) | 2:50 |
 | 17 | [Csavargódal](https://open.spotify.com/track/25EDLAI9nLBrd12yDdray0) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Csavargódal](https://open.spotify.com/album/7zwaLSAstsAUqczJ4fBir4) | 3:01 |

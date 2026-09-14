@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: \u00c1rbol de Ojos",
-  "num_followers": 87787,
+  "num_followers": 87790,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,22 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "El Reflejo",
-        "url": "https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo"
+        "name": "La Teta Pirata",
+        "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
       },
       "artists": [
         {
-          "name": "Ekhymosis",
-          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 218700,
-      "name": "El Reflejo",
-      "url": "https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO"
+      "duration_ms": 271691,
+      "name": "La Teta Pirata",
+      "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -427,22 +431,18 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "La Teta Pirata",
-        "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
+        "name": "El Reflejo",
+        "url": "https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
         }
       ],
-      "duration_ms": 271691,
-      "name": "La Teta Pirata",
-      "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
+      "duration_ms": 218700,
+      "name": "El Reflejo",
+      "url": "https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO"
     },
     {
       "added_at": "2026-09-11 04:59:19",

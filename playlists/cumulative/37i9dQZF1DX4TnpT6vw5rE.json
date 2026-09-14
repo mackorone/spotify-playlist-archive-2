@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 181047,
       "name": "Endless Sky",
       "url": "https://open.spotify.com/track/07uOWWv9HviCYCc0D6xE2A"
@@ -6950,6 +6950,24 @@
       "duration_ms": 393266,
       "name": "They Disappear Into the Palms",
       "url": "https://open.spotify.com/track/3BCqIl5vYtb8u4QP79JtPo"
+    },
+    {
+      "album": {
+        "name": "Thusly",
+        "url": "https://open.spotify.com/album/3uH4cAZiO98X169bVDwEEO"
+      },
+      "artists": [
+        {
+          "name": "Riley Power",
+          "url": "https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196029,
+      "name": "Thusly",
+      "url": "https://open.spotify.com/track/48F6iXWHoSdCYPAuhEYNKZ"
     },
     {
       "album": {

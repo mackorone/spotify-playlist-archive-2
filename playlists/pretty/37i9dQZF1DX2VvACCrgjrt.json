@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311393,
+  "num_followers": 1311355,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1713,22 +1713,6 @@
       "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Monopoly Man",
-        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 202101,
-      "name": "Monopoly Man",
-      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "CODEINE",
@@ -1747,6 +1731,22 @@
       "duration_ms": 195000,
       "name": "CODEINE",
       "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1993,6 +1993,26 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Rhythm Has Control",
+        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Rhythm Has Control",
+      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
+    },
+    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Miami Bass EP",
@@ -2015,26 +2035,6 @@
       "duration_ms": 208593,
       "name": "Miami Bass",
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
-    },
-    {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Rhythm Has Control",
-        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Rhythm Has Control",
-      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2061,22 +2061,6 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-07-31 04:01:22",
-      "album": {
-        "name": "SO HYPE",
-        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
-      },
-      "artists": [
-        {
-          "name": "MAXARKA",
-          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
-        }
-      ],
-      "duration_ms": 175805,
-      "name": "SO HYPE",
-      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Earthquake",
@@ -2091,6 +2075,22 @@
       "duration_ms": 182272,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-07-31 04:01:22",
+      "album": {
+        "name": "SO HYPE",
+        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
+      },
+      "artists": [
+        {
+          "name": "MAXARKA",
+          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
+        }
+      ],
+      "duration_ms": 175805,
+      "name": "SO HYPE",
+      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -2165,6 +2165,26 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "9PM",
+        "url": "https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "Heaven Or Hell",
+      "url": "https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3"
+    },
+    {
       "added_at": "2026-07-24 04:02:19",
       "album": {
         "name": "UNA UNA",
@@ -2189,42 +2209,6 @@
       "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "9PM",
-        "url": "https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "Heaven Or Hell",
-      "url": "https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -2243,6 +2227,22 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -2301,6 +2301,26 @@
       "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
     },
     {
+      "added_at": "2026-08-28 04:01:56",
+      "album": {
+        "name": "Thirsty (feat. Datti)",
+        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
       "added_at": "2026-01-16 05:00:37",
       "album": {
         "name": "Try Again",
@@ -2357,42 +2377,6 @@
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
-      "added_at": "2026-08-28 04:01:56",
-      "album": {
-        "name": "Thirsty (feat. Datti)",
-        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
-    },
-    {
-      "added_at": "2026-06-12 04:01:37",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/0DqWCkK1d1l9521Qc1Y2iq"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 168578,
-      "name": "Confessions",
-      "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
-    },
-    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "INERTIA",
@@ -2411,6 +2395,22 @@
       "duration_ms": 175000,
       "name": "YOU GOT ME",
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
+    },
+    {
+      "added_at": "2026-06-12 04:01:37",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0DqWCkK1d1l9521Qc1Y2iq"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 168578,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
     },
     {
       "added_at": "2026-07-24 04:02:19",

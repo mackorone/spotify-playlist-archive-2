@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,769 songs - 10 day 18 hr 2 min
+4,774 songs - 10 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [bene](https://open.spotify.com/track/3q1hRf9blx6cEehTqWxGDD) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [bene](https://open.spotify.com/album/5hkQONeRpdX6npKamP0ucg) | 2:15 | 2026-02-13 |  |
 | [Berlino in silenzio](https://open.spotify.com/track/1F1XZR3c2uy01BViFelKWb) | [Teatro Euphoria](https://open.spotify.com/artist/7eglJPDESMHkJ2pXHZKq8k) | [Berlino in silenzio](https://open.spotify.com/album/06VqnjkCOu2Oea60hLgcTa) | 4:10 | 2025-06-06 |  |
 | [Beso Con Sangre](https://open.spotify.com/track/2cQ57B11SyGcJUpVKJYKqj) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Beso Con Sangre](https://open.spotify.com/album/0jH9w8KzqXjZOKrXYVLilh) | 4:20 | 2026-08-05 |  |
+| [Best Days of Our Lives](https://open.spotify.com/track/0jI9nUNsMAB3UJH6OBVnCX) | [Kandalaft Messina](https://open.spotify.com/artist/28qRZXVz4HxSz3anyjFC3q) | [Kandalaft Messina](https://open.spotify.com/album/4OEaqyOQcP3LVSro71kczW) | 2:48 | 2026-09-13 |  |
 | [Best Ever](https://open.spotify.com/track/7ARwkph0afbDUSZUsc49EG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:40 | 2025-09-19 |  |
 | [Best Ever \(another\)](https://open.spotify.com/track/5AHyPt6sJ9aN8c0a1HI9AX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:42 | 2025-09-19 |  |
 | [Best Music Ever](https://open.spotify.com/track/0SbR1Omb271hYehNyExRmG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 3:04 | 2025-09-19 |  |
@@ -1700,7 +1701,7 @@
 | [Ghosts aren't scary](https://open.spotify.com/track/1TGxl2VuaKpJeGBmaxuo80) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 0:45 | 2025-12-04 |  |
 | [Ghosts of Desire](https://open.spotify.com/track/4rC3NvlrjKGT1RXuvJcU7P) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:41 | 2025-09-16 |  |
 | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/track/3EpjVf2yHa1UBe5KgWXKtc) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/album/362wVpruWIxJjqC6Pekp40) | 3:49 | 2025-05-20 |  |
-| [GIALLO NERI FOREVER SUMMER \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 | 2025-12-10 |  |
+| [Giallo Neri Forever Summer](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 | 2025-12-10 |  |
 | [Gigantes Caerán](https://open.spotify.com/track/1WOiMDM8mM1kOUte8Z4MYy) | [Pulso Divino](https://open.spotify.com/artist/2XK1i9oymQY7yT0CsaVALI) | [Tu Palabra](https://open.spotify.com/album/404H6EidSC1PmqDFfgr8Q8) | 3:07 | 2026-06-21 |  |
 | [Gin tonic sulla neve](https://open.spotify.com/track/5iiW1CMlN1jFGE7348D142) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [Luca Berga](https://open.spotify.com/artist/2lQTeZR7h9sPvnZexNQSFr) | [Gin tonic sulla neve](https://open.spotify.com/album/4YwMJVkYTmDr9EPjr3v6u3) | 2:33 | 2026-01-31 |  |
 | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/track/19t6cnKhQsDLuZzyeRKcaU) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/album/0GBfTTT1ml0FrVMaAi1AzF) | 3:39 | 2025-05-18 |  |
@@ -1951,6 +1952,7 @@
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-09-23 |  |
 | [HOW CAN I DO](https://open.spotify.com/track/1tmMp3mLAp0X2DPf3EtVDJ) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [HOW CAN I DO](https://open.spotify.com/album/2rZyVdfZpVkahYPDSatW49) | 4:07 | 2025-06-08 |  |
 | [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 | 2025-11-05 |  |
+| [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 | 2026-09-13 |  |
 | [How Sweet It Is](https://open.spotify.com/track/00oZbWv4Bsc2vk8AXXbCJ6) | [Suzy E](https://open.spotify.com/artist/7qrz6D9jLWomJGH1WHxf9f) | [Catchy Syngers \(Softpop Special\)](https://open.spotify.com/album/5cQ8SbQ7Ur8Jir1VkBhtNu) | 2:37 | 2026-03-18 |  |
 | [How to be French](https://open.spotify.com/track/50Khdo34Qggq6NFczj8GW1) | [En Man & En Kvinna](https://open.spotify.com/artist/71ImAICJS2JHrnhQhyCFNX) | [How to be French](https://open.spotify.com/album/1NscMWDX6Z4hnbNeyZ7uR7) | 4:00 | 2025-12-04 |  |
 | [Humans Are Great](https://open.spotify.com/track/5qoOvfN3JAXVU1EQ8PD0xB) | [Sol Roth](https://open.spotify.com/artist/2hFn4Llkv4AkG2qF90Rgvt) | [Shadows In The Attic](https://open.spotify.com/album/7HYq8s1I1GlpkW8qBTHyID) | 2:00 | 2025-05-10 |  |
@@ -2132,6 +2134,7 @@
 | [Island of Grace](https://open.spotify.com/track/3esBsbgnshGwP0uYf6lg5W) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:06 | 2026-08-20 |  |
 | [Island of Grace \(fomo mode\)](https://open.spotify.com/track/32LlL5R9kOLOT1dveHCZdn) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:14 | 2026-08-20 |  |
 | [Isn't It a Pity \- Version 1 \- 2020 Mix](https://open.spotify.com/track/4eqUOw3lQ366iJwDv9sSJi) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary \- Super Deluxe\)](https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak) | 7:10 | 2026-03-15 |  |
+| [It Ain't Safe](https://open.spotify.com/track/5ybZqGvR8TvxgTpRhgsDbj) | [Dempsey](https://open.spotify.com/artist/75xuKlvxLcDKfUmz7Avo2D) | [It Ain't Safe](https://open.spotify.com/album/5sHZwu1QFxQYAJk7pswy8o) | 3:23 | 2026-09-13 |  |
 | [It Don't Make Sense](https://open.spotify.com/track/7kf07N1yvbybrobrU0BQ4w) | [Serrano](https://open.spotify.com/artist/5guL1rmn0b3SyK38p4H89E) | [It Don't Make Sense](https://open.spotify.com/album/2Jo8ciQPf90dGM7uNNDWjv) | 3:03 | 2026-08-26 |  |
 | [It Grows](https://open.spotify.com/track/36bjfCNFgMgS6PzTRsDpQI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/3wEMVRIEFI3SxYeooos05I) | 3:24 | 2026-03-01 |  |
 | [IT NEVER COMES BACK](https://open.spotify.com/track/3diyZsEkmMTKqBVawZlRMx) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [IT NEVER COMES BACK](https://open.spotify.com/album/33ZKtj4WvcBeYlgOCriCYn) | 3:31 | 2025-06-02 |  |
@@ -2205,6 +2208,7 @@
 | [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 | 2026-06-05 |  |
 | [Kinfølk](https://open.spotify.com/track/6lgBD3xdcyFDxmOqa6DYaR) | [Nøyre](https://open.spotify.com/artist/3VM5a2nh6VEXEW7FpLHwEz) | [Kinfølk](https://open.spotify.com/album/1M1JCVztOBDv7W12JSEBTI) | 2:20 | 2025-03-31 |  |
 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 | 2025-11-05 |  |
+| [King of the World](https://open.spotify.com/track/3ni5txq6gSJzxwT4IZoYtD) | [Tom Ciapponi](https://open.spotify.com/artist/6FQIT1vriZfxaJV5gBiy1f) | [King of the World](https://open.spotify.com/album/4PXK4drkVctOUAg1FgVc2l) | 3:48 | 2026-09-13 |  |
 | [KINGDOM.](https://open.spotify.com/track/4kcgirhPcjpcKpy7gOT8Vn) | [Kris Russ](https://open.spotify.com/artist/4zozSGDgFZCbbZkegA48yO) | [KINGDOM.](https://open.spotify.com/album/4ExiGTdZHosO3UvIoThbgn) | 3:29 | 2025-07-29 |  |
 | [Kings of the Council Estate](https://open.spotify.com/track/3TymElMrRt7KBhJQrNXIfZ) | [Crapsons](https://open.spotify.com/artist/2cG6clYjg7T39ygsk4ttH8) | [Deaths and Spelling Mistakes](https://open.spotify.com/album/0Aw1ILEa2vSYPRfBbcG30S) | 2:00 | 2025-11-05 |  |
 | [Kiss 3 Times](https://open.spotify.com/track/1egS9E4TdFhWTYTWiXgLgP) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 2:47 | 2025-07-02 |  |
@@ -2384,6 +2388,7 @@
 | [Literary Mind](https://open.spotify.com/track/0wRNNJAPWNwVQGLrhO2gTU) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Literary Mind](https://open.spotify.com/album/4tnoZzUQRZot1crTTIUVzi) | 4:55 | 2025-11-05 |  |
 | [Live & Direct](https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [Live & Direct](https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1) | 1:47 | 2025-07-28 |  |
 | [Live Every Moment](https://open.spotify.com/track/3nasoFBaxTutqBvfAzthvi) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Live Every Moment](https://open.spotify.com/album/4gk0nPkIeJEEPNzNpPFroK) | 2:43 | 2025-10-04 |  |
+| [Live Wire](https://open.spotify.com/track/3BQnonu1WOj56rdhP1tsfn) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Live Wire](https://open.spotify.com/album/6mgC0fBpMXX0U9B25CE6gd) | 3:27 | 2026-09-13 |  |
 | [Living Loud](https://open.spotify.com/track/4fLRd3dkyn08fTOYDlGRx0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 2:40 | 2025-09-19 |  |
 | [Living Loud \(another\)](https://open.spotify.com/track/1eDXFMOQISR8XTUKNlUmBC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 2:07 | 2025-09-19 |  |
 | [Llamas](https://open.spotify.com/track/4at7tNqAIu3T4owmpsiK5N) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:57 | 2025-09-17 |  |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bleachers
 
-2,514 songs - 5 day 14 hr 5 min
+2,515 songs - 5 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [DJ](https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [DJ](https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ) | 2:00 | 2025-04-04 | 2025-04-26 |
 | [Do Better!](https://open.spotify.com/track/4KOwPIWG9z9gNgpWv2AYi2) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [All My Little Scars, Vol\. 3](https://open.spotify.com/album/0h6GvNvK38uE2opQoixF51) | 3:00 | 2020-10-13\* | 2020-11-20 |
 | [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-06-30 | 2024-01-13 |
-| [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-02-03 |  |
+| [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-02-03 | 2026-09-14 |
 | [Do You Ever?](https://open.spotify.com/track/28z5NTRP3n4O0zkZ5WY2sZ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Do You Ever?](https://open.spotify.com/album/4D7z82Wsbd3yynOjO7XHtd) | 2:30 | 2020-10-20 | 2020-10-21 |
 | [Do you miss me at all](https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf) | [Bedelia](https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz) | [Never change, love you always](https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW) | 3:24 | 2026-03-06 | 2026-06-06 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-20 |  |
@@ -648,6 +648,7 @@
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2023-11-06 | 2024-07-17 |
 | [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 | 2026-01-16 | 2026-06-19 |
+| [drama queens](https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [drama queens](https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio) | 2:50 | 2026-09-11 |  |
 | [Dramatic Girl \(feat\. Che Ecru\)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:19 | 2026-02-20 |  |
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |

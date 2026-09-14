@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 7155,
+  "num_followers": 7163,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAADjnRl70Cdmu4LqJAVba0ZB",
+  "snapshot_id": "aqSWAAAAAADmIunSNcopyg1/hiHXMDPK",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 190422,
-      "name": "Pick it Up Again",
-      "url": "https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC"
+      "duration_ms": 209946,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Canada",
-      "url": "https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd"
+      "duration_ms": 190422,
+      "name": "Pick it Up Again",
+      "url": "https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-622 songs - 1 day 7 hr 17 min
+623 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-18 | 2024-11-13 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Barely Here](https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Barely Here](https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U) | 2:44 | 2026-05-09 |  |
-| [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 | 2026-07-24 |  |
+| [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 | 2026-07-24 | 2026-09-14 |
 | [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 | 2026-06-05 | 2026-07-25 |
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-10-06 | 2023-06-21 |
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
@@ -162,6 +162,7 @@
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-18 | 2023-04-01 |
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-07-18 | 2023-07-07 |
 | [Emotion Sickness](https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-21 | 2022-08-03 |
+| [Enchanted](https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON) | [For When You Can't Breathe](https://open.spotify.com/artist/0dsmktuBoYwdNHvyhrbQ2J), [Lil Used](https://open.spotify.com/artist/5Y22XMM6JdOn9Saxox9uHw) | [Enchanted](https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP) | 5:39 | 2026-07-24 |  |
 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 | 2024-07-18 | 2025-02-22 |
 | [Erase You](https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Erase You](https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI) | 2:58 | 2021-12-20 | 2022-07-19 |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-12-20 | 2022-06-15 |

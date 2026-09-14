@@ -2621,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Drop Dead Gorgeous (feat. TX2)",
+        "url": "https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Drop Dead Gorgeous (feat. TX2)",
+      "url": "https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp"
+    },
+    {
+      "album": {
         "name": "Haute Sauce",
         "url": "https://open.spotify.com/album/5Eam1MmcPLmdTa72bsB74w"
       },
@@ -6377,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "LIL SOMETHIN LIKE",
+        "url": "https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178998,
+      "name": "LIL SOMETHIN LIKE",
+      "url": "https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj"
+    },
+    {
+      "album": {
         "name": "linknb",
         "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
       },
@@ -7592,7 +7632,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 162160,
       "name": "Normal People",
       "url": "https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q"
@@ -11120,7 +11160,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 195980,
       "name": "ulysse",
       "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"

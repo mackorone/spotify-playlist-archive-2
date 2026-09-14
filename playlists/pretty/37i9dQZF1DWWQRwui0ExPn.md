@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,511,711 likes - 220 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,511,776 likes - 220 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marinara](https://open.spotify.com/track/7uI6R3KoJWxuXjvBHIr5lW) | [rden.96](https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR) | [Marinara](https://open.spotify.com/album/1v85tu01ytFvk6m0IDhLtQ) | 1:53 |
 | 2 | [Close Up](https://open.spotify.com/track/3nLvd6qsfFRcMTVyZbb6vd) | [Audio Sculptor](https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9) | [Close Up](https://open.spotify.com/album/5h6dVhTEYpkJAxpOJXFuHH) | 2:13 |
-| 3 | [ditto](https://open.spotify.com/track/0z4hZnfyYaI62mrPMqvFid) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [ditto](https://open.spotify.com/album/6vPm1y3WQS0DJw7JxKiENf) | 2:29 |
+| 3 | [ditto](https://open.spotify.com/track/0z4hZnfyYaI62mrPMqvFid) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [ditto](https://open.spotify.com/album/6vPm1y3WQS0DJw7JxKiENf) | 2:27 |
 | 4 | [one umbrella](https://open.spotify.com/track/5DTTeqf6ZoeCEZbky74cgm) | [stillnote](https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL) | [one umbrella](https://open.spotify.com/album/4saEExkroMAPeJ6uM01imh) | 2:13 |
 | 5 | [Airen](https://open.spotify.com/track/4Ekma2XsSu0szIvicDUtTw) | [Yasumi](https://open.spotify.com/artist/34l34Oez7Yh2TuELTDmNKZ) | [Airen](https://open.spotify.com/album/5sA9x2IuM64PuRUEFnHmyc) | 2:03 |
 | 6 | [nostalgic nights](https://open.spotify.com/track/0CgyaWJe6NgqkiLX8y7WMr) | [blissi bo](https://open.spotify.com/artist/5RLpAP5J88b3dnPxu79hrg) | [nostalgic nights](https://open.spotify.com/album/3wpcwkQkNqLRgaI3YqpMmp) | 1:47 |

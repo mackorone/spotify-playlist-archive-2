@@ -28,7 +28,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 275266,
       "name": "1947: Suite for Solo Piano & Orchestra: I. Circus",
       "url": "https://open.spotify.com/track/1SaNUjT10Ncrz0Sk3zdSsE"
@@ -939,6 +939,32 @@
     },
     {
       "album": {
+        "name": "Life is a Dream",
+        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hopkins",
+          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331133,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/14bPlplOfHlqQlDNSAIdaD"
+    },
+    {
+      "album": {
         "name": "Anthony Hopkins: Tara",
         "url": "https://open.spotify.com/album/1yhMlye6Ws5MxUan8h82Nm"
       },
@@ -958,7 +984,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 331133,
       "name": "Tara",
       "url": "https://open.spotify.com/track/3epb06FbivsK8CoFFCqo7V"

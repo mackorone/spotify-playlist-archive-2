@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: Nsqk",
-  "num_followers": 1542947,
+  "num_followers": 1542782,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQPk3hsJuFMaxnEdZqvukun2CCH",
+  "snapshot_id": "AAAAABPVgqVhWOVS1yQWL93UEvkbBZqW",
   "tracks": [
     {
       "added_at": "2026-09-04 04:01:56",
@@ -319,26 +319,18 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "APOCALIPTO",
-        "url": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
       "artists": [
         {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Cheniel Capone",
-          "url": "https://open.spotify.com/artist/67j0h2QVE98L5orBkBPm5H"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 216016,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/0pLD9XfKOLuv1Qlhu3qF3e"
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -359,18 +351,26 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+        "name": "APOCALIPTO",
+        "url": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Cheniel Capone",
+          "url": "https://open.spotify.com/artist/67j0h2QVE98L5orBkBPm5H"
         }
       ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+      "duration_ms": 216016,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/0pLD9XfKOLuv1Qlhu3qF3e"
     },
     {
       "added_at": "2026-09-04 04:01:56",

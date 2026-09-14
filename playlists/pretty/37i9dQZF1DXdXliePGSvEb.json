@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78584,
+  "num_followers": 78593,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Song for You / The Wizard",
         "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Bigroom Sensual II",
         "url": "https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245905,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "ONDATONDA",
+        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        },
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "duration_ms": 211125,
+      "name": "Ondatonda",
+      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "ONDATONDA",
-        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        },
-        {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
-        }
-      ],
-      "duration_ms": 211125,
-      "name": "Ondatonda",
-      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
     },
     {
       "added_at": "2025-12-03 12:15:55",

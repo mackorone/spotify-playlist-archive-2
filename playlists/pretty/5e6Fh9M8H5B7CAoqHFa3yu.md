@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,619 songs - 6 day 9 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,623 songs - 6 day 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2627,5 +2627,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2617 | [Getting 4am Vibes](https://open.spotify.com/track/0pZ4eGTCIxJrJyQgvciufh) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [Getting 4am Vibes](https://open.spotify.com/album/1IKLDlqWhsj18roTFn7tDi) | 2:00 |
 | 2618 | [Hearth](https://open.spotify.com/track/4w9EoIviZdmTYQi0qm5gyQ) | [Jonas Kildegaard](https://open.spotify.com/artist/3DGf0qSeKv7uGYQLFX6I9z) | [Hearth](https://open.spotify.com/album/3vhFMMYAhZLq39eRsrgDAw) | 2:12 |
 | 2619 | [Ok I Guess](https://open.spotify.com/track/4RQ4fyaMmx0HZ4ORL7CltZ) | [CØINS](https://open.spotify.com/artist/2lEXmLQLmjxZQUkFWvNfW9) | [Ok I Guess](https://open.spotify.com/album/5NSLmtpmep417wzjY4SCDj) | 2:07 |
+| 2620 | [Casa de Memórias \- Deluxe](https://open.spotify.com/track/5eQBa7QH5ad00aD9AO7tO3) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memórias \(Deluxe\)](https://open.spotify.com/album/2f05SypLlzEEF3HEBrGUed) | 3:08 |
+| 2621 | [We Wish You a Merry Christmas \- Solo Piano](https://open.spotify.com/track/6Q5CCSQOERg5ju5BizbPUX) | [The Felt Piano](https://open.spotify.com/artist/0slAkI3VpM4E3oKSwb13AZ) | [Cozy Christmas Piano](https://open.spotify.com/album/1wYo3BFXSYxFkhLtamW7aR) | 1:08 |
+| 2622 | [beat x](https://open.spotify.com/track/2EmyaxffjQNyloEKtgUneD) | [yulue](https://open.spotify.com/artist/6gdxJk7ipZHIK1cDt6RoDN) | [Zen Cat](https://open.spotify.com/album/5NcS8qmncYciwBwudBXnWT) | 1:22 |
+| 2623 | [Chillin' on the Beach](https://open.spotify.com/track/1DJf4RFu7mjBm8CwycLWxw) | [ZZZSomnus](https://open.spotify.com/artist/5KW9n7z2wnatM8CwCO7krD) | [Chillin' on the Beach](https://open.spotify.com/album/3X8MNNmIHD6VB9sD5ZyOcf) | 1:10 |
 
-Snapshot ID: `AAALMSIMFjZQoUQmcJPUMTwnnfaG/1um`
+Snapshot ID: `AAALNWHK0oikzR7iMRnq59XBYLhvPVrC`

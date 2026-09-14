@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,479 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,482 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 39 | [War With My Mind](https://open.spotify.com/track/6dV5ohVw7jYD7ZeMsSz15j) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [War With My Mind](https://open.spotify.com/album/3Gf11NuU7KYiVZJ2Cn7UcQ) | 4:04 |
 | 40 | [Best of Our Possible Lives](https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Best of Our Possible Lives](https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC) | 3:08 |
 | 41 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
-| 42 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 |
-| 43 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 |
+| 42 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 |
+| 43 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 |
 | 44 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
 | 45 | [Orphan Girl](https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/4naSRPW5EBkUY7d0JxPgP5) | 3:57 |
 | 46 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 55 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 |
 | 56 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 57 | [Sunshine Kisses](https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI) | [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Anything Without You](https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl) | 4:00 |
-| 58 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
-| 59 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
-| 60 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 |
+| 58 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
+| 59 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 |
+| 60 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
 | 61 | [Free \(Not Afraid to Die\)](https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:30 |
-| 62 | [Meet You There](https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Meet You There](https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR) | 3:40 |
-| 63 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 |
+| 62 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 |
+| 63 | [Meet You There](https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Meet You There](https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR) | 3:40 |
 | 64 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
 | 65 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 66 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |

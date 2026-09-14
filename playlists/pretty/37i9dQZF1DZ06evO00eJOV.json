@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37446,
+  "num_followers": 37444,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAABvTLhc7PZ2xnlG46qy1ull",
+  "snapshot_id": "aqSWAAAAAABsiTbIs4+MIRd37q/w4QYw",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Life Is Going On",
+      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Life Is Going On",
-      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Kenang Bohle",
+      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jiva 2.0 (Bacardi Remix)",
         "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 249577,
       "name": "Jiva 2.0 - Bacardi Remix",
       "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 297840,
-      "name": "Kenang Bohle",
-      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gimme Some Volume",
         "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 301986,
       "name": "Matshidiso",
       "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 306933,
-      "name": "Mali",
-      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black President",
         "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 226213,
       "name": "Stay Away (From My Man)",
       "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 306933,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
     },
     {
       "added_at": null,

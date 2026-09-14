@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 49048,
       "name": "Distance",
       "url": "https://open.spotify.com/track/7kGta0wRyFY4RuHaFVaSLu"
@@ -892,6 +892,28 @@
       "duration_ms": 170000,
       "name": "Little Piano Rivers",
       "url": "https://open.spotify.com/track/4UakNkVpsFlq5gqvlBdtMV"
+    },
+    {
+      "album": {
+        "name": "Landscape Architecture",
+        "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Lost Coast Haze",
+      "url": "https://open.spotify.com/track/4GpodcHqPtYoowTQdAq4v3"
     },
     {
       "album": {

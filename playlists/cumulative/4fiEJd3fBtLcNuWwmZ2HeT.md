@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-560 songs - 1 day 8 hr 46 min
+562 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-09-22 |  |
 | [Black Sheep](https://open.spotify.com/track/76fIkBJQtCdBFcfyNpWPWD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:06 | 2023-09-11 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-11 |  |
+| [Bonita](https://open.spotify.com/track/3579K5JbVHWgUqEJWF2BHc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Las Aparicio \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3yPxTgJ8viftLZ8GEiXkHG) | 3:38 | 2026-09-13 |  |
 | [Born before](https://open.spotify.com/track/06eVXhIMS55hwAXS2ODQ5l) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:00 | 2026-01-17 |  |
 | [BRAIN](https://open.spotify.com/track/1JPXGllBrloh5PnNa8D62g) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [BRAIN](https://open.spotify.com/album/72lhPYIoZ9BeHimm6jDs15) | 2:36 | 2025-08-31 |  |
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2022-08-18 |  |
@@ -312,7 +313,7 @@
 | [Suicide of the 21st century](https://open.spotify.com/track/6lkJKbOu7COoTKAqpC7xyR) | [0.8Syooogeki](https://open.spotify.com/artist/2bQl2eVUqMrlo9oncfmwtF) | [ESUNOFANKYDOFUTOEFUSUKICAMCAMCULB](https://open.spotify.com/album/0Biieu4eDMwmS5K8XmTCaH) | 2:20 | 2026-03-23 |  |
 | [suicide skip](https://open.spotify.com/track/4V1gPkJC5aOgSXuMOfb7n6) | [Machina](https://open.spotify.com/artist/75wt76r0r9Ps4vqqfEdxRA) | [suicide skip](https://open.spotify.com/album/2WT8m8OFOusmxDrFmOOmS4) | 3:22 | 2025-09-25 |  |
 | [suima](https://open.spotify.com/track/3F16pHyLskVyuAhZjyo3hm) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [suima](https://open.spotify.com/album/2CVKFYk9DuvRqMyYTd0gQV) | 3:10 | 2024-01-04 |  |
-| [Suji](https://open.spotify.com/track/2zehAIFkpZhvz18TA9lex7) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:32 | 2026-01-14 | 2026-03-25 |
+| [Suji](https://open.spotify.com/track/2zehAIFkpZhvz18TA9lex7) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:32 | 2026-01-14 |  |
 | [Sukuramaizu](https://open.spotify.com/track/7aTs4u1NEnWUgdECq4YVRU) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:54 | 2026-01-17 |  |
 | [Taboo Word's Love Song](https://open.spotify.com/track/2HySS6KqmrgSxFg89olAPS) | [mass](https://open.spotify.com/artist/79t8MOA8gkCjzy3iRrxwRt) | [Taboo Word's Love Song](https://open.spotify.com/album/5IjExH7TMJMqnwqlTp6aRh) | 3:07 | 2026-04-07 |  |
 | [Take a Hint](https://open.spotify.com/track/7H881krNfbDK6IgOp3mApQ) | [Nightcore Reality](https://open.spotify.com/artist/50YUlSM9xB8BSdZC0EKk9Z) | [Take a Hint](https://open.spotify.com/album/1pbidJl6at7SkgrWJQ8p4j) | 2:10 | 2022-08-29 |  |
@@ -324,6 +325,7 @@
 | [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/track/2egqhRbrcdGWrv5Fc28pB4) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Gackpo Camui](https://open.spotify.com/artist/0Om98P2y6ADW6KtBNbJytM), [VY2V3](https://open.spotify.com/artist/0y7SMdM7Cj78tD0Pv4bzcA), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [The Immoral Memory \~The Lost Memory\~](https://open.spotify.com/album/3k0uD7aQV4Mwtl3r97WohJ) | 4:14 | 2026-05-17 |  |
 | [The Lovely Life](https://open.spotify.com/track/1QAarw72bgyVa9EJne2Iio) | [DenkiQujira](https://open.spotify.com/artist/6xUZkU9AXpZMJF4gLzUUyx) | [Dull\-Gray Metropolis](https://open.spotify.com/album/5tF2jSTk8sG2HMJSwGaP4w) | 3:15 | 2026-02-23 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-01-17 |  |
+| [The Taste of Cockroach](https://open.spotify.com/track/5jVAe8oLRsZWDGTvXMeOlf) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [The Taste of Cockroach](https://open.spotify.com/album/17gTkKTbA7OZfWYnDyZ3Ul) | 4:26 | 2026-09-13 |  |
 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 | 2025-10-01 |  |
 | [Theseus](https://open.spotify.com/track/0sgN6Kxs3qqbTXkNDguzRm) | [髥莏](https://open.spotify.com/artist/6tOzIqlpQBKAFIqdhmTfiW) | [Theseus](https://open.spotify.com/album/7nISltBDHRMbfzk4jFSV6R) | 3:11 | 2026-03-12 |  |
 | [Thirst](https://open.spotify.com/track/50oR1TzouOhmvKsI5JSkyA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:00 | 2026-01-17 |  |

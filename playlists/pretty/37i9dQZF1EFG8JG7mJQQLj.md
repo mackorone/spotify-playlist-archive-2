@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 512 songs - 1 day 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,044 likes - 512 songs - 1 day 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 217 | [Seasons](https://open.spotify.com/track/6TW2OHata91dIc99MZehcT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:37 |
 | 218 | [Ain't Easy](https://open.spotify.com/track/0b9KkFVuiKep5IH8O5O8OX) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [8:47](https://open.spotify.com/album/2RxqGBW2H5j2EyZyqwc7m3) | 3:08 |
 | 219 | [Lift Me Up](https://open.spotify.com/track/0x7oCog91UWqiYJQEee3uK) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
-| 220 | [Trust](https://open.spotify.com/track/5MoU7TaAvgBa8W0XVwXAd7) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:00 |
-| 221 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 220 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 221 | [Trust](https://open.spotify.com/track/5MoU7TaAvgBa8W0XVwXAd7) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:00 |
 | 222 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/0baR1QmlC8CruupaxA1IYA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \(from Kaiju No\. 8\)](https://open.spotify.com/album/2jljUUaSxmuX3aoDQNak4e) | 2:37 |
 | 223 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
 | 224 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
@@ -412,8 +412,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 402 | [Divine \- Long Version / Bonus Track / Remastered 2025](https://open.spotify.com/track/0HHBjcWrcU9RCP8G0cColh) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [Dangerous and Moving \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6Dq85mwhXOGgYWLMEFILGS) | 3:17 |
 | 403 | [Crush \(From "Songland"\)](https://open.spotify.com/track/5cDK6gZ5E7OUfI3Sl1DIgs) | [Daniel Feels](https://open.spotify.com/artist/5ZJXhhWpqZS8C2xqOOxro0), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Crush \(From "Songland"\)](https://open.spotify.com/album/28m0PEgWPala52DDvUAhHU) | 2:40 |
 | 404 | [Same Blood](https://open.spotify.com/track/6no2TiaMDBkI5Mo6yssV4X) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Same Blood](https://open.spotify.com/album/6hkAYWquyUAcEI0TuzOKtq) | 3:03 |
-| 405 | [She Tried](https://open.spotify.com/track/1boP5WnY3f23s7MpMmDMFY) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Deliverance](https://open.spotify.com/album/1Su7jQECJV3scrqYw55XvD) | 3:49 |
-| 406 | [Let You Go](https://open.spotify.com/track/4SHDFcuH0z1VRjkOqOFHIK) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/6Z81DMpllKUxDwowiHYbsu) | 1:37 |
+| 405 | [Let You Go](https://open.spotify.com/track/4SHDFcuH0z1VRjkOqOFHIK) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/6Z81DMpllKUxDwowiHYbsu) | 1:37 |
+| 406 | [She Tried](https://open.spotify.com/track/1boP5WnY3f23s7MpMmDMFY) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Deliverance](https://open.spotify.com/album/1Su7jQECJV3scrqYw55XvD) | 3:49 |
 | 407 | [We Got Us \(From "Songland"\)](https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6) | [Brandin Jay](https://open.spotify.com/artist/6DDkY2dyl6CxbDK9h4nkVf) | [We Got Us \(From "Songland"\)](https://open.spotify.com/album/574gbvmiQQtysH6vU4CUiA) | 3:28 |
 | 408 | [You’ll Be There \(with Justin Timberlake\)](https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:21 |
 | 409 | [Strike the Match](https://open.spotify.com/track/7GwZnHs1t5bzzXjsqgtigW) | [Monrose](https://open.spotify.com/artist/6y5noymXdPvXf7wjIAgQOY) | [I Am](https://open.spotify.com/album/2Nhz0KfLNdiNwlGy8GeOTb) | 2:56 |
@@ -511,8 +511,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 501 | [Strangers](https://open.spotify.com/track/3tnDcwOTgJuuk4efslJaqD) | [Zascha Moktan](https://open.spotify.com/artist/0HJwvIwsY6oOwURyjAXOXV) | [State Of Mind](https://open.spotify.com/album/4RUtRX1TqwB89oPvZr8BKa) | 4:14 |
 | 502 | [Falling](https://open.spotify.com/track/5i0g98UudqymFhmcBfCs9I) | [Josh Hoge](https://open.spotify.com/artist/3xlxlp5Pzc1JYmyUPS79VC) | [This Holiday](https://open.spotify.com/album/3SYNzzNRhQBNQgtfIopiyH) | 2:12 |
 | 503 | [Heart Will Fall](https://open.spotify.com/track/6X6SGiFBL99uTc17hCOlH2) | [Curtis Peoples](https://open.spotify.com/artist/7LfBHu0AWzbnRsqkMtypBG) | [Curtis Peoples](https://open.spotify.com/album/7yPWlqJXT8otPe0Oa8MBaC) | 2:52 |
-| 504 | [What if](https://open.spotify.com/track/4I3d8EFh6lUx9eZpealUy2) | [GINA ÉTÉ](https://open.spotify.com/artist/5iAy6s7P69l0QryuKJE0Tb) | [Hourglass](https://open.spotify.com/album/6zeueAfDZscb7YmsWyIK0p) | 2:44 |
-| 505 | [Mercy](https://open.spotify.com/track/0KGzdKPs4zXemUUgt9uXIg) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Mercy](https://open.spotify.com/album/0EqdEgOlprhayKEijq4uhH) | 4:06 |
+| 504 | [Mercy](https://open.spotify.com/track/0KGzdKPs4zXemUUgt9uXIg) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Mercy](https://open.spotify.com/album/0EqdEgOlprhayKEijq4uhH) | 4:06 |
+| 505 | [What if](https://open.spotify.com/track/4I3d8EFh6lUx9eZpealUy2) | [GINA ÉTÉ](https://open.spotify.com/artist/5iAy6s7P69l0QryuKJE0Tb) | [Hourglass](https://open.spotify.com/album/6zeueAfDZscb7YmsWyIK0p) | 2:44 |
 | 506 | [Attention](https://open.spotify.com/track/0koDICI8uy48ur8lX3F1SK) | [aliasg](https://open.spotify.com/artist/1R7HebbxrQwNFGV5uww9gJ) | [Attention](https://open.spotify.com/album/5uSB3EcPYkeY2Wy0zw4YR6) | 5:45 |
 | 507 | [Won't Walk Away](https://open.spotify.com/track/4TOvwLHReu2LywMpfoUcSJ) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Reason](https://open.spotify.com/album/21rolf1dBBSNqsEZqC7L7l) | 3:41 |
 | 508 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 |
@@ -521,4 +521,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 511 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 512 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AccI/AAAAADalRIyb7jrXqn4fDXZRtOl`
+Snapshot ID: `AccOnAAAAAAsd4UquEaoJLcmXO4v6S+a`

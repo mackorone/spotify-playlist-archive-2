@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2016. Cover: Shakira\n\n",
-  "num_followers": 74506,
+  "num_followers": 74531,
   "original_name": "Latin Hits 2016",
   "owner": {
     "name": "Spotify",
@@ -655,8 +655,8 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "En la Intimidad",
-        "url": "https://open.spotify.com/album/7azq3plJ1x80tMRD5IzUbk"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/2xVWpgjaOYXIBaci6rRaWc"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 256183,
-      "name": "En la Intimidad",
-      "url": "https://open.spotify.com/track/45qvBgXbCxkmRYKNJQFm3g"
+      "duration_ms": 196520,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/6TGwxVbZHpRNZmMW43SRLS"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -735,8 +735,8 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/2xVWpgjaOYXIBaci6rRaWc"
+        "name": "En la Intimidad",
+        "url": "https://open.spotify.com/album/7azq3plJ1x80tMRD5IzUbk"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/6TGwxVbZHpRNZmMW43SRLS"
+      "duration_ms": 256183,
+      "name": "En la Intimidad",
+      "url": "https://open.spotify.com/track/45qvBgXbCxkmRYKNJQFm3g"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 230373,
-      "name": "Embri\u00e1game (feat. Don Omar) - Remix",
-      "url": "https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM"
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     }
   ],
   "unique_name": "Latin Hits 2016",

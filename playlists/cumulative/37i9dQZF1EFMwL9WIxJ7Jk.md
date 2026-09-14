@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-256 songs - 13 hr 14 min
+257 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,8 +123,9 @@
 | [I'm Down](https://open.spotify.com/track/4N4AQ2IciPBGq93Ch9lmcd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:16 | 2023-12-30 | 2025-07-12 |
 | [I'm in a Perfect Relationship](https://open.spotify.com/track/4DpztgVtYpzRbHGVXCggfP) | [Central Park Cast](https://open.spotify.com/artist/2MU9NyN6HS8x0XdGsrmu7w), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Eugene Cordero](https://open.spotify.com/artist/1GsKNo2BE4xqNfFbeIL7M7) | [Central Park Season One, The Soundtrack – Song\-tral Park \(Original Soundtrack\)](https://open.spotify.com/album/253wtagKgfFJJ1Lhp8BwJJ) | 2:17 | 2023-12-30 | 2025-07-12 |
 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 | 2023-12-30 | 2025-07-12 |
-| [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/album/5n37xMf8Czh0pyFy28QAYC) | 3:37 | 2026-08-18 |  |
+| [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/album/5n37xMf8Czh0pyFy28QAYC) | 3:37 | 2026-08-18 | 2026-09-14 |
 | [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(feat\. Meghan Trainor\)](https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2) | 3:35 | 2023-12-30 | 2026-08-19 |
+| [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/4a4mLhDBYWGLaImk2dO7VF) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(5 Year Anniversary\)](https://open.spotify.com/album/5hE28EhvE74mBJFaE3wIAu) | 3:35 | 2026-09-13 |  |
 | [In the Sun](https://open.spotify.com/track/5SOFf6LgRlUutxhLd6MPya) | [Aya Katrine](https://open.spotify.com/artist/7sd7vz56moXFkk1sHSXTVB) | [In the Sun](https://open.spotify.com/album/0ohigH2Wj1SjBv5aEeg04t) | 3:12 | 2023-12-30 |  |
 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 | 2024-11-14 |  |
 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 | 2024-10-10 |  |

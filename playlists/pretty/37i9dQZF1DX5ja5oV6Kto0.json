@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Scottyolorin",
-  "num_followers": 113814,
+  "num_followers": 113824,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
+        "name": "International Collector / Oz.",
+        "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 115470,
+      "name": "International Collector",
+      "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
         "name": "Understand Me",
         "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
-        "name": "International Collector / Oz.",
-        "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 115470,
-      "name": "International Collector",
-      "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
     },
     {
       "added_at": "2026-09-11 00:01:33",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
-      },
-      "artists": [
-        {
-          "name": "St. Seii",
-          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
         "name": "Greedy",
         "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 165415,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
+      },
+      "artists": [
+        {
+          "name": "St. Seii",
+          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
     },
     {
       "added_at": "2026-09-11 00:01:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 154285,
       "name": "BE",
       "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
     },
     {
       "added_at": "2026-09-11 00:01:33",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
-        "name": "Big Bad World",
-        "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
-      },
-      "artists": [
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Big Bad World",
-      "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
         "name": "Diamond in a Process",
         "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
       },
@@ -1351,6 +1335,42 @@
       "duration_ms": 145426,
       "name": "Yapa Yapa",
       "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/29ewRMLsabylr0SugyLIg9"
+      },
+      "artists": [
+        {
+          "name": "Diamond Boy",
+          "url": "https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE"
+        },
+        {
+          "name": "Venuxx",
+          "url": "https://open.spotify.com/artist/174wNtmpxD8ffzvcYQSoev"
+        }
+      ],
+      "duration_ms": 104256,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/2KAGHt7F1clx5yT7HHkAme"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
+        "name": "Big Bad World",
+        "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Big Bad World",
+      "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"
     },
     {
       "added_at": "2026-09-11 00:01:33",
@@ -1415,22 +1435,6 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
-        "name": "o-YO\u00a1",
-        "url": "https://open.spotify.com/album/0QPAyUdeXWBXhZDdSueCnL"
-      },
-      "artists": [
-        {
-          "name": "Luwa.Mp4",
-          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "ataKO",
-      "url": "https://open.spotify.com/track/5rBrGcFb5ofhRwHL6VFaK8"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
         "name": "Sex on the Beach",
         "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
       },
@@ -1447,6 +1451,22 @@
     {
       "added_at": "2026-09-11 00:01:33",
       "album": {
+        "name": "o-YO\u00a1",
+        "url": "https://open.spotify.com/album/0QPAyUdeXWBXhZDdSueCnL"
+      },
+      "artists": [
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "ataKO",
+      "url": "https://open.spotify.com/track/5rBrGcFb5ofhRwHL6VFaK8"
+    },
+    {
+      "added_at": "2026-09-11 00:01:33",
+      "album": {
         "name": "Don't Go Far",
         "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
       },
@@ -1459,22 +1479,6 @@
       "duration_ms": 198260,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
-    },
-    {
-      "added_at": "2026-09-11 00:01:33",
-      "album": {
-        "name": "Bad Decision",
-        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Bad Decision",
-      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

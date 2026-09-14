@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-599 songs - 1 day 11 hr 12 min
+600 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-04-04 | 2023-07-13 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-08-26 | 2024-05-17 |
 | [Misbehave](https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Campbell King](https://open.spotify.com/artist/18XKTgi2KHE5JpxFlrl7YM) | [Misbehave](https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU) | 3:16 | 2026-07-02 | 2026-08-08 |
+| [Misery](https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Misery](https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM) | 3:15 | 2026-09-10 |  |
 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-26 | 2023-04-05 |
 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 | 2024-06-28 | 2026-04-11 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-28 | 2026-04-11 |
@@ -393,7 +394,7 @@
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2024-04-19 | 2024-05-17 |
 | [Pans Of Death](https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [AD02: Pans Of Death / Rounds](https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL) | 5:20 | 2025-08-14 | 2026-07-02 |
 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 | 2024-06-28 | 2025-08-15 |
-| [Para](https://open.spotify.com/track/49tm2VZn9ALfFZChssSHHh) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Para](https://open.spotify.com/album/5zN1b1OpRWtQCGggVuvlNL) | 3:19 | 2026-08-20 |  |
+| [Para](https://open.spotify.com/track/49tm2VZn9ALfFZChssSHHh) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Para](https://open.spotify.com/album/5zN1b1OpRWtQCGggVuvlNL) | 3:19 | 2026-08-20 | 2026-09-14 |
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-13 | 2025-08-15 |
 | [Party Started \(feat\. French Caviar\)](https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [KAYA](https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ), [French Caviar](https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb) | [Party Started \(feat\. French Caviar\)](https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe) | 2:23 | 2026-04-10 |  |
 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 | 2026-07-16 |  |

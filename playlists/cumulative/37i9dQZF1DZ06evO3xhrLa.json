@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 206013,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 213333,
       "name": "calm & patient",
       "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 321826,
       "name": "Comfort Inn Ending (Freestyle)",
       "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 227506,
       "name": "Drunk Texting (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 210640,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 232826,
       "name": "mirrors - Bonus",
       "url": "https://open.spotify.com/track/0IXTRIqR1OsKb0YQ235Xkd"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 178920,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135237,
+      "name": "Nothing Nice to Say",
+      "url": "https://open.spotify.com/track/5yM0fbywAykotoPemTQ7ev"
+    },
+    {
+      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 143533,
       "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 198240,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th"
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 188964,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 210773,
       "name": "The Vapors",
       "url": "https://open.spotify.com/track/7mnJgJhtuBEMRNoERn1OOa"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 66021,
       "name": "Wild Cat(s)",
       "url": "https://open.spotify.com/track/6aOhKylB7wLpv21lj0JbUs"

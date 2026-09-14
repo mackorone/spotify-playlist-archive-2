@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de 8uno y DENNA LA PORRI",
-  "num_followers": 93883,
+  "num_followers": 93886,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -107,42 +107,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Victoria Miller",
-        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Victoria Miller",
-      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 141829,
-      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "bbylover",
         "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
       },
@@ -167,6 +131,42 @@
       "duration_ms": 166281,
       "name": "bbylover",
       "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "Victoria Miller",
+        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Victoria Miller",
+      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "Cadena Nacional",
+        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 148274,
+      "name": "Cadena Nacional",
+      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/4PxYN3bvj1bzI8yldB8X0d"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 167892,
       "name": "Flash",
       "url": "https://open.spotify.com/track/4qMjLFddlhMDlSsjhoxvrx"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "Cadena Nacional",
-        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 148274,
-      "name": "Cadena Nacional",
-      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
         "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 192000,
       "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
       "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

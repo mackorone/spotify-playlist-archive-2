@@ -1,6 +1,6 @@
 {
   "description": "\u0421\u043f\u043e\u043a\u0456\u0439\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u043e\u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u043d\u043a\u0456\u0432 \u0456 \u0437\u0430\u0442\u0438\u0448\u043d\u0438\u0445 \u0432\u0435\u0447\u043e\u0440\u0456\u0432 \ud83c\udf41",
-  "num_followers": 39961,
+  "num_followers": 39972,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
-      },
-      "artists": [
-        {
-          "name": "OKS",
-          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
         "url": "https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 202400,
       "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
       "url": "https://open.spotify.com/track/4EWPpDlKICw2jMyGBgYHZ9"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
+      },
+      "artists": [
+        {
+          "name": "OKS",
+          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0412\u043e\u043b\u044f (full version)",
-        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
-      },
-      "artists": [
-        {
-          "name": "Maryna Krut",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "\u0412\u043e\u043b\u044f - full version",
-      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u041c\u0456\u0441\u0442\u043e",
         "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
       },
@@ -539,8 +523,24 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u041f\u043e \u041a\u043e\u043b\u0443",
-        "url": "https://open.spotify.com/album/1uqLQIRZOGnXxVX1wTc4EU"
+        "name": "\u0412\u043e\u043b\u044f (full version)",
+        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+      },
+      "artists": [
+        {
+          "name": "Maryna Krut",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "\u0412\u043e\u043b\u044f - full version",
+      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
         }
       ],
-      "duration_ms": 197136,
-      "name": "\u041f\u043e \u041a\u043e\u043b\u0443",
-      "url": "https://open.spotify.com/track/3H77MNMQJBotRTXc3AaQyb"
+      "duration_ms": 180750,
+      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
+        "name": "\u041f\u043e \u041a\u043e\u043b\u0443",
+        "url": "https://open.spotify.com/album/1uqLQIRZOGnXxVX1wTc4EU"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
         }
       ],
-      "duration_ms": 180750,
-      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
+      "duration_ms": 197136,
+      "name": "\u041f\u043e \u041a\u043e\u043b\u0443",
+      "url": "https://open.spotify.com/track/3H77MNMQJBotRTXc3AaQyb"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0421\u043e\u043d",
-        "url": "https://open.spotify.com/album/6Uyf3S4PbtSO30lSPnu9Hh"
-      },
-      "artists": [
-        {
-          "name": "\u0441\u0435\u0440\u0432\u0430\u043d\u0442",
-          "url": "https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "\u0421\u043e\u043d",
-      "url": "https://open.spotify.com/track/7yfAArTAxMY5Vl7u3CCRAE"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
         "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 223532,
       "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u0421\u043e\u043d",
+        "url": "https://open.spotify.com/album/6Uyf3S4PbtSO30lSPnu9Hh"
+      },
+      "artists": [
+        {
+          "name": "\u0441\u0435\u0440\u0432\u0430\u043d\u0442",
+          "url": "https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "\u0421\u043e\u043d",
+      "url": "https://open.spotify.com/track/7yfAArTAxMY5Vl7u3CCRAE"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0412\u043e\u044f\u0436",
-        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
-      },
-      "artists": [
-        {
-          "name": "YARIMA",
-          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
-        }
-      ],
-      "duration_ms": 136943,
-      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u0424\u0443\u0440\u0456\u044f",
         "url": "https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188666,
       "name": "\u0424\u0443\u0440\u0456\u044f",
       "url": "https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u0412\u043e\u044f\u0436",
+        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
+      },
+      "artists": [
+        {
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
+        }
+      ],
+      "duration_ms": 136943,
+      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
         "name": "Can You Believe",
         "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 188690,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/1wLB14luY2RU9H8aGVNNw8"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2026-09-01 09:50:26",

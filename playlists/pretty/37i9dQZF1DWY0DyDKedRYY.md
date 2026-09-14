@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,753 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,726 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 17 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |
 | 18 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
 | 19 | [love that stains](https://open.spotify.com/track/7dfrDyLVjgV2KS4M9AqVkn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [PINK LEMONADE](https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq) | 3:45 |
-| 20 | [Gasoline](https://open.spotify.com/track/75cizOCN0zzolG0PY5IS4U) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/7bKoVLBzZXgoavrlx8H8Eg) | 3:01 |
+| 20 | [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 |
 | 21 | [Makin' Me A Liar](https://open.spotify.com/track/29NuRoVMbhYhUBht1mXINb) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Makin' Me A Liar](https://open.spotify.com/album/23nqHGJf5bjTUDkVyCTSlW) | 3:03 |
 | 22 | [Proud](https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Proud](https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6) | 2:10 |
 | 23 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |

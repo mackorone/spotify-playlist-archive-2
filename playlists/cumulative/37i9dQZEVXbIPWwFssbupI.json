@@ -11058,7 +11058,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 161795,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn"
@@ -15322,7 +15322,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -21328,7 +21328,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 209617,
       "name": "Histoire sans fin",
       "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
@@ -37936,6 +37936,24 @@
     {
       "album": {
         "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+    },
+    {
+      "album": {
+        "name": "Pangor (Swalalala)",
         "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
       },
       "artists": [
@@ -38398,7 +38416,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -38500,7 +38518,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 141266,
       "name": "PARLU",
       "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
@@ -43794,7 +43812,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 203626,
       "name": "Sage - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1RtlGf0CIqQImlPlZ5Kpf6"
@@ -51704,7 +51722,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 128920,
       "name": "Tu dors ?",
       "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"

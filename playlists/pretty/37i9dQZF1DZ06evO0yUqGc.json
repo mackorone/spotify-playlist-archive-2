@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 96900,
+  "num_followers": 96893,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAAHuFwBnWIdsA+o01+vtBHJ",
+  "snapshot_id": "aqSWAAAAAAANTNC411EwKXkS2uNx216c",
   "tracks": [
     {
       "added_at": null,
@@ -398,11 +398,15 @@
         {
           "name": "Lily Allen",
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        },
+        {
+          "name": "Specialist Moss",
+          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
         }
       ],
-      "duration_ms": 177106,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc"
+      "duration_ms": 162853,
+      "name": "Nonmonogamummy",
+      "url": "https://open.spotify.com/track/0dBRiasmDpHou4JmNBe8cq"
     },
     {
       "added_at": null,
@@ -687,6 +691,26 @@
       "duration_ms": 198106,
       "name": "Him",
       "url": "https://open.spotify.com/track/3XbSdPCqIfK0BOOjqtNdfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Heaven's Gate (feat. Lily Allen)",
+      "url": "https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64"
     },
     {
       "added_at": null,

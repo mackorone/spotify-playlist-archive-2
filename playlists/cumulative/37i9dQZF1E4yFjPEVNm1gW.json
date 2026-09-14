@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Favo, Yeat, Autumn! and more",
+  "description": "With Yeat, Favo, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -2521,6 +2521,32 @@
     },
     {
       "album": {
+        "name": "hunnid",
+        "url": "https://open.spotify.com/album/6a0UtHB4C2KefYA6NSmgyQ"
+      },
+      "artists": [
+        {
+          "name": "brocky",
+          "url": "https://open.spotify.com/artist/6QY3OnmClVaEMdJfaqj3wY"
+        },
+        {
+          "name": "shamm",
+          "url": "https://open.spotify.com/artist/7922EczkaRB7hetTyVPN2Q"
+        },
+        {
+          "name": "K!no",
+          "url": "https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90200,
+      "name": "hunnid",
+      "url": "https://open.spotify.com/track/0OJbP2toa8a2CJv5ouYZtc"
+    },
+    {
+      "album": {
         "name": "i got bodies",
         "url": "https://open.spotify.com/album/54w4OV3mq1xoHKpUT0jzhy"
       },
@@ -2648,7 +2674,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -2720,7 +2746,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 121846,
       "name": "INTELLIGENT",
       "url": "https://open.spotify.com/track/0e49QvEBEc03vo0As3Wk7i"
@@ -4286,7 +4312,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
@@ -5931,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "blonde",
+        "url": "https://open.spotify.com/album/3PxjpHm27KB0MqxilTX0lf"
+      },
+      "artists": [
+        {
+          "name": "kifoh",
+          "url": "https://open.spotify.com/artist/1tgG8ANvRIJki4Cui7mlYh"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104568,
+      "name": "u don't need me",
+      "url": "https://open.spotify.com/track/57yLIR9EN5LxWTZMtgYY17"
+    },
+    {
+      "album": {
         "name": "UP!",
         "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
@@ -6044,7 +6088,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"

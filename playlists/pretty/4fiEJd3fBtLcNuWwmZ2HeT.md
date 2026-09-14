@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 519 songs - 1 day 5 hr 51 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 522 songs - 1 day 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -527,5 +527,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 517 | [ダークヒーローアンニュイ](https://open.spotify.com/track/4Qp4ZeSwmDuxfCMq4D9Y9D) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 COMPILATION ALBUM パラノーマル \(vol.4 空想のパラノーマル\)](https://open.spotify.com/album/5aST7gW3dbKksIxqI7QwK6) | 3:04 |
 | 518 | [Lovely Mine Girl](https://open.spotify.com/track/3EusRqi3A00rP3HR8d2kNh) | [litmus\*](https://open.spotify.com/artist/4grBe27LTKdzWxm1YCiF84), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Lovely Mine Girl](https://open.spotify.com/album/64WY7FPC7KePBg5B5yVhVR) | 3:15 |
 | 519 | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/track/4H5yS7hAdspvJ99wConp95) | [ki\-you](https://open.spotify.com/artist/5jaTqsboVvCuvp8QXaOXjc), [Ui](https://open.spotify.com/artist/3QffMjj7uwfV2xqGhHiIZq), [REML](https://open.spotify.com/artist/7qAvJuLIr1uEt2iad9myrO) | [ideal idoll \(feat\. Ui & REML\)](https://open.spotify.com/album/2he6vKNJgpSofmf8jQXNTy) | 2:40 |
+| 520 | [Suji](https://open.spotify.com/track/2zehAIFkpZhvz18TA9lex7) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:32 |
+| 521 | [The Taste of Cockroach](https://open.spotify.com/track/5jVAe8oLRsZWDGTvXMeOlf) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [The Taste of Cockroach](https://open.spotify.com/album/17gTkKTbA7OZfWYnDyZ3Ul) | 4:26 |
+| 522 | [Bonita](https://open.spotify.com/track/3579K5JbVHWgUqEJWF2BHc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Las Aparicio \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3yPxTgJ8viftLZ8GEiXkHG) | 3:38 |
 
-Snapshot ID: `AAAKfEbWfYEduqf5wMX15ccW2YVJ4mlM`
+Snapshot ID: `AAAKf5aOX3nP7KKKD+MYcoLq39uEdsBA`

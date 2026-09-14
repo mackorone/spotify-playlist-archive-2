@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 352249,
+  "num_followers": 352350,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+        "name": "El M\u00e1s Parrandero",
+        "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
       },
       "artists": [
         {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "Coty",
+          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+      "duration_ms": 270453,
+      "name": "Sufrir\u00e1s",
+      "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -395,22 +399,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "El M\u00e1s Parrandero",
-        "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "Coty",
-          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 270453,
-      "name": "Sufrir\u00e1s",
-      "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -447,6 +447,26 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
+        "name": "C\u00f3mo Le Gusta A Mi Gente",
+        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
+      },
+      "artists": [
+        {
+          "name": "Coty",
+          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Que Precio Tiene El Cielo",
+      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
-        "name": "C\u00f3mo Le Gusta A Mi Gente",
-        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
-      },
-      "artists": [
-        {
-          "name": "Coty",
-          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Que Precio Tiene El Cielo",
-      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI"
+        "name": "Los M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
       },
       "artists": [
         {
-          "name": "Diana Rios",
-          "url": "https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi"
-        },
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 189738,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw"
+      "duration_ms": 185077,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Los M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Diana Rios",
+          "url": "https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi"
+        },
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
+      "duration_ms": 189738,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw"
     },
     {
       "added_at": "2026-07-20 18:12:10",

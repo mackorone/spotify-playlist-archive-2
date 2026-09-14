@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: EST Gee",
+  "description": "The Midwest is always on time. Cover: BloodHound Q50",
   "name": "CST",
   "tracks": [
     {
@@ -7782,6 +7782,32 @@
       "duration_ms": 179453,
       "name": "DONT WORRY (feat. Chip Tha Ripper)",
       "url": "https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc"
+    },
+    {
+      "album": {
+        "name": "Long Live My Brudda He Prolly Kilt Yo Brudda",
+        "url": "https://open.spotify.com/album/1JWtOpOnkGCHoYRYnLaBQ3"
+      },
+      "artists": [
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101893,
+      "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
+      "url": "https://open.spotify.com/track/1AqbuGVPrXCw6AyKMwcQ4m"
     },
     {
       "album": {

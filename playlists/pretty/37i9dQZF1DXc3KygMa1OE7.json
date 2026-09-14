@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2614537,
+  "num_followers": 2614601,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Chinese Wall",
         "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 304506,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
     },
     {
       "added_at": "2026-02-25 17:39:27",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Waking Up With The House On Fire (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5GDd4m6f97q3ny2DfbnxiT"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Love Is Love - Remastered 2003",
-      "url": "https://open.spotify.com/track/4cdYXSZsyCnnIEM8YjMalV"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "20th Century Masters: The Best Of Joe Cocker (The Millennium Collection)",
         "url": "https://open.spotify.com/album/2Qy7P4tvyqZcNOD4II3oKg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 232573,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/1h22h211rde6dDCeW2hXpN"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Waking Up With The House On Fire (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5GDd4m6f97q3ny2DfbnxiT"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Love Is Love - Remastered 2003",
+      "url": "https://open.spotify.com/track/4cdYXSZsyCnnIEM8YjMalV"
     },
     {
       "added_at": "2026-02-25 17:39:27",

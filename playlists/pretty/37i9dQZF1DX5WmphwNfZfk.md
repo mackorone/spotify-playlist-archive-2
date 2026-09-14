@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
 | 50 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
 
-Snapshot ID: `AAAAAK9jBYOWskjflDUqGTvTMBGOuB71`
+Snapshot ID: `AAAAAL1/mKQH0GelLCoEE5zVJmcuZvaC`

@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 365275,
+  "num_followers": 365407,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+      "duration_ms": 211330,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 211330,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -995,18 +995,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
-        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
+        "name": "Timeless : The Best",
+        "url": "https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        },
+        {
+          "name": "TAECYEON",
+          "url": "https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh"
         }
       ],
-      "duration_ms": 212950,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
+      "duration_ms": 226813,
+      "name": "\ub0b4 \uadc0\uc5d0 \uce94\ub514 (FEAT. \ud0dd\uc5f0 Of 2PM)",
+      "url": "https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Timeless : The Best",
-        "url": "https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2"
+        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
+        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
       },
       "artists": [
         {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        },
-        {
-          "name": "TAECYEON",
-          "url": "https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 226813,
-      "name": "\ub0b4 \uadc0\uc5d0 \uce94\ub514 (FEAT. \ud0dd\uc5f0 Of 2PM)",
-      "url": "https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar"
+      "duration_ms": 212950,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
     },
     {
       "added_at": "2024-03-27 14:24:46",

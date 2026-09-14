@@ -3712,6 +3712,32 @@
     {
       "album": {
         "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
+    },
+    {
+      "album": {
+        "name": "FAVOUR",
         "url": "https://open.spotify.com/album/4w6PorVb5s1RTpTWJWifhs"
       },
       "artists": [
@@ -13566,7 +13592,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 342613,
       "name": "Taloto",
       "url": "https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C"

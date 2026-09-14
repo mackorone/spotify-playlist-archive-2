@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
@@ -8328,7 +8328,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 255589,
       "name": "Khalina Zekra",
       "url": "https://open.spotify.com/track/5iqwTdNpHSMEj8KkkCBllY"
@@ -9032,7 +9032,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 185668,
       "name": "LAW NASYANY",
       "url": "https://open.spotify.com/track/2yGYedTBTlRtXzmlrXL4wi"
@@ -16336,7 +16336,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 192972,
       "name": "WALA MEEN",
       "url": "https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid"
@@ -18400,7 +18400,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 192052,
       "name": "\u0627\u0644\u063a\u0627\u0628\u0629 \u0644\u064a\u0647\u0627 \u0628\u0627\u0628\u0627 ( \u0647\u0648 \u0627\u0644\u062f\u064a\u0628 \u0644\u0645\u0627 \u064a\u063a\u064a\u0628 )",
       "url": "https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF"
@@ -21976,7 +21976,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 245352,
       "name": "\u063a\u0628\u064a",
       "url": "https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR"
@@ -22661,6 +22661,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0627\u0639\u0628\u062a \u0627\u0644\u0643\u0628\u0627\u0631",
+        "url": "https://open.spotify.com/album/1Eb5h5qq3ZHPFkajLjlEAD"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246990,
+      "name": "\u0644\u0627\u0639\u0628\u062a \u0627\u0644\u0643\u0628\u0627\u0631",
+      "url": "https://open.spotify.com/track/51QCjotlVaiOxwXzlA4gza"
+    },
+    {
+      "album": {
         "name": "\u0644\u0628\u0633\u064a \u0628\u0631\u0646\u062f\u0627\u062a ( \u0645\u0641\u064a\u0634 \u063a\u064a\u0631\u0643 \u0627\u0646\u062a\u064a \u064a\u0627 \u0645\u0627\u0645\u062a \u062d\u064a\u0645\u0627 )",
         "url": "https://open.spotify.com/album/5aNLP3rzLiEW323s5SQXNK"
       },
@@ -23122,6 +23140,28 @@
     {
       "album": {
         "name": "\u0645\u062a\u062d\u0635\u0646",
+        "url": "https://open.spotify.com/album/2p1tIQLGzoVN3zHMTpvPGb"
+      },
+      "artists": [
+        {
+          "name": "HAMO ELGALAD",
+          "url": "https://open.spotify.com/artist/1CmWZvZz4ezFl1OQDAAY3E"
+        },
+        {
+          "name": "\u0627\u0644\u062e\u0627\u0644 El khal",
+          "url": "https://open.spotify.com/artist/43tUkxTQS8pdg8AQ4SCo8L"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337212,
+      "name": "\u0645\u062a\u062d\u0635\u0646",
+      "url": "https://open.spotify.com/track/2l5LHTRC2l8j90YEQ10T0u"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u062d\u0635\u0646",
         "url": "https://open.spotify.com/album/6eUOuiKGoRm6gllbZtmPnA"
       },
       "artists": [
@@ -23136,7 +23176,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 337200,
       "name": "\u0645\u062a\u062d\u0635\u0646",
       "url": "https://open.spotify.com/track/4Fo5FcHMkfaJCQzdaRW2WV"
@@ -23636,7 +23676,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 340750,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0627\u0644\u062d\u0628\u0633 \u0648\u0627\u0639\u0631",
       "url": "https://open.spotify.com/track/6nUZYmhiXIvUg2bVsmWLcV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,834 songs - 10 day 21 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,839 songs - 10 day 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3827,7 +3827,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3817 | [Una Luce dentro Me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 |
 | 3818 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 |
 | 3819 | [PARA SIEMPRE](https://open.spotify.com/track/3kwAFSdi5Qzy1fzdhZqirn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [PARA SIEMPRE](https://open.spotify.com/album/0IL9V903lZLvtzsfTKT2K3) | 3:22 |
-| 3820 | [GIALLO NERI FOREVER SUMMER \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 |
+| 3820 | [Giallo Neri Forever Summer](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 |
 | 3821 | [URBAN BARBER](https://open.spotify.com/track/05gph1k0nTaz8hfZNmJWqn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [URBAN BARBER](https://open.spotify.com/album/3tp1YNuzYnM6i5iVZwBNpQ) | 3:50 |
 | 3822 | [START](https://open.spotify.com/track/3ZKgRHXnJJq1T3I3YGglaY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [START](https://open.spotify.com/album/5FPr8q6EARqyVtEwVoMAES) | 2:56 |
 | 3823 | [Ballando sulla Piattaforma](https://open.spotify.com/track/5hYPx7ZGUfboTrcaowGrvD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 3:23 |
@@ -4842,5 +4842,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4832 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 |
 | 4833 | [Estar Dónde Tú Estás](https://open.spotify.com/track/4PGamhJVyyFlAB4nUJlb6A) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Estar Dónde Tú Estás](https://open.spotify.com/album/7ETg2N9BGdMBTM9gXzfhR2) | 4:09 |
 | 4834 | [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 |
+| 4835 | [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 |
+| 4836 | [It Ain't Safe](https://open.spotify.com/track/5ybZqGvR8TvxgTpRhgsDbj) | [Dempsey](https://open.spotify.com/artist/75xuKlvxLcDKfUmz7Avo2D) | [It Ain't Safe](https://open.spotify.com/album/5sHZwu1QFxQYAJk7pswy8o) | 3:23 |
+| 4837 | [Best Days of Our Lives](https://open.spotify.com/track/0jI9nUNsMAB3UJH6OBVnCX) | [Kandalaft Messina](https://open.spotify.com/artist/28qRZXVz4HxSz3anyjFC3q) | [Kandalaft Messina](https://open.spotify.com/album/4OEaqyOQcP3LVSro71kczW) | 2:48 |
+| 4838 | [King of the World](https://open.spotify.com/track/3ni5txq6gSJzxwT4IZoYtD) | [Tom Ciapponi](https://open.spotify.com/artist/6FQIT1vriZfxaJV5gBiy1f) | [King of the World](https://open.spotify.com/album/4PXK4drkVctOUAg1FgVc2l) | 3:48 |
+| 4839 | [Live Wire](https://open.spotify.com/track/3BQnonu1WOj56rdhP1tsfn) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Live Wire](https://open.spotify.com/album/6mgC0fBpMXX0U9B25CE6gd) | 3:27 |
 
-Snapshot ID: `AAAKBvgtFIyj2cAFcr6ilsGwEx5lsrpo`
+Snapshot ID: `AAAKCwRv1UrX70h9wPlY9HCMlL1pQji6`

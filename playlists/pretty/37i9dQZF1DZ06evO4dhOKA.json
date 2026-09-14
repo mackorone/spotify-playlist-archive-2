@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 71020,
+  "num_followers": 71031,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAACJrWAlCEcD3nQoOsJngUeL",
+  "snapshot_id": "aqSWAAAAAABlnJbqfH0k53XW6hbh5lQ6",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia M\u00e1s",
-        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165355,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
+      "duration_ms": 241573,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/5POOBIEr2W8AJr0Wg1aX30"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
-        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 202320,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 211890,
-      "name": "La Venganza De Mar\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/5aegXVh7saWjhrISeDOcIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -531,8 +507,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 211890,
+      "name": "La Venganza De Mar\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/5aegXVh7saWjhrISeDOcIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
-      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
+      "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 190976,
       "name": "Pu\u00f1o De Tierra - En Vivo",
       "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
-      },
-      "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 188042,
       "name": "Playa Sola - En Vivo",
       "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 170352,
-      "name": "Sabor De Enga\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 198976,
       "name": "El Preso De Nuevo Le\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 170352,
+      "name": "Sabor De Enga\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
     },
     {
       "added_at": null,

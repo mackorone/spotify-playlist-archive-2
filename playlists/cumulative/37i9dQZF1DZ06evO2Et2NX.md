@@ -4,7 +4,7 @@
 
 > This is Sleater\-Kinney\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 28 min
+68 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Combat Rock](https://open.spotify.com/track/4QKB0FLnneQ2Q9ZPMfUCZK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 4:46 | 2026-04-21 | 2026-04-22 |
 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 | 2026-03-07 |  |
 | [Don't Think You Wanna](https://open.spotify.com/track/6cvYKDTkkT6LVSISHjq60D) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 1:52 | 2026-03-07 | 2026-08-16 |
+| [Don’t Feel Right](https://open.spotify.com/track/2yyTuHMp1LlvdA9PYquEBq) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:50 | 2026-09-14 |  |
 | [Entertain](https://open.spotify.com/track/0Sq6xHWDpECstZ76RKavQY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 4:55 | 2026-03-07 |  |
 | [Funeral Song](https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 2:47 | 2026-04-22 | 2026-09-06 |
 | [Get Up](https://open.spotify.com/track/0FtQsXBRnplpaZO4MBApBF) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 3:46 | 2026-03-07 |  |
@@ -50,7 +51,7 @@
 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 | 2026-03-07 |  |
 | [Price Tag](https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:54 | 2026-03-07 |  |
 | [Reach Out](https://open.spotify.com/track/71YGkejYUU4xJitUILt3Ov) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK) | 3:30 | 2026-04-02 | 2026-04-03 |
-| [Reach Out](https://open.spotify.com/track/74H4eCl0q48sVgd75ZSEnj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/1572ze92PysstxyxM8nFh3) | 3:30 | 2026-09-07 |  |
+| [Reach Out](https://open.spotify.com/track/74H4eCl0q48sVgd75ZSEnj) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/1572ze92PysstxyxM8nFh3) | 3:30 | 2026-09-07 | 2026-09-14 |
 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 | 2026-03-07 |  |
 | [Slow Song](https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:00 | 2026-03-07 |  |
 | [Small Finds](https://open.spotify.com/track/1wf91DouhIDzyweoJpkB3F) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:07 | 2026-03-07 | 2026-09-07 |

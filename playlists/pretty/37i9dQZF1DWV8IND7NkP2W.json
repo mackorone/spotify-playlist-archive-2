@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 527418,
+  "num_followers": 527417,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
         "name": "meraki / cosmogyral",
         "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 148125,
       "name": "meraki",
       "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 139320,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "Overcast",
-        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 136534,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
@@ -987,22 +971,34 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "Colibri",
-        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
+        "name": "Overcast",
+        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
       },
       "artists": [
         {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        },
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Colibri",
-      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+      "duration_ms": 136534,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
+        "name": "Points of light",
+        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Points of light",
+      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "Points of light",
-        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
+        "name": "Colibri",
+        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "NOA NOA",
+          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
+        },
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
         }
       ],
-      "duration_ms": 168224,
-      "name": "Points of light",
-      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+      "duration_ms": 212000,
+      "name": "Colibri",
+      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 235216,
       "name": "Sublimation",
       "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 169074,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Sir",
+      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
         "name": "Train Smoke",
         "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
       },
       "artists": [
         {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Sir",
-      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 182857,
       "name": "Promise",
       "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
         "name": "Rush Hour",
         "url": "https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 197446,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1491,6 +1491,42 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
+        "name": "sanctuary",
+        "url": "https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "sanctuary",
+      "url": "https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
+      },
+      "artists": [
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        }
+      ],
+      "duration_ms": 170370,
+      "name": "Oak",
+      "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
         "name": "Resynthesis (Yellow)",
         "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
@@ -1531,38 +1567,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "sanctuary",
-        "url": "https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t"
+        "name": "re: Nobody Else",
+        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
       },
       "artists": [
         {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "sanctuary",
-      "url": "https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
-      },
-      "artists": [
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
         },
         {
-          "name": "cocabona",
-          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+          "name": "pige",
+          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
         }
       ],
-      "duration_ms": 170370,
-      "name": "Oak",
-      "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
+      "duration_ms": 127058,
+      "name": "re: Nobody Else",
+      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1599,22 +1619,18 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "re: Nobody Else",
-        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
       "artists": [
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "pige",
-          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
         }
       ],
-      "duration_ms": 127058,
-      "name": "re: Nobody Else",
-      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 144157,
       "name": "Main Street",
       "url": "https://open.spotify.com/track/5VRz3nM0qDYzbyJ4gVY4oX"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "Awesome City",
-        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Awesome City",
-      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+    },
+    {
+      "added_at": "2026-08-30 05:34:00",
+      "album": {
         "name": "Mount Fuji",
         "url": "https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 181714,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2"
-    },
-    {
-      "added_at": "2026-08-30 05:34:00",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
     },
     {
       "added_at": "2026-08-30 05:34:00",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2026-08-30 05:34:00",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+        "name": "Gentle Pulse",
+        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
       },
       "artists": [
         {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
         }
       ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+      "duration_ms": 150484,
+      "name": "Gentle Pulse",
+      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

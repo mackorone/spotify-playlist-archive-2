@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22917,
+  "num_followers": 22934,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Yo quiero un affaire",
-        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Yo quiero un affaire",
-      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "Toujours oui <3",
         "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205738,
       "name": "Toujours oui <3",
       "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "added_at": "2026-09-07 22:00:31",

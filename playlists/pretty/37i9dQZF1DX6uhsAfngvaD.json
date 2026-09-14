@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322254,
+  "num_followers": 322248,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 169997,
       "name": "Lurk - Mixed",
       "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Coping Habits",
-        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 159863,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Ethernity",
+        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Just Like Fireflies",
+      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ethernity",
-        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
-      },
-      "artists": [
-        {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Just Like Fireflies",
-      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Damn I'm Tired",
         "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
       },
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        },
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Near",
-      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Love Addict",
-        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
       "artists": [
         {
-          "name": "Sugar High",
-          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     }
   ],
   "unique_name": "Dreampop",

@@ -6673,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "just a girl",
+        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166161,
+      "name": "just a girl",
+      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
+    },
+    {
+      "album": {
         "name": "jutro b\u0119dzie furtk\u0105",
         "url": "https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES"
       },
@@ -10048,7 +10066,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 133052,
       "name": "Nie Odm\u00f3wi\u0119",
       "url": "https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf"

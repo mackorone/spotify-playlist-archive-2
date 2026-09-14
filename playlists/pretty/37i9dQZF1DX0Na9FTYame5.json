@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569917,
+  "num_followers": 569919,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "LOV",
+        "url": "https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "GWENDO",
+          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "LOV",
+      "url": "https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Seite an Seite",
         "url": "https://open.spotify.com/album/56he14BpKsirM76ZLonOa1"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 210418,
       "name": "Seite an Seite",
       "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "LOV",
-        "url": "https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr"
-      },
-      "artists": [
-        {
-          "name": "LACAZETTE",
-          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
-        },
-        {
-          "name": "GWENDO",
-          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "LOV",
-      "url": "https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -511,22 +511,18 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Endlich Normale Tr\u00e4ume",
-        "url": "https://open.spotify.com/album/3VOLa4gRnHI0kvUPSNjOQx"
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "luzey",
-          "url": "https://open.spotify.com/artist/2JKCEqNzqDx1L6c76Jo7uM"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 162899,
-      "name": "Endlich Normale Tr\u00e4ume",
-      "url": "https://open.spotify.com/track/5tI29X3CK0J4qF65vLORQq"
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -555,6 +551,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Endlich Normale Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/3VOLa4gRnHI0kvUPSNjOQx"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "luzey",
+          "url": "https://open.spotify.com/artist/2JKCEqNzqDx1L6c76Jo7uM"
+        }
+      ],
+      "duration_ms": 162899,
+      "name": "Endlich Normale Tr\u00e4ume",
+      "url": "https://open.spotify.com/track/5tI29X3CK0J4qF65vLORQq"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Lautlos",
         "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 173000,
       "name": "Lautlos",
       "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 181778,
+      "name": "Ein Lied f\u00fcr dich",
+      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 166942,
       "name": "3 Sekunden (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 181778,
-      "name": "Ein Lied f\u00fcr dich",
-      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Sch\u00f6n, dass du da warst",
-        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Sch\u00f6n, dass du da warst",
-      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "ALTE BILDER",
         "url": "https://open.spotify.com/album/1HSwhh2OtINcZNFU6OG2FL"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 176040,
       "name": "ALTE BILDER",
       "url": "https://open.spotify.com/track/40p8UwWvpJ8Iiqg4ioy5zX"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "Sch\u00f6n, dass du da warst",
+        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Sch\u00f6n, dass du da warst",
+      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Fahrt ins Blaue",
         "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 172023,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 221579,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 129048,
       "name": "Auf jeden Blick",
       "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 237250,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
+        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 160653,
+      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
         "name": "UPPER CLASS",
         "url": "https://open.spotify.com/album/1g5qbFLy3b6tVBW2vJ7gBt"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 288510,
       "name": "UPPER CLASS",
       "url": "https://open.spotify.com/track/37e3QAVb4r9m77tehiRfuu"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
-        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 160653,
-      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Ma Shawty",
         "url": "https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 177159,
       "name": "Ma Shawty",
       "url": "https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1743,6 +1743,34 @@
       "duration_ms": 163831,
       "name": "Wer liebt dich jetzt ?",
       "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
+    },
+    {
+      "added_at": "2026-09-08 08:54:15",
+      "album": {
+        "name": "NICHT PERFEKT",
+        "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
+      },
+      "artists": [
+        {
+          "name": "vic",
+          "url": "https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY"
+        },
+        {
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
+        },
+        {
+          "name": "ducato",
+          "url": "https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK"
+        },
+        {
+          "name": "enna",
+          "url": "https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "NICHT PERFEKT",
+      "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
     },
     {
       "added_at": "2026-09-08 08:54:15",
@@ -1803,34 +1831,6 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "NICHT PERFEKT",
-        "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
-      },
-      "artists": [
-        {
-          "name": "vic",
-          "url": "https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY"
-        },
-        {
-          "name": "Matterz",
-          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
-        },
-        {
-          "name": "ducato",
-          "url": "https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK"
-        },
-        {
-          "name": "enna",
-          "url": "https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "NICHT PERFEKT",
-      "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
-    },
-    {
-      "added_at": "2026-09-08 08:54:15",
-      "album": {
         "name": "Wegen dir",
         "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
       },
@@ -1871,22 +1871,18 @@
     {
       "added_at": "2026-09-08 08:54:15",
       "album": {
-        "name": "Null - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2DA4YAyStJMXliF6dHHFmc"
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
       },
       "artists": [
         {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 230204,
-      "name": "Null - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/63NKBJeM4DEa4GkSdCN2tq"
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     }
   ],
   "unique_name": "Rap in deep",

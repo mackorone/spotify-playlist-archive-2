@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 844210,
+  "num_followers": 844228,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
+        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
       },
       "artists": [
         {
-          "name": "The Whitest Boy Alive",
-          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
         }
       ],
-      "duration_ms": 242440,
-      "name": "Golden Cage",
-      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+      "duration_ms": 173640,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "Golden Cage",
+      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 201640,
       "name": "Dontcha",
       "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
-        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
-        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Imaginary Audience",
-        "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
       },
       "artists": [
         {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+          "name": "Tiger Lewis.",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
         }
       ],
-      "duration_ms": 193956,
-      "name": "It's Been You",
-      "url": "https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ"
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1171,6 +1155,22 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Imaginary Audience",
+        "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 193956,
+      "name": "It's Been You",
+      "url": "https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 249773,
       "name": "The Gold - Nick Waterhouse Remix",
       "url": "https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Always on My Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
-      },
-      "artists": [
-        {
-          "name": "Nan\u00e9",
-          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
-        },
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 214820,
-      "name": "Always on My Mind (Acoustic)",
-      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Always on My Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
+      },
+      "artists": [
+        {
+          "name": "Nan\u00e9",
+          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+        },
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 214820,
+      "name": "Always on My Mind (Acoustic)",
+      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
     },
     {
       "added_at": "2026-09-11 17:50:27",

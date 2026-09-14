@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,420 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,421 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 248 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 |
 | 249 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
 | 250 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 |
-| 251 | [Stranger in My Arms](https://open.spotify.com/track/7z4kM0Tq6s7XuBKVODR3Y7) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Sugar On The Telephone](https://open.spotify.com/album/2kwdWAAqJPxLvazCdA2Xgw) | 2:35 |
+| 251 | [Stranger in My Arms](https://open.spotify.com/track/7sgAEn66FWiDT1U7TjvKSk) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Sugar Echoes & Satin Goodbyes](https://open.spotify.com/album/1qtDeht4B95wV9RwAmM3oW) | 2:33 |
 | 252 | [Am I the Guy](https://open.spotify.com/track/6mTKm26cMRvdksZRcmOGSB) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You and 11 Other Great Hits](https://open.spotify.com/album/1d9iek7OFaeKzsSLH55M3s) | 2:53 |
 | 253 | [Holla At Your Boy](https://open.spotify.com/track/7koTyURobzyxyIEQ3gOW4o) | [Drag\-On](https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH) | [Hell And Back](https://open.spotify.com/album/3EZTfR8RXwAd5n5cryLVd5) | 3:13 |
 | 254 | [I Couldn't Say No](https://open.spotify.com/track/5XjAnwPn0pAga4vnRA1fez) | [Connie Stevens](https://open.spotify.com/artist/5dg9jB2sji4asJtjihC9AE) | [Essential Masters](https://open.spotify.com/album/4GvvQNXXMuR5I56ga19Yn4) | 2:35 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AccI6AAAAAAXzQ/QQLNN86brNOKee/wd`
+Snapshot ID: `AccOiAAAAAC/q5e3aW71wqSwHglfpfsV`

@@ -5519,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "I want you in my fantasy",
+        "url": "https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d"
+      },
+      "artists": [
+        {
+          "name": "Father 2 Son",
+          "url": "https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234551,
+      "name": "I want you in my fantasy",
+      "url": "https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD"
+    },
+    {
+      "album": {
         "name": "I'm Gonna Live",
         "url": "https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP"
       },
@@ -8946,6 +8964,28 @@
       "duration_ms": 275110,
       "name": "Pasadena",
       "url": "https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs"
+    },
+    {
+      "album": {
+        "name": "Paso a Paso",
+        "url": "https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS"
+      },
+      "artists": [
+        {
+          "name": "Detrapo",
+          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
+        },
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202387,
+      "name": "Paso a Paso",
+      "url": "https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 437465,
+  "num_followers": 437499,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 128724,
-      "name": "Evening Star",
-      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 150569,
       "name": "Even So",
       "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "There Is Light",
-        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
       "artists": [
         {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 178624,
-      "name": "There Is Light",
-      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Ing\u00e9nue",
-        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
+        "name": "There Is Light",
+        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
       },
       "artists": [
         {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
         }
       ],
-      "duration_ms": 147639,
-      "name": "Ing\u00e9nue",
-      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+      "duration_ms": 178624,
+      "name": "There Is Light",
+      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Reiu",
-        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Reiu",
-      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "somewhere else, together",
         "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189108,
       "name": "somewhere else, together",
       "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Irenic",
-        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 177323,
-      "name": "Irenic",
-      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "solitude",
-        "url": "https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl"
-      },
-      "artists": [
-        {
-          "name": "rein\u00eb",
-          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "solitude",
-      "url": "https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Daffodils",
         "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "solitude",
+        "url": "https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl"
+      },
+      "artists": [
+        {
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "solitude",
+      "url": "https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Noapte",
-        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
       },
       "artists": [
         {
-          "name": "Alexandru Andrei Popescu",
-          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
         }
       ],
-      "duration_ms": 199522,
-      "name": "Noapte",
-      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Felt Improvisations",
-        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+        "name": "Noapte",
+        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
       },
       "artists": [
         {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
         }
       ],
-      "duration_ms": 163812,
-      "name": "Felt Improv No. 10",
-      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
+      "duration_ms": 199522,
+      "name": "Noapte",
+      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Hudson",
-        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
-      },
-      "artists": [
-        {
-          "name": "Lluvio",
-          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Hudson",
-      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Caluna",
         "url": "https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Som Pam",
-        "url": "https://open.spotify.com/album/03ES28hUW0veZhTCIsSyC0"
+        "name": "Hudson",
+        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
       },
       "artists": [
         {
-          "name": "Malika North",
-          "url": "https://open.spotify.com/artist/33vhpKFGk0MKgcJgI2l5Xq"
+          "name": "Lluvio",
+          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Som Pam",
-      "url": "https://open.spotify.com/track/4u9WkXJwh7OTat9tMAT3Qf"
+      "duration_ms": 142702,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2087,6 +2071,22 @@
       "duration_ms": 136941,
       "name": "A Walk by the River",
       "url": "https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Som Pam",
+        "url": "https://open.spotify.com/album/03ES28hUW0veZhTCIsSyC0"
+      },
+      "artists": [
+        {
+          "name": "Malika North",
+          "url": "https://open.spotify.com/artist/33vhpKFGk0MKgcJgI2l5Xq"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Som Pam",
+      "url": "https://open.spotify.com/track/4u9WkXJwh7OTat9tMAT3Qf"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "My Solace My Home",
-        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
-      },
-      "artists": [
-        {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "My Solace My Home",
-      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Sailing Away",
         "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 143879,
       "name": "Sailing Away",
       "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "My Solace My Home",
+        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "My Solace My Home",
+      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
     },
     {
       "added_at": "2026-05-29 04:00:30",

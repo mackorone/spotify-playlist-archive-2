@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2200,
+  "num_followers": 2209,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAACeXrLq6E7ellLtphWPy1l0",
+  "snapshot_id": "aqSWAAAAAABOYbkorkc9huYZoMyYmG1G",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthony Hopkins: Tara",
-        "url": "https://open.spotify.com/album/1yhMlye6Ws5MxUan8h82Nm"
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
       },
       "artists": [
         {
-          "name": "Anthony Hopkins",
-          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 331133,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/3epb06FbivsK8CoFFCqo7V"
+      "duration_ms": 394160,
+      "name": "Symphonie espagnole, Op. 21: IV. Andante",
+      "url": "https://open.spotify.com/track/2xHvsR402Hr8Cb6oSA6D4R"
     },
     {
       "added_at": null,
@@ -415,34 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 394160,
-      "name": "Symphonie espagnole, Op. 21: IV. Andante",
-      "url": "https://open.spotify.com/track/2xHvsR402Hr8Cb6oSA6D4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mussorgsky: Pictures At An Exhibition",
         "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 263266,
       "name": "Pictures at an Exhibition (Orch. Ravel): II. The Old Castle",
       "url": "https://open.spotify.com/track/7B6kLePNk9ySaaPMXCGysA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
+      },
+      "artists": [
+        {
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 586053,
+      "name": "Danz\u00f3n No. 2 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/7GbK3f9cwrDzNorVym0Dg1"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 586053,
-      "name": "Danz\u00f3n No. 2 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/7GbK3f9cwrDzNorVym0Dg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mussorgsky: Pictures At An Exhibition",
         "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 175946,
       "name": "Pictures at an Exhibition (Orch. Ravel): IV. Bydlo",
       "url": "https://open.spotify.com/track/1TZ9VIzwoQcSBQbJlbHOrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Discoveries",
+        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 67826,
+      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
+      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
     },
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discoveries",
-        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 67826,
-      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
-      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mussorgsky: Pictures At An Exhibition",
         "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
       },
@@ -695,34 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is a Dream",
-        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hopkins",
-          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
-        },
-        {
-          "name": "Sergio Tiempo",
-          "url": "https://open.spotify.com/artist/7kIK193iuLPugEvQGoirww"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "1947: Suite for Solo Piano & Orchestra: I. Circus",
-      "url": "https://open.spotify.com/track/1SaNUjT10Ncrz0Sk3zdSsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
       },
@@ -743,6 +691,30 @@
       "duration_ms": 293173,
       "name": "Conga del Fuego - Live",
       "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is a Dream",
+        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hopkins",
+          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/14bPlplOfHlqQlDNSAIdaD"
     },
     {
       "added_at": null,

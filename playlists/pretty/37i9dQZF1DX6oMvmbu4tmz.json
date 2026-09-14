@@ -1147,26 +1147,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Tears (feat. Louisa Johnson)",
-        "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 225914,
-      "name": "Tears (feat. Louisa Johnson)",
-      "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Year of Summer",
         "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 174400,
       "name": "Year Of Summer",
       "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Tears (feat. Louisa Johnson)",
+        "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 225914,
+      "name": "Tears (feat. Louisa Johnson)",
+      "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
     },
     {
       "added_at": "2021-02-22 12:39:10",

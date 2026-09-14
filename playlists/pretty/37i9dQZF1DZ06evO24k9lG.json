@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 65049,
+  "num_followers": 65059,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAA60MZgZn570s/9y6EDHkG7",
+  "snapshot_id": "aqSWAAAAAAD+1GidDi1dZ1RXOAgjnpsA",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Me Ilusion\u00e9",
-      "url": "https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 289293,
       "name": "Dime Como Te Olvido",
       "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Me Ilusion\u00e9",
+      "url": "https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Dejate Atrapar",
-      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+      "duration_ms": 297372,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 297372,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/48Uz5ex7JzTUnDgQo1sSEE"
+      "duration_ms": 292333,
+      "name": "Dejate Atrapar",
+      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todo Su Esplendor",
-        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Un Recuerdo Que Mata",
-      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 246546,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Todo Su Esplendor",
+        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Un Recuerdo Que Mata",
+      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vallenato sin Fronteras",
-        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 277989,
-      "name": "El Diario",
-      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
+      "duration_ms": 295450,
+      "name": "El Forastero",
+      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+        "name": "Vallenato sin Fronteras",
+        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 295450,
-      "name": "El Forastero",
-      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
+      "duration_ms": 277989,
+      "name": "El Diario",
+      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
     },
     {
       "added_at": null,

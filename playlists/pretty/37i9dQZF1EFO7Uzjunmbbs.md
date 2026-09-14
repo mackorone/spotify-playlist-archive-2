@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 219 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 155 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 |
 | 156 | [Psychopath](https://open.spotify.com/track/6pM1cE2QqCO6qhAK6gqeCe) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Psychopath](https://open.spotify.com/album/30BgRP98d01f2fhecmwhey) | 3:22 |
 | 157 | [Joy Unspeakable](https://open.spotify.com/track/6UWVXYDOQXXYh6jSflYJel) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [the Journey \(Live\)](https://open.spotify.com/album/26dnr3d2HZ3hg1iq9Iv8zG) | 3:30 |
-| 158 | [Walls Come Down](https://open.spotify.com/track/10GaVzf8JDe0Ulri28B3J1) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:10 |
-| 159 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 158 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 159 | [Walls Come Down](https://open.spotify.com/track/10GaVzf8JDe0Ulri28B3J1) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:10 |
 | 160 | [dtf](https://open.spotify.com/track/75VGtAHWNDycxHnK5j2mBT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 2:48 |
 | 161 | [Worst Guy Ever](https://open.spotify.com/track/1UfFuY6BDZVDsanqQGFgmX) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel](https://open.spotify.com/album/1O0hQggcu3MyPbmvTPm3X7) | 3:08 |
 | 162 | [Make It Rain](https://open.spotify.com/track/6NFmLIXVZI2jVGmCPrNSvL) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Masterpiece](https://open.spotify.com/album/1QoD0fNJigVXa82cVwmHcW) | 3:37 |
@@ -215,17 +215,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 205 | [Fight This Feeling](https://open.spotify.com/track/5OeQCFlmPPimuUYTWq6hF5) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:26 |
 | 206 | [Love Letter](https://open.spotify.com/track/1kTEvkTBl7urxt9vCAewBi) | [Jordyn Pollard](https://open.spotify.com/artist/5erlKemcX5wMgwsmEIWfH9) | [Upside of Being Down](https://open.spotify.com/album/41VQjd12AQYVoZylCcJkjH) | 2:53 |
 | 207 | [Other People](https://open.spotify.com/track/3ZB4OCLh0jpCAh7QPAL7Mg) | [Boxcutter](https://open.spotify.com/artist/6enSWV1VuiPGbdCuS6GVfS) | [Allele](https://open.spotify.com/album/3pLMl0fe5MilNRofg7UfIC) | 4:05 |
-| 208 | [Ain't Dead Yet](https://open.spotify.com/track/523r9RA3BnBmy6EKnF7B7I) | [Portia Clark](https://open.spotify.com/artist/6r9fQWOOYgHvlgbcUFrCwU) | [Ain't Dead Yet](https://open.spotify.com/album/4etFHxxdXFe3paQElevDRm) | 3:03 |
-| 209 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 |
-| 210 | [Heartbreak Hall of Fame](https://open.spotify.com/track/5qqSc01RfWs7c24HcK1p8k) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:54 |
-| 211 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
-| 212 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
-| 213 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
-| 214 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
-| 215 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
-| 216 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
-| 217 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
-| 218 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
-| 219 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
+| 208 | [Something in the Whiskey](https://open.spotify.com/track/7Gpc8w0bmSF1jUbzR9EId5) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Something in the Whiskey](https://open.spotify.com/album/6wZ1EOtgaljKpjLP29PuRf) | 2:42 |
+| 209 | [Ain't Dead Yet](https://open.spotify.com/track/523r9RA3BnBmy6EKnF7B7I) | [Portia Clark](https://open.spotify.com/artist/6r9fQWOOYgHvlgbcUFrCwU) | [Ain't Dead Yet](https://open.spotify.com/album/4etFHxxdXFe3paQElevDRm) | 3:03 |
+| 210 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 |
+| 211 | [Heartbreak Hall of Fame](https://open.spotify.com/track/5qqSc01RfWs7c24HcK1p8k) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:54 |
+| 212 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
+| 213 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
+| 214 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
+| 215 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
+| 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
+| 217 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
+| 218 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
+| 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
+| 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AccI/AAAAABH8qFSL41allm4DeWHjlVF`
+Snapshot ID: `AccOnAAAAAD00+36TcpdSocu2gCDY63n`

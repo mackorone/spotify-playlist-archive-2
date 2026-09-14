@@ -20324,7 +20324,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
@@ -26658,7 +26658,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -32784,7 +32784,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 188531,
       "name": "SaWaDiKa",
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
@@ -44545,6 +44545,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u0421\u0418\u0427\u041a\u0418 \u041f\u0418\u0422\u0410\u0422",
+        "url": "https://open.spotify.com/album/405z4Wdyhe0x8mfixirhYf"
+      },
+      "artists": [
+        {
+          "name": "SHMEKERA",
+          "url": "https://open.spotify.com/artist/52A634uFOEwce3Y1uvOCoc"
+        },
+        {
+          "name": "EMILY MARTINO",
+          "url": "https://open.spotify.com/artist/1Ow1GkZ9oaJvIEELoS1d9l"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174724,
+      "name": "\u0412\u0421\u0418\u0427\u041a\u0418 \u041f\u0418\u0422\u0410\u0422",
+      "url": "https://open.spotify.com/track/2fB7q82jgPQfVAUJKcgbLp"
+    },
+    {
+      "album": {
         "name": "\u0412\u044a\u0440\u043a\u043e\u043b\u0430\u043a\u044a\u0442",
         "url": "https://open.spotify.com/album/6r48njlMUEBQxdV4thWN4m"
       },
@@ -46934,7 +46956,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "\u041a\u0423-\u041a\u0423",
       "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
@@ -50414,7 +50436,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 201184,
       "name": "\u0421\u0435\u0440\u0435\u043d\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/11pQW1h0eDUnyeFzYGktMn"

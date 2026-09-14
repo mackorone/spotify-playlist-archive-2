@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 732669,
+  "num_followers": 732676,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Vitamina D",
-      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
         "name": "Tu Te Vas",
         "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 205839,
       "name": "Tu Te Vas",
       "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Vitamina D",
+      "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "chiquita suelta",
-        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "chiquita suelta",
-      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 327923,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "chiquita suelta",
+        "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160718,
+      "name": "chiquita suelta",
+      "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "La F\u00f3rmula del Mambo",
-        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 214777,
       "name": "Dividido",
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "La F\u00f3rmula del Mambo",
+        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
         "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
         "url": "https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 172502,
       "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        },
+        {
+          "name": "Gabo Lugo",
+          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
+        }
+      ],
+      "duration_ms": 258523,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
         "name": "Amor Arrayano",
         "url": "https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
-        "name": "Ll\u00e9vame",
-        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        },
-        {
-          "name": "Gabo Lugo",
-          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
-        }
-      ],
-      "duration_ms": 258523,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/6yXfAPWCd2Vx9S09JPZviq"
-      },
-      "artists": [
-        {
-          "name": "Pi\u00e9lago",
-          "url": "https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
         "name": "Paradiso",
         "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
       },
@@ -1763,6 +1731,38 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/6yXfAPWCd2Vx9S09JPZviq"
+      },
+      "artists": [
+        {
+          "name": "Pi\u00e9lago",
+          "url": "https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
         "name": "Somos Dos",
         "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
       },
@@ -1775,22 +1775,6 @@
       "duration_ms": 217021,
       "name": "Somos Dos",
       "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
-    },
-    {
-      "added_at": "2026-06-26 06:00:32",
-      "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236362,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2026-06-26 06:00:32",
@@ -1815,18 +1799,34 @@
     {
       "added_at": "2026-06-26 06:00:32",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/7f3LiSTyf6uvUqKh1ltlcG"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 222701,
-      "name": "BocaRosa",
-      "url": "https://open.spotify.com/track/0vGYO4f8xV0fqEaS5MPR35"
+      "duration_ms": 236362,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+    },
+    {
+      "added_at": "2026-06-26 06:00:32",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     }
   ],
   "unique_name": "Tropical Vibe",

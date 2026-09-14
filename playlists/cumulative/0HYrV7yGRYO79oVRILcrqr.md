@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-745 songs - 1 day 22 hr 28 min
+747 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [I Need You](https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Covers Pt\. 1](https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP) | 2:32 | 2026-08-11 |  |
 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 | 2026-03-18 |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
+| [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 | 2026-09-13 |  |
 | [I'm Gonna Live](https://open.spotify.com/track/4uYt7IA77IDaBuNRjRefIX) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [I'm Gonna Live](https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP) | 3:40 | 2026-08-16 |  |
 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 | 2026-07-13 | 2026-08-01 |
 | [I'm Nowhere](https://open.spotify.com/track/64xdIDgCW0RbO6Rldrygaa) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [I'm Nowhere](https://open.spotify.com/album/2eSNKPsgDjNj79AjRwDBJ1) | 3:21 | 2026-09-07 |  |
@@ -492,6 +493,7 @@
 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 | 2026-02-25 | 2026-03-18 |
 | [Parassonia](https://open.spotify.com/track/4zIFbijlXlr7ZxD9bvHqcT) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Parassonia](https://open.spotify.com/album/5nCXkCNjBxkkEJ7TjlbAFp) | 3:35 | 2026-07-04 | 2026-07-12 |
 | [Pasadena](https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs) | [Jeff Butler](https://open.spotify.com/artist/6hWNFESgxwPMms42T2Fu9x) | [Pasadena](https://open.spotify.com/album/2A3Q7e5APcgUwQexc95GBZ) | 4:35 | 2026-03-27 | 2026-04-21 |
+| [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 | 2026-09-13 |  |
 | [Peaks](https://open.spotify.com/track/25cll9Vk5Xvl6rto1IZ26w) | [Pepperwine](https://open.spotify.com/artist/5eV6FPrnJGZH8QTCiLAbOQ) | [Peaks](https://open.spotify.com/album/3rzZZFDbicYJ9x6fWhlKq7) | 3:45 | 2026-02-22 | 2026-07-12 |
 | [Peep Show](https://open.spotify.com/track/5rG0UdCQPlUUDJsn0AVyBw) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [Peep Show](https://open.spotify.com/album/0qw53vuwziucNUOOLhcs5x) | 4:00 | 2026-07-19 |  |
 | [Pena](https://open.spotify.com/track/5BPtFQzNSjbwhJZjg3UJBG) | [Mauro Valenti](https://open.spotify.com/artist/563ZISZgJhOJQglptYVvRp) | [Pena](https://open.spotify.com/album/1b8R6JAv2HLM16pMGAlmdO) | 2:38 | 2026-02-22 | 2026-03-18 |

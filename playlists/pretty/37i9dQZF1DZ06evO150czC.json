@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 23359,
+  "num_followers": 23364,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAAASFz5F4D0H96t8pvvRgiG",
+  "snapshot_id": "aqSWAAAAAACKnZ2UF2VBG58SJQOgwOb2",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
         "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
       "artists": [
         {
@@ -456,9 +472,45 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 307803,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nova Jerusal\u00e9m",
+        "url": "https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 343541,
+      "name": "Nova Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ"
     },
     {
       "added_at": null,
@@ -483,54 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Enquanto a Igreja Ora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Tira-me do Vale",
-      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nova Jerusal\u00e9m",
-        "url": "https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 343541,
-      "name": "Nova Jerusal\u00e9m",
-      "url": "https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ"
+      "duration_ms": 196200,
+      "name": "Enquanto a Igreja Ora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -595,26 +615,6 @@
       "duration_ms": 229552,
       "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
       "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enquanto a Igreja Ora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Enquanto a Igreja Ora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 272263,
+      "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 298144,
       "name": "Meu Milagre (Ao Vivo)",
       "url": "https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 272263,
-      "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh"
     }
   ],
   "unique_name": "This Is Midian Lima",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u300e2026 LE SSERAFIM TOUR 'PUREFLOW' IN JAPAN\u300f\u306e\u30e1\u30f3\u30d0\u30fc\u30dc\u30a4\u30b9\u5165\u308a\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8",
-  "name": "On Tour Japan: LE SSERAFIM",
+  "description": "\u300e2026 TWS TOUR '24/7:FOR:YOU' IN JAPAN\u300f\u306e\u30e1\u30f3\u30d0\u30fc\u30dc\u30a4\u30b9\u5165\u308a\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8",
+  "name": "On Tour Japan: TWS",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 173431,
       "name": "1-800-hot-n-fun",
       "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "All the Possibilities",
+      "url": "https://open.spotify.com/track/5J4fzSlOxKLlk165GDjor4"
+    },
+    {
+      "album": {
         "name": "Almond Chocolate",
         "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -506,6 +524,24 @@
       "duration_ms": 179386,
       "name": "Baby, I'm good",
       "url": "https://open.spotify.com/track/5VeH6BTYuILdKR7SzSuwkx"
+    },
+    {
+      "album": {
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Back To Strangers",
+      "url": "https://open.spotify.com/track/0cZXcE2cImz4wkzSX22MJE"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 201894,
       "name": "Blue Flame (2023 Ver.)",
       "url": "https://open.spotify.com/track/2ahp0wvyEzyvgWfOhStHWp"
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 176546,
       "name": "BOOMPALA",
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 153000,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/3OKvpTlnhvj8u6fbV53kqC"
@@ -1741,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "TRY WITH US",
+        "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150026,
+      "name": "Countdown!",
+      "url": "https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy"
+    },
+    {
+      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
@@ -1770,7 +1824,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -1788,7 +1842,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 188000,
       "name": "Creatures",
       "url": "https://open.spotify.com/track/0HsgIz531mkdxly35wKcwj"
@@ -2382,7 +2436,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -2490,7 +2544,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
@@ -2598,7 +2652,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 168437,
       "name": "FEARLESS (2023 Ver.)",
       "url": "https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN"
@@ -2677,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Fire Escape",
+      "url": "https://open.spotify.com/track/34XbPo3WyeC28gaMuZNJPn"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -2688,7 +2760,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 198232,
       "name": "Fire in the belly",
       "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
@@ -2872,6 +2944,24 @@
       "duration_ms": 160044,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "album": {
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Get It Now",
+      "url": "https://open.spotify.com/track/3uu7yx5ERuJKxvIMHo1IUz"
     },
     {
       "album": {
@@ -3203,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Head Shoulders Knees Toes",
+      "url": "https://open.spotify.com/track/6w48iZauRTTuZZeCmJS0WB"
+    },
+    {
+      "album": {
         "name": "DESIRE : UNLEASH",
         "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
       },
@@ -3311,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "SUMMER BEAT!",
+        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "hey! hey!",
+      "url": "https://open.spotify.com/track/17rAJyHWoeQ4wqGaMkMCSq"
+    },
+    {
+      "album": {
         "name": "Kep1going",
         "url": "https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf"
       },
@@ -3394,7 +3520,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
@@ -3639,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "SODA SODA",
+        "url": "https://open.spotify.com/album/4coXTSKswUXRn5EmVIegJh"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "If I'm S, Can You Be My N? - Japanese ver.",
+      "url": "https://open.spotify.com/track/1Wd9jRjyCV9REyNVrrZDDw"
+    },
+    {
+      "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
       },
@@ -3650,7 +3794,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 129200,
       "name": "iffy iffy",
       "url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
@@ -3794,7 +3938,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 144000,
       "name": "Irony",
       "url": "https://open.spotify.com/track/49CeyCugXaZV05J82ejVQh"
@@ -4050,6 +4194,24 @@
       "duration_ms": 198973,
       "name": "l i f e i s c o o l",
       "url": "https://open.spotify.com/track/7rXUWfUAaOmPNHS7cwfTL2"
+    },
+    {
+      "album": {
+        "name": "Last Bell",
+        "url": "https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Last Festival",
+      "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
     },
     {
       "album": {
@@ -4467,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "TRY WITH US",
+        "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Lucky to be loved",
+      "url": "https://open.spotify.com/track/36eaUA0XV2LZ6Vs9KkNE1H"
+    },
+    {
+      "album": {
         "name": "LOVESTRUCK!",
         "url": "https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD"
       },
@@ -4737,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14316,
+      "name": "Message from DOHOON",
+      "url": "https://open.spotify.com/track/0fvGJ2mVL1zegejz6aUGqD"
+    },
+    {
+      "album": {
         "name": "Message from ENHYPEN",
         "url": "https://open.spotify.com/album/6t5AcyQmoemurP2kcDHX58"
       },
@@ -4773,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18348,
+      "name": "Message from HANJIN",
+      "url": "https://open.spotify.com/track/4dBnVL1tJ79s2ckuczqAAZ"
+    },
+    {
+      "album": {
         "name": "Message from LE SSERAFIM",
         "url": "https://open.spotify.com/album/0sc8NAK6HGx4KxuMTMbsCO"
       },
@@ -4784,7 +5000,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 19129,
       "name": "Message from HONG EUNCHAE",
       "url": "https://open.spotify.com/track/1ypde898DzpdWCzAfV05oA"
@@ -4802,7 +5018,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 17665,
       "name": "Message from HUH YUNJIN",
       "url": "https://open.spotify.com/track/1fyVLyqnaCZdlY6H1W3J1M"
@@ -4845,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17707,
+      "name": "Message from JIHOON",
+      "url": "https://open.spotify.com/track/25WXD2nwZtkpH0DCm4Ijyz"
+    },
+    {
+      "album": {
         "name": "Message from LE SSERAFIM",
         "url": "https://open.spotify.com/album/0sc8NAK6HGx4KxuMTMbsCO"
       },
@@ -4856,7 +5090,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 17329,
       "name": "Message from KAZUHA",
       "url": "https://open.spotify.com/track/6BpA3So8W07xH6elJ49JcU"
@@ -4874,10 +5108,28 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 14665,
       "name": "Message from KIM CHAEWON",
       "url": "https://open.spotify.com/track/0mKieVUGL9I18jWtIEU8nz"
+    },
+    {
+      "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15351,
+      "name": "Message from KYUNGMIN",
+      "url": "https://open.spotify.com/track/0YymzX3s2pqlbuEsffVoNw"
     },
     {
       "album": {
@@ -5018,10 +5270,28 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 17067,
       "name": "Message from SAKURA",
       "url": "https://open.spotify.com/track/2UOWGO2StGny8m4Frw5Xjs"
+    },
+    {
+      "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14084,
+      "name": "Message from SHINYU",
+      "url": "https://open.spotify.com/track/2JTT3vEBeKzuEqTOPPVW2z"
     },
     {
       "album": {
@@ -5112,6 +5382,24 @@
       "duration_ms": 15600,
       "name": "Message from WONHEE",
       "url": "https://open.spotify.com/track/1RxM9GuENgESQYDcbFamTA"
+    },
+    {
+      "album": {
+        "name": "Message from TWS",
+        "url": "https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16773,
+      "name": "Message from YOUNGJAE",
+      "url": "https://open.spotify.com/track/6LeXOdvLiDI8gYCu4Nc8Zd"
     },
     {
       "album": {
@@ -5396,7 +5684,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 118400,
       "name": "Need Your Company",
       "url": "https://open.spotify.com/track/5JDDrQN4rzCOo6UniZEwq0"
@@ -5522,7 +5810,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 166491,
       "name": "No Celestial",
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
@@ -5670,6 +5958,24 @@
       "duration_ms": 152267,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/3wZHktgqSxoMlvX2dvDajs"
+    },
+    {
+      "album": {
+        "name": "Sparkling Blue",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Oh Mymy : 7s",
+      "url": "https://open.spotify.com/track/2EC7jrqSAs2spL3NLLXjw6"
     },
     {
       "album": {
@@ -5961,6 +6267,42 @@
     },
     {
       "album": {
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "album": {
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "overthinking",
+      "url": "https://open.spotify.com/track/3GLeWeSE1yAElhvHbWArZa"
+    },
+    {
+      "album": {
         "name": "WISHFUL",
         "url": "https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3"
       },
@@ -5976,6 +6318,24 @@
       "duration_ms": 181573,
       "name": "P.O.V",
       "url": "https://open.spotify.com/track/735o24zZtDtVXfETHmcii5"
+    },
+    {
+      "album": {
+        "name": "SODA SODA",
+        "url": "https://open.spotify.com/album/4coXTSKswUXRn5EmVIegJh"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Palm Tree",
+      "url": "https://open.spotify.com/track/25EjQiLMBLtD47DlBvjKgX"
     },
     {
       "album": {
@@ -6062,7 +6422,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -6102,6 +6462,24 @@
       "duration_ms": 160000,
       "name": "Pimple",
       "url": "https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3058\u3081\u307e\u3057\u3066",
+        "url": "https://open.spotify.com/album/1NxUUrCisudNTH7BGZu3Fj"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "plot twist - Japanese ver.",
+      "url": "https://open.spotify.com/track/0gpEhXjCUUphGkLkcoaiAX"
     },
     {
       "album": {
@@ -6242,7 +6620,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 109253,
       "name": "Pureflow",
       "url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
@@ -6462,7 +6840,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 164600,
       "name": "Saki (feat. Aliyah's Interlude)",
       "url": "https://open.spotify.com/track/7r2SJUMWUwghdXczQDSYST"
@@ -6880,7 +7258,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -6959,6 +7337,24 @@
     },
     {
       "album": {
+        "name": "SODA SODA",
+        "url": "https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SODA SODA",
+      "url": "https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa"
+    },
+    {
+      "album": {
         "name": "You had me at HELLO",
         "url": "https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2"
       },
@@ -6988,7 +7384,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 166000,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/6dPtt7EhUj8YQQ0IFVCQRm"
@@ -7100,7 +7496,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 172313,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
@@ -7856,7 +8252,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 143000,
       "name": "Trust Exercise",
       "url": "https://open.spotify.com/track/3GY9Xp0U5rb7qYQVRSQqwh"
@@ -7878,7 +8274,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
@@ -8289,6 +8685,24 @@
     },
     {
       "album": {
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "You, You",
+      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
+    },
+    {
+      "album": {
         "name": "Young, Dumb, Stupid",
         "url": "https://open.spotify.com/album/56oDXOvFPVFqDq6k576Y18"
       },
@@ -8340,6 +8754,24 @@
       "duration_ms": 192733,
       "name": "ZOOM ZOOM",
       "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3058\u3081\u307e\u3057\u3066",
+        "url": "https://open.spotify.com/album/1NxUUrCisudNTH7BGZu3Fj"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "\u306f\u3058\u3081\u307e\u3057\u3066",
+      "url": "https://open.spotify.com/track/0o7bRi57o5jUchsIEqsnQJ"
     },
     {
       "album": {

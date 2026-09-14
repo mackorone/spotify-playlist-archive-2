@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 328945,
+  "num_followers": 328934,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -887,26 +871,18 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "The Rocky Horror Picture Show - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
       "artists": [
         {
-          "name": "Little Nell",
-          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
-        },
-        {
-          "name": "Patricia Quinn",
-          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
-        },
-        {
-          "name": "Richard O'Brien",
-          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 199366,
-      "name": "Time Warp",
-      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+      "duration_ms": 243773,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -939,6 +915,30 @@
       "duration_ms": 257519,
       "name": "Ghost On The Dance Floor",
       "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+        },
+        {
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+        }
+      ],
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
     },
     {
       "added_at": "2025-10-27 20:26:25",

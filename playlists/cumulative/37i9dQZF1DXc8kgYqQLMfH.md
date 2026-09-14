@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,341 songs - 2 day 3 hr 17 min
+1,342 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-09-14 |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -701,6 +701,7 @@
 | [Lucky S](https://open.spotify.com/track/2jUMhQ6GLpvyhqB4hzmPDY) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Lucky S](https://open.spotify.com/album/2Vte3A1urErAcVwq4sNO06) | 2:56 | 2022-08-05 | 2022-11-12 |
 | [lullaby](https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [lullaby](https://open.spotify.com/album/6pTuoO4bx3eY27Ag3aerJc) | 2:37 | 2024-09-27 | 2025-07-16 |
 | [Luminous](https://open.spotify.com/track/41BdBzn21KqYFVULeoD0iP) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Luminous](https://open.spotify.com/album/5ZWRvXXNQjJJlowthZcFML) | 2:09 | 2022-07-15 | 2022-07-22 |
+| [Luna’s Cleft](https://open.spotify.com/track/0UzuPRSwujJwFYP0TBs2vz) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [Luna’s Cleft](https://open.spotify.com/album/0kRYKUcsRghH6MwUKy0ZY4) | 2:22 | 2026-09-11 |  |
 | [Lunchtime Naps](https://open.spotify.com/track/7Ek77aQQIXBz9ONMCT1dgt) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Simpler Days](https://open.spotify.com/album/5zPe20u8Mu91BYrRSjqRhn) | 2:42 | 2021-11-10 | 2022-10-15 |
 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 | 2021-11-10 | 2023-03-02 |
 | [M train](https://open.spotify.com/track/5LHvjTXbNzGOWGc0FrkOg8) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [M train](https://open.spotify.com/album/0gEw60CcI6NH1yR2SAg3Dx) | 2:09 | 2021-11-10 | 2022-05-27 |

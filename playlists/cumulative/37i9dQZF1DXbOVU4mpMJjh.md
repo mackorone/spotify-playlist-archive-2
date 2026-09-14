@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,243 songs - 3 day 11 hr 12 min
+1,244 songs - 3 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 | 2023-06-15 | 2025-02-20 |
 | [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-15 | 2024-10-22 |
 | [All the Things You Are](https://open.spotify.com/track/1Lh7U5c3EvLBb6lSgHVFlR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [All the Things You Are](https://open.spotify.com/album/2MswvfhuxKNK5cYoo14DVB) | 2:50 | 2022-04-14 | 2022-05-03 |
-| [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 | 2023-04-27 |  |
+| [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 | 2023-04-27 | 2026-09-14 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 | 2025-11-27 |
 | [All Things Considered](https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o) | [Andy Laverne](https://open.spotify.com/artist/0wHlC8tumVxWRyxKutlQUm), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p), [Mike Richmond](https://open.spotify.com/artist/4UAdAgxnybF0chEX9FXX9m), [Jason Tiemann](https://open.spotify.com/artist/4bj8k1TAVycxbk0zCHtpTR) | [Faith](https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8) | 10:52 | 2022-04-14 | 2026-06-17 |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
@@ -403,6 +403,7 @@
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2022-04-14 | 2022-10-08 |
 | [Green Flash](https://open.spotify.com/track/5xvWyNc96sna64z86Fkv9d) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Green Flash](https://open.spotify.com/album/5ZdBepf6y7xyAORA8DQw4F) | 3:44 | 2025-03-18 |  |
+| [Green Line](https://open.spotify.com/track/1QR7K68TIXBZSnitijwVWq) | [The Sterling Room](https://open.spotify.com/artist/0I5siWjbRQ0XDGgN6Cdc7d) | [Green Line](https://open.spotify.com/album/6fLzK3N3UvqjszxCSha0ez) | 3:02 | 2026-09-11 |  |
 | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf) | 2:53 | 2023-12-15 | 2025-11-27 |
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-27 | 2025-11-27 |
 | [Half to the hills](https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Half to the hills](https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj) | 2:36 | 2023-06-15 | 2025-11-27 |

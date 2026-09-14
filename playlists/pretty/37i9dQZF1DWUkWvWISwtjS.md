@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,257 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,165 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 42 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
 | 43 | [Namorada Reserva \- Ao Vivo](https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:56 |
 | 44 | [Na Conta da Loucura](https://open.spotify.com/track/4uDtYKBYx6ucXktl0p6vMu) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Na Conta da Loucura](https://open.spotify.com/album/1a4IghNswBIY8FlWFu32hF) | 2:45 |
-| 45 | [MC Lençol e DJ Travesseiro](https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Mc Lençol e Dj Travesseiro](https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru) | 2:58 |
-| 46 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 |
+| 45 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 |
+| 46 | [MC Lençol e DJ Travesseiro](https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Mc Lençol e Dj Travesseiro](https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru) | 2:58 |
 | 47 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 48 | [Libera Ela \- Ao Vivo](https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Aqui Em Casa \(ao Vivo\)](https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH) | 2:48 |
 | 49 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 54 | [Duvido Você Não Tomar Uma \- Ao Vivo](https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:10 |
 | 55 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 |
 | 56 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 |
-| 57 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
-| 58 | [Zé da Recaída](https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Zé da Recaída](https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma) | 2:48 |
+| 57 | [Zé da Recaída](https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Zé da Recaída](https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma) | 2:48 |
+| 58 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
 | 59 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 |
 | 60 | [Cuidado Que Eu Te Supero](https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Cuidado Que Eu Te Supero](https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz) | 2:54 |
 | 61 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |

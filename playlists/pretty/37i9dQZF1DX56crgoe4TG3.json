@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286631,
+  "num_followers": 286644,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 185806,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+      "duration_ms": 211546,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -583,22 +583,6 @@
       "duration_ms": 300575,
       "name": "Black Muddy River",
       "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -667,6 +651,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 295528,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Songs That Made Me Weird, Vol. 1",
         "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
       },
@@ -903,30 +903,6 @@
       "duration_ms": 251621,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
-      },
-      "artists": [
-        {
-          "name": "Julia DiGrazia",
-          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
-        },
-        {
-          "name": "Sierra Carson",
-          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
-        },
-        {
-          "name": "Kylie Spence",
-          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -967,22 +943,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Yellow Ledbetter",
-        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },
       "artists": [
         {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
         },
         {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
         }
       ],
-      "duration_ms": 245120,
-      "name": "Yellow Ledbetter",
-      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -999,6 +979,26 @@
       "duration_ms": 333013,
       "name": "Possum",
       "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Yellow Ledbetter",
+        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199297,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 206886,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 333000,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "All Will Be Well",
         "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 229000,
       "name": "All Will Be Well",
       "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
-      },
-      "artists": [
-        {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Maggie O'Connor",
-          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
-        }
-      ],
-      "duration_ms": 263317,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+        }
+      ],
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+        "name": "Jukebox",
+        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
       "artists": [
         {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+          "name": "Matt Carson",
+          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
         },
         {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+          "name": "Madilyn Carson",
+          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
         }
       ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
+      "duration_ms": 193000,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
     }
   ],
   "unique_name": "Bluegrass Covers",

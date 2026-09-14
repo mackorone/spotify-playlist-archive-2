@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: EVAN\) \(Enjoy a playlist of songs that support music video features!\)
 
-269 songs - 14 hr 41 min
+270 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [REDRED \- Conceptual Performance Film](https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk) | 2:44 | 2026-04-25 |  |
 | [Rich Man](https://open.spotify.com/track/2stuLR7ix3QFg5XQbC6CoW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man](https://open.spotify.com/album/2bvecqTmvOzEL8VnzlI6gJ) | 3:29 | 2025-10-24 |  |
 | [Ride or Die](https://open.spotify.com/track/5IPiIPBRzHnaSBe2ClEwLU) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [Ride or Die](https://open.spotify.com/album/7a2githGn9efS8nN1xLh7I) | 2:22 | 2026-06-30 |  |
+| [ROOTS \- Spotify Singles](https://open.spotify.com/track/4grCNEZHezIvwV8yhQwU4v) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [ROOTS \- Spotify Singles](https://open.spotify.com/album/5Gw7820CoCkzGYcrCdmNXt) | 5:01 | 2026-09-14 |  |
 | [RUDE!](https://open.spotify.com/track/1G4U1zoIdkKaGFLzJ3autY) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/43AUpx51ume5mvtbnafghd) | 3:35 | 2026-02-27 |  |
 | [RUN IT](https://open.spotify.com/track/3to7XtEBfofsixyfEY1Z53) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/0VsTkduwip5mwOw4icKzXW) | 3:48 | 2026-06-30 |  |
 | [Running Wild](https://open.spotify.com/track/5QM9uyKvDfAAH1lRSdAyIY) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild](https://open.spotify.com/album/1kVFc1BCTKDjOktEXwNbUK) | 3:15 | 2025-07-15 | 2025-08-20 |
@@ -219,7 +220,7 @@
 | [ShaLala](https://open.spotify.com/track/3UvBnrsBR9f9cMuQiKwuEc) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [ShaLala](https://open.spotify.com/album/7mdeEX98Eio0vM7j55rAEy) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [SHEESH](https://open.spotify.com/track/3vGBGg4FkqYIdcZnbyENWW) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SHEESH](https://open.spotify.com/album/4I0MmN4GLDYNv8uLsYa997) | 3:05 | 2025-07-15 | 2025-08-20 |
 | [SHOTTY](https://open.spotify.com/track/13MFMW3oXZy4ppWiwEjNlU) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SHOTTY](https://open.spotify.com/album/6X9N5qOPbsuQBLlvau1CxB) | 3:24 | 2025-10-24 |  |
-| [Simple dance](https://open.spotify.com/track/5GeI3416Huzl7hK8n597CL) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Simple dance](https://open.spotify.com/album/35w2F2OP5juEOAkMuICwsa) | 3:34 | 2025-07-15 |  |
+| [Simple dance](https://open.spotify.com/track/5GeI3416Huzl7hK8n597CL) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Simple dance](https://open.spotify.com/album/35w2F2OP5juEOAkMuICwsa) | 3:34 | 2025-07-15 | 2026-09-14 |
 | [SKIID](https://open.spotify.com/track/0nODm4Pm4CbF0J9LgCVYjQ) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [SKIID](https://open.spotify.com/album/5RTdE4Zgn2DPtLfdnP8C2B) | 3:08 | 2025-12-03 |  |
 | [SLAM DUNK](https://open.spotify.com/track/0ac6EPiOL73NcinNhYcHJz) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/5kozfGudIOkMM18OJi4d3n) | 3:08 | 2025-08-13 |  |
 | [SLAM DUNK](https://open.spotify.com/track/5c3v5iU6WjMzd9EG1k2Hxc) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/228Cezlv7JrcRvVdj5B1Vz) | 3:08 | 2025-08-13 |  |

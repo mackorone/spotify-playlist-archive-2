@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Avery Cochrane
 
-640 songs - 1 day 10 hr 11 min
+642 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Downfall](https://open.spotify.com/track/2aAcT2candbjm9HghUotKF) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Downfall](https://open.spotify.com/album/2ZqZlFztQvsypPBoPcMpP8) | 2:47 | 2026-04-10 | 2026-05-09 |
 | [Dreams \(Aquaria Remix\)](https://open.spotify.com/track/2VMSvRhxs30VAoPoj3jTNu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Revelation \[Remixes\]](https://open.spotify.com/album/1MbslP83tLeeVWIKRvABzu) | 3:18 | 2026-06-02 | 2026-07-25 |
 | [Dressin'](https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Dressin'](https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e) | 2:26 | 2026-04-03 | 2026-05-02 |
+| [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 | 2026-09-11 |  |
 | [Drop Down](https://open.spotify.com/track/3rNmkmZWH3qC9cSvCyCiAP) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Haute Sauce](https://open.spotify.com/album/5Eam1MmcPLmdTa72bsB74w) | 3:15 | 2025-09-26 | 2026-01-15 |
 | [Drunk On You](https://open.spotify.com/track/4Pihu8myETm01bYgoKBHua) | [LORYANN](https://open.spotify.com/artist/0bd1IpnDs9fSAUxenOdDOU) | [Drunk On You](https://open.spotify.com/album/36rxPugz00xkT2c40Ef8LW) | 2:46 | 2026-05-22 | 2026-06-17 |
 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 | 2026-07-04 |
@@ -348,6 +349,7 @@
 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 | 2025-02-07 | 2025-09-27 |
 | [Like I Need U](https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Like I Need U](https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7) | 3:25 | 2024-06-17 | 2026-01-15 |
 | [Like I'm Young](https://open.spotify.com/track/6uHxrrCgsNTmFRH2ebIxbv) | [Avery Tucker](https://open.spotify.com/artist/0A8iBI2YdSqXWUulrstOmY) | [Paw](https://open.spotify.com/album/1qACMi4HSPrESX4UTfvxcS) | 4:03 | 2025-10-31 | 2026-02-14 |
+| [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 | 2026-09-11 |  |
 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 | 2026-05-08 | 2026-06-06 |
 | [Lip Service](https://open.spotify.com/track/1WMMFcmzxdoR7CQL8jpzJg) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Lip Service](https://open.spotify.com/album/4NjMGJVHtDJu1QlrQA8VgR) | 3:00 | 2026-01-13 | 2026-04-04 |
 | [Lipstick](https://open.spotify.com/track/0hkldzYtuZMygFwni4u2v1) | [Tommi Aura](https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88) | [High Fashion Pop Music](https://open.spotify.com/album/1Z6wCBWieZ1RkvuF6WX7H1) | 2:28 | 2025-11-14 | 2026-02-14 |
@@ -412,7 +414,7 @@
 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 | 2023-12-15 | 2025-04-05 |
 | [No New Friends \- Stripped](https://open.spotify.com/track/2J8uTMWRDVvMoWFrB48wzR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [DEVASTATIA Deluxe](https://open.spotify.com/album/3020XO4dmGvYkerAbdIP9L) | 3:02 | 2025-09-26 | 2026-01-15 |
 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 | 2026-06-26 |  |
-| [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 | 2026-07-10 |  |
+| [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 | 2026-07-10 | 2026-09-14 |
 | [Nosedive](https://open.spotify.com/track/3SIt8pLMi7VHAqTvAI8ET8) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [Olympus](https://open.spotify.com/album/5N3lcMudUczXJ2E9nImObL) | 3:01 | 2026-05-22 | 2026-08-08 |
 | [Not in Your Mouth None of Your Business](https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Not in Your Mouth None of Your Business](https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og) | 2:03 | 2025-10-31 | 2026-01-15 |
 | [Not My Problem](https://open.spotify.com/track/4nTwtkAMW0CVRAcA1uLKCR) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Not My Problem](https://open.spotify.com/album/7Aw9A0BigsX2OYGCHNZDRQ) | 2:21 | 2026-02-20 | 2026-05-02 |
@@ -596,7 +598,7 @@
 | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW) | 3:54 | 2026-07-03 | 2026-08-23 |
 | [u\-haul](https://open.spotify.com/track/5VZW1sKSI7EJ5iwKefVZoR) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [u\-haul](https://open.spotify.com/album/2A7t413liTBl6nxw54L8mA) | 2:33 | 2024-09-06 | 2025-09-27 |
 | [uhoh](https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:50 | 2023-12-15 | 2024-02-03 |
-| [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 | 2026-06-02 |  |
+| [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 | 2026-06-02 | 2026-09-14 |
 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 | 2026-03-27 | 2026-05-23 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-11-28 | 2026-03-21 |
 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 | 2026-05-01 | 2026-07-04 |

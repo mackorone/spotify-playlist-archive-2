@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Bleachers",
-  "num_followers": 1662447,
+  "num_followers": 1662345,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -887,38 +887,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Take Me Out To The Disco",
-        "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 202402,
-      "name": "Take Me Out To The Disco",
-      "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Blue Dream",
-      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
       },
@@ -951,6 +919,38 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Take Me Out To The Disco",
+        "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 202402,
+      "name": "Take Me Out To The Disco",
+      "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Sweet Hallelujah",
         "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 182156,
       "name": "Sweet Hallelujah",
       "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Back in Love",
-        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Back in Love",
-      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Sweet Fortune",
         "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 233736,
       "name": "Too Many Ways",
       "url": "https://open.spotify.com/track/3ldsizLTF9X7JyivBQ27Fy"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
+      },
+      "artists": [
+        {
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
+        }
+      ],
+      "duration_ms": 162768,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Romanticize",
         "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 215013,
       "name": "Romanticize",
       "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
-      },
-      "artists": [
-        {
-          "name": "Pamela.",
-          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 214597,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "lie alone",
         "url": "https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 229100,
       "name": "lie alone",
       "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 214597,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Edges of You",
-        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 194746,
-      "name": "Edges of You",
-      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Haven't Said I Love You Yet",
         "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
+        "name": "Edges of You",
+        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
       },
       "artists": [
         {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
         }
       ],
-      "duration_ms": 193319,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
+      "duration_ms": 194746,
+      "name": "Edges of You",
+      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1511,6 +1495,22 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 193319,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
+      "added_at": "2026-09-11 04:02:26",
+      "album": {
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
+    },
+    {
       "added_at": "2026-08-28 04:02:45",
       "album": {
         "name": "the apple tree under the sea",
@@ -1643,26 +1659,6 @@
       "duration_ms": 266906,
       "name": "w-w-w-w-w",
       "url": "https://open.spotify.com/track/7ENAU5RHg2yeQ0FOSvlF3C"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     }
   ],
   "unique_name": "Indie Pop",

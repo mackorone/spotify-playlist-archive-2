@@ -27,6 +27,42 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Iris (Goes Metal)",
+        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 244145,
+      "name": "Iris (Goes Metal)",
+      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
       },
@@ -103,42 +139,6 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "Iris (Goes Metal)",
-        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 244145,
-      "name": "Iris (Goes Metal)",
-      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "So Good (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -271,26 +271,46 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+        "name": "T\u00e4fte\u00e5 Ik",
+        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
       },
       "artists": [
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "T\u00e4fte\u00e5 Ik",
+      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         },
         {
           "name": "Anderson .Paak",
           "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         },
         {
-          "name": "Al B. Sure!",
-          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 171312,
-      "name": "Night In The Bay",
-      "url": "https://open.spotify.com/track/1KSceDg85mLYqcapxZNJie"
+      "duration_ms": 268461,
+      "name": "Kingpin (Knock Ya Head Off) (feat. Anderson .Paak & Ludacris)",
+      "url": "https://open.spotify.com/track/0infHb5VLogAe1NvKPFoeu"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -315,22 +335,6 @@
       "duration_ms": 158518,
       "name": "You Won't Knock Me Down",
       "url": "https://open.spotify.com/track/4oZsYysd3GfzJYFU29P6jz"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "T\u00e4fte\u00e5 Ik",
-        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
-      },
-      "artists": [
-        {
-          "name": "Tommy J",
-          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "T\u00e4fte\u00e5 Ik",
-      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -435,26 +439,6 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
         "name": "KHABIB",
         "url": "https://open.spotify.com/album/3J43pU6FgLUmbuCFFWzPEP"
       },
@@ -507,6 +491,26 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
         "name": "In This World (Boris Brejcha Remix)",
         "url": "https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn"
       },
@@ -523,26 +527,6 @@
       "duration_ms": 205440,
       "name": "In This World - Boris Brejcha Remix",
       "url": "https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        },
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 193963,
-      "name": "By Any Means - Single Version",
-      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -575,6 +559,26 @@
       "duration_ms": 185007,
       "name": "Oh I",
       "url": "https://open.spotify.com/track/65pQOO8pU9sFHY2AcB6l64"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 193963,
+      "name": "By Any Means - Single Version",
+      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
     },
     {
       "added_at": "2026-09-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367777,
+  "num_followers": 367756,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-10 22:01:08",
       "album": {
-        "name": "Only Love, L (More Love Edition)",
-        "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
-      },
-      "artists": [
-        {
-          "name": "Lena",
-          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
-        }
-      ],
-      "duration_ms": 178199,
-      "name": "skinny bitch",
-      "url": "https://open.spotify.com/track/3MryyXwUc25WUTZ15WmQ80"
-    },
-    {
-      "added_at": "2026-09-10 22:01:08",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2026-09-10 22:01:08",
+      "album": {
+        "name": "Only Love, L (More Love Edition)",
+        "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "duration_ms": 178199,
+      "name": "skinny bitch",
+      "url": "https://open.spotify.com/track/3MryyXwUc25WUTZ15WmQ80"
     },
     {
       "added_at": "2026-09-10 22:01:08",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-10 22:01:08",
       "album": {
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
+    },
+    {
+      "added_at": "2026-09-10 22:01:08",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-09-10 22:01:08",
-      "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2026-09-10 22:01:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-10 22:01:08",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
-    },
-    {
-      "added_at": "2026-09-10 22:01:08",
-      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 200100,
       "name": "Der letzte Tanz",
       "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2026-09-10 22:01:08",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2026-09-10 22:01:08",

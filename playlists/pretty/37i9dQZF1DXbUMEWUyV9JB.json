@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277185,
+  "num_followers": 277191,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-28 03:57:35",
       "album": {
+        "name": "Vaya Que Sabor!!",
+        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "El Piropo - Versi\u00f3n Sonidera",
+      "url": "https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
-        "name": "Vaya Que Sabor!!",
-        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "El Piropo - Versi\u00f3n Sonidera",
-      "url": "https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-08-28 03:57:35",
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "30 D\u00cdAS",
-      "url": "https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
         "name": "El Destino Nos Separa",
         "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 135317,
       "name": "El Destino Nos Separa",
       "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "30 D\u00cdAS",
+      "url": "https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-28 03:57:35",
       "album": {
+        "name": "AMIGOS PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 192091,
+      "name": "AMIGOS PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
-        "name": "AMIGOS PARA QU\u00c9",
-        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 192091,
-      "name": "AMIGOS PARA QU\u00c9",
-      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-08-28 03:57:35",
       "album": {
-        "name": "Cuando Una Mujer",
-        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
-      },
-      "artists": [
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 156394,
-      "name": "Cuando Una Mujer",
-      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 183333,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
+        "name": "Cuando Una Mujer",
+        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 156394,
+      "name": "Cuando Una Mujer",
+      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1491,22 +1491,6 @@
       "duration_ms": 191250,
       "name": "Como si no nos am\u00e1ramos",
       "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1567,6 +1551,22 @@
       "duration_ms": 123136,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2026-08-28 03:57:35",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-08-28 03:57:35",
       "album": {
-        "name": "Amiga Traidora (Cumbia TexMex)",
-        "url": "https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 249540,
-      "name": "Amiga Traidora - Cumbia TexMex",
-      "url": "https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O"
-    },
-    {
-      "added_at": "2026-08-28 03:57:35",
-      "album": {
         "name": "Si Alguien Me Ve",
         "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 176289,
       "name": "Si Alguien Me Ve",
       "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
+    },
+    {
+      "added_at": "2026-08-28 03:57:35",
+      "album": {
+        "name": "Amiga Traidora (Cumbia TexMex)",
+        "url": "https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 249540,
+      "name": "Amiga Traidora - Cumbia TexMex",
+      "url": "https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O"
     },
     {
       "added_at": "2026-08-28 03:57:35",

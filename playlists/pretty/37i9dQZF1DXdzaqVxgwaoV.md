@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,161 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,157 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 75 | [Este Maldito Amor](https://open.spotify.com/track/2sPkHujGWQlBqxh1zifScj) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [De Rico a Mendigo](https://open.spotify.com/album/0BfnFBm3TVy7aZw1nWO94d) | 2:35 |
 | 76 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 |
 | 77 | [El Amor de los Dos](https://open.spotify.com/track/03yQRv8SXpsOr8pOK3WEfu) | [Dueto Revelacion](https://open.spotify.com/artist/0ySBrTPGFDFJxa1zsdWEGl) | [Otro Dia Sin Ti](https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V) | 3:09 |
-| 78 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
+| 78 | [el principe](https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb) | [Johan Mircelo](https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr) | [corridos prohibidos](https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl) | 3:36 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 80 | [el principe](https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb) | [Johan Mircelo](https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr) | [corridos prohibidos](https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl) | 3:36 |
+| 80 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
 
 Snapshot ID: `AAAAAPw69M4xar/uLVriBrmYMHMQyQvU`

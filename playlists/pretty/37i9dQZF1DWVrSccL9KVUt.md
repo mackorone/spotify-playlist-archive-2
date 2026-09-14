@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,668 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,675 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Strong](https://open.spotify.com/track/43XDAI5n0q7UEtNIclSs5p) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [BE STRONG](https://open.spotify.com/album/1krVVL98txGTPcegmfpM2A) | 4:27 |
 | 2 | [Back To My Love](https://open.spotify.com/track/55ZFMluoPJOILQ7jHeKvmD) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Back To My Love](https://open.spotify.com/album/6uHmgHCWmAHy5vgMOOnXOd) | 3:11 |
 | 3 | [Mad At God](https://open.spotify.com/track/4PGMBy5qHIk2pJnzBz2n9e) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Mad At God](https://open.spotify.com/album/4klsKoe63VBRHE2t3822W7) | 5:33 |
-| 4 | [Devil In The Water](https://open.spotify.com/track/7oODWKIFPrL37Xh6xp004T) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/3SiDtjxcNR89elewNggLT4) | 2:56 |
+| 4 | [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 |
 | 5 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
 | 6 | [The Real Thing](https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [The Real Thing](https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF) | 3:31 |
 | 7 | [A Symphony](https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [A Symphony](https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD) | 3:28 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 10 | [Forward](https://open.spotify.com/track/3PGzdQfsYrZIgJENEeYDL2) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Forward](https://open.spotify.com/album/4ehbxdY66i5I9dK2LhwHG0) | 3:19 |
 | 11 | [upper hand](https://open.spotify.com/track/1L8Ai5Dt8q4QQrWakXupKZ) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [upper hand](https://open.spotify.com/album/2kNBWOeBAiU8aP3bZaaBD2) | 3:07 |
 | 12 | [Lean In](https://open.spotify.com/track/6FEoJFSGPLBw03T0SJ7sF0) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Lean In](https://open.spotify.com/album/1FMrGozlbBfIZwUtf8pqQW) | 2:46 |
-| 13 | [Change in Your Name](https://open.spotify.com/track/50k7ISfsdVnX0qwYinBmrp) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [No Place Like Home](https://open.spotify.com/album/5S09TGVYHzj6QPJWUgNfHG) | 2:58 |
+| 13 | [Change in Your Name](https://open.spotify.com/track/5SlrpLUlBkq107utJ3DoTR) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Change in Your Name](https://open.spotify.com/album/0SymolY2RcGlZLG8yCITfl) | 2:58 |
 | 14 | [What Would I Say?](https://open.spotify.com/track/5FDO2lrjfot5TYdlyetPjg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [What Would I Say?](https://open.spotify.com/album/1uetCWs3QmSxRRE1hwJ6kb) | 3:46 |
 | 15 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
 | 16 | [Terms & Conditions](https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz) | [Zoe Levert](https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8) | [Terms & Conditions](https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5) | 4:07 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 46 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
 | 47 | [STILL RUNNING TO YOU](https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Still Running to You](https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg) | 2:59 |
 | 48 | [Easily](https://open.spotify.com/track/3LVrJBgiKuB7g8g65rg7ny) | [ELEANOR](https://open.spotify.com/artist/3UVUrKoUvZqGbIOUj9Lcvi) | [Easily](https://open.spotify.com/album/58mtJv5vFcgS0NAoPAzAsj) | 3:47 |
-| 49 | [Heaven Down Here](https://open.spotify.com/track/2AMpIk6aJs28qrLogzmHoW) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [Heaven Down Here](https://open.spotify.com/album/2VLgTg1v1ZaN8H5mp2VsBu) | 2:54 |
+| 49 | [Heaven Down Here](https://open.spotify.com/track/0JTFY6xOMSMh4VAUwm7hEz) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [Heaven Down Here](https://open.spotify.com/album/2u8s4iefNl7J3ZyiXJujLt) | 2:54 |
 | 50 | [How Deep The Fathers Love](https://open.spotify.com/track/77EYXh0Xrc9KXYjW8i6vsq) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [How Deep The Father's Love](https://open.spotify.com/album/5XdXwVSUQh0wYX02GLEPN6) | 4:37 |
 | 51 | [Mysterious Something](https://open.spotify.com/track/4ylgl0sHZBXH8KpJbVcvl9) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Through Line](https://open.spotify.com/album/59hZj7d5JR0luIUmvr0xvo) | 3:41 |
 | 52 | [Final Say](https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Final Say](https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3) | 6:41 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 68 | [Control](https://open.spotify.com/track/0GJgeq1nKM4wGT8CLahiL1) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Control / Dive](https://open.spotify.com/album/1GSmVAeubLoT1V2zm5jkhJ) | 2:32 |
 | 69 | [Second Choice](https://open.spotify.com/track/0DGE97K3VL2EBbPoM7n2yk) | [Abigail Hope](https://open.spotify.com/artist/4By8kZOqd9ZIv1IpJNt36g) | [Second Choice](https://open.spotify.com/album/76I1449onuQZeu9TVftDbV) | 2:40 |
 | 70 | [Everything New!](https://open.spotify.com/track/5OjaxPok6yizxx08OnHGPV) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Everything New!](https://open.spotify.com/album/6ZN8gMlt5JkJ0gH3i8A1PJ) | 2:18 |
-| 71 | [Babylon](https://open.spotify.com/track/2I2VwHrsD1mMLWbcAZlokB) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Babylon](https://open.spotify.com/album/754A8blYFBg51YagnEBsXM) | 2:43 |
+| 71 | [Babylon](https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Babylon](https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr) | 2:44 |
 | 72 | [Mad Big World](https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ) | 3:24 |
 | 73 | [Back To My Love \- Live Acoustic](https://open.spotify.com/track/5KpEbyxxsJRdMQcaLTHOkH) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Back To My Love \(Live Acoustic\)](https://open.spotify.com/album/3KfFYuQhBtXwlqbsbpJzkf) | 3:24 |
 | 74 | [Paint The Skies](https://open.spotify.com/track/0pC0zzoJgecQTMoztdAzLp) | [RENEE](https://open.spotify.com/artist/6RjfGS17GuzkVfMJoxEtlf) | [Paint The Skies](https://open.spotify.com/album/2Kgroemwdf75gQbrGOaxsw) | 3:25 |

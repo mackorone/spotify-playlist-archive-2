@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Noraniza Idris, Firdhaus, LE SSERAFIM, IU, Jess Lee, Tinashe, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,668 likes - 119 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,654 likes - 119 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

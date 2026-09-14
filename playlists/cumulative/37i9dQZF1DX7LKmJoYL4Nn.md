@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-265 songs - 17 hr 26 min
+266 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,9 +138,10 @@
 | [ROCK ROAR \- Game Edit](https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk) | [デッドマンズ／朔間 零\(CV.増田 俊樹\)、蓮巳 敬人\(CV.梅原 裕一郎\)、大神 晃牙\(CV.小野 友樹\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)](https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z) | [あんさんぶるスターズ！！ デッドマンズ「ROCK ROAR」 \(Game Edit\)](https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU) | 2:30 | 2025-02-28 | 2026-01-24 |
 | [Romancing Cruise](https://open.spotify.com/track/0ebMgWsEMcwgQSHCKL0gFn) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Switch](https://open.spotify.com/album/6njWkigxSwfHCCXG2LQfoE) | 3:49 | 2024-11-09 | 2024-12-06 |
 | [Romantic Xday!](https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 3:44 | 2024-04-26 | 2026-08-27 |
-| [Ruby Love \- Game Edit](https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！！ Eve「Ruby Love」 \(Game Edit\)](https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP) | 2:37 | 2025-02-11 |  |
+| [Ruby Love \- Game Edit](https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！！ Eve「Ruby Love」 \(Game Edit\)](https://open.spotify.com/album/2ETfxA9wDUJmBnF4SV5NEP) | 2:37 | 2025-02-11 | 2026-09-14 |
 | [SAKE OF LOVE](https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:38 | 2024-06-25 |  |
 | [SAKE OF LOVE \- Game Edit](https://open.spotify.com/track/2DCHO6nGtjJ9SeDDYb4Mq1) | [ALKALOID & Crazy:B／天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)、天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/3psQG6XIbrrByGXUCWW8dM) | [あんさんぶるスターズ！！ ALKALOID & Crazy:B「SAKE OF LOVE」 \(Game Edit\)](https://open.spotify.com/album/6MGP7oqzuLi1wKbddHCJnj) | 2:59 | 2024-04-26 | 2024-06-26 |
+| [Saql Faith](https://open.spotify.com/track/52Br5PvVzOT64akKXiyhTf) | [乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/0JwSDSDOuYUqo7Q3TMyRNr) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:02 | 2026-04-21 |  |
 | [Savage Love Affair](https://open.spotify.com/track/4mI9ml3lMrUSBpWYORI2fd) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [UNDEAD「FORBIDDEN RAIN」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5PVU3WIqTxfohzNmI48brf) | 4:38 | 2025-01-14 | 2025-09-27 |
 | [SCAB](https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg) | [大神 晃牙\(CV.小野 友樹\)](https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [大神 晃牙「SCAB」あんさんぶるスターズ！！ ESアイドルソング Solo \-Bright me up!!\-](https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz) | 3:28 | 2025-08-24 |  |
 | [Secret Gravity](https://open.spotify.com/track/0Sl3zO3NVnyMyuhnyrUEnd) | [逆先夏目\(CV.野島健児\)](https://open.spotify.com/artist/3v3xmCUt7mZEBwMT1XfPXB) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 5:01 | 2026-04-21 | 2026-06-04 |

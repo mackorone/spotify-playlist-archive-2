@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Something in the Whiskey",
+        "url": "https://open.spotify.com/album/6wZ1EOtgaljKpjLP29PuRf"
+      },
+      "artists": [
+        {
+          "name": "Thomason",
+          "url": "https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162267,
+      "name": "Something in the Whiskey",
+      "url": "https://open.spotify.com/track/7Gpc8w0bmSF1jUbzR9EId5"
+    },
+    {
+      "album": {
         "name": "A Light That Waits",
         "url": "https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt"
       },

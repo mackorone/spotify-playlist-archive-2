@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-517 songs - 1 day 0 hr 24 min
+518 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 | 2026-04-04 |
 | [Blooming Canopy](https://open.spotify.com/track/05LVvmA1kkHNqCuqvXWeYk) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Blooming Canopy](https://open.spotify.com/album/52jBYHzCKQQolr0TrxAHLu) | 2:39 | 2026-07-03 |  |
-| [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
+| [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 | 2026-09-14 |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 | 2026-07-11 |
 | [Bowl of Life](https://open.spotify.com/track/25GHFh0uRdeTXeb0k9V8qO) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Bowl of Life](https://open.spotify.com/album/0KQT1FnAZSbWHYkWdLWixI) | 2:54 | 2026-08-19 |  |
 | [Bowls of Sand](https://open.spotify.com/track/0f7kzbUVU0E6JYGbTFBkrK) | [Munnafurl](https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M) | [Bowls of Sand](https://open.spotify.com/album/56qX5yDy5yZ8NEinLJVbOF) | 2:31 | 2026-08-19 |  |
@@ -388,6 +388,7 @@
 | [Sapphire Tide](https://open.spotify.com/track/2jh0KjuwnfuVF5VoJDcU6p) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Sapphire Tide](https://open.spotify.com/album/2Ecs1Bo7o3l2ilNlsGcgs9) | 2:23 | 2025-10-15 | 2026-04-04 |
 | [Sauna](https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Sauna](https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB) | 3:31 | 2025-10-15 | 2025-12-25 |
 | [Searching](https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Searching](https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ) | 2:32 | 2026-04-03 |  |
+| [Secret Garden](https://open.spotify.com/track/4UpFAiR6BwiWfEIemaXuja) | [Cedric Noir](https://open.spotify.com/artist/7II9qNGFOXWT94x0igdTr8) | [Secret Garden](https://open.spotify.com/album/2UnNIEhgyOIoq6lpat9HGH) | 3:08 | 2026-08-19 |  |
 | [Seeker](https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Seeker](https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp) | 2:32 | 2025-07-09 | 2026-04-04 |
 | [Sense](https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Sense](https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B) | 3:08 | 2024-06-03 | 2025-09-11 |
 | [Sequoia](https://open.spotify.com/track/7v42x72ly33YQ8SqOPdU3j) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [Lost Forest](https://open.spotify.com/album/03ojvd5w41b0GS99JP59ki) | 2:51 | 2026-04-03 | 2026-06-27 |

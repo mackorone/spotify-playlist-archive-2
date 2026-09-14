@@ -1,6 +1,6 @@
 {
   "description": "mindful genieten \ud83c\udf31. Cover: Sarah Julia",
-  "num_followers": 98039,
+  "num_followers": 98029,
   "original_name": "Touching Grass",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/4wmnvRtZ4BNmXQ4sRrUbpg"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Ode to a Rainy Day: Archives 1972-1975",
         "url": "https://open.spotify.com/album/0zL7odrtCctkeMf5OmLHZP"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/4wmnvRtZ4BNmXQ4sRrUbpg"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -295,6 +279,22 @@
       "duration_ms": 211573,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Seeing You",
-        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
       },
       "artists": [
         {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 198727,
-      "name": "Seeing You",
-      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+        "name": "Seeing You",
+        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 169278,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
+      "duration_ms": 198727,
+      "name": "Seeing You",
+      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Beauty Land",
-        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 179422,
-      "name": "So Mean",
-      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 201297,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Beauty Land",
+        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "duration_ms": 179422,
+      "name": "So Mean",
+      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "The Next Time We Meet",
-        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
-      },
-      "artists": [
-        {
-          "name": "Coos",
-          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "The Next Time We Meet",
-      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Breath and Air",
         "url": "https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "In Light",
-        "url": "https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV"
+        "name": "The Next Time We Meet",
+        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Coos",
+          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
         }
       ],
-      "duration_ms": 214106,
-      "name": "Shape of Tomorrow",
-      "url": "https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS"
+      "duration_ms": 183640,
+      "name": "The Next Time We Meet",
+      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1419,6 +1403,22 @@
       "duration_ms": 241840,
       "name": "Sweet Sixteen",
       "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "In Light",
+        "url": "https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Shape of Tomorrow",
+      "url": "https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "For Months Now (III)",
         "url": "https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 247000,
       "name": "For Months Now (III)",
       "url": "https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
     },
     {
       "added_at": "2026-09-10 22:00:09",

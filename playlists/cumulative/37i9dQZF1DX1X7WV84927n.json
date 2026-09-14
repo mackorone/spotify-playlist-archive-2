@@ -6134,7 +6134,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 239825,
       "name": "Cut",
       "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
@@ -26716,6 +26716,28 @@
       "duration_ms": 206333,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
+    },
+    {
+      "album": {
+        "name": "smile.",
+        "url": "https://open.spotify.com/album/71T5s6Rdg5am8P9qu0jr3F"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        },
+        {
+          "name": "PALESKIN",
+          "url": "https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185621,
+      "name": "smile.",
+      "url": "https://open.spotify.com/track/5cqmz7kCM7eeBNZ4rQd9l3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 295284,
+  "num_followers": 295344,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -359,38 +359,6 @@
       "duration_ms": 383309,
       "name": "Sleep Sound",
       "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Late Night Tales: Floating Points",
-        "url": "https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 563427,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -419,6 +387,38 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Late Night Tales: Floating Points",
+        "url": "https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 563427,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Gone To Earth (Remastered 2003)",
         "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 141120,
       "name": "Silver Moon Over Sleeping Steeples",
       "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Pura",
         "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 171428,
       "name": "Pura",
       "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Heart - EP",
-        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        },
-        {
-          "name": "Nedja",
-          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "I Feel You Feel",
         "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 177024,
       "name": "Thru U (feat. Bklava)",
       "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Heart - EP",
+        "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Nedja",
+          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "Saw You for the First Time",
         "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     },
     {
       "added_at": "2026-06-12 04:01:06",

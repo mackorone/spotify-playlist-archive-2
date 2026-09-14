@@ -4258,7 +4258,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 128571,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/0MVnmkCHxi3Wrd6ipYleH7"
@@ -16226,6 +16226,28 @@
       "duration_ms": 212043,
       "name": "Here Comes The Night",
       "url": "https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf"
+    },
+    {
+      "album": {
+        "name": "Here we go again",
+        "url": "https://open.spotify.com/album/1MVrU64RBwick8NcuD5KBo"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        },
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192491,
+      "name": "Here we go again",
+      "url": "https://open.spotify.com/track/41D2LiJ2S8JtKkDt4Ur6wE"
     },
     {
       "album": {

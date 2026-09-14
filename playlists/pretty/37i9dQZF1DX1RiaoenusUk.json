@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35423,
+  "num_followers": 35422,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "AH\u00cd VIENE LA MIEL",
-        "url": "https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3",
-          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
-        }
-      ],
-      "duration_ms": 230370,
-      "name": "AH\u00cd VIENE LA MIEL",
-      "url": "https://open.spotify.com/track/3KDa3dYhVsQY7NRd0fOpKD"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "AH\u00cd VIENE LA MIEL",
+        "url": "https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3",
+          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
+        }
+      ],
+      "duration_ms": 230370,
+      "name": "AH\u00cd VIENE LA MIEL",
+      "url": "https://open.spotify.com/track/3KDa3dYhVsQY7NRd0fOpKD"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Sedas",
-        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
-      },
-      "artists": [
-        {
-          "name": "SEDA",
-          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Sedas",
-      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 284213,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+        "name": "Sedas",
+        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
       },
       "artists": [
         {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+          "name": "SEDA",
+          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
+      "duration_ms": 168375,
+      "name": "Sedas",
+      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "No la Ves",
         "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 175249,
       "name": "Miro donde miro",
       "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+      },
+      "artists": [
+        {
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+        }
+      ],
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Foulmouth",
         "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 174273,
       "name": "Foulmouth",
       "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
-      },
-      "artists": [
-        {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
-        }
-      ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     }
   ],
   "unique_name": "Nota Funk",

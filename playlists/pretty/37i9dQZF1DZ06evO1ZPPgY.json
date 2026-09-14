@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 236059,
+  "num_followers": 236080,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAABd8DaLvrCwPjWhQ7m/4IMe",
+  "snapshot_id": "aqSWAAAAAADnRFUIDBvJhYDMAkiXSY8n",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beware!",
-        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "I Won't Settle For Less Than The Best (For You Baby)",
-      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beware!",
+        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "I Won't Settle For Less Than The Best (For You Baby)",
+      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
     },
     {
       "added_at": null,

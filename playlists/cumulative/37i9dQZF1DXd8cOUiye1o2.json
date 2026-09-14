@@ -10149,6 +10149,36 @@
     },
     {
       "album": {
+        "name": "Jai Jai Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320136,
+      "name": "Jai Jai Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4y1KR84zpSoU0aVOdiAGIT"
+    },
+    {
+      "album": {
         "name": "Jai Shivrai (Hindi) [From \"Raja Shivaji\"]",
         "url": "https://open.spotify.com/album/5o6eygQWrR7ZGNn6IodzpU"
       },
@@ -23166,7 +23196,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 228373,
       "name": "Tu Kahe",
       "url": "https://open.spotify.com/track/4whkmyliqIoujVCmeStJNy"

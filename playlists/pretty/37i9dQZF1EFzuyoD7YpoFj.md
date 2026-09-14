@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530 likes - 388 songs - 19 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 531 likes - 388 songs - 19 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,9 +303,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 293 | [The Leader Of A Big\-Time Band](https://open.spotify.com/track/06XUS485sSCfjXvti3Jp4C) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Empire Brass](https://open.spotify.com/artist/5fFFbl2ufejefn1aJZox5z) | [Empire Brass In Japan \(Live at Hitomi Commemoration Auditorium, 1986\)](https://open.spotify.com/album/3CshDhCfmThWIrQA3YKrlL) | 1:48 |
 | 294 | [Amor Verdadero](https://open.spotify.com/track/47My5QM6xH6HT2a9YXGAqw) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:50 |
 | 295 | [I'm Unlucky at Gambling](https://open.spotify.com/track/5i0G0gkYnnHHRSJ3fjvuHj) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP) | [Fifty Million Frenchmen](https://open.spotify.com/album/6iPfoCguDCvtCNEgkNh9lc) | 3:10 |
-| 296 | [Oatmeal / Cyd Returns to Paris](https://open.spotify.com/track/5F94SRT8gJNrRzqcodjHk4) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:27 |
-| 297 | [Wedding Cake Walk](https://open.spotify.com/track/3OY79KhLUGszJxMlAntvoS) | [Rita Hayworth](https://open.spotify.com/artist/24u2lWQYyTWB7VUTnwEavi) | [Sex Symbol \- Rita Hayworth](https://open.spotify.com/album/6wjGfbQn28E1NTMgyPvtc9) | 4:53 |
-| 298 | [You Irritate Me So](https://open.spotify.com/track/6aBNLVWjpMGUoyyhSNGaKQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You Irritate Me So](https://open.spotify.com/album/5NUwxTLDOtxWKjxd43BiAi) | 2:08 |
+| 296 | [You Irritate Me So](https://open.spotify.com/track/6aBNLVWjpMGUoyyhSNGaKQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You Irritate Me So](https://open.spotify.com/album/5NUwxTLDOtxWKjxd43BiAi) | 2:08 |
+| 297 | [Oatmeal / Cyd Returns to Paris](https://open.spotify.com/track/5F94SRT8gJNrRzqcodjHk4) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:27 |
+| 298 | [Wedding Cake Walk](https://open.spotify.com/track/3OY79KhLUGszJxMlAntvoS) | [Rita Hayworth](https://open.spotify.com/artist/24u2lWQYyTWB7VUTnwEavi) | [Sex Symbol \- Rita Hayworth](https://open.spotify.com/album/6wjGfbQn28E1NTMgyPvtc9) | 4:53 |
 | 299 | [Every Man Is A Stupid Man](https://open.spotify.com/track/5KCn4XnWAPemCfHuuR5Ef6) | [Original Broadway Cast Of Can\-Can](https://open.spotify.com/artist/4J0Aw897AsTHBGJeybM5O1) | [Can\-Can](https://open.spotify.com/album/39VLi8ZgqIH0chKZKk5ad9) | 2:22 |
 | 300 | [The Banjo \(That Man Joe Plays\)](https://open.spotify.com/track/4nQEpaZk2zcDAg2oGU0IjA) | [Jack Hylton & His Orchestra](https://open.spotify.com/artist/7unA1Br0p1C0Wjs5GlBFU6) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 2:50 |
 | 301 | [I've A Strange New Rhythm In My Heart](https://open.spotify.com/track/4Zn43bMqwN1Y7rMzKzRj83) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Non\-Stop Flight](https://open.spotify.com/album/6GAMpi6gNar5WnAuhbcNeh) | 2:43 |
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 387 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 388 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AccI1AAAAAA1adSMQXv0bl+/duMNkR4h`
+Snapshot ID: `AccOpgAAAABY4ZD4xB9aNpOJSSQftYl9`

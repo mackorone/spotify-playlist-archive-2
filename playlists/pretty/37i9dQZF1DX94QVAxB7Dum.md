@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,611 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,659 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 34 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
 | 35 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 | 36 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
-| 37 | [Dancing In The Street](https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Greatest Hits](https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7) | 2:39 |
-| 38 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
-| 39 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
-| 40 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
-| 41 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
-| 42 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
-| 43 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 37 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 38 | [Dancing In The Street](https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Greatest Hits](https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7) | 2:39 |
+| 39 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
+| 40 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
+| 41 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
+| 42 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
+| 43 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
 | 44 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Hit Pac \- 5 Series](https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM) | 4:02 |
 | 45 | [Drift Away](https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Invincible](https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf) | 3:55 |
 | 46 | [Freddie's Dead](https://open.spotify.com/track/7jmqTPoxOQsC2w9Cb6z78q) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Beautiful Brother \- The Essential](https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b) | 5:24 |

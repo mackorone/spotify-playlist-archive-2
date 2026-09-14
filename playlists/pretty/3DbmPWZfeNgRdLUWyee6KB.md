@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 143 songs - 8 hr 35 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 145 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 141 | [Respiro](https://open.spotify.com/track/2PdyOFzTq3LZH9WbUW9Of5) | [LuzAzuL](https://open.spotify.com/artist/0zQiZWTwq8iqanSdpFSi5I) | [Respiro](https://open.spotify.com/album/7nquKycYcxBhgYAb1TlcAd) | 3:22 |
 | 142 | [Noir et blanc](https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 4:01 |
 | 143 | [Bullshit Nation](https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Bullshit Nation](https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI) | 4:06 |
+| 144 | [Room Still Sways](https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I) | [Terry Kingsley](https://open.spotify.com/artist/2jeaDjgdXnEnbLYgwbzTFb) | [Room Still Sways](https://open.spotify.com/album/4hUdcExkmDYYVKnu6naqhx) | 3:42 |
+| 145 | [Penelope's Odyssey](https://open.spotify.com/track/3rWODST9yrefN5hexBeTmL) | [Freddy Zucchet](https://open.spotify.com/artist/6gTBRfFjIuOf3edwOrUl4m) | [Penelope's Odyssey](https://open.spotify.com/album/44P6xiwBVaBlvEfgvEJAPz) | 2:39 |
 
-Snapshot ID: `AAAXu49ullVDcHQquEjoIDzi6GTLTIMv`
+Snapshot ID: `AAAXvXBAyWDN4lMudY63Z06914vo96B3`

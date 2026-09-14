@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 146400,
       "name": "A$$AP",
       "url": "https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 156992,
       "name": "APROVEITAR",
       "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
@@ -20481,6 +20481,24 @@
     },
     {
       "album": {
+        "name": "Mou Leipeis",
+        "url": "https://open.spotify.com/album/0XdNttHRfSX645o1hivDcX"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Fevgo Gia Mena",
+      "url": "https://open.spotify.com/track/05vT4vR55Z3ToRQJf3KYCn"
+    },
+    {
+      "album": {
         "name": "Ki2d",
         "url": "https://open.spotify.com/album/4APMq2g1qGMZxkuHrgqO6q"
       },
@@ -21228,7 +21246,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 179717,
       "name": "Foveri",
       "url": "https://open.spotify.com/track/6mKIDcpm0TQOixG71Pyae0"
@@ -37080,7 +37098,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 151578,
       "name": "MENTALITE",
       "url": "https://open.spotify.com/track/7Hu9gyVn9kQShhBMHvxLBm"
@@ -44358,7 +44376,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 197250,
       "name": "Paidi Tis Nixtas",
       "url": "https://open.spotify.com/track/1pgHTgifpQN35pO1dWhJ9W"
@@ -57752,7 +57770,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 169485,
       "name": "THALASSA AKRIVI",
       "url": "https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6"
@@ -58148,7 +58166,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 259160,
       "name": "Thelo Na Gyriso (feat. Giorgos Mazonakis)",
       "url": "https://open.spotify.com/track/1qeTn4M8h8IJpyVz9mfJDK"

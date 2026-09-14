@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 15300,
+  "num_followers": 15337,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAABHyJwjfeK/4wf7NWdGDiQZ",
+  "snapshot_id": "aqSWAAAAAACWsXJ2XYqKwB/N+6n337EH",
   "tracks": [
     {
       "added_at": null,
@@ -355,30 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blippi's Party with Sesame Street",
-        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 138344,
-      "name": "The Excavator Song - Sesame Street Version",
-      "url": "https://open.spotify.com/track/08W9MfscnzsEuXDRVukBIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: What's the Number?",
         "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 136203,
       "name": "Old MacDonald Had a Farm",
       "url": "https://open.spotify.com/track/6w9nu3LpQlk1l55WTW4jRh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blippi's Party with Sesame Street",
+        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 138344,
+      "name": "The Excavator Song - Sesame Street Version",
+      "url": "https://open.spotify.com/track/08W9MfscnzsEuXDRVukBIN"
     },
     {
       "added_at": null,
@@ -475,6 +475,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 127651,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/7zTjB5Ir8H6oSxLkum5Hjl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sesame Street: Kids' Favorite Songs",
         "url": "https://open.spotify.com/album/6KsjfGFU2k0fJCQwgxQpJj"
       },
@@ -503,34 +531,6 @@
       "duration_ms": 175653,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/54t9jz56MMNym71swFh170"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Rosita",
-          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 127651,
-      "name": "If You're Happy and You Know It",
-      "url": "https://open.spotify.com/track/7zTjB5Ir8H6oSxLkum5Hjl"
     },
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesame Street: Kids' Favorite Songs",
-        "url": "https://open.spotify.com/album/6KsjfGFU2k0fJCQwgxQpJj"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Snuffleupagus",
-          "url": "https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 88306,
-      "name": "Row Row Row Your Boat",
-      "url": "https://open.spotify.com/track/6ypRf4n3EjiX9S1rTFTNeU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Dance",
         "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 88722,
       "name": "Elmo's Got the Moves",
       "url": "https://open.spotify.com/track/4icHZi7HYdg9pv3pvkYhZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: Kids' Favorite Songs",
+        "url": "https://open.spotify.com/album/6KsjfGFU2k0fJCQwgxQpJj"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Snuffleupagus",
+          "url": "https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 88306,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/6ypRf4n3EjiX9S1rTFTNeU"
     },
     {
       "added_at": null,
@@ -815,34 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cookie Shark",
-        "url": "https://open.spotify.com/album/6ABCXebowEL8SHkmuKAmen"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Cookie Monster",
-          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 129608,
-      "name": "Cookie Shark",
-      "url": "https://open.spotify.com/track/29RvZxAYYmEaNmno0d4htu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Party (From Elmo's World: Dance Party!)",
         "url": "https://open.spotify.com/album/6E0JYtPgQJ9u7NtcqBdTGn"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 84360,
       "name": "Dance Party (From Elmo's World: Dance Party!)",
       "url": "https://open.spotify.com/track/3s7S90hKK1bdKPHycWIaHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cookie Shark",
+        "url": "https://open.spotify.com/album/6ABCXebowEL8SHkmuKAmen"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 129608,
+      "name": "Cookie Shark",
+      "url": "https://open.spotify.com/track/29RvZxAYYmEaNmno0d4htu"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesame Street: Elmo's Dance Party",
+        "url": "https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 90373,
+      "name": "Happy Tappin' with Elmo",
+      "url": "https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Together",
         "url": "https://open.spotify.com/album/7MK2Ntzo9Di46dlqAZZ1p5"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 113394,
       "name": "Anyone Can Be Friends",
       "url": "https://open.spotify.com/track/4IcdH8njjKn75j9Dnrq5vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: Elmo's Dance Party",
-        "url": "https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 90373,
-      "name": "Happy Tappin' with Elmo",
-      "url": "https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1"
     },
     {
       "added_at": null,

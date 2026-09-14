@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > Selections by Bonobo\. "Distance in Static" out now\. / 国内外のオルタナティブダンスミュージック  Cover: Bonobo \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,621 likes - 52 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,687 likes - 52 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

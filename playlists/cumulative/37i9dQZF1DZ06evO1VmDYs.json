@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/54PZb3vuZg0wjTdKElQzHU"
+    },
+    {
+      "album": {
         "name": "C.E.O.",
         "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 174253,
       "name": "C.E.O.",
       "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 219560,
       "name": "Up In the Clouds",
       "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"

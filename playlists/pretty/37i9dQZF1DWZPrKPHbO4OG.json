@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39130,
+  "num_followers": 39148,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Chadhavila Patta Kamarevari (From \"Phulrani\")",
+        "url": "https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Barve",
+          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
+        },
+        {
+          "name": "Sharayu Date",
+          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
+        }
+      ],
+      "duration_ms": 248852,
+      "name": "Chadhavila Patta Kamarevari - From \"Phulrani\"",
+      "url": "https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Chadhavila Patta Kamarevari (From \"Phulrani\")",
-        "url": "https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz"
-      },
-      "artists": [
-        {
-          "name": "Priyanka Barve",
-          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
-        },
-        {
-          "name": "Sharayu Date",
-          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
-        }
-      ],
-      "duration_ms": 248852,
-      "name": "Chadhavila Patta Kamarevari - From \"Phulrani\"",
-      "url": "https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Punyachi Maina",
+        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Abhijeet",
+          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+        }
+      ],
+      "duration_ms": 96052,
+      "name": "Punyachi Maina",
+      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 216166,
       "name": "Aaichya Gavat",
       "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
     }
   ],
   "unique_name": "Marathi Workout",

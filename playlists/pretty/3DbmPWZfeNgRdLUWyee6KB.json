@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXu49ullVDcHQquEjoIDzi6GTLTIMv",
+  "snapshot_id": "AAAXvXBAyWDN4lMudY63Z06914vo96B3",
   "tracks": [
     {
       "added_at": "2026-09-04 07:33:13",
@@ -2363,6 +2363,38 @@
       "duration_ms": 246427,
       "name": "Bullshit Nation",
       "url": "https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj"
+    },
+    {
+      "added_at": "2026-09-13 21:23:29",
+      "album": {
+        "name": "Room Still Sways",
+        "url": "https://open.spotify.com/album/4hUdcExkmDYYVKnu6naqhx"
+      },
+      "artists": [
+        {
+          "name": "Terry Kingsley",
+          "url": "https://open.spotify.com/artist/2jeaDjgdXnEnbLYgwbzTFb"
+        }
+      ],
+      "duration_ms": 222062,
+      "name": "Room Still Sways",
+      "url": "https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I"
+    },
+    {
+      "added_at": "2026-09-13 21:23:38",
+      "album": {
+        "name": "Penelope's Odyssey",
+        "url": "https://open.spotify.com/album/44P6xiwBVaBlvEfgvEJAPz"
+      },
+      "artists": [
+        {
+          "name": "Freddy Zucchet",
+          "url": "https://open.spotify.com/artist/6gTBRfFjIuOf3edwOrUl4m"
+        }
+      ],
+      "duration_ms": 159492,
+      "name": "Penelope's Odyssey",
+      "url": "https://open.spotify.com/track/3rWODST9yrefN5hexBeTmL"
     }
   ],
   "unique_name": "New Indie Music",

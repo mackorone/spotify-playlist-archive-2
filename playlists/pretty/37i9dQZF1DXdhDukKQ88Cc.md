@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Merro8 på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,652 likes - 44 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,640 likes - 44 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

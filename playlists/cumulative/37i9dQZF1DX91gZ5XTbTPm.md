@@ -2,9 +2,9 @@
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: EST Gee
+> The Midwest is always on time\. Cover: BloodHound Q50
 
-1,686 songs - 3 day 4 hr 21 min
+1,687 songs - 3 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 | 2022-02-04 | 2022-03-26 |
 | [Donda Bag](https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Donda Bag](https://open.spotify.com/album/5QeuHVVKK7Y0lxmNX0OBuI) | 3:08 | 2023-07-07 | 2023-11-11 |
 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 | 2024-09-20 | 2024-10-05 |
+| [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/track/1AqbuGVPrXCw6AyKMwcQ4m) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Long Live My Brudda He Prolly Kilt Yo Brudda](https://open.spotify.com/album/1JWtOpOnkGCHoYRYnLaBQ3) | 1:41 | 2026-09-13 |  |
 | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj) | 1:41 | 2025-01-10 | 2025-04-05 |
 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 | 2021-12-10 | 2022-03-18 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 | 2023-06-23 | 2023-09-30 |

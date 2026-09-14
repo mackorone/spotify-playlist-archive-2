@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34705,
+  "num_followers": 34703,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "SET",
         "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 180173,
       "name": "Touch\u00e9 (Feat. MOON)",
       "url": "https://open.spotify.com/track/3byyICTPVU79WZQj6H6m8w"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "What if we met at another place ?",
-        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "What if we met at another place ?",
-      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
       "added_at": "2026-09-03 07:18:48",

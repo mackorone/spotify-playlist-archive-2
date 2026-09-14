@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 
 > Los grandes hits y los sonidos emergentes de la música electrónica latina están aquí\. Foto: Nanpa Básico, Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,497 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,484 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain]
 | 69 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 |
 | 70 | [On Repeat](https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [On Repeat](https://open.spotify.com/album/4shvqvbwtI2KQQyw3T9aK2) | 3:10 |
 
-Snapshot ID: `AAAAAJxURp6qglv2s84d8fRqkIGDKl1C`
+Snapshot ID: `AAAAAMtSPmEZ4ntBug55frYwfJDBd5mE`

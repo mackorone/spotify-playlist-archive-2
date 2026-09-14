@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26681,
+  "num_followers": 26680,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "MMG",
         "url": "https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Ristiriita",
-        "url": "https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb"
-      },
-      "artists": [
-        {
-          "name": "kukkatalo",
-          "url": "https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Uudestaan",
-      "url": "https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Tuolta se nyt k\u00e4velee",
         "url": "https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 203602,
       "name": "Tuolta se nyt k\u00e4velee",
       "url": "https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Ristiriita",
+        "url": "https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb"
+      },
+      "artists": [
+        {
+          "name": "kukkatalo",
+          "url": "https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Uudestaan",
+      "url": "https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Shinola",
-        "url": "https://open.spotify.com/album/7FRxZI6MPRqy66KUjw3KOK"
+        "name": "Chasing the Flame",
+        "url": "https://open.spotify.com/album/13BCjXlmjCjOzvXQZDOywd"
       },
       "artists": [
         {
-          "name": "Michael Monroe",
-          "url": "https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ"
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        },
+        {
+          "name": "Veera Syr\u00e9n",
+          "url": "https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI"
         }
       ],
-      "duration_ms": 163881,
-      "name": "Shinola",
-      "url": "https://open.spotify.com/track/3tJ7DnD7488H5g1EzIqe4T"
+      "duration_ms": 186921,
+      "name": "Chasing the Flame",
+      "url": "https://open.spotify.com/track/5lXA6WnXiAnSpMy0J8oV9m"
     }
   ],
   "unique_name": "Ensisoitossa",

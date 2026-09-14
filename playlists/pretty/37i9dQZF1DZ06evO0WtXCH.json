@@ -1,12 +1,12 @@
 {
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
-  "num_followers": 1844,
+  "num_followers": 1845,
   "original_name": "This Is Quicksand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAAAge12paYwcqYp/n0+dX2Rv",
+  "snapshot_id": "aqSWAAAAAAChT1y9K74MRjfxk739dHHF",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 175800,
-      "name": "Regenerate",
-      "url": "https://open.spotify.com/track/4t71rEXChK7qThGHZvHgqv"
+      "duration_ms": 158000,
+      "name": "Agency",
+      "url": "https://open.spotify.com/track/6yYfvf1VSPV4GT2Ak06ads"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Agency",
-      "url": "https://open.spotify.com/track/6yYfvf1VSPV4GT2Ak06ads"
+      "duration_ms": 175800,
+      "name": "Regenerate",
+      "url": "https://open.spotify.com/track/4t71rEXChK7qThGHZvHgqv"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 103421,
-      "name": "Backward",
-      "url": "https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg"
+      "duration_ms": 155066,
+      "name": "Simpleton",
+      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triptych Continuum",
-        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 206130,
-      "name": "Multiverse",
-      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 206130,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Simpleton",
-      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+      "duration_ms": 103421,
+      "name": "Backward",
+      "url": "https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg"
     },
     {
       "added_at": null,

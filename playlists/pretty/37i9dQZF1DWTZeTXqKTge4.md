@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: FILOU, LeDji
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,627 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,626 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 43 | [Flash](https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Flash](https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW) | 3:47 |
 | 44 | [Voyou, Désolé](https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [PRINCE](https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4) | 2:47 |
 | 45 | [TOUT CE QU'ON FAIT](https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 2:48 |
-| 46 | [Le cœur à la bonne place](https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Le cœur à la bonne place](https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP) | 3:32 |
-| 47 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
+| 46 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
+| 47 | [Le cœur à la bonne place](https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Le cœur à la bonne place](https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP) | 3:32 |
 | 48 | [Shot Kalla](https://open.spotify.com/track/4hIZZSZx5PJQsiIUjhNTPR) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [GAMAN](https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe) | 2:32 |
-| 49 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
+| 49 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
 | 50 | [Rien ne sera plus comme avant](https://open.spotify.com/track/21UfzFtNns7DkUXDDEPrz1) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [MONSTRE](https://open.spotify.com/album/0SdhloC5gFCmLUSONOTBq3) | 3:13 |
 | 51 | [Picky](https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [FREE MOI](https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ) | 2:38 |
 | 52 | [Cayo Perico](https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:30 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 67 | [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 |
 | 68 | [COLLIMATEUR](https://open.spotify.com/track/4yGqDjNNSjd92grWAtTCnA) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [COLLIMATEUR](https://open.spotify.com/album/048FdJYYn7Q6jSq09pRBn4) | 2:53 |
 | 69 | [BASSE COUTURE](https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [BASSE COUTURE](https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc) | 2:51 |
-| 70 | [Au final](https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [Au final](https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r) | 3:15 |
-| 71 | [Némésis](https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr) | [Lascar](https://open.spotify.com/artist/4FzKLdBoUYXNK8BBmsAkyD), [Fragouler](https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO), [Warlock](https://open.spotify.com/artist/4L1mxYE147cEXT8CUruxW5) | [Némésis](https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz) | 4:06 |
-| 72 | [Big Wop](https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 1:36 |
-| 73 | [Vraiment](https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX) | [Monsi](https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002) | [Vraiment](https://open.spotify.com/album/3TBaJSjuMMVwD9JnmlWYYz) | 2:33 |
-| 74 | [AMBITION](https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [Chil\-p](https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK) | [AMBITION](https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3) | 2:42 |
+| 70 | [Némésis](https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr) | [Lascar](https://open.spotify.com/artist/4FzKLdBoUYXNK8BBmsAkyD), [Fragouler](https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO), [Warlock](https://open.spotify.com/artist/4L1mxYE147cEXT8CUruxW5) | [Némésis](https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz) | 4:06 |
+| 71 | [BORA BORA](https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [BORA BORA](https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw) | 2:33 |
+| 72 | [Au final](https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [Au final](https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r) | 3:15 |
+| 73 | [Big Wop](https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 1:36 |
+| 74 | [Vraiment](https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX) | [Monsi](https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002) | [Vraiment](https://open.spotify.com/album/3TBaJSjuMMVwD9JnmlWYYz) | 2:33 |
 | 75 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 |
 
 Snapshot ID: `AAAAAC5zTtm0/FbHmrpUGnDHNd6Am5RR`

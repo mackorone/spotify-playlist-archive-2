@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1465011,
+  "num_followers": 1464944,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 269474,
-      "name": "ADAM & EVE - Instrumental",
-      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1211,6 +1211,46 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "pastels",
         "url": "https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG"
       },
@@ -1259,46 +1299,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "Sakura Bloom",
         "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1347,22 +1363,6 @@
       "duration_ms": 158197,
       "name": "michi",
       "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-08-30 05:37:31",

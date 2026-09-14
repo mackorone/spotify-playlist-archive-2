@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 200043,
+  "num_followers": 200124,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAADMmkZnctGAyUGJ/ILTptY9",
+  "snapshot_id": "aqSWAAAAAADdsNjlpLbChej1DIr+DcU5",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188197,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho 43",
         "url": "https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 227184,
       "name": "El Pocho 43",
       "url": "https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188197,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 238780,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 147609,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
+      "duration_ms": 238780,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
     },
     {
       "added_at": null,

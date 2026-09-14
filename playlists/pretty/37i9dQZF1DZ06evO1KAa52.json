@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 670922,
+  "num_followers": 670971,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAABh/T1cz8K66/a7eX/P5JW5",
+  "snapshot_id": "aqSWAAAAAADp97sfehjfnXDXxqQAT9vR",
   "tracks": [
     {
       "added_at": null,
@@ -1071,22 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 287938,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Thought It Was",
         "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
       },
@@ -1103,8 +1087,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
       "artists": [
         {
@@ -1112,9 +1096,29 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 331133,
-      "name": "Drink You Away",
-      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
+      "duration_ms": 287938,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 243036,
+      "name": "Morning Light (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

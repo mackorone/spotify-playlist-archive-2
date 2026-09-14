@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v"
+      },
+      "artists": [
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155150,
+      "name": "DEPRE INNECESARIA",
+      "url": "https://open.spotify.com/track/5kMeGTrytSLltpc2p2MBbV"
+    },
+    {
+      "album": {
         "name": "Doble T",
         "url": "https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs"
       },

@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Olivier Couture
 
-607 songs - 1 day 9 hr 56 min
+608 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Let 'Em Go](https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Let 'Em Go](https://open.spotify.com/album/5U1w2GkChTUowyfhnXMwEF) | 3:19 | 2025-12-05 | 2026-03-14 |
 | [Limousine](https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Limousine](https://open.spotify.com/album/1LK10U5eEFMAaqbxX22ied) | 3:07 | 2025-01-10 | 2025-10-18 |
 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 | 2026-08-14 |  |
+| [Losing at Life](https://open.spotify.com/track/5eNvFQipAM17w7fVD7ZKcY) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Losing at Life](https://open.spotify.com/album/2kLurua2JzVvVrfV3Z0daT) | 3:08 | 2026-09-11 |  |
 | [Love Myself](https://open.spotify.com/track/7bUXdx8McOz7cROvYqSPnF) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Love Myself](https://open.spotify.com/album/4SmotZ4pS0lVLpwn8cXF0K) | 2:13 | 2025-12-05 | 2026-04-18 |
 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 | 2024-08-17 |
 | [Là\-Haut](https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Là\-Haut](https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP) | 2:42 | 2025-09-12 | 2025-12-06 |
@@ -554,7 +555,7 @@
 | [Tour à tour](https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Tour à tour](https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU) | 4:04 | 2026-06-19 | 2026-08-05 |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-06-28 | 2025-02-22 |
 | [Tout ce que je dis](https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Tout ce que je dis](https://open.spotify.com/album/2zGxfVNGP1MoPkzHK1g4DH) | 3:02 | 2025-01-17 | 2025-10-03 |
-| [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 | 2026-05-22 |  |
+| [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 | 2026-05-22 | 2026-09-14 |
 | [tout ce qui m'arrive](https://open.spotify.com/track/3j2RLn7aiBYVW6j5zXtG1l) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [J’ÉCRIS LES PROBLÈMES QU’ON EST EN TRAIN DE LAISSER À NOS ENFANTS](https://open.spotify.com/album/3LL6RAPzfh8HwSYu8Xbgvv) | 2:18 | 2026-05-08 |  |
 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 | 2026-03-27 | 2026-08-28 |
 | [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-08-30 | 2025-10-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 71173,
+  "num_followers": 71203,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqNEgAAAAADGZIxi5zRh1kjh9McfKv2h",
+  "snapshot_id": "aqSWAAAAAAC/u5josVNCstSK5GeXHoMW",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let 'Em Know",
+        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "Let 'Em Know",
+      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 230582,
+      "name": "Bounty On My Head",
+      "url": "https://open.spotify.com/track/0KHWylywC34zjby9xGf1i4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -543,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
@@ -552,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 230582,
-      "name": "Bounty On My Head",
-      "url": "https://open.spotify.com/track/0KHWylywC34zjby9xGf1i4"
+      "duration_ms": 154897,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
     },
     {
       "added_at": null,
@@ -579,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
         {
@@ -588,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8"
+      "duration_ms": 145321,
+      "name": "Chrome - Bonus",
+      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,
@@ -615,38 +647,6 @@
       "duration_ms": 158477,
       "name": "SPAGHETTII",
       "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let 'Em Know",
-        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "Let 'Em Know",
-      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Chrome - Bonus",
-      "url": "https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "Lonely (with Shaboozey)",
-      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 164616,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "Lonely (with Shaboozey)",
+      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
     },
     {
       "added_at": null,

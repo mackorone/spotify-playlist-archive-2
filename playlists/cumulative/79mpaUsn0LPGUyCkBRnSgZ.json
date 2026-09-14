@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 425360,
       "name": "All Ashore",
       "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 184209,
       "name": "Chandler",
       "url": "https://open.spotify.com/track/3PzVrpdkB6Ql5Az5spffJm"
@@ -5714,6 +5714,24 @@
       "duration_ms": 215992,
       "name": "endless",
       "url": "https://open.spotify.com/track/0WxgcCdTvtOrAqfSDzBcDB"
+    },
+    {
+      "album": {
+        "name": "MY SKYSCRAPER",
+        "url": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206579,
+      "name": "ENGLISH PARTY",
+      "url": "https://open.spotify.com/track/70hWEnSlRAI5ibDlB8LI8Q"
     },
     {
       "album": {
@@ -8069,6 +8087,24 @@
     },
     {
       "album": {
+        "name": "Born Again In The USA",
+        "url": "https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs"
+      },
+      "artists": [
+        {
+          "name": "Loose Fur",
+          "url": "https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Hey Chicken",
+      "url": "https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV"
+    },
+    {
+      "album": {
         "name": "People in the Sun",
         "url": "https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1"
       },
@@ -9712,7 +9748,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 76787,
       "name": "intro",
       "url": "https://open.spotify.com/track/1AGDAMGqgphzVwaK606wvx"
@@ -10266,7 +10302,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 219219,
       "name": "Joy Peace Love",
       "url": "https://open.spotify.com/track/3h90xrOdXjyFn5SUpxigvR"
@@ -10806,7 +10842,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 438040,
       "name": "Laminated Cat",
       "url": "https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7"
@@ -16932,7 +16968,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 221456,
       "name": "Silent Exchange",
       "url": "https://open.spotify.com/track/5CywEBmK1gLCWb8V5NhS0p"
@@ -20934,7 +20970,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-14",
       "duration_ms": 299266,
       "name": "Undesigned",
       "url": "https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H"

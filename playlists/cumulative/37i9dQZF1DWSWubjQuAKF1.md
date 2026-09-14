@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Lotta
 
-975 songs - 1 day 23 hr 36 min
+976 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Jeśli ma się skończyć świat](https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Jeśli ma się skończyć świat](https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj) | 3:16 | 2025-07-10 | 2025-11-12 |
 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 | 2026-07-16 |  |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-05-23 |
+| [just a girl](https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8) | [Manya](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [just a girl](https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw) | 2:46 | 2026-09-10 |  |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
 | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 | 2026-08-11 |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
@@ -532,7 +533,7 @@
 | [Nie ma takich miast](https://open.spotify.com/track/4BMr5WZHUm7HjuqilsPfk1) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Nie ma takich miast](https://open.spotify.com/album/6qKYgcue6wD2FJUc2Cou2U) | 2:55 | 2025-04-24 | 2025-05-02 |
 | [Nie możesz teraz odejść](https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [Nie możesz teraz odejść](https://open.spotify.com/album/6A5gCbv9wOQ3cvsvBdRUBY) | 3:20 | 2026-02-12 | 2026-02-20 |
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2025-01-24 |
-| [Nie Odmówię](https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Nie Odmówię](https://open.spotify.com/album/421yEu8kSaOoLGLyhVaLqX) | 2:13 | 2026-09-03 |  |
+| [Nie Odmówię](https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Nie Odmówię](https://open.spotify.com/album/421yEu8kSaOoLGLyhVaLqX) | 2:13 | 2026-09-03 | 2026-09-14 |
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-09-23 | 2026-02-13 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-21 | 2025-01-24 |
 | [Nie płacz za mną zbyt często!](https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Nie płacz za mną zbyt często!](https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me) | 3:07 | 2025-08-26 | 2026-02-20 |
